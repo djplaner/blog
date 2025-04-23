@@ -1,0 +1,131 @@
+
+site_name: "David Jones' weblog"
+site_url: https://djon.es/blog2/
+repo_url: https://github.com/djplaner/blog
+site_author: "David Jones"
+site_dir: ../memex_site # stick HTML outside main repo
+use_directory_urls: false
+
+theme:
+  name: material
+  #  favicon: attachment/portrait.png
+  #favicon: assets/memex.png
+  #logo: assets/spider_web.png
+  palette:
+  - scheme: collections
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  custom_dir: .overrides
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.tracking
+    - content.tabs.links
+    - navigation.expand 
+    - navigation.path
+    - navigation.indexes
+    - navigation.footer
+    - navigation.sections
+#    - toc.follow
+#    - toc.integrate
+    - header.autohide
+    - search.suggest
+markdown_extensions: 
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid 
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - toc:
+      permalink: '#' # heading anchor 
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - footnotes
+  - meta
+  - def_list
+#  - pymdownx.arithmatex:thinking: 
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+plugins:
+  - search
+  - glightbox
+  - mkdocs-video
+  - mkdocs-pdf
+  - gen-files:
+      scripts:
+        - generators/blog.py ## TODO generate dynamically generated blogs
+  - macros:
+  - roamlinks 
+  - exclude:
+      glob:
+        - "*.tmp"
+        - "*.pdf"
+        - "*.gz"
+      regex:
+        - '.*\.(tmp|bin|tar)$'
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+  - icon: fontawesome/brands/mastodon
+    link: https://indieweb.social/@djplaner
+  - icon: fontawesome/brands/github
+    link: https://github.com/djplaner
+
+# Specify navigation structure
+nav:
+  - Home: blog-home.md
+  - About: about.md
+  - Pages: pages.md
+  - Posts: posts.md
+# Further examples
+#  - Wood Duck Meadows: sense/landscape-garden/
+#  - Plants: sense/landscape-garden/plants/plants.md
+#  - Birding: sense/birdwatching/birding.md
+#  - PKM:
+#    - PKM: pkm.md
+#    - Seek: seek/seek.md
+#    - Sense: sense/sense.md
+#    - Share: share/share.md
+
+validation:
+  nav:
+    omitted_files: ignore
+  links: 
+    absolute_links: ignore
+
+
+# Specify files to exclude from navigation checks
+#not_in_nav: |
+#  sense/*
+#  share/*
+#  blog/publications/*

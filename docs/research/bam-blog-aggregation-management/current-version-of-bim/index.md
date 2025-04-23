@@ -1,0 +1,315 @@
+---
+title: Current version of BIM
+date: 2010-02-15 11:37:25+10:00
+type: page
+template: blog-post.html
+comments:
+    []
+    
+pingbacks:
+    - approved: '1'
+      author: BIM 1.0alpha is released &laquo; The Weblog of (a) David Jones
+      author_email: null
+      author_ip: 72.233.69.92
+      author_url: https://djon.es/blog/2010/02/15/bim-1-0alpha-is-released/
+      content: '[...] the release of version 1.0 alpha of BIM. You can see the code and
+        what passes for documentation on this page. The main BIM page gives more background
+        on the rationale and design of [...]'
+      date: '2010-02-15 15:13:31'
+      date_gmt: '2010-02-15 05:13:31'
+      id: '2934'
+      parent: '0'
+      type: pingback
+      user_id: '0'
+    - approved: '1'
+      author: En analys av IKT i undervisningen &laquo; Fredriks blogg
+      author_email: null
+      author_ip: 72.232.7.94
+      author_url: http://frekar12.wordpress.com/2012/10/13/en-analys-av-ikt-i-undervisningen/
+      content: "[...] bloggar kan g\xF6ra detta utan att l\xE4raren f\xE5r ett alltf\xF6\
+        r stort arbete via en modul som heter Bim. Bim inneb\xE4r att eleverna kan registrera\
+        \ sina externa bloggar i Moodle och sedan ser Moodle till [...]"
+      date: '2012-10-14 04:46:01'
+      date_gmt: '2012-10-13 18:46:01'
+      id: '2935'
+      parent: '0'
+      type: pingback
+      user_id: '0'
+    - approved: '1'
+      author: '#Moodlepedagogik i #skolan | Fredriks blogg'
+      author_email: null
+      author_ip: 72.232.7.105
+      author_url: http://frekar12.wordpress.com/2013/01/02/moodlepedagogik-i-skolan/
+      content: "[...] f\xF6r de som finns internt i Moodle s\xE5 funkar detta bra. L\xE4\
+        raren s\xE4tter upp en modul som heter Bim. Bim inneb\xE4r att eleven kan registrera\
+        \ sin externa blogg i Moodle och d\xE4refter speglas elevens [...]"
+      date: '2013-01-03 01:29:00'
+      date_gmt: '2013-01-02 15:29:00'
+      id: '2936'
+      parent: '0'
+      type: pingback
+      user_id: '0'
+    - approved: '1'
+      author: moodlepedagogik
+      author_email: null
+      author_ip: 66.155.9.55
+      author_url: http://moodlepedagogik.wordpress.com/2013/01/02/39/
+      content: "[...] f\xF6r de som finns internt i Moodle s\xE5 funkar detta bra. L\xE4\
+        raren s\xE4tter upp en modul som\_heter Bim. Bim inneb\xE4r att eleven kan registrera\
+        \ sin externa blogg i Moodle och d\xE4refter speglas elevens [...]"
+      date: '2013-01-03 01:32:16'
+      date_gmt: '2013-01-02 15:32:16'
+      id: '2937'
+      parent: '0'
+      type: pingback
+      user_id: '0'
+    
+---
+
+See also: [[blog-home | Home]]
+
+BIM is an activity module for [Moodle](http://moodle.org/) that helps teachers manage and mark student use of personal feeds (produced by blogs, twitter, whatever). See the [main BIM page](/blog2/research/bam-blog-aggregation-management/) for more information.
+
+Below you should find how to access the code and some initial documentation for BIM. (Eventually this will/may be moved to the main Moodle site when/if BIM is [contributed](http://docs.moodle.org/en/Development:contrib).
+
+## The code
+
+The most up to date version of BIM is available from [github](http://github.com/djplaner/BIM). To download a copy to your site, click on the "Download Source" button.
+
+BIM is currently being used at CQUniversity and University of Canberra.
+
+## The documentation
+
+> **DISCLAIMER:** The following documentation is intended primarily for technical folk at Netspot who will be evaluating the BIM code real soon now. Documentation and other resources aimed for use by students and teachers, will be available in the next week or so.
+
+Currently there are three main sections to the documentation on this page:
+
+1. What does BIM do?;  
+    A general overview of what BIM allows you to do.
+2. Installing BIM  
+    Basic steps about how to install and get going with BIM.
+3. Using BIM; and  
+    Simple overview of how to use BIM.
+4. Understanding BIM technically.
+
+Other online resources include:
+
+- A [set of slides](http://www.slideshare.net/davidj/introducing-bim) used to introduce BIM to the technical support staff looking after BIM this term.
+- A small and growing number of screencasts for users on how to use BIM including
+    - Students - [how to register a blog](http://www.vimeo.com/9485308)
+    - Markers - [how to mark posts](http://www.vimeo.com/9611439)
+
+### What does BIM do?
+
+There are two ways to describe what BIM does: a concrete and an abstract description.
+
+#### Abstract description
+
+BIM stands for BAM into Moodle. BAM stands for Blog Aggregation Management. BAM was a system integrated into [CQUniversity's](http://www.cqu.edu.au/) e-learning systems. In 2010, CQUni is moving to Moodle. BIM is a translation of BAM into Moodle.
+
+BIM is a Moodle module that supports an activity where:
+
+Each student registers an individual external web feed.  
+The feed might be generated by a blog, twitter or any other tool that produces a web feed. It's the student's choice what they use.- Each student uses that external feed to respond to a set of questions.  
+    Currently, those questions usually encourage the student in reflecting on their learning, often in the form of a reflective journal. However, there is no need to have a set of questions.
+- BIM mantains a copy of the posts that appear in the students' web feed, and attempts to automatically allocate student posts to the questions.
+- Different teachers track, manage and mark posts for different groups of students.
+- A coordinating teacher allocates teaching staff to different groups, tracks their marking progress and the progress/activity of all students.
+- The overall mark students receive, can be sent to the Moodle gradebook.
+
+#### Concrete description
+
+BIM - starting life as BAM at CQUniversity - arose because a course had a problem and BAM was the solution.
+
+**The course** was offered 3 times a year; usually with 100+ students in each offering; taught by 10+ staff; distributed across multiple campuses and distance education; and had issues with large failure rates, significant levels of plagiarism, limited quality and quantity of feedback to student progress, and little or knowledge of how students were going.
+
+**The problem** was that one assignment required students to maintain a reflective journal of their learning experience. The assignment was worth 10% of the final mark and students were given a series of questions to guide their reflection. The assignment was submitted at the end of term as a Word document.
+
+Students treated the assignment as a creative writing exercise to be commenced just before the submission date. There were problems with plagiarism and staff could not give feedback to students.
+
+**The solution** was to move the student reflective journals from a Word document to a personal web blog. The aim was that the students could be visibly seen contributing to (or not) their reflective journal during the term. The teaching staff could look at these contributions and give feedback. The hope was to increase ownership and visibility of the task. To increase student engagement.
+
+With 100s students and 10s of staff, a tool was needed to manage the process. That tool was BAM. BIM is a translation of BAM into Moodle with some improvements.
+
+By late 2009, use of BAM at CQUniversity included:
+
+- 26 offerings of 7 different courses.
+- 2790+ students.
+- 20,000+ blog posts.
+
+This concrete example of BAM is described further in [this paper](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/)
+
+### Installing BIM
+
+You install BIM into your Moodle instance using the standard process:
+
+1. Unpack the archive from github into the mod directory of your moodle installation.
+2. Re-name the directory github created (e.g. djplaner-BIM-36784f5) to bim
+3. Login to your Moodle site as administrator
+4. Click on Notifications
+5. Moodle should install BIM
+
+At this stage, you should be able to add BIM activities just like you would any other activity. i.e. when you click on the "Add an activity.." drop box (when "editing" is turned on) you should see [something like this](http://www.flickr.com/photos/david_jones/4358383990/).
+
+When you have added your activity, your course should show something [like this](http://www.flickr.com/photos/david_jones/4358465626/).
+
+Theoretically, you may be able to get going with BIM from there. BIM includes some documentation within the module, but you may wish to read more below.
+
+### Using BIM
+
+BIM allocates to all users one of three capabilities. Which capability a user is assigned governs what they can do with BIM. The following table summarises the three capabilities, the Moodle roles automatically assigned the capability and what each capability allows the user to do.
+
+| Capability | Moodle role | What they can do |
+| --- | --- | --- |
+| Coordinator | editingteacher   coursecreator   administrator | Configure the activity, manage questions, allocate markers to groups of student, view marking progress of all markers, release marked posts, mark posts. |
+| Marker | teacher | View details and mark posts for an allocated group of students. |
+| Student | student | Register a feed and view details about what BIM knows about the feed, its posts and any marks. |
+
+When you use BIM, what you can do, depends on what type of capability you have. The following list of tasks you can do with BIM are divided into those capabilities (and mirror what's in the table above):
+
+- Student
+    - [Register a feed.](http://www.flickr.com/photos/david_jones/4358465800/in/photostream/)  
+        When a student first clicks on a BIM activity, they will not have a registered feed. BIM will show the [feed registration page](http://www.flickr.com/photos/david_jones/4358465800/in/photostream/). The first part of the description on this page is the description entered by the coordinator when they configure this BIM activity.
+        
+        At this stage the student has to enter the URL for the blog or feed. BIM will perform checks and [report errors](http://www.flickr.com/photos/david_jones/4358465886/in/photostream/). Once successfully registered, BIM will [show details](http://www.flickr.com/photos/david_jones/4357719797/) about the student's blog/feed, including a success message.
+        
+    - [View details](http://www.flickr.com/photos/david_jones/4358466204/).  
+        After registration, any subsequent visits to the BIM activity will show the details of the student's blog, posts and any marking. As the student's posts are created, allocated, marked and released the details on this page will change. When posts are released, students will be able to see the marks and comments by the markers on this page.
+- Marker
+    - [View student details.](http://www.flickr.com/photos/david_jones/4358506932/)  
+        Provides an overview of the markers' students. Including whether or not they have registered, links to email students, to register blogs and to see how long since they last posted. The page is more useful when [there are registered students](http://www.flickr.com/photos/david_jones/4357761373/in/photostream/).
+        
+    - [Mark students posts.](http://www.flickr.com/photos/david_jones/4358506994/)  
+        Show's details of the markers students in a way that supports the marking of posts. When there are no students registered yet, this can be a [fairly empty page](http://www.flickr.com/photos/david_jones/4358506994/). However, when students have registered, [it is much more interesting](http://www.flickr.com/photos/david_jones/4358507212/in/photostream/).
+    - [Mark a single post.](http://www.flickr.com/photos/david_jones/4357761569/in/photostream/)  
+        Markers come to this page from the "Mark student posts" page. This page allows the marker to: comment, award a numeric mark, suspend and re-allocate an individual post to another question.
+    - [Allocate posts.](http://www.flickr.com/photos/david_jones/4357761507/in/photostream/)  
+        Also accessed via the "Mark student posts" page, this page shows all of the posts from a single student. Normally, BIM tries to automatically allocate student posts to a question, but it sometimes fails. This page allows the marker to manually allocate posts to a question.
+- Coordinator
+    - [Create/Configure BIM.](http://www.flickr.com/photos/david_jones/4358402206/)  
+        Where you provide the name and description of the activity. As well as choosing whether or not students can register their feed, whether the students posts are being copied/mirrored by BIM and whether the results of this activity will be added to the gradebook.
+        
+        There are two parts to this task: [traditional Moodle activity configuration page](http://www.flickr.com/photos/david_jones/4358402206/) and another that allows the coordinator to [view the configuration](http://www.flickr.com/photos/david_jones/4358402298/).
+        
+    
+    - [Manage questions](http://www.flickr.com/photos/david_jones/4357656599/)  
+        Where you add, modify and delete the list of questions the students should respond to by making posts to their feed.
+        
+        Each question has a title, description and a minimum and maximum mark. [This image](http://www.flickr.com/photos/david_jones/4358438326/) shows the manage questions page with an existing question.
+        
+    
+    - [Allocate markers.](http://www.flickr.com/photos/david_jones/4358402434/)  
+        Where you configure which groups of students each marker will be responsible for. You have to use standard Moodle tools to create the groups and add the markers. This page is used to connect markers to groups just for a particular BIM activity.
+    
+    - [Manage marking](http://www.flickr.com/photos/david_jones/4357656751/).  
+        Where you can view the marking progress of each of the markers. The [initial image](http://www.flickr.com/photos/david_jones/4357656751/) shows a simple version of this page when there are no markers allocated.
+        
+        This page is most useful when there are markers allocated and questions added to the activity. For example, [in this image](http://www.flickr.com/photos/david_jones/4357692033/) you can see how each marker's progress is shown against each question (titled "Week 2" and "Week 4").
+        
+    
+    - [Find students](http://www.flickr.com/photos/david_jones/4357656867/).  
+        Allows you to search for the details of a specific student by entering part of their username, name or email address.
+    
+    - [Mark a group of students](http://www.flickr.com/photos/david_jones/4357656929/).  
+        Allows a coordinator to mark any students they have been allocated to.
+    
+
+### Understanding BIM technically
+
+In late 2009 when the development of BIM commenced, I knew nothing of Moodle development. I now know a bit more, however, it's still patchy and some of the sections of the BIM code - especially those written earlier - are a bit rougher than others.
+
+#### Structure of the code
+
+Apart from the standard Moodle activity module directories and files (lang, db, mod\_form.php, version.php etc.) the BIM code is divided up as follows (all paths below assume you are in the bim directory):
+
+- view.php - the standard PHP script run when visiting an activity. In BIM this script:
+    - Get's information about the course module, activity instance.
+    - requires a login
+    - Determines which capability the user has (student, marker or coordinator) and then passes execution to one of "show\_coordinator", "show\_student" or "show\_marker" (described below)
+lib - contains a range of support functions/libraries. Includes a copy of the [SimplePie](http://simplepie.org/) PHP syndication class/library. SimplePie is used to handle the registration, caching and parsing of student feeds. The other files in this directory are:
+
+- bim\_rss.php - most of the functions for manipulating and processing student feeds.
+- groups.php - functions for managing groups of students and their markers.
+- locallib.php - a collection of other functions.
+
+- student - contains all of the code used to implement the core student services. Contents include:
+    - view.php - collection of functions to implement student functionality. Starts with "show\_student" which acts as a case statement
+        - If no registered feed for this student, show the register form and process it.
+        - If there is a registered feed, show details of the feed.
+    - register\_form.php - defines the form used by students to register their feed.
+- marker - implement pages for the marker. Contains
+    - view.php - starts with "show\_marker" which is case statement, based on a parameter in the URL called "screen", if screen equals
+        - ShowDetails - [show student details](http://www.flickr.com/photos/david_jones/4357761373/in/photostream/)
+        - AllocatePosts - [manually allocate student posts](http://www.flickr.com/photos/david_jones/4357761507/)
+        - MarkPost - [mark a single post](http://www.flickr.com/photos/david_jones/4357761569/)
+        - changeBlogRegistration - allow marker to register a new blog for a student.
+        - showQuestions - show a list of the questions to the marker.
+    - lib.php - support functions specific to the marker tasks
+    - allocation\_form.php - form for allocate posts
+    - change\_blog\_form.php - form for changing blog
+    - marking\_form.php - form for marking a post
+- coordinator - implement pages for the coordinator. Contains
+    - view.php - implements show\_coordinator, the big case statement. A little more complex than that for marker because the coordinator has their own set of tasks (specified using the URL parameter **tab**) **as well as** being able to call the basic marking tasks of the coordinator (URL parameter **screen**). Further complication arises because one of the activities has 3 sub-parts (parameter **op**)
+        
+        If "tab" is equal to one of config - configure BIM, markers - manage markers, questions - manage questions, or find - find student. Then the appropriate function is called.
+        
+        If tab = "manage" then there are 3 functions that might be called, which one is based on the value of **op**: op is nothing - then straight manage marking screen; op is "release" then we want to release a list of posts; op is "view" we want to drill down and see some details of students.
+        
+        If tab is details, then the coordinator gets to perform the tasks outlined for a marker (see above).
+        
+    - manage\_questions.php - functions to manage the questions
+    - question\_form.php - the form for managing questions
+    - allocate\_markers.php - functions for allocating markers
+    - marker\_allocation\_form.php - the form
+    - manage\_marking.php - functions to manage marking (no form)
+    - find\_student.php - functions to find a studnet
+    - find\_student\_form.php - the form
+
+#### Structure of the database
+
+BIM adds 5 tables to the moodle database:
+
+- bim - holds configuration information
+- bim\_questions - the list of questions associated with each bim
+- bim\_group\_allocation - the list of groups a marker has been allocated to for each bim activity
+- bim\_student\_feeds - detail about which feeds each student has registered for each bim
+- bim\_marking - holds a copy of all posts made to the student feeds and also the marking information (mark, comments, marker etc.)
+    
+    **STATES:** A student post can be in one of 5 states represented by the "status" field in bim\_marking. The 5 states are:
+    
+    - Unallocated - the post has been copied, but it wasn't allocated to a question.
+    - Submitted - the post has been allocated to a question, but not marked.
+    - Marked - the post has been marked, but not released to the student.
+    - Suspended - the post cannot be released to the student.
+    - Released - the post has been released to the student who can see the details of marks and comments.
+
+#### Use of the file system
+
+BIM, through the use of SimplePie, will keep a cache of each student's feed in a directory on the file system. The directory path is
+
+> _$CFG->dataroot_/_CourseID_/moddata/_BIM ID_
+
+#### Processing of student feeds
+
+Student feeds (RSS, ATOM, whatever is supported by SimplePie) are cached locally and processed. The processing will:
+
+- Attempt to allocate new posts to one of the set questions; and
+- Examine existing posts to see if they can be allocated.
+
+Currently, allocation occurs only if the post title contains the entirety of the question title (case insensitive and white space characters in the question title can match any character) - e.g. if the question title = **Week 5** then a post with the title **My week 5 post** will be matched.
+
+This processing occurs at 3 different times:
+
+- When the student first registers their blog.
+- Any time the student views the details of their feed on BIM.
+- Once every 60 minutes (or whenever BIM's cron variable is set to).
+
+#### Gradebook integration
+
+BIM's integration with gradebook is simple.
+
+Individual BIM activities can be configured to save results to the gradebook, or not.
+
+As soon as BIM is configured to work with the gradebook, a field for the BIM activity is created in the gradebook.
+
+After that, every time the coordinator releases some posts, BIM will, for each student, add up the marks for all their released posts, and modify the student's gradebook entry for this activity to be the that value.
