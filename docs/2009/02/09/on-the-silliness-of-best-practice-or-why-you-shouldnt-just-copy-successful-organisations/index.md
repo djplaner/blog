@@ -1,5 +1,5 @@
 ---
-title: "On the silliness of &quot;best practice&quot; - or why you shouldn&#039;t (just) copy successful organisations"
+title: On the silliness of \"best practice\" - or why you shouldn't (just) copy successful organisations
 date: 2009-02-09 11:18:54+10:00
 categories: ['chapter-2', 'cognitiveedge', 'design-theory', 'elearning', 'missingps', 'thesis']
 type: post

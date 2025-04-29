@@ -1,5 +1,5 @@
 ---
-title: "End of week 1: reflections and what&#039;s next"
+title: "End of week 1: reflections and what's next"
 date: 2011-03-07 10:25:34+10:00
 categories: ['journey', 'teaching']
 type: post

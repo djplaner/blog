@@ -1,5 +1,5 @@
 ---
-title: "A hassle map for Year 10 mathematics? You can&#039;t focus on the negatives?"
+title: A hassle map for Year 10 mathematics? You can't focus on the negatives?
 date: 2011-09-25 10:39:44+10:00
 categories: ['teaching']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: BIM - Design of &quot;Manage Marking&quot; and other features for Coordinators
+title: BIM - Design of \"Manage Marking\" and other features for Coordinators
 date: 2010-01-09 12:35:55+10:00
 categories: ['bim']
 type: post

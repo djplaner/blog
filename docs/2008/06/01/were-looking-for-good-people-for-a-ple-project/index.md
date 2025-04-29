@@ -1,5 +1,5 @@
 ---
-title: "We&#039;re looking for good people for a PLE project"
+title: We're looking for good people for a PLE project
 date: 2008-06-01 20:32:06+10:00
 categories: ['ple']
 type: post

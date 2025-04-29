@@ -1,5 +1,5 @@
 ---
-title: "And it&#039;s back to a lecture"
+title: And it's back to a lecture
 date: 2012-03-06 14:24:15+10:00
 categories: ['edc3100', 'teaching']
 type: post

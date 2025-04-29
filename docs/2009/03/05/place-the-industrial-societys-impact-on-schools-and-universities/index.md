@@ -1,5 +1,5 @@
 ---
-title: "Place - the industrial society&#039;s impact on schools - and universities?"
+title: Place - the industrial society's impact on schools - and universities?
 date: 2009-03-05 10:17:10+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'thesis']
 type: post

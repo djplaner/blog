@@ -1,5 +1,5 @@
 ---
-title: Course websites and &quot;libertarian paternalism&quot;
+title: Course websites and \"libertarian paternalism\"
 date: 2010-06-08 09:28:12+10:00
 categories: ['chapter-5', 'design-theory', 'elearning', 'reflectivealignment', 'thesis', 'webfuse']
 type: post

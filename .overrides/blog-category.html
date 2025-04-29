@@ -1,0 +1,29 @@
+
+{% extends "base.html" %}
+
+
+
+{% block container %}
+
+<style>
+  .category {
+    width: 100%;
+    padding: 1em;
+    color: var(--md-admonition-bg-color);
+    background-color: var(--md-admonition-fg-color);
+  }
+</style>
+<div class="md-content" data-md-component="content">
+  <div class="category">
+    <h2>Category: {{ page.meta.category }} ({{ page.meta.item_count }} items)</h2>
+  </div>
+  <article class="md-content__inner md-typeset">
+    {% block content %}
+      {% include "partials/post-list.html" %}
+    {% endblock %}
+  </article>
+
+
+
+
+{% endblock %}

@@ -1,5 +1,5 @@
 ---
-title: "Dede&#039;s &quot;sleeping, eating and bonding&quot; metaphor and the diversity of learning and its impacts for e-learning"
+title: Dede's \"sleeping, eating and bonding\" metaphor and the diversity of learning and its impacts for e-learning
 date: 2009-09-12 11:35:59+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
 type: post

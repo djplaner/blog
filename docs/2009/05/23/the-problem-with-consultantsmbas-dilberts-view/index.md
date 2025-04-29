@@ -1,5 +1,5 @@
 ---
-title: "The problem with consultants/MBAs - Dilbert&#039;s view"
+title: The problem with consultants/MBAs - Dilbert's view
 date: 2009-05-23 07:34:26+10:00
 categories: ['elearning']
 type: post

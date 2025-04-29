@@ -1,5 +1,5 @@
 ---
-title: "A glimmer of what I&#039;m thinking"
+title: A glimmer of what I'm thinking
 date: 2011-02-16 16:29:54+10:00
 categories: ['journey', 'teaching']
 type: post

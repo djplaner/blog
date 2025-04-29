@@ -1,5 +1,5 @@
 ---
-title: &quot;Taxonomies&quot; for understanding applications of educational technology
+title: \"Taxonomies\" for understanding applications of educational technology
 date: 2008-07-14 21:39:49+10:00
 categories: ['secondlife', 'web3dx']
 type: post

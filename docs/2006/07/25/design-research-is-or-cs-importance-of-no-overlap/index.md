@@ -1,5 +1,5 @@
 ---
-title: "Design research: IS or CS - importance of &quot;no overlap&quot;"
+title: "Design research: IS or CS - importance of \"no overlap\""
 date: 2006-07-25 12:20:37+10:00
 categories: ['design-theory']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: "&quot;Blame the teacher&quot; isn&#039;t new to technology-mediated learning"
+title: \"Blame the teacher\" isn't new to technology-mediated learning
 date: 2009-03-24 22:27:56+10:00
 categories: ['chapter-2', 'design-theory', 'phd', 'reflectivealignment', 'thesis']
 type: post

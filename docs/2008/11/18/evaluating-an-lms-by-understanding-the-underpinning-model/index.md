@@ -1,5 +1,5 @@
 ---
-title: Evaluating an LMS by understanding the underpinning &quot;model&quot;
+title: Evaluating an LMS by understanding the underpinning \"model\"
 date: 2008-11-18 10:32:26+10:00
 categories: ['chapter-2', 'elearning', 'lmsevaluation', 'lmsreview']
 tags: ['lms']

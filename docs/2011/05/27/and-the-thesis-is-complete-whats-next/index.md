@@ -1,5 +1,5 @@
 ---
-title: "And the thesis is complete, what&#039;s next?"
+title: And the thesis is complete, what's next?
 date: 2011-05-27 16:04:27+10:00
 categories: ['design-theory', 'phd', 'thesis', 'webfuse']
 type: post

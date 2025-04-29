@@ -1,5 +1,5 @@
 ---
-title: "Mao&#039;s &quot;four pests&quot; campaign - problems with herding cats"
+title: Mao's \"four pests\" campaign - problems with herding cats
 date: 2006-12-15 21:41:33+10:00
 categories: ['herding-cats']
 type: post

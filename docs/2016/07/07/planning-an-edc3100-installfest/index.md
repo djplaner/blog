@@ -1,5 +1,5 @@
 ---
-title: Planning an EDC3100 &quot;installfest&quot;
+title: Planning an EDC3100 \"installfest\"
 date: 2016-07-07 14:42:48+10:00
 categories: ['edc3100']
 type: post

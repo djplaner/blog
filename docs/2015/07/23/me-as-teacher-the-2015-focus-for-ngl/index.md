@@ -1,5 +1,5 @@
 ---
-title: &quot;Me as teacher&quot; - the 2015 focus for NGL
+title: \"Me as teacher\" - the 2015 focus for NGL
 date: 2015-07-23 13:22:17+10:00
 categories: ['bad', 'casa', 'edu8117', 'ngl']
 type: post

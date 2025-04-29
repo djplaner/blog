@@ -1,5 +1,5 @@
 ---
-title: "PhD update #17 - You know you&#039;re losing your way when...."
+title: "PhD update #17 - You know you're losing your way when...."
 date: 2009-07-19 14:32:50+10:00
 categories: ['design-theory', 'phd', 'thesis']
 type: post

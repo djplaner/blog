@@ -1,5 +1,5 @@
 ---
-title: Neither strategy nor &quot;space&quot; to innovate is enough
+title: Neither strategy nor \"space\" to innovate is enough
 date: 2013-08-16 15:32:43+10:00
 categories: ['bim2']
 type: post

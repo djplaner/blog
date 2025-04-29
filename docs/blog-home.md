@@ -10,6 +10,9 @@ tags:
 
 [[posts]]
 
+[Hello](./2008/12/28/plans-for-implementing-rotating-banner-image/index.md)
+
+
 ## Pages
 
 [[pages]]

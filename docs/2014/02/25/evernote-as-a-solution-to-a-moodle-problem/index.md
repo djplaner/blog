@@ -1,5 +1,5 @@
 ---
-title: "Evernote as a &quot;solution&quot; to a #moodle &quot;problem&quot;"
+title: "Evernote as a \"solution\" to a #moodle \"problem\""
 date: 2014-02-25 13:59:27+10:00
 categories: ['edc3100']
 type: post

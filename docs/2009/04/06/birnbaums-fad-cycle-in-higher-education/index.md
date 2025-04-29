@@ -1,5 +1,5 @@
 ---
-title: "Birnbaum&#039;s fad cycle in higher education"
+title: Birnbaum's fad cycle in higher education
 date: 2009-04-06 15:31:52+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'psframework', 'thesis']
 type: post

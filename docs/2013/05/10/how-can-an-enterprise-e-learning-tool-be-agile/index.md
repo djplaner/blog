@@ -1,5 +1,5 @@
 ---
-title: How can an &quot;enterprise&quot; e-learning tool be agile?
+title: How can an \"enterprise\" e-learning tool be agile?
 date: 2013-05-10 16:05:53+10:00
 categories: ['bim', 'elearning']
 type: post

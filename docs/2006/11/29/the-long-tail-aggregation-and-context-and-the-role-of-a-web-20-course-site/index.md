@@ -1,5 +1,5 @@
 ---
-title: The Long Tail - aggregation and context and the role of a &quot;Web 2.0 course site&quot;
+title: The Long Tail - aggregation and context and the role of a \"Web 2.0 course site\"
 date: 2006-11-29 16:25:51+10:00
 categories: ['web-20-course-sites']
 type: post

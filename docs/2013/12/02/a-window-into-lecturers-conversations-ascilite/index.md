@@ -1,5 +1,5 @@
 ---
-title: "A window into lecturers&#039; conversations #ascilite"
+title: "A window into lecturers' conversations #ascilite"
 date: 2013-12-02 10:48:37+10:00
 categories: ['ascilite']
 type: post

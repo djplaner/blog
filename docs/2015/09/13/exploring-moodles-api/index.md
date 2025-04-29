@@ -1,5 +1,5 @@
 ---
-title: "Exploring Moodle&#039;s API"
+title: Exploring Moodle's API
 date: 2015-09-13 16:24:59+10:00
 categories: ['bad', 'e-learning', 'elearning']
 type: post

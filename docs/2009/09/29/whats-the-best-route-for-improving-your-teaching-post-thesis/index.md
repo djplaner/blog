@@ -1,5 +1,5 @@
 ---
-title: "What&#039;s the best route for improving your teaching (post-thesis)?"
+title: What's the best route for improving your teaching (post-thesis)?
 date: 2009-09-29 13:45:03+10:00
 type: post
 template: blog-post.html

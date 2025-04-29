@@ -1,5 +1,5 @@
 ---
-title: "Dashboards suck: learning analytics&#039; broken metaphor"
+title: "Dashboards suck: learning analytics' broken metaphor"
 date: 2015-06-24 17:49:54+10:00
 categories: ['indicators', 'irac', 'pirac']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: Random meandering notes on "digital" and the fourth industrial revolution
+title: Random meandering notes on \"digital\" and the fourth industrial revolution
 date: 2018-05-26 10:53:44+10:00
 categories: ['bad', 'digitalignorance']
 type: post

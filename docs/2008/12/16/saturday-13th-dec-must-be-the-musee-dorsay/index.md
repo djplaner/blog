@@ -1,5 +1,5 @@
 ---
-title: "Saturday (13th Dec) - Must be the Musee D&#039;Orsay"
+title: Saturday (13th Dec) - Must be the Musee D'Orsay
 date: 2008-12-16 22:46:39+10:00
 categories: ['paris2008']
 tags: ['paris']

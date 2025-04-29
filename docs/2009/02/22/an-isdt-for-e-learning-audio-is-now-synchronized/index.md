@@ -1,5 +1,5 @@
 ---
-title: &quot;An ISDT for e-learning&quot; - Audio is now synchronized
+title: \"An ISDT for e-learning\" - Audio is now synchronized
 date: 2009-02-22 13:34:51+10:00
 categories: ['anu', 'design-theory', 'elearning', 'information-systems', 'psframework', 'thesis', 'webfuse']
 type: post

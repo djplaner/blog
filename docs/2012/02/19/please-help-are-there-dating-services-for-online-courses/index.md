@@ -1,5 +1,5 @@
 ---
-title: Please help, are there &quot;dating services&quot; for online courses?
+title: Please help, are there \"dating services\" for online courses?
 date: 2012-02-19 10:03:37+10:00
 categories: ['edc3100', 'teaching']
 type: post

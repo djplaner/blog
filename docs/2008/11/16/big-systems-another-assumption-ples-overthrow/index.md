@@ -1,5 +1,5 @@
 ---
-title: &quot;Big&quot; systems - another assumption &quot;PLEs&quot; overthrow
+title: \"Big\" systems - another assumption \"PLEs\" overthrow
 date: 2008-11-16 09:53:58+10:00
 categories: ['design-theory', 'elearning', 'ple', 'thesis', 'webfuse']
 type: post

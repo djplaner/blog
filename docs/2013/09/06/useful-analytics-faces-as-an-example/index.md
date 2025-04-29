@@ -1,5 +1,5 @@
 ---
-title: Useful &quot;analytics&quot; - Faces as an example
+title: Useful \"analytics\" - Faces as an example
 date: 2013-09-06 09:28:01+10:00
 categories: ['learninganalytics-elearning']
 type: post

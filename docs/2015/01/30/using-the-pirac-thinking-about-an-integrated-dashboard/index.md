@@ -1,5 +1,5 @@
 ---
-title: Using the PIRAC - Thinking about an &quot;integrated dashboard&quot;
+title: Using the PIRAC - Thinking about an \"integrated dashboard\"
 date: 2015-01-30 15:49:11+10:00
 categories: ['irac', 'pirac']
 type: post

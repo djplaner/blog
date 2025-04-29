@@ -1,5 +1,5 @@
 ---
-title: Looking for &quot;learning objects&quot; measurement, perimeter etc.
+title: Looking for \"learning objects\" measurement, perimeter etc.
 date: 2011-05-08 21:47:21+10:00
 categories: ['mathematics', 'teaching']
 type: post

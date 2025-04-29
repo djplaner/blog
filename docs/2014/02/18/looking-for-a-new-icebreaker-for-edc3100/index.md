@@ -1,5 +1,5 @@
 ---
-title: "Looking for a new &quot;icebreaker&quot; for #edc3100"
+title: "Looking for a new \"icebreaker\" for #edc3100"
 date: 2014-02-18 10:05:49+10:00
 categories: ['edc3100', 'teaching']
 type: post

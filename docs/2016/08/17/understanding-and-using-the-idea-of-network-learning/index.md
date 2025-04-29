@@ -1,5 +1,5 @@
 ---
-title: Understanding and using the idea of &quot;network learning&quot;
+title: Understanding and using the idea of \"network learning\"
 date: 2016-08-17 15:37:05+10:00
 categories: ['edu8117']
 type: post

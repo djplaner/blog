@@ -1,5 +1,5 @@
 ---
-title: Elevator pitch for &quot;Moodle curriculum mapping&quot;
+title: Elevator pitch for \"Moodle curriculum mapping\"
 date: 2010-04-01 10:49:00+10:00
 categories: ['curriculummapping-cddu']
 type: post

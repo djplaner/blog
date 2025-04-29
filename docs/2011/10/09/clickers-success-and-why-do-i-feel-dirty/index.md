@@ -1,5 +1,5 @@
 ---
-title: &quot;Clickers&quot;, success, and why do I feel dirty?
+title: \"Clickers\", success, and why do I feel dirty?
 date: 2011-10-09 14:54:09+10:00
 categories: ['mathematics', 'teaching']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: "A #moodle course site wide &quot;macro&quot; facility?"
+title: "A #moodle course site wide \"macro\" facility?"
 date: 2014-01-22 10:49:36+10:00
 categories: ['moodle']
 type: post

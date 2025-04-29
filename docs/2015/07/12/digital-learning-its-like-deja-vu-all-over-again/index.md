@@ -1,5 +1,5 @@
 ---
-title: "Digital learning: It&#039;s déjà vu all over again"
+title: "Digital learning: It's déjà vu all over again"
 date: 2015-07-12 08:52:53+10:00
 categories: ['bad', 'dlrn15', 'elearning', 'set']
 type: post

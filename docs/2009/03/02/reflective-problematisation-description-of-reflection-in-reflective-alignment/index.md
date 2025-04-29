@@ -1,5 +1,5 @@
 ---
-title: Reflective problematisation - description of reflection in &quot;reflective alignment&quot;?
+title: Reflective problematisation - description of reflection in \"reflective alignment\"?
 date: 2009-03-02 08:29:11+10:00
 categories: ['quotes', 'react', 'react2008', 'reflectivealignment']
 type: post

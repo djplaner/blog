@@ -1,5 +1,5 @@
 ---
-title: "What&#039;s good for &quot;open content&quot; is good for the LMS/virtual learning space?"
+title: What's good for \"open content\" is good for the LMS/virtual learning space?
 date: 2015-04-15 10:15:12+10:00
 categories: ['5rs', 'bad', 'elearning', 'moodleopenbook', 'openbook']
 type: post

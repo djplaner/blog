@@ -1,5 +1,5 @@
 ---
-title: Designing a course on &quot;Networked and Global Learning&quot; - scope, thoughts and call for suggestions
+title: Designing a course on \"Networked and Global Learning\" - scope, thoughts and call for suggestions
 date: 2014-07-07 15:42:54+10:00
 categories: ['edu8117']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: BAM and the Chinese &quot;firewall&quot;
+title: BAM and the Chinese \"firewall\"
 date: 2009-07-15 11:05:15+10:00
 categories: ['bam']
 type: post

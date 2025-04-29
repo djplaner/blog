@@ -1,5 +1,5 @@
 ---
-title: Why &quot;modeller-broker&quot; orientation is inherently limited - bridging the gap
+title: Why \"modeller-broker\" orientation is inherently limited - bridging the gap
 date: 2007-09-03 12:22:17+10:00
 categories: ['elearning', 'herding-cats', 'thesis']
 type: post

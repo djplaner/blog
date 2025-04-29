@@ -1,5 +1,5 @@
 ---
-title: Use of &quot;e-learning&quot; @ CQU up to 1996 (or so)
+title: Use of \"e-learning\" @ CQU up to 1996 (or so)
 date: 2009-07-27 12:08:04+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
 type: post

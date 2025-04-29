@@ -1,5 +1,5 @@
 ---
-title: "Anyone capturing users&#039; post-adoptive behaviours for the LMS? Implications?"
+title: Anyone capturing users' post-adoptive behaviours for the LMS? Implications?
 date: 2015-10-31 15:25:36+10:00
 categories: ['bad', 'elearning']
 type: post

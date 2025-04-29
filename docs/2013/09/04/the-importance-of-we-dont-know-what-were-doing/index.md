@@ -1,5 +1,5 @@
 ---
-title: "The importance of &quot;We don&#039;t know what we&#039;re doing&quot;"
+title: The importance of \"We don't know what we're doing\"
 date: 2013-09-04 13:11:35+10:00
 categories: ['elearning']
 type: post

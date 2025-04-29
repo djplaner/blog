@@ -1,5 +1,5 @@
 ---
-title: Designing a collection of analytics to explore &quot;engagement&quot;
+title: Designing a collection of analytics to explore \"engagement\"
 date: 2016-04-14 07:45:28+10:00
 categories: ['bad', 'pirac', 'qilters']
 type: post

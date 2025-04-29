@@ -1,5 +1,5 @@
 ---
-title: "Fixing BIM&#039;s back up and restore"
+title: Fixing BIM's back up and restore
 date: 2010-05-27 15:44:14+10:00
 categories: ['bim']
 type: post

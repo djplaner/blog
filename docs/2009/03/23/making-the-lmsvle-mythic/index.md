@@ -1,5 +1,5 @@
 ---
-title: Making the LMS/VLE &quot;mythic&quot;
+title: Making the LMS/VLE \"mythic\"
 date: 2009-03-23 13:50:46+10:00
 categories: ['chapter-2', 'elearning', 'phd', 'thesis']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: What type of &quot;digital knowledge&quot; does a teacher need?
+title: What type of \"digital knowledge\" does a teacher need?
 date: 2015-09-10 13:25:47+10:00
 categories: ['computationalthinking', 'elearning', 'literacies', 'tpack']
 type: post

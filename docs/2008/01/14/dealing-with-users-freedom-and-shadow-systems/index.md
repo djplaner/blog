@@ -1,5 +1,5 @@
 ---
-title: Dealing with &quot;users&quot;, freedom and shadow systems
+title: Dealing with \"users\", freedom and shadow systems
 date: 2008-01-14 10:20:11+10:00
 categories: ['c2d2', 'elearning', 'enterprise-20', 'information-systems', 'webfuse']
 tags: ['shadowsystems-cddu-c2d2']

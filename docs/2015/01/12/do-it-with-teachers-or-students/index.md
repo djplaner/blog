@@ -1,5 +1,5 @@
 ---
-title: &quot;Do it with&quot; teachers or students?
+title: \"Do it with\" teachers or students?
 date: 2015-01-12 09:39:28+10:00
 categories: ['bad', 'elearning', 'fad']
 type: post

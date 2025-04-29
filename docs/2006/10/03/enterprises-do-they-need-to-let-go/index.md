@@ -1,5 +1,5 @@
 ---
-title: Enterprises - do they need to &quot;let go&quot;?
+title: Enterprises - do they need to \"let go\"?
 date: 2006-10-03 10:04:01+10:00
 categories: ['web-20-course-sites']
 type: post

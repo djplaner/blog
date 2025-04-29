@@ -1,5 +1,5 @@
 ---
-title: Implications arising from the absence of the &quot;sameness of meaning&quot;
+title: Implications arising from the absence of the \"sameness of meaning\"
 date: 2010-02-11 13:09:25+10:00
 categories: ['bim', 'chapter-2', 'elearning', 'reflectivealignment', 'thesis']
 type: post

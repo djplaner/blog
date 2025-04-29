@@ -17,4 +17,10 @@ A part of this is the "simple diagram" below that is meant to represent "How tec
 
 Amplify’d from [newsweaver.co.uk](http://newsweaver.co.uk/alt/e_article001484468.cfm "http://newsweaver.co.uk/alt/e_article001484468.cfm")
 
+> | careful |
+> | --- |
+
+> |   ![How technology fits into an organisation](images/1CEC496B-FA31-484F-B545-C9FBCAD95D1D)  [See more at newsweaver.co.uk](http://newsweaver.co.uk/alt/e_article001484468.cfm "http://newsweaver.co.uk/alt/e_article001484468.cfm") |
+> | --- |
+
 See this Amp at [http://amplify.com/u/8w96](http://amplify.com/u/8w96)

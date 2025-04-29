@@ -1,5 +1,5 @@
 ---
-title: Changing &quot;as learner&quot; focus - analytics to &quot;chamber music&quot;
+title: Changing \"as learner\" focus - analytics to \"chamber music\"
 date: 2015-08-09 17:24:45+10:00
 categories: ['music', 'netgl']
 type: post

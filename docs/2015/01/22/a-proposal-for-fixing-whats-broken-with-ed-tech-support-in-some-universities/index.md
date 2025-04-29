@@ -1,5 +1,5 @@
 ---
-title: "A proposal for fixing what&#039;s broken with ed tech support in some universities"
+title: A proposal for fixing what's broken with ed tech support in some universities
 date: 2015-01-22 11:57:49+10:00
 categories: ['academicdevelopment', 'bad', 'elearning']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: Small changes in &quot;Lectures&quot; - ustream, votapedia
+title: Small changes in \"Lectures\" - ustream, votapedia
 date: 2009-09-28 15:48:28+10:00
 categories: ['ilecture']
 type: post

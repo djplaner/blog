@@ -1,5 +1,5 @@
 ---
-title: Initial rationale and ideas for &quot;continuous improvement&quot; of learning and teaching
+title: Initial rationale and ideas for \"continuous improvement\" of learning and teaching
 date: 2015-02-18 12:57:07+10:00
 categories: ['bad', 'eep']
 type: post

@@ -1,0 +1,23 @@
+{% include "partials/tags.html" %}
+{% include "partials/actions.html" %}
+
+<style>
+  .blog-item {
+    padding: 0.5em;
+  }
+  .blog-item-title {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  .blog-item-date {
+    font-size: 0.9em;
+  }
+  .blog-item-content-preview {
+    padding: 1em;
+  }
+</style>
+
+{{ page.content }}
+{% include "partials/source-file.html" %}
+{% include "partials/feedback.html" %}
+{% include "partials/comments.html" %}

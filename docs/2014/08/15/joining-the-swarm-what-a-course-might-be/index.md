@@ -1,5 +1,5 @@
 ---
-title: "Joining the &quot;swarm&quot;: what a course might be?"
+title: "Joining the \"swarm\": what a course might be?"
 date: 2014-08-15 11:24:36+10:00
 categories: ['edu8117']
 type: post

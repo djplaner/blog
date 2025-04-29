@@ -1,5 +1,5 @@
 ---
-title: Starting my &quot;blogs for learning&quot; article about BAM
+title: Starting my \"blogs for learning\" article about BAM
 date: 2006-10-26 14:30:17+10:00
 categories: ['bam']
 type: post

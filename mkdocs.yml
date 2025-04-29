@@ -3,7 +3,7 @@ site_name: "David Jones' weblog"
 site_url: https://djon.es/blog2/
 repo_url: https://github.com/djplaner/blog
 site_author: "David Jones"
-site_dir: ../memex_site # stick HTML outside main repo
+site_dir: ../blog2 # stick HTML outside main repo
 use_directory_urls: false
 
 theme:

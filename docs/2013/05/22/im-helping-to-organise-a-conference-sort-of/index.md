@@ -1,5 +1,5 @@
 ---
-title: "I&#039;m helping to organise a conference - sort of"
+title: I'm helping to organise a conference - sort of
 date: 2013-05-22 11:04:37+10:00
 categories: ['edu8719']
 type: post

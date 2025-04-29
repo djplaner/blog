@@ -1,5 +1,5 @@
 ---
-title: &quot;Blame the teacher&quot; and its negative impact on learning and e-learning
+title: \"Blame the teacher\" and its negative impact on learning and e-learning
 date: 2009-03-18 09:38:34+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'innovation', 'psframework', 'reflectivealignment', 'thesis']
 type: post

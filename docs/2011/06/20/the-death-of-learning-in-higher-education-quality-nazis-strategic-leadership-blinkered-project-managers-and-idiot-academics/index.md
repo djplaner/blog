@@ -1,5 +1,5 @@
 ---
-title: "The death of learning in higher education: quality nazis, &quot;strategic&quot; leadership, blinkered project managers and idiot academics"
+title: "The death of learning in higher education: quality nazis, \"strategic\" leadership, blinkered project managers and idiot academics"
 date: 2011-06-20 15:10:58+10:00
 categories: ['thesis']
 type: post

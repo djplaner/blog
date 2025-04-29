@@ -1,5 +1,5 @@
 ---
-title: "Trying out" needs agency and control
+title: \"Trying out\" needs agency and control
 date: 2019-01-18 13:50:26+10:00
 categories: ['eei']
 type: post

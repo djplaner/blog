@@ -1,5 +1,5 @@
 ---
-title: "Getting started with Col&#039;s indicators block"
+title: Getting started with Col's indicators block
 date: 2010-05-13 11:04:25+10:00
 categories: ['indicators', 'moodle']
 type: post

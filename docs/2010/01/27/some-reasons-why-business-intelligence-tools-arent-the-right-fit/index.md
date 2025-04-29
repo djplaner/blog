@@ -1,5 +1,5 @@
 ---
-title: "Some reasons why business intelligence tools aren&#039;t the right fit"
+title: Some reasons why business intelligence tools aren't the right fit
 date: 2010-01-27 13:24:20+10:00
 categories: ['indicators', 'information-systems']
 tags: ['academicanalytics', 'analytics', 'knowledgemanagement']

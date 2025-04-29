@@ -1,5 +1,5 @@
 ---
-title: A new &quot;all-in-one&quot; introduction to OASIS
+title: A new \"all-in-one\" introduction to OASIS
 date: 2008-08-15 14:19:10+10:00
 categories: ['oasis']
 type: post

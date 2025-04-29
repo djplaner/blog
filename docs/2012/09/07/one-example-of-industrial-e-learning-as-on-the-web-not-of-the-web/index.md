@@ -1,5 +1,5 @@
 ---
-title: One example of industrial e-learning as &quot;on the web&quot; not &quot;of the web&quot;
+title: One example of industrial e-learning as \"on the web\" not \"of the web\"
 date: 2012-09-07 09:35:14+10:00
 categories: ['elearning', 'highereducation', 'phd', 'webfuse']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: Ateleological development as a &quot;better way&quot; to develop university e-learning systems
+title: Ateleological development as a \"better way\" to develop university e-learning systems
 date: 2007-03-13 06:03:37+10:00
 categories: ['elearning', 'thesis']
 type: post

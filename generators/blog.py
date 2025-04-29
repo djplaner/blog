@@ -20,26 +20,29 @@ Process
 import re
 import glob
 import mkdocs_gen_files
-import logging
-# import frontmatter
-#import markdown
+import frontmatter
+import pathlib
+import markdown
 #from bs4 import BeautifulSoup
 from pprint import pprint
 
 BLOG_FOLDER = ""
 
 
-def generateCategoryPage(categoryName, categoryPages):
+def generateCategoryPage(categoryName, items):
     """
     """
 
+#    pprint(items)
 
     #with mkdocs_gen_files.open(f"blog/category/{categoryName}.md", "w") as f:
     with mkdocs_gen_files.open(f"{BLOG_FOLDER}category/{categoryName}.md", "w") as f:
         #print(f"#### Generating category page for {categoryName} at blog/category/{categoryName}.md")
         f.write(f"""---
-title: Items for category {categoryName}
 type: blog_category
+template: blog-category.html
+category: {categoryName}
+item_count: {len(items)}
 ---
 
 # Items for category {categoryName}
@@ -47,38 +50,85 @@ type: blog_category
 See also: [[blog-home]], [[posts]], [[pages]]
 
 """)
+
+        for item in items:
+            path = item['path'].replace( "docs/", "").replace("index.md", "index.html")
+            #-- remove " See also: [.*) from content
+#            content = re.sub( r".*See also: ) ", "", item['content'] )
+            content = item['content'].replace("See also: [[blog-home | Home]]", "")
+            htmlContent = markdown.markdown(content[:300])
+
+#            if categoryName == "thesis":
+#                print(f"*******\n{item['content'][:300]}\n")
+#                print(f"*******\n{content[:300]}\n")
+#                print(f"*******\n{htmlContent}\n")
+#                input("Press Enter to continue...")
+
+            
+            #-- convert date to DD Mon YYYY
+            date = item['yaml']['date'].strftime("%d %b %Y")
+             
+            f.write( f"""
+<div class="blog-item">
+  <div class="blog-item-title"><a href="../{path}">{item['yaml']['title']}</a></div>
+  <div class="blog-item-date">📅 {date}</div>
+  <div class="blog-item-content-preview">
+    {htmlContent}...
+  </div>
+</div>
+                    """)
+#            f.write( f"- [{item['yaml']['title']}](../{path})\n\n")
+#            f.write( f"  {str(item['yaml']['date'])}\n\n")
+            #f.write(f"- [[{item['wikilink']}/index.md]]\n")
     mkdocs_gen_files.set_edit_path( f"{BLOG_FOLDER}category/{categoryName}.md", "blog.py")
 
-def generateCategories(categories={}):
+def generateCategories(blogItems):
     """
     Generate all categories
     """
 
-    categoryNames = [ "#dlrn15", "4paths", "5rs", "academicdevelopment", "addie", "alignment", "anu", "ascilite", "asciliteMentor", "bad", "bam", "bambimbad", "bim", "bim2", "bimErrors", "blackboardIndicators", "bricolage", "c2d2", "casa", "cck09", "Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5", "coding", "cognitiveEdge", "colophon", "complexityLeadership", "computationalThinking", "concretelounge", "concretelounges", "connectedcourses", "courseSites", "cquLearningHistory", "curriculumDesign", "curriculumMapping", "dejavu", "design theory", "development", "digitalIgnorance", "distributedcognition", "dlrn", "design-theory", "dLRN15", "dojo", "e-learning", "eating", "edc3100", "eded20455", "eded20456", "eded20458", "eded20487", "eded20488", "EDED20491", "edm8006", "eds4406", "edu8117", "edu8719", "eei", "eep", "elearning", "emd", "enterprise 2.0", "etmooc", "evaluation", "exploring", "fad", "FedWiki", "foult", "futures", "games", "herding cats", "highereducation", "ict", "iLecture", "indicators", "information systems", "innovation", "intuitionFail", "ipt", "irac", "journey", "lak11", "learningAnalytics", "literacies", "lmsEvaluation", "lmsreview", "lxdesign", "math", "mathematics", "mav", "memex", "missingPs", "moneyburner", "moodle", "moodleopenbook", "music", "narrative", "netgl", "ngl", "nvivo", "oasis", "oasm", "ocw", "oep", "oer", "open", "openbook", "opencase", "Outcomes And Analytics", "paperIdeas", "paris2008", "patterns", "phd", "photography", "pirac", "pkm", "plagiarism", "ple", "ples@CQUni", "plos", "presentations", "protean", "PsFramework", "pstn", "publication", "publications", "qilters", "quotes", "react", "react2008", "Reading", "redesign", "reflectivealignment", "research", "sdo", "secondLife", "set", "shadowsystems", "site2016", "tam", "teachered", "teaching", "theory", "thesis", "to read", "tools", "tpack", "twitter", "Uncategorized", "uxdesign", "visitor", "voiceThreadResearchPosters", "votapedia", "WCYDWT", "web 2.0 course sites", "web3dx", "webfuse", "WebfuseReflectionsImplications", "website"]
+    #-- generate list "categoryNames" of all categories from blogItems ['yaml']['categories']
+    categoryNames = {}
+    for item in blogItems:
+        #print(f"item: {item['yaml']['title']}")
+        #print(f"categories: {item['yaml']['categories']}")
+        if 'categories' in item['yaml']:
+            for category in item['yaml']['categories']:
+                #print(f"Adding {category} to categoryNames")
+                if category not in categoryNames:
+                    categoryNames[category] = []
+                categoryNames[category].append(item)
 
-    for name in categoryNames:
-        generateCategoryPage(name, [ ] )
+    for name in categoryNames.keys():
+        generateCategoryPage(name, categoryNames[name]) 
 
 def retrieveBlogItems(blogFolder=BLOG_FOLDER):
     """
     Retrieve all blog posts/pages from blogFolder, skipping 
-    - category, tag and archive pages 
+    anything that doesn't have the type: post or page
+    Add a field to the item ['path'] with the path to the file
 
-    Generate
-    - category[<categoryName>] - array of links to posts/pages
-    - tags[<tagName>] - array of links to posts/pages
-    - archives[YYYY/MM] - array of links to posts/pages
     """
 
     # TODO how to exclude a bunch of files - before or after glob
-    files = glob.glob(f"{blogFolder}*.md")
-    pages = []
+    #files = glob.glob(f"{blogFolder}*.md")
+    folder = pathlib.Path(blogFolder)
+    files = folder.rglob(f"*.md")
+    items = []
 
-#    for file in files:
-        # -- remove DOCS_FOLDER from file
+    #-- loop through all the files
+    for file in files:
+        fileContent = extractFileContent(file)
+        if 'type' in fileContent['yaml']:
+            if fileContent['yaml']['type'] == 'post' or fileContent['yaml']['type'] == 'page':
+                fileContent['path'] = str(file)
+                #-- extract path wikilink as the name of the last folder in the path
+                fileContent['wikilink'] = re.sub(r"^.*?/([^/]*?)/index.md$", r"\1", str(file))
+                #-- replace any \" with " in title 
+                fileContent['yaml']['title'] = fileContent['yaml']['title'].replace("\\\"", "\"")
+                items.append(fileContent)
 
-    # TODO figure out what to return
-
+    return items
 
 def extractFileContent(path):
     """
@@ -90,22 +140,32 @@ def extractFileContent(path):
     }
     """
 
-    md = markdown.Markdown(extensions=['meta'])
     pageData = {}
     with open(path, encoding="utf-8-sig") as f:
-        pageData["content"] = f.read()
-        html = md.convert(pageData["content"])
-        pageData['yaml'] = md.Meta
-        pageData['html'] = html
+        post = frontmatter.load(f)
 
-        for key in pageData['yaml'].keys():
-            # if key is a list, get the first item
-            if isinstance(pageData['yaml'][key], list):
-                pageData['yaml'][key] = pageData['yaml'][key][0]
-            pageData['yaml'][key] = pageData['yaml'][key].lstrip(
-                '\"').rstrip('\"')
+    pageData['content'] = post.content
+    pageData['yaml'] = post.metadata
 
     return pageData
+
+
+#    md = markdown.Markdown(extensions=['meta'])
+#    pageData = {}
+#    with open(path, encoding="utf-8-sig") as f:
+#        pageData["content"] = f.read()
+#        html = md.convert(pageData["content"])
+#        pageData['yaml'] = md.Meta
+#        pageData['html'] = html
+#
+#        for key in pageData['yaml'].keys():
+#            # if key is a list, get the first item
+#            if isinstance(pageData['yaml'][key], list):
+#                pageData['yaml'][key] = pageData['yaml'][key][0]
+#            pageData['yaml'][key] = pageData['yaml'][key].lstrip(
+#                '\"').rstrip('\"')
+#
+#    return pageData
 
 
 def generator():
@@ -114,10 +174,13 @@ def generator():
     """
 
     # TODO implement
-    #blogItems = retrieveBlogItems()
+    blogItems = retrieveBlogItems()
+    #-- create list pages containing all blog items with type==page
+    pages = map(lambda x: x['yaml']['title'], filter(lambda x: x['yaml']['type'] == 'page', blogItems))
+    posts = map(lambda x: x['yaml']['title'], filter(lambda x: x['yaml']['type'] == 'post', blogItems))
 
-    # TODO pass in categories from blogItems
-    generateCategories()
+    # Generate category pages 
+    generateCategories( blogItems)
 
 
 generator()

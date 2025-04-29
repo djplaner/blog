@@ -1,5 +1,5 @@
 ---
-title: "bim2 - What&#039;s working for coordinator"
+title: bim2 - What's working for coordinator
 date: 2012-04-05 15:46:28+10:00
 categories: ['bim2']
 type: post

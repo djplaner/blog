@@ -1,5 +1,5 @@
 ---
-title: "Understanding management students&#039; reflective practice through blogging"
+title: Understanding management students' reflective practice through blogging
 date: 2012-12-12 09:21:45+10:00
 categories: ['thesis']
 type: post

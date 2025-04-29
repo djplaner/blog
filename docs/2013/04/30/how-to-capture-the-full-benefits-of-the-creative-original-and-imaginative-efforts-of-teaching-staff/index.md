@@ -1,5 +1,5 @@
 ---
-title: How to capture the &quot;full benefits of the creative, original and imaginative efforts of&quot; teaching staff
+title: How to capture the \"full benefits of the creative, original and imaginative efforts of\" teaching staff
 date: 2013-04-30 11:53:51+10:00
 categories: ['bim', 'bim2', 'elearning']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: "bim2: Coordinator&#039;s manage marking tab"
+title: "bim2: Coordinator's manage marking tab"
 date: 2011-02-16 17:19:07+10:00
 categories: ['bim', 'bim2']
 type: post

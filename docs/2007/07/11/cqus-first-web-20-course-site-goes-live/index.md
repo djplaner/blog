@@ -1,5 +1,5 @@
 ---
-title: "CQU&#039;s first &quot;web 2.0 course site&quot; goes live"
+title: CQU's first \"web 2.0 course site\" goes live
 date: 2007-07-11 20:34:17+10:00
 categories: ['bam', 'web-20-course-sites', 'webfuse']
 type: post

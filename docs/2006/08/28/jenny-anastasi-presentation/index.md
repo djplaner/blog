@@ -1,5 +1,5 @@
 ---
-title: "Jenny Anastasi&#039; presentation"
+title: Jenny Anastasi' presentation
 date: 2006-08-28 13:53:05+10:00
 categories: ['bam']
 type: post

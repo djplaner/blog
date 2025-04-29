@@ -1,5 +1,5 @@
 ---
-title: "The life and death of Webfuse: What&#039;s wrong with industrial e-learning and how to fix it"
+title: "The life and death of Webfuse: What's wrong with industrial e-learning and how to fix it"
 date: 2012-11-26 03:41:10+10:00
 categories: ['design-theory', 'elearning', 'missingps', 'psframework', 'thesis', 'webfuse']
 tags: ['ascilite2012']

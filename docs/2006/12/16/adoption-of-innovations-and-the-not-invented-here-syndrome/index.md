@@ -1,5 +1,5 @@
 ---
-title: Adoption of innovations and the &quot;not invented here&quot; syndrome
+title: Adoption of innovations and the \"not invented here\" syndrome
 date: 2006-12-16 12:46:34+10:00
 categories: ['elearning', 'herding-cats', 'react']
 type: post

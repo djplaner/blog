@@ -1,5 +1,5 @@
 ---
-title: &quot;Supported&quot; versus &quot;unsupported&quot; ICTs in a network age
+title: \"Supported\" versus \"unsupported\" ICTs in a network age
 date: 2014-08-18 11:08:20+10:00
 categories: ['bad', 'edu8117']
 type: post

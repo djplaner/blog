@@ -1,5 +1,5 @@
 ---
-title: &quot;CQU Learning&quot; - early days of a Second Life island
+title: \"CQU Learning\" - early days of a Second Life island
 date: 2008-01-13 16:16:53+10:00
 categories: ['cqulearninghistory', 'elearning', 'secondlife', 'web3dx']
 tags: ['cddu-web3dx-secondlife']

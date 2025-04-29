@@ -1,5 +1,5 @@
 ---
-title: "University data isn&#039;t that &quot;big&quot;, what are the implications?"
+title: University data isn't that \"big\", what are the implications?
 date: 2013-09-20 12:28:23+10:00
 categories: ['elearning', 'learninganalytics-elearning']
 type: post

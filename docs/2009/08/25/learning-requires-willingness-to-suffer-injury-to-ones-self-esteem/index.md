@@ -1,5 +1,5 @@
 ---
-title: "Learning requires willingness to suffer injury to one&#039;s self-esteem"
+title: Learning requires willingness to suffer injury to one's self-esteem
 date: 2009-08-25 09:15:45+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'psframework', 'thesis']
 type: post

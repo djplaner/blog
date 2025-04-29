@@ -1,5 +1,5 @@
 ---
-title: &quot;Web 2.0&quot; applications/services used by students
+title: \"Web 2.0\" applications/services used by students
 date: 2006-09-26 15:17:53+10:00
 categories: ['web-20-course-sites']
 type: post

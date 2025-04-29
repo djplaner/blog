@@ -1,5 +1,5 @@
 ---
-title: "Attending lectures is &#039;old school&#039; - what else is?"
+title: Attending lectures is 'old school' - what else is?
 date: 2009-06-02 14:16:03+10:00
 categories: ['elearning', 'ilecture']
 type: post

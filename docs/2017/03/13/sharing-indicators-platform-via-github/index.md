@@ -1,5 +1,5 @@
 ---
-title: Sharing "indicators platform" via github
+title: Sharing \"indicators platform\" via github
 date: 2017-03-13 15:16:32+10:00
 categories: ['indicators']
 type: post

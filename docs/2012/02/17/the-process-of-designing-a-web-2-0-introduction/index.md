@@ -1,5 +1,5 @@
 ---
-title: The process of designing a &quot;Web 2.0&quot; introduction
+title: The process of designing a \"Web 2.0\" introduction
 date: 2012-02-17 16:26:18+10:00
 categories: ['edc3100', 'teaching']
 type: post

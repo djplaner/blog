@@ -1,5 +1,5 @@
 ---
-title: Is IT a service industry, or is it &quot;eating the world&quot;?
+title: Is IT a service industry, or is it \"eating the world\"?
 date: 2011-08-23 11:40:35+10:00
 categories: ['information-systems', 'ipt', 'teaching']
 type: post

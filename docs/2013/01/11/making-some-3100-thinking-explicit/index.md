@@ -1,5 +1,5 @@
 ---
-title: Making some &quot;3100&quot; thinking explicit
+title: Making some \"3100\" thinking explicit
 date: 2013-01-11 15:20:13+10:00
 categories: ['edc3100', 'elearning', 'teaching']
 type: post

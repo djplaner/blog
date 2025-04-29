@@ -1,5 +1,5 @@
 ---
-title: Preparing my digital &quot;learning space&quot;
+title: Preparing my digital \"learning space\"
 date: 2016-03-04 13:33:34+10:00
 categories: ['bad', 'edc3100', 'elearning', 'learninganalytics-elearning']
 type: post

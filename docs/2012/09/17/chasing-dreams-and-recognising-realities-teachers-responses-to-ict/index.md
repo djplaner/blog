@@ -1,5 +1,5 @@
 ---
-title: "Chasing dreams and recognising realities: teachers&#039; responses to ICT"
+title: "Chasing dreams and recognising realities: teachers' responses to ICT"
 date: 2012-09-17 13:53:40+10:00
 categories: ['edc3100', 'teaching']
 type: post

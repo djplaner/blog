@@ -1,5 +1,5 @@
 ---
-title: "Problems of service provision and why can&#039;t I have a personalised class timetable?"
+title: Problems of service provision and why can't I have a personalised class timetable?
 date: 2011-01-30 22:49:19+10:00
 categories: ['journey', 'teaching']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: Shaking up e-learning &quot;design&quot; - little help?
+title: Shaking up e-learning \"design\" - little help?
 date: 2009-12-23 09:28:50+10:00
 categories: ['bim', 'elearning']
 type: post

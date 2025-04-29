@@ -1,5 +1,5 @@
 ---
-title: Adding bim 2.0 to &quot;CONTRIB&quot;
+title: Adding bim 2.0 to \"CONTRIB\"
 date: 2013-04-05 16:46:07+10:00
 categories: ['bim', 'bim2']
 type: post

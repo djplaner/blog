@@ -1,5 +1,5 @@
 ---
-title: Thoughts on &quot;Insidious pedagogy&quot;
+title: Thoughts on \"Insidious pedagogy\"
 date: 2009-10-06 11:04:04+10:00
 categories: ['chapter-2', 'elearning', 'phd', 'psframework', 'thesis']
 type: post

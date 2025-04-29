@@ -1,5 +1,5 @@
 ---
-title: "Down with facebook - why I&#039;m going to minimise my use"
+title: Down with facebook - why I'm going to minimise my use
 date: 2009-02-17 21:47:24+10:00
 categories: ['elearning', 'plescquni']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: "Leadership as defining what&#039;s successful"
+title: Leadership as defining what's successful
 date: 2014-01-21 10:52:01+10:00
 categories: ['cognitiveedge', 'complexityleadership', 'distributedcognition', 'highereducation', 'psframework', 'research']
 tags: ['leadership']

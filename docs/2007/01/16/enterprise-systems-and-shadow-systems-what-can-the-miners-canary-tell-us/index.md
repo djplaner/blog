@@ -1,5 +1,5 @@
 ---
-title: "Enterprise systems and shadow systems: What can the miner&#039;s canary tell us?"
+title: "Enterprise systems and shadow systems: What can the miner's canary tell us?"
 date: 2007-01-16 11:04:58+10:00
 categories: ['paperideas', 'web-20-course-sites']
 type: post

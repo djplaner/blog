@@ -1,5 +1,5 @@
 ---
-title: "Good teaching is not innate, it can be &quot;learned&quot; - and what&#039;s wrong with academic staff development"
+title: Good teaching is not innate, it can be \"learned\" - and what's wrong with academic staff development
 date: 2009-01-29 14:47:27+10:00
 categories: ['addie', 'c2d2', 'chapter-2', 'design-theory', 'elearning', 'foult', 'missingps', 'thesis']
 tags: ['staffdevelopment-learning-teaching-university-highereducation-academicstaffdevelopment']

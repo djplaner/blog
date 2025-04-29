@@ -1,5 +1,5 @@
 ---
-title: &quot;What is&quot; and &quot;what might be&quot; - evidence of a problem with institutional e-learning?
+title: \"What is\" and \"what might be\" - evidence of a problem with institutional e-learning?
 date: 2014-12-15 13:39:15+10:00
 categories: ['bad', 'elearning']
 type: post

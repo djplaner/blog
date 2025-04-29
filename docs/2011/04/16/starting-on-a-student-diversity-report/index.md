@@ -1,5 +1,5 @@
 ---
-title: Starting on a &quot;student diversity report&quot;
+title: Starting on a \"student diversity report\"
 date: 2011-04-16 22:19:44+10:00
 categories: ['eded20455', 'teaching']
 type: post

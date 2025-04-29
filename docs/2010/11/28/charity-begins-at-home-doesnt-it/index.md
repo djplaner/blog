@@ -1,5 +1,5 @@
 ---
-title: "Charity begins at home, doesn&#039;t it?"
+title: Charity begins at home, doesn't it?
 date: 2010-11-28 10:56:11+10:00
 categories: ['journey', 'teaching']
 type: post

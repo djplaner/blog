@@ -1,5 +1,5 @@
 ---
-title: PLEs (&quot;social media&quot;) and measuring/ensuring success
+title: PLEs (\"social media\") and measuring/ensuring success
 date: 2007-11-05 08:41:16+10:00
 categories: ['ple']
 type: post

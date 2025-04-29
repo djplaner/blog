@@ -1,5 +1,5 @@
 ---
-title: Designing a personal "memex" with Foam
+title: Designing a personal \"memex\" with Foam
 date: 2020-07-06 11:11:58+10:00
 categories: ['pkm']
 tags: ['memex']

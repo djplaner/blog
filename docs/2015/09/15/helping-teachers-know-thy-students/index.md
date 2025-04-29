@@ -1,5 +1,5 @@
 ---
-title: Helping teachers &quot;know thy students&quot;
+title: Helping teachers \"know thy students\"
 date: 2015-09-15 10:06:18+10:00
 categories: ['4paths', 'bad', 'elearning', 'irac']
 type: post

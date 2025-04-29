@@ -1,5 +1,5 @@
 ---
-title: Updating &quot;more student details&quot;
+title: Updating \"more student details\"
 date: 2015-07-23 12:39:09+10:00
 categories: ['bad', 'edc3100', 'indicators']
 type: post

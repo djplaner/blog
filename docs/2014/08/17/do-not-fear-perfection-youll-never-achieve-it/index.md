@@ -1,5 +1,5 @@
 ---
-title: "Do not fear perfection, you&#039;ll never achieve it"
+title: Do not fear perfection, you'll never achieve it
 date: 2014-08-17 12:48:19+10:00
 categories: ['edu8117']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: "Possible sources of an institution&#039;s e-learning content problems"
+title: Possible sources of an institution's e-learning content problems
 date: 2015-08-13 10:18:36+10:00
 categories: ['elearning', 'moodleopenbook']
 type: post

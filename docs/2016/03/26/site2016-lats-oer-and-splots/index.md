@@ -1,5 +1,5 @@
 ---
-title: "SITE&#039;2016: LATs, OER, and SPLOTs?"
+title: "SITE'2016: LATs, OER, and SPLOTs?"
 date: 2016-03-26 02:40:52+10:00
 categories: ['bad', 'oep', 'site2016']
 type: post

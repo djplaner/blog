@@ -1,5 +1,5 @@
 ---
-title: "What to expect/look for from SITE&#039;2016?"
+title: What to expect/look for from SITE'2016?
 date: 2016-03-22 10:02:00+10:00
 categories: ['bad', 'edc3100']
 type: post

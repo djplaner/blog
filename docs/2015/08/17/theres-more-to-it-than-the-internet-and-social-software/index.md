@@ -1,5 +1,5 @@
 ---
-title: "There&#039;s more to it than the Internet and social software"
+title: There's more to it than the Internet and social software
 date: 2015-08-17 17:17:14+10:00
 categories: ['netgl']
 type: post

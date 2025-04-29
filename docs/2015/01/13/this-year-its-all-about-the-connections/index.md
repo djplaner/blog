@@ -1,5 +1,5 @@
 ---
-title: "This year it&#039;s all about the connections"
+title: This year it's all about the connections
 date: 2015-01-13 10:54:56+10:00
 categories: ['bad']
 type: post

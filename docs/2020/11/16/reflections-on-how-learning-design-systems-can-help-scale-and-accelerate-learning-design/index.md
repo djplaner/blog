@@ -1,5 +1,5 @@
 ---
-title: Reflections on "How learning design systems can help scale and accelerate learning design"
+title: Reflections on \"How learning design systems can help scale and accelerate learning design\"
 date: 2020-11-16 07:49:12+10:00
 categories: ['casa']
 coverImage: 36379213_b65e65ed62_o.jpg

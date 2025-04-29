@@ -1,5 +1,5 @@
 ---
-title: The research &quot;foundation&quot; for the missing Ps
+title: The research \"foundation\" for the missing Ps
 date: 2006-10-29 08:33:38+10:00
 categories: ['elearning', 'missingps']
 type: post

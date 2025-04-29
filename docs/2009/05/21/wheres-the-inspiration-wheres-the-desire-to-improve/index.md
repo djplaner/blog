@@ -1,5 +1,5 @@
 ---
-title: "Where&#039;s the inspiration? Where&#039;s the desire to improve?"
+title: Where's the inspiration? Where's the desire to improve?
 date: 2009-05-21 10:27:45+10:00
 categories: ['elearning', 'innovation', 'reflectivealignment']
 type: post

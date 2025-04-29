@@ -1,5 +1,5 @@
 ---
-title: "Contradictions in adjectives: You can&#039;t be consistent and optimal"
+title: "Contradictions in adjectives: You can't be consistent and optimal"
 date: 2015-02-25 06:36:00+10:00
 categories: ['thesis']
 tags: ['bad', 'elearning']

@@ -1,5 +1,5 @@
 ---
-title: A start to the &quot;Introduction to Learning and Knowledge Analytics&quot; MOOC
+title: A start to the \"Introduction to Learning and Knowledge Analytics\" MOOC
 date: 2011-01-10 22:39:14+10:00
 categories: ['indicators', 'lak11']
 tags: ['lak11']

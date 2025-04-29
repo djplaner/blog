@@ -1,5 +1,5 @@
 ---
-title: How do you &quot;apprehend the future&quot;
+title: How do you \"apprehend the future\"
 date: 2009-07-01 21:43:52+10:00
 categories: ['elearning', 'futures']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: Helping &quot;NESB&quot; students realise - there is no one answer
+title: Helping \"NESB\" students realise - there is no one answer
 date: 2006-10-11 08:36:44+10:00
 categories: ['bam']
 type: post

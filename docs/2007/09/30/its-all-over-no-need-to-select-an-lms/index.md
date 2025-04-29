@@ -1,5 +1,5 @@
 ---
-title: "It&#039;s all over: no need to select an LMS"
+title: "It's all over: no need to select an LMS"
 date: 2007-09-30 22:14:18+10:00
 categories: ['elearning']
 type: post

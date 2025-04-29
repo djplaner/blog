@@ -1,5 +1,5 @@
 ---
-title: "It&#039;s making us stupid"
+title: It's making us stupid
 date: 2014-02-17 11:58:01+10:00
 categories: ['elearning']
 type: post

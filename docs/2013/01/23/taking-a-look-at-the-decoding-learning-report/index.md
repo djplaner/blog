@@ -1,5 +1,5 @@
 ---
-title: Taking a look at the &quot;Decoding Learning&quot; report
+title: Taking a look at the \"Decoding Learning\" report
 date: 2013-01-23 13:07:08+10:00
 categories: ['edc3100', 'teaching']
 type: post

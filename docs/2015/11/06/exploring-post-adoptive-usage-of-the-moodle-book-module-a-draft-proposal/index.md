@@ -1,5 +1,5 @@
 ---
-title: "Exploring &quot;post adoptive usage&quot; of the #moodle Book module - a draft proposal"
+title: "Exploring \"post adoptive usage\" of the #moodle Book module - a draft proposal"
 date: 2015-11-06 15:39:36+10:00
 categories: ['bad', 'elearning', 'exploring', 'moodleopenbook']
 type: post

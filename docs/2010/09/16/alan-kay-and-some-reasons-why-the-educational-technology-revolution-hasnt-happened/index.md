@@ -1,5 +1,5 @@
 ---
-title: "Alan Kay and some reasons why the educational technology revolution hasn&#039;t happened"
+title: Alan Kay and some reasons why the educational technology revolution hasn't happened
 date: 2010-09-16 12:15:28+10:00
 categories: ['elearning', 'herding-cats']
 type: post

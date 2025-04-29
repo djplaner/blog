@@ -1,5 +1,5 @@
 ---
-title: "&quot;One ring to rule them all&quot;: Limitations and implications of the LMS/VLE product model"
+title: "\"One ring to rule them all\": Limitations and implications of the LMS/VLE product model"
 date: 2009-03-27 11:20:36+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
 type: post

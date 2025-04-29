@@ -1,5 +1,5 @@
 ---
-title: "The conditions for Anna&#039;s phone"
+title: The conditions for Anna's phone
 date: 2010-03-13 09:39:22+10:00
 categories: ['thesis']
 type: post

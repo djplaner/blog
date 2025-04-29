@@ -1,5 +1,5 @@
 ---
-title: "CQU&#039;s first Web 2.0 course site?"
+title: CQU's first Web 2.0 course site?
 date: 2007-06-12 19:58:00+10:00
 categories: ['web-20-course-sites']
 type: post

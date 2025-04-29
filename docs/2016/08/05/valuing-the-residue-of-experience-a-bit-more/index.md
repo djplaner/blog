@@ -1,5 +1,5 @@
 ---
-title: Valuing the &quot;residue of experience&quot; a bit more
+title: Valuing the \"residue of experience\" a bit more
 date: 2016-08-05 10:46:29+10:00
 categories: ['edc3100', 'edu8117']
 type: post

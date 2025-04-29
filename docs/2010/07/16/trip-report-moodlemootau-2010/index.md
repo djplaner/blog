@@ -1,5 +1,5 @@
 ---
-title: "Trip report - Moodlemoot&#039;AU 2010"
+title: Trip report - Moodlemoot'AU 2010
 date: 2010-07-16 13:40:09+10:00
 categories: ['alignment', 'elearning', 'indicators', 'moodle']
 type: post

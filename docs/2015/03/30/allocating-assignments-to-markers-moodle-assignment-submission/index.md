@@ -1,5 +1,5 @@
 ---
-title: "Concrete lounges and why basketball players aren&#039;t better hockey players"
+title: Concrete lounges and why basketball players aren't better hockey players
 date: 2015-03-30 17:45:51+10:00
 categories: ['concretelounge', 'elearning', 'moodle', 'oasm']
 tags: ['moodle', 'oasm']

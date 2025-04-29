@@ -1,5 +1,5 @@
 ---
-title: Requirements for an &quot;indicators&quot; Moodle block
+title: Requirements for an \"indicators\" Moodle block
 date: 2010-05-09 14:18:26+10:00
 categories: ['elearning', 'herding-cats', 'indicators']
 type: post

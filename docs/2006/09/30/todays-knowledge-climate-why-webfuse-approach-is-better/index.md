@@ -1,5 +1,5 @@
 ---
-title: "Today&#039;s knowledge climate - why Webfuse approach is better"
+title: Today's knowledge climate - why Webfuse approach is better
 date: 2006-09-30 22:50:50+10:00
 categories: ['webfuse']
 type: post

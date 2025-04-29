@@ -1,5 +1,5 @@
 ---
-title: "Cognition - we&#039;re not rational and how it impacts e-learning"
+title: Cognition - we're not rational and how it impacts e-learning
 date: 2009-03-20 14:07:22+10:00
 categories: ['chapter-2', 'cognitiveedge', 'design-theory', 'elearning', 'phd', 'psframework', 'reflectivealignment', 'thesis']
 type: post

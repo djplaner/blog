@@ -1,5 +1,5 @@
 ---
-title: "The demise of ALTC and why I&#039;m not sad"
+title: The demise of ALTC and why I'm not sad
 date: 2011-01-28 13:48:46+10:00
 categories: ['thesis']
 type: post

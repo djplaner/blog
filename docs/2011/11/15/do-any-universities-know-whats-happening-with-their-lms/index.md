@@ -1,5 +1,5 @@
 ---
-title: "Do any universities know what&#039;s happening with their LMS?"
+title: Do any universities know what's happening with their LMS?
 date: 2011-11-15 08:44:33+10:00
 categories: ['indicators']
 type: post

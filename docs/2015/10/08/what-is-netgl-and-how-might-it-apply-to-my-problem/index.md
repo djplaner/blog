@@ -1,5 +1,5 @@
 ---
-title: What is &quot;netgl&quot; and how might it apply to my problem
+title: What is \"netgl\" and how might it apply to my problem
 date: 2015-10-08 14:21:06+10:00
 categories: ['edu8117', 'netgl']
 type: post

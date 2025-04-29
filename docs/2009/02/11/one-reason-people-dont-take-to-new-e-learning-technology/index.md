@@ -1,5 +1,5 @@
 ---
-title: "One reason people don&#039;t take to new e-learning technology"
+title: One reason people don't take to new e-learning technology
 date: 2009-02-11 14:39:05+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'missingps', 'ple', 'plescquni', 'quotes', 'thesis']
 type: post

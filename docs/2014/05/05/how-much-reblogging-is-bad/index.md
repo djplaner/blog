@@ -1,5 +1,5 @@
 ---
-title: How much reblogging is &quot;bad&quot;?
+title: How much reblogging is \"bad\"?
 date: 2014-05-05 13:38:56+10:00
 categories: ['edc3100']
 type: post

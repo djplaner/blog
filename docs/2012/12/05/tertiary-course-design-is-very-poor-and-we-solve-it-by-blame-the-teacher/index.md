@@ -1,5 +1,5 @@
 ---
-title: Tertiary course design is very poor, and we solve it by &quot;blame the teacher&quot;
+title: Tertiary course design is very poor, and we solve it by \"blame the teacher\"
 date: 2012-12-05 09:13:27+10:00
 categories: ['thesis']
 type: post

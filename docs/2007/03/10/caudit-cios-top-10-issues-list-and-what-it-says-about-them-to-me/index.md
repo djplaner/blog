@@ -1,5 +1,5 @@
 ---
-title: "CAUDIT CIO&#039;s top 10 issues list - and what it says about them (to me)"
+title: CAUDIT CIO's top 10 issues list - and what it says about them (to me)
 date: 2007-03-10 21:06:25+10:00
 categories: ['elearning', 'information-systems']
 type: post

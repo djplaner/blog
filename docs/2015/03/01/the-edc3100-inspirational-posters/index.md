@@ -1,5 +1,5 @@
 ---
-title: The edc3100 &quot;inspirational posters&quot;
+title: The edc3100 \"inspirational posters\"
 date: 2015-03-01 11:34:56+10:00
 categories: ['edc3100']
 type: post

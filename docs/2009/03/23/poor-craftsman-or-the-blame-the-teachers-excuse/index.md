@@ -1,5 +1,5 @@
 ---
-title: Poor craftsman - or the &quot;blame the teachers&quot; excuse
+title: Poor craftsman - or the \"blame the teachers\" excuse
 date: 2009-03-23 17:07:33+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'reflectivealignment', 'thesis']
 type: post

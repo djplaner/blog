@@ -1,5 +1,5 @@
 ---
-title: Learning analytics - What is the &quot;end in mind&quot;?
+title: Learning analytics - What is the \"end in mind\"?
 date: 2013-08-02 13:19:56+10:00
 categories: ['indicators', 'irac']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: And the little one said, &quot;roll over, roll over&quot;
+title: And the little one said, \"roll over, roll over\"
 date: 2015-06-26 14:12:49+10:00
 categories: ['edc3100', 'moodle']
 type: post

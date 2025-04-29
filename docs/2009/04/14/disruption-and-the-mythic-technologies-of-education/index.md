@@ -1,5 +1,5 @@
 ---
-title: Disruption and the &quot;mythic&quot; technologies of education
+title: Disruption and the \"mythic\" technologies of education
 date: 2009-04-14 10:57:58+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'moodle', 'phd', 'psframework', 'reflectivealignment', 'thesis']
 type: post

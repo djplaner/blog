@@ -1,5 +1,5 @@
 ---
-title: "Computers &#039;do not improve&#039; pupil results, just like wood &#039;does not improve&#039; houses"
+title: Computers 'do not improve' pupil results, just like wood 'does not improve' houses
 date: 2015-09-16 09:59:07+10:00
 categories: ['bad', 'edc3100', 'elearning']
 type: post

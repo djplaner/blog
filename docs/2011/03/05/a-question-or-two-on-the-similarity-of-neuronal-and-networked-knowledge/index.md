@@ -1,5 +1,5 @@
 ---
-title: A question (or two) on the similarity of &quot;neuronal&quot; and &quot;networked&quot; knowledge
+title: A question (or two) on the similarity of \"neuronal\" and \"networked\" knowledge
 date: 2011-03-05 16:58:29+10:00
 categories: ['eded20491', 'elearning', 'teaching']
 type: post

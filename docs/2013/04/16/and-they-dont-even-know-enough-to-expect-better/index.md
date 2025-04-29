@@ -1,5 +1,5 @@
 ---
-title: "And they don&#039;t even know enough to expect better"
+title: And they don't even know enough to expect better
 date: 2013-04-16 12:44:53+10:00
 categories: ['bim', 'elearning']
 type: post

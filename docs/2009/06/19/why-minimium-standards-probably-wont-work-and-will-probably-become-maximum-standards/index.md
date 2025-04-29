@@ -1,5 +1,5 @@
 ---
-title: "Why minimium standards (probably) won&#039;t work and will probably become maximum standards"
+title: Why minimium standards (probably) won't work and will probably become maximum standards
 date: 2009-06-19 13:30:07+10:00
 categories: ['chapter-2', 'design-theory', 'thesis']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: BIM - Getting &quot;show student details&quot; working
+title: BIM - Getting \"show student details\" working
 date: 2009-12-17 15:58:31+10:00
 categories: ['bim']
 type: post

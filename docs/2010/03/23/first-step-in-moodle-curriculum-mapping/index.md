@@ -1,5 +1,5 @@
 ---
-title: First step in &quot;Moodle curriculum mapping&quot;
+title: First step in \"Moodle curriculum mapping\"
 date: 2010-03-23 14:13:24+10:00
 categories: ['curriculummapping-cddu']
 type: post

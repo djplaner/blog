@@ -1,5 +1,5 @@
 ---
-title: "It&#039;s better at home: One contributor to why ICT integration in schools sucks"
+title: "It's better at home: One contributor to why ICT integration in schools sucks"
 date: 2012-02-07 16:55:37+10:00
 categories: ['edc3100', 'ict', 'teaching']
 type: post

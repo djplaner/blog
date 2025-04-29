@@ -1,5 +1,5 @@
 ---
-title: Adding &quot;deleted&quot; to BIM
+title: Adding \"deleted\" to BIM
 date: 2010-04-30 13:37:36+10:00
 categories: ['bim', 'moodle']
 type: post

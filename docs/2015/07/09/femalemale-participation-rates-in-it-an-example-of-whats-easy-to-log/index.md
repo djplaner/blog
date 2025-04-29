@@ -1,5 +1,5 @@
 ---
-title: "Female/male participation rates in IT: an example of what&#039;s easy to log??"
+title: "Female/male participation rates in IT: an example of what's easy to log??"
 date: 2015-07-09 08:40:18+10:00
 categories: ['eds4406', 'ipt']
 type: post

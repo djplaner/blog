@@ -1,5 +1,5 @@
 ---
-title: Documenting the gap between &quot;start of art&quot; and &quot;state of the actual&quot;
+title: Documenting the gap between \"start of art\" and \"state of the actual\"
 date: 2013-06-20 11:33:17+10:00
 categories: ['bim', 'design-theory', 'distributedcognition', 'edc3100', 'elearning', 'indicators']
 type: post

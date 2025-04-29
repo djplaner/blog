@@ -1,5 +1,5 @@
 ---
-title: "It&#039;s always easier to say sorry than to ask for permission"
+title: It's always easier to say sorry than to ask for permission
 date: 2009-02-12 13:32:48+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'thesis', 'webfuse']
 type: post

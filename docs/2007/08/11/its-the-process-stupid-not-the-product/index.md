@@ -1,5 +1,5 @@
 ---
-title: "It&#039;s the process, stupid (not the product)"
+title: It's the process, stupid (not the product)
 date: 2007-08-11 22:27:51+10:00
 categories: ['missingps']
 type: post

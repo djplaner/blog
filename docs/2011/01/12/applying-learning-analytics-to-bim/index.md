@@ -1,5 +1,5 @@
 ---
-title: Applying &quot;learning analytics&quot; to BIM
+title: Applying \"learning analytics\" to BIM
 date: 2011-01-12 10:25:27+10:00
 categories: ['bim', 'bim2', 'indicators', 'lak11']
 tags: ['lak11']

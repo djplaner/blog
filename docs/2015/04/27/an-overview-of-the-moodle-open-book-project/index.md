@@ -1,5 +1,5 @@
 ---
-title: An overview of the Moodle &quot;open&quot; book project
+title: An overview of the Moodle \"open\" book project
 date: 2015-04-27 12:57:22+10:00
 categories: ['moodle', 'moodleopenbook']
 type: post

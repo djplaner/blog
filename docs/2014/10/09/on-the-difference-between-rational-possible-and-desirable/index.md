@@ -1,5 +1,5 @@
 ---
-title: On the difference between &quot;rational&quot;, &quot;possible&quot; and &quot;desirable&quot;
+title: On the difference between \"rational\", \"possible\" and \"desirable\"
 date: 2014-10-09 11:24:43+10:00
 categories: ['bad', 'elearning', 'indicators']
 type: post

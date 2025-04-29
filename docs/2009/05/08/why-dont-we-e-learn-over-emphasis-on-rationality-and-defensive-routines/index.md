@@ -1,5 +1,5 @@
 ---
-title: "Why don&#039;t we (e-)learn - over emphasis on rationality and defensive routines"
+title: Why don't we (e-)learn - over emphasis on rationality and defensive routines
 date: 2009-05-08 22:36:58+10:00
 categories: ['chapter-2', 'design-theory', 'herding-cats', 'phd', 'psframework', 'reading', 'reflectivealignment', 'thesis']
 type: post

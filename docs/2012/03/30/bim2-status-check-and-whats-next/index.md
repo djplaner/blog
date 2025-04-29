@@ -1,5 +1,5 @@
 ---
-title: "bim2 - status check and what&#039;s next"
+title: bim2 - status check and what's next
 date: 2012-03-30 22:40:51+10:00
 categories: ['bim2']
 type: post

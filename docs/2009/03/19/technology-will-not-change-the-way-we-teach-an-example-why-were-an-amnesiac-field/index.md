@@ -1,5 +1,5 @@
 ---
-title: "Technology will *not* change the way we teach - an example why we&#039;re an amnesiac field"
+title: Technology will *not* change the way we teach - an example why we're an amnesiac field
 date: 2009-03-19 16:26:13+10:00
 categories: ['chapter-2', 'elearning', 'phd', 'psframework', 'thesis']
 type: post

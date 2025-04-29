@@ -1,5 +1,5 @@
 ---
-title: Early indications of &quot;blame the student&quot; that continues today
+title: Early indications of \"blame the student\" that continues today
 date: 2009-04-06 21:40:55+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: "MAV, #moodle, process analytics and how I&#039;m an idiot"
+title: "MAV, #moodle, process analytics and how I'm an idiot"
 date: 2014-02-03 13:24:40+10:00
 categories: ['edc3100', 'elearning', 'indicators', 'irac']
 tags: ['mav']

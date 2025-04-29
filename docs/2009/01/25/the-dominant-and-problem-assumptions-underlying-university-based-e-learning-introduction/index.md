@@ -1,5 +1,5 @@
 ---
-title: "The &quot;dominant&quot; assumptions underlying university-based e-learning: an introduction"
+title: "The \"dominant\" assumptions underlying university-based e-learning: an introduction"
 date: 2009-01-25 13:53:47+10:00
 categories: ['chapter-2', 'design-theory', 'elearning', 'thesis', 'webfuse']
 type: post

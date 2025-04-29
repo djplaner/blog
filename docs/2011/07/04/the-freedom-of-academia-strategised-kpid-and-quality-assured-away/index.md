@@ -1,5 +1,5 @@
 ---
-title: "The freedom of academia: strategised, KPI&#039;d, and quality assured away"
+title: "The freedom of academia: strategised, KPI'd, and quality assured away"
 date: 2011-07-04 11:02:43+10:00
 categories: ['thesis']
 type: post

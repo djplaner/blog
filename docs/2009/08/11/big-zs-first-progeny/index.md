@@ -1,5 +1,5 @@
 ---
-title: "Big Z&#039;s first progeny"
+title: Big Z's first progeny
 date: 2009-08-11 08:54:50+10:00
 categories: ['thesis']
 type: post

@@ -1,5 +1,5 @@
 ---
-title: &quot;Scaling&quot; educational innovations
+title: \"Scaling\" educational innovations
 date: 2011-12-07 09:12:34+10:00
 categories: ['thesis']
 type: post

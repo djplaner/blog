@@ -1,5 +1,5 @@
 ---
-title: "Analysing the business model for higher education and why they can&#039;t"
+title: Analysing the business model for higher education and why they can't
 date: 2010-08-15 13:35:06+10:00
 categories: ['thesis']
 tags: ['andrew-keen', 'business', 'highereducation', 'jeff-jarvis', 'which-part', 'your-business-model']

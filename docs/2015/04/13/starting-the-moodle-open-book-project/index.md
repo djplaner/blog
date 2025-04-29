@@ -1,5 +1,5 @@
 ---
-title: Starting the &quot;Moodle open book&quot; project
+title: Starting the \"Moodle open book\" project
 date: 2015-04-13 22:09:57+10:00
 categories: ['bad', 'moodleopenbook', 'openbook']
 type: post

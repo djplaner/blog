@@ -1,5 +1,5 @@
 ---
-title: Ideas for &quot;spaces&quot; in Second Life
+title: Ideas for \"spaces\" in Second Life
 date: 2008-01-18 16:57:36+10:00
 categories: ['secondlife', 'web3dx']
 tags: ['cddu-web3dx-secondlife-learningspaces']

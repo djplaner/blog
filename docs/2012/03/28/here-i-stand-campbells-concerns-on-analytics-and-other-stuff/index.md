@@ -1,5 +1,5 @@
 ---
-title: "&quot;Here I stand&quot; - Campbell&#039;s concerns on analytics and other stuff"
+title: \"Here I stand\" - Campbell's concerns on analytics and other stuff
 date: 2012-03-28 14:02:22+10:00
 categories: ['indicators']
 type: post
