@@ -1,5 +1,5 @@
 
-site_name: "David Jones' weblog"
+site_name: "Some Assemblage Required"
 site_url: https://djon.es/blog2/
 repo_url: https://github.com/djplaner/blog
 site_author: "David Jones"
@@ -100,6 +100,8 @@ extra:
     link: https://indieweb.social/@djplaner
   - icon: fontawesome/brands/github
     link: https://github.com/djplaner
+  - icon: fontawesome/solid/rss
+    link: https://djon.es/blog2/feed/feed.rss
 
 # Specify navigation structure
 nav:

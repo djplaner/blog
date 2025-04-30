@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Some assemblage required</title>
+    <link>http://djon.es/blog</link>
+    <description>Some assemblage required - a blog about learning, teaching and technology</description>
+    <atom:link href="http://djon.es/blog" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en-AU</language>
+    <lastBuildDate>Wed, 30 Apr 2025 09:07:39 +0000</lastBuildDate>
+    <item>
+      <title>What are the symbols in digital education/design for learning?</title>
+      <description>&lt;p&gt;Benbya et al (2020, p. 3) argue that digitial technologies do make a difference, including this point (among others)&lt;a href="https://djon.es/blog2/2021/03/24/what-are-the-symbols-in-digital-education-design-for-learning/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2021/03/24/what-are-the-symbols-in-digital-education-design-for-learning/</guid>
+    </item>
+    <item>
+      <title>On formal qualifications and improving learning and teaching</title>
+      <description>&lt;p&gt;The following is sparked by Twitter conversations arising from a tweet from @neilmosley5 quoting from this article by Tony Bates. In particular, pondering a tweet from @gamerlearner where the idea is that a "consistent requirement for educators in HE to have some kind of formal teaching qual" will not only help motivate academics "to take time out to learn how to teach better" and generally value teaching more.&lt;a href="https://djon.es/blog2/2021/03/30/on-formal-qualifications-and-improving-learning-and-teaching/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2021/03/30/on-formal-qualifications-and-improving-learning-and-teaching/</guid>
+    </item>
+    <item>
+      <title>Exploring Dron's definition of educational technology</title>
+      <description>&lt;p&gt;Pre-COVID the role of technology in learning and teaching in higher education was important. However, in 2020 it became core as part of the COVID response. Given the circumstances it is no surprise that chunks of that response were not that great. There was some good work. There was a lot of a "good enough for the situation" work. There was quite a bit that really sucked. For example,&lt;a href="https://djon.es/blog2/2021/06/04/exploring-drons-definition-of-educational-technology/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2021/06/04/exploring-drons-definition-of-educational-technology/</guid>
+    </item>
+    <item>
+      <title>Representing problems to make the solution transparent</title>
+      <description>&lt;p&gt;The following illustrates how the game Number Scrabble and Herb Simon's thoughts on the importance of design representation appears likely to help with migration of 1000s of course sites from Blackboard Learn (aka Blackboard Original) to another LMS. Not to mention becoming useful post-migration.&lt;a href="https://djon.es/blog2/2021/10/23/representing-problems-to-make-the-solution-transparent/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2021/10/23/representing-problems-to-make-the-solution-transparent/</guid>
+    </item>
+    <item>
+      <title>Orchestrating entangled relations to break the iron triangle: examples from a LMS migration</title>
+      <description>&lt;p&gt;All university strategies for learning and teaching seek to maximise: accessibility (as many people as possible can participate - feel the scale - in as many ways as possible); quality (it's good); and, cost effectiveness (it's cheap to produce and offer). Ryan et al (2021) argue that this is a "key issue for contemporary higher education" (p. 1383) due to inevitable cost constraints, the benefits of increased access to higher education, and requirements to maintain quality standards. However, the literature on the "iron triangle" in higher education (e.g. Daniel et al, 2009; Mulder, 2013; Ryan et al, 2021) suggests that maximising all three is difficult, if not impossible. As illustrated in Figure 1 (adapted from Mulder, 2013, p. 100) the iron triangle suggests that changes in one (e.g. changing accessibility from on-campus to online due to COVID) will have negatively impact at least one, but probably both, of the other qualities (e.g. the COVID response involving increase in workload for staff and resulting in less than happy participants).&lt;a href="https://djon.es/blog2/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/</guid>
+    </item>
+    <item>
+      <title>Orchestrating entangled relations to stretch the iron triangle: Observations from an LMS migration</title>
+      <description>&lt;p&gt;This work arose from the depths of an institutional LMS migration (Blackboard Learn to Canvas). In particular, the observation that the default migration processes required an awful lot of low level manual labour. Methods that appeared to reduce the quality of the migration process and increase the cost. Hence we started developing different methods. As the migration project unfolded we kept developing and refining. Building on what we'd done before and further decreasing the cost of migration, increasing the quality of the end result, and increasing the scale and diversity of what we could migrate.&lt;a href="https://djon.es/blog2/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/</guid>
+    </item>
+    <item>
+      <title>Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable delivery of quality learning and teaching</title>
+      <description>&lt;p&gt;Henry Cook, Steven Booten and I gave the following presentation at the THETA conference in Brisbane in April 2023.&lt;a href="https://djon.es/blog2/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/</guid>
+    </item>
+    <item>
+      <title>Higher ed L&amp;T's scale problem?</title>
+      <description>&lt;p&gt;Contemporary higher education appears to have a scale problem.&lt;a href="https://djon.es/blog2/2023/02/23/higher-ed-lts-scale-problem/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2023/02/23/higher-ed-lts-scale-problem/</guid>
+    </item>
+    <item>
+      <title>Announcing (finally) Canvas Collections</title>
+      <description>&lt;p&gt;Finally, a reasonable version of Canvas Collections and associated support materials is ready to announce. Following will eventually form the content of a blog post posted to the Canvas community space.&lt;a href="https://djon.es/blog2/2023/08/18/announcing-finally-canvas-collections/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2023/08/18/announcing-finally-canvas-collections/</guid>
+    </item>
+    <item>
+      <title>What now?</title>
+      <description>&lt;p&gt;2024 passed without a post to this blog. Many reasons, but largely because I moved on from higher education. Suddenly digital education - the old focus of this blog - wasn't a big part of my thinking. Raising the question, what now?&lt;a href="https://djon.es/blog2/2025/01/12/what-now/"&gt;...more...&lt;/a&gt;&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://djon.es/blog2/2025/01/12/what-now/</guid>
+    </item>
+  </channel>
+</rss>

@@ -18,15 +18,19 @@ Process
 """
 
 import re
-import glob
 import mkdocs_gen_files
 import frontmatter
 import pathlib
 import markdown
-#from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
+from feedgen.feed import FeedGenerator
 from pprint import pprint
 
+# not sure this is needed
 BLOG_FOLDER = ""
+# Full path to where the markdown files are there
+BLOG_HOME="/Users/davidjones/blog/docs/"
+BLOG_URL="https://djon.es/blog2/"
 
 
 def generateCategoryPage(categoryName, items):
@@ -51,12 +55,18 @@ See also: [[blog-home]], [[posts]], [[pages]]
 
 """)
 
+        #-- sort items from most recent to oldest by date
+#        items = sorted(items, key=lambda x: x['yaml']['date'], reverse=True)
+
         for item in items:
             path = item['path'].replace( "docs/", "").replace("index.md", "index.html")
             #-- remove " See also: [.*) from content
 #            content = re.sub( r".*See also: ) ", "", item['content'] )
             content = item['content'].replace("See also: [[blog-home | Home]]", "")
-            htmlContent = markdown.markdown(content[:300])
+            htmlContent = markdown.markdown(content)
+            soup = BeautifulSoup(htmlContent, 'html.parser')
+
+            content = f"<p>{soup.find_all('p')[0].text}<a href=\"../{path}\">...more...</a></p>"
 
 #            if categoryName == "thesis":
 #                print(f"*******\n{item['content'][:300]}\n")
@@ -73,7 +83,7 @@ See also: [[blog-home]], [[posts]], [[pages]]
   <div class="blog-item-title"><a href="../{path}">{item['yaml']['title']}</a></div>
   <div class="blog-item-date">📅 {date}</div>
   <div class="blog-item-content-preview">
-    {htmlContent}...
+    {content}
   </div>
 </div>
                     """)
@@ -108,6 +118,11 @@ def retrieveBlogItems(blogFolder=BLOG_FOLDER):
     anything that doesn't have the type: post or page
     Add a field to the item ['path'] with the path to the file
 
+    Parameters
+    blogFolder : str folder containing the blog markdown files
+
+    Returns
+    items : list of blog items ordered by date descending
     """
 
     # TODO how to exclude a bunch of files - before or after glob
@@ -127,6 +142,9 @@ def retrieveBlogItems(blogFolder=BLOG_FOLDER):
                 #-- replace any \" with " in title 
                 fileContent['yaml']['title'] = fileContent['yaml']['title'].replace("\\\"", "\"")
                 items.append(fileContent)
+
+    ## order items by descending date ['yaml']['date']
+    items = sorted(items, key=lambda x: x['yaml']['date'], reverse=True)
 
     return items
 
@@ -167,6 +185,57 @@ def extractFileContent(path):
 #
 #    return pageData
 
+def generateFeeds(blogItems):
+    """
+    Generate the blog's various feeds
+    - blog/feed/ as an RSS
+    of the 10 most recent posts
+
+    Use feedgen (https://github.com/lkiesow/python-feedgen) to generate the RSS feed
+    - get the 10 most recent posts from blogItems
+    - generate the RSS feed and write to feed/index.md
+    """
+ 
+    mostRecent = blogItems[:10]
+
+    #-- set up the feed
+    fg=FeedGenerator()
+    fg.id('http://lernfunk.de/media/654321')
+    fg.title('Some assemblage required')
+    fg.author( {'name':'David Jones','email':'davidthomjones@gmail.com'} )
+    fg.link( href='http://djon.es/blog', rel='self' )
+    fg.language('en-AU')
+    fg.description('Some assemblage required - a blog about learning, teaching and technology')
+
+    #-- add each item to the feed
+    for item in mostRecent:
+        #-- convert date to RFC 2822 format
+        date = item['yaml']['date'].strftime("%a, %d %b %Y %H:%M:%S +0000")
+        fe = fg.add_entry()
+        fe.title(item['yaml']['title'])
+        path = f'{BLOG_URL}{item["path"].replace( "docs/", "").replace("index.md", "")}'
+#        print(f"Adding {path} to feed")
+        #input("Press Enter to continue...")
+        fe.id(path)
+        fe.title(item['yaml']['title'])
+#        fe.link(href=f"{BLOG_URL}feed/") # TODO is this the correct link?
+#        fe.pubDate(date)
+#        fe.category(item['yaml']['categories']) # TODO category is meant to be one tag for each category
+
+        #-- prepare the content, extract first paragraph as HTML
+        content = item['content'].replace("See also: [[blog-home | Home]]", "")
+        htmlContent = markdown.markdown(content)
+        soup = BeautifulSoup(htmlContent, 'html.parser')
+        content = f"<p>{soup.find_all('p')[0].text}<a href=\"{path}\">...more...</a></p>"
+        fe.description(content) # TODO extract first collection of content
+
+    #-- write the feed to a file
+#    with mkdocs_gen_files.open(f"{BLOG_FOLDER}feed/index.md", "w") as f:
+#        f.write(str(fg.rss_str(pretty=True)))
+
+    with mkdocs_gen_files.open(f"{BLOG_HOME}feed/feed.rss", "w") as f:
+        f.write(str(fg.rss_str(pretty=True), 'utf-8'))
+
 
 def generator():
     """
@@ -181,6 +250,9 @@ def generator():
 
     # Generate category pages 
     generateCategories( blogItems)
+
+    # Generate RSS feed
+    generateFeeds(blogItems)
 
 
 generator()
