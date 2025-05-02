@@ -179,9 +179,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday, Derek Moore [tweeted](http://twitter.com/weblearning/status/10865172082)
 
 > University webs require eye candy + brain fare. Puget Sound's site does both with colour palate & info architecture http://bit.ly/9U1kBN

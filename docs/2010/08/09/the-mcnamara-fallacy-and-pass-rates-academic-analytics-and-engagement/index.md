@@ -23,9 +23,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In some reading for the thesis today I came across the concept of McNamara's fallacy. I hadn't heard this before. This is somewhat surprising as it points out another common problem with some of the more simplistic approaches to improving learning and teaching that are going around at the moment. It's also likely to be a problem with any simplistic implementation of academic analytics.
 
 ### What is it?

@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is not good. It seems that Wordpress.com is starting to eat posts.
 
 Earlier today I added a post about a photo of mine from Flickr, licensed under creative commons that has been picked up and used by an online mapping service. I link that with the 80/20 rule and a Ted talk by Clay Shirky

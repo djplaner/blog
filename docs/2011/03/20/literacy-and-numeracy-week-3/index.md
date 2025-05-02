@@ -5,9 +5,6 @@ categories: ['eded20458', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So, after a delay due to an assignment in another course and organising a new car, it's time to catch up on Week 3 of this course. Just as week 4 is starting and the first assignment is due. A few late nights coming up.
 
 ### Secondary school focus

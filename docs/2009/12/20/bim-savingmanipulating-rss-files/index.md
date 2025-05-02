@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the [last post](/blog2/2009/12/17/bim-getting-show-student-details-working/) I'd gotten started having the show student details screen actually getting data from the database. One data source this screen needs is not in the database, it's in the RSS file from the student's blog that is mirrored on the Moodle site. This post talks about the process about how BIM will be saving, reading and using that RSS file in its operation.
 
 There will be at least two parts:

@@ -5,9 +5,6 @@ categories: ['bim', 'edc3100', 'elearning', 'paperideas', 'research']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The use of blogs in one of the courses I teach is now into it's fourth semester. Well past time to do explore how it's all going, evaluate some of the design decisions, and make some decisions about future developments. In preparation for that it's time to look at some of the extant literature to look at findings and methods. The following is the first such summary and is focused on @spalm et al's
 
 > Palmer, S., Holt, D., & Bray, S. (2008). The learning outcomes of an online reflective journal in engineering, 724–732.

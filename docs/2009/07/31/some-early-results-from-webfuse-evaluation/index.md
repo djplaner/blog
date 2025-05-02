@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following contains some early results from the evaluation of Webfuse course sites as mentioned in the [last post](/blog2/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/). The aim is to get a rough initial feel for how the course sites created for Webfuse in the late 90s and early 00s stack up using the framework produced by Malikowski et al (2007). As opposed to other PhD work, this is a case of "showing the working".
 
 ### How many page types?

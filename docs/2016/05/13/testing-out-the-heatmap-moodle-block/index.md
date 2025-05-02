@@ -5,9 +5,6 @@ categories: ['bad']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Following is a quick report on installing and playing with [the Moodle Heatmap block](https://moodle.org/plugins/block_heatmap) by Michael de Raadt. It's inspired by @damoclarky's [Moodle Activity Viewer (MAV)](https://github.com/damoclark/mav). Both tools modify Moodle web pages by overlaying [a heatmap](https://en.wikipedia.org/wiki/Heat_map).
 
 Knowing Michael I'm assuming the block will work perfectly. But I'm particularly interested to see how broadly it works within Moodle. Based on my vague undestanding of Moodle, I believe it will have some limitations that MAV doesn't. This is of particular interest because the theoretical perspective offered by the [SET and BAD mindsets](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) predicts that Heatmap will have some limitations (and strengths), that MAV doesn't.

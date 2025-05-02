@@ -5,9 +5,6 @@ categories: ['eds4406', 'ipt']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 There's an identified problem with learning analytics captured by the quote from Buckingham-Shum in the image below (the image is from [a presentation](http://www.slideshare.net/davidj/four-paths-for-learning-analytics-moving-beyond-a-management-fashion) I gave yesterday on learning analytics, so my head is in that space). In the case of learning analytics that data that is easy to capture is generally mouse clicks. The number of times a learner clicks on a website. Computer systems log this information almost by default. It's the data that exists so it is what learning analytics analyses. It's the data which defines the way people think about the problem.
 
 [![Easy to log](images/19538897211_d3fe777347.jpg)](https://www.flickr.com/photos/david_jones/19538897211/in/dateposted-public/ "Easy to log")

@@ -5,9 +5,6 @@ categories: ['elearning', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's that time in my thesis work (trawling through references for the lit review) when I have finally come back to the "LMS Governance report" written by Lisa Wise and James Quealy. This went through the blogosphere a while back. You can access the PDF of the report and a MediaWiki based annotated bibliography from this [blog post](http://wisebytes.net/wordpress/2006/07/03/lms-governance-final-report/).
 
 The following is my attempt at a summary and a bit of reflection (the reflection may be very light)

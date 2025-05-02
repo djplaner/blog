@@ -34,9 +34,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Tracey's found her blogging mojo with a raft of posts (new since I last looked) including [this one](http://learningforinsight.wordpress.com/2014/08/25/conscientiousness-creativity-and-an-online-educational-future/) linking to work that identifies conscientiousness as the main secret to success in much of life. The focus on personality is in common the connections to Myers-Briggs and related ideas that [Brendon](http://willocksb.wordpress.com/2014/08/25/gathering-some-data/) and [Anne](http://astrethewey.wordpress.com/2014/08/28/more-than-you-might-think/) have touched on.
 
 Tried one of the tests Brendon pointed to and it confirmed earlier results - [INTP](http://www.16personalities.com/intp-personality). So at least it's somewhat reliable in a broad, "I haven't changed much" sort of a way. Even if there are some [significant questions](http://www.theguardian.com/science/brain-flapping/2013/mar/19/myers-briggs-test-unscientific) about it. I wonder whether this labeling of me makes sense to the other NGL participants?

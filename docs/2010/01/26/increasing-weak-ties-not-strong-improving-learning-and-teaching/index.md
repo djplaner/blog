@@ -5,9 +5,6 @@ categories: ['curriculumdesign', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm wondering if too much of the focus on improving teaching within universities is focused on groups within strong(er) ties at the cost of increasing the weaker ties.
 
 ### Strong(er) ties

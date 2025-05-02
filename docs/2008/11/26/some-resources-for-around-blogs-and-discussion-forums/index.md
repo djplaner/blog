@@ -5,9 +5,6 @@ categories: ['elearning', 'ple', 'plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 !!! warning "Broken image link"
     
 

@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 And the first day of my transition back into Academia commences. What follows is an initial list of my short-term plans for research and development. I had pondered coming up with some grand vision for my academic career, but I really detest visions and mission statements as ways to enshrine your current limited understanding in such a way as to ignore everything else that happens in the world.
 
 So I'll stick with a motto that I've used before and which pretty much sums up my approach to research, teaching and education.

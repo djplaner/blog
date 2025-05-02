@@ -5,9 +5,6 @@ categories: ['eded20455', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Two courses down, two to go. The following summarises study and thoughts for week 2 of the Supportive Learning Environments course.
 
 ### Attitudes and perceptions

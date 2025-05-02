@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As part of the USQ Technology Demonstrator Project (a bit more [here](https://www.usq.edu.au/news-events/news/2016/07/new-dimension-of-learning-3d-printing)) we'll soon be able to play with [the Moodle Activity Viewer](https://github.com/damoclark/mav-enterprise). As described the VC, the Technology Demonstrator Project entails
 
 The demonstrator process is 90 days and is a trial of a product that will improve an educator’s professional practice and ultimately motivate and provide significant enhancement to the student learning journey,

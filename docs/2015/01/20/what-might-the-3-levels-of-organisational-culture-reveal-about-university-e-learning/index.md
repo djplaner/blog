@@ -52,9 +52,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I have fulfilled my organisational duty and attended and participated in a 3 hour workshop intended to achieve some level of shared vision within the organisation. As always I remain cynical about likely impact such sessions will have on the organisation and my experience of it. There was, however, some benefit in making me aware of Schein's three levels of organisational culture (apparently from this book) and summarised in the following table (and more on [wikipedia](http://en.wikipedia.org/wiki/Edgar_Schein)).
 
 [![Schein's Model.JPG](images/Schein%27s_Model.JPG)](http://commons.wikimedia.org/wiki/File:Schein%27s_Model.JPG#mediaviewer/File:Schein%27s_Model.JPG) "

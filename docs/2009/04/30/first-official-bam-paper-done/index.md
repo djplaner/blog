@@ -88,9 +88,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [BAM - Blog Aggregation Management](/blog2/research/bam-blog-aggregation-management/) is a project I started in early 2006 to play around with two sets of ideas:
 
 1. learning; and  

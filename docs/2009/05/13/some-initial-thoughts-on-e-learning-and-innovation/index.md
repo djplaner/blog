@@ -80,9 +80,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Theoretically, I'm in the process of starting [a new job](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ that is focused on encouraging e-learning and innovation within a university context. The following post is an early attempt to try and make sense of this job, what it might do and how it might do it. It's probably of little value to others, but I'm trying to be open about this.
 
 This is still early days and the understanding will continue to grow and change. Due to the nature of human beings as [pattern matching intelligences](http://www.cognitive-edge.com/blogs/dave/2008/08/imperium_cogito.php) this exploration will necessarily, as arising out of my own attempts to make sense of this job, illustrate my past experiences and patterns of action. Feel free to disagree and suggest alternative perspectives.

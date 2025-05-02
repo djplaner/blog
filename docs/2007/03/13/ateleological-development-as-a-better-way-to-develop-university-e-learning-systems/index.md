@@ -31,9 +31,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Cole Camplese](http://camplesegroup.com/blog/?page_id=68), in a blog post titled [69,000 reasons to pay attention](http://camplesegroup.com/blog/?p=623), reflects on issues around innovation, especially with "web 2.0 like" tools, in e-learning within universities
 
 > I’m not at all saying it is time to bail on innovation — what I am saying is that we have a huge uphill battle in getting faculty to try the things we talk about, why create more issues by pushing multiple platforms at them? What I am now thinking about is how do I spend my time helping the conversation move forward.

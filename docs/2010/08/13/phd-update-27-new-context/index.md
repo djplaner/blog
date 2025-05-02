@@ -5,9 +5,6 @@ categories: ['phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's been over 4 months since my [last PhD update](/blog2/2010/04/09/phd-update-26-getting-to-first-draft-stage/), past time to get back into the discipline. A lot has happened in those 4 months, the grant talked about in the last post didn't get off the ground thanks to folk leaving positions at the potential partner institution and then because I left mine. So, the new context is that I'm currently a man of leisure, thanks to a separation payout, and increasingly focused on finally finishing the thesis.
 
 ### What I did last week

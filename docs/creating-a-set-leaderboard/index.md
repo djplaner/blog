@@ -4,9 +4,6 @@ date: 2016-05-26 09:47:34+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following aim to help a USQ course examiner add a student evaluation of teaching (SET) response rate leaderboard to any web page. The leaderboard was designed to provide students with insight into how many students have completed the SET survey, and serve as an additional method to increase response rates.
 
 For more information, check out the [GitHub repository](https://github.com/djplaner/leaderboard) (for the latest "code") and [the poster page](http://djon.es/blog/2017/06/17/nudging-up-myopinion-response-rates-using-a-gamified-leaderboard/) (for a more academic rationale, explanation and updated results).

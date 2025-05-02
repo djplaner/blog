@@ -23,9 +23,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 ## Summary
 
 In short, there is definitely a pattern. In fact, there are two patterns evident:

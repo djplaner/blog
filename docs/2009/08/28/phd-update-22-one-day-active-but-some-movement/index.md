@@ -5,9 +5,6 @@ categories: ['phd']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The last week has seen only one day spent on the PhD. Mainly due to working on a conference paper. The good news is that the paper is connected to the PhD. It looks at mining LMS usage logs to generate indicators of patterns which may be interesting. The paper includes a comparison of LMS feature adoption between Blackboard (CQU's existing institutional LMS) and Webfuse - the topic of the PhD. Webfuse comes out favourably from a couple of perspectives. More on this later.
 
 ### What I did

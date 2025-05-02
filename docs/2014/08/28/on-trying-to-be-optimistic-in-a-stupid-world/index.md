@@ -30,9 +30,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's been an "interesting" few weeks destined to challenge the optimism of the most optimistic person - of which I'm not. Broader events in the world do appear to be the outcome of a conspiracy to rob the world of optimism. Mix in some personal woes - death of a grandparent, illness (no great problem), interruptions to routine brought on my Apple's inability to provide a working iPhone, and the stupidity of organisations (especially universities that have been recently restructured) - and it's definitely a time for pessimism.
 
 ## I am a pessimist because of intelligence, but an optimist because of will.

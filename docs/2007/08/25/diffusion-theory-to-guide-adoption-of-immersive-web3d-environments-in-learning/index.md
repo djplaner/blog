@@ -5,9 +5,6 @@ categories: ['elearning', 'web3dx']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Through a range of coincidences I've been lucky enough to be involved with a team, lead by Penny De-Byl, that was successful in obtaining a Carrick grant to look at how to enable academics adopt the use of immersive 3D environments in their teaching. The [project](http://www.web3dexchange.org) is only just starting, we had our first project meeting just over a week ago at [the University of Southern Queensland](http://www.usq.edu.au/) (USQ), and are still feeling our way as a group and a project.
 
 The purpose behind this post is to think about how [CDDU](http://cddu.cqu.edu.au/) might achieve the rather difficult task of getting a reasonable number of [Central Queensland University](http://www.cqu.edu.au/) (CQU) academics interested and enabled to use these environments. In particular because CQU, like many other Australian institutions, exist in a context which makes this somewhat difficult task a great deal more "interesting".

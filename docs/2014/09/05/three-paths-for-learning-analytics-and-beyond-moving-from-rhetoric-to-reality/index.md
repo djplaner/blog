@@ -125,9 +125,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Paper accepted to [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) and nominated for best paper.
 
 Beer, C., Tickner, R., & Jones, D. (2014). [Three paths for learning analytics and beyond : moving from rhetoric to reality.](http://ascilite2014.otago.ac.nz/files/fullpapers/185-Beer.pdf) In B. Hegarty, J. McDonald, & S. Loke (Eds.), _Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014_ (pp. 242–250).

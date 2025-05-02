@@ -5,9 +5,6 @@ categories: ['eded20456', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Okay, so now it's onto the second course for the week. The topic for this week is "Learners and Learning". Looks like we're learning about the brain, how it works and the [Dimensions of Learning](http://www.cqu.edu.au/dol/) (That this link for DoL is on the institution's website, but with a strange title is interesting. Sure there are some stories behind it).
 
 ### What to do?

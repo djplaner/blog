@@ -6,9 +6,6 @@ tags: ['complexity', 'irac']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is a collection of ad hoc ramblings around learning analytics prompted by a combination of [Col's recent post](https://beerc.wordpress.com/2018/11/29/the-tensions-around-learning-analytics/), associated literature arising from [ALASI'2018](https://www.monash.edu/alasi2018/home), and "sustainable retention" project that I'm involved with as part of my new job. It's mainly sensemaking and questions. Intended to help me clarify some thinking and encourage Col's to think a bit more about his design theory for meso-level practitioners implementing learning analytics.
 
 ##  Architecting for learning analytics

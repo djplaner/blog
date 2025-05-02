@@ -4,9 +4,6 @@ date: 2013-11-04 09:36:58+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an ad hoc collection of what I class as my current research projects. At any one stage some or all of these may be slightly inactive.
 
 The [Moodle open book project](/blog2/the-moodle-open-book-module-project/).

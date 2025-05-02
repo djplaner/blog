@@ -184,9 +184,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Jo Luck, Jeanne McConachie  
 Central Queensland University
 

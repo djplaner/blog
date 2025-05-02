@@ -267,9 +267,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a draft of a paper that has been accepted at the [SITE'2015 conference](http://site.aace.org/conf/), and which has just been selected as a [SITE 2015 Outstanding Paper](http://www.editlib.org/p/150454/).
 
 Authors: [Peter Albion](http://peter.albion.id.au/), [Amanda Heffernan](http://staffsearch.usq.edu.au/profile/Amanda-Heffernan) and myself.

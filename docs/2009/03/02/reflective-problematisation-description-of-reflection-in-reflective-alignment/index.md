@@ -5,9 +5,6 @@ categories: ['quotes', 'react', 'react2008', 'reflectivealignment']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Thinking about [reflective alignment](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/), I came across the following quote in Booth and Anderberg (2005). Thought it might be useful so am saving it here.
 
 > the equally important notion of reflective problematization - deliberately distancing oneself from the familiar, deliberately avoiding the taken-for-granted and considering the alternatives that might be at hand, relating to theories and experience and reaching an analytical insight into productive change.

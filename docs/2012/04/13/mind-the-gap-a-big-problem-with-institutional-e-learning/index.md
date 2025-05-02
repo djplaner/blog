@@ -81,9 +81,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The almost 300 students in the course I'm teaching have their first assignment due on Monday. I'm currently laying the ground work to help the small course team to mark those assignments. Actually I'm busy procrastinating about the task by writing this blog post. Mainly because it is more work than it needs to be and it is this way because of one of the fundamental flaws of how universities are currently implementing e-learning systems.
 
 A flaw which means they can never ever bridge the gap between what people actually need to do with the system and what the system does. For many the gap won't be large, but when you are marking 100+ assignments within a couple of weeks what was once a small gap grows quite significantly. A situation where forewarning of the gap isn't sufficient, it should be filled.

@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following records some of the initial steps in actually coding bim2. It includes
 
 - A new name?;

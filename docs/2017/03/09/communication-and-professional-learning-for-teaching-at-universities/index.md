@@ -51,9 +51,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the significant challenges I'll be facing in the new position are around how to help the institution effectively engage teaching academics in relevant communication/professional learning that will help them. One of the immediate challenges from this task is identifying examples of good practice that have attempted to unify communication and professional learning for teaching at Universities into something user-centered and contemporary.
 
 One example from Sydney University is used to illustrate what this might look like, are there others?

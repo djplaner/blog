@@ -152,9 +152,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I told myself I wouldn't blog anything more not directly related to the PhD - I'm breaking that promise because a few things I've read over this weekend resonate strongly with the problems that are frustrating me the most with the current practice of higher education and its management.
 
 The blog post connects ideas from a [presentation titled "Disruption and Transformation"](http://www.gardnercampbell.net/blog1/?p=734) by [Gardner Campbell](http://www.gardnercampbell.net/blog1/) (I wish the other talks in [the session](http://www.ucea.edu/profdev/2009annconf/distance.html) were available online - should look), an [article titled "Why School Reform is Impossible](http://www.papert.org/articles/school_reform.html) (Pappert, 1995) by [Seymour Papert](http://www.papert.org/), [Postman's](http://en.wikipedia.org/wiki/Neil_Postman) 5th of [5 things to know about technology change](/blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/) - technology becomes mythic, and my own views about the roles played by [consistency](/blog2/2008/11/13/another-assumption-which-ples-over-throws/) (bad) and [diversity](/blog2/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/) (good).

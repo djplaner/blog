@@ -5,9 +5,6 @@ categories: ['missingps']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's been quiet on the blog front for the last couple of weeks as I've been busy putting the finishing touches on the missing Ps presentation. The presentation was given on Friday the 24th November, 2006.
 
 I finished a rough 1st draft of the presentation about 10 minutes before it started. The presentation itself was too long for the time allowed. But overall it went reasonably well.

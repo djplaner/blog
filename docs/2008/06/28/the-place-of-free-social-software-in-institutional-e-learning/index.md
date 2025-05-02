@@ -6,9 +6,6 @@ tags: ['cddu-ple']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ### Background
 
 A week or so ago I attended an [ACODE](http://www.acode.edu.au/) workshop in Wellington. On the night before it started [Desire2Learn](http://desire2learn.com) hosted a round table looking at the question of where free social software fits with the institutional practice of e-learning within universities.

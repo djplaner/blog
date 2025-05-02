@@ -72,9 +72,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I have this growing sense of deja vu. I'm beginning to think that my current experience with the institutional policies and processes around Australian university enterprise e-learning is essentially a repeat of my experience with the institutional policies and processes around Australian university print-based distance education systems of the mid-1990s. Almost twenty years on its deja vu all over again?
 
 Some of this arises from an [on-going conversation](/blog2/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/#comment-6239) between @cj13, @timklapdor (I must start [reading his blog](http://timklapdor.wordpress.com/) more), and myself. A conversation about how innovation might arise within existing university structures (or more likely not arise).

@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 George Siemens has posted a [document](http://ltc.umanitoba.ca/wordpress/?p=15) entitled "Learning or Management System? A Review of Learning Management System Reviews" which, as the title suggests, reviews a recent collection of reviews of LMSes in an attempt to offer a more nuanced view.
 
 The abstract states

@@ -5,9 +5,6 @@ categories: ['edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 **About** \- this is an old post (2015) that was never posted. Posting it now for other reasons.
 
 The following outlines experiments and steps taken to live with the dissonances that arise from the implementation of a new institutional look and feel for course sites. The background to this work is documented in [this blog post](/blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/) which ends with the following questions that I try to answer:

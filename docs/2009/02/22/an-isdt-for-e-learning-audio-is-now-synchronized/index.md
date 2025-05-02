@@ -5,9 +5,6 @@ categories: ['anu', 'design-theory', 'elearning', 'information-systems', 'psfram
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 On Friday the 20th of Feb I gave a talk at [the ANU](http://www.anu.edu.au/) on my [PhD](/blog2/research/phd-thesis/). A [previous post](/blog2/2009/02/21/an-information-systems-design-theory-for-e-learning/) has some background and an overview of the presentation.
 
 I recorded the presentation using my iPhone and [the Happy Talk recorder application](http://appliedvoices.com/HappyTalk_Product_Site/HT_Professional_Recorder.html). I've finally got the audio up and synchronised with the [Slideshare](http://www.slideshare.net/) presentation.

@@ -5,9 +5,6 @@ categories: ['bad', 'bricolage', 'elearning', 'information-systems', 'innovation
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is a long overdue summary of Ciborra (1992). I think it will have a lot of insight for how universities implement e-learning. The abstract for Ciborra (1992) is
 
 > When building a Strategic Information. System (SIS), it may not be economically sound for a firm to be an innovator through the strategic deployment of information technology. The decreasing costs of the technology and the power of imitation may quickly curtail any competitive advantage acquired through an SIS. On the other hand, the iron law of market competition prescribes that those who do not imitate superior solutions are driven out of business. This means that any successful SIS becomes a competitive necessity for every player in the industry. Tapping standard models of strategy analysis and data sources for industry analysis will lead to similar systems and enhance, rather than decrease, imitation. How then should "true" SISs be developed? **In order to avoid easy imitation, they should should emerge from from the grass roots of the organization, out of end-user hacking, computing, and tinkering. In this way the innovative SIS is going to be highly entrenched with the specific culture of the firm**. Top management needs to appreciate local fluctuations in practices as a repository of unique innovations and commit adequate resources to their development, **even if they fly if the face of traditional approaches**. Rather than of looking for standard models in the business strategy literature, SISs should be looked for in the theory and practice of organizational leaming and innovation, both incremental and radical.

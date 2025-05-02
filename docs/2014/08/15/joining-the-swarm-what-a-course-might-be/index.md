@@ -96,9 +96,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Early this week I received an email from a student who took the course [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/specification/2014/EDC3100-S2-2014-WEB-TWMBA.html) in 2013. In essence he had remembered a useful bit of information in the course study material and wanted to use it. On the plus side, he still had access to course material but because of [the big flaw](/blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/) (the absence of a search engine) in our institution's Moodle implementation he has to manually search through the information to find what he was looking for and didn't have the motivation/time to do so.
 
 [![Morning Dew Residue by GollyGforce - Living My Worst Nightmare, on Flickr](images/5696070516_0075767e5d_m.jpg "Morning Dew Residue by GollyGforce - Living My Worst Nightmare, on Flickr")](https://www.flickr.com/photos/see-through-the-eye-of-g/5696070516/)  

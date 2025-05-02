@@ -75,9 +75,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've had a Facebook account for about a year. I've never really used it beyond making contact with other folk. Have never uploaded any content and tonight I've decided to make that permanent. I won't shut the account down. I'll keep it open so that friends from the past can find me.
 
 However, I won't recommend it to folk. Just the opposite, stay away. I also won't be handing over any of my content.

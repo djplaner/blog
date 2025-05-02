@@ -81,9 +81,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A major aim of the [Moodle Open Book project](/blog2/the-moodle-open-book-module-project/) has been to connect the [Moodle Book module](https://docs.moodle.org/28/en/Book_module) with [GitHub](http://github.com). The intent was that such a connection would enable the easy sharing of content that is currently largely locked within the LMS, not to mention improving the authoring process for the [Moodle Book module](https://docs.moodle.org/28/en/Book_module). Earlier this week I [gave a presentation](/blog2/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/) in which I demonstrated a working connection between the Book module and GitHub. The following post illustrates how this connection works.
 
 This connection is implemented as [a Moodle book tool](https://moodle.org/plugins/browse.php?list=category&id=56), i.e.  an extension to the Moodle Book module that can be installed on any current version of Moodle. The code for the GitHub tool is available from [this GitHub repository](https://github.com/djplaner/moodle-booktool_github). The current status of this code is that it works, but is ugly (as the screenshots below will illustrate) and incomplete. The intent is that to get a working first version contributed to [the Moodle Plugins database](https://moodle.org/plugins/index.php) by early 2016 (end of January hopefully).

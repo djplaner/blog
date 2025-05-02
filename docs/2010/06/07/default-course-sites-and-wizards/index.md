@@ -84,9 +84,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 There is now [a version 2.0](/blog2/2010/06/25/default-course-sites-and-wizards-version-2-0/) of this section.
 
 The following is the next section from chapter 5 of [my thesis](/blog2/research/phd-thesis/). This one describes attempts made to provided a functionality within Webfuse that improved the quality of the default course websites, without increasing workload for academic staff and while retaining some elements of autonomy.

@@ -6,9 +6,6 @@ coverImage: theRace.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ## TL;DR
 
 Recently there have been various suggestions that the biggest barrier to quality online learning in higher education is lack of knowledge held by teaching staff (Johnson, 2019; Mathes, 2019; Roberts, 2018). More or better training, faculty development and requirements for formal teaching qualifications are proposed as the solution.

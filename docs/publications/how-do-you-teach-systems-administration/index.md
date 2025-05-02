@@ -10,9 +10,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, How do you teach Systems Administration?, Presented at SAGE-AU'93, University of Melbourne, Melbourne.
 
 ## Abstract

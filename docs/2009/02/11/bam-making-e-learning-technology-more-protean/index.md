@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In [a post](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) yesterday I talked about how most applications of e-learning within universities seems to actively prevent students and staff leveraging the protean nature of information technology. That is the nature of computer software to be flexible, malleable and customisable.
 
 The rise of "web 2.0" and related concepts has made it easier to put in place elearning technology that is designed to be more protean. In this post I talk about the [Blog Aggregation Management (BAM) project](/blog2/research/bam-blog-aggregation-management/) and reflect on some of its ideas and implications for making e-learning technology more protean.

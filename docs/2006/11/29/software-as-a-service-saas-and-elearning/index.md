@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The last couple of days has seen a bit of discussion in the blogosphere about Software as a Service (SaaS) and the where it is going in terms of adoption. This [post](http://www.enterpriseweb2.com/?p=166) summarises some of the discussion and makes a number of points. Wikipedia has [an entry for SaaS](http://en.wikipedia.org/wiki/Software_as_a_Service).
 
 Applying SaaS to elearning in universities might bring you the ASP based idea for course management systems. That is, Blackboard sets up servers that host courses for universities that pay for that service. [elgg spaces](http://elggspaces.com/) is based on this idea - but supports software much more appropriate for education.

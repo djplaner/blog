@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'indicators', 'lmsevalua
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part of the thesis I've been engaging with some of the literature around LMS feature usage to evaluate usage of Webfuse. A good first stab of this was reported in [an earlier post](/blog2/2009/08/07/breadth-of-webfuse-use-1997-through-2009/). There were a number of limitations of that work, it's time to expand a bit on it. To some extent for the PhD and to some extent because of a paper.
 
 As with some of the other posts this one is essentially a journal or a log of what I'm doing and why I'm doing it. A permanent record of my thinking so I can come back later, if needed.

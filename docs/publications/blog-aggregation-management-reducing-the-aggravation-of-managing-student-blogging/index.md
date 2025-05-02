@@ -94,9 +94,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [BIM](/blog2/research/bam-blog-aggregation-management/) (BAM into Moodle) tool is an activity module for Moodle that implements the same functionality as BAM, the tool discussed in this paper.
 
 ### Abstract

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 D'Arcy Norman suggests that [Edupunk is a McGuffin](http://www.darcynorman.net/2010/07/02/edupunk-is-a-mcguffin/). I like the metaphor. But I think it breaks down a bit, at least in the context I'm interested in.
 
 Wikipedia uses a [definition of a McGuffin](http://en.wikipedia.org/wiki/MacGuffin) that suggests it is "a plot element that catches the viewers' attention or drives the plot of a work of fiction". Wikipedia suggests that the defining characteristic of a McGuffin is

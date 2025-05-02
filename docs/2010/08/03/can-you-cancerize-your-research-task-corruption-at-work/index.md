@@ -6,9 +6,6 @@ tags: ['american-university-system', 'atlantic', 'atlantic-magazine', 'tanehisi-
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I think I came across this via amplify, and am now using amplify to see how this posts back to the blog.  
   
 The question "Can you cancerize your research?" and the story told here summarises the problem I see with task [corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/).

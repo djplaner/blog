@@ -40,9 +40,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 **Update:** A student from last semester has shared her experiences from last semester using Feedly. The big limitation with Feedly is the absence of a search facility. But then it appears that this is a limitation of [all the competitors](http://www.fastcolabs.com/3007556/tracking/lessons-google-reader-reaction) as well (for now).
 
 The second offering of The ICTs and Pedagogy course I teach starts next week. Last semester the course made a move to each student maintaining an individual blog on their choice of service. To encourage connections between students I generated a collection of OPML files and showed them how to use Google Reader to track what people are posting.

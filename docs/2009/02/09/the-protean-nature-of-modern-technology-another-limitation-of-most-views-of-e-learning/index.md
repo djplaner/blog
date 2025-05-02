@@ -121,9 +121,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A part of my thinking around the [Ps Framework](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) I suggest that there are a [number of dominant assumptions](/blog2/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/) that underpin the current implementation of e-learning within institutions of higher education. I believe these dominant assumptions limit the quality, efficiency, effectiveness and innovativness of e-learning at Universities. In this post I am trying to identify one of the dominant assumptions associated with the "Product" component of the Ps Framework and its implications.
 
 The dominant assumption I'd like to explore here is that people forget that modern technology is [protean](http://en.wikipedia.org/wiki/Protean). Worse than that, how most universities implement e-learning significantly limits the ability to take full advantage of this protean nature and subsequently limits the quality and innovation possible within e-learning.

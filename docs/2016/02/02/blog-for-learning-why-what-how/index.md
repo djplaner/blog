@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Today I'm giving a 10 minutes spiel on why, what, and how I make use of blogs to support student learning in one of my courses. The slides for the talk will will be available below.
 
  

@@ -142,9 +142,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Came across [this post](http://thelearninglot.blogspot.ca/2012/03/five-trends-to-watch-in-educational.html) titled "Five Trends to Watch in Education Technology" via [Stephen Downes' OLDaily](http://www.downes.ca/news/OLDaily.htm). In particular, I was really drawn to trend #1 - the Curriculum. In particular, because it connects with some ideas that have burbling away for the least week or so sparked by some questions [from a colleague](http://apps.usq.edu.au/StaffSearch/default.aspx?staffsearchaction=showdetails&staffsearchrecordid=1496).
 
 [Rob Reynolds'](http://www.blogger.com/profile/13341843233226771456) take on Curriculum as a trend includes

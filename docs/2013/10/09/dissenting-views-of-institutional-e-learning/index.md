@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following two quotes are talking about the e-learning context at the same institution at about the same time (2009 through about 2011).
 
 The great

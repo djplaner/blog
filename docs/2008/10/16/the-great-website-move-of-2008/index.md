@@ -85,9 +85,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 > **Update:** On 21 Oct, 2008 I redirected my old website here. There are links to the old site included below. If you click on them, you'll be brought back to this blog.
 
 As 2008 comes to a close I have a fairly strong external motivation to move my website from its [current location](http://cq-pan.cqu.edu.au/david-jones/) to one without a connection to any specific institution. i.e. a true personal website. This tells some of the plans of the move.

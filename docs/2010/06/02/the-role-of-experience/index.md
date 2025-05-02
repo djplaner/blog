@@ -74,9 +74,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Peter Albion](http://www.usq.edu.au/users/albion/) picked up on an earlier post of mine and [offers a brief description](http://www.pama.net.au/dralb/?p=210) of his own experience within Australian universities. In particular, the increasing focus on compliance with bureaucratic systems as a means of assuring quality, a move back to hierarchies of command and control and apparent adoption of a Theory X view. A view that resonates with what I see within my current institution and one others talk about.
 
 This morning I was listening [to this talk](http://fora.tv/2009/10/04/Baroness_Susan_Greenfield_Is_Online_Networking_Harmful) by Baroness Susan Greenfield. In the end she suggests that online network is potentially harmful, but I'm going to ignore that. One of the fundamental planks for her argument is brain plasticity. i.e. that the brain is shaped by what we do with it. What we experience, what we think shapes our brain.

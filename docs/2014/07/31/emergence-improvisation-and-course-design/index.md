@@ -5,9 +5,6 @@ categories: ['edu8117']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The last couple of weeks have been a bit hectic. The next few will likely be the same. But it's also been a productive type of hectic. Lots of tasks and activities generating ad hoc connections and mixing of concepts and ideas. Mostly (but not entirely) it's been the [NGL course](http://netgl.wordpress.com/) generating the interesting connections. [Anne's highlighting](http://astrethewey.wordpress.com/2014/07/29/learning-technology-through-generations-paper-summary/) of this quote from Anderson is just one example
 
 > Technology is the music setting the tempo, the beat, the timbre and the compelling melodies. The pedagogy defines the choreography, directing the dancers sweeping motions, graceful extension and enduring embraces. Together technology and pedagogy reveal and develop our human creativity and responsiveness and allow us to effectively and enjoyably.

@@ -58,9 +58,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Information Systems Epistemology: An Historical Perspective
 
 This is a summary, review, attempt to understand, and pick tidbits from the following book chapter

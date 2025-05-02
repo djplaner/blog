@@ -117,9 +117,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Apart from [starting the hassle map exercise](/blog2/2011/10/09/results-of-the-year-10-math-hassle-map/) my last lesson in 10 Mathematics also included my first use of the [Active Expression "student learner learner response system"](http://www.prometheanworld.com/server.php?show=nav.15997). While a bit disorganised, I can see some benefits. But I still feel a bit dirty.
 
 ### What are they?

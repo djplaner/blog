@@ -4,9 +4,6 @@ date: 2008-12-22 10:29:58+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ## Abstract
 
 This paper describes the context, justification and design of a set of changes intended to enhance the learning journey of distance education students enrolled in a course called Procedural Programming at Central Queensland University. The changes are designed to reduce the transactional distance (Chen, 2001) experienced by these students, by increasing the level of dialog, and consequently increase the completion rate of the group. The changes include the appropriate use of student web logs (blogs), online assignment submission, computer-assisted marking and podcasting of on-campus lectures and tutorials.

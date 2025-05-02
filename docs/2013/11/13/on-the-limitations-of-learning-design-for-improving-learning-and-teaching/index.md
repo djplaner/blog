@@ -171,9 +171,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A quick followup to some comments/replies on @marksmithers post ["Because academic freedom does not include the freedom to create a poor learning experience"](http://www.masmithers.com/2013/11/12/because-academic-freedom-does-not-include-the-freedom-to-create-a-poor-learning-experience/). In particular, on Mark's suggestion
 
 > I prefer a model (incidentally supported by Clayton Christensen’s thoughts on adapting to disruptive innovation) whereby a semi autonomous organisation with responsibility to provide course development is tasked with providing learning design support (amongst other things). Course development is prioritised and scheduled over the five year life of most programs.

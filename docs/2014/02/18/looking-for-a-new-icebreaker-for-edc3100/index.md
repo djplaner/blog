@@ -168,9 +168,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As [mentioned previously](/blog2/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/) the simplistic (lazy) introductory forum for #edc3100 didn't achieve it's ill-defined goals. I need to find a new one.
 
 Given I hate ice-breaker activities, I doubt this is going to be very creative. Plus time is against me.

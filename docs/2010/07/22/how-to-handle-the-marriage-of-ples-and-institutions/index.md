@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is my attempt to think about how the "marriage" of the PLE concept and educational institutions can be handled. It arises from reading some of the material that has arisen out of the [PLE conference](http://pleconference.citilab.eu/) held in Barcelona a few weeks ago and some subsequent posts, most notable [this one on the anatomy of a PLE](http://steve-wheeler.blogspot.com/2010/07/anatomy-of-ple.html) from Steve Wheeler.
 
 The following is informed by a [paper](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) some colleagues and I wrote back in 2009 around this topic. That paper, aimed to map the landscape for a project we were involved with that was attempting to implement/experiment with just such a marriage. By the time the paper was presented (end 2009) the project was essentially dead in the water - at least in terms of its original conceptualisation - due to organisational restructures.

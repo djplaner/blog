@@ -148,9 +148,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday, via a tweet from [@marksmithers](http://twitter.com/marksmithers) I read [this post](http://diyubook.com/2010/07/vast-majority-of-professors-are-rather-ludditical/) from the author of the DIYU book titled "Vast Majority of Professors Are Rather Ludditical". This is somewhat typical of the [defict model](/blog2/2009/12/09/change-the-environment-not-the-culture/) of academics which is fairly prevalent and rather pointless. It's pointless for a number of reasons, but the main one is that it is not a helpful starting point for bringing a out change as it ignores the broader problem and consequently most solutions that arise from a deficit model won't work.
 
 One of the major problems this approach tends to ignore is the broader impact of the [grammar of school](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) (first from Tyack and Cuban and then Papert). I'm currently reading [The nature of technology](http://www.amazon.com/gp/product/1416544054/ref=pd_luc_wl_04_03) (more on this later) by W. Brian Arthur. The following is a summary and a little bit of reflection upon a section titled "Lock-in and Adaptive Stretch", which seems to connect closely with the grammar of school idea.

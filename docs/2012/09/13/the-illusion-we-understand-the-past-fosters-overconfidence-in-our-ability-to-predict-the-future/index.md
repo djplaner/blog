@@ -52,9 +52,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As mentioned in the [last post](/blog2/2012/09/11/the-core-problem-with-learning-analytics/) I'm currently reading [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637) by [Daniel Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman). The title of this post comes from this quote from that book
 
 > The illusion that we understand the past fosters overconfidence in our ability to predict the future

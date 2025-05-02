@@ -57,9 +57,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an early description of work arising out of [The Indicators Project](http://indicatorsproject.wordpress.com/) an ongoing attempt to think about learning analytics. With IRAC (Information, Representation, Affordances and Change) [Colin Beer](http://beerc.wordpress.com/), [Damien Clark](http://damosworld.wordpress.com/) and I are trying to develop a set of questions that can guide the use of learning analytics to improve learning and teaching. The following briefly describes:
 
 - Why we're doing this?

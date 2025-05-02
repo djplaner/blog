@@ -151,9 +151,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Choices](images/114430223_2eed0218b4_m_d.jpg)](http://www.flickr.com/photos/orinrobertjohn/114430223/)
 
 Over the last 10 to 15 years I've been able to observe at reasonably close quarters at least 3 processes to select a learning management system/virtual learning environment (LMS/VLE) for a university. During the same time I've had the opportunity to sit through presentations and read papers provided by people who had led their organisation through the same process.

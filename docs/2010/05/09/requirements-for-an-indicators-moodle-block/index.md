@@ -273,9 +273,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [Indicators project team](http://indicatorsproject.wordpress.com/) are off to [Moodlemoot AU 2010](http://moodlemoot.org.au/). All three are giving presentations, but only two (i.e. not me) are on the indicators project. In thinking about how we might make the most of this opportunity, we've floated the idea of announcing an "indicators" Moodle block at the conference. This post is an attempt to make concrete our thinking and take some steps towards making it happen, hopefully even generate some interest and external comments.
 
 ### What is an "indicators" Moodle block?

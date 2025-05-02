@@ -131,9 +131,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is a followup to yesterday's [Part 1 post](/blog2/2016/06/27/what-is-the-nature-of-digital-technology-part-1/) and a continuation of an attempt to describe the nature of digital technology and to think about what this might reveal about how and what is being done by formal education has it attempts to use digital technology for learning and teaching. This post moves from the fundamental properties of digital technologies (yesterday's focus) to what some suggest is that nature of digital technologies.
 
 **Note:** this is not the end of this series. There's a fair bit more to go (e.g. this is all still focused on a single black box/digital technology, it hasn't touched on what happens when digital technology becomes pervasive). I'm not entirely comfortable with the use of "nature" at this level, but the authors I'm drawing on use that phrase.

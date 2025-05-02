@@ -127,9 +127,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Just how much of a cage should I make my course into? How far should I take the constraints? The following sets the scene and asks the questions. Would love to hear alternate views.
 
 [![Cat in a Cage, Valparaiso by geezaweezer, on Flickr](http://farm8.static.flickr.com/7063/6987656904_64ab8b7934_m.jpg "Cat in a Cage, Valparaiso by geezaweezer, on Flickr")](http://www.flickr.com/photos/geezaweezer/6987656904/)  

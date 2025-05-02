@@ -22,9 +22,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following slides are for a (award winning no less) paper presented at SITE'2016 titled [Mapping the digital practices of teacher educators: Implications for teacher education in changing digital landscapes](/blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/).
 
  

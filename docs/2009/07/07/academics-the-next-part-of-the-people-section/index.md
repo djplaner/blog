@@ -52,9 +52,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the next part of the People section for chapter 2 of my [thesis](/blog2/research/phd-thesis/). The People section was started a week ago with [this post](/blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/). This one takes up the task of saying something about academic staff, subsequent and soon to be completed sections will look at management, academic staff developers and technology staff.
 
 While I think some of the stuff in the following is important and overlooked, I just can't help feeling that it is, not to put to fine a point on it, crap. But hopefully it is good enough for the thesis. Happy reading.

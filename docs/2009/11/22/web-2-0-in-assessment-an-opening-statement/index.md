@@ -6,9 +6,6 @@ tags: ['assessment', 'asw2a', 'web2-0-socialmedia']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Tomorrow I am off to attend a ["National Roundtable"](http://web2assessmentroundtable.pbworks.com/) on Web 2.0 Authoring Tools in Higher Education Learning and Teaching: New Directions for Assessment and Academic Integrity. Quite a mouthful. I've spent some of the traveling time today reading the [discussion paper](http://web2assessmentroundtable.pbworks.com//f/ASW2A+Discussion+Paper.pdf) and trying to formulate what I might be able to contribute. We're meant to give an opening statement as the lead off. What will I say?
 
 ### Social media is promising, but it ain't everything

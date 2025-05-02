@@ -5,9 +5,6 @@ categories: ['design-theory', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Continuing previous posts looking at/summarising recent design research literature this post gives a summary of the following paper
 
 > William Kuechler, Vijay Vaishnavi, The emergence of design research in information systems in North America, Journal of Design Research, 7(1), 2008, pp 1-16

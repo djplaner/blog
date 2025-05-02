@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [last PhD update](/blog2/2009/09/11/phd-update-24-off-to-the-crocodile-form/) I posted here was in early November last year. It's time to get back into the discipline of posting these updates, especially now I'm in the downhill stretch.
 
 The rationale/excuse for not having posted in the last 3 or 4 months has been work and Christmas. For most of November, I was traveling to or working on conference presentations. I also visited Canberra in that time to work a bit on the thesis and received feedback from my supervisor - reduce content!. December was holidays and then, the great plan to spend January on holiday, working on the thesis went pear shape. For various silly, contextual issues I spent most of January and February working on [BIM](/blog2/research/bam-blog-aggregation-management/) so folk could use it starting around March. This will hopefully bring some benefits, but it didn't help thesis completion.

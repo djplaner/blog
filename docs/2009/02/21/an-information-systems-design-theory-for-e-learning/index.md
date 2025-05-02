@@ -41,9 +41,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday I gave a presentation at [the Australian National University](http://www.anu.edu.au/) on my [PhD](/blog2/research/phd-thesis/). I'm doing it through ANU and this 30 minute presentation is a standard requirement of study. The slides are up on [slideshare](http://slideshare.net/) (embedded below). I recorded the audio and will be trying to put that online later on today and make the slides into a slidecast.
 
 ### The presentation

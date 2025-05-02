@@ -33,9 +33,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![What tree is this?](images/3128859891_20bbfecb3e_m.jpg)](http://www.flickr.com/photos/david_jones/3128859891/ "What tree is this? by David T Jones, on Flickr")
 
 The above tree is sitting in our front yard. It's grown a lot over the last five years and is developing in a really nice way. The trouble is we have no idea what type of tree it is. Do you? Can you help us identify this tree? Our google searches have failed. Click on the above photo to see larger pictures

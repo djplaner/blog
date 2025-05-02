@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Increasingly, the IT requirements of organisations are being met through the application of "enterprise systems". Large systems created by commercial vendors (though increasingly there are also open source variants, which while offering small improvements still suffer some of the same problems) that are meant to provide an integrated solution to a large scale system with an appraoch that combines "best practice" processes and techniques with information technology that will "scale" to meet the requirements of the organisation. Examples including ERP systems like Peoplesoft for finance, human resources and, at universities, student enrolment. In terms of e-learning at Universities the current dominant approach is also to employ "enterprise systems". With e-learning the "enterprise system" is known as the learning management system (lms), course management system (cms), virtual learning environment (vle) or some other 3 letter acronym. Examples include: Blackboard, Moodle and Sakai.
 
 In this context, based on the experience and observations of myself and colleagues from around the world, I'm suggesting the following as a nascent (and fairly cynical) process model for how IT departments approach development of feature requests from users. Have you got any additional steps you'd like added?

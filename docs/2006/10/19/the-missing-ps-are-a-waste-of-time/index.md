@@ -25,9 +25,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [The missing Ps framework](http://cq-pan.cqu.edu.au/david-jones/blog/?p=52) is very much under construction attempt to identify the holes and flaws in the methods used by Universities to evaluate and select a learning management system (LMS).
 
 In reading around about this topic, in particular via a [document from George Siemens](http://cq-pan.cqu.edu.au/david-jones/blog/?p=54), I came across a report funded by the Melbourne-Monash Collaboration in Educational Technologies, [LMS Governance Project Report](http://www.infodiv.unimelb.edu.au/telars/talmet/melbmonash/media/LMSGovernanceFinalReport.pdf) (Wise and Quealy, 2006).

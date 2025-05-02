@@ -47,9 +47,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 > ### Update - now automated memex links
 > 
 > In writing the following I stumbled across the idea that writing blog posts in Foam would enable the merging of content from Memex and blog posts. I then discovered it didn't work out of the box. More work was needed. But the nature of the technology involved meant that it wasn't that hard and is now complete. You'll see links below followed by the spider web emoji (🕸️), those are links to my Memex. Meaning I this bit of bricolage can be linked to my Memex's page on [Bricolage](https://djplaner.github.io/memex/sense/bricolage). It's this type of capability that might address the [Reusability Paradox](https://djplaner.github.io/memex/sense/Bricolage/reusability-paradox) in digital learning technology, but more on that soon.

@@ -163,9 +163,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following comes from a place of frustration. The approaches universities are using to improve learning and teaching don't work. But they continue to be held in reverence because they have become a purpose proxy. The people within universities charged with improving learning and teaching are no longer focused on or measured by improving learning and teaching. They are focused on and measured by the purpose proxy. i.e. how many L&T seminars they have run, how many teaching awards they've given out etc.
 
 It wouldn't be so bad if there weren't already fairly significant amounts of research to show that they don't work.

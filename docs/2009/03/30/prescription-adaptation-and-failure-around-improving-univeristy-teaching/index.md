@@ -143,9 +143,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following post and its content has been shaped by (at least) three separate influences:
 
 1. My on-going attempt to establish some ways of thinking about how you effectively support the improvement of teaching within universities - currently going under the label of "reflective alignment"

@@ -5,9 +5,6 @@ categories: ['elearning', 'enterprise-20', 'ple', 'plescquni', 'web-20-course-si
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 When you talk to anyone in an "organisational" position (e.g IT or perhaps some leadership positions) within a university about using external "Web 2.0" tools to support student learning one of the first complaints raised is
 
 > How can we ensure it's reliability, it's availability? Do we have as much control as if we own and manage the service on our servers? Will they be as reliable and available?

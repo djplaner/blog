@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 And here's the next bit of the Products component for chapter 2 of [my thesis](/blog2/research/phd-thesis/). The aim of this section is basically two argue that the LMS approach to e-learning embodies one view of how to procure software and one software model. I eventually aim to argue that both of these predominant models are essentially bad matches for the nature of e-learning within a university. The following is intended more to identify that there are alternatives than argue for the inappropriateness. That's for later. But I doubt I've stopped it coming through.
 
 This section focuses on procurement, I hope to have the product section up later today.

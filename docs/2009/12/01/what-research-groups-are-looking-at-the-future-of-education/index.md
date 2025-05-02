@@ -4,9 +4,6 @@ date: 2009-12-01 15:57:50+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As outlined very briefly [in a recent post](/blog2/2009/12/01/what-am-i-doing/) I am involved in the early days of project that may result in some sort of proposal for a research group/centre around the future of education. This is meant to be some documentation of my early research to look for groups that are already doing work in this area.
 
 This is still very early days. There's a strong chance that the "direction" will be refined and/or changed. For example, it might become concerned with the future of education within regional areas. It might not. Finding out what others are doing in the area, will help inform any changes.

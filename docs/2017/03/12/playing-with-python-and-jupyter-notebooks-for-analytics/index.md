@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the third in a series of posts documenting "thinking" and progress around the next step of some bricolage with learning analytics and attempts to make some progress with the [Indicators project](http://indicatorsproject.wordpress.com/).
 
 The [last post](http://djon.es/blog/2017/03/10/reflecting-on-playing-with-analytics/) in this series revisited some work I did last year. The aim of this post is to consider and perhaps start playing with what's next. At this stage, I think that's Python and Jupyter notebooks, but I could be wrong.

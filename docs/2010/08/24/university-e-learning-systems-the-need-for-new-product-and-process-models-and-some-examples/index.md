@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'highereducation', 'phd'
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm in the midst of the horrible task of trying to abstract what I think I know about implementing e-learning information systems within universities into the formal "language" required of an information systems design theory and a PhD thesis. This post is a welcome break from that, but is still connected in that it builds on what is perhaps fundamentally different between what most universities are currently doing, and what I think is a more effective approach. In particular, it highlights some more recent developments which are arguably a step towards what I'm thinking.
 
 As it turns out, this post is also an attempt to crystalise some early thinking about what goes into the ISDT. So some of the following is a bit rough. Actually, writing this has identified one perspective that I hadn't thought of, which is potentially important.

@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The previous couple of posts ([one](/blog2/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) and [two](/blog2/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/)) described the context in which the Webfuse e-learning system was designed. This focused primarily on the context at CQU up to 1996 or so. These posts form the definition of the problem which Webfuse was meant to address.
 
 This post begins a description of the intervention undertaken to address this problem. i.e. the early design of Webfuse. This post introduces the Intervention section, explains why it was decided to build another system and then outlines the design guidelines that underpinned Webfuse.

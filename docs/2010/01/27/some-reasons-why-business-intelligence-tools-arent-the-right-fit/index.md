@@ -6,9 +6,6 @@ tags: ['academicanalytics', 'analytics', 'knowledgemanagement']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following started as an attempt to develop an argument that business intelligence/data warehouse tools are not a perfect fit for what is broadly called academic analytics. In fact, as I was writing this post I realised that it's actually an argument that business intelligence tools aren't a perfect fit for what I'm interested in doing and that is **not** academic analytics.
 
 The following is by no means a flawless, complete argument but simply an attempt to make explicit some of the disquiet I have had. Please, feel free, and I actively encourage you, to point out the flaws in the following. The main reasons for writing this are:

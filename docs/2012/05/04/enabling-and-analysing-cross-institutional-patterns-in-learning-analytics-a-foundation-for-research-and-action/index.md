@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a slightly edited version of a internal grant application that has just been funded. It is a small step towards actually moving the [Indicators project](http://indicatorsproject.wordpress.com/) a little further toward the targets we talked about so many years ago.  My co-investigators on this grant are: [Colin Beer](http://beerc.wordpress.com/) and [Professor Patrick Danaher](http://apps.usq.edu.au/StaffSearch/default.aspx?staffsearchaction=showdetails&staffsearchrecordid=1134).
 
 One of the big first steps will be to locate this project within all the [work on show at LAK12](http://dougclow.wordpress.com/2012/05/03/lak12-summary/).

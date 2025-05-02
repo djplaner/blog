@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following documents some initial exploration into why, if, and how sentiment analysis might be added to the [BIM module](/blog2/research/bam-blog-aggregation-management/) for Moodle. BIM is a tool that helps manage and mirror blog posts from individual student blogs. [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) is an application of algorithms to identify the sentiment/emotions/polarity of a person/author through their writing and other artefacts. The theory is that sentiment analysis can alert a teacher if a student has written something that is deemed sad, worried, or confused; but also happy, confident etc.
 
 Of course, the promise of analytics-based approaches like this may be oversold. [There's a suggestion](http://www.slideshare.net/mcieliebak/deep-learning-for-sentiment-at-sgaico-2014-by-mark-cieliebak) that some approaches are wrong 4 out of 10 times. But I've seen other suggestions that human beings can be wrong at the same task 3 out of 10 times. So the questions are

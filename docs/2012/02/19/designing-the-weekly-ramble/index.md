@@ -137,9 +137,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Another weekend and I'm thinking about EDC3100, and thanks to an IT maintenance day bringing Moodle down I have the time to post here. The following is an attempt to conceptualise and describe what I hope might become the [replacement for the lecture/tutorial model](/blog2/2012/02/10/how-to-replace-the-lecture/) that is dominant in this course. It is informed by/borrowed from the work of many I've seen over recent years, especially the [Siemens/Downes MOOC movement](http://www.mooc.ca/)
 
 The following describes the metaphor I'm going with and documents the design of the initial implementation of the weekly ramble. There are constraints in place which mean this won't immediately leap to something really interesting, but hopefully it might evolve over time.

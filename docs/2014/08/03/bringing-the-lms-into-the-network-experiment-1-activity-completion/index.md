@@ -5,9 +5,6 @@ categories: ['bad', 'bricolage']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the first step in an attempt to modify the [Moodle Activity Viewer](http://damosworld.wordpress.com/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/) (or at least a local instance). I'd like a modified version of MAV to allow me to
 
 1. find out how students are progressing with activity completion.

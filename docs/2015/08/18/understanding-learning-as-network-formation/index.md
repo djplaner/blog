@@ -38,9 +38,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is a follow on from [yesterday's post](/blog2/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/) weaving in a few posts from [netgl](http://netgl.wordpress.com) participants.
 
 ### Learning as a (common) journey

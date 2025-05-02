@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The editorial team over at [Slideshare](http://slideshare.net/) have decided my [recent PhD presentation](/blog2/2009/02/21/an-information-systems-design-theory-for-e-learning/) is worth of featuring on the Slideshare home page. The following screen shot of the Slideshare home page is included as proof and also as a record. 105 views before being featured. How high can you go?
 
 [![Featured on slideshare](images/3312821107_b2521bc35c_m.jpg)](http://www.flickr.com/photos/david_jones/3312821107/ "Featured on slideshare by David T Jones, on Flickr")

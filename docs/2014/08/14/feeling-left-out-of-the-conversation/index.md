@@ -125,9 +125,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [In a comment](http://muzedujourney.wordpress.com/2014/07/28/the-ups-and-downs/comment-page-1/#comment-9) on [this post](http://muzedujourney.wordpress.com/2014/07/28/the-ups-and-downs/) about the ups and downs participants are going through in the NGL course Mari shares the struggles of being offline in this type of a course. The feeling where being offline feels a bit like you've left the conversation and have fallen behind the evolution of where the others are up to.
 
 I'm wondering whether is something inherent in a NGL course, or whether it's a combination of a bunch of other stuff.

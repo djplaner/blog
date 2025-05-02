@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Sunset in January with a bit of rain](images/3215386460_aa116bc363_m.jpg)](http://www.flickr.com/photos/david_jones/3215386460/ "Sunset in January with a bit of rain by David T Jones, on Flickr")
 
 For the last 6 years or so the family and I have had the great pleasure of living on a couple of hundred acres in the "Rockhampton hinterland". Ahh, the serenity. The view from the front veranda can be quite nice. Especially since we can't see nor hear the neighbours.

@@ -6,9 +6,6 @@ tags: ['vle-cms-lms']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A couple of colleagues and I are trying to kickstart a little thing we call the [Indicators project](http://indicatorsproject.wordpress.com/). We've developed a "tag line" for the project which sums up the core of the project.
 
 > Enabling comparisons of LMS usage across institutions, platforms and time

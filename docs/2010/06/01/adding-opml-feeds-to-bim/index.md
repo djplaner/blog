@@ -5,9 +5,6 @@ categories: ['bim', 'moodle']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following describes the process of adding support for the provision of [OPML](http://en.wikipedia.org/wiki/OPML) files to the Moodle activity module [BIM](/blog2/research/bam-blog-aggregation-management/).
 
 ### Requirement

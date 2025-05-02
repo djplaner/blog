@@ -52,9 +52,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Horsey, Horseless Carriage](images/1899horseyhorseless-png_918790_ver1-0.png)](https://www.google.com/patents/USD30551#v=onepage&q&f=false)
 
 Earlier this week four colleagues from three different Universities submitted an application to an [internal grant scheme around Open Educational Practice](http://www.usq.edu.au/learning-teaching/excellence/2016landtgrants/opened). What follows is an excerpt from that application.This idea evolved out of [some earlier thinking](/blog2/2016/02/22/open-educational-practice-beyond-the-institution/). We find out how we went in April.

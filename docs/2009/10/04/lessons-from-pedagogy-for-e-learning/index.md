@@ -34,9 +34,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Two thesis related posts in a day, I must be on a roll. This post actually marks a milestone, the following rough bit of material is the last bit of original writing I'll need to do for chapter 2. What remains will be tidying up, fixing typos/spelling/grammar, "concludings" and some major cutting. Sadly chapter 2 currently stands at 200+ pages and will need some major cutting I think to be a reasonable size. That's a job for another day.
 
 The following is meant to abstract some lessons for e-learning based on the literature around pedagogy reviewed in early sections (e.g. the [one from earlier today](/blog2/2009/10/04/learning-theories-and-e-learning/). It continues my focus on diversity and change being key characteristics of e-learning, an observation that highlights a mismatch with the standard product and process being used for e-learning.

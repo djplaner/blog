@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Another year and another [institutional grant opportunity](http://www.usq.edu.au/learning-teaching/excellence/2016landtgrants/opened) around openness. This year the focus is on Open Educational Practice and is
 
 designed to raise awareness and understanding of open educational practice (OEP) across USQ and to provide the opportunity for USQ academics to experiment with OEP in courses and programs.

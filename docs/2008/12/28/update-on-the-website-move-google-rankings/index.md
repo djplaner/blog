@@ -52,9 +52,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In mid to late October 2008 I moved my long-term personal website to this blog, the early story is [told here](/blog2/2008/10/16/the-great-website-move-of-2008/). One of my concerns voiced in that [original post](/blog2/2008/10/16/the-great-website-move-of-2008/) was to maintain by Google ranking. Here's an update.
 
 The first "problem" is the way that Google provides search results. Depending which country you are in the ranking will be different. When I originally reported that my personal website was #7 in a google for "david jones" this was based on a search from within Australia. I didn't test what other countries saw, though I believe it was fairly high.

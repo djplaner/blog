@@ -45,9 +45,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently trying to formalise the information systems design theory for e-learning that is meant to be the contribution of [my thesis](/blog2/research/phd-thesis/). i.e. what is the model, set of principles etc that I think is important.
 
 As it happens, I recently came across [this post](http://vle.barkingcollege.ac.uk/techblog/?p=3312) on models around the use of VLEs/LMS from Barking College. It's part of a discussion involving a group of folk ([James Clay](http://elearningstuff.wordpress.com/2010/03/20/a-five-stage-model-for-using-the-vle/), [David Sugden](http://eduvel.wordpress.com/2010/06/09/building-vles/), and [Louise Jakobsen](http://loujak78.wordpress.com/2010/02/19/from_repository_to_interactivity/)) talking about models for getting academics to use the complete functionality of the VLE/LMS.

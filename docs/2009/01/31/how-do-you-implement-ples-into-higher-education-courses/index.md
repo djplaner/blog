@@ -68,9 +68,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Jocene [reflects a bit](http://jocene.edublogs.org/2009/01/29/implementing-ples-like-we-are-supposed-to/) upon a [slidecast](http://www.pontydysgu.org/2009/01/personal-learning-environments-the-slidecast/) (titled "Personal Learning Environments: The future of education?") by [Graham Atwell](http://www.pontydysgu.org/blogs/waleswideweb/).
 
 I tend to sense a touch of frustration in the post. Which I don't think is at all surprising since the question "How do you implement PLEs into higher education courses?" is extremely complex. Doing anything to change learning and teaching within higher education is extremely difficult. This is made almost impossible when it is something that potentially brings into question not only the pedagogical practice of individual academics, but also the assumptions underpinning the administrative and technological bureaucracies that have accreted within tertiary institutions.

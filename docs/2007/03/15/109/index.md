@@ -81,9 +81,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As part of a conversation on the [Moodle site](http://ltc.umanitoba.ca/moodle/course/view.php?id=9) for the Online Connectivism Conference [Stephen Downes](http://www.downes.ca/) posts the following.
 
 > Only individuals in a community have agency. Which means that we need to look very closely at what happens when someone says "the community begins to establish which knowledge is important." What this means is that some few members of the community undertake this action, and are then in some way able to impose this as a directive on the community as a whole.

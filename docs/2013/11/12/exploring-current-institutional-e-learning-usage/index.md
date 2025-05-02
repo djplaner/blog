@@ -5,9 +5,6 @@ categories: ['elearning', 'indicators', 'learninganalytics-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary of an exploration of the recent literature analysing University LMS usage and some thinking about further research.
 
 In summary, thinking there's some interesting work to be done using analysis of LMS databases to analyse the evolution (or not) of student and staff usage of the LMS over a long period of time. Use a range of different indicators and supplement this with participant observation, surveys, interviews etc.

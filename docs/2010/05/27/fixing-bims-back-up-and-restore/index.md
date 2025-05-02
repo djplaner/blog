@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following outlines steps to continue work on [BIM's backup and restore functionality](/blog2/2010/02/07/bim-backup-and-restore/). As per [this issue](http://github.com/djplaner/BIM/issues#issue/1) the user part of the back up has errors.
 
 It appears that the code was actually working.

@@ -308,9 +308,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's been an intellectually draining few days with a range of visitors to the institution talking about a range of different topics. It started on Monday with George Siemens giving a talk titled "The future of the University: Learning in distributed networks" (video and audio from the talk [available here](http://www.usq.edu.au/learnteach/learnres/vsarchive/2013/siemens)). A key point - at least one I remember - was that the structure of universities follows the structure of information and the current trend is toward distributed networks. On Tuesday, Mark Drechsler ran a session on [Extending Moodle using LTI](http://www.moodlemoot.org.au/mod/book/view.php?id=24&chapterid=8) which raises some interesting questions about how the LMS mindset will handle the challenge of a distributed network mindset.
 
 ### LMS != distributed network

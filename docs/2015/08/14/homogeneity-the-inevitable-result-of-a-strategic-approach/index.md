@@ -5,9 +5,6 @@ categories: ['bad', 'elearning', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [![Showing up in the exact same dress... by HA! Designs - Artbyheather, on Flickr](https://farm4.static.flickr.com/3131/3353909126_52ff6ee4c7_m.jpg "Showing up in the exact same dress... by HA! Designs - Artbyheather, on Flickr")](https://www.flickr.com/photos/hadesigns/3353909126/)  
 [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/hadesigns/)[HA! Designs - Artbyheather](https://www.flickr.com/people/hadesigns/) [](http://www.imagecodr.org/)
 

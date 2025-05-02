@@ -5,9 +5,6 @@ categories: ['learninganalytics-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Yet another MOOC to start. This time ["Big data in education"](https://class.coursera.org/bigdata-edu-001/class/index) by Ryan Baker - one of the names that spring up often in the Educational Datamining field. A coursera MOOC.
 
 ### Week 1

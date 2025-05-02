@@ -187,9 +187,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A [blog post](http://www.jackbe.com/blogs/?p=27) from the company [JackBE](http://www.jackbe.com/), apparently by a guy called [Mike Wagner](http://www.jackbe.com/blogs/index.php/category/jackbloggers/mike-wagner/) tries to make the argument about why the term Rich Internet Applications (RIA - applications built with new style web interface technologies, e.g. Ajax etc) needs to be extended/enhanced to Rich Enterprise Applications (REAs).
 
 If I were really cynical I could argue that this is a ploy by a commercial company to push their wares. JackBE coined the REA term.

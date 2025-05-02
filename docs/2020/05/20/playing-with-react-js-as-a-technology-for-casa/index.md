@@ -6,9 +6,6 @@ coverImage: 23776579774_bb775a0f1f_o-scaled.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Can React.js help extend CASA support for forward-oriented design?
 
 As the title suggests the aim here is to discover if the [React.js library](https://reactjs.org/) for building web (and other) user interfaces might help address some limitations and add some needed features to the Contextually-Appropriate Scaffolding Assemblage (CASA) idea ([Jones, 2019](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/)). I’m going to be spending a fair bit of time on this, hence the importance of at least trying to be explicit about thinking it through. Not to mention the value of explicitly trying to make sense of all this and recording the process for later referral.

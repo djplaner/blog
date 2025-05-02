@@ -5,9 +5,6 @@ categories: ['elearning', 'moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 My current institution has a content problem when it comes to e-learning (insert digital learning, online learning, technology enhanced learning, or just learning if you prefer). The following is an attempt to use my experience teaching at the institution to understand what are some of the factors contributing to the problem.
 
 In order to appear solutions-focused, I'll start by re-framing the contributing factors I've identified below as suggested partial solutions to the content problem, including:

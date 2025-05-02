@@ -77,9 +77,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 2013 post updated for 2015 to (un)scientifically test for any changes over time.
 
 [Professor Mark Brown](http://dcu.ie/nidl/people/director.shtml) ([@mbrownz](https://twitter.com/mbrownz)) from Massey University the National Institute for Digital Learning at Dublin City University is [quoted in a New Zealand newspaper](http://bit.ly/165UHP5) as saying this about institutional e-learning

@@ -56,9 +56,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The last couple of months have resulted in an absence from work on BIM ([BAM](/blog2/research/bam-blog-aggregation-management/) into Moodle). This post is meant to be a summary of where I had gotten up to and a restatement of what I need to do. The latter part is somewhat uncertain due to limited communication within my local context. Somewhat disappointing.
 
 On the plus side, contributing to my lack of work on BIM was the attendance at a couple of conferences, including [ASCILITE'09](http://www.ascilite.org.au/conferences/auckland09/). It was obvious from a number of ASCILITE presentations that BAM/BIM remains an important and innovative tool that is much needed.

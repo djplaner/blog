@@ -5,9 +5,6 @@ categories: ['academicdevelopment', 'chapter-2', 'elearning', 'herding-cats', 'h
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Came across the [article, "Nobody likes a do-gooder: Study confirms selfless behaviour is alienating"](http://www.dailymail.co.uk/sciencetech/article-1305716/Nobody-likes-gooder-Study-confirms-selfless-behaviour-alienating.html) from the Daily Mail via [Morgaine's amplify](http://morgaine.amplify.com/2010/08/24/nobody-likes-a-do-gooder/). I'm wondering if there's a connection between this and the chasm in the adoption of instructional technology identified by Geoghegan (1994)
 
 ### The chasm

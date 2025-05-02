@@ -5,9 +5,6 @@ categories: ['herding-cats']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is really just taking some notes for future use. Related to the idea that attempts to improve learning and teaching within Universities needs to think about more than just workshops, manuals etc. The idea being that the aim isn't to improve the knowledge of learning and teaching of University teachers, it's to help change and improve what they do. Something I've vaguely written [about ages ago](http://djon.es/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) (though I don't necessarily agree with all of that).
 
 ### Behaviour change

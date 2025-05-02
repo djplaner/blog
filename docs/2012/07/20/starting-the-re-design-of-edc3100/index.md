@@ -121,9 +121,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Today marks the formal start of the process of re-designing the course [EDC3100, ICTs and Pedagogy](http://www.usq.edu.au/course/synopses/2012/EDC3100.html). This afternoon is the first meeting with the [LITE team (Learning Innovation Teaching Enhancement)](http://www.usq.edu.au/learnteach/lite) and I need to get my head around the process and think about what might make sense to do.
 
 ### Where are the really good examples?

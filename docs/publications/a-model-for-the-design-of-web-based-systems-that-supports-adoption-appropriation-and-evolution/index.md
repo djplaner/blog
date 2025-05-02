@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Teresa Lynch, A Model for the Design of Web-based Systems that supports Adoption, Appropriation, and Evolution, Proceedings of the 1st ICSE Workshop on Web Engineering, Murugesan, S. & Deshpande, Y. (eds), Los Angeles, pp 47-56
 
 **Keywords:** Web Information Systems, Diffusion of Innovations, Systems Development, User-centered development, Patterns

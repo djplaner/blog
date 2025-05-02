@@ -5,9 +5,6 @@ categories: ['complexityleadership', 'elearning', 'indicators', 'learninganalyti
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Another day and another #ascilite12 paper to think about. This is the one where my periodic engagement is potentially driving my co-author slightly crazy. I'm sure this contribution will add further to that.
 
 ### The idea

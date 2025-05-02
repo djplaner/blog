@@ -22,9 +22,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, 1000 Users on a 486, SAGE-AU’95, Wollongong and AUUG‘95, Sydney. (Best paper at SAGE-AU'95)
 
 ## Abstract

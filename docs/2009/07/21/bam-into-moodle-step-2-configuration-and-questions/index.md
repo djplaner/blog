@@ -5,9 +5,6 @@ categories: ['bam', 'moodle']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's Tuesday, so must be time to take the next step in getting BAM into [Moodle](http://moodle.org/). [Last time](/blog2/2009/07/16/installing-moodle-first-step-in-bammoodleam/) I got up to having Moodle checked out from CVS and PHP/Apache and MySQL all working nicely together.
 
 This step will need to focus on:

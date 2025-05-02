@@ -65,9 +65,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday I spent most of the day as a judge in the local [Opti-Minds Challenge](http://www.opti-minds.com). Opti-Minds is a problem solving event/competition. Groups of at least 4 have to develop a 10 minute presentation/play to present a solution to an open-ended question. I volunteered for the Social Sciences challenge which was to develop a new method of education because of changes in technology and the observation that no-one wants to be a teacher anymore.
 
 This is a subject close to my heart and I was interested in seeing what solutions groups of engaged kids would come up with. The kids were the highlight. All of them were engaged and having a great deal of fun. It looked like they all got a lot out of the challenge. It was highly enjoyable from that perspective. There was a buzz in the room as the presentations were given. The ideas they presented were also imaginative.

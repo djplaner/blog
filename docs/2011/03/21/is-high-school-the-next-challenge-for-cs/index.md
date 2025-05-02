@@ -6,9 +6,6 @@ tags: ['computer', 'cs', 'ipt', 'is', 'mobile', 'programs', 'science', 'teaching
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm biased, for other reasons I'm in the process of becoming a high school teacher of information technology/maths. That said, it's given me the opportunity to think about a problem from a previous live as a University academic in information systems/information technology.  
   
 That problem was that, apart from a small period of time around the dot-com boom, the type of students enrolling in these courses was very limited, primarily nerds. This wasn't a problem because of the students, some very fine people within that group. It's a problem for Uni IT/IS courses because this group represents only a very small percentage of the population and when enrolment numbers are tanking you worry about this.  

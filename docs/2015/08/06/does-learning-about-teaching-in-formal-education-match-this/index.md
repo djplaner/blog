@@ -5,9 +5,6 @@ categories: ['4paths', 'bad', 'netgl']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Riel and Pollin (2004) talk about a view of learning that sees learning occurring
 
 > through engagement in authentic experiences involving the active manipulation and experimentation with ideas and artifacts - rather than through an accumulation of static knowledge (p. 17)

@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an early attempt to formulate a method by which learning analytics could be used [to make a "Golf GTI"](/blog2/2012/05/15/can-learning-analytics-make-a-golf-gti/). The context for this is an attempt to develop a grant application for [an OLT grant](http://www.olt.gov.au/grants-and-projects/programs-and-applications).
 
 ### Standing on the shoulders of giants

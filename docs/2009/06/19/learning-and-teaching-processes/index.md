@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the penultimate section from the Processes section of chapter 2 of my [thesis](/blog2/research/phd-thesis/). It aims to talk about the types of processes used for learning and teaching (including e-learning). It seeks to use the lens of [teleological and ateleological processes](/blog2/2009/05/25/teleological-and-ateleological-processes/). This version has been finished quickly and could be made better. I'm trying hard to get "good enough" done and out so I can make progress. I guess supervisor feedback will tell the tale.
 
 ### A related aside

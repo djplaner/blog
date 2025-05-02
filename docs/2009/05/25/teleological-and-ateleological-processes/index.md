@@ -325,9 +325,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an early section on the Process component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) and is intended as part of chapter 2 of [my thesis](/blog2/research/phd-thesis/). Still fairly rough, but somewhat cleaner than some of the thesis sections I've shared here.
 
 ### Teleological and ateleological processes

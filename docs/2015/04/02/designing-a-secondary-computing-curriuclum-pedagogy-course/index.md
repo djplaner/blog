@@ -5,9 +5,6 @@ categories: ['eds4406']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A colleague and I have been tasked with the design of [EDS4406 Secondary Computing Curriculum and Pedagogy](http://www.usq.edu.au/course/specification/2015/EDS4406-S2-2015-WEB-TWMBA.html). It's one of a suite of discpiline specific courses being designed to be taken be pre-service teachers preparing to teach those disciplines at a high school level. The following outlines some initial ideas for the course design.
 
 The course is likely to have small numbers.

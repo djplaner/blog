@@ -6,9 +6,6 @@ tags: ['fashion', 'irac', 'learninganalytics']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What do the following two artefacts say about learning analytics?
 
 Perhaps I'm being just a bit too cynical.

@@ -5,9 +5,6 @@ categories: ['coursesites', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For a variety of reasons, mostly due to some current study, I've retrieved from the rubbish tip of history a [course website](http://dl.dropbox.com/u/14025788/85349/index.html) I helped design and teach back in 1999. What follows here are some reflections on what has and hasn't changed since 1999. At the end there is a bit of speculation that the current context within universities would make it harder to generate this type of course site.
 
 ### What's changed or not

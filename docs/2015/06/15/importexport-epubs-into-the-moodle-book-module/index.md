@@ -115,9 +115,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the likely aims of the [Moodle "open" book project](/blog2/the-moodle-open-book-module-project/) that interested me was the ability to export Book modules to ePub format. A capability I think would be seen as valuable for students in my course, given the heavy use of the book module. In developing the Moodlemoot'AU 2015 [session on the project](https://mootau15.moodlemoot.org/mod/data/view.php?d=1&rid=126) this was certainly I've been trawling the Moodle community forums for discussions about the Book module. This type of function has been mentioned as desirable by others.
 
 Then last night I stumble across [this post](https://moodle.org/mod/forum/discuss.php?d=315119) from Saturday in which someone has done it. Written some add-ons that will not only export in the ePub format, but also allow the import of ePub formats. Some [discussions in tracker](https://tracker.moodle.org/browse/MDL-37199) about this that I may wish to look at again later. What follows is some initial experiments with that code.

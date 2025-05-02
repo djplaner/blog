@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The video and slides from the talk last Friday giving an overview of the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) are now up and available.
 
 ### Video

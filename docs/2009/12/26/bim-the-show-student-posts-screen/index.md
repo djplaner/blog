@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post describes the initial implementation of show student posts screen. IT builds on the format/process used in the [show student details screen](/blog2/2009/12/24/bim-staff-show-details-screen/).
 
 ### Required data

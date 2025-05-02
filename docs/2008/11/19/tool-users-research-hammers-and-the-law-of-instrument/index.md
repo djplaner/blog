@@ -108,9 +108,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following quote is from (Hirschheim, 1992) and is questioning the practice of research/the scientific method
 
 > Within this context the researcher should be viewed as a craftsman or a tool builder - one who builds tools, as separate from and in addition to, the researcher as tool users. Unfortunately, it is apparent that the common conception of researchers/scientists is different. They are people who use a particular tool (or a set of tools). This, to my mind, is undesirable because if scientists are viewed in terms of tool users rather than tool builders then we run the risk of distorted knowledge acquisition techniques. As an old proverb states: 'For he who has but one tool, the hammer, the whole world looks like a nail'. We certainly need to guard against such a view, yet the way we practice 'science' leads us directly to that view.

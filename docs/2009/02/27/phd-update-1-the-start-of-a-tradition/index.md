@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Tradition](images/1398253651_895fc9cc34_m_d.jpg)](http://flickr.com/photos/ionushi/1398253651/)
 
 In attempt to encourage on-going work and solve the problem of keeping various folk updated I'm going to start a new Friday tradition - posting a summary of the PhD related work I did in the last week. Here's to the first of many.

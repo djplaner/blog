@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and ad hoc thoughts on Macfadyen et al (2014).
 
 There's much to like in the paper. But the basic premise I see in the paper is that to fix the problems of the current inappropriate [teleological processes](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/) used in institutional strategic planning and policy setting is an enhanced/adaptive teleological process. The impression I take from the paper is that it's still missing the need for institutional to be enabling actors within institutions to integrate greater use of [ateleological processes](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/) (see [Clegg, 2002](https://books.google.com.au/books?hl=en&lr=&id=LQjAeCvVCWkC&oi=fnd&pg=PR1&dq=clegg+management+organisation+paradoxes&ots=brUNk7RBbR&sig=WuyIh-Um5t6QsOSafg72zXtA8SU#v=onepage&q=planning%20learning&f=false)). Of course, Clegg goes onto do the obvious and develop a "dialectical approach to strategy" that merges the two extremes.

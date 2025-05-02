@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The continuing story of linking github and the Moodle book module. Following on from [step 1](/blog2/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/) the main aim here is to grok [the PHP client](https://github.com/tan-tan-kanarek/github-php-client) for the github api I'm currently chosen.
 
 Some additional work to be done includes

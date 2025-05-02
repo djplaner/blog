@@ -5,9 +5,6 @@ categories: ['c2d2', 'chapter-5', 'design-theory', 'elearning', 'highereducation
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Over on the Remote Learner blog, Jason Cole has [posted](http://info.remote-learner.net/) some information about a keynote by Dr Richard Clark at one of the US MoodleMoots. I want to focus on one key quote from that talk and its implications for Australian higher education and current trends to "improve" learning and teaching and adopt open source LMS (like Moodle).
 
 It's my argument that this quote, and the research behind it, has implications for the way these projects are conceptualised and run. i.e. they are missing out on a huge amount of potential.

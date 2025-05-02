@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the problems within universities with the types of role I've been performing in the last couple of years is the out-of-sight, out-of-mind, problem. As a L&T "support" person the folk in the faculties, especially those in senior management, aren't always aware of exactly what it is you're doing. At the same time, they are aware of all sorts of problems they are seeing with L&T, have specific ideas how those should be addressed and don't see folk like me implementing those ideas. Consequently, they don't see any value in what we do.
 
 There are some aspects of that problem that you can't do anything about. This post is the first in a new tradition and is intended to address one part of the problem. It is questionable as to how well this approach will address the problem, but better to do something than nothing. The idea is that I'll report on this blog what I've been doing for the last little bit in the position. In part, this will be used to inform my supervisor and over time I'll promote these posts as way people can track what I'm doing. In part, this type of work fits with a number of [my position's](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ accountabilities.

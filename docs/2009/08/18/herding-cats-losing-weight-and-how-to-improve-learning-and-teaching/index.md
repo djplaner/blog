@@ -5,9 +5,6 @@ categories: ['reflectivealignment']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The purpose of this post is to work out some initial ideas for a presentation I'll be giving at [CQUniversity](http://www.cqu.edu.au/) in the next month or so. The title of the presentation is probably going to be "Herding cats, losing weight and how to improve learning and teaching". The talk is related to my [current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ and is the first step in making the position better known within the organisation.
 
 I'm hoping that this post will help me formulate some of the ideas that have been floating around about this presentation. The main purpose I hope to achieve is sufficient understanding of what I'm trying to do to come up with an abstract.

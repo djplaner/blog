@@ -5,9 +5,6 @@ categories: ['bricolage', 'casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following illustrates how the game _Number Scrabble_ and Herb Simon's thoughts on the importance of design representation appears likely to help with migration of 1000s of course sites from Blackboard Learn (aka Blackboard Original) to another LMS. Not to mention becoming useful post-migration.
 
 ## Number Scrabble

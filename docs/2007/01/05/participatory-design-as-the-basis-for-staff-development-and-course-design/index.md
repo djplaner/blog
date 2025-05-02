@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### Origins
 
 [Teemu Leinonen](http://www2.uiah.fi/~tleinone/) has a good post about [Participatory Design and Scenarios in Learning](http://flosse.dicole.org/?item=participatory-design-and-scenarios-in-learning). It outlines some norms behind participatory design, explains the use of scenarios and makes connections between participatory designs and other "paradigms" (e.g. social constructivist theory of learning and open source development).

@@ -25,9 +25,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some thoughts on the final report of an OLT funded project titled [e-Teaching leadership: planning and implementing a benefits-oriented costs model for technology enhanced learning](http://www.olt.gov.au/project-e-teaching-leadership-une-2009).
 
 The final report adds "Out of hours" to the title and captures my interest in this area. In particular, I think that the workload for academic staff (and hence the quality of learning and teaching) is being directly impacted by the poor quality of both the institutional tools and how they are being provided. Improving these is where my research interests sit, so I'm hoping this report will provide some insights/quotes to build upon. I also think that the next couple of years will hold "interesting" conversations about workloads and workload models.

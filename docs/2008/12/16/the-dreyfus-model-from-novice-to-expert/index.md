@@ -51,9 +51,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [This presentation](http://www.infoq.com/presentations/Developing-Expertise-Dave-Thomas) by Dave Thomas talks about the Dreyfuss Model of Skill Aquisition and how it applies to software development. However, the ideas and insights seem to apply to a number of other contexts, in particularly learning and teaching at Universities. I certainly found a lot of points that resonated.
 
 The content in this presentation is expanded upon in [this book](http://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1229352403&sr=8-1) which is also available [here](http://www.pragprog.com/titles/ahptl/pragmatic-thinking-and-learning).

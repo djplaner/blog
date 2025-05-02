@@ -120,9 +120,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a continuation of [prior ponderings](/blog2/2016/02/09/on-the-relationship-between-learning-design-and-oep/) about about open educational practice (OEP) and open educational resources (OER) in the context of a potential institutional grant application. It's an attempt to make sense of some of the relevant literature I've read and figure out how that might influence the nascent project. In particular, it suggests that some of the OER/OEP literature is limited due to its focus on: OER; the individual; the institution; and, on searching as the means of discovery.
 
 It leads to a nascent idea of a project to address these perceived limitations.  i.e. it's a project that is not limited to one institution; it's not focused on the individual actor, but on the connections between them; and, it's aiming to explore if and with what impacts the OER/OEP can be embedded into existing networks.

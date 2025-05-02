@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 There's a bit of talk at my current institution about adopting "blended learning". The Vice Chancellor had [this to say](http://vc-cquniversity.blogspot.com/2009/09/blended-teaching-and-mobile-learning.html) and various other folk have been pushing the idea. However, I do hear that there has been some disagreement about the exact definition of blended learning being used by various parties.
 
 I believe one definition being used is this one from [Griffith University](http://www.griffith.edu.au/gihe/learning-teaching-resources/blended-learning)

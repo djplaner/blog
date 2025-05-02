@@ -83,9 +83,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Apparently, it is [too complex](/blog2/2011/02/15/getting-an-overview-of-the-term-ahead/#comment-3835) to create a personalised class timetable for students at the institution I'm attending. I have [previously described](/blog2/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/) what I (as a student) have to currently do to create my class timetable as well as explaining that I helped implement a personalised class timetable system at the same institution about 10 years ago.
 
 The purpose of this post is to find out just how difficult it would be to do it today.

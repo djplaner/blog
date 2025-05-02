@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Some progress made this week, but it comes as a prelude to a week in which not much, if anything will be done. This week, after a couple of days at work, the family and I are off to visit Longreach, my sister and her family. We won't get back until after my normal "updates" day. So, I'll miss the updates for next week.
 
 ### What I've done

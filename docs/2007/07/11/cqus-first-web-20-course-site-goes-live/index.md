@@ -96,9 +96,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Working with [Bernie Walker-Gibbs](http://fahe.cqu.edu.au/FCWViewer/staff.do?site=3&sid=WALKERBM), [CD&DU](http://webclass.cqu.edu.au/) has helped produce CQU's [first "web2.0 course site"](http://webfuse.cqu.edu.au/Courses/EDED11448/) for the course EDED11448, Creative Futuring. It's been [talked about previously](http://cq-pan.cqu.edu.au/david-jones/blog/?p=119). This post talks briefly about the purpose and initial experience.
 
 ## Overview

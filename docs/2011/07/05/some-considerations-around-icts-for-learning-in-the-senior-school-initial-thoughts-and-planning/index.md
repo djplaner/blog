@@ -5,9 +5,6 @@ categories: ['eded20488', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So, yet another assignment as a pre-service teacher. This one is a 2000 word report on a challenge facing Queensland education. The title of this post is the current title for my report. The following contains the "abstract" we were required to post to the course discussion forum and some initial planning for the broader report. If you have any suggestions fire away.
 
 ### Abstract

@@ -60,9 +60,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### The modeller-broker orientation
 
 Here at [CQU](http://www.cqu.edu.au/) there is a mindset amongst a surprisingly large number of folk that align closely with a quote from Land (2001)

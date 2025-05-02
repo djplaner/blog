@@ -5,9 +5,6 @@ categories: ['plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The [PLEs@CQUni](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) is being driven, in part, by a range of external factors around the practices, availability and affordances of information technology, especially those associated with Web 2.0 and social software. We'll be looking at this means for the use of educational technology within universities, not to mention the practice of learning and teaching.
 
 Obviously these same drivers are going to have some interesting implications for the practice of the broader problem of how to IT is supported within organisations. There's sure to be much work in this area and it will be important to keep an eye on it for what they find and subsequently work out what it means for the PLEs project.

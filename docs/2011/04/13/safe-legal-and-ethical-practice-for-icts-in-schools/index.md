@@ -40,9 +40,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The assignment for ICTs for Learning Design that I am meant to be completing has a rubric with four criteria. The fourth criteria is
 
 > Model and support safe, legal and ethical practice

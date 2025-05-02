@@ -78,9 +78,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Following on from [recent posts](/blog2/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/) around learning analytics, this post is going to try and drill down a bit further on one of the useful questions around analytics identified by Shelia MacNeil's [summary of a Gardner Campbell talk](http://blogs.cetis.ac.uk/sheilamacneill/2012/03/09/learning-analytics-where-do-you-stand/). The questions
 
 > **What are the really useful “analytics” which can help me as a learner, teacher, administrator, etc?** Which systems provide that data just now ? How can/do these stakeholders access and share the data in meaningful ways? How can we improve and build on these systems in ways which take into account the complexity of learning? Or as Gardner said, how can we start framing systems and questions around wisdom?

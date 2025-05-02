@@ -38,9 +38,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This documents a problem, and hopefully an initial solution, around the combination of technologies that is Moodle, an Oracle database, and content that is copy and pasted from Word.
 
 ### Origins of the problem

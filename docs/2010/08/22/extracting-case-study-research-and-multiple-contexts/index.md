@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to consider and respond to a suggestion on [my thesis](/blog2/research/phd-thesis/) from my esteemed supervisor. It's essentially some thinking and questions arising from further refinement of the research method being used in my thesis.
 
 The suggestion was that perhaps my work is an example of van Aken's (2004) extracting/ive case study research. Is this the case?

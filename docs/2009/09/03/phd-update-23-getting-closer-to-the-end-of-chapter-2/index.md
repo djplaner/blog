@@ -5,9 +5,6 @@ categories: ['phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm taking the weekend, including Friday, off from the PhD - so an early update. It's been a good week. If only a short one in that I'll miss Friday.
 
 ### What I've done

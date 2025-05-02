@@ -49,9 +49,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [CQUniversity](http://www.cqu.edu.au/) is in the process of evaluating two open source [learning management systems](http://en.wikipedia.org/wiki/Learning_management_system) for adoption by 2010. We're at the stage of finalising the criteria to be used to evaluate the two systems. The purpose of this post is to outline some thoughts about how to evaluate the evaluation criteria.
 
 What should such criteria cover? What are the common problems? That sort of stuff. This is an attempt to think about this before I look in detail at and provide feedback on the proposed evaluation criteria we'll be using. Due to time constraints it isn't as informed by literature as it should be. It's a simple discussion of the things I can come up with late on a Sunday night, supplemented with a quick skim of the results of a couple of Google searches.

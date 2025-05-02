@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The machinations of University decision making are always (more than) a bit obscure, opaque and uncertain. Especially when the institution has just been through a restructure. Late last week I found out that the [Networked and Global Learning" Masters course](http://www.usq.edu.au/course/specification/2014/EDU8117-S2-2014-WEB-TWMBA.html) I was allocated to would actually run. Since the course was last re-developed sometime ago, I've also pushed for the opportunity to bring it into the modern network age. Hence this this post.
 
 Semester starts in two weeks time. By then I need to design most of the course and have a few weeks implemented. Given the topic (networked and global learning), the limited amount of time, and my limitations it's only sensible to do this in the open and hopefully benefit from the network.

@@ -51,9 +51,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Edupunk](http://en.wikipedia.org/wiki/Edupunk) as a term has been circulating since May last year. D'Arcy Norman has [posted](http://www.darcynorman.net/2009/02/24/now-this-is-edupunk/) the YouTube video from below with a couple of folk talking about Edupunk, including Jim Groom the guy who [originated the idea](http://bavatuesdays.com/the-glass-bees/)
 
 One point agreement amongst the participant is that Edupunk arose because a lot of people were frustrated with the constraints of course management systems. First the video.

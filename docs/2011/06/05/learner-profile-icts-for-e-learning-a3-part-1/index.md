@@ -5,9 +5,6 @@ categories: ['eded20491', 'ipt', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ### Introduction
 
 The following learner profile aims to provide a generic profile of Year 11 Queensland students enrolling in a senior course in Information and Processing Technology (IPT). While informed by observations of students gained during Embedded Professional Learning (EPL) it does not draw specifically on profiling activities of those students. Instead the profile draws on what is known about these students from the broader literature. The main reason for using a more general learner profile is that any limited profile of a single IPT class generated through activities organised by a student teacher is not likely to be as representative as drawing on an array of literature and supplementing this with classroom observation.

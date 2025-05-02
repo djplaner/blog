@@ -94,9 +94,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a mini-argument for and example of how the e-learning tools should be made more supportive. i.e. actually help the staff and students using them actively address common problems in a pro-active way. It continues some more thinking about an earlier question I asked, [Does institutional e-learning have a TPACK problem?"](/blog2/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) and hopefully will inform the on-going research and development around [BIM](/blog2/research/bam-blog-aggregation-management/) (now [officially released](/blog2/research/bam-blog-aggregation-management/) to the Moodle community) and also inform the [Moodlemoot'AU 2013](http://moodlemoot.org.au/) presentation I proposed.
 
 ### The problem

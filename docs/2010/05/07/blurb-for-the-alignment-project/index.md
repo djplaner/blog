@@ -6,9 +6,6 @@ tags: ['altc']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an early attempt at an "executive summary" for the alignment project. It's meant to get folk who know nothing about the project excited, or at least interested, in the project. The main audience, at the moment, is probably limited to institutional leaders around learning and teaching and those likely to be evaluating ALTC grant applications.
 
 Suggestions and criticisms more than welcome.

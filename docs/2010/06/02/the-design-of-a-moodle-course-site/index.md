@@ -57,9 +57,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For a couple of different reasons I am helping someone with the design and implementation of a Moodle course site. I've developed an activity module for Moodle but have never created an entire course site. Have thought about how it might be done, but never done it. The following is a description and some reflections on the experience.
 
 I'm particular interested in:

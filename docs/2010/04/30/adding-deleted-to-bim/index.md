@@ -5,9 +5,6 @@ categories: ['bim', 'moodle']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a record of the process of adding a "deleted" state for a blog post in [BIM](/blog2/research/bam-blog-aggregation-management/). This is in response to [an issue](http://github.com/djplaner/BIM/issues#issue/8) that has arisen out of BIM usage at CQU.
 
 ### The problem

@@ -105,9 +105,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![1427 feet above the valley floor by john.d.mcdonald, on Flickr](images/3253110188_2acbfbf4b8_m.jpg "1427 feet above the valley floor by john.d.mcdonald, on Flickr")](https://www.flickr.com/photos/psychoactive/3253110188/)  
 [![Creative Commons Creative Commons Attribution 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/psychoactive/)[john.d.mcdonald](https://www.flickr.com/people/psychoactive/) [](http://www.imagecodr.org/)
 

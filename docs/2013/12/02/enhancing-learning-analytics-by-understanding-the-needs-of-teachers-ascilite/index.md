@@ -5,9 +5,6 @@ categories: ['ascilite']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Linda Corrin, Gregor Kennedy, Raoul Mulder, Enhancing learning analytics by understanding the needs of teachers
 
 Looking at the needs of lecturers.

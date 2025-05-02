@@ -69,9 +69,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 After at least a decade of "wouldn't it be a good idea if" and at least [one aborted attempt](http://cddu.cqu.edu.au/index.php/Blackboard_Indicators) (hint: an organisational restructure in which you are a loser, is not a great context for a new project with intra-organisational implications), the [Indicators Project](http://indicatorsproject.wordpress.com/) is getting started. This post is my attempt to define what the project means for me. What I hope to get out of the project, and what I hope others might get out of the project.
 
 The main aim is to let people know about the project and encourage feedback, either here or on the [project blog](http://indicatorsproject.wordpress.com/).

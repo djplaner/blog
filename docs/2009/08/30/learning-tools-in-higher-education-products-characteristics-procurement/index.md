@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 't
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Back to the PhD today, probably will do a couple of summaries of papers I'm reading. The focus is on the product models and procurement strategies used by Universities to solve the technical problem of e-learning. I start with a paper with the title "Learning Tools in Higher Education: Products, Characteristics, Procurement" (Wild and Sobernig, 2007)
 
 ### Summary

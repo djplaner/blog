@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 So the last of three sections examining the limitations of industrial e-learning and suggesting an alternative. Time to write the conclusion, read the paper over again and cut it down to size.
 
 ### People

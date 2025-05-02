@@ -5,9 +5,6 @@ categories: ['ilecture']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part of the [experiment in presentations](/blog2/2009/09/28/small-changes-in-lectures-ustream-votapedia/) I'm planning for later in this month involves the use of alternate types of clickers or [audience response systems](http://en.wikipedia.org/wiki/Audience_response). The aim of this part of the experiment is two-fold:
 
 1. Identify a technology that breaks the limitations of the current clickers provided by publishers.  

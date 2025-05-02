@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [BIM](/blog2/research/bam-blog-aggregation-management/) is a Moodle activity module that I developed and use. BIM evolved from an earlier system called **B**log **A**ggregation **M**anagement (BAM). BIM's acronym is **B**AM **I**nto **M**oodle. As the name suggests, BIM is essentially a port of all of BAM's functionality into Moodle. Both BAM and BIM are designed to help with the task of managing students in a course writing and reflecting on their own individual web blogs. In particular, it was designed to do this for courses with hundreds of students.
 
 The aim of this post is to explore and explain a comment that often arises when BIM is first mentioned. i.e. doesn't Moodle already offer blog integration? The following tweet from @tim\_hunt is an example of this.

@@ -5,9 +5,6 @@ categories: ['4paths', 'bad', 'casa', 'eei', 'indicators', 'irac']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [![failure by tinou bao, on Flickr](https://farm1.static.flickr.com/38/96393863_a62172a617_m.jpg "failure by tinou bao, on Flickr")](https://www.flickr.com/photos/tinou/96393863/)  
 "[failure](https://www.flickr.com/photos/tinou/96393863/)" ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)) by  
 [tinou bao](https://www.flickr.com/people/tinou/)

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the third in a sequence of sections from chapter 5 of [my thesis](/blog2/research/phd-thesis/). These sections are describing the changes made in the development and support of Webfuse from 2000 through 2004 (and a bit beyond). This post very briefly describes the adoption a design patterns influenced, OO design.
 
 The biggest challenge I faced in moving from Webfuse to Moodle was returning to a procedural approach to software development. Not just the movement from OO back to procedural, but from a system where I was deeply familiar with 900+ classes that provided a lot of low level and high level services for "e-learning" to a collection of procedural, spaghetti code where there was no clean separation of services, no easy way of finding which part did what. Of course, part of this difficulty was simply my newness to Moodle.

@@ -56,9 +56,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 !!! warning "Broken image link"
 
 The Australian Federal Government has a [Learning and Teaching Performance Fund (LTPF)](http://www.dest.gov.au/sectors/higher_education/policy_issues_reviews/key_issues/learning_teaching/ltpf/) that is meant to allocate money to Australian universities on the quality and/or improvement in their learning and teaching.

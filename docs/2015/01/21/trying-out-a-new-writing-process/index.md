@@ -5,9 +5,6 @@ categories: ['bambimbad']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's Wednesday, that means writing day. Time to continue work on a paper that's been [mentioned previously](/blog2/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/). In this process I'm exploring being open about the writing process and attempting to create a collection of artifacts (evidence?) leading up to the final paper. This post documents today's steps with a particular focus on first steps with a new [Smallest Federated Wiki (SFW)](http://wardcunningham.github.io/) enabled writing process that fruitfully merges with use of this blog.
 
 ## An idea SFW enabled writing process

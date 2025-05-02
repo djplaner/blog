@@ -145,9 +145,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the second exploration of an idea for enhancing Moodle to enable curriculum mapping. It carries on from the [first step](/blog2/2010/03/23/first-step-in-moodle-curriculum-mapping/) and is part of a [broader project](/blog2/research/curriculum-mapping/).
 
 The aim today is to:

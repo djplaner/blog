@@ -54,9 +54,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm involved in some early discussions with some folk from the Psychology department here at [CQUniversity](http://www.cqu.edu.au/) about a project looking at curriculum mapping. If I've got any idea of their problem, it's associated with the need to show their students, themselves and the accrediting bodies how the activities, resources and assessments of the courses within they degree meet the outcomes for the courses and the program.
 
 I have a meeting with them tomorrow. The following is an edited copy of a post I've just made to a [discussion about curriculum mapping](http://moodle.org/mod/forum/discuss.php?d=110759) on the Moodle general developer forum. It's an attempt to identify one potential way forward.

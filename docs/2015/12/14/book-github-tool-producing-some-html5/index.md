@@ -6,9 +6,6 @@ tags: ['moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Following on from the [work late last week](/blog2/2015/12/11/moodle-book-to-a-single-file-which-format/) and the lovely feedback provided by @rolley it's time to convert some plans into action.
 
 The aim is to modify the under-development [Moodle Book github tool](https://github.com/djplaner/moodle-booktool_github) so that when it concatenates the chapters from a Moodle Book resource into a single HTML file, the HTML file is structured HTML 5 semantic elements.

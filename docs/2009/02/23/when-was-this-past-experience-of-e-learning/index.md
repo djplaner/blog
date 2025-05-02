@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'psframework', 'quotes',
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's amazing at how perspectives around technology and its use in education don't change. In the presentation on [this page](http://coursedesign.wordpress.com/thinking/) I use some quotes from [the what if presentation](http://thefischbowl.blogspot.com/2006/09/what-if.html) by Karl Fisch to outline some previous fearful perspectives on the impact of technology on learning that mirror many of the perspectives held of e-learning.
 
 The following couple of quotes illustrate that the positive perspectives of technology can also be found in history.

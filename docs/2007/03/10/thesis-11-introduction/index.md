@@ -5,9 +5,6 @@ categories: ['chapter-1', 'design-theory', 'thesis', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In the traditions of open source's "release early, release often" and in an attempt to get me writing, I am going to start releasing parts of my PhD thesis. Almost certainly of limited use to others and likely to demonstrate various flaws, but hopefully the public release might generate some fixes and encourage some progress.
 
 This is Chapter 1, Section 1 - the introduction. Subsequent bits to come as available.

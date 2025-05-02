@@ -24,9 +24,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I don't like to brag, but you don't get this sort of thing all that often.
 
 Last week I was in Paris for the [ICIS'2008 conference](http://www.icis2008.org/). The main reason for going to the conference was to receive an award.

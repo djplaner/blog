@@ -204,9 +204,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following describes the process and results of using Gephi to generate some visualisations of the inter-connections between the blogs of students in the course I'm teaching. The process is heavily informed by [the work](http://blog.ouseful.info/2011/07/07/visualising-twitter-friend-connections-using-gephi-an-example-using-wireduk-friends-network/) of [Tony Hirst](http://blog.ouseful.info/).
 
 ## The result

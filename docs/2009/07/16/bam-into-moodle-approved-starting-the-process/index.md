@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Received formal institutional approval yesterday to commence the process of porting [BAM](/blog2/research/bam-blog-aggregation-management/) into Moodle. This has two implications that spring to mind:
 
 1. I get to learn a new development environment; and  

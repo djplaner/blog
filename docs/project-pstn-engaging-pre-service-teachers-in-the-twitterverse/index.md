@@ -49,9 +49,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Narelle Lemon1, Sarah Thorneycroft2, David Jones3, and Lauren Forner4
 
 _1 RMIT University, Melbourne, Victoria, Australia 2 University of New England, Armidale, New South Wales, Australia 3 University of Southern Queensland, Toowoomba, Queensland, Australia 4 Deniliquin High School, Deniliquin, New South Wales, Australia_

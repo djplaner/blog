@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following graphs are based on [statistical information](http://www.qsa.qld.edu.au/617.html) provided by the Queensland Studies Authority. The intent was to explore what was happening in terms of enrolments in the Senior High School course [Information and Processing Technology (IPT)](http://www.qsa.qld.edu.au/11678.html).
 
 The picture doesn't appear to be that rosy (if you assume doing IPT is good).

@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Last time](/blog2/2009/09/03/bim-6-learning-weblib-php/) I worked on [BIM](/blog2/research/bam-blog-aggregation-management/) I got to know weblib.php enough to get the first canned Moodle page generated. The [student details page](http://www.flickr.com/photos/david_jones/3882960287/) which lets the student see what BIM knows about their blog contributions for the current course.
 
 The rationale for this prototype approach includes:

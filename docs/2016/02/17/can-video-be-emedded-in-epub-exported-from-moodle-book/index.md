@@ -65,9 +65,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Last year my institution installed the [Lucimoo epub export tool](https://moodle.org/plugins/view/booktool_exportepub) for the [Moodle Book module](https://docs.moodle.org/28/en/Book_module). I did some of [the testing of it](/blog2/2015/08/18/testing-the-lucimoo-epub-export-book-tool/). I'm particularly interested (but not overly) in its ability to export a book resource as an ePub file (see I'm innovative, I support the kiddies and their fancy new mobile devices). While the export basically works, the testing identified a number of problems. I've fixed most of those (mainly tidying up my hand-crafted HTML and that produced by a few tools I use).
 
 The one remaining problem is

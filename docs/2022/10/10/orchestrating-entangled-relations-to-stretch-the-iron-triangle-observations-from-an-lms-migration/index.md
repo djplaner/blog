@@ -12,9 +12,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 ## About
 
 This work arose from the depths of an institutional LMS migration (Blackboard Learn to Canvas). In particular, the observation that the default migration processes required an awful lot of low level manual labour. Methods that appeared to reduce the quality of the migration process and increase the cost. Hence we started developing different methods. As the migration project unfolded we kept developing and refining. Building on what we'd done before and further decreasing the cost of migration, increasing the quality of the end result, and increasing the scale and diversity of what we could migrate.

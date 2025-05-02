@@ -5,9 +5,6 @@ categories: ['learninganalytics-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Now onto class 2 with the [Data Mining with Weka](https://weka.waikato.ac.nz/dataminingwithweka/) MOOC.
 
 ### Be a classifier

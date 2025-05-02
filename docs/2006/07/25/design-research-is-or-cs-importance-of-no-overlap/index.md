@@ -5,9 +5,6 @@ categories: ['design-theory']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The Information Systems discipline has had lots of talk about design science research (aka many other related terms).
 
 Much of it appears to be promoted by (described in the worst possible light) as refugees from engineering and computer science wanting to do what they used to do.

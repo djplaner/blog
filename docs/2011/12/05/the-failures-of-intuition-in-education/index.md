@@ -113,9 +113,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 For some reason I'm in a fairly [contrarian](http://en.wikipedia.org/wiki/Contrarian) frame of mind tonight. So starting a series of blog posts listing and criticising widely held positions in education seems like the thing to do. I'm sure you have your favourite example, feel free to add them to the comments. Also feel free to add pointers to resources - both for and against - the examples.
 
 The spark for the idea comes [from this article](http://elearnmag.acm.org/archive.cfm?aid=2070611) title "Why Is the Research on Learning Styles Still Being Dismissed by Some Learning Leaders and Practitioners?" from the ACM eLearn Magazine. The article argues that (one of) the reason(s) where the idea of learning styles are still widely given credence within education is because they appeal to intuition and common sense. The idea resonates with people and hence it is hard to convince them of the alternate view.

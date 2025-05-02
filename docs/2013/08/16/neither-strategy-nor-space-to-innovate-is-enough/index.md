@@ -66,9 +66,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Read [this piece](http://www.edtechmagazine.com/higher/article/2013/08/why-cios-it-and-faculty-need-find-common-ground-technology) - Why CIO's, IT and Faculty need to find common ground on technology - by David Wiley yesterday as it did the rounds. The article argues that the focus of the CIO/IT on highly reliable systems is a mismatch for the needs of innovation in learning and teaching. It brings up the tension between standard systems and rogue systems (aka [shadow systems](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/)). The solution to this is a space - a policy space - that enables innovation.
 
 In general, I am sympathetic to this argument, but I also don't think it truly captures what is required for innovation in contemporary learning and teaching.

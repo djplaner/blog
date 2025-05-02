@@ -79,9 +79,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've been somewhat pre-occupied this week with producing a presentation that will form the basis for a submission to [ASCILITE'2007](http://www.ascilite.org.au/conferences/singapore07/).
 
 The submission, going under the working title "The teleological reason why ICT limits choice for university learners and learning", will appear on my website later tomorrow - eventually including video.

@@ -173,9 +173,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 What is [Wikity](https://onedrive.live.com/view.aspx?resid=39FEBF669D4D5EF4!4173&ithint=file%2cdocx&app=Word&authkey=!AMlbDPUeJDYdjg8)?
 
 I have a feeling I may not be able to give a good answer to that. That's part of the point of the work this post starts. Play around with Wikity and explore some possibilities.

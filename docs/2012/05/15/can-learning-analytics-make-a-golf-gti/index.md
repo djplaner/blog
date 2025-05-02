@@ -97,9 +97,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Or, an attempt to share some thinking about the idea behind an - almost obligatory - application for external funding.
 
 ### The car analogy

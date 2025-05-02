@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Thought it would be a grand idea to get the students, in week 3, to prepare a Gantt chart planning out their study for the term. They get to apply some content knowledge and think actively about planning their study.
 
 Of course, the problem is that many of these students are new to technology.

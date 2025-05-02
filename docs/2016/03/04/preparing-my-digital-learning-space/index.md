@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following documents the (hopefully) last bit of extra work I have to undertake to prepare the digital "learning space" for [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/synopses/2016/EDC3100.html). It's work that has taken most of my working day. At a time when I can't really afford it.  But it's time I have to spend if I want to engage effectively in one of the most fundamental activities in teaching - know thy student.
 
 ## End result

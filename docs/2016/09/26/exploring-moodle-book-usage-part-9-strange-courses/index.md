@@ -5,9 +5,6 @@ categories: ['exploring', 'moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Time to explore some of the strange courses that have been identified.  There are currently two types:
 
 1. courses with many individual Book resources; and

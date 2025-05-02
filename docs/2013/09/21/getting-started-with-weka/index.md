@@ -77,9 +77,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 And now for the second MOOC of the year - [Data Mining with Weka](https://weka.waikato.ac.nz/dataminingwithweka/course) from the University of Waikato. Weka is an open source data mining application. Time to find out a bit more about one of the technical aspects of learning analytics. Hoping this might be useful in terms of research with [The Indicators Project](http://indicatorsproject.wordpress.com/) (we should really update that site).
 
 First up is "Class 1 - Getting started with Weka"

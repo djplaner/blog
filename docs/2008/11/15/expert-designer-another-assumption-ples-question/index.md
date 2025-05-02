@@ -108,9 +108,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a serious of blog posts (starting with this [one](/blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/)) I've been trying to develop a list of fundamental assumptions about learning and teaching at Universities which the various concepts associated with [personal learning environments](http://en.wikipedia.org/wiki/Personal_Learning_Environment) (PLEs) bring into question.
 
 This post attempts to add another.

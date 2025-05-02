@@ -6,9 +6,6 @@ tags: ['dehub']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 My [current institution](http://www.cqu.edu.au/) is currently a member of the [DEHub](http://www.dehub.edu.au/) - "A community for learning and teaching, research and Innovation in Distance Education". The exact connection with my current institution and more importantly the folk doing work in distance education/learning and teaching remains somewhat vague. However, it is probably time for me to actively see what connections exist with my work and interests, there should probably be a lot.
 
 ### DEHub - Research themes

@@ -5,9 +5,6 @@ categories: ['bad', 'bricolage', 'shadowsystems']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The challenge here is learn more about using NVivo in order to design processes for a research project exploring the prevalence and nature workarounds in higher education learning and teaching.
 
 # Can Word documents be imported and pre marked up?

@@ -131,9 +131,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Thanks to a bit of "synergy" it looks like CQU might be getting its first Web 2.0 course site. I'm currently defining a Web 2.0 course site as a recognisable course website that just happens to be implemented, to a significant extent, making use of ["Web 2.0"](http://en.wikipedia.org/wiki/Web_2) services.
 
 The label is a contradiction in terms. Web 2.0 is not about client/server, a single site that hosts all the material. It's about a bunch of services being mixed together in an ad hoc way by the participants (and that's not a definition I plan reusing too often). I'm reasonably sure that folk like [Stephen Downes](http://www.downes.ca/) would have some very valid qualms about the concept.

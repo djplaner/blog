@@ -36,9 +36,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday I attended a session by [George Siemens](http://www.elearnspace.org/blog/) with the title "Extending the classroom: Open content and open teaching". The presentation was video-conferenced from the Sunshine Coast to a range of locations across Australia. I was in a room at [CQUniversity](http://www.cqu.edu.au/) in Rockhampton with quite a number of folk. What follows are my reflections on that talk.
 
 ### Overview

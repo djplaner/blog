@@ -4,9 +4,6 @@ date: 2006-12-28 15:28:50+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Coates, James and Baldwin (2005) identify/propose 5 drivers behind the adoption of LMS
 
 1. Means of increasing the efficiency of teaching

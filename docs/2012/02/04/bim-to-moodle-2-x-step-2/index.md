@@ -5,9 +5,6 @@ categories: ['bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 _Disclaimer:_ I started this post in November 2011 and never posted it. It is essentially a development diary for some initial steps in development [BIM](/blog2/research/bam-blog-aggregation-management/) for Moodle 2.x.
 
 It is probably of almost no value to anyone but me.

@@ -5,9 +5,6 @@ categories: ['elearning', 'information-systems', 'missingps']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [The Missing Ps framework](http://cq-pan.cqu.edu.au/david-jones/blog/?p=52) is my attempt to generate a way of identifying the flaws in the methods used by Universities to select an LMS.
 
 In this section I'm expanding out my thoughts associated with process. It will include

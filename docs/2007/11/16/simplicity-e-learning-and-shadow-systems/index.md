@@ -5,9 +5,6 @@ categories: ['design-theory', 'herding-cats', 'ple']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [BJ Fogg](http://www.bjfogg.com/) looks like an interesting sort of guy, particularly with the work [CDDU](http://cddu.cqu.edu.au/) may be doing over coming years with e-learning, PLEs etc. From his home page, he is a psychologist who investigates how people use technology.
 
 He's doing work at Standford University around [Facebook](http://facebook.com/) and using it. Via the blogosphere I have come across a [video of his on simplicity](http://cquedu.facebook.com/video/video.php?v=523316292793&ref=nf). It's hosted on Facebook and here comes some of the bits I have discovered which I don't like about Facebook. I'm not sure the URL above will work and you will have to have a facebook account to view it. Not real open.

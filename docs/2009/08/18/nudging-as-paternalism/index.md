@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is a story about [serendipitous connectability](http://punya.educ.msu.edu/2009/03/23/serendipitous-connectability-a-short-history-of-an-idea/) connecting both the online and offline worlds and making me aware of a growing narrative or theory. Which makes me question whether or not nudging or [nudge theory](http://www.guardian.co.uk/politics/2008/jul/12/economy.conservatives1?gusrc=rss&feed=worldnews) is [libertarian paternalism](http://en.wikipedia.org/wiki/Libertarian_paternalism)
 
 ### The connections

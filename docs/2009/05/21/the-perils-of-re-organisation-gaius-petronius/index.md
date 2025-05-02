@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 While chasing down some work by [Fullan](http://books.google.com.au/books?hl=en&lr=&id=e4WxLQv0mmMC&oi=fnd&pg=PA245&dq=fullan+nonlinear+change&ots=kBUlGX4Lxt&sig=MNgfIW8wLAT3B8ZiCo-EMuhXYrQ#PPA245,M1) on educational change I came across the following well-known quote that happens to, based on recent experience, have a fair bit of resonance.
 
 > We trained hard...but it seemed every time we were beginning to form up into teams we were reorganised. I was to learn later in life that we tend to meet any situation by reorganising, and what a wonderful method it can be for creating the illusion of progress while producing confusion, inefficiency, and demoralisation. -- Gaius Petronius, A.D. 66

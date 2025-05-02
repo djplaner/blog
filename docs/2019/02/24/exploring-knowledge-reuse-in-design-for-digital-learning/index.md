@@ -5,9 +5,6 @@ categories: ['bad', 'casa', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post continues an on-going exploration of knowledge reuse in design for digital learning. Previous posts ([one](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) and [two](/blog2/2019/02/10/digital-learning-templates-adding-context-and-configuration/)) started the exploration in the context of developing an assemblage to help designers of web-based learning environments create [a card interface](https://medium.com/designed-thought/the-design-and-morality-of-the-card-interface-1f8349e9a9c0) (see Figure 1). Implementing such a design from scratch requires a diverse collection of knowledge that is beyond most individuals. It is hoped that packaging that knowledge into an assemblage of technologies will allow for that knowledge to be used and reused (within Blackboard 9.1) by more people and subsequently have a positive impact on the learning environment and experience.
 
 The card inteface is a simple example of this work. The requirements of the card interface are fairly contained and pre-defined. The next challenge is to explore if and how this can be expanded to something more difficult and open-ended.

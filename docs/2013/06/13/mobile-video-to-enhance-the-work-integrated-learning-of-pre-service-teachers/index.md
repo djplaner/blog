@@ -5,9 +5,6 @@ categories: ['edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Thanks to @palbion I'm having a chat this afternoon with Chris Dann from the University of Sunshine Coast about a project he's involved with. Trying to explore and establish if there are some potential synergies there. The following is a summary and some reactions to the paper that "started it all" (Dann and Allen, 2013). The abstract looks like it gives a good summary of the idea
 
 > The prevalence of mobile technology in the lives of educators begs the question how they can be best used to improve the formative and summative assessment of pre-service teachers in workplace learning. This paper outlines how one regional university in Australia has developed a purpose-built application for iPhone with a companion web to manage communication between all stakeholders in the pre-service teachers’ practicum. The iPhone has the capability of capturing video, photographic and written data about each criterion at any time. The paper also reports on early research on its suitability. Preliminary results have indicated that the system provides increased support for supervising teachers in their decision-making processes. Pre-service teachers welcomed greater opportunities for enhanced, visual feedback providing ongoing formative feedback and improved capacity for summative assessment. Opportunities for further research and design modifications are explored.

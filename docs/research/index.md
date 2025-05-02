@@ -4,9 +4,6 @@ date: 2008-10-20 15:37:51+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ### Ethos and outlook
 
 Brooks' (1996) notion of the computer scientist as toolsmith whose delight "is to fashion powertools and amplifiers for minds" (p. 64) resonates strongly with my disciplinary background and personal identity. In particular, the two criteria for a successful tool identified by Brooks (1996, p. 66)

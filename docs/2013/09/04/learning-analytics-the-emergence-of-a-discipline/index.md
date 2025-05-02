@@ -66,9 +66,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Continuing my reading of some recent learning analytics journal articles, the following is a summary and some thoughts on
 
 > Siemens, G. (2013). Learning Analytics: The Emergence of a Discipline. American Behavioral Scientist, (August). doi:10.1177/0002764213498851

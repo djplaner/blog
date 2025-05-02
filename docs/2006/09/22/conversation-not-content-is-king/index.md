@@ -5,9 +5,6 @@ categories: ['elearning', 'web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Many people can't see the benefits of making content freely available.
 
 [This post](http://www.elearnspace.org/blog/archives/002625.html) suggest that it is conversation, not content, that is of strategic value in the learning process.

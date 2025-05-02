@@ -66,9 +66,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 With the vague idea of the [IRAC framework done](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/), it's time to take the next step, i.e. "to use the framework to analyse the extant learning analytics literature". The following is some initial thinking behind why, what and how we're thinking of doing.
 
 The main question we have here is "how?". Trying to figure out the best tools and process to help do this analysis. I've come up with two possibilities below, any better ones?

@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Up to Unit 7 of the [introduction to Moodle programming course](http://dev.moodle.org/course/view.php?id=2), this one is titled "Replicating a moodle block". So the programming begins.
 
 ### Creating a simple block

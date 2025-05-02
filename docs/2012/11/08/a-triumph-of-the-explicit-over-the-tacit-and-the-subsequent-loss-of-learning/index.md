@@ -5,9 +5,6 @@ categories: ['elearning', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I've spent the last week dealing with a range of institutional systems for the submission and processing of assignments, results etc. I'm likely to spend at least another week or two trudging through the inexplicable holes, dead-ends, and busy work such systems create. Hence the need for a break. While walking through the local "Japanese Gardens" back to the office I stumbled across a possible explanation. Or at least a catchy phrase to represent that explanation and provide an opportunity to revisit and share some recent reading.
 
 These ill-fitting systems are illustrative of the triumph of the explicit over the tacit (and implicit) that is embodied in the type of business-like processes and policies in use in the current modern Australian university. It's this triumph that is the biggest barrier to widespread improvement and innovation in learning and teaching at those institutions because they limited institutional learning.

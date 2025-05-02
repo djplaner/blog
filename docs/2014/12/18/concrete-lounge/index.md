@@ -94,9 +94,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Concrete Lounge](images/16047431632_455db578f4_m.jpg)](https://www.flickr.com/photos/david_jones/16047431632 "Concrete Lounge by David Jones, on Flickr")
 
 The Concrete Lounge is a nascent analogy intended to help explain the need for more people to take on the role of [Digital Renovator](http://djones.federatedwiki.org/digital-renovator.html). Especially in the context of university-based educational technology.

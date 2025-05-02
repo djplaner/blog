@@ -5,9 +5,6 @@ categories: ['connectedcourses', 'edu8117']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part of [NGL](http://netgl.wordpress.com) the plan was to play with Mendely as a medium, but some [limitations of Mendeley](https://netgl.wordpress.com/2014/08/24/we-wont-be-exploring-mendeley-to-its-fullest/) meant it didn't quite fit the bill.
 
 [![Disconnected by larsomat, on Flickr](images/89614073_c1f014182d_m.jpg "Disconnected by larsomat, on Flickr")](https://www.flickr.com/photos/larsomat/89614073/)  

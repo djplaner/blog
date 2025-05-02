@@ -49,9 +49,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is essentially an activity log/diary or the first steps of getting back into work on [BIM](/blog2/research/bam-blog-aggregation-management/). I'm hoping to have it ready to work with some [course redesign](/blog2/2012/12/14/4668/) I'm working on, but timelines may make that difficult.
 
 The aim of this is to get the current version of BIM for Moodle 2.x up and running with Moodle 2.4+. The next step will be to determine what work needs to be completed on BIM and what new features might be useful.

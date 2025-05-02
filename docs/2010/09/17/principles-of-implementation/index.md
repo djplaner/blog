@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the other main component of the ISDT for e-learning I'm working on. A [prior post](/blog2/2010/09/15/principles-of-form-and-function/) focused on the principles of form and function (i.e. the structure of an information system, the product), the following focuses the principles of implementation (i.e. the process).
 
 While both these posts are based on a bit of prior work, the current formulation of the principles are very much a first draft (not only the principles themselves, but the expression as well). I'll be coming back to them and welcome feedback.

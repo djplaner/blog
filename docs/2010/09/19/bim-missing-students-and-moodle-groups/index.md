@@ -5,9 +5,6 @@ categories: ['bimerrors']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a description of a common "problem" with [BIM](/blog2/research/bam-blog-aggregation-management/).
 
 ### Symptoms

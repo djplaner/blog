@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a presentation abstract that I've submitted to [MoodleMoot AU'2010](http://moodlemoot.org.au/). It's based on some ideas and thoughts expressed here previously. In particular, the main focus on the paper will be showing that the reason most university e-learning/teaching is not that great, is not really the fault of the academics. Instead it will argue that there are a range of limits within the higher education environment that are mostly to blame.
 
 Regardless of whether it gets accepted at Moodlemoot. I'll be presenting it at CQU sometime in early July and will post the video etc here then.

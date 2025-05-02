@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Biblia (German), f.40r, detail by CRC, University of Edinburgh, on Flickr](https://farm4.static.flickr.com/3682/10155924084_207fe9c6ba_m.jpg "Biblia (German), f.40r, detail by CRC, University of Edinburgh, on Flickr")](https://www.flickr.com/photos/crcedinburgh/10155924084/)  
 [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/crcedinburgh/)[CRC, University of Edinburgh](https://www.flickr.com/people/crcedinburgh/) [](http://www.imagecodr.org/)
 

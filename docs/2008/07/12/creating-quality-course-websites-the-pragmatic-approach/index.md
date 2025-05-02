@@ -94,9 +94,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=184) I laid out some rationale for an organisational approach to increase the usage of course websites. In this post I provide more detail on the rationale behind the pragmatic approach, which was described this way in that previous post.
 
 > - Pragmatic - ad hoc changes to particular aspects of a course website.  

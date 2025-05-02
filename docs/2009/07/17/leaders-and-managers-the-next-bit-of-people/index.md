@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 After a bit of an absence, time to get back to the [thesis](/blog2/research/phd-thesis/). The following continues the recent work on the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). So far, I've done [students](/blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/) and [teaching/academic staff](/blog2/2009/07/07/academics-the-next-part-of-the-people-section/). This post looks at leaders and managers (badly). I'm working on a section or two on technical and instructional design staff.
 
 It doesn't end strongly, but care factor is low.

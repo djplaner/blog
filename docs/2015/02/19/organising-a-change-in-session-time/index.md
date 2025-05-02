@@ -47,9 +47,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The next iteration of the ICT and Pedagogy course I teach is about to start. We've struck a small problem with one of the campuses, the person being employed to run sessions on that campus can't make the scheduled time. I need to ask the students when would be the best time to reschedule the session. The following summarises how I'll do this with [Doodle](http://doodle.com/) and various other tools.
 
 I'm posting this on my blog to share what I've learned about this task. Making this explicit illustrates to the folk in the course one way to make use of blogging. Share your learning, no matter how small or simple you may think it. It may also be of use to some of my colleagues at the institution. It's also to help demonstrate a process of creatively combining ICT to help with an aspect of learning/teaching.

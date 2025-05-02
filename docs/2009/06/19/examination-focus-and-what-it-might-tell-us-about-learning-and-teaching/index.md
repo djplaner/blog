@@ -5,9 +5,6 @@ categories: ['elearning', 'indicators', 'reflectivealignment']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Phillips (2005) includes the following quote
 
 > In most university subjects, the dominant mode of teaching consists of lectures, tutorials and laboratory practical sessions (Laurillard 2002: 81), with assessment strongly focussed on examinations.

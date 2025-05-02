@@ -5,9 +5,6 @@ categories: ['bad', 'casa', 'edu8117', 'ngl']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [NGL is a course](http://netgl.wordpress.com/) I teach. Participants are asked to spend the semester engaging with networked and global learning as: student, learner, and teacher. They are asked to blog and reflect on this mishmash of experiences throughout the semester. I'm trying to do this as well. Not only to model one version of expectations, but also because I find it a valuable learning process myself. I did "me as learner" last week, this week it's time for "me as teacher".
 
 ### as "meta-"teacher

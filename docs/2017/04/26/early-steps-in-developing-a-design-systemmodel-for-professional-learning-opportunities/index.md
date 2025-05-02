@@ -5,9 +5,6 @@ categories: ['eei', 'plos']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A big responsibility for the new team I work with is the design, implementation and revision of Professional Learning Opportunities (PLOs) for teaching staff at our current institution. The PLO term has been gifted to us as part of the restructure process/documents that created the team. It's a term I quite like since I've chosen to interpret it as covering a huge range of possibilities beyond just face-to-face, synchronous, physical professional development. This is good because the team has been charged with doing something different.
 
 This post is part of the process of coming up with something different. It links our thinking with some work being done elsewhere and is an attempt to think what else can we add. This post is also an example of the team walking the walk. i.e. if we're aiming to help teaching staff become open and connected educators, then we need to be operating in ways that are open and connected.

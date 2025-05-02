@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Time to start using Fedwiki to do some writing.
 
 While fedwikihappening has provided a Fedwiki for me, I've decided to go the "one of my own" approach and via various constraints will be using [this one](http://djones.federatedwiki.org/view/welcome-visitors). Hopefully it may end up being connected with [my nascent domain](http://djon.es)

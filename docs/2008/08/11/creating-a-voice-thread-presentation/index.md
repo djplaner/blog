@@ -5,9 +5,6 @@ categories: ['elearning', 'ple', 'plescquni', 'voicethreadresearchposters']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is step 2 in getting organised for a trial of [VoiceThread](http://voicethread.com/) as part of the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). The background was given in a [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=197).
 
 This post tries to summarise what's been found about create a presentation in Voice Thread. It's more a work in progress and a way of saving what I'm finding, rather than any particular use for anyone else.

@@ -6,9 +6,6 @@ tags: ['association', 'education', 'learning', 'learning-technology', 'technolog
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 There is a lot I like about within this discussion of a "systems approach to e-learning". However, there is also much that I dislike.  
   
 I think the source of my dislike is the typical engineers (or business analyst/project management) assumption that you can develop in-depth knowledge of a complex organisation/activity/set of processes like e-learning within a university. i.e. that the gant chart or e-learning strategic plan captures everything that you need to know about the activity.  

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post is a summary of work being done to update the [Moodle indicators block](/blog2/2010/05/09/requirements-for-an-indicators-moodle-block/) so that it can support multiple visualisation tools and approaches.
 
 ### Problem

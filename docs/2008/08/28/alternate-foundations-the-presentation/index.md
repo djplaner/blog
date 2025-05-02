@@ -33,9 +33,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=202) outlined the abstract for a presentation I gave last Monday on some alternate foundations for leadership of learning and teaching at CQUniversity. Well, I've finally got the video and slides online so this post reflects on the presentation and gives access to the multimedia resources
 
 ### Reflection

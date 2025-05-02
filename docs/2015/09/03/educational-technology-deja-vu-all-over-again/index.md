@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I must be getting old and have spent far too long in universities and educational technology. I keep seeing the wheel being reinvented all over again.
 
 Today, spam from Facebook lured me there to unsubscribe from notifications, once again. Whilst there I was lured into @kierenjamieson's page/wall (whatever) by his unique collection of cat videos and food porn. But then there came a link to [this opinion article](http://www.onlineopinion.com.au/view.asp?article=17542) titled "Reduced scope of the Office of Teaching and Learning should focus us on what works".

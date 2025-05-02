@@ -36,9 +36,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is being/was presented at [the 2010 MoodleMoot'AU](http://moodlemoot.org.au/).
 
 ### Extended abstract

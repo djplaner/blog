@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Since about 1996 much of my research and development around e-learning has found "concrete" form in a system call [Webfuse](http://webfuse.cqu.edu.au). First described in [Jones and Buchanan](/blog2/publications/the-design-of-an-integrated-online-learning-environment/) (1996) Webfuse became an essential part of [CQU's](http://www.cqu.edu.au/) operations. The unkindest (and basically wrong) description of Webfuse is that it was a proprietary, single institution learning management system.
 
 Based on the definition, Webfuse is dead.

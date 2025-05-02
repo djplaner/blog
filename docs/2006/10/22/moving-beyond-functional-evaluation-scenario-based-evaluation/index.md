@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Tony Byrne has posted an article entitled [A Scenario-based approach to evaluating CMS vendors](http://www.cmswatch.com/Feature/153-Selecting-CMS-Tools?source=RSS). It's part of a website that examines/reviews content management systems. The post tells the story of how they evolved their evaluation of such systems from strictly functional evaluations to the addition of "vendor intangibles" and beyond.
 
 Their reason for moving beyond this?

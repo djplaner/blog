@@ -23,9 +23,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=206) announced that a group of folk at [CQUniversity](http://www.cqu.edu.au) are about to embark on a [project/exercise](http://cddu.cqu.edu.au/index.php/Writers_Workshop) with the aim of helping people develop ideas for research and turn them into publications.
 
 Any such process should probably talk about answers to two questions (amongst many others)

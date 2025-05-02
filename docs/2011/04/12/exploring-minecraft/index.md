@@ -126,9 +126,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 > **Update/recommendation:** The following may be helpful for some, but it has it's limitations. For example, in terms of coming up with L&T applications for Minecraft I was constrained by my limited knowledge of Minecraft, and even worse, a limited view of L&T. For a broader view I suggest reading about and engaging with [Massively Minecraft](http://deangroom.wordpress.com/2011/06/20/welcome-to-massively-minecraft/). You have to be in it to learn it.
 
 The ICTs for Learning Design course I'm taking has a second assignment that requires us to engage in a number of technologies (organised into four groups) and analyse their applicability for learning and teaching. Group 4 is fairly open and includes simulations. We're allowed to choose our technology. I have been tossing up going the easy route and looking at a given technology, or branching out. The Minecraft movement has encouraged me to choose it. This is a very early, incomplete analysis.

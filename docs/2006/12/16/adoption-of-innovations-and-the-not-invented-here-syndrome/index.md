@@ -5,9 +5,6 @@ categories: ['elearning', 'herding-cats', 'react']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A lot of educational innovations are reported to be prevented/plagued with the "not invented here" syndrome that prevents adoption. One perspective on this is that this is blame allocation by the producer of the innovator. i.e. it's not my fault, but the fault of those recalcitrant adopters, they are rejecting my idea because of sheer bloody-mindedness.
 
 Going through the book [Knowledge Management in the Learning Society](http://www.oecd.org/LongAbstract/0,2546,en_2649_34539_1900762_119699_1_1_1,00.html) reveals (around pp 77) another potential explanation. An explanation that highlights all sorts of interesting lines of investigation.

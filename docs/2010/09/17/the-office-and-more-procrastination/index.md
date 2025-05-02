@@ -38,9 +38,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Today has not been a good day for progress on the thesis. Have posted a few things I've already written and there are some folks reading bits of it thanks to Stephen Downes and OLDaily. That these folk find the work vaguely interesting enough to click on the link is a comforting thing, if not a motivating one for today.
 
 ### Entering a nascent meme?

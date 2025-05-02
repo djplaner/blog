@@ -5,9 +5,6 @@ categories: ['elearning', 'reflectivealignment']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to explain the initial description and rationale of an exploratory research project (perhaps ethnographic, [narrative inquiry](http://knowmansland.com/learningpath/?p=502) or some similar qualitative methodology) aimed at understanding what teachers/academics actually experience within a particular environment during a single term. The assumption is that by better understanding the lived experience of the teaching staff you can better understand why (or why not) teaching is likely to improve.
 
 In terms of suggestions and advice, I'm really keen to hear from people who might have some insights to share around:

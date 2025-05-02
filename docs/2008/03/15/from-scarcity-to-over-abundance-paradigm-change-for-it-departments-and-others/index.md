@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Nothing all that new in this post, at least not that others [haven't talked about previously](http://www.longtail.com/the_long_tail/2006/10/the_economics_o.html). But writing this helps me think about a few things.
 
 ### Paradigms, good and bad

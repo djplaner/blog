@@ -69,9 +69,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 @sthcrft has [reflected and expanded](http://sarahthorneycroft.com/?p=218) upon [this article from The Australian](http://www.theaustralian.com.au/higher-education/students-want-a-career-in-academe/story-e6frgcjx-1226045180536) on research graduates wanting a career in academia. In particular, the point is made that increasingly academics are payed a comparative pittance, have little or no job security, and being sent mixed messages about the relative importance of research and teaching (see the last paragraph of The Australian article). I'd like to add my 2c worth.
 
 Just over a year ago I made a conscious decision to take the opportunity offered by a redundancy to get the hell out of academia. Dominant amongst a range of reasons for leaving was the increasing destruction of the freedom/autonomy typically enjoyed by an academic position. Freedom in the sense of [Dan Pink's Drive mantra](http://www.danpink.com/drive) about autonomy, mastery, and purpose. The freedom to apply the knowledge and insight gained through research to doing good things in both teaching and research. A freedom that has been significantly reduced through at least three factors

@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over the last few weeks I've slowly been getting into Moodle/PHP as part of need to put the [BAM project](/blog2/research/bam-blog-aggregation-management/) into Moodle. I've decided today to abbreviate this project into BIM - BAM into Moodle. It'll do for now.
 
 The [last post](/blog2/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/) left off on the development of a eStudyGuide block. I'm leaving that behind now and trying to focus on ideas/development of a prototype of BIM so that other folk can look and play with it.

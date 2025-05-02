@@ -5,9 +5,6 @@ categories: ['elearning', 'react']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Knowledge Management in the Learning Society](http://www.oecd.org/LongAbstract/0,2546,en_2649_34539_1900762_119699_1_1_1,00.html) is a book from the OECD that examines the issues in and around education due to the changes in society - the learning society.
 
 On skimming through it there is a great deal that could be used to provide some theoretical underpinning for the REACT approach to staff development around learning and teaching

@@ -91,9 +91,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Following on from the last post, this one reports on the experimentation with a collection of technologies that fall under the category of Group 2. We're meant to play with these technologies and then select one to analyse in a little more detail. This builds on the [analysis of group 1 technologies](/blog2/2011/04/06/group-1-technologies-blogs-wikis-and-websites/).
 
 ### Digital images

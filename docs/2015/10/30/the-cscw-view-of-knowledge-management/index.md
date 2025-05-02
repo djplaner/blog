@@ -5,9 +5,6 @@ categories: ['bad', 'dlrn', 'elearning', 'tpack']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Earlier this week I attended a session given by the research ethics folk at my institution. One of the observations was that they'd run training sessions but almost no-one came. I've heard similar observations from L&T folk, librarians, and just about anyone else aiming to help academics develop new skills. Especially when people spend time and effort developing yet another you beaut website or booklet that provides everything one would want to know about a topic. There's also the broader trope developing about academics/teachers being digitally illiterate, which I'm increasingly seeing as unhelpful and perhaps even damaging.
 
 Hence my interest when I stumbled across Ackerman et al (2013) a paper titled ["Sharing knowledge and expertise: The CSCW View"](http://link.springer.com/10.1007/s10606-013-9192-8) with the abstract

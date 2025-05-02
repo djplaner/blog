@@ -27,9 +27,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 So, these are tools to "present learning or information". The chosen representatives are Powerpoint, Prezi and Glogster. Am thinking I'm might try a quick search for some alternatives, time permitting.
 
 Have to admit that I'm interested in having an excuse to play with Prezi a bit. To now I have failed to see the point, Prezi is just as capable of being used to give crap presentations as Powerpoint.

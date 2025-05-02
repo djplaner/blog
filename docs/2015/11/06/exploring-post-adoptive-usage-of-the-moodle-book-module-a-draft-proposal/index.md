@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For quite some time I've experienced and believed that there how universities are implementing digital learning has some issues that contribute to perceived problems with the quality of such learning and its associated teaching. The following is an outline of an exploratory research project intended to confirm (or not) aspects of this belief.
 
 The following is also thinking out loud and a work in progress. Criticisms and suggestions welcome. Fire away.

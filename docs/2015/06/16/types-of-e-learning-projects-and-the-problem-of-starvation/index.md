@@ -155,9 +155,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The last assignment for the course [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/specification/2015/EDC3100-S1-2015-ONC-TWMBA.html) was due to be submitted yesterday. Right now the Moodle assignment activity (a version somewhat modified by my institution) is showing that 193 of 318 enrolled students have submitted assignments.
 
 This is a story of the steps I have to take to respond to the story these figures (they're not as scary as they seem) tell.

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 After 12 weekly updates I missed one last week as the missus and I went on a holiday, ate some nice meals (e.g. [this one](/blog2/2009/05/27/a-night-at-ezard/)), and purchased a new car. This time last week I was driving the new car out of Brisbane on the way home, hence no update.
 
 Not that there was much need. Thanks to the holiday very little work was done. Since then we've played with the kids to catch up on being away, enjoyed a public holiday and this week I've actually worked (instead of PhD work) for two days. Consequently, there's still not a lot to report.

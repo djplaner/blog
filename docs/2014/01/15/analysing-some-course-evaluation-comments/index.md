@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following reports on some analysis of students responses to open questions on the institutional, end of semester course evaluation survey for the course I taught in 2013. [This initial post](/blog2/2014/01/13/evaluating-edc3100-in-2013-step-1/) gives some background to the course, the evaluation process (and its limits), links to some of the raw results (including summaries of close responses) and an outline of the process I'm following.
 
 This post starts with discussion of the results followed by a quick description of the process used.

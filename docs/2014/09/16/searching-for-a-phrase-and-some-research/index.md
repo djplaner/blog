@@ -38,9 +38,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is a plea for help. I'm certain I remember a particular phrase/concept that arose from some research around educational technology from 10+ years ago (may have been as long as 30 years ago).
 
 It was a phrase/concept that was used to look critically at the tendency for education to create special education versions of real software. i.e. rather than use a standard bit of software - e.g. Word (\*shudder\*) - they would have to use a word processor made specially for education (K12 mostly I believe).

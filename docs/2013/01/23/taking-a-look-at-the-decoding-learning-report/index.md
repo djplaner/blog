@@ -57,9 +57,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Late last year Nesta - a UK-based charity - released the report [Decoding learning: The proof promise and potential of digital education](http://www.nesta.org.uk/about_us/assets/features/decoding_learning_report). Nesta commissioned the London Knowledge Lab and the Learning Sciences Research Institute at the University of Nottingham to "analyse how technology has been used in the UK education systems and lessons from around the world. Uniquely, we wanted this to be set within a clear framework for better understanding the impact on learning experiences".
 
 The following is a summary and some reflections on my reading of the report. I'm thinking of using it as a resource for [the course](/blog2/2012/07/20/starting-the-re-design-of-edc3100/) I'll be teaching soon.

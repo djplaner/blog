@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Next step in the development of [bim v2.0](/blog2/research/bam-blog-aggregation-management/) is to start the process of submitting it to [CONTRIB](http://docs.moodle.org/dev/contrib). i.e. essentially getting out officially into the Moodle community.
 
 The following is my attempt to figure out and record the process for doing this. This was actually started a couple of months ago but then semester started, a bit of breathing space now and I need to catch up on this.

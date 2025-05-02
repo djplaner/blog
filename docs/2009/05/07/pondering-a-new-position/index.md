@@ -83,9 +83,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 After a period of uncertainty, it appears likely that at some stage during May 2009 I may be starting a new position at [my current institution](http://www.cqu.edu.au/). The position goes under the title - "eLearning and Innovation Specialist". It is a academic position, I will retain my current appointment as a Level C Academic but rather than teaching will have to achieve the following position purpose
 
 > You are the person who consults effectively and broadly with key stakeholders and provides strategic advice and leadership in learning and teaching innovation, primarily in the area of e-learning. Your primary purpose is to promote strategic e-learning development, in conjunction with all major stakeholders, to ensure CQUniversity achieves it ongoing e-learning goals.

@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following details an attempt to use user/messageselect.php with BIM in an attempt to move towards implementing an [email merge facility](/blog2/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/) for BIM.
 
 ### BIM passing users

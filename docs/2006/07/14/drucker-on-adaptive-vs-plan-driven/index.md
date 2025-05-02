@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Peter Drucker from "The Effective Executive"
 
 > "Most discussions of the knowledge worker's task start with the advice to plan one's work. This sounds eminently plausible. The only thing wrong with it is that it rarely works. The plans always remain on paper, always remain good intentions. They seldom turn into achievement."

@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's that time of year again, next week I get to run a session with 20 or so new [CQU](http://www.cqu.edu.au/) academics looking at course analysis and design. The session is part of a [four day program](http://learning.cqu.edu.au/orientation/program.htm) entitled [Foundations of University Learning and Teaching](http://learning.cqu.edu.au/orientation/index.htm) (FoULT). The session is run twice a year.
 
 The following post gives an overview of some of my thinking behind the session this year. The sessions won't really be finalised until the sessions are over, so if you have any feedback or suggestions, fire away.

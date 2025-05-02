@@ -5,9 +5,6 @@ categories: ['elearning', 'ple', 'plescquni', 'voicethreadresearchposters']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Scott](http://www.blogger.com/profile/01008752894148145398) has a [post](http://e-learning-engagement.blogspot.com/2009/02/technology-mediated-student-feedback.html) discussing the potential benefits of using [VoiceThread](http://voicethread.com/) as a mechanism for providing feedback to students - both by staff and students. Based on some experience, I agree there is some potential, but I also think there are some issues to be looked at. Details follow.
 
 Scott mentions VoiceThread inlight of some discussion that arose at a [session on course analysis and design](http://coursedesign.wordpress.com/). One of the participants raised using recorded voice as a way to mark/annotate student assignments. This was as part of a session on [teaching strategies](http://coursedesign.wordpress.com/strategies/). In particular, those framed by Chickering and Gamson's seven principles for good practice in learning and teaching.

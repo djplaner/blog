@@ -163,9 +163,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the next section for the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) for chapter 2 of [my thesis](/blog2/research/phd-thesis/). It starts the trend away from specific roles/groups within e-learning to some more abstract descriptions of the people involved. This one talks about the chasm.
 
 Remember, this is a cut down version for the thesis that is in rough first draft stage. I think the idea of the "chasm" has a great deal of applicability to say about the current practice of e-learning within universities.

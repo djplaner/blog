@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A couple of weeks ago I gave [a presentation](/blog2/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/) showing off some work from the [Moodle open Book project](/blog2/the-moodle-open-book-module-project/). The middle of the presentation was a live demonstration of the Moodle Book and various features. At one point in the presentation members of the audience (including a number of academics who used the Book module in their Moodle sites) gave an audible gasp. This occurred when I showed off [the search block](https://github.com/stronk7/moodle-block_search_books) for the Book module. A tool that allows the user to search the contents of all the books in a Moodle course. The gasp indicated just how much teachers and students desire this feature. A feature I've been [calling out](/blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/) for quite some time.
 
 The [GitHub repository](https://github.com/stronk7/moodle-block_search_books) has been around for 2 years. So why isn't this block more widely available in Moodle sites? There's a security flaw in the code and is somewhat unfinished.

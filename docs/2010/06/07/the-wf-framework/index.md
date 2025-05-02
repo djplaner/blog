@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yet another section from Chapter 5 of [the thesis](/blog2/research/phd-thesis/) describing the various changes made to Webfuse in the period from 2000 onwards. This one (very briefly) describes the Webfuse framework for dynamic web applications.
 
 You can see the impact of this experience in the development practices I'm bringing to my work in PHP and Moodle. There are early glimmers of MVC and the Wf Framework in [BIM](/blog2/research/bam-blog-aggregation-management/) and the [indicators block](/blog2/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/).

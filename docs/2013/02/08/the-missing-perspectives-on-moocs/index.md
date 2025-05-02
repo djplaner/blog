@@ -397,9 +397,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday I had the opportunity to listen to [Sir John Daniel](http://sirjohn.ca/wordpress/) give a presentation titled "Higher Education Futures: Keeping an open mind". The text and slides from the presentation are [available here](http://sirjohn.ca/wordpress/?page_id=29). Following the presentation there was a panel session involving Sir John, Professor Jan Thomas ([USQ's Vice-Chancellor](http://www.usq.edu.au/about-usq/governance-management/vice-chancellor)), Professor Ken Udas (USQ's Deputy Vice Chancellor - Academic Services and CIO) and Professor James Taylor (a USQ emeritus professor and big name in distance/open learning including [OERU](http://wikieducator.org/USQ/Home))
 
 [![Signs of a conducive knowledge work environment](images/8454676158_7eb12bb2b2_m.jpg)](http://www.flickr.com/photos/david_jones/8454676158/ "Signs of a conducive knowledge work environment by David T Jones, on Flickr")

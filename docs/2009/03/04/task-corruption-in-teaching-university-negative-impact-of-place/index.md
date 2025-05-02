@@ -370,9 +370,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Busy being a good boy working on the [thesis](/blog2/research/phd-thesis/), currently reading a collection of literature to flesh out Chapter 2 which is drawing on the [Ps Framework](/blog2/2009/02/16/frameworks-and-representation-tidy-versus-messy/) to illustrate the current state of e-learning within Universities. As the [last post](/blog2/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/) illustrates, the most recent paper I'm reading is White (2006).
 
 [![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/)

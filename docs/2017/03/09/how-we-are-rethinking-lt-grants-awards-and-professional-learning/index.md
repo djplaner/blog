@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The team I work with have been tasked to rethink how our institution does teaching awards, grants, and professional learning opportunities. i.e. the funding our institution provides to teaching focused staff in recognition of quality work (awards), to develop a good idea (grants), or learn something new (professional learning opportunities). Since I'm strange, we're using a slightly different approach (at least based on reactions so far) to what others are used to. The following is an attempt to explain the approach and what passes for the thinking behind it.
 
 The process goes something like the following

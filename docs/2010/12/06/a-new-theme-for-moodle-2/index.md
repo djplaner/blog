@@ -98,9 +98,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This might seem like a bit of procrastination preventing progress on BIM 2.0, but it's part of the whole Moodle 2 familiarisation process and also checking out the work of a [friend](http://rolleys.wordpress.com/). What follows is an attempt to install the [universite](http://rolleys.wordpress.com/2010/12/03/a-moodle-2-theme-universite/) theme for Moodle 2 onto a local instance.
 
 ### Zip files and mac GUI users

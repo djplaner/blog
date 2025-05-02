@@ -5,9 +5,6 @@ categories: ['design-theory']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an initial, under-construction attempt to explain (first to myself) how/what role an Information Systems Design Theory (ISDT) places in the research process. Working my way toward a decent explanation for PhD students.
 
 It does this by linking the components of an ISDT with one explanation of a research project. Hopefully connecting the more known concept (research project) with the less known (ISDT). It also uses as an example the ISDT for emergent university e-learning that was developed as part of [my PhD thesis](http://djon.es/blog/research/phd-thesis/).

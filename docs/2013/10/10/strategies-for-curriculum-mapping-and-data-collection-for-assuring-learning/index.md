@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary of and some reaction to the final report of an [OLT funded project](http://www.olt.gov.au/project-hunters-and-gatherers-strategies-curriculum-mapping-and-data-collection-assuring-learning-20) titled "Hunters and gatherers: strategies for curriculum mapping and data collection for assuring learning". This appears to be the [project website](http://assuringlearning.com/).
 
 My interest arises from the "Outcomes and Analytics Project" that's on my list of tasks. That project is taking a look at Moodle's new outcomes support (and perhaps other tools) that can be leveraged by a Bachelor of Education and try to figure out what might be required to gain some benefit from those tools (and whether it's worth it).

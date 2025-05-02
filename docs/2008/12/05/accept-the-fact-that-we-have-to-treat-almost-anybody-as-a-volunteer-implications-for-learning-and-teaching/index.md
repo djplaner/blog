@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 !!! warning "Broken image link"
 
 I came across this quote from Peter Drucker, who according to [Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker) was known as the father of modern management

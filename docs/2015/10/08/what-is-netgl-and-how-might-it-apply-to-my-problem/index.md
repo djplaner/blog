@@ -5,9 +5,6 @@ categories: ['edu8117', 'netgl']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 At least a couple of the students in [a course](https://netgl.wordpress.com/) I help out with are struggling a little with [Assignment 2](https://netgl.wordpress.com/assessment/#assignment2) which asks them "to develop a theory-informed plan for using NGL to transform your teaching (very broadly defined) practice".
 
 The following is a collection of bits of advice that will hopefully help. Littered throughout are also some examples from my own practice.

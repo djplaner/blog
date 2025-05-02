@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part of the PhD I have to summarise aspects of Webfuse usage, the following is a quick attempt to summarise usage of the Webfuse course sites from 1997 through 2009. The main aim is to show what I've got so far, think about what needs to be added, generate a to do list, and make an initial stab at explaining some of the movements. The hope is that writing this is essentially a rough draft/scribble of material that will end up in the thesis.
 
 ### Course site usage

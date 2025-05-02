@@ -5,9 +5,6 @@ categories: ['indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In which I play with some analytics and use some literature in an attempt to understand why the institutional implementation of learning analytics as a starvation problem (like most institutional attempts to leverage digital technologies). In this context, I'm using the [definition of starvation](https://en.wikipedia.org/wiki/Starvation_\(computer_science\)) from computer science.
 
 ### Multiple time scales of human behaviour and appropriate methods

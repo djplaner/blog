@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post is an attempt to synthesize and reflect more upon two posts from yesterday. [One from me](/blog2/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) trying to explain an early form of a framework for improving L&T based on findings from psychology behavior change research. [The second](http://mathehu.wordpress.com/2010/04/14/is-behaviour-change-the-best-approach-to-improve-learning-and-teaching-at-universities/) from Markus that expands on the potential psychological foundations for this thinking by mentioning:
 
 - The [recommendations section](http://egap.evidence.nhs.uk/PH06/guidance/section_3) of a UK National Health Service (NHS) document outlining some generic principles for initiatives to support attitude and behaviour change.

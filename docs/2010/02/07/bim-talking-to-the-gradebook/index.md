@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the bigger tasks left to do is to integrate BIM with the gradebook. Some [initial exploration](/blog2/2010/01/26/bim-sending-results-to-the-gradebook/) has been done, this post seeks to document the initial implementation.
 
 This implementation is going to be quite simple, and perhaps simple minded. The less than straight-forward nature of the task of finding information about how to do this and the reducing time available are the main reasons for the simple approach. Potentially, the simple approach might also help the academic staff driving it.

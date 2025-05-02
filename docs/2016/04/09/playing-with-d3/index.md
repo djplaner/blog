@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm part of a group that's trying to take a deep dive into our courses using "learning analytics". My contribution is largely the technology side of it and its time to generate some pretty pictures.  The following is a summary of some playing around with [D3.js](https://d3js.org/) and ended up with some success with Plot.ly.
 
 ### Example - box plots

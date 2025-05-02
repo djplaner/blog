@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is the second post containing a part of the evaluation section of chapter 5 of my [PhD thesis](/blog2/research/phd-thesis/). It looks at how much/well Webfuse acted as a web publishing tool during 2000-2004. There's not much here, as this is not the focus.
 
 ### A web publishing tool

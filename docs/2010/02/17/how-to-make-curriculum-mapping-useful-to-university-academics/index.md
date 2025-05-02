@@ -40,9 +40,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to make concrete various ideas that have been floating around about a project to take a very different approach to curriculum mapping. There's a small glimmer that these ideas may form the basis for an [ALTC grant application](http://altc.edu.au/)
 
 The following includes:

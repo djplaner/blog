@@ -95,9 +95,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 So, it's the end of O-Week and a four day residential school for Graduate Diploma of Learning and Teaching Students - a post-graduate, pre-service, teaching qualification. About 100 students got a lot thrown at us for four days, now it's time to get into some work. The following is an attempt to get some idea of and reflect upon the work I need to do with the "e-learning" course. Others will probably follow.
 
 This course actually requires use to use a blog for reflections, so there will be more of that as well. This is a rough and ready summary of what I was doing.

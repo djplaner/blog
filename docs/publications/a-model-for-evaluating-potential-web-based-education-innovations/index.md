@@ -98,9 +98,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Kieren Jamieson, Damien Clark, ["A Model for Evaluating Potential WBE Innovations,"](/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/) Hawaii International Conference on System Sciences, vol. 5, no. 5, pp. 154a, 36th Annual Hawaii International Conference on System Sciences (HICSS'03) - Track 5, 2003.
 
 ## Abstract

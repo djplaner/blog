@@ -5,9 +5,6 @@ categories: ['chapter-4', 'design-theory', 'elearning', 'indicators', 'lmsevalua
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post follows on from [a previous post](/blog2/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/) and continues an examination of some papers written by Malikowski and colleagues examining the adoption of features of an LMS/VLE/CMS. This one focuses on the 2006 paper.
 
 ### External factors associated with CMS adoption

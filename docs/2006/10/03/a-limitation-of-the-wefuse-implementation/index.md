@@ -5,9 +5,6 @@ categories: ['webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For the uninitiated, most of my work and research over the last ten years has been in someway associated with [Webfuse](http://webfuse.cqu.edu.au/). It's the focus of my PhD and many of my [publications](http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/) with the intent of attempting to develop an information systems design theory for e-learning. [Jones and Gregor (2006)](http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/formulation.pdf) provide one explanation.
 
 There are a lot of things of which I am proud about with respect Webfuse. There's equally a lot that I'm not.

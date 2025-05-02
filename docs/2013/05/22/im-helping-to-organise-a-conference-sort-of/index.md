@@ -133,9 +133,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the courses I'm responsible for next semester is [EDU8719 Contemporary Issues Conference](http://www.usq.edu.au/course/specification/2013/EDU8719-S2-2013-WEB-TWMBA.html). The synopsis of the course is
 
 > The course will be structured around an online conference that will include several themes or strands that reflect current trends and issues in education. Students will prepare a proposal for a paper in which they will draw upon their prior study and experience to respond to one of the conference themes and will participate in anonymous peer review of submitted proposals. Using their reviews for guidance, students will complete their papers, present them online using an appropriate medium, and engage in discussion of their own and other papers.

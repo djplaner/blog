@@ -148,9 +148,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The reflections on my couple of days at [the PLE Conference](http://pleconf.org) in Melbourne will have to wait a couple of days. Semester starts on Monday and I have some course preparation to engage with. The following is an attempt to capture some thinking about the re-design of the [Weekly Ramble](/blog2/2012/02/19/designing-the-weekly-ramble/)
 
 ### The old ramble

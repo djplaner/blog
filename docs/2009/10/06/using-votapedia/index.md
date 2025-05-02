@@ -5,9 +5,6 @@ categories: ['ilecture', 'votapedia']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In the next couple of weeks I'm going to be giving [a presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) that will also serve as an experiment in alternate technologies for presentations. One of those technologies will be [Votapedia.com](http://www.votapedia.com/) - an Australian-based, free SMS/Web audience response system. This post is meant to capture the process I went through in learning about how to use Votapedia.
 
 ### Accounts

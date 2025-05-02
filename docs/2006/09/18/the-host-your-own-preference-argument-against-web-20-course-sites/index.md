@@ -5,9 +5,6 @@ categories: ['elearning', 'web-20-course-sites', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The Web 2.0 Course Site idea has many flaws, hurdles or counter arguments.
 
 A major one is the issue of trust. Why should I trust a 3rd party to keep my classes data. Won't it just go away?

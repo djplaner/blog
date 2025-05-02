@@ -118,9 +118,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Learning analytics is one of the research areas I'm interested in. Consequently, I've read and listened to a bit about learning analytics over recent times. In that time I've often heard [Moneyball](http://en.wikipedia.org/wiki/Moneyball) used as an example or analogy for learning analytics.
 
 I can see the reason for this. It's a good example of how data can inform decision making in a field many people (especially those in America) are familiar with. Having a best selling book that's turned into a Brad Pit movie doesn't hurt either. But I think it's the wrong analogy for learning analytics.

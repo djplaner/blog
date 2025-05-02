@@ -113,9 +113,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### Introduction
 
 The following describes the rationale behind the design of the first unit of work to be completed in a Year 11 Information and Processing Technology (IPT) course taught using the new senior Queensland IPT syllabus (QSA, 2010). The design of this unit is informed by the outcomes of a [profile of potential students](/blog2/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/) in this course. As such the design is informed by connectivism and attempts to embed students within authentic practice as an IPT professional. The contents of this document include the following sections:

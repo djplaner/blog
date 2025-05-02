@@ -5,9 +5,6 @@ categories: ['elearning', 'plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 We're in the process of getting serious about our [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). The following is a copy of a submission to [CQUni's Vice-Chancellor's Executive](http://www.cqu.edu.au/) to tell them about the project. Sharing it here so others can know what we're trying to do and why and also on the off chance that others might criticise and suggest alternate approaches that improve what we're doing.
 
 Something as complex, novel and emergent as the PLEs@CQUni project doesn't lend itself well to a 2 page summary. Some of the following may change as the CQUni context changes, as society and the available technology changes, and as the people working on the project change.

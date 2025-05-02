@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In [recent post](/blog2/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/) I eventually made some disparaging comments about consultants and what they do. Like many, I believe that the idea that they know the solution when they have little or no idea appreciation of the complexity of the context and believe that they can overcome this because their "special" knowledge is somehow universally applicable, is just plain silly and is the source of most of the problems they create.
 
 I also believe that the practice of staff development, instructional design and associated professions around improving learning and teaching at Universities can suffer from exactly the same flaws. It's become so obvious that some organisations are using the terms "consultant" or "consultation" to describe what these folk do.

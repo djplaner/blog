@@ -132,9 +132,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I was asked to respond to a set of questions around ePortfolios. The questions arose from some earlier posts: [Why am I an ePortfolio skeptic](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/) and [Portfolios often implemented badly](/blog2/2010/09/14/portfolios-often-implemented-poorly/). What follows are my responses.
 
 These comments are made in the general context of Australian higher education and with the assumption that "ePortfolio" generally means the implementation of an institutional system, often using something like Mahara.

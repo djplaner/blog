@@ -5,9 +5,6 @@ categories: ['edu8117']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's July 2015 which means two things. First, Semester 2 is about to get underway and thankfully (though it's a two-edged sword) [EDU8117, Networked and Global Learning (netgl)](https://netgl.wordpress.com/) is running again. Second, it's summer in the northern hemisphere which seems to coincide with another round of xMOOCs running out of the US. Time to combine them both.
 
 [Week 1 of netgl](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/) includes a task that asks the participants to write a [blog post about "Me as learner"](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/#asLearner). The idea is that during the first section of the course the students should head out into the digital world and try to learn something using netgl. Doing so is meant to provide a focus for what they are reading and doing around netgl. What follows is "me as learner" this time around.

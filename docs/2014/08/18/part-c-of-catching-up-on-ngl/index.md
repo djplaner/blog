@@ -5,9 +5,6 @@ categories: ['edu8117']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Time to continue catching up on all the interesting work of the participants of the [NGL course](http://netgl.wordpress.com/).
 
 ### Design-based research

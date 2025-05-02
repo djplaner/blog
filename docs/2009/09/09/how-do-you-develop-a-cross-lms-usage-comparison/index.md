@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'evaluation', 'indicator
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I [recently posted](/blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) about the need to develop an approach that allows for the simple and consistent comparison of usage and feature adoption between different Learning Management Systems (aka LMS, Virtual Learning Environments - VLEs - see [What is an LMS?](/blog2/2009/08/21/what-is-an-lms/)). That [last post on the need](/blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) didn't really establish the need. The aim of this post is to explain the need and make some first steps in identifying how you might go about enabling this sort of comparison.
 
 The main aim is to get my colleagues in this project thinking and writing about what they think we should and how we might do it.

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Anyone who listens to me or reads this blog (e.g. [when senior management loses the plot](/blog2/2009/07/17/when-senior-management-lose-the-plot/), [quality compliance and task corruption](/blog2/2009/06/10/quality-compliance-and-task-corruption/), [models of growth - responding to the grammar of school](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/), [improving university teaching and learning: learning from constructive alignment by **not** mandating it](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/)) knows that I think there are fundamental mistakes being made at most universities when it comes to how they try and improve or change the practice of learning and teaching. The following is an attempt to explain why I think it's very badly broken and offer an alternative approach based on different theoretical underpinnings.
 
 ### How do you lose weight?

@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've just had a visit from my 6 year-old son. He was jumping out of his skin with excitement and a sense of achievement. Apparently he's just won a "chilli that blows up a whole row of zombies" in [Plants vs Zombies](http://www.popcap.com/games/pvz/web). A game he's been playing on and off for a couple of days without any instruction or reading any documentation. Plants vs Zombies, like most good games, is designed to help a new player learn about the game by playing the game.
 
 Compare this with a couple of experiences/observations with Interactive Whiteboards (IWBs) and Mahara over the last week.

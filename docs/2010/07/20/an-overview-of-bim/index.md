@@ -95,9 +95,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Just uploaded a screencast/presentation that is essentially a cut down version of the presentation I gave at Moodlemoot'AU 2010 last week. There's an embedded version below or you can find the [original on vimeo](http://www.vimeo.com/13470794). There's also [more information about BIM elsewhere](/blog2/research/bam-blog-aggregation-management/) and you can [download BIM from here (for Moodle 1.9.x)](https://github.com/djplaner/moodle-mod_bim/) or [BIM for Moodle 2.x here](https://github.com/djplaner/moodle-mod_bim/tree/bim2) (look for the "Zip" button).
 
 \[vimeo http://www.vimeo.com/13470794\]

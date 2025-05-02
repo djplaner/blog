@@ -5,9 +5,6 @@ categories: ['teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 If you read, listen or watch to a certain sub-section of the media around schools and the education system more broadly it's not hard to come to the conclusion that schools are broken and need to be changed. A couple of recent posts from the feeds I track have got me thinking. George Siemens recently [described](http://www.elearnspace.org/blog/2010/11/26/the-urgent-need-for-educationlearning-tech-entrepreneurs/) his belief that it is so broken that it needs to be changed from the outside, probably by entrepreneurs. [George Couros](http://georgecouros.ca/), speaking from within the systems, has generated some discussion with a [post reflecting on](http://georgecouros.ca/blog/archives/1498) whether or not and why people don't like change. He summarises some of the comments [in this post](http://georgecouros.ca/blog/archives/1500).
 
 The type of change that is being talked about within the education systems are, to me, examples of a [wicked design problem](http://en.wikipedia.org/wiki/Wicked_problem). This is mostly because educational systems are human systems. As such they are not simple, ordered systems. Education systems are [complex adaptive systems](http://en.wikipedia.org/wiki/Complex_adaptive_system). Which, when you simplify it (potentially a bit too far), means that there is not one single answer. So, while the following questions some existing perspectives or approaches to change, I'm not claiming to have the single answer.

@@ -5,9 +5,6 @@ categories: ['design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The last couple of posts have attempted to (in the confines of an #ascilite12 paper) summarise some constraints with the dominant [product](/blog2/2012/06/28/the-lms-product-limitations-and-alternative/) and [process](/blog2/2012/06/28/the-e-learning-process-limitations-and-an-alternative/) models used in industrial e-learning and suggest an alternative. The following - which probably should have been posted first - describes how and where this alternative comes from.
 
 As all this is meant to go into an academic paper, the following starts with a discussion about "research methods" before moving onto describing some of the reasons why this alternative approach might have some merit.

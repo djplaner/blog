@@ -63,9 +63,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've noticed over the last few weeks an increasing number of my colleagues, friends and relatives asking questions like "How long until you finish?"
 
 My response has generally been "how long is a ball of string". After all, writing the thesis is a creative, knowledge intensive activity. Not one conducive to rational acts of planning and timetabling. Anyone who knows me should know how much I hate [teleological design and prefer ateleological design](/blog2/2009/05/25/teleological-and-ateleological-processes/) (for more detail feel free to read other sections of the thesis completed recently on [teleological processes](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/) and [ateleological processes](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/)) - see some progress is being made.

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday's [post](/blog2/2010/05/13/getting-started-with-cols-indicators-block/) introduced Col's initial work on the indicators block. This post reports on some minor tweaks I've been doing this afternoon, trying to find escape in something concrete.
 
 ### Setting the title

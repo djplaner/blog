@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The final keynote at [ASCILITE'09](http://www.ascilite.org.au/conferences/auckland09/) was by [James Clay](http://elearningstuff.wordpress.com/) and was titled the [Future of Learning](http://www.slideshare.net/ULCCEvents/fote09-james-clay-future-of-learning) (this is a link to an apparently earlier presentation by same author, same topic). Many aspects of the talk resonated with many in the audience, however, the one that perhaps resonated the most was that of the Innovation Prevention Department.
 
 James, as he describes in [this comment](http://www.masmithers.com/2009/12/09/direct-from-the-innovation-prevention-department/comment-page-1/#comment-102) was suggesting that most organisations have one department that seems to hold back innovation. The comment reveals James' use came from [Jon Trinder](http://www.slideshare.net/HandheldLearning/jon-trinder-presentation) (slide 6). A quick google reveals the phrase being used as a chapter title in [this 2002 book](http://www.amazon.com/Innovation-Design-Takes-Company-Cutting/dp/0814406963/ref=cm_cr_pr_product_top). So, it doesn't seem to be a new concept that there always seems to be one department within an organisation that prevents innovation.

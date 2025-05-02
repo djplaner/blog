@@ -67,9 +67,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the first part of chapter 3 of my thesis. The aim of this part is to explain the broad view of research that informs the work. The second part will give more specific details about the specific method used. Over the next week, I'm re-reading this chapter, when the fixes are done, I will upload a completed version.
 
 **Update:** The latest version of the complete chapter is available [from this page](/blog2/research/phd-thesis/)

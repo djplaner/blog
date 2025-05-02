@@ -41,9 +41,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In writing the last post, I had the opportunity re-read the Wikipedia article on [wicked problems](http://en.wikipedia.org/wiki/Wicked_problem). This quote struck a chord with me
 
 > Rittel and Webber coined the term in the context of problems of social policy, an arena in which a purely scientific-rational approach cannot be applied because of the lack of a clear problem definition and differing perspectives of stakeholders.

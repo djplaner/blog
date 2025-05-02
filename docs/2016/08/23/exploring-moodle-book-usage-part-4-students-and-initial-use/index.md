@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Yesterday's part 3](/blog2/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/) in this series of posts continued the higher level examination of book usage. i.e. what types of courses use [the Moodle Book module](https://docs.moodle.org/31/en/Book_module) (the Book). This post is going to continue that a little and then start to make some forays into looking more closely at how resources produced using the Book are actually used. In particular, it's going to look at the following:
 
 - Compare the number of online students in courses that use the Book, versus those that don't use the Book.

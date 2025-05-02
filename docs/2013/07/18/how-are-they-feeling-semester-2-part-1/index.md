@@ -27,9 +27,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a [repeat of this post](/blog2/2013/03/04/how-are-they-going/) for a different offering of the same course. It's also a quick how to primarily intended for the students in [the course](http://www.usq.edu.au/course/specification/2013/EDC3100-S1-2013-WEB-TWMBA.html). Summary and comparison first, then the how to.
 
 Doing this now mainly in preparation for a session with the students tonight.

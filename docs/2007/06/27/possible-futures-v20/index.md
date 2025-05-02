@@ -70,9 +70,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Twice this year I've been asked to give a presentation at CQU's [Foundations of University Learning & Teaching](http://learning.cqu.edu.au/orientation/index.htm), essentially an induction program for academics new to CQU. The topic of the presentation I give is "Some Possible Futures for Learning: Lessons and Enablers".
 
 The topic had been "futures of e-learning" but increasingly I think the "e-" is old hat and tends to demonstrate a lack of understanding about the spread of ICTs into learning. At CQU, there is very little learning and teaching that isn't in someway enabled by ICTs. Using the "e-" is a bit like going back 50 years and calling learning "f-learning" (f = face-to-face).

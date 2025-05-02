@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I told myself that I would get this section completed today before I went home and I have achieved that goal. Perhaps, however, I have engaged in a bit of "task corruption". A couple of days ago I was listening to a podcast about how the United States education system might be improved. One of the panelists suggested that one of the strategies employed by various school sectors to improve graduation was to make it easier to graduate. Just perhaps, in order to get this posted, I've relaxed my standards more than normal. Time will tell if it is too far.
 
 In case you haven't been following along, this is the last section of a part of chapter two of my [thesis](/blog2/research/phd-thesis/). Chapter 2 is meant to be a "review" of the literature around e-learning in an attempt to demonstrate my understanding of the field and to identify what I think might be some holes in current knowledge. Holes that my brilliant thesis will fill through one potential approach. I'm using the idea of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) to structure my Chapter 2. This is the last component of the Process part of the Ps Framework.

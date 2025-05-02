@@ -96,9 +96,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following provides the abstract and slides used in a presentation at Moodlemoot'AU 2013.
 
 ### Slides

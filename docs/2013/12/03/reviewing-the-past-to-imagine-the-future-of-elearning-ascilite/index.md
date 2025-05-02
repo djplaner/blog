@@ -5,9 +5,6 @@ categories: ['ascilite']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Cathy Gunn](http://www.clear.auckland.ac.nz/index.php?p=staff_page&staff=cgunn), Reviewing the past to imagine the future of elearning
 
 The technologies that make a difference aren't those that are hyped.

@@ -141,9 +141,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### Update
 
 The project has had a small realignment in its aims to focus more on the question of [alignment](/blog2/2010/04/22/clarification-of-the-alignment-project/) rather than just curriculum mapping. Curriculum mapping is a part of the project, however, the broader aim is to investigate how to make changes to the L&T environment within universities to make consideration of alignment (curricula, instructional, constructive etc) a more visible part of the everyday practice of academics.

@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a long overdue attempt to identify and solve an issue with [BIM](http://bit.ly/bambim).
 
 ## The problem

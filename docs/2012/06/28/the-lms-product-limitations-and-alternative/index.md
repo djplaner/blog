@@ -522,9 +522,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is the first draft of the "Product" section for an ASCILITE paper ([the overview for the paper](/blog2/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/)) I hope to finish by tomorrow......just a bit of wishful thinking. Much of it has appeared in this blog previously, just now trying to wrangle it into a formal publication and all the limitations (e.g. space) that brings with it.
 
 It's a first draft, so comments and suggestions more than welcome.

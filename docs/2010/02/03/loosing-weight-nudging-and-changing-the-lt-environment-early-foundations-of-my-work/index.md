@@ -188,9 +188,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is an attempt to develop some of the foundations of what is driving the work I do [in my current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 
 ### The main aim

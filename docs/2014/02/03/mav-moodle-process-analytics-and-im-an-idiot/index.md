@@ -78,9 +78,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently analysing the structure of a course I teach and have been using @damoclarky's [Moodle Activity Viewer](/blog2/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/) to help with that. In the process, I've discovered that I'm an idiot in having missed the much more interesting and useful application of MAV than what I've mentioned previously. The following explains (at least one example of) how I'm an idiot and how MAV can help provide a type of process analytics as defined by Lockyer et al (2013).
 
 ## Process analytics

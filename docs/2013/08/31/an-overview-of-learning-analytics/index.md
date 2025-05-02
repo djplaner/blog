@@ -5,9 +5,6 @@ categories: ['learninganalytics-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some reflections upon
 
 > Clow, D. (2013). An overview of learning analytics. Teaching in Higher Education, (August), 1–13. doi:10.1080/13562517.2013.827653

@@ -93,9 +93,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's time to reflect on what happened in [EDC3100, ICTs and Pedagogy](http://www.usq.edu.au/course/synopses/2014/EDC3100.html) last year. In another couple of months semester will start and in a couple of weeks I'm scheduled to talk with some of the teaching staff. The following is the first of a few posts that will serve the basis for discussions with other members of the teaching staff, an artefact to show the 2014 students some evidence of thought and rationale for the course they're taking, and perhaps to spark some ideas from you, the reader.
 
 This post

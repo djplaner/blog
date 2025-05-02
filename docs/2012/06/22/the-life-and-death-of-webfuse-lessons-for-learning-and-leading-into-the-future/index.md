@@ -70,9 +70,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to formulate and structure some ideas for a paper for [ascilite'12](http://www.ascilite2012.org/call-for-papers) in Wellington. The aim is to convert my [PhD thesis](/blog2/research/phd-thesis/) - especially "_The information systems design theory for emergent university e-learning_" - into something useful and interesting for the ascilite crowd. The following is an attempt to organise the mish-mash of content I currently have into something sensible.
 
 ### Abstract

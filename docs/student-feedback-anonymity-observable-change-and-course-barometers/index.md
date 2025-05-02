@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Student feedback, anonymity, observable change and course barometers, World Conference on Educational Multimedia, Hypermedia and Telecommunications, Denver, Colorado, June 2002, pp. 884-889.
 
 ## Abstract

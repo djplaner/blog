@@ -5,9 +5,6 @@ categories: ['elearning', 'indicators', 'irac', 'learninganalytics-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some thoughts on
 
 > Dyckhoff, a. L., Lukarov, V., Muslim, A., Chatti, M. a., & Schroeder, U. (2013). Supporting action research with learning analytics. In Proceedings of the Third International Conference on Learning Analytics and Knowledge - LAK ’13 (pp. 220–229). New York, New York, USA: ACM Press. doi:10.1145/2460296.2460340

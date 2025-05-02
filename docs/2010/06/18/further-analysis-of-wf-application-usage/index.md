@@ -60,9 +60,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In [the last post](/blog2/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/) I outlined some early rough usage figures for Webfuse from 2000-2009. The following goes into a bit more detail with the usage of the wf applications.
 
 ### Breakdown by application

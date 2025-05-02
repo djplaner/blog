@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Apparently teacher education has a technology knowledge problem.
 
 The [2015 Horizon Report for K-12](http://www.nmc.org/publication/nmc-horizon-report-2015-k-12-edition/) lists as it's second "Solvable Challenge" (defined as "Those that we understand and know how to solve") the problem of "**Integrating Technology in Teacher Education**".

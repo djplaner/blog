@@ -4,9 +4,6 @@ date: 2009-01-02 12:45:16+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Rex Boggs, David Jones. Lessons Learnt in Connecting Schools to the Internet Australian Educational Computing, 9(2):29-32, Australian Council for Computers in Education.
 
 ## Abstract

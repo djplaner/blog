@@ -1175,9 +1175,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 After starting in 2001 and suffering many delays along the way, my PhD thesis titled - "An Information Systems Design Theory for E-Learning" - was finally submitted to and accepted by [ANU](http://www.anu.edu.au/). The abstract is included below and a [PDF copy (5Mb) of the thesis can be downloaded](http://djon.es/publications/allthesisfinalsubmission.pdf).
 
 A copy is also available on the [ANU Digital Theses Collection](http://hdl.handle.net/1885/8370).

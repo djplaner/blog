@@ -56,9 +56,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is a plea for pointers, suggestions and direct assistance.
 
 It arises from the confluence of at least three separate threads over the last couple of days:

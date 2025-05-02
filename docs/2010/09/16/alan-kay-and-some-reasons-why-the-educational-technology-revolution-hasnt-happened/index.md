@@ -51,9 +51,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 While reading a recent [post from Gardner Campbell](http://www.gardnercampbell.net/blog1/?p=1405) I was taken by a quote from Alan Kay
 
 > The computer is simply an instrument whose music is ideas

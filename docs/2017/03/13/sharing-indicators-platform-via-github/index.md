@@ -5,9 +5,6 @@ categories: ['indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Following on from [the last post](http://djon.es/blog/2017/03/12/jupyter-notebook-indicators-platform-baby-step-1-finding-an-orm/) the following documents how to share the "indicators platform" for analytics via github. It's largely intended to help @beerc. I doubt there's nothing (at the moment) that makes this inherently interesting for anyone else.
 
 ## End result

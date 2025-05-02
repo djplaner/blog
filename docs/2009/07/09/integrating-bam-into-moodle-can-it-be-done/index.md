@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Blog Aggregation Management](/blog2/research/bam-blog-aggregation-management/) (BAM) is a little project of mine that's been going since 2006. It's an example of, what I think, is a more appropriate product model for e-learning systems - essentially [small pieces loosely joined](http://www.smallpieces.com/)/best of breed/PLE. Currently BAM is based on the infrastructure provided by [Webfuse](/blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/), another project of mine (which embodies and enables the better product model).
 
 Trouble is that come 2010 Webfuse is history as my current institution cans Webfuse in favour of Moodle. There are about 5 or 6 courses at that institution that currently use BAM and many more that could probably use it. So, if there is to be a future for BAM it will have to be ported to [Moodle](http://www.moodle.org/). This is the first step in checking to see if this can be done. It will be subsequently be followed by whether or not it should be done and whether it will be done.

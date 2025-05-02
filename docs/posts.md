@@ -2,9 +2,6 @@
 title: Posts
 type: posts
 ---
-
-See also: [[blog-home | Home]], [[pages]], [[posts]]
-
 - [professional-development-is-created-not-provided](2013/03/20/professional-development-is-created-not-provided/index.md)
 - [how-are-they-going](2013/03/04/how-are-they-going/index.md)
 - [does-institutional-e-learning-have-a-tpack-problem](2013/03/22/does-institutional-e-learning-have-a-tpack-problem/index.md)

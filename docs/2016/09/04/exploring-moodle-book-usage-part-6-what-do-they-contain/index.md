@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Part 6 of this series diverges a bit from [the last post](/blog2/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/) and moves away from what people are doing with the Book resources to focus on the contents of the Book resources themselves.  Questions I'm hoping to explore in this post include:
 
 - How long are the Book resources? Measured perhaps in number of chapters, bytes, and perhaps textual word count.

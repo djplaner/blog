@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A couple of days ago (Feb 1st, 2007) I started a new job at [CQU](http://www.cqu.edu.au/). A job that will give me lot more cause to "edublog", but at the same time restrict exactly what I can blog.
 
 I am the new Head of E-Learning and Materials Development at CQU. What this essentially means is that I am in charge of both the curriculum design group (the e-learning in the title) and the group currently responsible for much of the print production (the materials development).

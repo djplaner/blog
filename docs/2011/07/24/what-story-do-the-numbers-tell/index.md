@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So the Australian Federal Government recognises that there is something going on (DEEWR, 2010)
 
 > Australian students must be prepared for living and working in a highly technological and information rich world that is rapidly changing.

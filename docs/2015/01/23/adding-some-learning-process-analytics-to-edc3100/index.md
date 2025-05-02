@@ -67,9 +67,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In [Jones and Clark (2014)](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) we drew on Damien's (Clark) development of the Moodle Activity Viewer (MAV) as an example of how bricolage, affordances and distribution (the BAD mindset) can add some value to institutional e-learning. My empirical contribution to that paper was talking about how I'd [extended MAV](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending) so that when I was answering a student query in a discussion forum I could quickly see relevant information about that student (e.g. their major, which education system they would likely be teaching into etc).
 
 A major point of that exercise was that it was very difficult to actually get access to that data at all. Let alone get access to that data within the online learning environment for the course. At least if I had to wait upon the institutional systems and processes to lumber into action.

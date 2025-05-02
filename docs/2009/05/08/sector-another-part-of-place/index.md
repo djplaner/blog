@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Looks like I'm on a bit of a roll with the "good enough" approach - soon to halt I'm sure. The following is the next section of the [Place](/blog2/2009/05/06/place-component-of-the-ps-framework/) component of the Ps Framework section for chapter 2 of the thesis.
 
 This section takes the [previously identified societal changes](/blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/) and attempts to illustrate their effect on the higher education sector. Again, the basic aim is not to be exhaustive but to provide an indication that the sector is undergoing lots of change and that the outcomes are unpredictable.

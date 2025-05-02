@@ -25,9 +25,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently on my way to Auckland for the [2009 ASCILITE conference](http://www.ascilite.org.au/conferences/auckland09/). A few weeks ago I was lucky enough to be in Denver for the [2009 EDUCAUSE conference](http://net.educause.edu/e09/). Both were/will be useful and interesting experience. But having been at EDUCAUSE, read a couple of the ASCILITE papers and talked with [a colleague](http://beerc.wordpress.com/) I'm once again wondering
 
 > Should self-reporting be considered harmful?

@@ -4,9 +4,6 @@ date: 2010-05-16 12:39:50+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Markus](http://mathehu.wordpress.com/) and I have been talking about behaviour change and lots more for a bit. He's about to start a new job [has been speculating](http://mathehu.wordpress.com/2010/05/13/taking-moodle-into-prison-dentistry/) about what he might do and how it connects with what we've been talking about. This post is an attempt to make explicit my initial gut reaction to the idea that
 
 > distributive leadership may not help, but communities of practice might

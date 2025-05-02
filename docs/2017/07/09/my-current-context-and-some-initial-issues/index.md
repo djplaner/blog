@@ -5,9 +5,6 @@ categories: ['edu8702']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Semester is about to start and I'm back teaching. This semester I'm part of a team of folk designing and teaching a brand new, never been taught course - [EDU8702 - Scholarship in Higher Education: Reflection and Evaluation](https://www.usq.edu.au/course/specification/2017/EDU8702-S2-2017-WEB-TWMBA.html). The course is part of the Graduate Certificate in Tertiary Teaching.
 
 In the course, we are asking the participants to focus on a specific context into which they are (or will) teach. That context will form part of an teacher-led inquiry into learning and teaching that will underpin the whole course. Early on in the course we are asking the to briefly summarise the context they'll focus on and generate an initial set of issues of interest that might form the basis for their inquiry. Get them thinking and sharing and provide a foundation for refinement over the semester.

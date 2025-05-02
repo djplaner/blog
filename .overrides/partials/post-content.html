@@ -24,7 +24,7 @@
     {% if page.meta.categories %}
       <strong>in:</strong>
       {% for category in page.meta.categories %}
-        <a href="/blog2/category/{{ category | urlize }}.html">{{ category }}</a>{% if not loop.last %}, {% endif %}
+        <a href="/blog2/category/{{ category }}.html">{{ category }}</a>{% if not loop.last %}, {% endif %}
       {% endfor %}
     {% endif %}
 <!--    {% if page.meta.tags %}

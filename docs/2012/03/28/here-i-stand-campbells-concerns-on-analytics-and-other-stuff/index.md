@@ -59,9 +59,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Continuing a [re-engagement with analytics](/blog2/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/) I spent some time listening to [Gardner Campbell's](http://www.gardnercampbell.net/) talk to the LAK'12 MOOC - [Here I Stand](http://lak12.wikispaces.com/Recordings) and from there followed various links.
 
 Gardner captures one of my major concerns with how analytics may proceed, especially within institutions that are increasingly driven by accountability, efficiency and other concerns. Concerns that they are responding to with top-down management. Gardner's uses the metaphor of the human mind/learning being as [complex as M-Theory](http://en.wikipedia.org/wiki/M-theory) (actually more complex) and that learning analytics as commonly thought of is equivalent to measuring M-Theory using a simple cartesian graph.

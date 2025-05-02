@@ -54,9 +54,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post adds another perspective borrowed from Gonzalez (2009) as a framework to report or evaluate findings from Col and Ken's indicators project. Col added an [update on his work](http://beerc.wordpress.com/2009/03/01/indicators-update-february/) recently. Like previous post this one borrows a table of dimensions around conceptions of online learning because it may be helpful.
 
 First the table and then how it might be used.

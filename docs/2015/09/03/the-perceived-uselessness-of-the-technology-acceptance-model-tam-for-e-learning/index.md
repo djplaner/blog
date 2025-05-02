@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Below you will find the slides, abstract, and references for a talk given to folk from the University of South Australia on 1 October, 2015. A later blog post [outlines core parts of the argument.](/blog2/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/)
 
 ## Slides

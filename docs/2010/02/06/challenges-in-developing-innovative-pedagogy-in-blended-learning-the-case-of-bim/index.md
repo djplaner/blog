@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the start of a process for developing a paper that I plan to submit to [Moodlemoot AU 2010](http://moodlemoot.org.au/) based on my recent experience in developing [BIM](/blog2/research/bam-blog-aggregation-management/). The plan is to:
 
 - Write a series of blog posts based on very rough ideas for the paper (this is the first).

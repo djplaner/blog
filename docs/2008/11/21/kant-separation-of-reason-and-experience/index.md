@@ -5,9 +5,6 @@ categories: ['elearning', 'missingps', 'ple', 'plescquni', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [![Kant](images/2679007692_38c1730a48_m.jpg)](http://flickr.com/photos/wyzdor/2679007692/)
 
 I'm slowly working through some [PhD related work](/blog2/research/phd-thesis/) (the post on the paper I'm reading will come out later today) and that brought me across the following description of an argument of Kant's from the [wikipedia page on Kant](http://en.wikipedia.org/wiki/Kant)

@@ -147,9 +147,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the latest, and first close to (but not there) complete, draft of the proposal explaining the alignment project. While informed by good discussions with a range of folk, the following is still a bit limited. Should be improved over the next couple of weeks.
 
 Even if the application doesn't get off the ground it has helped me make connections bit a range of different bodies of work (complex adaptive systems, connectivism, distributive leadership and distributed cognition). Some of which I've been aware of and some I've ignored. It has helped develop my interest in thinking about how to combine some of the principles underpinning these bodies of work with behaviour change, hopefully to do some interesting things in the future.

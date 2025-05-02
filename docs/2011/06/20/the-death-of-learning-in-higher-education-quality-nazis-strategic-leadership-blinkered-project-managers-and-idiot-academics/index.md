@@ -180,9 +180,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Based on my experience in Australian universities I would like to suggest [four archetypes](http://en.wikipedia.org/wiki/Archetype) that are destroying the quality of learning in higher education. They are, in order of arrival at universities:
 
 1. Idiot academics.

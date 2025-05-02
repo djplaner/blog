@@ -9,7 +9,7 @@
    {% set myDate = page.meta.date %}
    {% set year = "{}".format(myDate).split("-")[0] | int %}
    {% if year < 2025 %}
-    <p><strong><span style="color:yellow">⚠</span></strong> old Wordpress post ({{ year }}) may have broken links, embeds, and <a href="/blog2/about.html">other limitations</a></p>
+    <p><strong><span style="color:yellow">⚠</span></strong> old Wordpress post (circa {{ year }}) may have broken links, embeds, and <a href="/blog2/about.html">other limitations</a></p>
     {% endif %}
   </div>
   {% if page.meta.coverImage %}
@@ -74,7 +74,7 @@
     }
   </style>
   <div class="comments-container">
-    <h3>{{ page.meta.comments|length }} Comment{% if page.meta.comments|length > 1 %}s{% endif %}</h3>
+    <h3>{{ page.meta.comments|length }} {% if page.meta.comments|length==1 %}Comment{% else %}Comments{% endif %}</h3>
 
     <ul>
       {% for comment in page.meta.comments %}
@@ -95,7 +95,7 @@
   {% endif %}
   {% if page.meta.pingbacks %}
   <div class="pingbacks-container">
-    <h3>{{ page.meta.pingbacks|length }} Pingbacks</h3>
+    <h3>{{ page.meta.pingbacks|length }} {% if page.meta.pingbacks|length==1 %}Pingback{% else %}Pingbacks{% endif %}</h3>
 
     <ul>
       {% for pingback in page.meta.pingbacks %}

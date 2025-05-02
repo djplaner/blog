@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Dave Tosh](http://elgg.net/dtosh/dashboard/), project manager of the [elgg project](http://www.elgg.org/), has a [post](http://elgg.net/dtosh/weblog/156809.html) suggesting that the open source model doesn't work. He should know, given his three years working on elgg.
 
 My interest in the post is due to a number of factors. I'm hoping to install and use elgg for my group here at CQU - that's a task for tomorrow. I'm a long-term "open source" fan/promoter in various shapes and forms. That said, I've also had similar concerns as those expressed by Dave.

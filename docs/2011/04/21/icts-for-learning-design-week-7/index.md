@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 After a couple of weeks focused on assessment, not to mention two assignments which I'm far from happy with, it's time to return to some study. First, the ICTs for Learning Design course and this week the focus is on
 
 - WebQuests, including "contemporary ideas about webquests and why they are not necessarily aligned with our current perception of good curriculum".  

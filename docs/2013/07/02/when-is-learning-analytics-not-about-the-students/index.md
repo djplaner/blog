@@ -6,9 +6,6 @@ tags: ['lasi2013']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Sadly, but not surprisingly, I missed out on an invite to [LASI 2013](http://www.solaresearch.org/events/lasi/). But I am able to follow the conversation via other means such as the [LASI blog aggregator](http://learninganalyticsinstitutes.net/). Via the aggregator I've come across [this post](http://miketissenbaum.com/quick-thoughts-on-the-opening-sessions-of-lasi-2013/) from Mike Tissenbaum reflecting on the opening sessions.
 
 In his post, Mike writes

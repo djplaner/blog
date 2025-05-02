@@ -41,9 +41,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ["More student details"](/blog2/2014/11/13/adding-more-student-information-to-a-moodle-course/) (see image below) is the most visible part of the additional systems I've put in place to make teaching bearable ([this presentation](http://www.usq.edu.au/learning-teaching/USQSalon/JonesAlbion) talks more about it). The problem I'm dealing with here is that a new semester has started, which means I need to re-configure these feral systems to work with the new semester.
 
 And while I'm at it, I'm hoping I might be able to add [a bit of sentiment analysis](/blog2/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/) to it.

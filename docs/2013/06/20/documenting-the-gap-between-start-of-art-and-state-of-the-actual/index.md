@@ -126,9 +126,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Came across Perrotta et al (2013) in my morning random ramblings through my PLN and was particular struck by this
 
 > a rising awareness of a gap between 'state of art' experimental studies on learning and technology and the 'state of the actual' (Selwyn, 2011), that is, the messy realities of schooling where compromise, pragmatism and politics take centre stage, and where the technological transformation promised by enthusiasts over the last three decades failed to materialize. (pp. 261-262)

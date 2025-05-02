@@ -59,9 +59,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently struggling with writing the "Place" component of the [Ps framework](/blog2/2009/03/18/the-ps-framework/) as part chapter 2 of my [thesis](/blog2/research/phd-thesis/). In wondering the literature, as I tend to do while writing, I've come across an article (Gilbert and Geoghegan, 1995) that has some interest for me. Gilbert's description of the paper is
 
 > The Internet is changing the way some of us develop ideas and communicate. The following, for example, is a sample of an "electronic" discussion about how to bridge the gap in higher education between the early adopters of information technology and the mainstream faculty who are yet to use technology to improve teaching and learning in their classrooms.

@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've just skimmed through a recent paper by Convery (2009) titled "The pedagogy of the impressed: how teachers become victims of technology vision". This paper resonates quite strongly with a growing sense of concern I have about simplistic, ill-informed practices around e-learning. In particular, there are (for me at least) direct connections with some of my recent posts about [how a new LMS will improve L&T](/blog2/2009/04/20/performance-degradation-impact-of-new-lms-implementation/), [the paradigms of e-learning](/blog2/2009/04/20/the-paradigms-of-e-learning/), [the fad cycle in higher education](/blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/) and its application to technology-mediated learning, the technologists alliance (more on this soon) and the [idea of technological gravity](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/) and technology I, II and III.
 
 The final paragraph of Convery (2009) includes the following

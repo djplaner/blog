@@ -5,9 +5,6 @@ categories: ['eded20455', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So, onto behaviour management and this week, Challenging Behaviours.
 
 In a couple of weeks I have to put together a 2000 word report outlining a management plan for a beginning teacher. This is a start of that process. Am already feeling the tension between the well-meaning theory and the constraints of practice after only 2 days of EPL (embedded professional learning, i.e. prac teaching).

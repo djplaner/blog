@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Just another quote, but a good one. And one that connects with [a recent post](/blog2/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/) about the difficulty of getting agreement around learning and teaching and the difficulty this creates within universities when you want to try and improve the quality of that learning and teaching.
 
 > Validity is subjective rather than objective: the plausibility of the conclusion is what counts. And plausibility, to twist a cliché, lies in the ear of the beholder.  

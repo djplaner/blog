@@ -5,9 +5,6 @@ categories: ['edc3100', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Do you know of any "dating services" for online courses?
 
 That is, a service by which a cohort of (often 100+) students can put in a few details (e.g. I'm an early childhood pre-service teacher, I'm technically competent etc., I'm interested in X) and on request the software will match up the students in groups of two or more.

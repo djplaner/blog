@@ -5,9 +5,6 @@ categories: ['bad', 'elearning', 'fad']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Late last year @salvetore read and [commented on](https://moodle.org/mod/forum/discuss.php?d=276835) the ["three paths" paper](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) that @beerc and @rolley wrote for ASCILITE'2014. (Always nice to know that someone reads a paper). The following is a response I've just added to the thread on the Moodle research discussion forum. In particular, picking up on two suggestions from Sean Dicks, which badly summarised are
 
 1. That the focus should be on doing it with students, rather than teachers.

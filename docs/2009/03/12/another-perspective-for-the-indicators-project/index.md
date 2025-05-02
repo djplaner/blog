@@ -5,9 +5,6 @@ categories: ['blackboardindicators', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [The indicators project](http://beerc.wordpress.com/2008/12/21/more-on-the-indicators/) is seeking to mine data in the system logs of a learning management system (LMS) in order to generate useful information. One of the major problems the project is facing is how turn the mountains of data into something useful. This post outlines another potential track based on some findings from Lee et al (2007).
 
 The abstract from Lee et al (2007) includes the following summary

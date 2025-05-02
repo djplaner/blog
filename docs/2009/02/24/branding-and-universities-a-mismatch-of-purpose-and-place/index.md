@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'psframework', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently reading Waeraas and Solbakk (2009), a paper titled "Defining the essence of a university: lessons from higher education branding." and with the following abstract.
 
 > Branding is a phenomenon that has become increasingly common in higher education over the last few years. It entails defining the essence of what a university ‘‘is’’, what it ‘‘stands for’’, and what it is going to be known for, requiring precision and consistency in the formulations as well as internal commitment to the brand. This article details what happened in the process of defining the essence of a regional university in Northern Norway. Addressing the challenges, the article reveals that the notions of consistency, precision, and commitment generated resistance from faculty members and made the process very difficult to fulfill. An important finding is that a university may be too complex to be encapsulated by one brand or identity definition. The article describes this process, explains the reasons for the difficulties, and discusses some implications for higher education branding.

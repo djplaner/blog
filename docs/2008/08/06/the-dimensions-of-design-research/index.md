@@ -5,9 +5,6 @@ categories: ['design-theory', 'plescquni', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What, if any, is the difference design research, design-based research and design theory? How does your answer to these questions modify your practice and understanding of design research? Answers to these, and other related questions, are important, at least to me, and perhaps a broader community. This and subsequent posts are related to a paper I'm trying to write that has the working title "The dimensions of design research".
 
 So all of this is a work in progress.

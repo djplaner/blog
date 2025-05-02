@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Continuing on with [playing with Moodle 2.0](/blog2/2010/11/18/installing-and-starting-with-moodle-2-0/) and in particular its external blog syncing and integration of SimplePie. The aim here is to test the problem with special characters in feeds and what it does to PostgreSQL databases.
 
 ### The problem

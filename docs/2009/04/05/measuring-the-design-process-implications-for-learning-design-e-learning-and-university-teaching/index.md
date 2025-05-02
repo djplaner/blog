@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I came across the discussion underpinning these thoughts via a [post](http://theocacao.com/document.page/600) by [Scott Stevenson](http://theocacao.com/document.page/296). His [post](http://theocacao.com/document.page/600) was titled "Measuring the design process". It is his take on a [post titled "Goodbye Google"](http://stopdesign.com/archive/2009/03/20/goodbye-google.html) by [Doug Bowman](http://stopdesign.com/about). Bowman was the "Visual Design Lead" at Google and has recently moved to Twitter as Creative Director.
 
 My take of the heart of the discussion is the mismatch between the design and engineering cultures. Design is okay with relying on experience and intuition for the basis for a decision. While the engineering culture wants everything measured, tested and backed up by data.

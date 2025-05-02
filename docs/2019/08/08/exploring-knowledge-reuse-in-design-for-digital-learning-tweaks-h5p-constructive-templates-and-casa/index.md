@@ -5,9 +5,6 @@ categories: ['bad', 'casa', 'design-theory', 'highereducation', 'innovation']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following has been accepted for presentation at [ASCILITE'2019](https://2020conference.ascilite.org/). It’s based on work described in [earlier blog posts](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/).
 
 Click on the images below to see full size.

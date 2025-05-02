@@ -5,9 +5,6 @@ categories: ['edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following documents the planning of an ["installfest"](https://en.wikipedia.org/wiki/Installfest) for the course EDC3100. Implementation and reflection will come later.
 
 ## Rationale

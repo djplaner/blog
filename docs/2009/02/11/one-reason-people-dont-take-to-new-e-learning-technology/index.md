@@ -56,9 +56,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a [recent post](/blog2/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/) I started my collection of quotes on this blog. I also talked about the "mere exposure effect" and suggested it's one reason behind the horseless carriage approach to using new technology. It's also one reason why people resist new technology - especially e-learning/computer technology.
 
 In working on another post, one directly related to the PhD, I came across [this article](http://connect.educause.edu/Library/EDUCAUSE+Quarterly/TheThreeEStrategyforOverc/47686) from EDUCAUSE Quarterly titled "The Three-E Strategy for Overcoming Resistance to Technological Change ".

@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Well, this week was a very short week. All up 4 days were lost with illness, work and a burst pipe at childcare requiring some additional babysitting duties. That said, I'm feeling pretty happy about the thesis mostly because on major hurdle is out of the way and it went fairly quickly. Hopefully this can continue - the progress, not the short weeks.
 
 ### What I've done

@@ -46,9 +46,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A meeting with the PhD supervisor must mean a new planned timetable for completion of the PhD. In order to maximise fear of embarasement if/when I miss the timelines I'm making it public. It also serves the purpose of helping people understand why I might be ignoring them over the next 8 months or so.
 
 There are likely to be six chapters in the thesis and the following are based on the idea that the draft chapters to the supervisor don't need to be polished prose. It's sufficient if they have the structure and the argument is visible and understandable.

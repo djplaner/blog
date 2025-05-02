@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a growing [category of blog posts](http://cq-pan.cqu.edu.au/david-jones/blog/?cat=43) I'm expanding and attempting to apply my interest in diffusion theory and related theories to increase the use of course websites. A major requirement, as outlined in the [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=185), in achieving this requires and understanding of what students find useful?
 
 In this post, I'm trying to bring together some research that I'm aware of which seeks to answer this question by actually asking the students. If you know of any additional research, let me now.

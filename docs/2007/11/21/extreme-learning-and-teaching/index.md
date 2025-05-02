@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an initial development of taking some the fundamental premise from [Extreme Programming](http://www.extremeprogramming.org/) and apply it to learning and teaching. The rationale for doing this is to see if it provides a more effective way of generating improvements in learning and teaching at higher education, and in particular [CQU](http://www.cqu.edu.au/).
 
 Some additional discussion around this idea is happening on the [CDDU wiki](http://cddu.cqu.edu.au/index.php/Extreme_learning_and_teaching).

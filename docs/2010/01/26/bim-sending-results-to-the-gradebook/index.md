@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Almost forgot to add this into BIM. BIM is used by staff to manage and mark feed/blog posts from students. Eventually, those marks have to be put into the Moodle gradebook so they can form part of the students final grade. This post summarises a search for information about how this can be done within Moodle and some design thinking about how to get it done in BIM.
 
 ### Activity modules sticking stuff into the gradebook

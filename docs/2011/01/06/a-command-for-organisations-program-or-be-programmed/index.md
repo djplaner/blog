@@ -27,9 +27,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've just finished the Douglas Rushkoff book [Program or be Programmed: Ten commands for a digital age](http://www.amazon.com/Program-Be-Programmed-Commands-Digital/dp/1935928155/). As the title suggests the author provides ten "commands" for living well with digital technologies. This post arises from the titular and last command examined in the book, Program or be programmed.
 
 [![Dougls Rushkoff](images/5263891846_6645a80563_m.jpg)](http://www.flickr.com/photos/kevinkrejci/5263891846/ "Dougls Rushkoff by Kevin Krejci, on Flickr")

@@ -34,9 +34,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm definitely in need of a "customer relationship management" (CRM) system for the Learning Management System (LMS). Any suggestions?
 
 I'm back teaching at University for the first time in a while. For the course I'm teaching there are 200+ students for whom I'm the "teacher". 170 of these are "online" students, which means they rarely come on campus to lectures/tutorials. Supporting these students means covering questions about both the course and the administrative processes around it. Keeping track of 200+ students and the conversations we've had is hard when the interactions are spread across email, discussion forums, LMS instant messaging, the phone and other systems and medium. Not to mention student information being spread across the student records system, the LMS, the assignment submission system, the prac placement system etc. And being busy with other tasks doesn't help recall.

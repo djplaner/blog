@@ -100,9 +100,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 As work on the thesis is slowly finishing, I'm increasingly starting to think about the next chapter. What am I going to do post-PhD? The answer, potentially surprising for some, is probably going to high school teaching.
 
 ### Some context

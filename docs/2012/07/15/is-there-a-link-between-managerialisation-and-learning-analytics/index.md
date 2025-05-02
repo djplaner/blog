@@ -43,9 +43,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Another task for today is to put some finishing touches on an application for [an OLT grant](http://www.olt.gov.au/grantsandprojects) around learning analytics. The project - some early [thinking shown here](/blog2/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/) - is coming together nicely, but could always be better. Some good feedback from [Rob Phillips](http://www.tlc.murdoch.edu.au/staff/phillips/homepage.html) reminded me about what the [Horizon Report for Australian Tertiary Education](http://www.nmc.org/publications/2012-technology-outlook-au) (Johnson et al, 2012, p. 1) has to say about analytics in Oz higher ed
 
 > Experts all over the globe see learning analytics as important, but the Horizon.au advisory board see this technology in 2012 as more imminent than both the New Zealand experts and the global higher education group...In fact, this report marks the first time learning analytics has been voted into the near-term horizon, indicating that Australia is well-positioned for leadership in this area. Secondary research supported the conclusion that Australian institutions are particularly interested in finding new ways to measure student performance, ideally in real-time.

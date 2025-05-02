@@ -57,9 +57,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is in part a test of Wordpress.com's new support for [Vimeo](http://www.vimeo.com/) video. The video below is of a presentation I gave at CQU this year. The abstract is below. The slides are [on slideshare](http://www.slideshare.net/davidj/herding-cats-and-losing-weighthow-to-improve-learning-and-teaching?src=embed).
 
 ### Abstract

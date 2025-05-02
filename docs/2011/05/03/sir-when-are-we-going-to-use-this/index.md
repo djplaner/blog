@@ -109,9 +109,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 My first two days of prac teaching last week included three mathematics classes. In two of the classes I heard students ask the teacher, "Sir, when are we going to use this? Why are we studying it?". The other mathematics class was grade 12, obviously they benefited from their longer experience and were more pragmatic when they asked, "Will this be on the test?". Since that time I've been wondering how I might answer this question when it is asked of me.
 
 What follows are some initial ideas for how I might respond. Somewhat phrased as how I might use it with students. Thoughts? Suggestions?

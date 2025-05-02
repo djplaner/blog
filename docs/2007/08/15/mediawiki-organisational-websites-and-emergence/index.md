@@ -5,9 +5,6 @@ categories: ['emd']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This week the unit I work for finally got its [website up and going](http://cddu.cqu.edu.au/). The Curriculum Design & Development Unit (CDDU) is tasked with helping CQU "become a world leader in flexible and on line learning".
 
 Towards that end the website has been implemented using [Mediawiki](http://mediawiki.org/) and its current content and structure has been put together using a very emergent process.

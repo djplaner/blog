@@ -5,9 +5,6 @@ categories: ['exploring', 'moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Natalie writes about how she's working a new practice into how she responds to student queries. It's a process in which she attempts to model an approach to answering the query and including links to relevant sites. This is a practice that I use a fair bit, especially with the Moodle Book resources in my undergraduate course. This post seeks to explore my own practice, but also how wide spread that practice is in others.
 
 This post picks up on work and ideas from [an earlier post](/blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/). The [Moodle Book module](https://docs.moodle.org/31/en/Book_module) helps create/manage collections of web pages. My interest is to explore how much people are using them as web pages, rather than just dumping grounds for print material. One of the main affordances of the web is links. The [prior post](/blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/) found that around 15% of the book resources contain no links. It also found that the median number of links per book has grown from 11 through 17. It also shows that there are some books with hundreds of links. It also showed how the number of links in the book resources I produce has grown with the median hitting about 25.

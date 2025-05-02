@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've been a fan of [Dave Snowden](http://www.cognitive-edge.com/files/Dave-Snowden.pdf) and his work for a couple of years. In [this blog post](http://www.cognitive-edge.com/blogs/dave/2008/10/rendering_knowledge.php) from last year Dave shares 7 principles for "rendering knowledge". For me, these 7 principles have direct connection with the tasks I'm currently involved with e-learning, curriculum design and helping improve the quality of learning and teaching.
 
 If I had the time and weren't concentrating on another task I'd take some time to expound upon the connections that I see between Snowden's principles and the tasks I'm currently involved with. I don't so I will leave it as an exercise for you. Perhaps I'll get a chance at some stage.

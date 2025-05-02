@@ -6,9 +6,6 @@ tags: ['web2-0-socialmedia']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Next Monday I will be at the University of Melbourne participating in a "National Roundtable" title "Web 2.0 Authoring Tools in Higher Education Learning and Teaching: New Directions for Assessment and Academic Integrity". This is being run as part of an ALTC project titled [Web 2.0 authoring tools in higher education learning and teaching: New directions for assessment and academic integrity](http://www.groups.edna.edu.au/course/view.php?id=2146)
 
 The purpose of the roundtable is to "review experience and make joint recommendations for good practice guidelines". The aim of this post is two fold:

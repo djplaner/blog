@@ -5,9 +5,6 @@ categories: ['elearning', 'quotes']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Wesley Fryer](http://www.wesfryer.com/bio/) has a [post](http://www.speedofcreativity.org/2009/02/15/sir-ken-robinson-on-creativity-and-transforming-our-schools-itsc-2009/) summarising a talk given by [Sir Ken Robinson](http://www.sirkenrobinson.com/). I'm pulling out a few relevant quotes/recollections for later use.
 
 **Update:** One of the comments on Wesley Fryer's post points to [video](http://www.thersa.org/events/vision/vision-videos/sir-ken-robinson-the-element) of Sir Ken giving a similar talk in another venue.

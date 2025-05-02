@@ -66,9 +66,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a first draft of the next section in Chapter 5 of the [thesis](/blog2/research/phd-thesis/). It's the first section which starts describing the various different changes that were made to Webfuse and how it was supported from 2000 and on. IMHO, this particular change is something that continues to be missing from almost all university attempts to support e-learning. If not missing, they simply haven't recognised the need for greater levels of skills. It is particularly sad that my current institution, the institution at which these changes/lesson were first implemented and written about 10+years ago, still hasn't learnt the lesson - or perhaps the lesson just isn't important enough.
 
 #### Adopter focused development and diffusion theory

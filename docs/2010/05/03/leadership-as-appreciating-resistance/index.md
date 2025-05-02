@@ -6,9 +6,6 @@ tags: ['leadership']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Am busy reading and trying to do up a grant application, when I should be working on the PhD. However, I couldn't bypass this quote from FUllan (2001: 65)
 
 > Defining effective leadership as appreciating resistance is another of those remarkable discoveries: dissent is seen as a potential source of new ideas and breakthroughs. The absence of conflict is a sign of decay ... investing only in likeminded innovators is not necessarily a good thing. They become more likeminded ... If you include the naysayers, noise in the early stages will yield later, greater implementation.

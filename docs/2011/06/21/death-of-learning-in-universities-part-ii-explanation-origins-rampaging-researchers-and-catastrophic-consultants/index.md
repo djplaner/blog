@@ -31,9 +31,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is a follow-up to [a post](/blog2/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/) from yesterday that appears to have struck a chord. This post offers some additional explanation about the purpose and origins of the post and adds two more archetypes.
 
 ### Explanation

@@ -264,9 +264,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a section with the heading "ALL MODELS ARE WRONG BUT SOME ARE USEFUL", Box (1979) wrote
 
 > Now it would be very remarkable if any system existing in the real world could be exactly represented by any simple model. (p. 202)

@@ -49,9 +49,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary of some tinkering to develop a script that will help me appropriately attribute use of Creative Commons licensed images in presentations. Beyond addressing a long-standing problem of mine, this bit of tinkering is an attempt to feel a bit productive.
 
 ## The problem

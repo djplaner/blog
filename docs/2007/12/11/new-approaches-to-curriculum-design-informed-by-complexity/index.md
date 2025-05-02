@@ -6,9 +6,6 @@ tags: ['cddu-curriculumdesign-complexity-c2d2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For a long time I've felt disquiet about the "super-rational" approach to design and development. I'm including both for information systems development (my original discipline and interest) and curriculum design/e-learning (my current job).
 
 The "super-rational" approach is based on the assumption that human beings are supremely rational and that an expert can analyse the problem, identify an optimum solution and implement it. With curriculum design this can be seen in days spent by an curriculum design expert, usually in collaboration with a subject matter expert, going through a rigorous process of analysis.

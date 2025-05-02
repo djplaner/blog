@@ -215,7 +215,4 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The to do list for BIM development is now [hosted on github](http://github.com/djplaner/BIM/issues).

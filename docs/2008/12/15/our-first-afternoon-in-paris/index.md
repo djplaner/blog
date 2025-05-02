@@ -6,9 +6,6 @@ tags: ['paris']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 After our flight we spent the afternoon of the 12th wondering around Paris, seeing what we could see. The plane was mostly to look at the Champs Elysees and the Eiffel Tower.
 
 [![arc de triomphe](images/3102191500_c98734e3c6_m.jpg)](http://www.flickr.com/photos/david_jones/3102191500/ "arc de triomphe by David T Jones, on Flickr")

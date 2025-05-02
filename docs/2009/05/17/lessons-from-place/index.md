@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the last part of the [Place section](/blog2/2009/05/06/place-component-of-the-ps-framework/) of chatper 2 of [my thesis](/blog2/research/phd-thesis/). It's not that good, but enough has been done to get it out and await feedback.
 
 ### Lessons from place

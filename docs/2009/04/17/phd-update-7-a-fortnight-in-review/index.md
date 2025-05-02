@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's now been 2 weeks since my last "weekly" [PhD update](/blog2/2009/04/02/phd-update-6-start-of-shortened-weeks/). The public holidays, minor surgery and a general malaise contributed to by on-going issues at work have meant that work hasn't progressed as quickly as I'd hoped and it would have been pretty pointless to post an update last week.
 
 Of course, all that is going to change from now on.

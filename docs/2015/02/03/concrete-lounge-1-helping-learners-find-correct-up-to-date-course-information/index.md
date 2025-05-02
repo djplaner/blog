@@ -54,9 +54,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is (hopefully) the first in a growing [list of concrete lounges](http://fedwiki.djon.es/view/welcome-visitors/view/list-of-concrete-lounges) that I've faced in institutional e-learning. The [concrete lounge metaphor](http://fedwiki.djon.es/view/welcome-visitors/view/concrete-lounge) is my attempt to explore the reality of university e-learning, to illustrate some possible reasons why it continues to be so wrong, and see what can be done to address those reasons.
 
 The other main reason for sharing what I'm doing. Perhaps some of this might be useful to other, but more importantly I'm hoping to find out what others have done/think and thereby discover better ways to live with the concrete lounges that institutions are providing for learning and teaching.

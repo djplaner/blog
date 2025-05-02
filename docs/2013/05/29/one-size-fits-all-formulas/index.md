@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 From an article in The Australian by Les Field - DVC (Research) at UNSW - titled "Impact sometimes requires long decades of research"
 
 > Call me old-fashioned, but I am a firm believer that you can't create a one-size-fits-all formula for innovation, creativity or impact.

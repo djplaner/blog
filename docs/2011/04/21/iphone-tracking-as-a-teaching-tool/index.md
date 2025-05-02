@@ -5,9 +5,6 @@ categories: ['teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Via George Siemens](http://www.elearnspace.org/blog/2011/04/20/iphone-tracking-so-not-an-issue/) I learn about my iPhone tracking where I've been, [a nifty app](http://petewarden.github.com/iPhoneTracker/) that can visualise that data, some useful resources to implement this sort of visualisation, and some detail about the file format. The obligatory visualisations of my movements - significantly less a world traveler than George - follow (click on an images to see it larger).
 
 [![iPhoneTracker visualisation 001](images/5638708941_0cee6d7df8_m.jpg)](http://www.flickr.com/photos/david_jones/5638708941/ "iPhoneTracker visualisation 001 by David T Jones, on Flickr")

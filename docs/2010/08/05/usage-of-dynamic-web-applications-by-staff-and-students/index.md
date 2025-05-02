@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a "formalisation" of [a previous post](/blog2/2010/08/04/usage-of-wf-applications/). This is the version that forms the first draft of a section in the thesis.
 
 ### Usage of dynamic web applications by staff and students

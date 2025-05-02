@@ -63,9 +63,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is an attempt to briefly (and possibly badly) express a disquiet I have with the idea of scaling educational innovations. It's sparked by [a post](http://blogs.edweek.org/edweek/rick_hess_straight_up/2011/12/why_education_innovation_tends_to_crash_and_burn.html) by Rick Hess titled "Why education innovation tends to crash and burn".
 
 The post suggests that there are two sets of obstacles that prevent educational innovations scaling

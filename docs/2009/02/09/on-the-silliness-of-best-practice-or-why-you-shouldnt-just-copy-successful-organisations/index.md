@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The very idea of "best practice" is silly. In any meaningful complex activity the idea of simply copying what someone else did is destined to fail because it doesn't seek to understand the reasons why that best practice worked for them and what are the differences between "them" and "us".
 
 [This post](http://www.37signals.com/svn/posts/1561-why-you-shouldnt-copy-us-or-anyone-else) over at [37 Signals](http://www.37signals.com/) expounds a bit more on this and references an article titled [Why your startup shouldn't copy 37signals or Fog Creek](http://onstartups.com/home/tabid/3339/bid/8354//Why-Your-Startup-Shouldn-t-Copy-37signals-or-Fog-Creek.aspx). The article gives one of the explanations of why best practices are silly.

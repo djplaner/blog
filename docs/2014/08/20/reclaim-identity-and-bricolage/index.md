@@ -5,9 +5,6 @@ categories: ['edu8117']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Some thinking and reporting on some explorations of getting into the Reclaim project (movement?). -- _update:_ picking this up after a few weeks of inactivity.
 
 It seems like now or never. Just as I'm starting (somewhat unexpectedly) on a journey participating in a Masters course on [Networked and Global Learning](http://netgl.wordpress.com/) with an explicit desire to "walk the walk" (i.e. break out of the confines of the LMS, traditional approaches to such courses etc.) there's quite a bit of movement around the [Reclaim Hosting project](http://reclaimhosting.com/). Tim Klapdoor is [sharing his planning and approach](http://timklapdor.wordpress.com/2014/07/27/reclaim-rethink/) to getting into the Reclaim Project. Audrey Watters and others in my network are also [sharing reports](http://hackeducation.com/2014/07/22/reclaim-your-domain-hackathon/) on the recent hackathon around the project. Rather than any great confluence, perhaps its just that I'm in a place where I'm now more likely to recognise this activity in my network. Either way, it's time to bite the bullet.

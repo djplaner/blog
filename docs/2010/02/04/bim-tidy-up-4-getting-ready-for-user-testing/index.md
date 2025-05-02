@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Continuing the tidying of BIM. This time the focus is on any and all steps necessary to get BIM ready to go up on a test server and have some real folk actually look and play with it. The structure of this will be based around users and actions. I'm going to do some of my own testing and then also add in anything that comes up from working with others.
 
 This is a work in progress.

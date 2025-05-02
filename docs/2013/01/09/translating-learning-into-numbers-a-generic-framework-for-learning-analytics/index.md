@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary of and commentary on [Greller and Drachsler (2012)](http://www.ifets.info/journals/15_3/4.pdf). I come to this via the JISC/CETIS report [I summarised yesterday](/blog2/2013/01/08/analytics-for-learning-and-teaching/)
 
 ## Thoughts

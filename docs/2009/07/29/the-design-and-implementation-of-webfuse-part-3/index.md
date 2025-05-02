@@ -5,9 +5,6 @@ categories: ['chapter-4', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the last of, what is now, a three part series of blog posts outlining the design and implementation of the Webfuse system. These are part of chapter four of [my thesis](/blog2/research/phd-thesis/). The previous two parts are [here](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/) and [here](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-2/).
 
 The structure of this section is based on the design guidelines developed for Webfuse and outlined in a section in [this post](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/). Each of the three posts outlining the design and implementation of Webfuse are using the design guidelines as the structure through which to explain the implementation of Webfuse. This post closes out the implementation by looking at the final two guidlines - be flexible and support diversity, and encourage adoption.

@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an initial attempt to restart some [earlier explorations](/blog2/2012/03/29/explorations-of-narrative-research/) of research methods that may prove useful in examining the "Story of [BIM](/blog2/research/bam-blog-aggregation-management/)" for potential useful insights. The starting place is ethnography and auto ethnography and an exploration of some writings.
 
 ## Rescuing Autoethnography

@@ -26,9 +26,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Here we go again. There's an OECD report on ["Students, Computers and Learning"](http://www.oecd.org/education/students-computers-and-learning-9789264239555-en.htm) that is doing the rounds. @palbion points to one media report
 
 https://twitter.com/palbion/status/643721263840559104

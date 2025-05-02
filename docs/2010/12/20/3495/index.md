@@ -77,9 +77,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm becoming increasingly interested in how the design of e-learning systems can be improved through insights from behaviour change literature and related work (e.g. I think game design principles have some connections with behaviour change. A while ago I started some thinking about this. The following is a summary of/reflection on
 
 > Ofer Arazy, Nanda Kumar, Bracha Shapira (2010), [A theory-driven design framework for recommender systems, Journal of the Assocation for Information Systems](http://aisel.aisnet.org/jais/vol11/iss9/2/), 11(9):455-490

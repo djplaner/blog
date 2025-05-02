@@ -98,9 +98,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the following I reflect on my aborted and half-baked attempts at harnessing design patterns within the practice of e-learning at universities and wonder whether it was a lost opportunity and/or a project that was destined to fail. This is written in the light shed by the work of a number of other folk (Google "patterns for e-learning"), including the current [JISC-emerge project](http://elgg.jiscemerge.org.uk/content/About) and, I believe, the related [Pattern Language Network](http://patternlanguagenetwork.org/).
 
 I think I'll end up contending that it was destined to fail and hope I can provide some justification for that. Or at least that's what I currently think, before writing the following. Any such suggestion will be very tentative.

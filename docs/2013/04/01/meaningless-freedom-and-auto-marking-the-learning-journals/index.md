@@ -77,9 +77,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The course I'm teaching requires each student to create and user an individual blog. The blog should be created on an external blogging platform of their choice and used to reflect on their learning in whatever way they see fit. There are a couple of constraints around regularity (at least 2/3 posts a week), length (average of 100 words), links to resources (60% with links to online resources), and links to other student blogs (2 of all posts over a 3 week period). All this is meant to be automatically marked.
 
 The following is the story of putting in place the code to check, track and mark the student blogs. Much of it has been written over the last few weeks. I'm adding the last extra touch today as the assignment has been submitted and the automated assessment needs to be completed.

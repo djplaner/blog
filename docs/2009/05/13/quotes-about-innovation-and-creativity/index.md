@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Theoretically, I'm in the process of starting [a new job](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ that is focused on encouraging e-learning and innovation within a university context. I'm still reading some of the different literature but the following quotes resonate with me around this position and how it is likely to evolve.
 
 ### The purpose and place of "idea" departments

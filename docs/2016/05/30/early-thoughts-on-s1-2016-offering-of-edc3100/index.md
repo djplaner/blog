@@ -135,9 +135,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 First semester for 2016 is just about over. Time to reflect back on what's happened with EDC3100, ICT and Pedagogy for this semester.
 
 Overall, I feel the course is in a better place than it was last year. But there remains some significant room for improvement.

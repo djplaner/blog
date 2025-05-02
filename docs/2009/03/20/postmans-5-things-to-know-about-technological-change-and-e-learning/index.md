@@ -442,9 +442,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In doing a quick search for references to help out in the last post, I came across [this page](https://web.archive.org/web/20070208205233/http://www.mat.upm.es/~jcm/neil-postman--five-things.html), which appears to be a transcript of a speech given by [Neil Postman](http://en.wikipedia.org/wiki/Neil_Postman) title "Five Things We Need to Know About Technological Change". According to [this post](http://michaelzimmer.org/2008/01/04/neil-postman-five-things-we-need-to-know-about-technological-change/) (that page has gone away, so a [new link to a transcript](https://djplaner.github.io/memex/share/Five-things-we-need-to-know-about-technological-change/))it "was delivered by Postman in 1998 to a gathering of theologians and religious leaders in Denver, Colorado."
 
 Given [my current and recent fascination with "Past Experience](/blog2/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/) and e-learning, I particularly like these couple of quotes from Postman's address.

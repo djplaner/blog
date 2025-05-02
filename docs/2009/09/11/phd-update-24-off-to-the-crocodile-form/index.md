@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Another early update today - off to the Crocodile Farm as an excursion [with the boys](http://www.flickr.com/photos/david_jones/3891084465/) so today's a write off. However, progress has been good and the end is nigh for chapter 2 - at least in first draft.
 
 ### What I've done

@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 There are inclinations amongst some at my university, as with many others, to move onto a different learning management system (LMS). Which creates n important questions - which new LMS?
 
 We shouldn't worry. At least that's one possible conclusions to be drawn from Black et al (2007).

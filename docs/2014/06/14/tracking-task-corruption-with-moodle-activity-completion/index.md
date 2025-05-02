@@ -5,9 +5,6 @@ categories: ['bad', 'edc3100', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following documents a quick kludge required for the assessment for a course I teach. It's primarily a document to help me think through the task and document what was done and why.
 
 ### Background

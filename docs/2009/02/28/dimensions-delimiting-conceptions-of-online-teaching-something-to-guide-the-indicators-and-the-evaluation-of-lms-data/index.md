@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Col Beer](http://beerc.wordpress.com/) has been doing some work around the ["indicators" project](http://beerc.wordpress.com/2008/12/21/more-on-the-indicators/) - an attempt to mine system logs and databases of a course management system (CMS) to generate data of some use.
 
 One of the (many) potential problems with the work, and the work of its like, has been attempting to generate some sort of understanding about how you can rank or categorise the type of learning or activity taking part on on the CMS.

@@ -259,9 +259,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Starting in mid-2015 this project is being initially funded by a [USQ grant](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks) this project is aiming to enhance the [Moodle book module](https://docs.moodle.org/28/en/Book_module) so that it can be used to produce Open Educational Resources (OERs). There are four main steps in the project:
 
 1. Identify useful changes to the module by exploring how it's been used, the experience of those using it, and the affordances the module does/doesn't offer.

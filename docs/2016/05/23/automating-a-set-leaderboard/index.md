@@ -5,9 +5,6 @@ categories: ['bad', 'casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 End of semester 1 is fast approaching. One of the end of semester tasks is encouraging students in courses to complete the institutional Student Evaluation of Teaching (SET) surveys. Last year I experimented with a "SET leaderboard" (see the following image). It's a table that lists the response rates on the SET surveys for the current and previous offerings of the course ranked according to the percentage response rate.
 
 [![SET leaderboard](images/26576187213_cfc2421145.jpg)](https://www.flickr.com/photos/david_jones/26576187213/in/dateposted-public/ "SET leaderboard")

@@ -93,9 +93,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Just after 9:30pm last Wednesday I read an email from the Dean and Director of the ANU College of Business and Economics congratulating me on the fact that my thesis had been accepted without revision by the examiners and the institution. Needless to say that it was good news.
 
 http://twitter.com/#!/djplaner/status/70817513038036993

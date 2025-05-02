@@ -57,9 +57,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the next week [I've promised](/blog2/2009/04/02/phd-update-6-start-of-shortened-weeks/) to get a more complete and academic version of the following onto the blog. But I have 30 minutes to spare so I thought I'd get a rough and ready version out.
 
 The following continues some themes I've been focusing on over the last couple of weeks including [the failure of prescription](/blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/) as a method for improving learning and teaching, the tendency towards [faddish or fashionable adoption](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) of learning technologies (including e-portfolios and open source LMSes), the negative impacts [of the technologists alliance](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/), and [an attempt to learn from history](/blog2/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/).

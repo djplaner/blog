@@ -6,9 +6,6 @@ tags: ['learninganalytics']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A small group of teacher educators that I work with are starting to explore some research ideas around engagement, initial teacher education, and in particular the questions that arise out of the [Quality Indicators for Learning and Teaching (QILT)](https://www.qilt.edu.au/)
 
 For that project and others I need to get back into analysing institutional Moodle data. The following is a recording of some initial forays on a longer journey. It's all basically [data wrangling](https://en.wikipedia.org/wiki/Data_wrangling). A necessary first step to something more interesting.

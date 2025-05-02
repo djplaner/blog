@@ -5,9 +5,6 @@ categories: ['bad', 'oep', 'site2016']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [SITE'2016](https://www.academicexperts.org/conf/site/2016/) is almost finished, so it's past time I started sharing some of the finds and thoughts that have arisen. There's been a (very small) bit of movement around the notion of open. I'll write about LATs and OER and some possibilities in another post. This post is meant to explore the possibility of adapting some of the TPACK learning activities shared by @Keane\_Kelly during [her session](https://www.academicexperts.org/conf/site/2016/papers/48707/) into [SPLOTs](http://cogdog.trubox.ca/2015/02/17/splot-tpc-2015/).
 
 It's really only an exploration of what might be involved, what might be possible, and how well that might fit with the perceived needs I have in my course(s), but at the same time make something that breaks out of those confines. I'm particularly interested in Reil and Polin's idea around residue of experiences and rich learning environments.

@@ -5,9 +5,6 @@ categories: ['elearning', 'plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday, I [rehashed/summarised](/blog2/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/) some earlier thoughts about "handling the marriage of PLEs and institutions. Since then, I've been reflecting on that post. Am coming to the belief that this is just the wrong problem, or perhaps just a symptom of a deeper problem. (Signal the start of the broken record).
 
 All of the students and academic staff (the learners) of a university have always had their own PLEs. It's only with the rise of Web 2.0, e-learning 2.0 and related movements/fads that the PLE (and/or PLN) label has become a concern. And only because of this has the question of how, or indeed if, an institution should provide a PLE arisen. In much the same way that universities - at least within Australia - have had to deal with distance education, flexible learning, lifelong learning, open learning, blended learning and a whole range of similar labels and fads.

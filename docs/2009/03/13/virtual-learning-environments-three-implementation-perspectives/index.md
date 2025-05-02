@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The aim of this post is to summarise my current reading - Keller (2005). I believe it will have some connection with the thesis.
 
 _Aside:_ Using the United Kingdom term - virtual learning environment (VLE) - as a synonym for the more common (in Australia and elsewhere) - learning management system (LMS). Have to say I still prefer course management system (CMS) as a more appropriate label.

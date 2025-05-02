@@ -6,9 +6,6 @@ tags: ['e-learning', 'learning', 'magazine', 'rethinking', 'solutions']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This quote summarises very nicely what I think will become a major research interest of mine in the future. i.e. how can we modify the environment - particularly, but not primarily, through information technology - within universities to encourage and enable improvements in teaching and learning?  
   
 I have a feeling/belief that heavyweight/top-down approaches to improving teaching (e.g. requiring all staff to have a formal teaching qualification, or specifying minimum standards of performance) simply don't work, at least not if you closely examine the cost/benefit ratio of these approaches.  

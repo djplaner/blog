@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a first version of the justificatory knowledge section of my ISDT for emergent university e-learning systems. Still fairly uncertain just how information is meant to go in here and also just how far I should go with the reference to other theories (there are lots) and how much time should be spent looking at the interactions between them.
 
 If you have some literature/theories which support or contradict this approach, will be really happy to hear about it.

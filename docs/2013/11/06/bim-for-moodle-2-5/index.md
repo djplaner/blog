@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Earlier this week @sthcrft asked https://twitter.com/sthcrft/status/397143586178756608
 
 Talk about good timing. My shiny new Mac laptop arrived the same day and I'd been waiting on its arrival to explore whether or [not BIM](http://bit.ly/bambim) was Moodle "2.5ish happy". It turns out that there are a few tweaks required and some improvements made possible. The following is records those tweaks.

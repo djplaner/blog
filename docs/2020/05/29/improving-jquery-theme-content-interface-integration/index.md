@@ -6,9 +6,6 @@ coverImage: 3102194738_a67d8b1639_o-scaled-e1590732238340.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ### The Problem
 
 One of the benefits of using jQuery as the initial framework for [the Content Interface](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) is that you can leverage the existing ecosystem. e.g. jQuery’s themes enable a default Content Interface (on the left) to be “themed” (on the right) by changing a single line of CSS.

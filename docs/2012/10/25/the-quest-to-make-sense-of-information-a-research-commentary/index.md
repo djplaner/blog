@@ -5,9 +5,6 @@ categories: ['indicators', 'learninganalytics-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary of / reflection upon
 
 > Caesarius, L., & Lindvall, J. (2011). The quest to make sense of information: A research commentary. Nordic Academy of Management Conference 2011 (pp. 1–7). Stockholm, Sweeden.

@@ -27,9 +27,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following draws on principles/theory from psychology to guide thinking about how to incorporate "data" from "academic analytics" into an LMS in a way that encourages and enables academic staff to improve their learning and teaching. It's based on some of the ideas that underpin similar approaches that have been used for students such as [this Moodle dashboard](http://lewiscarr.co.uk/dashboard) and the [signals work](http://minutebio.com/blog/2009/08/31/signals-at-purdue-u-increasing-student-success/) at University of Purdue.
 
 The following gives some background to this approach, summarises a paper from the psychology literature around behaviour modification and then explains one idea for a "signals" like application for academic staff. Some of this thinking is also informing the ["Moodle curriculum mapping" project](/blog2/research/curriculum-mapping/).

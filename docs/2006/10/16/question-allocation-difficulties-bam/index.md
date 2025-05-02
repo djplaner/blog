@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A long time ago I identified "reducing meaningless freedom" as a key design principle for elearning type apps - basically anything web-based and possible broader. It ties in with ideas others have identified, it's even discussed in the sad textbook we're using in [COIS20025 this term](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025).
 
 The idea is, that if a user shouldn't be able to do something, don't let them.

@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I currently work in e-learning for which I use the OECD definition - "the use of information and communication technologies to support and enhance learning and teaching". My original discipline as an academic is [the information systems discipline](http://www.isworld.org/). To some extent, I believe this background provides some useful insights that help with the implementation of e-learning within a university context.
 
 The following is an excerpt from my thesis which attempts to give my perceptions of the information systems discipline. It was written at least 3 or 4 years ago and is almost certainly going to have some limitations and will certainly provide enough for a range of folk to disagree.

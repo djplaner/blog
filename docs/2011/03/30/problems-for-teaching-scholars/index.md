@@ -6,9 +6,6 @@ tags: ['amy-bruckman', 'beyond', 'ce21-advice', 'classroom', 'human-subjects-rev
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It appears that there is an increasing, [ERA](http://www.arc.gov.au/era/) driven trend within Australian universities for placing greater emphasis on teaching scholars. These are academics who are no longer expected to do research, apart from engage scholarly with their own teaching practice.  
   
 Why is ERA driving this? Well, from a distance, it appears that teaching scholars reduce the number of "research active" staff at a university. The reduction of this pool apparently helps prevent the dilution of ERA "scores" by those academics who have never really gotten into research.  

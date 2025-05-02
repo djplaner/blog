@@ -1,7 +1,7 @@
 
 site_name: "Some Assemblage Required"
 site_url: https://djon.es/blog2/
-repo_url: https://github.com/djplaner/blog
+#repo_url: https://github.com/djplaner/blog
 site_author: "David Jones"
 site_dir: ../blog2 # stick HTML outside main repo
 use_directory_urls: false
@@ -105,19 +105,10 @@ extra:
 
 # Specify navigation structure
 nav:
-  - Home: blog-home.md
+  - Home: index.md
   - About: about.md
-  - Pages: pages.md
-  - Posts: posts.md
-# Further examples
-#  - Wood Duck Meadows: sense/landscape-garden/
-#  - Plants: sense/landscape-garden/plants/plants.md
-#  - Birding: sense/birdwatching/birding.md
-#  - PKM:
-#    - PKM: pkm.md
-#    - Seek: seek/seek.md
-#    - Sense: sense/sense.md
-#    - Share: share/share.md
+#  - Pages: pages.md
+#  - Posts: posts.md
 
 validation:
   nav:

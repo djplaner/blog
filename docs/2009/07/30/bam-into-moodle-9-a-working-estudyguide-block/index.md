@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [last post](/blog2/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/) finalised some bits of knowledge I needed, now it is time to put it into action and complete the eStudyGuide block to a barely useful level.
 
 Steps required include:

@@ -5,9 +5,6 @@ categories: ['paperideas']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Warger (2003) (amongst others) makes the claim
 
 > Best yet, the learning materials and student progress data that accumulate through use of the CMS become an ever-increasing source value to institutions of higher education.

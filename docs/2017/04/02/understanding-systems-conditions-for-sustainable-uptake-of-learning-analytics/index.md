@@ -5,9 +5,6 @@ categories: ['4paths', 'indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 My current institution is - like most other universities - attempting to make some use of learning analytics. The following uses a _[model of system conditions for sustainable uptake of learning analytics](http://130.56.250.163/about-the-project/sustainable-uptake-of-la/)_ from Colvin et al (2016) to think about how/if those attempts might be enhanced. This is done by
 
 1. summarising the model;

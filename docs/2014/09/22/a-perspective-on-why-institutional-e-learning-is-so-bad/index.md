@@ -80,9 +80,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Sunset attack by TheGiantVermin, on Flickr](images/14298841188_7e8f06b80b_m.jpg "Sunset attack by TheGiantVermin, on Flickr")](https://www.flickr.com/photos/tudor/14298841188/) [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/tudor/)[TheGiantVermin](https://www.flickr.com/people/tudor/) [](http://www.imagecodr.org/)
 
 It's about time to tilt at the same windmill again. For as long as I can remember I've thought institutional e-learning was done badly. Here's another attempt to explain why and map out a way forward. The following is based heavily on on [this paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) that will be presented at [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) and is a slightly re-worked version of something I shared as part of my current institution's attempts to formulate operational plans.

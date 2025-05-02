@@ -221,9 +221,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is intended to be an example that will be used in the course I'm teaching. It's meant to demonstrate appropriate ways to reuse resources that have been created in different ways. It's also an opportunity to explicitly test my understanding. So feel free to correct me.
 
 The idea is that how and if you can use a resource (be it words, audio, video etc) depends on who created the resource, copyright, and any additional conditions that have been applied.

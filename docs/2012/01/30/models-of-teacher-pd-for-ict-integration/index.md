@@ -5,9 +5,6 @@ categories: ['edc3100', 'pstn', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary/reflection upon "[Making better connections: Models of teacher professional development for the integration of information and communication technology into classroom practice](http://www.dest.gov.au/archive/schools/publications/2002/MBC.pdf)". A report funded by the Australian Federal Department of Education written by a range of folk, including a few names I recognise.
 
 The following quote from page 23 of the report gives a good summary of its purpose

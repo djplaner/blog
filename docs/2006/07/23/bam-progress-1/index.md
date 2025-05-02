@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's now the end of week 2 of [CQU's](http://www.cqu.edu.au/) Term 2 for 2006. This is the first attempt at a log entry for the first test of the [BAM project](/blog2/research/bam-blog-aggregation-management/) in the CQU course [COIS20025, Systems Development Overview](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/)
 
 Key events this week

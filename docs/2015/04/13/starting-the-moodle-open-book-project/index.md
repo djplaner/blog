@@ -119,9 +119,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Back in February I shared [shared some thoughts](/blog2/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/) about some ideas for [grants for producing an "open textbook"](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks) at my current institution. In the end, these thoughts were translated into an application which has just been officially announced as being successful. The following is my first attempt to get my head back into the project and outline
 
 - what the project is about;

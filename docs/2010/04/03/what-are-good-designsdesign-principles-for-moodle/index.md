@@ -5,9 +5,6 @@ categories: ['curriculummapping-cddu', 'elearning', 'moodle']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 My [current institution](http://www.cqu.edu.au/) has adopted [Moodle](http://moodle.org/) as its institutional LMS as of 2010. Due to my role, I haven't really had to think about how you best go about designing a Moodle course. Now, however, due to the [curriculum mapping project](/blog2/research/curriculum-mapping/) it is likely that I am going to have to engage with this. Hence the question, what are the different principles, guidelines or approaches for designing a Moodle course site?
 
 ### Why do you ask?

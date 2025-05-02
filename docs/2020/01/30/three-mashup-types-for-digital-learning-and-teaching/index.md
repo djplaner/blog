@@ -6,9 +6,6 @@ coverImage: frogs.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ## Introduction
 
 Over the last 12 months my work helping improve digital learning and teaching environments has relied heavily successfully integrating a variety of technologies. It has relied on mashing up different technologies into effective learning and teaching environments and experiences. The following reflects on that work and identifies three different types of mashups:

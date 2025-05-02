@@ -76,9 +76,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Markus has finally [posted](http://mathehu.wordpress.com/2010/04/14/framing-a-research-proposal-idea/) the set of questions for framing a research proposal idea that he showed me weeks ago. This post is an attempt to use those questions to frame what I'm doing in my [current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 
 A simple test for BIM purposes, ignore

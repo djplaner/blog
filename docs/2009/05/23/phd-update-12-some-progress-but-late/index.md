@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Number 12 of the weekly PhD updates and the first one that is late - this was meant to be done yesterday afternoon. Better late than never. This has been a fairly positive week, some progress made and more importantly I may have learned a small lessons (and put it into practice) about the size and amount of stuff I'm trying to put into these sections of Chapter 2.
 
 I may not get a chance to apply this lessons a great deal in the coming week. Most of it will be spent on a holiday.

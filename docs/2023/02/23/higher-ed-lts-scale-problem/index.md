@@ -5,9 +5,6 @@ categories: ['bad', 'casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Contemporary higher education appears to have a scale problem.
 
 Ellis & Goodyear (2019) explain in some detail Bain's and Zundans-Fraser's (2017) diagnosis of why attempts by universities to improve learning and teaching rarely scale, including the observation that L&T centers try to "influence learning and teaching through elective, selective, and exemplary approaches that are incompatible with whole-organizational change" (Bain & Zundans-Fraser, 2017, p. 12). While most universities offer design support services the combination of high demand and limited resources mean that many academics are left to their own devices (Bennet, Agostinho & Lockyer, 2017). Moving from working at scale across an institution, Ryan et al (2021) suggest that maintaining the quality of L&T while teaching at scale is a key issue for higher education. Massification brings both increased numbers and diversity of learners creating practical and pedagogical challenges for educators having to teach at scale.

@@ -5,9 +5,6 @@ categories: ['4paths', 'casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Celeste Lawson, Colin Beer, Hazel Jones
 
 Paper accepted to the [LAK2018](https://latte-analytics.sydney.edu.au/) workshop - [Participatory design of learning analytics](http://pdlak.utscic.edu.au/)

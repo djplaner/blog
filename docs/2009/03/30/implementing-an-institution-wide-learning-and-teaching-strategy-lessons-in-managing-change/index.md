@@ -122,9 +122,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and possibly some reflection on Newton (2003). I'm still trying to decide if, as I read literature associated with [the PhD](/blog2/research/phd-thesis/), if I should take the time to produce these summaries. I wonder if, instead, I should concentrate on writing the thesis....
 
 Essentially illustrates that academics have different perspectives of strategy than management - SNAFU principle perhaps. Suggests need for better understanding of change and policy implementation. Reinforces much of what I think, some nice references, but doesn't necessarily indicate an appreciation of or if ateleological approaches might be more appropriate.

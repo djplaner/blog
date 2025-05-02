@@ -41,9 +41,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the following I ruminate on a possible correlation between academic participation in a course and response rates on end of term student evaluation. There are two points:
 
 1. It should be an relatively easy correlation to test.

@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following arises out some current reading, writing and thinking for the [Place component](/blog2/2009/05/06/place-component-of-the-ps-framework/) of the Ps Framework. In the following I ponder the idea (which I currently agree with) that universities are inherently adaptable, they aren't likely to die anytime soon and that this adaptability is yet another reason why the LMS product model for e-learning is wrong - since it ain't adaptable.
 
 ### Death of universities

@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Have signed up for another MOOC - [Statistics in Education for Mere Mortals](https://www.canvas.net/courses/statistics-in-education-for-mere-mortals) - to fill a hole. What follows is the diary of the first week.
 
 According to the syllabus, I'm already a bit behind.

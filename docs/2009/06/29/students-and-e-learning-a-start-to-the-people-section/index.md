@@ -69,9 +69,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the first step in the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) from chapter 2 of my [thesis](/blog2/research/phd-thesis/). The first bit ("People") is the introduction to the thesis section and the following ("Students") is the first major section of that component. Hopefully, over the next week and in fairly quick progression the remaining sections of the People component will get posted.
 
 As always, this stuff is version 1 draft quality and there is always going to be more that can and probably should be included, however, I'm currently going for "good enough" rather than "too good".

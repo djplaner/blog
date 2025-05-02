@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Have spent the last day or so doing some more data munging of access logs trying to determine the level of usage of Wf applications within Webfuse. Wf was the framework for developing dynamic web applications within Webfuse - the topic/outcome of my [PhD](/blog2/research/phd-thesis/). The following is an initial summary of that munging with some initial reflection. This will get further polished and re-worked for inclusion in chapter 5 of the thesis.
 
 ### Users and requests

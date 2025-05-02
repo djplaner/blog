@@ -57,9 +57,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The quote attributed to Lisa Paul illustrates the vast distance between her experience and that of staff within universities. The phrase "we'll get to that after the AUQA audit" has been oft repeated at one institution I'm familiar with for at the best part of a year.  
   
 It signifies important tasks being put to the side while the entire focus of the institution is on presenting the same, appropriate story to the AUQA auditors when they arrive. It signifies how important it is to senior management on limited term contracts to get a good tick from external agencies, regardless or the reality. It signifies how the quality of teaching materials and experience suffers while the institution expends resources on printing posters and handouts, and purchasing coffee mugs to spread the "AUQA story".  

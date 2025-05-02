@@ -5,9 +5,6 @@ categories: ['4paths', 'bricolage', 'casa', 'indicators', 'irac', 'learninganaly
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following post contains the content from [a poster](https://drive.google.com/file/d/1bQYs3_I6npq1uLT260EPDqG9a6nicg4w/view?usp=sharing) designed for the [2017 USQ Toowoomba L&T celebration event](http://bit.ly/twceleb2017). It provides some rationale for [a technology demonstrator](http://tiny.cc/techdem) at USQ based on the Moodle Activity Viewer.
 
 ## What is the problem?

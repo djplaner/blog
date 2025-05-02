@@ -189,9 +189,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [Indicators project](http://indicatorsproject.wordpress.com/) is an attempt to enable the examination, analysis and comparison of LMS usage across time, systems and institutions. The project is nothing new. Projects around academic analytics have been around for a while and I and others at [my current institution](http://www.cqu.edu.au/) have been talking about using the collective data in systems logs to inform the practice of L&T at universities for a long time.
 
 Given the long term interest and the need to do this, why aren't more universities doing it? What is getting in the way? This post is the start of a list of factors that I have gotten an inkling of through the literature, personal experience and talking with others. What would you add?

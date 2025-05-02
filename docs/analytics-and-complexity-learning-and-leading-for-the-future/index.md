@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Colin Beer (CQUniversity)  
 David Jones (University of Southern Queensland)
 

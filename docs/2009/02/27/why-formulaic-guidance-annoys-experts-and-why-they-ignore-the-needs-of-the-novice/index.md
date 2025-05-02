@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Shirley](http://www.cbe.anu.edu.au/staff/info.asp?surname=Gregor&firstname=Shirley) is keen to do some more work on the ["research note"](/blog2/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/) suggesting a structure for a design theory/research thesis/paper. This was the appendix that was original part of [Gregor and Jones (2007)](http://aisel.aisnet.org/jais/vol8/iss5/1/) but which JAIS decided not to publish. The main reason was that the reviewers thought it boiled down the process of publishing to a formula, and they obviously thought this was a bad thing.
 
 The rejection by the reviewers is interesting because the research note has proven to be useful and interesting for a range of folk. Even before the 2007 publication we had received requests from at least one information systems Professor for a copy he could use in a doctoral seminar. I should point out that this gentleman (who shall remain nameless) has some significant runs on the board in terms of publications around information systems design theory. Shirley also continues to get requests for it.

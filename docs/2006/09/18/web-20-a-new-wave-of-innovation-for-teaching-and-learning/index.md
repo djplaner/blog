@@ -64,9 +64,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Bryan Alexander's March/April 2006 EDUCAUSE Review article on Web 2.0. Much good stuff, a good summary.
 
 Something to refer to later.

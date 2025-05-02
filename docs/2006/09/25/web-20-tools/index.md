@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 **Other lists**
 
 Albert Ip has started a [list of collaborative type tools](http://elearningrandomwalk.blogspot.com/2006/08/online-collaborative-tools.html) available on the web. One of many, but a good start.

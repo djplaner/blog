@@ -40,9 +40,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a report of my attendance at [Moodlemoot'AU 2010](http://moodlemoot.org.au/) during the first half of this week. The aim is to engage in a touch of reflection, outline tasks to do, and inform colleagues back at [CQUniversity](http://www.cqu.edu.au/) about the conference.
 
 ### My contribution

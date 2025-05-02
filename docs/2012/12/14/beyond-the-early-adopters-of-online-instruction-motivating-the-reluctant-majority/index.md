@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some reflection on Hixon et al (2012). I'm particularly interested in this topic due to my belief (based on 20 years experience and observation) that most institutional approaches to change in learning and teaching has only been successful in moving the same 10% of staff. A 10% that didn't need a lot of help in the first place.
 
 ## Thoughts and to do

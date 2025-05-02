@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 There's movement afoot. The [Lucimoo epub export tool](https://moodle.org/plugins/view/booktool_exportepub) for the [Moodle book module](https://docs.moodle.org/28/en/Book_module) is going through the process of being tested (and perhaps installed) on my institution's main Moodle instance. What follows is a bit of testing of that tool in the institution's test environment.
 
 Verdict: all works, a few changes to practice to leverage it properly.

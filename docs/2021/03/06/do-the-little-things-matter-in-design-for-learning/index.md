@@ -6,9 +6,6 @@ coverImage: 3311829635_0080586412_o-scaled-e1601494373689.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In learning what matters most is what the learner does. As people looking to help people learn we can't make them learn. The best we can do is to create learning situations - see Goodyear, Carvalho & Yeoman (2021) for why I'm using situation and not environment. We design the task, the learning space and social organisation (alone, pairs, groups etc.) that make up the situation in which they will engage in some activity. Hopefully activity that will lead to the learning outcomes we had in mind when designing the situation.
 
 But maybe not. We can't be certain. All we can do is create a learning situation that is more likely to encourage them to engage in "good" activity.

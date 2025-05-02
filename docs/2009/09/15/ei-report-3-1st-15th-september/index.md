@@ -4,9 +4,6 @@ date: 2009-09-15 09:27:25+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is the third in a continuing series of reports summarising what I am doing in [my current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/
 
 ### What I've done

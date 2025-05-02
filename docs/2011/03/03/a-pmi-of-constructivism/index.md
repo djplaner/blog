@@ -108,9 +108,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following documents some reflection on output of a learning task associated with a course on ICTs for Learning Design I'm currently taking.
 
 The task is to create a PMI of a reading around constructivism.

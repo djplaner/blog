@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [blogs for learning](http://blogsforlearning.msu.edu/) is an "online resource about instructional blogging being set up by Michigan State University. I've volunteered/been asked to write an article about the use of blogs in [COIS20025](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/) and [BAM](http://cq-pan.cqu.edu.au/david-jones/Projects/BAM/).
 
 This post where I'm going to start my writing.

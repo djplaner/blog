@@ -73,9 +73,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently reading ["Automate this"](https://en.wikipedia.org/wiki/Automate_This) by Christopher Steiner and came across the following
 
 It's not often that the most important innovations in the world come from the GEs and the Microsofts, the authors point out. They come from entrepreneurs who are focused on that one area with an intensity that bigger companies simply can't bring. Most big firms see their time as best spent on making their current products and processes more efficient....Because of this fact, big companies tend to fall into traps of overmanaging and underinnovating

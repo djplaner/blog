@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've just been asked the following question via Twitter
 
 > as someone who wants to improve their teaching (post-thesis) what is the best route?

@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Jones, D., & Muldoon, N. (2007). The teleological reason why ICTs limit choice for university learners and learning. In R. J. Atkinson, C. McBeath, S. K. A. Soong, & C. Cheers (Eds.), ICT: Providing choices for learners and learning. Proceedings ASCILITE Singapore 2007 (pp. 450–459). Singapore.
 
 This version is slightly modified. The descriptions in the tables have been refined a touch and the video is now embedded

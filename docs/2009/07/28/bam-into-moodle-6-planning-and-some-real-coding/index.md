@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [previous post](/blog2/2009/07/23/bam-into-moodle-5-coding-a-block/) in this series started me along the lines of actually coding something in Moodle. It was only a pretend thing but indicated that blocks are fairly simple to implement. That previous post also pondered about the need to do some planning. Which brings me to the two main tasks for today
 
 1. Put some rough planning down on "paper".  

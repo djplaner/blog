@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 All over the place there are people in organisations performing evaluations and comparisons of competing information systems products with a strong belief that they are being rational and objective. Since the late 1990s or so, most Universities seem to be doing this every 5 or so years around learning management systems. The problem is that these processes are never rational or objective because the nature of human beings is such that they never can be (perhaps very rarely - e.g. when I'm doing it ;) ).
 
 Quoting [Dave Snowden](http://www.cognitive-edge.com/blogs/dave/)

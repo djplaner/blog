@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 For, what seems the longest time, [CQU](http://www.cqu.edu.au/) has been talking about the need to evaluate and choose yet another LMS. We've sort of done this two times before, and from my perspective, both adoption decisions have been fatally flawed. Some discussion about those processes can be found, to a lesser or greater extent, in a variety of publications by CQU authors including: [Danaher, Luck and McConachie](http://sleid.cqu.edu.au/include/getdoc.php?id=191&article=52&mode=pdf) (2005), [Sturgess and Nouwens](http://tojde.anadolu.edu.tr/tojde15/articles/sturgess.htm) (2005), and [Jones, Luck, McConachie and Danaher](http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/Brake/) (2005)
 
 I don't think these flaws are unique to CQU. I've seen little evidence of other Universities having adoption procesess that are significantly better. They all seem, to a less or greater extent, seem to suffer from the same fatal flaws. The following is my attempt to identify and talk about what some of those flaws are and, because I'm an academic who has to publish, provide a "neat" framework to encapsulate them.

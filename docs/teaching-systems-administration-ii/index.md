@@ -4,9 +4,6 @@ date: 2009-01-02 02:04:52+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Teaching Systems Administration II, SAGE-AU’95, Wollongong.
 
 ## Abstract

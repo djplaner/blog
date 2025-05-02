@@ -159,9 +159,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following bit of pseudo-code is from van Dam (1999) and strongly matches my experience with educational technology, especially within universities.
 
 `for each new technology {    euphoria and hype     struggle to produce material for the new medium     mature judgement     disappointment and cynicism     wait for the next technology that will be the answer }`

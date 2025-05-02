@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Two additional problems
 
 - Support for SSL - a student tried to register a URL with https: and the system said couldn't retireve the URL. Need to add support for SSL or improve the error message.

@@ -66,9 +66,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In my last post I pointed to a talk by Postman that outlined [five things we should know about technological change](http://www.mat.upm.es/~jcm/neil-postman--five-things.html). This list has resonated me due to my involvement with elearning within universities and feelings that it is failing, often due to naive views of how technology can be implemented and what effects it will have on teaching and learning. This post continues/starts an attempt to make connections with Postman's list and elearning.
 
 ### Has elearning failed? Zemsky/Massey versus Sloan-C

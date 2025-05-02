@@ -6,9 +6,6 @@ tags: ['lms']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Not unlike many institutions, at some stage in their use of e-learning, [CQU](http://www.cqu.edu.au/) finds itself in the perceived position of having two learning management systems (LMS):
 
 1. [Webfuse](http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/ISDT_elearning/) - a locally produce system; and

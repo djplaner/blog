@@ -70,9 +70,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Tomorrow morning I have the opportunity to participate in a Skype session around a nascent project looking at how pre-service teachers might be aided and abetted in the creation of professional networks and subsequently learning more about their new profession. It's likely that my description of the project doesn't capture the full diversity of views, as mentioned the project is still in its formative stages. The following is an attempt to gather some of my thoughts about the project.
 
 ### Origins

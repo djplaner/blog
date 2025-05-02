@@ -67,9 +67,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently working on the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) as part of [my thesis](/blog2/research/phd-thesis/). One of the sections of the People component will be "People and cognition". It will seek to illustrate that people are not rational decision-makers, that we have all sorts of significant flaws in how we make decisions and that these flaws significant impact upon the implementation and practice of e-learning (the topic of the thesis).
 
 In writing another blog post I visited the [Wikipedia article on conformation bias](http://en.wikipedia.org/wiki/Confirmation_bias) and found out about ["Tolstoy syndrome"](http://en.wikipedia.org/wiki/Confirmation_bias#Tolstoy_syndrome) from which the following two quotes come.

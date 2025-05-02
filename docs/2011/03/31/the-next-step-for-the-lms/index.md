@@ -31,9 +31,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post draws on [this article](http://techcrunch.com/2011/03/29/google-talk-guru/) about Google's Talk Guru to argue the need for systems that support people at the point of them carrying out some task.  
   
 I think this is one of the more interesting possibilities as the next step/enhancement for an LMS. In fact, it's one of the few benefits I can see for keeping some sort of centralised/institutional LMS.  

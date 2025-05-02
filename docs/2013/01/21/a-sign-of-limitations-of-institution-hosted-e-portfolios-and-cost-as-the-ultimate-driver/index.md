@@ -134,9 +134,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 E-portfolios have increasingly been seen as a good thing. A welcome innovation in assessment practices that show evidence of institutions improving their learning and teaching. At the same time, there's been an increasing question about whether a student's e-portfolio should be hosted on an institutionally owned system. Various questions arise, including
 
 - What happens when the student, as many often do, start studying at another institution?

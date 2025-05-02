@@ -57,9 +57,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the outlines the core of the argument used in a talk to folk at UniSA today titled ["The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning"](/blog2/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/). The argument is that the mindset underpinning the implementation of institutional e-learning within Universities focuses on widespread reuse across an institution (and sometimes beyond). As a result institutional e-learning has a tendency to remove considerations of context, which in turn reduces/removes any chance of learners and teachers perceiving any usefulness or ease-of-use from the provided systems and processes.
 
 The end result is that rather than enabling high quality learning experiences, institutional e-learning practices are [creating sediment](http://blog.edtechie.net/vle/the-vle-isnt-the-problem-the-sediment-is/) that clogs up any attempt to create high quality learning experiences. The following offers on possible explanation for why this is the case and offers a possible solution.

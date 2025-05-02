@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [last bit of BIM work](/blog2/2009/12/20/bim-savingmanipulating-rss-files/) resulted in getting the show student details screen up and going, mostly. Any more of these screens will draw on, at least in part, other data from other tables. Time to get those populated. This will be done using data from BAM currently being used.
 
 ### Creating the table

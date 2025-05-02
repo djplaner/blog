@@ -47,9 +47,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 For various reasons I am feeling frustrated with the inertia of systems.
 
 I work at a place where the Managed Operating Environment must retain an old version of the Internet Explorer web browser because their massive, expensive, not so user friendly Enterprise Resource Planning System has a web interface that isn't compatible with more recent Web browsers.

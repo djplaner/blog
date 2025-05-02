@@ -55,9 +55,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 There are two versions of this talk.
 
 1. A joint presentation by [Professor Peter Albion](http://peter.albion.id.au/) and I [gave in May 2015 at USQ](http://www.usq.edu.au/learning-teaching/USQSalon/JonesAlbion).This version of the talk combines and builds upon ideas from two papers co-written with [Damien Clark](https://damosworld.wordpress.com/) and [Amanda Heffernan](https://twitter.com/chalkhands).

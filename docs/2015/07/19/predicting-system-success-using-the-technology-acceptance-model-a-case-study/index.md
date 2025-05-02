@@ -5,9 +5,6 @@ categories: ['elearning', 'publications', 'tam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Behrens, S., Jamieson, K., Jones, D., & Cranston, M. (2005). Predicting system success using the Technology Acceptance Model: A case study. In 16th Australasian Conference on Information Systems (Paper 70). Sydney. Retrieved from http://aisel.aisnet.org/acis2005/70/
 
 ## Abstract

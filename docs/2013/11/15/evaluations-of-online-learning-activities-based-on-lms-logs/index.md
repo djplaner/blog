@@ -54,9 +54,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some thoughts on Lam et al (2012). The abstract from the chapter is
 
 > Effective record-keeping, and extraction and interpretation of activity logs recorded in learning management systems (LMS), can reveal valuable iriformation to facilitate eLearning design, development and support. In universities with centralized Web-based teaching and learning systems, monitoring the logs can be accomplished because most LMS have inbuilt mechanisms to track and record a certain amount of information about online activities. Starting in 2006, we began to examine the logs of eLearning activities in LMS maintained centrally in our University (The Chinese University of Hong Kong) in order to provide a relatively easy method for the evaluation of the richness of eLearning resources and interactions. In this chapter; we. 1) explain how the system works; 2) use empirical evidence recorded from 2007 to 2010 to show how the data can be analyzed; and 3) discuss how the more detailed understanding of online activities have informed decisions in our University.

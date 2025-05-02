@@ -24,9 +24,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've only listed to some of the audio of this presentation, and from that experience, watching the video is probably the advised approach.  
   
 I find this interesting because of how it undermines the smug confidence of some folk who are so certain that they are objectively correct. That they are logical, objective and unbiased. It shows how the language you speak does appear to radically influence how we see the world.  

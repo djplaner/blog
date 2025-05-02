@@ -4,9 +4,6 @@ date: 2016-12-19 01:07:56+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This will (hopefully) be my last post on the [wordpress.com](http://wordpress.com) hosted version of this blog. Goodbye wordpress.com.
 
 I'm biting the bullet and going self-hosted with [Reclaim Hosting](https://reclaimhosting.com/). Hello Reclaim Hosting.

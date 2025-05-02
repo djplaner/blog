@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's almost a month since [the last post](/blog2/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/) from the first draft of my thesis. So, after much time away here's the next installment. It's probably rougher than previous versions - which says something - I'm still getting back into the swing of things.
 
 The following is meant to be a description of learning theory within the context of e-learning at universities. It's not a complete or in-depth examination of learning theories. Instead, it tries to illustrate that what we know about learning theory (in the broadest possible definition) is hugely complicated, diverse and ever changing. The intent is to argue that this is in direct contrast to [characteristics](/blog2/2009/09/02/lessons-from-product-for-e-learning/#inappropriate) of the common approach taken by universities to support e-learning. That is, an approach that focuses on stability and inflexibility.

@@ -111,9 +111,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In an attempt to reignite progress on my PhD and prepare myself for attending the [4th Information Systems Foundations Workshop](http://infs.anu.edu.au/workshop/) next week. The workshop title is "Information systems Foundations: Answering the Unanswered Questions about Design Research". The workshop is organised by my PhD supervisor and will have a number of "names" from the IS community there.
 
 Over a number of posts I'm going to try and summarise some of the recent papers on design research within information systems in order to force me to read/engage with them and how they can fit with what I've been thinking about. Eventually this should lead to a post explaining those ideas and an ability for me to describe those ideas at the workshop and eventually into a paper and/or chapter in the thesis.

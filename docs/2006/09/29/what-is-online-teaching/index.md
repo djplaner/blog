@@ -5,9 +5,6 @@ categories: ['elearning', 'web-20-course-sites', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What is online teaching? asks
 
 - What is involved in online teaching?

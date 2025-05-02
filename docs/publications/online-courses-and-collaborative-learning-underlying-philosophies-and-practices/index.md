@@ -4,9 +4,6 @@ date: 2008-12-31 14:12:31+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Tim Roberts, Celia Romm, David Jones, Collaborative Learning: Underlying Philosophies and Practices, IAIM 2000, Brisbane, 8-10 Dec 2000
 
 **Key Words**: collaborative learning, online delivery, study groups, web-based courses, peer learning

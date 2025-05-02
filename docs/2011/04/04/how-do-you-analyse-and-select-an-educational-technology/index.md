@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The ICTs for Learning Design course I'm taking has at least four weeks structured around looking at 4 different groups of technologies where each group is made up of multiple examples. For example, the first group is "Online spaces" and includes blogs, wikis and "websites" (e.g. [Weebly](http://weebly.com/)). We are meant to explore and experiment with these technologies and then select one to analyse. The analysis is intended to
 
 > contextualise theoretical knowledge into individual teaching areas/subjects.

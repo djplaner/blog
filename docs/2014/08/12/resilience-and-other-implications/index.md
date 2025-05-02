@@ -47,9 +47,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Unavailable by David T Jones, on Flickr](https://farm4.static.flickr.com/3867/14704504949_e812261eed_m.jpg)](https://www.flickr.com/photos/david_jones/14704504949/)
 
 What passes for institutional e-learning within Universities appears to be largely stuck in the "enterprise", centralised mindset of the first decade of this century. As the technological environment is changing it is increasingly appearing more and more clunky. This creates challenges for those stuck with these systems and provides impetus to move beyond the confines of institutional systems. An impetus given more kick along for me by the last couple of days observing the difference between the centralised, institutional systems and the ad hoc collection of external systems I rely upon to teach.

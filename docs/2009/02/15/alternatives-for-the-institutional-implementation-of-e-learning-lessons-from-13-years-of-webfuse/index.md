@@ -103,9 +103,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is a submission to a conference later in the year. The conference has its own specific requirements for submissions, hence the structure of this post. In some cases I've left in quotes or _italics_ the directions given by the conference as to the content of the submission. It's still a work in progress. Submission is not due for a few days. More than keen to hear suggestions and criticisms.
 
 The submission was accepted and will be [presented at EDUCAUSE'09](http://www.educause.edu/E09+Hybrid/EDUCAUSE2009FacetoFaceConferen/ELearningImplementationAlterna/176134) on the 6th November, 2009. The slides should be here before the presentation.

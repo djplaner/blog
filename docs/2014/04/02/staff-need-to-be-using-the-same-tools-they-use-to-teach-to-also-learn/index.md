@@ -50,9 +50,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The title of this post is from a presentation by someone at a University responsible for the institutional e-learning systems. It doesn't matter which university because I imagine it's a line that has been used at quite a few of them. It does matter that I think it's completely wrong-headed and illustrates perfectly the problem with institutional e-learning systems and the processes and people that support them.
 
 They are designed to ensure people use the provided systems, rather than what's best for learning.

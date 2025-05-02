@@ -32,9 +32,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Following up on my [previous suggestion](/blog2/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/) that High-school classes in information technology may be turning students off IT, I decided to do a quick literature search to see what was out there. Ain't procrastination grand. Here's what I found. I haven't had a chance to read them, back to the assignment.
 
 What I find interesting is that almost all of them are initially focused on the perceptions of girls. My feel is that there's a significant percentage of boys that fit into a similar category.

@@ -52,9 +52,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to describe early attempts at developing a framework for evaluating existing and developing new interventions aimed at improving learning and teaching within universities. It builds on some ideas from an [earlier post](/blog2/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/).
 
 Sorry, but the first couple of sections seem necessary to convince myself that this is connected with some of my earlier thinking.

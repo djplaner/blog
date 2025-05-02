@@ -52,9 +52,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a development log of an attempt to fix one aspect of the Peoplesoft gradebook used at my current institution.
 
 # Why and what?

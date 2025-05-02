@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm in the throws of finalising the second last bit of data analysis [for the thesis](/blog2/research/phd-thesis/). For this I'm trying to examine the level of feature adoption within courses supported by the Webfuse system (the main product for the the thesis). The following describes an attempt to formalise the process for this evaluation.
 
 This has been under construction for almost a week. It's complete. The following just documents what was done. Probably not all that interesting. Will present some results in the next post.

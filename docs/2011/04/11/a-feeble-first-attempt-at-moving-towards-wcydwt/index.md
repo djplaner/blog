@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Late last week I was thinking about how I could develop something approaching a [WCYDWT lesson](http://blog.mrmeyer.com/?category_name=what-can-you-do-with-this) for mathematics. It is something I am going to have to do very soon now. As it happens, in looking for the WCYDWT link, I came across [this Diigo group](http://groups.diigo.com/group/wcydwt) that I am going to have to return to.
 
 The following is a first attempt. Actually, it's the first example of me seeing something in my everyday life that I can connect to the curriculum and see some ideas for developing a lesson. Given that I am going to have to be developing lessons soon, I'm hoping to get into this practice more.

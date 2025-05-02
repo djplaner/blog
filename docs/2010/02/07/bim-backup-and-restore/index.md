@@ -50,9 +50,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Just about done with development of version 1.0 of the module. A couple of important, but hopefully straight forward tasks to do. One of these is adding the ability for BIM activities to be backed up and restored. That's the purpose of this post. The plan is to find out how it is meant to work and plan how it can be done for BIM.
 
 At this stage, I've worked out the basics of how this works. I think. I haven't implemented it, so new wrinkles may appear. Current status is to defer work on this and focus on that functionality required for immediate use. This can be added in a little while.

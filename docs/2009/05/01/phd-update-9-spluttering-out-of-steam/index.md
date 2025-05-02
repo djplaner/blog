@@ -22,9 +22,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's that time of week again, time to report on the progress of the PhD. This week has been one of those weeks where progress has not been as much as desired, but perhaps isn't quite as bad. As often happens, [last week's](/blog2/2009/04/24/phd-update-8-steaming-ahead/) optimistic claims of "speeding up" spluttered out a bit.
 
 There has been some news on the work front which may remove some of the more troubling aspects of the last 6 months or so. So this may help speed things up. At the very least, it removes yet another excuse.

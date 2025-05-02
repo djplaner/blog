@@ -5,9 +5,6 @@ categories: ['elearning', 'highereducation']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Dave Cormier has [presented 8 hypotheses](http://davecormier.com/edblog/2010/08/01/open-learning-what-i-have-learned/) summarising what he's learned about open learning. I've been meaning to post about it for a day or so, there is some really good stuff here. Some really important insights that formal education institutions need to think about, especially those wishing to ride the online learning revolution into the greener fields of growing student markets.
 
 I'm posting this now because [Stephen Downes has picked up](http://www.downes.ca/cgi-bin/page.cgi?post=53034) on the couple of sentences of Dave's post which I think summarise exactly why it will be very difficult for some formal educational institutions to even consider learning from Dave's hypotheses. Here's the quote from Dave's post

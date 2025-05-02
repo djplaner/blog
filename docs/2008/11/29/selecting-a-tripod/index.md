@@ -58,9 +58,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's been a week or so since I purchased the [new camera](/blog2/2008/11/21/starting-a-new-journey-and-hobby-photography/). Last weekend I had to buy Aperture 2 for my Mac so I could easily pull the raw photos off the camera. Have been fairly happy with that purchase and the photos have [flowed](/blog2/2008/11/21/first-photo/).
 
 [![The Beautiful Wife](images/3049789388_7752103a2f_m.jpg)](http://www.flickr.com/photos/david_jones/3049789388/ "The Beautiful Wife by David T Jones, on Flickr")

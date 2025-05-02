@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Back in 2006 or so, I kicked off a process called REACT - Reflection, Evaluation and Collaboration in Teaching - which was aimed to improving the quantity and quality of the [scholarship of teaching and learning](http://en.wikipedia.org/wiki/Scholarship_of_Teaching_and_Learning) practiced at my university.
 
 For various contextual reasons (and perhaps some inherent in the project) it didn't go very far. The following are some of the resources developed for that project

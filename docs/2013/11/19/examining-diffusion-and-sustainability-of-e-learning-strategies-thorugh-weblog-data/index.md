@@ -73,9 +73,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some thoughts on Lam et al (2010). It's a paper from the same authors/research from which [I summarised an earlier paper](/blog2/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/).
 
 The abstract for Lam et al (2010) is

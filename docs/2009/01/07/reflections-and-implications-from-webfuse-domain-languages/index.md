@@ -5,9 +5,6 @@ categories: ['paperideas', 'webfusereflectionsimplications']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As I am currently [writing up the PhD](/blog2/research/phd-thesis/) I have banned myself from working on any new papers. However, as I work through the PhD I will get ideas for papers so rather than waste time writing them in full and even worse forget about them I'm going to try and write about them on the blog and categorise them appropriately. With the hope that post PhD I can come back and have a large collection of papers to write. Alternatively, I'll have a collection of dribble to laugh at.
 
 First cab off the rank is the idea of a "webfuse reflections and implications" paper. To some extent this would come from the last chapter of my thesis and capture some of the lessons, reflections etc learned from the 12 or so years working on the thesis and Webfuse (the artifact that arose from/created the thesis).

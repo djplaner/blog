@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a first draft of Assignment 1 for the ICTs for Learning Design course I'm taking. Am wondering how much it will change by Friday (submission date). If only to reduce it by about 1500 words to meet the maximum word count.
 
 ### Introduction

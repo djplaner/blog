@@ -6,9 +6,6 @@ tags: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following provides access to range of resources associated with the institutional process for supporting USQ staff considering applying for the [2017 Australian Awards for University Teaching (AAUT)](https://www.education.gov.au/how-nominate-australian-awards-university-teaching). The process started with two sessions
 
 - A information session titled: Am I (or my team) ready to apply?

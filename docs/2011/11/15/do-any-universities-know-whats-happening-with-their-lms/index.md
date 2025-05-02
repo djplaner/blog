@@ -349,9 +349,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Just over two years ago some colleagues and I wrote up some initial exploration of the logs from the different Learning Management Systems (LMS) used by a university. The initial explorations included:
 
 - An initial examination of feature adoption.  

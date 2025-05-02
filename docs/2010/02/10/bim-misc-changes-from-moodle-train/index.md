@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Currently testing BIM on the training/testing environment of my current institution. This is where I find all of the problems from the institution's non-vanilla implementation of Moodle.
 
 ### Manage marking - not all markers - DONE

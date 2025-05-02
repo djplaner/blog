@@ -184,9 +184,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I have a problem. I'm hoping you can solve it by pointing to an existing tool or collection of tools that might solve it. I'm pretty sure there will be prior work in this area (e.g. [social bookmark visualisation](http://www.solutionwatch.com/252/visualizing-delicious-roundup/), the metadata/library crowd, knowledge management, networks, the visualisation and I suppose even data analytics groups, and maybe the connectivist folk), even if it isn't explicitly connected to teaching.
 
 ### The problem

@@ -52,9 +52,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the major tools used (and mis-used) in most university-based e-learning is the discussion forum, or mailing list, or some other form of software for managing/creating multi-person dialogue. The [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) is attempting to figure out and experiment with social media tools as a way to improve existing practice. An obvious need is to identify if, how and with what limitations these tools can be used to manage/create multi-person dialogues of the sort most academic staff associate with discussion forums.
 
 [![](images/93840305_b6ebb22c57_m.jpg)](http://flickr.com/photos/sumit/93840305/)

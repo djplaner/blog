@@ -83,9 +83,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the activities for the first week of the [lak11 MOOC](http://learninganalytics.net) is to get started with using [Hunch](http://hunch.com) and reflect on it as a model for learning.
 
 ### What is Hunch?

@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 It looks like we're going to start playing around with the [Indicators project](http://indicatorsproject.wordpress.com/) again. So it's time to start reading up a bit on the learning analytics literature and see where the interesting work is. First up is
 
 > Phillips, R., Maor, D., Cumming-Potvin, W., Roberts, P., Herrington, J., Preston, G., Moore, E., et al. (2011). [Learning analytics and study behaviour: A pilot study](http://researchrepository.murdoch.edu.au/6751/1/learning_analytics.pdf). In G. Williams, P. Statham, N. Brown, & B. Cleland (Eds.), ASCILITE 2011 (pp. 997-1007). Hobart, Tasmania.

@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Today is the day that BIM get's handed off to the folk of my institution's central IT division and from there onto [Netspot](http://netspot.com.au/) who will be ensuring that it is "safe" for IT to install it on the institution's live Moodle instantiation. In preparation for the hand over, I've done one last test and identified some issues to fix. This post documents that work.
 
 ### Process student feed on view - DONE

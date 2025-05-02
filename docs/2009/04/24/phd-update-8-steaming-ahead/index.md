@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The week since my last [PhD update](/blog2/2009/04/17/phd-update-7-a-fortnight-in-review/) has been a good one. The most productive (in terms of completed first drafts of thesis sections) since I started this series of updates. I feel I'm getting into a routine and slowly developing pragmatic ideas and techniques for producing a thesis that is "good enough". In reality, I'm probably still to far up the scale towards "too good", but I'm getting there. It's a journey.
 
 ### What I've done

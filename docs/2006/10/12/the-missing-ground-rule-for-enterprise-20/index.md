@@ -57,9 +57,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In his [MIT Sloan Management Review article](http://sloanreview.mit.edu/smr/issue/2006/spring/06/), "Enterprise 2.0: The Dawn of Emergent Collaboration", [Andrew McAfee](http://blog.hbs.edu/faculty/amcafee/) cites two "intelligent ground rules" that people building Enterprise 2.0 technologies are following
 
 1. Making sure the applications are easy to use.

@@ -5,9 +5,6 @@ categories: ['chapter-4', 'chapter-5', 'design-theory', 'elearning', 'indicators
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I've been back working at the PhD thesis, hopefully down to months before submission. At this stage, I need to work on the 2 chapters that are reflecting on the usage of Webfuse during two periods: 1996 through 1999 and 1999 through 2004 (and a bit later). In doing some, the main tasks I need to achieve are:
 
 - Show the difference in usage between the first and second stages.

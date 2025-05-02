@@ -5,9 +5,6 @@ categories: ['bam', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [BAM](/blog2/research/bam-blog-aggregation-management/) is a little project of mine playing at the edges of post-industrial e-learning. Since 2006 it's been relying on students creating and using blogs provided by external service provides - mostly Wordpress.com.
 
 This reliance on external service providers has been one of the "problems" raised by folk who don't like the idea. They fear that because the university doesn't own the technology or have a contract with the service provider there is no certainty about the quality of service. That the students and the staff will be left high and dry as the service is yanked in the middle of term.

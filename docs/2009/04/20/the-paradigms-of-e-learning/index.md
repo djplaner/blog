@@ -278,9 +278,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently working on chapter 2 of my [thesis](/blog2/research/phd-thesis/) - the literature review. Mine is using the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) as the organising structure and also as part of the contribution of the thesis. I'm currently working on the "Past Experience" component of the Ps Framework. Recently, I posted the [History of technology mediated learning](/blog2/2009/04/17/a-history-of-technology-mediated-learning/) section. It provides a brief overview of technology-mediated learning prior to e-learning - defined as using the Internet.
 
 In writing that section it became readily apparent from the waves of different technology-mediated learning that nothing is ever forever, and yet many of the folk writing within a particular wave seem to think it will. At the same time, I've been reading and observing folk talking about the current wave of e-learning focusing on learning management systems (LMS) in the same way. The assumption that there is no other way to approach e-learning.

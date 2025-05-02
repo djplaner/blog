@@ -190,9 +190,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post serves as a brief placeholder of ideas and also to remind me to follow up further on [this paper](http://www.springerlink.com/content/j44u33383v118573/) (Cavallo, 2004). The paper seems to offer a very interesting and informed perspective on issues that are of great interest to me, including the "Process" used in implementing e-learning within Universities and the ["grammar of school"](/blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/).
 
 Even though I've only skimmed the paper, I would suggest that anyone currently involved in a Moodle implementation should really take the time to read this paper.

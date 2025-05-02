@@ -6,9 +6,6 @@ coverImage: 23776579774_bb775a0f1f_o-scaled.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Benbya et al (2020, p. 3) argue that digitial technologies do make a difference, including this point (among others)
 
 > Digital technologies not only give rise to complex sociotechnical systems; they also distinguish sociotechnical systems from other complex physical or social systems. While complexity in physical or social system is predominantly driven by either material operations or human agency, complexity in sociotechnical systems arises from the continuing and evolving entanglement of the social (human agency), the symbolic (symbol-based computation in digital technologies), and the material (physical artifacts that house or interact with computing machines).

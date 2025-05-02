@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [The unit](http://cddu.cqu.edu.au/) I work with received some good news on Friday. We were told that the proposal for looking at how CQU could adopt and adapt Personal Learning Environments had been successful. We'll be receiving a significant influx of funds so that over the next two years we can take some significant steps to making the use of PLEs an almost regular experience for CQU staff and students.
 
 It's still very early days and we're still figuring out just how we'll approach this. More information about the project is available on the [CDDU wiki](http://cddu.cqu.edu.au/index.php/Personal_Learning_Environments_%40_CQU) including the original [proposal](http://cddu.cqu.edu.au/index.php/PLE_Proposal).

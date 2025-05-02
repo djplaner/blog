@@ -5,9 +5,6 @@ categories: ['moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is some explorations of the technology behind Moodle to see how [the mockups of a Book module search function](/blog2/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/) might be implemented. Building my own knowledge of how it works and testing whether it might be possible. It's largely an exploration of how the Search forum block works on the assumption that mirroring that will be a reasonable way to implement a search facility for the Book module.
 
 Two parts to this. First, a look at how the Search forum block is implemented. Second, some rough exploration of how what might need to be done for the Search book block.

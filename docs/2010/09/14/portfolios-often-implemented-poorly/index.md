@@ -5,9 +5,6 @@ categories: ['bim', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm slowly reading through [How people learn](http://www.nap.edu/openbook.php?record_id=6160) and thinking about how it applies to my own practice and what I see within higher education. This post arises from this paragraph
 
 > Portofolio assessments are another method of formative assessment. They provide a format for keeping records of students' work as they progress throughout the year and, most importantly, for allowing students to discuss their achievements and difficulties with their teachers, parents and fellow students (e.g. Wiske, 1997; Wolf, 1988). They take time to implement and **they are often implemented poorly** - portfolios often become simply another place to store student work but no discussion of the work takes place - but used properly, they provide students and others with valuable information about their learning progress over time.

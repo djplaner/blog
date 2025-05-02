@@ -5,9 +5,6 @@ categories: ['exploring', 'moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Continuing the exploration of how the Moodle Book module is being used, this post picks up from the [last](/blog2/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/) and will
 
 - Revisit the who is updating/creating posts, including data from the second half of 2015.

@@ -6,9 +6,6 @@ tags: ['course', 'courses', 'edufeedr', 'participant', 'publish']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Via Scott Leslie's [free and learning composition](http://www.edtechpost.ca/free-and-learning/) comes the news that EduFeedr is up and going.  
   
 EduFeedr is somewhat related to [BIM](/blog2/research/bam-blog-aggregation-management/) in that it aggregates blogs posts from participants in a course and allows tracking of posts against set assignments.  

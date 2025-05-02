@@ -6,9 +6,6 @@ coverImage: 30189914217_65178b31dd_k-e1617058296261.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is sparked by Twitter conversations arising from a [tweet from @neilmosley5](https://twitter.com/neilmosley5/status/1375704895853096961) quoting from [this article](https://www.universityworldnews.com/post.php?story=2019112809050642) by [Tony Bates](https://www.tonybates.ca/). In particular, pondering [a tweet from @gamerlearner](https://twitter.com/gamerlearner/status/1376322969417314304) where the idea is that a "consistent requirement for educators in HE to have some kind of formal teaching qual" will not only help motivate academics "to take time out to learn how to teach better" and generally value teaching more.
 
 ![](images/2021-03-30-08-57-17.png)

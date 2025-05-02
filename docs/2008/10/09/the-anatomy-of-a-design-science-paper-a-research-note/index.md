@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 (**A Suggested Structure for a Design Science Article or Thesis**)
 
 Shirley Gregor and David Jones

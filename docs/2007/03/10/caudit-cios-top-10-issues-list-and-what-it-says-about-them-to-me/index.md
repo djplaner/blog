@@ -5,9 +5,6 @@ categories: ['elearning', 'information-systems']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 According to their website [CAUDIT](http://www.caudit.edu.au/) is described as
 
 > The Council of Australian University Directors of IT (CAUDIT), includes the CIOs or IT Directors of every university in Australia, New Zealand, Papua New Guinea and Fiji, as well as the CIO’s of prestigious research institutions, CSIRO and AIMS.

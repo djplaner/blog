@@ -5,9 +5,6 @@ categories: ['edu8117']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 One of the other participants shared her current position with [NGL](http://netgl.wordpress.com/)
 
 > I've also found it a bit tricky to get my head around all the components I need to cover off on in my blogs for assignment 1, as there seems to be a lot of different pieces we need to address. Hoping this will become a bit clearer to me as I go along.

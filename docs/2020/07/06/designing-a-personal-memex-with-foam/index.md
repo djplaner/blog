@@ -7,9 +7,6 @@ coverImage: 49997112801_e233541a82_k-e1593997890516.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 **Designing potential use of Foam for PKM**
 
 For years I’ve been annoyed at the lack of structure in my approach to managing and leveraging information (it never really becomes knowledge). The process through which I [Seek > Sense > Share](http://jarche.com/2014/02/the-seek-sense-share-framework/) information/knowledge has been ad hoc, disorganised and broken.

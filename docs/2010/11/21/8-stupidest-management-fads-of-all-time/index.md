@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Increasingly I think most of management is driven by fads. Even if the "fad" has some good underlying principles, or is perhaps simply a bit better than previous options. It is still implemented by management as a fad. As if we only implement this successfully, we will have the silver bullet that solves all our problems. Within higher education I have previously argued that [open source learning management systems](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) are one of the more recent fads.
 
 > _Aside:_ and it becomes a self-fulfilling prophecy. e.g. moving to an open source LMS needs senior management buy in. Which means the implementation of the open source LMS must be seen as a success. So, even if the implementation fails miserably (e.g. first term of go live the new LMS doesn't play well with the chosen database and falls over if more than 5 people login resulting in a need to pay more for an external consultant to fix the problem) the implementation team will receive an organisational award, because it has to be seen as a success.

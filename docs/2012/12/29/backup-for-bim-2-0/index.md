@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is a journal of the attempt to bring [BIM 2.0's](/blog2/research/bam-blog-aggregation-management/) backup functionality into line with the new approach in Moodle 2.x.
 
 Done. Appears to be all working. Will work on restore next and do some testing.

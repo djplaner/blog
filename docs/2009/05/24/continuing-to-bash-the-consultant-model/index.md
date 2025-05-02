@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently on a bit of a wave with bashing the consultant model of change, i.e. a model by which an "expert" from outside comes into a context performs or directs the performance of some analysis and evaluation of the context and then, drawing on their vast knowledge, recommends some ways forward. I started my "bashing wave" in [a post](/blog2/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/) comparing this model with the "fat smoker" problem (telling them what they already know isn't sufficient to create change) and then continued with [this inspiration from Dilbert](/blog2/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/).
 
 ### Aside - Dilbert's latest contribution

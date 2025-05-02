@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Part of the rationale for developing and using [BAM](/blog2/research/bam-blog-aggregation-management/) had its origins in this unpublished paper (Jones, 2005). A part of the paper talks about minute papers, that content is reproduced below.
 
 ### Minute papers

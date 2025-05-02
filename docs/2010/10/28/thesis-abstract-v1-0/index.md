@@ -46,9 +46,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is yet another sign that [the thesis](/blog2/research/phd-thesis/) is finally getting close to submission. The following is the second version of an abstract of the thesis. There have been some changes, feedback always welcome.
 
 ### Abstract

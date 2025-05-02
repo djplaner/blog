@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 One of the requirements in the Web 2.0 course site for Creative Futuring is to have a podcast that both students and staff can contribute to. The intent is not so much that they will create their own resources but that they will tag interesting podcast episodes that they come across on the web.
 
 The plan is for the students to be already using [Del.icio.us](http://del.icio.us) so it seemed sensible to me that there should be a way to harness that existing process. A little Googling reveals this [approach](http://weblogg-ed.com/2005/delicious-and-podcasting/) using Feedburner. What follows is my trial at using this approach.

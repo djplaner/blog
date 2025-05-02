@@ -5,9 +5,6 @@ categories: ['quotes']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Doing some reading and came across the following quote which I had to store for further use. It is quote in Chua (1986) and is ascribed to Berlin (1962, p 19)
 
 > The history of thought and culture is, as Hegel showed with great brilliance, a changing pattern of great liberating ideas which inevitably turn into suffocating straightjackets, and so stimulate their own destruction by new emancipatory, and at the same time, enslaving conceptions. The first step to understanding of men is the bringing to consciousness of the model or models that dominate and penetrate their thought and action. Like all attempts to make men aware of the categories in which they think, it is a difficult and sometimes painful activity, likely to produce deeply disquieting results. The second task is to analyse the model itself, and this commits the analyst to accepting or modifying or rejecting it and in the last case, to providing a more adequate one in its stead.

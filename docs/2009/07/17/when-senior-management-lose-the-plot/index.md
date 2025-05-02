@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently working on the "Leaders and managers" part of the People component of the Ps Framework for my thesis. As part of the reading for that section I came across the following quote. It turns out I won't use it directly in the thesis and I need to save it for future work/reference. I'm also taking the opportunity to track down and record a bit more information about it.
 
 To me, it summarises the key problem and point about university leadership. Over the years I've been an observer of too much "eating of the seed-corn".

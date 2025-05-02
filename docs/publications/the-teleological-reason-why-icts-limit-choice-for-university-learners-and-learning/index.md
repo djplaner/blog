@@ -99,9 +99,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones and Nona Muldoon
 
 ### Abstract

@@ -5,9 +5,6 @@ categories: ['design-theory', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Yippee!! Some actual thinking and writing about thesis related material.
 
 ### Origins

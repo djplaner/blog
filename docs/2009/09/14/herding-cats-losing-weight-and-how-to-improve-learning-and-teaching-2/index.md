@@ -159,9 +159,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 On the 24th of September, 2009 I gave a presentation at [CQUniversity](http://www.cqu.edu.au) entitled "Herding cats, losing weight and how to improve learning and teaching". The resources that arose from that presentation are included below. At the moment, that includes:
 
 - the abstract

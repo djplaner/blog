@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a description of how I've gone about revising the [Week 1 material](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/) for EDU8117, Networked and Global Learning. The intent is to demonstrate how a tool can be used for something a little different.
 
 ### The problem

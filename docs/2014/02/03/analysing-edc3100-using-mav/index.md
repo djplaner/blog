@@ -6,9 +6,6 @@ tags: ['mav']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Now that I have the [Moodle Activity Viewer (MAV)](/blog2/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/) working, I can [continue the analysis](/blog2/2014/01/22/what-should-be-covered-in-edc3100/) of the course I teach, [EDC3100, ICTs and Pedagogy](http://www.usq.edu.au/course/synopses/2014/EDC3100.html). This post documents some reflections on the existing collection of activities and resources in the course informed somewhat by the insights provided by MAV.
 
 [This rather long image](http://www.flickr.com/photos/david_jones/12259871663/sizes/o/) shows MAV's modification of the semester 1 course site for EDC3100. In the following I'll be focusing on the Semester 2 offering as its the latest and greatest version. The shortcoming of analysing this offering is that it's only taken by on-campus students.

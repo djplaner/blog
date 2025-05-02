@@ -63,9 +63,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's the start of week 2 of my studies in a post-graduate teacher education program. Time for a bit of reflection and planning.
 
 ### The experience so far

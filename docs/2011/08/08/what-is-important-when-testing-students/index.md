@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a quote from Steffy and English (1997, p. 6) cited in Ramirez (1999, p. 206) about schools from a standardised test in the USA.
 
 > Eighty-nine percent of the variance of the scores was explained by four variables: the number of parents living in the home, the parents’ education, community type, and state poverty rate…Test reflect wealthy disparity…as opposed to the actual taught school curriculum. On unaligned tests, no school-related variable predicts statistically significant scores. the

@@ -32,9 +32,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is a continuation of an [earlier exploration](/blog2/2016/09/01/exploring-frameworks-to-understand-oeroep/) into extant "frameworks" to understand OER/OEP.
 
 ## The OPAL OEP guide

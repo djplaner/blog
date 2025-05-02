@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a [recent post](/blog2/2009/07/31/some-early-results-from-webfuse-evaluation/) I messily wrote about the start of the process of evaluating the use of Webfuse for my thesis. This post takes the ideas/process from that post and applies it to the course websites produced by Webfuse from 2006 through 2007. The data in here is in a similar time frame to the work being done by Col and Ken on their [indicators project](http://beerc.wordpress.com/2009/07/28/quick-indicators-update-2/).
 
 ### Background

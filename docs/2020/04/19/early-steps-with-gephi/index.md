@@ -6,9 +6,6 @@ coverImage: lantana-scaled.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Playing with Gephi
 
 A friend is in the final throes of her PhD and wants to visualise some of her qualitative findings using a network diagram. I’ve skirted around network visualisation without ever really doing anything but wanted to learn more. Following documents and reflects on my explorations and experiments trying to help out. The main focus being on figuring out how to produce a visualisation that meets requirements.

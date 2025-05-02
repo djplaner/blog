@@ -78,9 +78,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Today a mate [posted to his blog](http://beerc.wordpress.com/2011/02/13/start-of-a-small-project/) about a small project he's involved with. The context of this project seems to be a good opportunity to comment on the potential flexibility of open source LMS and the limits of that flexibility within an institutional context. It's also an attempt to link it back to the design theory described in [my thesis](/blog2/research/phd-thesis/) (if you want more of the theory behind the following, look at the thesis).
 
 The following uses Moodle as an example, but I believe that similar limitations exist regardless of the open source LMS. This is in part because a significant limit on the flexibility is not the LMS, but instead the institutional governance processes and associated factors..

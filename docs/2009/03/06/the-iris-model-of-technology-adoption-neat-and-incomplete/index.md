@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 George Siemens has a [post](http://www.elearnspace.org/blog/2009/03/05/iris-model/) introducing the IRIS model of technology adoption - image shown below.
 
 !!! warning "Broken image link"

@@ -84,9 +84,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Was skimming through Mark Drechsler's [slide deck from THETA 2013](http://www.slideshare.net/mark.drechsler/theta-presentation-drechsler) when I came across the following slide.
 
 [![Analytics Scope](images/8635564725_aa4fe8978c.jpg)](http://www.flickr.com/photos/david_jones/8635564725/ "Analytics Scope by David T Jones, on Flickr")

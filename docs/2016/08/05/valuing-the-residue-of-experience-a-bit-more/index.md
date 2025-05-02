@@ -5,9 +5,6 @@ categories: ['edc3100', 'edu8117']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For a while now I have been drawing on the following quote from Riel and Polin (2004)
 
 Over time, the residue of these experiences remains available to newcomers in the tools, tales, talk, and traditions of the group. In this way, the newcomers find a rich environment for learning. (p. 18)

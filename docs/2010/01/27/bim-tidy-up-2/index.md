@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Some more tidying up of BIM to get it ready for release.
 
 ### Error messages on student details

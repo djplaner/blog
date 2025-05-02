@@ -5,9 +5,6 @@ categories: ['research']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So, I have a problem. What was a wonderful open source product was bought by a big publisher. I'm an open kind of guy so this has always been a bit disquieting. It recently got a bit worse.
 
 https://twitter.com/djplaner/status/863934554062573568

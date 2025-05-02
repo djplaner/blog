@@ -5,9 +5,6 @@ categories: ['ilecture', 'votapedia']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part of [this project](/blog2/2009/09/28/small-changes-in-lectures-ustream-votapedia/) I'm looking at playing with "clickers" that work via the web, twitter, mobile phones or some other medium that removes the physical limitations of traditional devices (i.e. you have to be in the room with the lecturer).
 
 The following will be a summary and description of a growing number of systems that I come across. Suggestions more than welcome.

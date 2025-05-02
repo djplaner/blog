@@ -77,9 +77,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm a fan of frameworks and taxonomies. Also known as theories for understanding (Gregor, 2006). It's the understanding part that I like. They provide, or at least good ones do, a leg up in understanding difficult concepts. As Mischra and Koehler (2006, p 1019) say
 
 > Having a framework goes beyond merely identifying problems with current approaches; it offers new ways of looking at and perceiving phenomena and offers information on which to base sound, pragmatic decision making.

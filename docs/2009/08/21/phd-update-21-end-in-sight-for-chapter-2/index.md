@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A bit of progress made on chapter 2 this week, sufficient to suggest that the end is nigh - at least for the first draft. That progress is in spite of only having limited time this week to work on the thesis because of work on Monday and having to baby sit the two boys on Wednesday.
 
 ### What I've done this week

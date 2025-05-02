@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 **Background Problem**
 
 Everytime someone is introduced to Webfuse they wonder why we haven't sold it, made it available to other organisations.

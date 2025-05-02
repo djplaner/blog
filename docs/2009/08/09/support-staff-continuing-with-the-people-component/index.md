@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm back to working on the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) for chapter 2 of [my thesis](/blog2/research/phd-thesis/). The [last post in the blog](/blog2/2009/07/17/leaders-and-managers-the-next-bit-of-people/) from this section was back in mid July and examined leaders and managers. This section moves onto "support staff". It's the last of the sections examining groups/roles associated with e-learning.
 
 ### Support staff

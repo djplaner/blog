@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In [the previous step](/blog2/2009/07/21/bam-into-moodle-step-3-some-initial-development/) I got to know a bit more about the Moodle code base, libraries and idioms. Even got to modify a bit of code - nothing much more complex than hello world. Time to continue that journey.
 
 ### Roles and capabilities

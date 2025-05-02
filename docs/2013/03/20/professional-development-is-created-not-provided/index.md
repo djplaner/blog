@@ -94,9 +94,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over recent weeks I've been so busy that I've largely ignored Twitter. To my detriment. A quick return to it this afternoon found me following two links via tweets from @palbion. The two links were
 
 1. [How effective is the professional development undertaken by teachers?](http://www.guardian.co.uk/teacher-network/teacher-blog/2012/mar/26/teacher-training-development), and

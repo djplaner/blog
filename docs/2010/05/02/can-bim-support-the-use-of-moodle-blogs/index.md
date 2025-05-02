@@ -62,9 +62,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### Problem
 
 [BIM](/blog2/research/bam-blog-aggregation-management/) is a Moodle activity module that helps academic staff manage the use of individual student blogs, where those blogs are hosted on the students' choice of blog service (e.g. Wordpress.com etc.). An in-built assumption/limitation in how BIM works is that each student's blog must be open to the world. If access to the blog is restricted, BIM can't mirror it.

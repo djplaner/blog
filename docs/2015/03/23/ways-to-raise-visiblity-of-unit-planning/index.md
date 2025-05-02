@@ -6,9 +6,6 @@ tags: ['edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The second assignment for [the course](http://www.usq.edu.au/course/synopses/2014/EDC3100.html) I'm currently teaching has a second assignment where learners are required to design a unit plan that uses ICT to amplify and transform student learning. Given the nature of the learners, their backgrounds,and the curriclum most use there is some significant scope and benefit in collaboration. Not as in group work, but as in seeing what each other are doing, making comments, and drawing inspiration. The following is an attempt to figure out how to encourage this a bit more. (There are 300+ of them spread throughout Australia and a few sprinkled further afield).
 
 Comment and suggestions are welcome. Though with short time frames, I'll probably go ahead with whatever I decide below. Some background, the institution/course uses Moodle as the LMS. The course uses the LMS heavily. Students are also required for the course to create their own individual blog (Google "edc3100 blog" for a taste) and use Diigo initially as a group resource, but also individually.

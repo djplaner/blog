@@ -92,9 +92,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones (University of Southern Queensland)
 
 Paper presented at [ASCILITE'2012](http://www.ascilite2012.org/)

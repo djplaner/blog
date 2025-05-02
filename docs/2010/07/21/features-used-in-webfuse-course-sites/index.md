@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Time to get back into the thesis. The following is the next completed section from the evaluation part of chapter 5 of [my thesis](/blog2/research/phd-thesis/). A result of much data munging and some writing, still needs a bit more reflection and thought, but getting close.
 
 ### Features used in course sites

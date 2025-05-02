@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Below you will find resources associated with a talk titled "Digital Learning: It's deja vu all over again". The slides below are the near final set to be presented at the #dLRN15 conference](http://linkresearchlab.org/dlrn2015/) ([abstract available below).
 
 

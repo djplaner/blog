@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Much earlier this year I was invited to participate with some folk much cleverer than I around the question of the adoption of learning analytics and a project to explore this using the Technology Acceptance Model (TAM). Going by the date embedded in the URL of this post, that was way back in August. It's December and I'm now trying to get back to this post to capture some of my thinking.
 
 If I had to summarise my thinking now, prior to completing the post below, it would consist of

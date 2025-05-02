@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Prior to [BIM](/blog2/research/bam-blog-aggregation-management/) being installed and used at my current institution it had to be checked by folk at NetSpot. The following details what I've had to do in response to that.
 
 All of the changes are fairly minor, some won't be changed as I don't see the point and don't have the time. Shall be interesting to see how that goes down.

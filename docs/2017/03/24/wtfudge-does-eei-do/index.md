@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following a collection of resources associated with a 15 minute presentation to the other teams within USQ's Office for the Advancement of Learning and Teaching (OALT) explaining what people should know about the Educational Excellence & Innovation (EEI) team at this point in time, and what we'd like to know about the other members of OALT.
 
 ### Slides

@@ -126,9 +126,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Spent yesterday playing cricket in the local competition. A first step in returning to a "normal" life. As it happens one of the guys I was playing with - and have known for a long time - is also a Deputy Principal at one of the local primary schools. He asked if I was still working at the Uni and I explained no, I was heading into high school teaching. From there the discussion turned to teaching and its issues and benefits. Before too long I asked about NAPLAN testing and its impact. "It's all we're teaching at the moment", was the response, essentially much the same as I [I mentioned in a previous post](/blog2/2011/02/01/naplan-tests-task-corruption-and-teaching-to-the-test/).
 
 Over the last six months or so, I've been [listening to](http://www.futureofeducation.com/) and reading a lot of K12 education related material. All of it, especially that by folk with first-hand knowledge of actual teaching, has been aware of the negative implications of standardised testing, especially when tied to rankings or funding. It corrupts the teaching process and becomes the almost primary focus of learning. At the core, this seems to be a wonderful example of [Goodhart's law](http://en.wikipedia.org/wiki/Goodhart's_law) which Wikipedia describes as

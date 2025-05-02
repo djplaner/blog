@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Emergent Development and the Virtual University, Paper presented at Learning’2000, Roanoke, Virginia
 
 ### Abstract

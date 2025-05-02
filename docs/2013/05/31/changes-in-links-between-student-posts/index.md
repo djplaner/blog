@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 **Update:** Video now available showing evolution of links between student blogs over the course of the semester (HT: Nick Kelly) - see YouTube embed at the end of the post
 
 The following is a quick update on the visualisation of links between student blog posts in a course I'm currently teaching. As part of the course the students are expected to write blog posts reflecting on the learning (in the broadest possible sense) and also to link with other student posts.

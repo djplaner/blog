@@ -261,9 +261,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently working on chapter 2 of [my thesis](/blog2/research/phd-thesis/), which is an explication of some of what is known about "e-learning" through the lens of the Ps Framework.
 
 Last night I posted a [draft of the section of the chapter](/blog2/2009/03/18/the-ps-framework/) that introduces the Ps Framework. Today, I've been working on getting a first draft of the "Past Experience" section of the chapter onto the blog.

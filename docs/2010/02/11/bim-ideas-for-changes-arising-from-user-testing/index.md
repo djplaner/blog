@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Today BIM was tested by an intelligent, but when it comes to BIM a clueless, user. I sat back and watched the assumptions and mistakes that were made because the system design was not well thought out enough or was missing some functionality. The following is a list of the ideas that arose from that session.
 
 ### Suspend student posts - DONE

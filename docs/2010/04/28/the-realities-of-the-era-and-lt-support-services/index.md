@@ -5,9 +5,6 @@ categories: ['publication']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In mid-October last year I blogged about [my search for a research publication outlet](/blog2/2009/10/19/choosing-a-publication-outlet/). The conclusion was that in my context, the [Australasian Journal of Education Technology (AJET)](http://ascilite.org.au/ajet/) was probably the best fit. It is an open journal and the first round of the Australian government's [Excellence in Research for Australia (ERA) initiative](http://www.arc.gov.au/era/default.htm) had ranked AJET as an A journal, second only to A\*.
 
 More recently that blog post got a reference in an [AJET editorial](http://ascilite.org.au/ajet/ajet26/editorial26-2.html) (that the editors are referencing a blog post in an editorial is a good sign for AJET, especially if it is one of mine). The editors hope was

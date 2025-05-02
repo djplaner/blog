@@ -5,9 +5,6 @@ categories: ['elearning', 'enterprise-20', 'web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In a [recent post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=77) I commented on the trend around how consumer driven computing is driving the development of "software as a service". In particular, pointing to an article from the Economist that talked about how Arizona State University was using Google Apps to host email accounts for their students.
 
 What I want to do here is to link this trend back to individual academics and how they may use these services to work around institutional structures and approaches to develop [shadow systems](http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/Shadow_Systems/).

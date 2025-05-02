@@ -95,9 +95,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over the last week or so I've been criticising essentially all current practice used to improve learning and teaching. There are probably two main prongs to my current cynicism:
 
 1. [Worse than useless evaluation of learning and teaching](/blog2/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/); and  

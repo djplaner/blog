@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an early draft of the "lessons learned" section of chapter 5 of [the thesis](/blog2/research/phd-thesis/), the third last section that needs to be completed (to first draft stage). It still needs some work and completing the last two sections will probably lead to some changes, but it's a start.
 
 The basic aim of this section is to draw out reasons why the intervention (in this case the Webfuse system I designed) succeeded or failed. As I write this, pretty sure I haven't finished.

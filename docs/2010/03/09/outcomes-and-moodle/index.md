@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's time to think about the reality of the [curriculum mapping idea](/blog2/research/curriculum-mapping/) that's been kicking around. i.e. how hard/impossible would it be to implement this idea in Moodle.
 
 As part of developing BIM I came across the fact that Moodle already supports Outcomes. Something that has some connections with the idea of curriculum mapping. This post is about finding out some more about outcomes as they already existing in Moodle. In fact, it's basically a look at two videos about how to use them.

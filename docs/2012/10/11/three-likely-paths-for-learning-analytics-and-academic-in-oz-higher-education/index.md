@@ -69,9 +69,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an early attempt to write and share some thoughts on what, why and with what impacts Australian universities are going to engage with learning analytics over the next couple of years. Currently it's fairly generic and the same structure could be used with any fad or change process.
 
 You could read the next section, but it's basically an argument as to why its important to consider the how learning analytics will impact academics. The three likely paths section describes the paths.

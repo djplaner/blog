@@ -5,9 +5,6 @@ categories: ['chapter-3', 'information-systems', 'missingps', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In a [previous post](/blog2/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/) I pointed to and summarised a working paper that suggests that IS research is not all that diverse. At least at the conceptual level.
 
 The [Information Systems (IS) discipline](http://isworld.org/) has for a number of years been having an on-going debate about whether or not the discipline is diverse or not. A part of that argument has been discussion about whether diversity is good or bad for IS and for a discipline in general.

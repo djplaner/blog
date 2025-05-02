@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For the [PhD](/blog2/research/phd-thesis/) I'm essentially proposing that the current industrial model of e-learning adopted (almost without exception) by universities is a complete and utter mismatch with the nature of the problem. As a consequence of this mismatch e-learning will continue to have little impact, be of limited quality and continue to be characterised by 5 yearly projects to replace a software system rather than a focus on an on-going process of improving learning and teaching by using the appropriate and available tools.
 
 Dave Snowden has recently [described a recent keynote](http://www.cognitive-edge.com/blogs/dave/2009/04/kmrc_conference_blog_snowden.php) he gave and from that description/keynote I get the following two quotes which illustrate important components of my thesis and its design theory. I share them here.

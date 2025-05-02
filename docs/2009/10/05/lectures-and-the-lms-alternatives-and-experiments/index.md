@@ -139,9 +139,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post stores information about an experiment/presentation seeking to examine alternatives for both the lecture and the LMS. Information available below includes:
 
 - Resources from the presentation.

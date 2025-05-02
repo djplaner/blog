@@ -41,9 +41,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 So once again I venture into the realm of a "MOOC". Will be interesting to see if the organisers of [Connected Courses](http://connectedcourses.net/) shudder a little bit when that particular label is used. Especially given that Connected Courses is being described as
 
 > Connected Courses is a collaborative community of faculty in higher education developing networked, open courses that embody the principles of connected learning and the values of the open web.

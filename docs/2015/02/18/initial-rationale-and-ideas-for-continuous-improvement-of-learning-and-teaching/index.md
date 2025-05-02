@@ -5,9 +5,6 @@ categories: ['bad', 'eep']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is skewed by my experiences and perspectives and does not represent the full picture. Hopefully everyone sharing their perspectives will broaden the diversity represented in our discussions.
 
 The "homework" consisted of four questions, I've responded (so far) to only two

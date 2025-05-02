@@ -49,9 +49,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Tim Klapdor [writes about](https://timklapdor.wordpress.com/2016/04/25/the-technopedagogue/) (along with a bunch of other stuff today) the process of discovering the concept of a technopedagogue and offers his translation of the French definition of that concept
 
 The technopedagogue is a kind of bilingualist, one foot in human needs and learning process, and the other in technology and its potential. So a technopedagogue can oversee the design, implementation and even the implementation of interfaces, environments and the digital tools that support learning or various processes. The technopedagogue communicates easily with system architects and programmers as well as administrators, trainers and teachers. They can also act as a translator between the two, often translating the educational needs into the technical requirements. What makes this techno-pedagogical bridge so vital to our digital society is the ability to maximise the potential of the technological tools to meet our needs, which are first and foremost, human.

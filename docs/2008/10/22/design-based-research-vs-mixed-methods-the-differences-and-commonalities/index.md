@@ -54,9 +54,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post is a summary and some reflection on a discussion paper posted to [ITForum](http://it.coe.uga.edu/itforum/). It's by Goknur Kaplan Akilli and is titled [Design Based Research vs. Mixed Methods: The Differences and Commonalities](http://it.coe.uga.edu/itforum/paper110/Akilli_DBR_vs_MM_ITForum.pdf). The author is a PhD candidate with some interesting [research runs on the board](http://www.ed.psu.edu/news/akilli.asp).
 
 The following contains two main sections

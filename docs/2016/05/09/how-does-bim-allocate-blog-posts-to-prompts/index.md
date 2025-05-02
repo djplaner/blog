@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a response to the following query.
 
 https://twitter.com/UOWMoodleLAB/status/729511696054681600

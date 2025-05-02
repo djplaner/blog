@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For almost as long as [learning management systems](http://en.wikipedia.org/wiki/Learning_management_system) have been around their have been researchers and technologists investigating how the usage logs of these systems can be harnessed to inform and improve learning and teaching. For a little while I was sort of involved in a [project](http://cddu.cqu.edu.au/index.php/Category:Blackboard_Indicators) that would look at some of this - interest has waned in line with organisational realignments.
 
 A [colleague](http://beerc.wordpress.com/), however, is continuing on with a project in this area. The following is an attempt to reflect about what little I know about the area and see if there is anything of interest to Col. In the following I am trying to identify the dominant assumptions underpinning this sort of work in order to see if there are any holes which might be ripe for exploitation.

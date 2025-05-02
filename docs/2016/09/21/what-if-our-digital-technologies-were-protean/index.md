@@ -29,9 +29,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Proteus by skooksie, on Flickr](images/16539525746_c241fd7be8_m.jpg "Proteus by skooksie, on Flickr")](https://www.flickr.com/photos/skooksie/16539525746/) "[Proteus](https://www.flickr.com/photos/skooksie/16539525746/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by [skooksie](https://www.flickr.com/people/skooksie/)
 
 On Friday the 30th September 2016 I will present the paper - [What if our digital technologies were protean? Implications for computational thinking, learning, and teaching](/blog2/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) - co-written by [Elke Schneider](http://elketeaches.wordpress.com/) and I at the [ACCE'2016 conference](http://www.aomevents.com/ACCE2016).

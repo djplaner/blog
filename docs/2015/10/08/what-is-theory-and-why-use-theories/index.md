@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an edited version of something used in a course I teach that's currently hidden away in the LMS. I'm adding it here because I'm using it with another group of students.
 
 It's a quick attempt to cover what I perceive to be a reasonable whole for many education students. i.e. what exactly is a theory and why the hell would I want to use them? My impression is that not many of them have developed an answer to these questions that they are comfortable with.

@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [initial design and use](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) of the [Blog Aggregation Management (BAM) system](/blog2/research/bam-blog-aggregation-management/) was, in part, designed to try out approaches that leverage the [protean nature](/blog2/2009/02/11/bam-making-e-learning-technology-more-protean/) of information technology. A major part of this is a move to something different, and hopefully better, than the current, broken e-learning orthodoxy within universities that is stuck on the idea of course management systems (CMS - aka learning management systems) as the only possible solution.
 
 The vast majority of what BAM does was designed and implemented over a couple of months almost 3 years ago. Since then we've learned a bit about using BAM and also have some time to extend BAM in appropriate ways. This post seeks to explain the next major expansion of BAM, which will see it move further away from CMS orthodoxy. In particular, the plan to expand BAM's generation of RSS/OPML feeds so academic staff can avoid badly designed web-based management interfaces and use an RSS reader of their choice as the major interface to BAM.

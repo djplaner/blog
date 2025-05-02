@@ -5,9 +5,6 @@ categories: ['chapter-2', 'elearning', 'innovation', 'phd', 'psframework']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently working on the [Process](/blog2/2009/05/25/teleological-and-ateleological-processes/) section of my [thesis](/blog2/research/phd-thesis/). As part of that I'm referring back to a book chapter (that was a conference paper) by [Bo Carlsson](http://weatherhead.case.edu/research/faculty/profile.cfm?id=5252) (2004) titled "Public policy as a form of design". This post is an attempt to summarise some of the points made in that chapter as they are connected to [my new job](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 
 ### What are the conditions that are conducive to the creation of a variety of new ideas?

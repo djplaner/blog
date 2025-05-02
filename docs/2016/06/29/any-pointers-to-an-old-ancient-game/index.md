@@ -48,9 +48,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Way back in 1986 I started studying undergraduate computer science at the University of Queensland. One of our first year programming assignments was to use the fancy, new Macintosh computers to add some code to a game.  I'm looking for pointers to the name of the game and any online resources about it. A working version on some contemporary platform would be great.
 
 Any help more than welcome.

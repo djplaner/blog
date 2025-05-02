@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For almost 10 years now I have been hearing within higher education things like
 
 > esults will be used to compel institutions into focusing their research efforts instead of employing the scattergun comprehensive approach that is the norm.

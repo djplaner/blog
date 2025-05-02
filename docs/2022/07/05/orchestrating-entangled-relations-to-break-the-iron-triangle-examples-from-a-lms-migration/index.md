@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ## Introduction
 
 All university strategies for learning and teaching seek to maximise: accessibility (as many people as possible can participate - feel the scale - in as many ways as possible); quality (it's good); and, cost effectiveness (it's cheap to produce and offer). Ryan et al (2021) argue that this is a "key issue for contemporary higher education" (p. 1383) due to inevitable cost constraints, the benefits of increased access to higher education, and requirements to maintain quality standards. However, the literature on the "iron triangle" in higher education (e.g. Daniel et al, 2009; Mulder, 2013; Ryan et al, 2021) suggests that maximising all three is difficult, if not impossible. As illustrated in Figure 1 (adapted from Mulder, 2013, p. 100) the iron triangle suggests that changes in one (e.g. changing accessibility from on-campus to online due to COVID) will have negatively impact at least one, but probably both, of the other qualities (e.g. the COVID response involving increase in workload for staff and resulting in less than happy participants).

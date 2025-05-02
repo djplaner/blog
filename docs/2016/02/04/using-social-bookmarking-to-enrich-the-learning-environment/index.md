@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Another day and another short presentation showing off a particular aspect of learning and teaching. This time social bookmarking.
 
 http://www.slideshare.net/davidj/using-social-bookmarking-to-enrich-the-learning-environment

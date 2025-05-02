@@ -5,9 +5,6 @@ categories: ['bim', 'bim2', 'elearning', 'indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some thoughts on the following paper
 
 > Ullmann, T. D., Wild, F., & Scott, P. (2012). [Comparing Automatically Detected Reflective Texts with Human Judgements](http://ceur-ws.org/Vol-931/paper8.pdf). 2nd Workshop on Awareness and Reflection in Technology-Enhanced Learning. 7th European Conference on Technology-Enhanced Learning (pp. 101–116). Saarbruecken, Germany.

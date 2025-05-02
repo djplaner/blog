@@ -94,9 +94,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This posts contains the last content of what (I hope) will become the "Past Experience" section of Chapter 2 of my [thesis](/blog2/research/phd-thesis/). Previous content for this section is already on the blog, including: [History of technology-mediated learning](/blog2/2009/04/17/a-history-of-technology-mediated-learning/), [Paradigms of e-learning](/blog2/2009/04/20/the-paradigms-of-e-learning/), [e-learning usage - quality](/blog2/2009/04/22/e-learning-usage-quality/), and [e-learning usage - quantity](/blog2/2009/04/23/usage-of-e-learning-quantity/).
 
 The aim of this post is to draw some lessons from the past. It won't be exhaustive, I'm sure there are many other lessons to draw, I'd be interested in hearing them if you know of any. However, for the purposes of the thesis, I'm hoping the following will be "good enough". As with the other posts, this is a first draft. It hasn't been through a good proof read, but hopefully is sufficiently readable. In fact, while putting this post together I chopped, changed and added bits, which I haven't spent a great deal of time checking.

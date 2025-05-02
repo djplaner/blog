@@ -79,9 +79,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 So, post #3 for week 1 of the ICTs for Learning Design, this time on connectivism. There are two parts to the question, the second is somewhat easier and asks fo examples of how connectivism could be used in a classroom/learning context. The first is somewhat more difficult.
 
 ### Position on connectivism

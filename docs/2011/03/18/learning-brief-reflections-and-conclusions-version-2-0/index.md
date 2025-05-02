@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is version 2 of an attempt at the [first assignment](/blog2/2011/03/15/reflection-and-conclusions-learning-brief/) for the ICTs for Learning Design course.
 
 ### Introduction

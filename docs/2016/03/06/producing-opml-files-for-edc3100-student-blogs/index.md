@@ -52,9 +52,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 EDC3100 tries to get students engaged with writing their own blogs and following the blogs of others via a feed reader. Yes, just a bit old fashioned.
 
 But then one of the problems with doing something a bit different is that it takes a fair bit of extra work to implement. Once you automate this bit of extra work it creates a bit of inertia that prevents change. Not only because I don't want to lose the effort that went it into automating the process. But also because I know that if I did something different that was more modern, I'd have to invest more time in automating that process (i.e. working around the limitations of the current institutional learning environments.

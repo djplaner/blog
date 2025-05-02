@@ -140,9 +140,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The lack of interaction/feedback between student and teacher in large, contemporary, Australian university courses has always frustrated me. With 350+ students currently enrolled in the course I'm teaching, I'm keen to address this problem. Enter the weekly "course barometer", a simple practice I'm hoping we can keep up for the current semester. The following is a quick summary of the results for the first week and a description of how it works.
 
 ## How it works

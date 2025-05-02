@@ -32,9 +32,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Some colleagues and I are [embarking on a project](https://oepuqusq.wordpress.com/) exploring how teacher education might move toward adoption Open Educational Practices (OEP). A project that is currently being driven by a funding from one University, and which might lead to an application for funding from another institution. In part, we're thinking about how teacher education in each of these two institutions can adopt OEP, what that might look like, what the barriers be, and how might we go about moving toward something like this that won't fade away once the money runs out or we move on.
 
 As it happens, over the last week or so there's been an on-going discussion about the role of institutions and/or culture in OER. A discussion that started with [Mike Caufield's reflections](https://hapgood.us/2016/09/07/putting-student-produced-oer-at-the-heart-of-the-institution/) and were then picked up by many, including [Jim Groom,](http://bavatuesdays.com/the-overselling-of-open/) [Stephen Downes](http://halfanhour.blogspot.com.au/2016/09/institutions-and-openness.html) and [Tim Klapdor](https://timklapdor.wordpress.com/2016/09/19/culture-vs-institutions-who-pays-for-change/). A discussion that provides an interesting way of looking at what we're thinking about. In the end, I think we may need to draw upon the following from David Wiley and Cable Green, which echoes [a discussion](/blog2/2010/04/25/inside-out-outside-in-or-both/) Leigh Blackall and I had back in 2010.

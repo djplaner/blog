@@ -4,9 +4,6 @@ date: 2006-10-04 21:21:07+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For a number of the educators I know group work is a magical solution the promises great improvement to the effectiveness of their courses.
 
 Personally, I've always had a problem. Since the mid-1990s I've believed that most of the probles I see with group work comes from the need for there to be inter-dependence between the members of the group. That is the performance of each member of the group is intertwined with the performance/contribution of other members of the group. Get in a group full of experts and you'll perform well, get a group of dunces...

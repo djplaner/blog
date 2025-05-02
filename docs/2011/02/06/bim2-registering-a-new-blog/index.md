@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following continues the coding of the bim2 process for registering and processing a new student feed. It's taken a couple of weeks, but it is working with only a few minor tweaks and nudges remaining.
 
 Steps involved will be

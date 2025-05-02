@@ -4,9 +4,6 @@ date: 2008-10-16 21:57:29+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A number of the web links below are broken because of changes within organisations and the technology they use for e-learning.
 
 ### 2018-

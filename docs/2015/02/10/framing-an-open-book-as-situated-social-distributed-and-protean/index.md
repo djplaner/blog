@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 My institution has [some grants available](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks) to produce open textbooks. The following is an attempt to develop an interesting idea that might be funded by such a grant.
 
 This is a quick first run at this. It hasn't been informed by any literature or other searches for prior art. It's constrained by my experiences and perceptions. It's crying out for suggestions and improvement. It could certainly benefit from a revisit to Putnam and Borko (2000) and similar.

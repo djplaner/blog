@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'information-systems', '
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The aim of my [thesis](/blog2/research/phd-thesis/) is to formulate an information systems design theory for e-learning. Even though I have a [publication](/blog2/publications/the-formulation-of-an-isdt-for-e-learning/) or two that have described early versions of the ISDT, I've never been really happy with them. However, I'm getting close to the end of this process, at least for the purposes of getting the thesis submitted.
 
 The following is a first draft of the "Principles of form and function", one of the primary components of an ISDT as identified by [Gregory and Jones (2007)](http://aisel.aisnet.org/jais/vol8/iss5/1/). I'll be putting up a draft of the principles of implementation in a little while (**UPDATE** [principles of implementation](/blog2/2010/09/17/principles-of-implementation/) now up). These are still just approaching first draft stage, they need a bit more reflection and some comments from my esteemed supervisor. Happy to hear thoughts.

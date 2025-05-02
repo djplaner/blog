@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've fallen a bit short of what I wanted to achieve this week, however, overall I'm feeling pretty good about progress. In particular, because some of the initial evaluation results point to the "Webfuse way" having some quantitative benefits. Also, if the work in the last week get's the okay from the esteemed supervisor it should make completing chapter 5 pretty straight forward.
 
 ### What I've done

@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the first post in my new "quotes" section. Acting as a storage place for all the interesting insights I come across.
 
 I came across this one as part of the [keynote presentation](http://punya.educ.msu.edu/2008/03/18/site-2008-keynote/) given by [Mat Koehler](http://mkoehler.educ.msu.edu/blog/) and [Punya Mishra](http://punya.educ.msu.edu/) at the SITE'2008 conference.

@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I've been using [Trello](http://trello.com) for a couple of years to track manage personal projects/tasks. I've done this in an ad hoc way. I've even occasionally attempted using it (badly) for small groups. I now need to get a bit more professional about it. The following is an attempt to formulate an initial plan for testing out the use of Trello for a work project. If only so we can escape the desolate, unproductive waste that is Sharepoint and email attachments....more on this at the end.
 
 ### What are others doing

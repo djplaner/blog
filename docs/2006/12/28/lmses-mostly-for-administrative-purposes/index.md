@@ -5,9 +5,6 @@ categories: ['elearning', 'paperideas']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The [OECD report "E-learning in Tertiary Education: Where do we stand?"](http://new.sourceoecd.org/education/9264009205) says that universities have primarily used LMSes for adminstrative purposes and that LMSes have, so far, had a limited impact on pedagogy.
 
 There are three potential avenues for exploration in that finding

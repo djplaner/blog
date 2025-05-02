@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following describes an attempt to develop a visualisation of the frequency with which students in [the course I teach](http://www.usq.edu.au/course/synopses/2014/EDC3100.html) posted to their blogs during two offerings of the course in 2013. A few reasons for doing this
 
 1. Confirm my gut feel that some students (for a variety of reasons) treated blogging pragmatically and only posted just before due dates.

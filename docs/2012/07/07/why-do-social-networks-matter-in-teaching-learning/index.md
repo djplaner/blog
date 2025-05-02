@@ -116,9 +116,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 After a week of increasingly intermittent engagements with Twitter I stumbled back into the Twitterverse this afternoon and one of the first things I see is [this post](http://www.masmithers.com/2012/07/05/why-do-social-networks-matter-in-teaching-learning/) from @marksmithers. It is Mark's response to the [call for help](http://educationaltechnology.ca/couros/2091) from @courosa for his keynote at [the Melbourne PLE conference](http://pleconf.org/category/ple-conference/melbourne/) next week. Alec's question is
 
 > Why do (social) networks matter in teaching & learning?

@@ -6,9 +6,6 @@ tags: ['fedwikihappening']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The Christmas break is over. It's the start of a new week and I've completed some holiday tasks (complete a run through of Dragon Age Inquisition, watch the final series of The Newsroom, and upgrade the family computers to Yosemite). Time to start engaging with #fedwikihappening and trying to make sense of how it connects with other work I'm doing.
 
 ## The new routine

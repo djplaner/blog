@@ -56,9 +56,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a a [prior post](/blog2/2013/08/02/learning-analytics-what-is-the-end-in-mind/) I wondered about the "end in mind" for university analytics projects. What follows outlines why I'm skeptical of such projects.
 
 Starting about 15 years ago, most Australian Universities started spending tens of millions of dollars on Enterprise Resource Planning systems. These were systems intended to solve the information problems of universities. I remember the great promises proposed by Vice Chancellors about how much time and money would be saved through the adoption of these systems. How much easier it would be to get access to correct information and consequently improve university operations.

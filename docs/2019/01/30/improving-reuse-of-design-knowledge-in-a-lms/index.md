@@ -5,9 +5,6 @@ categories: ['casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In October last year I started a new position at Griffith University. A role designed to help improve the quality and quantity of use of the institutional learning ecosystem. An ecosystem that includes Blackboard (both 9.1 and soon Ultra), Office365, PebblePad, Echo360 etc. Pretty early on it became apparent that there was some problems with reusing design knowledge. A problem that had some initial solutions. But these solutions weren't built upon. The following tells the story of those problems and how I've be playing with an old idea of [scaffolding, context sensitive conglomerations](/blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/) (aka constructive templates) to help.
 
 The example itself is not earth shattering. However, IMHO it does identify the long-term inability of higher education to create a teaching environment that actively helps improve the quality of learning and teaching while reducing the cost of doing so (you/I could argue institutions have been better at/focused on solving the latter by cost shifting, than the former).

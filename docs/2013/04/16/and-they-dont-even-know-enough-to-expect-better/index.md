@@ -97,9 +97,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The title for this post is (probably a slight re-phrasing) of something @palbion mentioned last week during a conversation about the low quality of information systems within higher education (or at least our experience thereof). The comment was in relation to the professional and academic staff who are struggling with the various information systems universities are increasingly using to support tasks such as managing research higher degree students form application through to graduation, managing the process of sending students out into industry for practicums, and of course the more general LMS and student records system.
 
 All of the staff involved are having to bumble along with systems with inherent limitations and attempt to develop what workarounds they can. For example, the system that sends out an email to students saying that their application is incomplete and to try again. The problem is that it doesn't tell the students what is missing (even though it must know to have identified the incomplete state) and doesn't tell them how to try again. Or, for example, the online assignment submission and management system that requires the staff involved with marking to repeat the same manual process for each assignment they are marking. Repeating processes is what computers are good at, not human beings. This inevitably leads to mistakes which need to be fixed. Leading to less than stellar efficiencies (which last weekend [took on a much higher profile](http://musicfordeckchairs.wordpress.com/2013/04/14/more-or-less/) within Australian higher education)

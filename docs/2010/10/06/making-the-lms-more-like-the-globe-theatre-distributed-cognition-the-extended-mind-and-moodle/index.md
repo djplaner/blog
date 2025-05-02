@@ -96,9 +96,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following draws together some work on distributed cognition in the [Globe Theatre](http://en.wikipedia.org/wiki/Globe_Theatre) and some early thoughts on how that might be useful in improving the design of learning management systems such as Moodle (there's also an argument to be made about university teaching and learning, but I'll mostly leave that alone). While primarily focusing on helping teachers teach and thus improve the student learning experience, the ideas could equally be applied to learners (and probably have been).
 
 At the core of the following seems to be the question of whether o not the design of LMS, and e-learning tools in general, have been limited due to the following observation made by Tribble (2005)

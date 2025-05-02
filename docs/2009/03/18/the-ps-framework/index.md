@@ -419,9 +419,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a section of my [thesis](/blog2/research/phd-thesis/) - chapter 2. As I get first drafts of this stuff done, I'm going to post it to the blog - where appropriate. This is the first.
 
 This section is the first major part of chapter 2 - the literature review. It explains the background of the Ps Framework which will be used to structure the rest of the chapter.

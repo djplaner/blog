@@ -50,9 +50,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Computing by Distance Education: Problems and Solutions, Integrating Technology into Computer Science Education, Association for Computing Machinery, Barcelona, Gordon Davies, pp 139-146
 
 ### Abstract

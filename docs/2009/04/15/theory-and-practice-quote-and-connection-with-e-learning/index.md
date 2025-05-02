@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Given my pre-occupation with the [thesis](/blog2/research/phd-thesis/), which involves the formulation of a design theory for e-learning. It's of little surprise that I have an interest in the theory, practice and e-learning. Came across the following quote this morning in checking some literature, and I like it - new quote for a thesis chapter.
 
 > Theory without practice leads to an empty idealism, and action without philosophical reflection leads to mindless activism. – Elias & Merriam, 1980, p. 4

@@ -424,9 +424,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The great sage of our time offers the [following definition of dilemma](http://en.wikipedia.org/wiki/Dilemma)
 
 > A dilemma (Greek: δί-λημμα "double proposition") is a problem offering two possibilities, neither of which is practically acceptable.

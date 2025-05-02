@@ -4,9 +4,6 @@ date: 2009-09-01 09:41:56+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is the second in the fortnightly reports of what I've been doing in my [current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ - [here's the first](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/). These posts are made just before the meeting with my supervisor. Due to a change in date for the last meeting, this doesn't report on a full fortnight.
 
 ### What I said I'd do

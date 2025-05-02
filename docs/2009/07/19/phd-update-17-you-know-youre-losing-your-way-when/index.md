@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's been a fortnight since the last PhD update due to last weekend's personal, celebratory trip to Adelaide. The time away was useful and has resulted in an insight that's going to change focus for a bit.
 
 ### What I've done

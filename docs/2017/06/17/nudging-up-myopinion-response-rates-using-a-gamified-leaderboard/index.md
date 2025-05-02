@@ -5,9 +5,6 @@ categories: ['bad', 'bricolage', 'casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following information is taken from and adds to the contents of [a poster](http://djon.es/Leaderboard/June2017Poster.pdf) by [Alice Brown](https://staffprofile.usq.edu.au/Profile/Alice-Brown) and I for a USQ L&T Celebration Event. It describes the need for a Student Evaluation of Teaching leaderboard, how it works, and the results of some early applications (12 to 15% increases in response rates in individual courses, resulting in response rates that are double the institutional average - around 50%, rather than 25%).
 
 ## Challenge – Course evaluation 'buy-in' and responding to MyOpinion

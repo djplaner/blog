@@ -82,9 +82,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 > Welcome folk from UHI. Hope you find this interesting. Your e-learning portal is [here](https://communities.uhi.ac.uk/ltel). Good luck with it all.
 
 Over recent years I've been employed in a position to help improve the quality of learning and teaching (and e-learning) at a university. If all goes according to plan, I might well have a related position for the next few years, at least. This post is intended to identify and provide some early insights into what I think has been the biggest flaw about my practice and in the practice at most universities when it comes to learning and teaching and how they attempt to improve learning and teaching.

@@ -166,9 +166,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 So I'm starting another MOOC. Though it's not a MOOC at all. It's apparently a SiCMOOC (small intimate Connectivist MOOC). Though that term is labouring a fad for more than it's worth. Much prefer the term the organiser (Mike Caufield @holden) is using a happening
 
 > The happening metaphor is borrowed from theater, where tightly structured but ultimately meaningless events combine with the actions of audience-participants to produce unique, emergent meaning.

@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post follows on from [the last post](/blog2/2009/12/22/bim-cron-and-view-student-details-screen/) in doing some minor improvements to the show student details screen in BIM. This includes:
 
 - Link between the question ID and the question name

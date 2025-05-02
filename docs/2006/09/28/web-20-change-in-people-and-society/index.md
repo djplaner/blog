@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A [long and interesting post](http://web2.wsj2.com/all_we_got_was_web_10_when_tim_bernerslee_actually_gave_us_w.htm) from Dion Hinchcliffe about a bunch of Web 2.0 stuff.
 
 The bit that caught my eye was the section title "Web 2.0 is much more about a change in people and society than technology"

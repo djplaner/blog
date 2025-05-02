@@ -5,9 +5,6 @@ categories: ['casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 At the recent [ASCILITE’2019](https://2019conference.ascilite.org/) there was a common refrain throughout the conference, which started with the original keynote as captured in the following tweet
 
 https://twitter.com/volkov\_michael/status/1201679376225468417?s=20

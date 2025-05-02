@@ -37,9 +37,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Some time off doing too little and eating too much allows me to stumble out of 2016 into a new year and a new job. Still at [USQ](http://usq.edu.au), but I'm leaving the School of Teacher Education & Early Childhood and joining the Advancement of Learning and Teaching (ALT) - not sure if it's a unit, department, office etc. Yes, for the second time I'm leaving the land of the faculty-based academic and venturing into the wilds of central learning and teaching.  I'll leave reflection on the wisdom of that move to another post.
 
 Today is my first day as part of a group with responsibility for "educational excellence and innovation" (EEI). Quoting from the position description I applied for, this group is

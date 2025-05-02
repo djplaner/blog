@@ -117,9 +117,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a bit of a summary and initial reflection on the [Teaching teachers for the future](http://www.altc.edu.au/november2010-teaching-teachers-future) project that is currently underway in Australia as part of the Australian Government's [Digital Education Revolution](http://www.deewr.gov.au/Schooling/DigitalEducationRevolution/) (DER). The project
 
 > will ensure future teachers can provide every Australian student with the best learning opportunities in an increasingly online world.

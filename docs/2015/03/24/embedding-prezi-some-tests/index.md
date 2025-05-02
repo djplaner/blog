@@ -6,9 +6,6 @@ tags: ['edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A student of mine is reporting problems embedding a Prezi into a blog post. Here's a quick test.
 
 ### Straight from Prezi

@@ -5,9 +5,6 @@ categories: ['elearning', 'herding-cats', 'react']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Just working my way through Pettit (2005) which tells the story of how the [OUK](http://www.open.ac.uk/) used online conferencing for staff development around e-learning. What I'm finding useful to my situation is the literature review which covers some of the issues around this issue and which connects nicely with some earlier ideas.
 
 For example

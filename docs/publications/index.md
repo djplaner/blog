@@ -33,9 +33,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following provides pointers to most of the publications I've produced over the year. The following contains some statistics about the publications before listing them by year of publication. If you want to see some citation metrics for these, take a look at [my Google scholar profile](http://scholar.google.com/citations?user=k8DkjXIqUl4J) (ORCID 0000-0002-3378-6826).
 
 | Publication Type | Total |

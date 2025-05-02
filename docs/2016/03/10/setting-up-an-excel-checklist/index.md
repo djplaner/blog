@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For a brand new first assignment for EDC3100 the students are being asked to find a lesson plan that uses digital technologies to enhance learning (ICT and Pedagogy), and evaluate it against a checklist. The following documents my explorations about how to set up this checklist.
 
 ### **Current status**

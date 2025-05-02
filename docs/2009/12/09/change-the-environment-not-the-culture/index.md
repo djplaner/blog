@@ -29,9 +29,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've heard a number of folk at [ASCILITE'09](http://www.ascilite.org.au/conferences/auckland09/) claim that there needs to be a change in culture amongst academics around learning and teaching. To me this has always sounded a bit like a deficit model of teaching staff. It's a model that I've heard again and again at ASCILITE'09 and in other literature around learning and teaching in higher education. You know the sort of thing e.g.
 
 > Staff spend years getting their PhD in Physics and are then automatically expected to be good teachers.  

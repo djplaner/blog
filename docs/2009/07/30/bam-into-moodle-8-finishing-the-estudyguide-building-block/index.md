@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [last post](/blog2/2009/07/28/bam-into-moodle-7-an-estudyguide-block/) in this series described the start of a little project to learn more about PHP/Moodle programming in order to get BAM into [Moodle](http://www.moodle.org/). Essentially everything is done, there are two main tasks left:
 
 - Identify how to "properly" retrieve a file over http in PHP/Moodle and figure out how to use it.

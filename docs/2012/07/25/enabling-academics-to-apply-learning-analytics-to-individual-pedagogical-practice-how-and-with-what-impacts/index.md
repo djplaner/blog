@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Thanks to @cj13 for the heads up about the [EDUCAUSE analytics sprint](http://www.educause.edu/events/educause-analytics-sprint/) in the midst of moving, conferences, end/start of term and grant writing I missed it. Found it interesting that the first thing the struck my eye was a link [to this discussion titled "Faculty need how-to information for the data they do have"](http://educause.ideascale.com/a/dtd/Faculty-need-how-to-information-for-the-data-they-do-have./376570-12956). It's interesting because the grant application I'm writing is directly aimed in this general area. Though we perhaps have a slightly different take on the problem.
 
 As it happens, I'm about to reframe the "outcomes and rationale" section of the grant. So, rather than lose the existing content I'm going to post it below to share the thoughts and see what interesting connections arise. Some early thoughts on the project [are here](/blog2/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/) and we're aiming for [OLT funding](http://www.olt.gov.au/grantsandprojects).

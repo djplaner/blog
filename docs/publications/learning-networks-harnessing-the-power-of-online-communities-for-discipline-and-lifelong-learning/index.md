@@ -41,9 +41,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Colin Beer, David Jones, Learning networks: Harnessing the power of online communities for discipline and lifelong learning, to appear in the proceedings of the [2008 Lifelong Learning Conference](http://lifelonglearning.cqu.edu.au/2008/)
 
 ### ABSTRACT

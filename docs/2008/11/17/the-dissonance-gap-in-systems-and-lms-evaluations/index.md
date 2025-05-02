@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Ania Lian writes in the paper [Knowledge transfer and technology in education: toward a complete learning environment](http://www.ifets.info/journals/3_3/lian.html)
 
 > It is argued that technology itself is neither liberating, empowering nor enabling one to be with other people but that it will serve whichever goals motivate its incorporation.

@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As part of the ["Moodle open book" project](/blog2/the-moodle-open-book-module-project/) I'm hoping to increase my knowledge of what the Moodle community has already discussed about the [Book module](https://docs.moodle.org/28/en/Book_module). The following is a summary of the process I'm using to analyse those discussions.
 
 Not finished, but the story so far. Just over 2400 posts extracted from Moodle community forums that appear to mention "Book module". About 250 posts (very roughly) coded so far. The following is a very early summary of the features discussed in those posts is

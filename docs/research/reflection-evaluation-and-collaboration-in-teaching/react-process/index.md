@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the features of the [REACT](/blog2/research/reflection-evaluation-and-collaboration-in-teaching/) project was that there was a fairly fixed process designed to offer scaffolding to the process and ensure additional input to ideas _before_ implementation.
 
 The process includes:

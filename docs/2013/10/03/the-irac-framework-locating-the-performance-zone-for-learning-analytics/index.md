@@ -222,9 +222,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the final version of a short paper that's been accepted for [ASCILITE'2013](https://www.ascilite.org.au/conferences/sydney13/). It's our first attempt to formulate and present the IRAC framework for analysing and designing learning analytics applications. [This presentation](http://www.slideshare.net/davidj/avoiding-the-fad-example-applications-version-2) from last week expands on the IRAC framework a little and touches on some of the future work.
 
 David Jones University of Southern Queensland [Colin Beer](http://beerc.wordpress.com/), [Damien Clark](http://damosworld.wordpress.com/) Office of Learning and Teaching CQUniversity

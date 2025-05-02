@@ -158,9 +158,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Becoming somewhat cynical about the headlong rush toward learning analytics I'm commencing an exploration of the problems associated with big data, data science and some of the other areas which form the foundation for learning analytics. The following is an ad hoc collection of some initial resources I've found and need to engage with.
 
 Feel free to suggest some more.

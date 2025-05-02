@@ -55,9 +55,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 **Updated 30 August, 2016:** Added mention of @downes' pointers](http://www.downes.ca/post/65733) to peer review literature using SAMR. Evolved into [a small section
 
 **Update: June 23: 2023** See also [PICRAT](https://citejournal.org/volume-20/issue-1-20/general/the-picrat-model-for-technology-integration-in-teacher-preparation/) an extension to RAT. The PIC representing the student's representation to a technology (**p**assive, **i**nteractive, **c**reative)

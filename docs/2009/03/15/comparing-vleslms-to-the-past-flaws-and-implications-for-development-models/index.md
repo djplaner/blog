@@ -70,9 +70,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![George Santayana, a Spanish American philosopher and writer](images/George_Santayana.jpg)](http://en.wikiquote.org/wiki/File:George_Santayana.jpg)
 
 I'm working on chapter 2 of [the thesis](/blog2/research/phd-thesis/) and, in particular, on the "Past Experience" section. As part of the [Ps Framework](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/), "Past Experience" is meant to talk about

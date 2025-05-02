@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ### Summary
 
 I've spent today trawling through various government websites trying to get a handle on the CRC program. Still much to read. Sometime soon will need to start talking with some folk. However, there does seem to be some important tasks to complete. The following is my first crack at such a list:

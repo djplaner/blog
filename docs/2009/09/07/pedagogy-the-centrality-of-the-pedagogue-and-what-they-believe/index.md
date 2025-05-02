@@ -55,9 +55,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the first part of the Pedagogy component of the Ps Framework with forms part of Chapter 2 of my thesis. As with previous thesis posts this is a rough first draft of the content, feedback welcome. This is the first of three parts to this component. The next will say something about "learning theory" and the final will draw some lessons.
 
 ### Pedagogy

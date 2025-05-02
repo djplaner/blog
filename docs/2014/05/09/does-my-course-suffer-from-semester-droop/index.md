@@ -110,9 +110,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The institutional LMS seems to be having some problems, so I'll post this instead.
 
 Quite a few folk I work with have made observations about semester droop. i.e. attendance at lectures/tutorials dropping off as the semester progresses. @damoclarky and @beerc confirmed that the same droop can be seen in the longitudinal LMS data they have access to across most courses.

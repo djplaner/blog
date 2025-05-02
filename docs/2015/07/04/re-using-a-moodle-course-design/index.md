@@ -5,9 +5,6 @@ categories: ['eds4406', 'moodle']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This semester I'm course examiner for a new course on [Secondary Computing Curriculum and Pedagogy](http://www.usq.edu.au/course/specification/2015/EDS4406-S2-2015-WEB-TWMBA.html). As the name suggests, the course is intended to help pre-service teachers who are aiming to teach computing in Secondary schools. While I'm the course examiner, the course is being developed and will be largely taught by a couple of practicing and experienced Secondary computing teachers (how's that for "recency of practice"?).
 
 Two weeks before semester start my institution opens up the course sites for students to become familiar with what's on offer. There are some minimum expected standards to meet. My task today is to meet those standards and in doing so set up the skeleton of the course site for the rest of the semester. To do this I'm going to reuse the structure from EDC3100, perhaps with a few tweaks. Besides saving me some time, four of the five students currently enrolled in the course have done EDC3100.

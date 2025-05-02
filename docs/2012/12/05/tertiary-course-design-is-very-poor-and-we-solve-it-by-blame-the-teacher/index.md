@@ -45,9 +45,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is inspired by this tweet
 
 https://twitter.com/stephenharlow/status/276073670789697537

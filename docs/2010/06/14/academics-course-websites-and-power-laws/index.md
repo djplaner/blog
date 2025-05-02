@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Last week I was thinking [that academics shouldn't manually create course sites](/blog2/2010/06/07/should-academics-manually-create-course-websites/). That arose out of the process of writing up the why/what behind what we did with Webfuse from 1999 through 2004. Today, I've been continuing that and looking at the usage statistics from that period.
 
 The following focuses on statistics about how often an academic modified a course site. The Webfuse model was to [automatically create a default course site](/blog2/2010/06/07/default-course-sites-and-wizards/) for every course offered by the faculty. Academics could then modify that site as much, or as little as they wanted. The following two graphs (first in 1999 and then in 2005) shows how many staff were editing Webfuse course sites and how many times they made page updates. Staff are ordered on increasing number of updates. What is striking to me is the similarity of the curves - both look like a ["power law".](http://en.wikipedia.org/wiki/Power_law) Some rambling on implications below.

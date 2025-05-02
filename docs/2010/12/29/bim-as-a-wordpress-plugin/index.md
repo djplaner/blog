@@ -22,9 +22,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently programming up bim2, a new version [of BIM](/blog2/research/bam-blog-aggregation-management/) to work with Moodle 2.0. I'm wondering whether a version of BIM for [Wordpress](http://wordpress.org/) might be an idea.
 
 A while ago Leigh Blackall wondered why [BIM had to be inside an LMS](/blog2/2010/04/25/inside-out-outside-in-or-both/). There were some reasons at the time. However, most no longer apply and I'm increasingly interested in moving beyond the LMS world. As a long-term Wordpress user, a Wordpress plugin might make some sense.

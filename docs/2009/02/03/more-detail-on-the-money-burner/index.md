@@ -5,9 +5,6 @@ categories: ['moneyburner']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [![Melbourne Cup Day - by doublebug on Flickr](images/2398568382_2757cd401c_m.jpg)](http://flickr.com/photos/doublebug/2398568382/)
 
 In an [earlier post](/blog2/2009/02/02/joining-the-landed-gentry-getting-a-money-burner/) I shared my joy at joining the horse racing set as the proud half owner of a broodmare. In an attempt to draw me further into this fiscal nightmare I've been provided with more information about our "investment" and it's likelihood of success.

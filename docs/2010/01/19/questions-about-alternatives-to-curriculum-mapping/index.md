@@ -29,9 +29,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A small group of colleagues are discussing possible ideas around a project to engage in curriculum mapping. Possibly with the aim of going for an ALTC grant. As part of that process one of my colleagues has raised a range of questions about the project (we're still at the storming and norming phase). The following is my attempt to answer some of those questions. The responses I give are obviously influenced by my beliefs about learning and teaching in higher education and how it does or does not work.
 
 It is also influenced by existing writing/thinking I've done around curriculum mapping, including:

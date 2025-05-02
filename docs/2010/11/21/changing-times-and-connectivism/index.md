@@ -5,9 +5,6 @@ categories: ['quotes', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is a simple holding place for some ideas and quotes from George Siemens' recent [Connectivism: Changing times](http://www.slideshare.net/gsiemens/connectivism-changing-times) talk.
 
 ### Fundamental task of education

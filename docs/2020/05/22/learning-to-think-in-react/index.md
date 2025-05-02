@@ -6,9 +6,6 @@ coverImage: 49174894718_173269bb7c_o-scaled.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As [outlined previously](/blog2/2020/05/20/playing-with-react-js-as-a-technology-for-casa/) I’m taking some steps toward learning and using the React Javascript library to develop some web interfaces/applications. The following documents progress toward writing that first application, which is largely confined to develop an initial mock-up and then learning more about the “React way”.
 
 ## Developing a mock-up

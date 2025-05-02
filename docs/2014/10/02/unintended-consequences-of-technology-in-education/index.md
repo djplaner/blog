@@ -69,9 +69,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![unintended consequences [garden geoglyop by woodleywonderworks, on Flickr](images/9726397393_9331da9281_m.jpg "unintended consequences [garden geoglyop by woodleywonderworks, on Flickr")](https://www.flickr.com/photos/wwworks/9726397393/)  
 [![Creative Commons Creative Commons Attribution 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/wwworks/)[woodleywonderworks](https://www.flickr.com/people/wwworks/) [](http://www.imagecodr.org/)
 

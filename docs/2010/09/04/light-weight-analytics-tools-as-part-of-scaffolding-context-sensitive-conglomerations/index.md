@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'distributedcognition', 'elearning', 
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A couple of days ago I floated the idea of [scaffolding, context-sensitive conglomerations](/blog2/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/) as one idea/model/suggestion for how e-learning systems (currently mostly LMS, but hopefully other models will arise).
 
 George Siemens has [posted about light-weight analytics tools](http://www.elearnspace.org/blog/2010/09/02/light-weight-learning-analytics-tools/) such as [SNAPP](http://research.uow.edu.au/learningnetworks/seeing/snapp/index.html). Both the comments on that post are, to my current somewhat focused/biased perspective, suggestions for the need for scaffolding conglomerations. Both comments are from practitioners who talk about how the supplement their use of discussion forums with other forms of representation. It would appear obvious that these combinations of tools are useful. I'm pretty sure you could find quite a few talented and motivated academics across the world that are using this combination. I'm also pretty sure that few of them would be located within the same institution.

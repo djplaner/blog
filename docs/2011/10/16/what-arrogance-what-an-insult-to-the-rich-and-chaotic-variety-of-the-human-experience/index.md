@@ -87,9 +87,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently engaging in a bit of light reading as an escape from the constraints of regular teaching. The title of this post comes from Terry Pratchet and [Feet of Clay](http://www.amazon.com/Feet-Clay-Terry-Pratchett/dp/0061057649/ref=sr_1_1?ie=UTF8&qid=1318714216&sr=8-1) (p 206)
 
 > What arrogance! What an insult to the rich and chaotic variety of the human experience.

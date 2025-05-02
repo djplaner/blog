@@ -52,9 +52,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Am at [the University of Canberra](http://www.canberra.edu.au/) for a second day today talking about the possibility of an ALTC grant application around alignment/[curriculum mapping](/blog2/research/curriculum-mapping/). The aim today is to try and clarify where the project would go and this post is an attempt to make concrete some of **my** thinking. The final ideas for the project may be radically different.
 
 I'm going to use the "project clarification" section of the ALTC's [Steps in developing an evaluation plan for an ALTC grant project](http://www.altc.edu.au/extras/altc-gsep/proj_clarification.html) as the structure for this post. Mainly because of a belief that getting into the "ALTC mindset" will increase the likelihood of success.

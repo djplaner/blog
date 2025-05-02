@@ -155,9 +155,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Elke Schneider
 
 To be presented at  [ACCE'2016](http://www.aomevents.com/ACCE2016) and an extension of [Albion et al (2016)](/blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/).

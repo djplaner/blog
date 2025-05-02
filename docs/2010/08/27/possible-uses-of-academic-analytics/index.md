@@ -76,9 +76,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a slightly edited copy of a message I've just sent off to the Learning Analytics GoogleGroup set up by [George Siemens](http://www.elearnspace.org/blog/2010/08/17/learning-analytics-2011/). I'm into reuse. Essentially it tries to highlight a small subset of the uses of learning analytics that I see as most interesting.
 
 Some [colleagues and I](http://indicatorsproject.wordpress.com) have been taking some baby steps in this area. In terms of trying to understand where we might end up doing we've started talking about three aspects. All very tentative, but can highlight a small subset of potential uses.

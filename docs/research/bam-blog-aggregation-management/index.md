@@ -1434,9 +1434,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 #### Current status of BIM 2
 
 **Updated 12 May, 2013:** BIM for Moodle 2.x is now available via [Moodle CONTRIB](https://moodle.org/plugins/view.php?plugin=mod_bim) (i.e. the plugins database). There's even a (slowly evolving) [BIM page](http://docs.moodle.org/24/en/BIM_module) in Moodle docs now.

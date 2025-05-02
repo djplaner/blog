@@ -68,9 +68,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Am somewhat torn between the logic of this sort of approach to applying insights from broader business practice to higher education, and a slight shudder at the history of misuse that exists as folk mindlessly adapt business practices to higher education. Mindless, ill-informed, or perhaps simply naive adoption of techno-rational management approaches such as top-down, "strategic" thinking and aspects of quality management are amongst the biggest problems for higher education at the moment.  
   
 Not to mention that these techno-rational approaches (and their mindless application) are probably the biggest barrier to the type of critical analysis Tim Kastelle is recommending. The teleological nature of these approaches seeks to excise all innovation and difference in the pursuit of the strategic goal and the efficient means of achieving it. Consequently, such organisations don't have the capacity to perform the analysis, let alone take action to implement/investigate any effective alternatives.  

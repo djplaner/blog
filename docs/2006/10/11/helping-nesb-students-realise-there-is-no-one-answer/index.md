@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Stephen Downes](http://www.downes.ca) has a paper titled "Learning Networks and Connective Knowledge" that is currently being discussed on the ITForum. He [blogs about the paper](http://www.downes.ca/cgi-bin/page.cgi?post=36031) and includes links to ITForum and the paper.
 
 I'm currently about 7 pages into the paper. The paper aims to provide the background to Stephen's thinking about eLearning 2.0 which in turn is based on connectivism and the characteristics of the next-gen students. The paper has a very strong theoretical base and has required me to exercise a bit more brain power than I have recently. The following is an attempt to reflect on those first 7 pages, but also to connect it to a recent experience.

@@ -65,9 +65,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Have to give a 10 minute spiel to the USQ L&T Systems Advisory group soon to support a request to get BIM installed in the institutional Moodle instance. The slide set is below.
 
 One point to address was whether others would use it. A quick Google search of online course specifications revealed that 32 of the USQ courses offered in 2012 used some form of reflective/learning journal/diary. Most connected to assessment. This makes me wonder if they are still using the old "Word document" journal approach or similar, what their experiences are like and what strategies they are using to deal with the workload and problems with this sort of approach.

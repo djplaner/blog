@@ -57,9 +57,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Miranda picks up on a common point around the combination of technology and pedagogy with [this post](http://www.globaledmatters.com/pedagogy-first-then-technology/) titled _Pedagogy First then Technology_. I disagree. If you have to think in simple sequential terms, then **I think pedagogy should be the last consideration**, not the first. The broader problem though is our tendency to want limit ourselves to the sequential
 
 Here's why.

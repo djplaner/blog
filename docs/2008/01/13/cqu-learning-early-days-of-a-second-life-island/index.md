@@ -30,9 +30,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The purpose of these posts is to provide a bit of a history of the origins and development of the CQU Learning Second Life island and the initial steps into 3D MUVE's for learning and teaching. It's also to encourage a bit of reflection on why and what is happening as well as to make open the ideas, discussions and experiences we're having for the wider CQU community (and others) if at all interested.
 
 If you have any questions, [let me know](http://cq-pan.cqu.edu.au/david-jones/) and/or feel free to add your comments down below.

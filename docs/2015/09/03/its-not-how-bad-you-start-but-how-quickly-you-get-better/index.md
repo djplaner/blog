@@ -51,9 +51,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Wood & Hollnagel (2006) start by presenting the Bounded Rationality syllogism
 
 > All cognitive systems are finite (people, machines, or combinations). All finite cognitive systems in uncertain changing situations are fallible. Therefore, machine cognitive systems (and joint systems across people and machines) are fallible. (p. 2)

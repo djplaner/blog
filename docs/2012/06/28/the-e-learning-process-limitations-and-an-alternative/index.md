@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 And here's the followup to the [well received "LMS Product" post](/blog2/2012/06/28/the-lms-product-limitations-and-alternative/). This is the second section looking at the limitations of how industrial e-learning is implemented, this time focusing on the process used. Not really happy with this one, space limitations are making it difficult to do a good job of description.
 
 ### Process

@@ -5,9 +5,6 @@ categories: ['bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So it appears that bim2.0 is increasingly needed (if you don't know what bim is, check [this out](/blog2/research/bam-blog-aggregation-management/)). University of Canberra have gone to Moodle 2 and CQU are about to, the only two places I know that bim is being used. Most importantly, I'm now teaching at a Moodle Uni and am seriously thinking about using bim, and my Uni is about to move to Moodle 2.
 
 In keeping with my practice, this post is another in [a list of posts](/blog2/category/bim/bim2/) that serve as a development journal (mainly because I'm coding so infrequently now I need to remember how to do this stuff). The aim here is to figure out where the porting is up to and perhaps identify where next.

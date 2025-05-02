@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Learning analytics is being enabled/driven/sparked by the concept of "big data", but for a while I've wondered just how big is the data being gathered by Universities. Preparations for [a workshop](http://indicatorsproject.wordpress.com/2013/09/18/moving-beyond-a-fashion-blended-learning-2013/#workshop) earlier in the week provided an opportunity to find out.
 
 ### Big data

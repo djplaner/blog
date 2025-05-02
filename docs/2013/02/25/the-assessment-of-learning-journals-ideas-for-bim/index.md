@@ -121,9 +121,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the course I'm currently teaching the students will be expected to keep a learning journal. They'll be keeping this on a personal blog that they register on the course Moodle site (but not with [BIMM](/blog2/research/bam-blog-aggregation-management/), the institutional process to get BIM installed is underway). The following floats some initial ideas about how the "assessment" of the learning journal will be automated.
 
 Reactions, criticisms and pointers welcome.

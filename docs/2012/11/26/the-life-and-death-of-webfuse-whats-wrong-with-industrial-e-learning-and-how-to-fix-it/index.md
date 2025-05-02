@@ -48,9 +48,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a collection of presentation resources (i.e. the slides) for an ASCILITE'2012 of [this paper](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/). The paper and presentation are a summary of the outcomes my PhD work. The [thesis](/blog2/research/phd-thesis/) goes into much more detail.
 
 ### Abstract

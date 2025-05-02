@@ -5,9 +5,6 @@ categories: ['ascilite', 'indicators', 'learninganalytics-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What follows will eventually be a summary of my contribution to a the ASCILITE'2017 panel titled Are learning analytics leading us towards a utopian or dystopian future, and what can we as practitioners do to influence this?](http://2017conference.ascilite.org/program/are-learning-analytics-leading-us-towards-a-utopian-or-dystopian-future-and-what-can-we-as-practitioners-do-to-influence-this/). Below you'll find a summary of my prediction and the argument that underpins it, suggestions for more reading, the slides, and [references.
 
 ### Argument

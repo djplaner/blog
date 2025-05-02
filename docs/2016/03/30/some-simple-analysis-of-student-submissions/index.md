@@ -5,9 +5,6 @@ categories: ['bad', 'edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The [last post](/blog2/2016/03/29/setting-up-the-analysis-of-student-submissions/) outlined the process for extracting data from ~300 student submissions. This one outlines what was done to actually do some analysis on that data.
 
 The analysis has revealed

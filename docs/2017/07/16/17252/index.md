@@ -5,9 +5,6 @@ categories: ['edu8702']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is my initial response to [this exercise](http://usqstudydesk.usq.edu.au/m2/mod/book/view.php?id=806144) from the week 3 learning path. It's an exercise intended to get folk thinking about what practices, if any, have emerged in their disciplinary teaching context from when they were undergraduates until now. It asks them to consider some of the emerging practices mentioned in the Horizon and New Generation Pedagogy reports. It also asks them to consider if any of them are visible in "good practice" within the discipline.
 
 As per the exercise instructions, the following is not a formal academic document. It's a bit of writing to think. The exercise is intended to encourage folk start framing thoughts that will become the basis for an assessment task.

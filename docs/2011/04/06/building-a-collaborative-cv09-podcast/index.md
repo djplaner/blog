@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Another task related to the ICTs for Learning Design assignment is in examining podcasts. Rather than access existing podcasts, I'm going to reuse an idea first generated for a "Web 2.0 course site" and which I've reused a couple of times in [MOOCs](http://mooc.ca/). The use of social-bookmarking and a feed aggregator to enable the creation of a collaborative podcast.
 
 ### The original task

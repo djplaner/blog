@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I suggest that many of the problems organisations face can be traced back to a few observations
 
 - There are limited resources, the organisation can't do everything.

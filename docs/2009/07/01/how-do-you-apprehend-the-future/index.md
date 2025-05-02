@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to reflect upon [an EDUCAUSE Review article](http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume44/ApprehendingtheFutureEmergingT/171774) by [Bryan Alexander](http://infocult.typepad.com/about.html) entitled "Apprehending the Future: Emerging Technologies, from Science Fiction to Campus Reality". I'm doing this because I believe the topic, at least at first glance, has connections with the [new role](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to fulfill at my current institution.
 
 ### Summary

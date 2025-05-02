@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [last post](/blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/) in this series looked briefly at the contents of Moodle Book resources. This post is going to look at when the book resources are used, including:
 
 - What time of day are the books used?

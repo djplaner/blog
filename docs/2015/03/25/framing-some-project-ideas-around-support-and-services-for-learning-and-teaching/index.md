@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 When time permits I'm working with a group (one of many) that is tasked with coming up with project ideas that could support my current institution's strategic plan around learning and teaching. In particular we've been tasked to consider projects that will help build the institution's capacity to
 
 > Continuously improve capacity to effectively and efficiently develop, manage, and deliver support and services.

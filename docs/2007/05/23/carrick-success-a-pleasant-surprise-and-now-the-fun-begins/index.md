@@ -64,9 +64,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I received notice today from [Penny de Byl](http://www.sci.usq.edu.au/staff/bailliep/) that an application for a [Carrick Institute](http://www.carrickinstitute.edu.au/carrick/go) competitive grant had been successful.
 
 Under the title "The seamless integration of Web3D technologies with university curricula to engage the changing student cohort" the project involves teams from both [USQ](http://www.usq.edu.au/) and [CQU](http://www.cqu.edu.au) draw on technical expertise of a USQ [research group](http://www.alivex3d.org/tiki-index.php) to integrate the use of 3D virtual worlds into learning.

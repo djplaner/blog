@@ -5,9 +5,6 @@ categories: ['bim', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I have a problem. If I'm really lucky, [BIM](/blog2/research/bam-blog-aggregation-management/) will get added to my institution's version of BIM for Semester 2 and I will be able to use it. Based on my experience this semester - where I've used an approach that depends on BIM - there has been limitations and workload issues. Having BIM installed in the "enterprise LMS" will help significantly reduce these problems. It will also severely limit my ability to learn.
 
 That limitation will arise from the nature of being an "enterprise" LMS. i.e. not at all agile. Instead a lumbering behemoth that takes a while to turn around. Getting the "enterprise" installation of BIM changed in anyway will involve going through a governance process that will have numerous steps. During these steps the expense of changing BIM will have to compete for the scarce resources available to change the "enterprise" LMS with other requirements. Requirements that are likely to be significantly more important than the couple of hundred students in the 2 or 3 courses I teach.

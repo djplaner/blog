@@ -5,9 +5,6 @@ categories: ['academicdevelopment']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 One of the ideas proposed, or at least reportedly proposed, in [Shekerjian (1990)](http://www.amazon.com/Uncommon-Genius-Denise-Shekerjian/dp/0140109862) is that the act of becoming aware that other people hold different perceptions of some task helps you think about your own strategy. I like this idea and tend to believe that being aware of diversity of opinion can help.
 
 My question then is why does the implementation of most Learning Management Systems in universities preclude the ability to become aware of a diversity of perceptions? Access to most course websites is generally limited to the staff and students associated with the specific course. The very design of most of the tools and services within LMS are designed so that they make no mention of how the service is being used by other folk.

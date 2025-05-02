@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Building on [that last bit of issue cleanup](/blog2/2013/01/01/bim-2-0-cleaning-up-issues-part-1/) this aims to reduce the [list of open BIM issues](https://github.com/djplaner/BIM/issues) a bit more. The focus in this part will be
 
 - [#53](https://github.com/djplaner/BIM/issues/53) issue with question management message.

@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is one part of the Evaluation section of Chapter 5 of [my PhD thesis](/blog2/research/phd-thesis/). It's actually the fourth section, but it's the first to have reached a rough first draft stage. The basic aim is to show how the Webfuse interventions from 2000 through 2004 (and beyond) increased the flexibility and diversity of the system.
 
 By itself this may not make much sense without some knowledge of prior sections/chapters of the thesis and/or CQU experience.

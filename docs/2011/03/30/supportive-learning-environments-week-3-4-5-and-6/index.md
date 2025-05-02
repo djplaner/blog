@@ -5,9 +5,6 @@ categories: ['eded20455', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 And now begins a couple of weeks catch up, and hopefully getting up. The following is reflection on weeks 3, 4, 5, and 6 of the course on Supportive Learning Environments I'm studying.
 
 ### Culture, Society and Difference - Week 3

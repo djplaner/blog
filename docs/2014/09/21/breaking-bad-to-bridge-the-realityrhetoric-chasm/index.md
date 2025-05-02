@@ -583,9 +583,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a copy of a paper accepted at [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) (and nominated for best paper) written by [myself](http://djon.es/) and [Damien Clark](http://damosworld.wordpress.com/) (CQUniversity - @damoclarky). The official conference version of the paper [is available as a PDF](http://ascilite2014.otago.ac.nz/files/fullpapers/221-Jones.pdf).
 
 [Presentation slides](https://docs.google.com/presentation/d/1HI8bIyLoBDrf_Jm525sb8KhOcyWkJ2Lg/edit?usp=sharing&ouid=110869324164028184563&rtpof=true&sd=true) available on Slideshare Google Slides.

@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part of my [new position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I have an accountability that involves "facilitating the teaching/research nexus across the university". The notion of a teaching/research nexus is still a fairly opaque term for me (something I'll remedy in the future). While I can see the rationale behind the idea, I have my cynical doubts about whether it will end up being a term that has a meaningful impact or becomes as abused and misused as some other "terms" - e.g. generic attributes, lifelong learning etc.
 
 The rise of social software potentially provides some interesting ways to address some old problems. Though it also provides the opportunity to play at window dressing with the new technology without actually addressing the fundamental causes of the problem (LMS anyone?). Just recently George Siemens [pointed to some work](http://www.elearnspace.org/blog/2009/06/04/investigating-the-application-of-social-software-to-support-networked-learning/) around this area. I'm wondering if the same possibility exists around the teaching/research nexus.

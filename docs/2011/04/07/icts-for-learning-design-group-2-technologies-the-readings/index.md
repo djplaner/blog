@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Another week, another group of technologies for the ICTs for learning design course. Group 2 is focused on images, video and audio tools. This post focuses on the readings, the next on the activities.
 
 ### A global imperative

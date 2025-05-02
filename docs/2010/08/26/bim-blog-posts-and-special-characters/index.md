@@ -5,9 +5,6 @@ categories: ['bim', 'bimerrors']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary/explanation of a common problem with BIM and its mirroring of blog posts and a common solution. The problem is generally caused by folk creating their blog posts in Word and then copying and pasting them into the blog post. For various reasons this process brings along some "special" characters which, while they work fine in Word, screw up royally within more constrained textual representations, like those of Web browsers and XML/RSS parsing libraries.
 
 ### Reported problem

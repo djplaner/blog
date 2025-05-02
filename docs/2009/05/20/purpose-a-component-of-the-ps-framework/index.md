@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is yet another section from chapter two of my [thesis](/blog2/research/phd-thesis/). As with previous sections, this is an early first draft, it will change.
 
 This section attempts to give a brief overview of the Purpose component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/).

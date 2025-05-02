@@ -97,9 +97,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the first attempt to expand upon an idea that's been bubbling along for the last few weeks. It arises from a combination of recent experiences, including
 
 - Working through the [institutional processes](/blog2/2013/03/18/bim-why-and-what/) to get [BIM](/blog2/research/bam-blog-aggregation-management/) installed on the institutional Moodle.

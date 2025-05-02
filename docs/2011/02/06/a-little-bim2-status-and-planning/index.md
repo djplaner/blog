@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The purpose of this post is to make concrete the status and future plans around bim2. The update of [bim](/blog2/research/bam-blog-aggregation-management/) for Moodle 2.0.
 
 ### Current status

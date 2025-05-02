@@ -32,9 +32,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Came across the idea of a hassle map via the following tweet from @susangautsch retweeted by @michaelbtw. It's generated two immediate responses
 
 1. Is it an option for the Year 10 mathematics class I'm going to be teaching?

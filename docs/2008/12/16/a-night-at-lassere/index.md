@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Friday night we were booked in to eat at [Lasserre](http://www.restaurant-lasserre.com/uk/navigation.htm). A two-star Michelin restaurant of the haute cuisine style.
 
 [![blurry night time eiffel](images/3106193183_7dd4eb78ab_m.jpg)](http://www.flickr.com/photos/david_jones/3106193183/ "blurry night time eiffel by David T Jones, on Flickr")

@@ -69,9 +69,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Sandy Behrens, "[Online Assignment Management: An Evolutionary Tale,](http://www2.computer.org/portal/web/csdl/doi/10.1109/HICSS.2003.1174347)" Hawaii International Conference on System Sciences, vol. 5, no. 5, pp. 156c, 36th Annual Hawaii International Conference on System Sciences (HICSS'03) - Track 5, 2003.
 
 ## Abstract

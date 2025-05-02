@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [My last post](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) introduced some early steps in exploring how to increase the reuse of design knowledge in design for digital learning (i.e. designing course websites). That post outlined the specific problem, the solution and linked it to work on constructive templates and patterns from the Hypermedia Design literature (Nanard, Nanard and Kahn, 1998). It closed with observing how the current solution was limited. It only provided scaffolding for the act of creating/implementing the specific design. It didn’t offer any affordances for the local context or design for configuration. This post details some early work to address this.
 
 ### Reminder of the card interface “template”

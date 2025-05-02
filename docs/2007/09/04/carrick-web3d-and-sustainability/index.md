@@ -5,9 +5,6 @@ categories: ['web3dx']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm lucky enough to be involved with a [Carrick funded project](http://cddu.cqu.edu.au/index.php/Web3D_Exchange_Project) looking at how to integrate 3D immersive technologies into university education. My fellow project team members have already been put through the uplifting experience that is my pessimism. I'm quite sure that experience was enough for them to reconsider the value of having be involved.
 
 In doing some reading for my PhD thesis (yes I am procrastinating by writing this post) I came across a paper titled [Sustaining model systems of educational activity: Designing for the long haul](http://lchc.ucsd.edu/People/MCole/ann.html).

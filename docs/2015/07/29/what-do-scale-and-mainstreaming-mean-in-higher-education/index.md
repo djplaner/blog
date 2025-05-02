@@ -5,9 +5,6 @@ categories: ['4paths', 'bad', 'elearning', 'tam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 @marksmithers has just written [a blog post](http://www.masmithers.com/2015/07/29/we-need-more-investment-in-mainstreaming-innovations-not-generating-new-ones/) that makes the following point
 
 > that talks about a new fund to promote innovation in highered. I know $5M isn’t a huge amount but the principle just seems so misguided. There is no problem with innovation in higher education. The problem is adopting and mainstreaming innovations across a higher ed institutions.

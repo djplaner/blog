@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Growing up in [Rockhampton](http://www.rockhamptoninfo.com/) in the 70s and 80s, access to music that wasn't pop or C&W just didn't happen. Different types of music were scarce. In these days of iTunes, peer-to-peer etc. it has radically changed. There is an abundance.
 
 The impact of this change is difficult to underestimate, and difficult to illustrate. This YouTube video and what it embodies does a really good job.

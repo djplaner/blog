@@ -47,9 +47,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In an [earlier post](/blog2/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/) I drew on a "model of teaching" from Trigwell (2001). The model is shown below
 
 [![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")

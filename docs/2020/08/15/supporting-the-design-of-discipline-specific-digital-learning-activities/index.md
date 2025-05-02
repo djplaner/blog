@@ -6,9 +6,6 @@ coverImage: 24322587491_400a8daf6d_o-scaled-e1597452063212.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's widely accepted that the most important part of learning and teaching is **what the student does** (Biggs, 2012). The spaces, tools and tasks in and through which students "do stuff" (i.e. learning, or not) are in some way designed by a teacher with subsequent learner adaptation (Goodyear, 2020).
 
 Designing learning spaces, tools and tasks is not easy. Especially when digital technologies are involved. The [low digital fluency of teachers](/blog2/2014/09/12/you-want-digitally-fluent-faculty/) is seen as a (for some **the**) significant challenge (Johnson et al, 2014). Hence the big focus on solutions such as requiring all teachers to have a formal teaching qualification. Formal "certification" programs such as the HEA. Or the focus on running workshops and producing online "how-to" support material. The focus on teacher knowledge tends to ignore the distributed and contextual nature of the knowledge required. It doesn't just reside in the heads of the teachers but is distributed amongst the other agents (people, technologies, policies etc) in the institutional learning and teaching system (Jones et al, 2015).

@@ -62,9 +62,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Last week I [started a new Phd tradition](/blog2/2009/02/27/phd-update-1-the-start-of-a-tradition/) - weekly updates. Traditionally the second album for a successful pop group is somewhat less than successful, I feel some connection with that tradition. Hopefully it will be significant motivation for next week.
 
 ### 27th Feb to 6th Mar

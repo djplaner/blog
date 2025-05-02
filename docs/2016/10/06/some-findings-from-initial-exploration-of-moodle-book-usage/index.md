@@ -5,9 +5,6 @@ categories: ['exploring', 'moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I recently gave a talk at the [Moodlemoot’AU 2016 conference](https://mootau.moodlemoot.org/course/view.php?id=62) in Perth. The talk was titled [“How and why do people use the Moodle Book module?”](/blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/)  It reported on analysis of data from one University's Moodle isntances to explore how courses, learners, and teachers made use of the Moodle Book module (aka the Book) from 2012 through 2015. The slides, abstract, and links to various interactive graphs used in the presentation are available via [the presentation webpage](/blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/).
 
 This talk is part of a broader project that is looking more [into post-adoption usage of e-learning systems](/blog2/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/), with an initial focus on the Book module.

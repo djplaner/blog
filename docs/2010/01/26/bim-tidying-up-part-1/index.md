@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Apart from some playing around with the gradebook, the new development for BIM is complete. What is left to do is the various cleaning up, double checking, documentation and other tasks necessary to turn BIM from essentially functional to something reasonably okay to install. This is the first post describing that process. It and the following ones will essentially be working through the [to do list](/blog2/research/bam-blog-aggregation-management/bim-to-do-list/).
 
 ### Created locallib.php

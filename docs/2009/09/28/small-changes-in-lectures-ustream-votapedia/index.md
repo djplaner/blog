@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Sometime in the next month I have to develop the [presentation](http://www.educause.edu/E09+Hybrid/EDUCAUSE2009FacetoFaceConferen/ELearningImplementationAlterna/176134) I'll be giving at [EDUCAUSE'09](http://www.educause.edu/E2009). The plan is to give this presentation at my host institution before EDUCAUSE and also to try some new technologies to make the spread of the presentation greater in terms of breadth and interaction. This is the start of some reflection and planning for that event.
 
 I'd love to hear from folk their experience or suggestions.

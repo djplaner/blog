@@ -6,9 +6,6 @@ tags: ['amar-bhid', 'big-idea', 'harvard-business-review', 'individual-judgment'
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Am finding this HBR article to have an interesting take on the centralisation verse de-centralisation argument. However, still reading through it.  
   
 It particularly resonates with me at the moment because of the discussions I've had/seen this week around individual universities implementing minimum course presence policies. Essentially, it seems the next big fad for universities to be able to ensure that every course has a standard minimum course website.  

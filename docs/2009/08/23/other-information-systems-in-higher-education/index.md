@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 't
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the next short, and still somewhat questionable, section of the Product component. [A previous post](/blog2/2009/08/23/lms-characteristics-and-limitations/) discussesd the limitations of an LMS, this section talks briefly about the other types of systems necessary for learning and teaching. The next section will talk about more abstract alternatives to those most commonly associated with the LMS.
 
 ### Other systems

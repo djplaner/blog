@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Level 1 of Biggs knowledge of teaching is "blame the student". i.e. there are good and bad students. One of the common complaints I hear from academics at universities go something like this
 
 > there is also a real difficulty, due to the fact that pupils cannot be trusted to follow directions

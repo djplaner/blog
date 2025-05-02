@@ -28,9 +28,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As [I've mentioned before](http://cq-pan.cqu.edu.au/david-jones/blog/?p=111) [Myers-Briggs](http://en.wikipedia.org/wiki/Myers-briggs) puts me into the INTP box, a [Kiersey Archiect-Rational](http://www.keirsey.com/handler.aspx?s=keirsey&f=fourtemps&tab=5&c=architect). Which amongst many other things I have an interest in figuring out the structure of things.
 
 As part of that interest in "figuring out the structure" I spent three days last week in Canberra at a [Cognitive Edge accreditation course](http://www.cognitive-edge.com/eventsdetail.php?eventid=23). Primarily run by [Dave Snowden](http://www.gurteen.com/gurteen/gurteen.nsf/id/dave-snowden) (you know that a man with his [own Wikipedia page](http://en.wikipedia.org/wiki/Dave_Snowden) must be important), who [along with others](http://en.wikipedia.org/wiki/Myers-briggs#Criticism) has significant criticisms of the Myers-Briggs stuff, the course aims to bring people up to speed with [Cognitive Edge's](http://www.cognitive-edge.com/) approach, methods and tools to management and social sciences.

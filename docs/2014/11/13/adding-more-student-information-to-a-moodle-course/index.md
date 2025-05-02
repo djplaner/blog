@@ -57,9 +57,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 moreStudentDetails.user.js is a Greasemonkey script I've written to provide more details about a student when I'm using Moodle. Originally intended to help when responding to a student query in a course I teach that regularly has 300+ pre-service teachers from a range of backgrounds and locations. The current version produces something like the following image (click on it to see a larger version).
 
 [![MAV-based more user details](images/15316891905_d54e182394_n.jpg)](https://www.flickr.com/photos/david_jones/15316891905 "MAV-based more user details by David Jones, on Flickr")

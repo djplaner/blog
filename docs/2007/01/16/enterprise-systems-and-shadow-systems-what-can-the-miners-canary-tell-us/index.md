@@ -5,9 +5,6 @@ categories: ['paperideas', 'web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the first cut at developing a submission for the [2007 EDUCAUSE Annual Conference](http://educause.edu/e07) in Seattle, Oct 23-36. The theme for the conference is "Information Futures: Aligning our Missions".
 
 Proposals are due [February 6, 2007.](http://educause.edu/11215)

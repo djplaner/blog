@@ -155,9 +155,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 After a long pause due to holidays and work, here's the next installment of the process component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog2/research/phd-thesis/). A [previous post](/blog2/2009/05/25/teleological-and-ateleological-processes/) gave a brief overview of teleological and ateleological processes. The purpose of this post is to go into more detail about teleological processes. A subsequent post will do the same for ateleological.
 
 This is still a first draft, so comments and feedback are welcome.

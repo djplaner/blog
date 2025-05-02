@@ -108,9 +108,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Consider this a plea for suggestions. In particular, consider it a plea for workarounds that I can implement quickly (and painlessly).
 
 ### The problem

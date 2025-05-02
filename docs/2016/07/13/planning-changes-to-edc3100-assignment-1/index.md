@@ -5,9 +5,6 @@ categories: ['bad', 'edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In the first half of the year there was [a new assignment](/blog2/2016/03/10/setting-up-an-excel-checklist/) in EDC3100 designed to both enhance student learning, but also experiment with making the data produced by students and markers as part of the assessment process more accessible for manipulation by software. i.e. the students and markers entered data into a spreadsheet.
 
 It's a new semester, time to reflect on that initial use and see what changes should and can be made.

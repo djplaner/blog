@@ -92,9 +92,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Currently, CQUni is undertaking an evaluation of [Sakai](http://sakaiproject.org/portal) and [Moodle](http://moodle.org/) as a replacement for [Blackboard](http://blackboard.com/us/index.bbb) as the organisation's Learning Management System. The evaluation process includes many of the standard activities including
 
 - Developing a long list of criteria/requirements and comparing each LMS against that criteria.

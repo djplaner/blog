@@ -45,9 +45,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Metaphors are useful. They reveal some of the underlying assumptions held by people. For example, [this paper](http://aisel.aisnet.org/icis2007/9) (Behrens, 2007) reveals that Information Systems research has a strong bias towards thinking of organisations as if they were machines. A bias that tends to invade most organisational practice. The following picks up on a couple of recent events to examine one of the metaphors commonly used in academia. It argues that this metaphor reveals some problematic assumptions.
 
 ## Herding cats

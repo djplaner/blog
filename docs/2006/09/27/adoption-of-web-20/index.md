@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [A post](http://elearningtech.blogspot.com/2006/09/adoption-of-web-20-and-elearning-20.html) that looks at how/if the adoption of Web 2.0/eLearning will occur. Will they or won't they?
 
 The basic premise is that its usefulness and ease of use that will be the major factors. And that for Web 2.0 tools ease of use should be quite high. So it all comes down to usefulness.

@@ -91,9 +91,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Almost 20 days ago I started [thinking about](/blog2/2012/02/03/thinking-about-moodle-course-design/) the design of the Moodle (1.9.x) site (called a StudyDesk at my institution) for my course. As O-Week draws to a close, the following describes the current final product.
 
 _Note:_ The focus here is on the (pragmatic) physical design and layout of the site with just a bit of pedagogy/learning design.

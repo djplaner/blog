@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This week is assignment week. One of the assignments I need to complete is for the course ICTs for Learning Design. This final assignment requires us to design a unit of work (a sequence of learning experiences) for a particular subject that makes effective use of eLearning. The following is the first step in this process.
 
 The process started over a fortnight ago with [a post](/blog2/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/) asking where all the innovative IPT (Information Processing and Technology) courses were? Many thanks to [@meganrodda](http://twitter.com/#!/meaganrodda) for sharing her games design program.

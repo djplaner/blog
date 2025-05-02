@@ -22,9 +22,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 So assessment for term 1 of the Graduate Diploma in Learning and Teaching is complete, term 2 beckons. The following is some reflection on initial exploration of the courses, expectations and assessment.
 
 ### Missing resources

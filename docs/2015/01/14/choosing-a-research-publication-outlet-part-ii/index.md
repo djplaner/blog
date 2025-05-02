@@ -183,9 +183,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 My name is David. I'm an academic. It's been 8 years since my last journal paper (but what a [paper](http://scholar.google.com.au/scholar?hl=en&q=The+Anatomy+of+a+Design+Theory&btnG=&as_sdt=1%2C5&as_sdtp=) it was, thanks Shirley).
 
 In my defence, for three of those years I was finishing the PhD, 1 year finishing a GDL&T, three years getting used to a new discipline, and generally just cynical about the whole journal process, and not having much I considered useful to say. But that has to change, otherwise I'll have some explaining to do. This year is about writing some journal papers. So where should I publish?

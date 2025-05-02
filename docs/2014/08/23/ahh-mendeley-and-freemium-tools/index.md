@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![You don’t have to be rich to invest in i by joe.ross, on Flickr](images/6478575525_a9c0d23bdd_m.jpg "You don’t have to be rich to invest in i by joe.ross, on Flickr")](https://www.flickr.com/photos/joeybones/6478575525/)  
 [![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/joeybones/)[joe.ross](https://www.flickr.com/people/joeybones/) [](http://www.imagecodr.org/)
 

@@ -70,9 +70,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the tasks for the course I teach is to explore in a bit more detail one of the 150 ICT innovations identified as "good" in [the Decoding Learning report](http://www.nesta.org.uk/areas_of_work/public_services_lab/digital_education/assets/features/decoding_learning_report). The list can be downloaded as an [Excel spreadsheet](http://www.nesta.org.uk/areas_of_work/public_services_lab/digital_education/assets/documents/decoding_learning_data). Preferably, the idea is we should be exploring ICT innovations that we might like to apply in our teaching.
 
 ## The Wii, proportion and embodied mathematical cognition

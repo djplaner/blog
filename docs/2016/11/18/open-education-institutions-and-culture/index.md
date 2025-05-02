@@ -5,9 +5,6 @@ categories: ['open']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Today the good folk at my institution's library (and others I assume) are [running a symposium](http://www.usq.edu.au/connect-create-curate) "exploring current practice and future potential for open educational practice and libraries".
 
 As most of the participants are employed by institutions (and the libraries thereof) there appears to be much interest in how institutions can support, encourage and enable open education.

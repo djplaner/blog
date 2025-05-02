@@ -5,9 +5,6 @@ categories: ['bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The wife's out for some culture so I find myself late on a Saturday night taking the initial steps in the second attempt to port BIM to Moodle 2. Started reading Mike Churchward's blog series on [porting modules to Moodle 2](http://tandl.churchward.ca/2011/10/converting-m19-plug-ins-to-m2.html).
 
 Time moves on, and almost a week later I'm putting the finishing touches on this post/development journal entry. It gives a brief summary (mostly for my records) of what I've done to get a version of [BIM](/blog2/research/bam-blog-aggregation-management/) that is being recognised by Moodle 2.1. Not sure how well it is working, but Moodle 2.1 is creating tables and recognising the plugin as being available for use in courses.

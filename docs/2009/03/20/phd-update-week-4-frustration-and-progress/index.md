@@ -5,9 +5,6 @@ categories: ['phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This week is turning out to be perhaps the most frustrating, not due to lack of program, but instead due to connections between what I'm reading/writing and what I'm seeing in my local context. As per [last week's update](/blog2/2009/03/13/phd-update-week-3/) the aim this week was to complete sections of chapter 2 related to the Ps Framework. The first section I targeted was "Past Experience" and this has been the source of the frustration.
 
 The more I read, synthesize and write about the history of learning and teaching in universities, especially e-learning, the more I get frustrated. Mainly due to seeing the same mistakes being made again and again. Especially locally.

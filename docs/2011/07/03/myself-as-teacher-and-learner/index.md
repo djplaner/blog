@@ -5,9 +5,6 @@ categories: ['eded20487', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a first draft of part of an assignment for a University course titled "Learning and Pedagogy in Secondary". A part of the assignment description is
 
 > It is important for you as an emergent secondary school teacher to reflect on your own attitudes and perceptions towards learning; to understand your own preferred learning styles and strategies; and to identify any areas that you have little experience of or may not prefer. Many of the students in your classes may learn in very different ways to you, so it is important that you are aware of your own biases and consider ways to address these to meet the needs of all learners. In this section identify and reflect on your own strengths and weaknesses, especially in relation to using strategies for Dimensions 1, 2 and 5 and reflect on what this means for your work as a secondary school teacher.

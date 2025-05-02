@@ -138,9 +138,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Sorry, but the purpose of this post is entirely selfish. My [host institution](http://www.cqu.edu.au/) has recently established a research center around learning, teaching and education. Given my background and interests, I'll be doing work under the auspices of the center and occasionally need to access the website (even though the website is implemented with CQU's home-grown content management system) of the center.
 
 The full name of the center is the [Learning and Teaching Education Research Centre](http://www.cqu.edu.au/lterc/) which is abbreviated to [LTERC](http://www.cqu.edu.au/lterc/). As of yet, despite promises to the contrary, you can't Google LTERC and get a pointer to the site. To make matters worse the home-grown content management system doesn't maintain human readable URLs. The URL for the centre is http://www.cqu.edu.au/lterc/, but once you're looking at the page you this meaningful URL gets replaced with http://content.cqu.edu.au/FCWViewer/view.do?site=779. Obviously a URL that encourages one to remember the site. For example, I've only just (through trial and error) realised that the www.cqu.edu.au/lterc URL will work.

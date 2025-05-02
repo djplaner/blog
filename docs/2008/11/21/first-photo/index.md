@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Memory card ([SanDisk eXtreme 3](http://www.sandisk.com/Products/Item\(1856\)-SDCFX3-008G-A31-SanDisk_Extreme_III_CompactFlash_8GB.aspx) 8Gb) and bag ([Tamrac expedition 5x](http://www.tamrac.com/frame_exp.htm)) have been successfully purchased and returned home. The camera is finally together and the first shot has been taken.
 
 [![First shot with the new camera](images/3046828037_2c76ecde07_m.jpg)](http://www.flickr.com/photos/david_jones/3046828037/ "First shot with the new camera by David T Jones, on Flickr")

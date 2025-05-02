@@ -42,9 +42,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following post brings together two recent events in my life into an attempt at a [WCYDWT](http://blog.mrmeyer.com/?p=6870) question for mathematics. It's not a perfect fit for WCWYDT, but close.
 
 ### What can you do with this?

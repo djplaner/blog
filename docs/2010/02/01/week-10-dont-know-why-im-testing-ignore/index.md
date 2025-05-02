@@ -5,7 +5,4 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Just another test. Won't know it's worked for a bit.

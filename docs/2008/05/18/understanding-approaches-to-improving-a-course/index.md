@@ -5,9 +5,6 @@ categories: ['addie', 'c2d2', 'elearning', 'paperideas']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Theoretically [the group](http://cddu.cqu.edu.au/) I work with is charged with helping staff at [CQU](http://www.cqu.edu.au/) improve the quality of their learning and teaching. To improve the courses they teach. A task that is not particularly easy for any number of reasons. Including the one identifed by [Farhad Saba](http://edweb.sdsu.edu/people/FSaba/FSaba.html) in this [post](http://www.distance-educator.com/blog/saba/?p=7). i.e. that academics by nature are a fairly solitary bunch and aren't used to, or particularly like, work with other people to help improve a course. I know this from two perspectives, working where I am now and because I was just such an academic.
 
 Arising from this preference for solitary work is that most academics generally have their own ideas, preferences and methods for improving their courses. This is tied to their conceptualisation of learning and teaching and also their past experience. This variety in how to improve a course raises some interesting problems for those charged with helping them. How do provide assistance to a large number of people who are doing things differently?

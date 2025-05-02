@@ -5,9 +5,6 @@ categories: ['ascilite']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Negin Mirriahi](https://research.unsw.edu.au/people/dr-negin-mirriahi) - A window into lecturers' conversations: With whom are they speaking about technology and why does it matter?
 
 How can HE institutions enhance technology adoption?

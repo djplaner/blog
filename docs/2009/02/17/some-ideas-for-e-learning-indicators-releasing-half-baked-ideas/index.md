@@ -5,9 +5,6 @@ categories: ['elearning', 'indicators', 'innovation', 'lmsevaluation']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a quick mind dump of ideas that have arisen today about how you might make use of the usage data and content of course websites from course management systems (CMS) to find out interesting things about learning and teaching. i.e. Col is aiming to develop [inidcators](http://beerc.wordpress.com/2008/12/21/more-on-the-indicators/) that might be of use to the participants associated with e-learning - management, support staff, academics, students etc.
 
 This post is an attempt to live up to some of the ideas of Jon Udell that I discussed [in this post](/blog2/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/) about getting half-baked ideas out there. Col and I have talked a bit today and I've also regained some prior thoughts that I'm putting down so we don't forget it.

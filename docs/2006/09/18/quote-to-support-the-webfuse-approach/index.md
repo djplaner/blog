@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A nice quote to support the approach taken with BAM and to some extent Webfuse
 
 > Therefore, research should be conducted to determine the best ways to integrate these tools into existing e-Learning programmes for students, health professionals and patients, taking into account the different, but also overlapping, needs of these three audience classes and the opportunities of virtual collaboration between them. Of particular importance is research into novel integrative applications, to serve as the "glue" to bind the different forms of Web-based collaborationware synergistically in order to provide a coherent wholesome learning experience.

@@ -142,9 +142,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A long-running problem at my institution - I don't think we're alone, I think most universities are in this boat - has been the absence of any support or processes around curriculum mapping. I've written [briefly about this before](/blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/), but now I have to produce a report with some background and recommendations.
 
 The following is an attempt to ask questions and see if anyone can provide some additional insights. The following is based on the little bit of searching I've done so far.

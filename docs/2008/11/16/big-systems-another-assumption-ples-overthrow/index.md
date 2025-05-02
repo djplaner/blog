@@ -5,9 +5,6 @@ categories: ['design-theory', 'elearning', 'ple', 'thesis', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is a continuation of my attempt to develop a list of the assumptions underpinning existing practice around learning and teaching at universities which the concepts surrounding the Personal Learning Environments (PLE) term bring into question. The list started with [this post](/blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/) and is continuing (all the posts should be linked from the bottom of the [original post](/blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/)).
 
 ### "Big" systems

@@ -318,9 +318,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In [a previous post](/blog2/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/) I gave an early conceptualisation of a cycle I was seeing in the history of educational technology I've been working on as part of the "Past Experience" section of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) - chapter 2 of my [thesis](/blog2/research/phd-thesis/). In this post I try and give an overview of a similar cycle already well established: Birnbaum's (2000) Life Cycle of the Fads Process.
 
 As I near the end of this post, I recognise the overlap/connection with [Gartner's Hype Cycle](http://en.wikipedia.org/wiki/Hype_cycle), so I've added some discussion of that. Since it appears to pre-date Birnbaum's work.

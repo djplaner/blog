@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Looks like I'm going to be away in coming weeks and the first assignment is due soon, so time to get a little ahead. So the following documents/reflects week 3 of work for the ICTs for Learning Design course.
 
 ### Overview

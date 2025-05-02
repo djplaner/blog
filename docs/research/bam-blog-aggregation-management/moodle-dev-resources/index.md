@@ -4,9 +4,6 @@ date: 2009-12-15 11:05:34+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Getting back into Moodle development has reinforced the need to put links to the resources I use in the one place.
 
 ### What I'm currently using

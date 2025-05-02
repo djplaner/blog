@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Part of a project for "Embracing blogs" for information literacy. Based on a paper that I think I've seen before.
 
 [Quicktime broadband](http://streaming.cqu.edu.au/util/play.php?format=qt&url=rtsp://qtstreamer.cqu.edu.au/cqu/research/seminars/ahs_seminar_240806_med.mov&start=00:00:55&end=00:52:57) version of the talk. Probably only visible to people on the CQU campus.

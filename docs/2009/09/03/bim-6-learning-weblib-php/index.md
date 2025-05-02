@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's been a while since I [last did some work on BIM](/blog2/2009/08/20/bim5-getting-a-prototype-bim-going/), various other tasks getting in the way. The main mid-term KPI is the delivery of a working prototype of BIM working within Moodle. That's what I started in the last bit of work.
 
 The aim here is to get into [weblib.php](http://docs.moodle.org/en/Development:lib/weblib.php) enough so I can get most/much of the prototype in place. weblib.php contains PHP functions used in Moodle to generate output. I could just output HTML but using weblib.php will make it easy for the prototype to look like Moodle. weblib.php also brings other benefits, so better to start using it now, rather than later. Just another step in learning Moodle.

@@ -165,9 +165,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is forming up as something to go into my [thesis](/blog2/research/phd-thesis/) as part of the "Past experience" component of the Ps Framework.
 
 Essentially, I'm going to try and

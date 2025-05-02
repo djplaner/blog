@@ -5,9 +5,6 @@ categories: ['4paths', 'indicators', 'irac', 'learninganalytics-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Last year I started using [with Perl to play with](http://plot.ly) [analytics around Moodle Book usage](http://djon.es/blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/). This year, @beerc and I have been starting to play with Jupyter Notebooks and Python to play with analytics for meso-level practitioners (Hannon, 2013). Plotly provides a fairly useful platform for generating graphs of various types and sharing the data. Works well with a range of languages and Jupyter Notebooks.
 
 Question here is how well it works with Wordpress. Wordpress has some (understandable) constraints around embedding external HTML in Wordpress posts/pages. But there is a large set of community contributed plugins to Wordpress that help with this, including a couple that apparently work with Plotly.

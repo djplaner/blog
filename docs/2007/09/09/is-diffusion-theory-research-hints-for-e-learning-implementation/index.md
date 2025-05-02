@@ -5,9 +5,6 @@ categories: ['design-theory', 'herding-cats', 'web3dx']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I've [previously written here](http://cq-pan.cqu.edu.au/david-jones/blog/?p=130) about the value I believe which diffusion theory brings to helping understand, design and support the implementation of e-learning within a university context.
 
 Diffusion of Innovations theory has been ">used significantly within the information systems research community. That research has consistently found that three perceived characteristics of an innovation are important antecedents to the adoption of an innovation

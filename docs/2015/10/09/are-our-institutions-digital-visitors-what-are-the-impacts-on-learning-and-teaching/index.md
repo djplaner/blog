@@ -54,9 +54,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As it happens, we've been talking and thinking about the Visitor/Resident typology (White & Cornu, 2011) that last couple of weeks. The network gods have been kind, because over night a post titled ["The resident web and its impact on the academy"](http://www.hybridpedagogy.com/journal/resident-web-and-impact-on-academy/) (Lanclos & White, 2015) floats across my Twitter stream. Much food for thought.
 
 It has me wondering

@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently reading a draft of my wife's PhD thesis. The thesis uses metaphor to examine the concepts that underpin research within the Information Systems discipline. It finds that research within the discipline appears to have a very heavy emphasis on techno-rational type conceptions of organisations, individuals and artifacts. There are various connections between this work and that of learning analytics and some of the assumptions behind the semantic web. This is an initial attempt to make some of these connections. Given limited time (I have to get back to commenting on the thesis), this has become more a place-holder of thoughts and ideas I need to explore more fully.
 
 This post was prompted by this quote by [Merlin Donald](http://en.wikipedia.org/wiki/Merlin_Donald) that is included in the thesis (emphasis added)

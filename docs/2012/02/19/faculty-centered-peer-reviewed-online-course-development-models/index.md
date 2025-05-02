@@ -48,9 +48,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 So after three weeks at the new institution and busy thinking about how I'm going to do something interesting with my course design I find out that EOIs for a fairly large and beneficial set of research grants is due in a week or so. Bugger. No way I'm going to get my head around the new field, teaching and meet that deadline.
 
 Which is when a fellow new staff member points me at [Mears (2011)](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/11398/Mears-2011.pdf?sequence=1). The following is an initial attempt to skim this and see what it means to me.

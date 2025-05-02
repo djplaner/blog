@@ -80,9 +80,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 My current disciplinary home is within the [information systems community](http://home.aisnet.org/), which, not surprisingly, concerns itself with research and practice around information systems. This begs the question, "What is an information system?". This post provides one answer to this question and in doing so suggests another reason why most institutional, university-based e-learning implementations enjoy less than stellar success. Of course, it's not limited to just e-learning, but that's what my focus is.
 
 ### What is an information system?

@@ -5,9 +5,6 @@ categories: ['elearning', 'missingps', 'web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The Economist magazine ran an [article](http://www.economist.com/business/displaystory.cfm?story_id=8450071) on Dec 19th, 2006 which is sub-titled - "Consumer technologies are invading corporate computing".
 
 The main story is about the head of IT at Arizona State University and his adoption of [Google Apps for Your Domain](https://www.google.com/a/) which includes [Google Apps for Education](https://www.google.com/a/edu/). The Apps For Education site has a [page](https://www.google.com/a/help/intl/en/edu/seminars.html) which includes quotes from various folk, including someone from Arizona State.

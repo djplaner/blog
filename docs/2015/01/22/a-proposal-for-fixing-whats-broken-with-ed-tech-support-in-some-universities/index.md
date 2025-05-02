@@ -5,9 +5,6 @@ categories: ['academicdevelopment', 'bad', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [This paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) analyses the outcomes of what a small group of academics (myself included) attempted to do to develop the knowledge/capability to develop effective learning for hundreds of pre-service teachers via e-learning. That experience is analysed using a distributive view of knowledge and learning and illustrates just how broken what passes for ed tech support/academic staff development in some universities. Picking up on [yesterday's post](/blog2/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/), the paper reports on academics harnessing their digital fluency to address the almost complete lack of usefulness of the institutionally developed attempts at supporting academic staff in developing the knowledge necessary for effective e-learning.
 
 The distributive view of knowledge and learning used [in the paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) drew on three conceptual themes from Putnam and Borko (2000) and one theme we've added. Those themes suggests that knowledge and learning is/should be

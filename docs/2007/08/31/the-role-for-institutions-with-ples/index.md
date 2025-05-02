@@ -5,9 +5,6 @@ categories: ['ple']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 There's an increasing rhetoric raising in the ranks of university-based education folk about the importance of [Personal Learning Environments (PLEs)](http://en.wikipedia.org/wiki/Personal_Learning_Environment). There are any number of [good resources](http://del.icio.us/davidj1/ple) on the web that mention PLEs.
 
 My interest in PLEs are being driven mostly by the likelihood that [CQU](http://www.cqu.edu.au/) will be starting a major project looking at encouraging the adoption of PLEs within CQU courses. A draft of the proposal is [available](http://cq-pan.cqu.edu.au/david-jones/blog/wp-content/uploads/2007/08/ple.pdf "PLE_Proposal.pdf")

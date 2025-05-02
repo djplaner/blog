@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to expand and connect some thoughts from a soon to be presented [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) paper titled [Breaking BAD to bridge the the reality/rhetoric chasm"](http://bit.ly/badchasm) (this link will eventually have a range of additional resources). The expand part of this post is me trying to experiment with some approaches of explaining what we're trying to get at. Hopefully with the aim of being convincing. The "connect" part of this post aims to connect with some of the discussion about the [LMS that has gone on recently](http://abject.ca/lets-get-systematic-baby/).
 
 [![Is elearning like teenage sex?](images/9861514544_01b3c7fbca.jpg)](https://www.flickr.com/photos/david_jones/9861514544 "Is elearning like teenage sex? by David Jones, on Flickr")

@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 @damoclarky and I got a bit lucky. Our ASCILITE paper has been accepted with revisions. Apparently the first reviewer hated the "theoretical construct" we were using to make our argument. The following is what we originally wrote, sharing it here to hopefully spark some critique and improvement (and also not to entirely waste the writing when I gut it and start again).
 
 Start with the problem and then the "construct", both adapted from the paper.

@@ -5,9 +5,6 @@ categories: ['4paths', 'learninganalytics-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Hazel Jones, Colin Beer, Celeste Lawson, Implications and questions for institutional learning analytics implementation arising from teacher DIY learning analytics, To appear in the proceedings of the [2017 Australian Learning Analytics Summer Institute (ALASI 2017)](http://itali.uq.edu.au/alasi2017)
 
 ## Abstract

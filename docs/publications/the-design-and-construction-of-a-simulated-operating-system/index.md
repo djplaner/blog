@@ -4,9 +4,6 @@ date: 2009-01-02 13:06:50+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Ron Chernich, David Jones. The Design and Construction of a Simulated Operating System, Asia Pacific Information Technology in Education Conference, Brisbane, July 1994.
 
 ## Introduction.

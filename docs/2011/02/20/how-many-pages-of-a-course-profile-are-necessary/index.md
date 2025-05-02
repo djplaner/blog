@@ -33,9 +33,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This week brings the first formal tasks of my new phase as a teacher in training. We, the students enrolled in the Graduate Diploma in Learning and Teaching, are required to attend four days of a residential school. These four days coincide with Orientiation Week and we'll be attending bits of standard O-Week, but mostly focusing on the res school.
 
 Apart from pen and paper, the only items were advised to bring are printed versions of the course profiles. Now there was a time when the university provided print copies of the course profiles to all students. But now, mostly to save costs, these are distributed electronically and it is up to individual students to do the printing. Regardless of the course, the course profile follows a fairly standard template, which has me wondering. How many pages of a course profile do I really need to print?

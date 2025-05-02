@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Do you know more about computers than an 11-year-old?](http://www.mirror.co.uk/news/technology-science/technology/quiz-you-know-more-computers-5215618) is the title of an article from a UK newspaper. It contains an 11 question quiz that is apparently based on the primary school IT and computer science curriculum.
 
 I've come across it via some folk currently taking one of the courses I teach. In that course they are learning about how to use ICT to enhance/transform student learning. For many starting out in the course their perceived level of ICT knowledge and competence is not high. I imagine a challenge phrased as the above struck a chord. Results included: [8 out of 11](https://jesshamer91.wordpress.com/2015/08/09/do-you-know-more-about-ict-than-the-kids-your-teaching/) and [7 out of 11](https://jbagdonas1978.wordpress.com/2015/08/12/teachers-and-students-learning-together/).

@@ -22,9 +22,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 For the last couple of weeks I have been focused on developing and giving a presentation titled [Herding cats and losing weight: How to improve learning and teaching.](/blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) The abstract, slides and video of the talk are all available on [the presentation page](/blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/). The following is an attempt to reflect on the talk, how it went and some recent readings/events which may influence how it goes moving forward.
 
 ### What was the point

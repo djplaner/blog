@@ -84,9 +84,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Roll over](images/8142765678_87133ae805_n.jpg)](https://www.flickr.com/photos/david_jones/8142765678 "Roll over by David Jones, on Flickr")
 
 It's that time of year again. The time between semesters when one offering of [the main course](http://www.usq.edu.au/course/specification/2015/EDC3100-S1-2015-WEB-TWMBA.html) I teach is still drawing to a close and when I have to think about preparing for the next offering. It's time - for better or worse - to roll over. The following is a description and some thoughts on how and what I do during roll over.

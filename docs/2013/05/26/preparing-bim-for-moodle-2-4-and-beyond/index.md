@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Time for a bit of coding. The following has gone on over a few weeks.
 
 [BIM](/blog2/research/bam-blog-aggregation-management/) has been added into the [Moodle plugin database](https://moodle.org/plugins/view.php?plugin=mod_bim). A part of this is providing versions of the plugin that work with each of the versions of Moodle. Currently BIM is available for Moodle versions 2.0 through 2.3. I need to provide a version that works with Moodle 2.4 and perhaps explore what, if anything different, is required for the imminent (since released) Moodle 2.5 release. This is a record of that work.

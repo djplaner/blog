@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Apart from the many todos, the [last post covering bim2 development](/blog2/2010/12/30/progressing-the-student-interface-for-bim2/) left off at the task of registering a new student feed. Summarising/recording the development of bim2 to complete that task is the purpose of this post.
 
 Finally getting back into bim2 development (30 Jan), this post dormant for weeks.

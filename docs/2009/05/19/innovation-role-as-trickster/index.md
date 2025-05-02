@@ -4,9 +4,6 @@ date: 2009-05-19 14:33:55+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Happened to watch [this talk](http://www.ted.com/index.php/talks/emily_levine_s_theory_of_everything.html) by Emily Levine at a 2002 [TED conference](http://www.ted.com/) a funny talk with some interesting insights and perspectives that I find potentially directly connected to my new role. What follows is some reflection on these.
 
 It is interesting to see some of the negative responses to this talk that arise on the Ted talk site and on [youtube](http://www.youtube.com/watch?v=grtGI7QpPdw).

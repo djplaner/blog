@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Having received [approval](/blog2/2009/07/16/bam-into-moodle-approved-starting-the-process/) to port BAM into Moodle, the first step is to get a Moodle development environment installed on my laptop. I'm meant to be getting a new one this week, however, local IT hasn't been forthcoming in when this is going to be available. Can't wait, I only have two days a week to work on this, and today is the last one this week.
 
 ### What's the advice

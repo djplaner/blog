@@ -5,9 +5,6 @@ categories: ['enterprise-20']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following reflection (you may prefer drivel, but each to their own) has been sparked by [a comment](http://cq-pan.cqu.edu.au/david-jones/blog/?p=44#comment-17) by [Susan Scrupski](http://susanitsa.wordpress.com/) on a [previous post](http://cq-pan.cqu.edu.au/david-jones/blog/?p=44). It's also been driven along by some of the reading I've been doing in the blogosphere in the last week or so.
 
 The whole point is to attempt to answer the question: **"When will enterprises truly embrace Enterprise 2.0 applications?"**

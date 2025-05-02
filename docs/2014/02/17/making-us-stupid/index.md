@@ -36,9 +36,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A small frustration induced rant.
 
 Have finally gotten back to some reading around embodied and distributed cognition. Currently that involves reading ["Supersizing the mind"](http://global.oup.com/academic/product/supersizing-the-mind-9780195333213) (Clark, 2011) that includes quotes such as

@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The ability to modify open source software (like Moodle) is often identified as one of its strengths. The ability to scratch your own itch, to modify the software to fit your needs is seen as a major plus. Especially when - as with Moodle - that software has an inherently modular (the M in Moodle stands for modulear) architecture that makes it easier for people to scratch their own itch. But making modifications to large bits of software like Moodle requires a fair bit of specific knowledge.
 
 Costello (2014) points out that the "perception that Moodle is easier for institutions to adopt to their own needs is widespread" (p. 193) and that this ability to modify Moodle can form part of the rationale for adoption. Especially for institutions that see themselves being "a co-creator and developer of innovations rather than simply buy(ing) them already packaged up" (Costello, 2014, p. 193). The reality is often messier. The following is capturing one example of that messiness.

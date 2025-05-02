@@ -68,9 +68,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Head down and making waves by Lincolnian (Brian), on Flickr](images/182268234_ec660f5e8e_m.jpg "Head down and making waves by Lincolnian (Brian), on Flickr")](https://www.flickr.com/photos/lincolnian/182268234/)  
 [![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/lincolnian/)[Lincolnian (Brian)](https://www.flickr.com/people/lincolnian/) [](http://www.imagecodr.org/)
 

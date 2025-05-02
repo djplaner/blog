@@ -74,9 +74,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [BAM (blog aggregation management)](/blog2/research/bam-blog-aggregation-management/) is a tool used by a number of [CQU](http://www.cqu.edu.au/) courses. It's mainly used to help staff observe and mark individual student reflective journals. The journals are hosted on freely available blogs that the students set up and then register with BAM. Normally, we advise students to use [Wordpress.com](http://wordpress.com/) for their blog, but there's now a small problem. Any suggestions?
 
 The problem is that one of the students in one of the courses is currently studying from China. China has restricted access to english blog websites as part of its [regulation of Internet access](http://en.wikipedia.org/wiki/Internet_censorship_in_the_People%27s_Republic_of_China). The student has asked if it's ok to submit reflections directly.

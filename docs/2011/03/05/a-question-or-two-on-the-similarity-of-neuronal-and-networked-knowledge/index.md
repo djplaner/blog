@@ -259,9 +259,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 To some extent this post is a cop out. Rather than take the time to looking into what, is for me, an important and interesting question I am going to post this for two reasons. First, to remind myself to follow up later. But mostly and second, to see if someone within my PLN (why do I find the use of that term somewhat troubling?) can offer some suggestions.
 
 It is a little sad/ironic/funny that the reason I don't feel I can follow up on this directly by myself is that I feel I'm somewhat behind in my formal studies and that an investigation of the following is not directly related to the requirements of that study. Even though the question arises from [work associated with that study](/blog2/2011/03/03/pedagogical-content-knowledge-week-1/) and more importantly, [a comment](/blog2/2011/03/03/pedagogical-content-knowledge-week-1/#comment-3894) on that work by [Charles Nelson](http://charlesnelson.wordpress.com/).

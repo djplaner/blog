@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the second of two reflective blog posts associated with the ICTs for Learning Design course for week 1. Each of these will follow much the same format as [the first](/blog2/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/).
 
 This particular task went something like this

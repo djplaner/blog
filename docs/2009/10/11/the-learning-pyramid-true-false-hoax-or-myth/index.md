@@ -856,9 +856,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The aim of this post is to investigate the question of whether or not the learning pyramid (see following figure - click to expand) is true or false, or perhaps a hoax, myth, misdirection, useful model and/or theory based on verifiable research.
 
 In the end, I confirm my belief that it is a hoax/myth. I don't believe it is useful in guiding the design of learning and teaching, in fact, I believe it to be destructive. It aims to provide a simplistic and wrong basis on which to guide design, when such design should be guided by and engage with a recognition that teaching is complex, difficult and contextual and can't be improved by silver bullets

@@ -230,9 +230,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following post if for the course EDED20491 and is in response to the following activity
 
 > Access the Felder and Solomon website and take the [online questionnaire](http://www.engr.ncsu.edu/learningstyles/ilsweb.html)

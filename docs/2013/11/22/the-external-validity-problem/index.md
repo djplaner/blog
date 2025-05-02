@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Via a very roundabout method I came across an editorial from the journal "Computers in the Schools" (Maddux and Johnson, 2012) titled "External Validity and Research in Information Technology in Education".
 
 ### The problem?

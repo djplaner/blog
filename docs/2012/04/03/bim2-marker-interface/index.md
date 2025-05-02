@@ -5,9 +5,6 @@ categories: ['bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In case you're wondering, BIM is a Moodle activity module that helps teaching staff manage individual student blogs. This post is one of a number of posts documenting the development of a version of BIM that will work with Moodle 2.x. More detail on BIM [here](/blog2/research/bam-blog-aggregation-management/)
 
 In the following, I'm continuing work on the marker interface from [prior work](/blog2/2012/03/31/bim2-student-and-marker-fixes/). Work to do includes

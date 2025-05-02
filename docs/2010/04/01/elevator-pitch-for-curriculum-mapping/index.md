@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over the next few weeks I am going to have a few meetings in which I'll need to explain and justify the [curriculum mapping project](/blog2/research/curriculum-mapping/). This post is an attempt to further develop and share some of the perspectives and to develop an elevator pitch for the project.
 
 It's also reinforced the need to develop a name for the project. "Moodle curriculum mapping" doesn't really send the right message.

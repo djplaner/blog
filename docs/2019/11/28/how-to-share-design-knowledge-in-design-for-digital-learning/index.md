@@ -6,9 +6,6 @@ coverImage: EuIQOqjU0AIci64-e1629593563872.jpeg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Using Blackboard Learn to design and manage a quality learning environment is hard. Managing the web content alone is [hard to do well](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/). To do so requires significant HTML, CSS and related web design knowledge. Knowledge that not everyone has, or should have, or can have. That's why there are so many ugly Blackboard sites.
 
 The difficulty of sharing this specific type of design knowledge is just one small example of the question facing institutions of higher education (especially in these pandemic times): How to share design knowledge in design for digital learning?

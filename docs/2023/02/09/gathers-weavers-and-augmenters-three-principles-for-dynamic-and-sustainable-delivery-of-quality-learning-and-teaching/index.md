@@ -6,9 +6,6 @@ coverImage: productivity.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Henry Cook, Steven Booten and I gave the following presentation at [the THETA conference](https://theta.edu.au/) in Brisbane in April 2023.
 
 Below you will find

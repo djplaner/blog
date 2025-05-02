@@ -5,9 +5,6 @@ categories: ['academicdevelopment', 'highereducation']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This particular post tells some personal stories about teaching awards within Australian higher education. It's inspired by a [tweet](http://twitter.com/#!/JonPowles/status/32563568775794688) or [two](http://twitter.com/#!/JonPowles/status/32563778675539968) from @jonpowles
 
 ### Some personal success

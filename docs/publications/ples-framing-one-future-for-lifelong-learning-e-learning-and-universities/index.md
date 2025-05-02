@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, PLEs: Framing one future for lifelong learning, e-learning and universities, to appear in the proceedings of the [Lifelong Learning Conference 2008](http://lifelonglearning.cqu.edu.au/2008/index.htm) - One of three best papers
 
 ### Abstract

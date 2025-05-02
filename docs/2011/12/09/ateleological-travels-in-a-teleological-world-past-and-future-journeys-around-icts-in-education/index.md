@@ -57,9 +57,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In my previous academic life, I never really saw the point of book chapters as a publication form. For a variety of reasons, however, my next phase in academia appears likely to involve an increasing number of book chapters. The need for the first such chapter has arisen this week and the first draft is due by February next year, which is a timeline to give me just a little pause for thought. (There is a chance that this book might end up as a special edition of a journal)
 
 What's you perception of book chapters as a form of academic publication? Am particularly interested in the view from the education field.

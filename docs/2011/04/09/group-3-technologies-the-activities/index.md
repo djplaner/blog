@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Following on from the [last post](/blog2/2011/04/08/group-3-technologies-the-readings/) this one reports a bit more on activities associated with the Group 3 technologies, tools that "present learning or information". The point is mostly to document that I've done this stuff (for assessment purposes) and also to implement the necessary analysis of one of the tools.
 
 ### Powerpoint

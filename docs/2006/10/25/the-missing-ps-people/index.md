@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 LMS adoption decisions are made by people. LMSes are used by people. The nature of those people who they are, how they think and what they believe, amongst other characteristics, have a significant impact.
 
 **They myth that people are rational**

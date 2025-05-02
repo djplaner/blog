@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a draft version of the presentation I'll be giving at ASCILITE tomorrow. Hopefully this will go close to fitting within the 12 minute time frame.
 
 ### Other resources

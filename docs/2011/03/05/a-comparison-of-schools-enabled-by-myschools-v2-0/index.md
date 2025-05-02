@@ -5,9 +5,6 @@ categories: ['teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The Australian government has launched version 2 of its [MySchool website](http://www.myschool.edu.au). The sites is meant to hold a profile of all Australian schools and enable people to perform comparisons. There has been some significant criticism of the data included in the profiles and find the site to be technically quite flawed (e.g. its been down and when you do get access the method you use to examine and compare data is poor). There has also been the first round of media stories using the availability of the data to draw conclusions (e.g. [Elite schools don't excel](http://www.theaustralian.com.au/national-affairs/elite-school-students-dont-excel/story-fn59niix-1226016177993)).
 
 In about 6 weeks or so I'm going to be entering one of the local high schools as part of my studies to become a teacher. The following is a quick comparison of the three schools I included on my preference list. The aim is to see what data is on the MySchools site, but also to be better informed (which may not be the case depending on your view of the data on the site) about the schools.

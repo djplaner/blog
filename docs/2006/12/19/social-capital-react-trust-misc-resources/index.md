@@ -5,9 +5,6 @@ categories: ['elearning', 'herding-cats']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post is going to be a holding place for a range of resources that will be connected with my fuzzy thoughts around how to establish greater trust and reciprocity (maybe social capital) amongst academics and the staff who support them in developing their teaching.
 
 Whitworth A (2005). The politics of virtual learning environments: environmental change, conflict and e-learning. British Journal of Educational Technology. 36(4): 685-691

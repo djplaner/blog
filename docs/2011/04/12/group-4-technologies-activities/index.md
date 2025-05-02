@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 And so the final group of technologies to play with prior to the assignment. This is an open-ended group and includes: animations and simulations; Google earth; Google Maps; and Google docs. The "historical" recap of what I've done associated with these technologies is part of the assessment - showing that I've "played" with the technologies.
 
 ### Animations and simulations

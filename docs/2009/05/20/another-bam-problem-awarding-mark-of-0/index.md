@@ -43,9 +43,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Following on from [yesterday's start](/blog2/2009/05/19/diagnosing-and-recording-a-problem-with-bam/) of using the blog to record fixes to software, here comes another one.
 
 ### Problem

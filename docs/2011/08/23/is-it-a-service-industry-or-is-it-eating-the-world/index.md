@@ -34,9 +34,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In an [earlier post](/blog2/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/) I wondered if how high school classes in Information Technology(IT)/Computer Science(CS) are being taught is turning students off and, if so, is this why enrolment numbers are dropping. In the comments on that post [Tony suggests](/blog2/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/#comment-4195) some other reasons for this decline. Including the observation that IT courses in local schools (both Tony and I live in Queensland, Australia) are primarily seen to serve the needs of students who want to be IT professionals. The further suggestion is that since
 
 > IT is a service-based industry, there only needs to be 5%-10% of the population focused on it as a profession

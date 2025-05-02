@@ -82,9 +82,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This [blog post](http://blogs.zdnet.com/Hinchcliffe/?p=68) by [Dion Hinchcliffe](http://blogs.zdnet.com/bio.php#hinchcliffe) includes a link to the mp3 of talk by [Andrew McAfee](http://blog.hbs.edu/faculty/amcafee/) at a conference. According to [another blog](http://webbizculture.blogspot.com/2006/09/impending-failure-of-standalone.html) Andrew claims to be the guy who coined Enterprise 2.0.
 
 Yet to listen to the talk, but it appears to include much good stuff, however, the blog post does have a lot of important points to consider when thinking about the implementation of Web 2.0 into the enterprise.

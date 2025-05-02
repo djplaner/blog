@@ -55,9 +55,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a description of the kludge I put in place to mark the learning journals - see [here for a description](/blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) of initial thinking behind the journal - folk in the EDC3100 course this semester had to complete. It's meant to record what I did, provide some food for further development and offer an opportunity for some initial reflection.
 
 ### Final format

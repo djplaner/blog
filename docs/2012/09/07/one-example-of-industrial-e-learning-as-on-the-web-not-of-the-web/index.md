@@ -214,9 +214,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following arises from some recent experiences with the idea of "minimum course sites" and this observation from [@cogdog](http://cogdog.info/) in [this blog post](http://cogdogblog.com/2012/09/04/gotta-know/)
 
 > I have no idea if this is off base, but frankly it is a major (to me) difference of doing things ON the web (e.g. putting stuff inside LMSes) and doing things OF the web.

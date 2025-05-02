@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 There are no new ideas.
 
 [UC Berkeley](http://video.google.com/ucberkeley.html) are already using Google Video to host course videos.

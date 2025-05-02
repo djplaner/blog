@@ -48,9 +48,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following seeks to engage with some thoughts [shared by Brigitte](https://beelearningblog.wordpress.com/2016/08/01/what-is-networked-learning/), bring together some earlier ramblings of my own, and connect this with R&D related work I should be doing over coming months (though it's historically rare for those plans to come to fruition).
 
 The title of [Brigitte's post](https://beelearningblog.wordpress.com/2016/08/01/what-is-networked-learning/) is the question "What is networked learning?" This is an important question in the context of the [NGL course](http://netgl.wordpress.com/) we're participating in because the overall focus is developing your own answer to that question, identifying the principles of your conception of NGL, and then using those principles to design a change to how some task you are involved with "as teacher".  Hence if your answer to "What is networked and global learning?" isn't all that great, the rest of what you do will suffer because of it.

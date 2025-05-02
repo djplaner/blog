@@ -139,9 +139,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I found out last week that [the abstract](http://moodlemoot.org.au/mod/book/view.php?id=24&chapterid=56) I submitted to [Moodlemoot AU 2013](http://moodlemoot.org.au/) had been accepted. The talk will attempt to outline what I'm hoping will be my primary line of research over the next couple of years, which is probably going to be something like
 
 - How can the design of institutional e-learning tools be improved to support teachers and students to learn?

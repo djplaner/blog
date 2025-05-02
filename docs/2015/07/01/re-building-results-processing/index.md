@@ -5,9 +5,6 @@ categories: ['bad', 'concretelounge', 'edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's once again time to process final results for a course and return the final assignment. A process that involves
 
 1. Checking overall student results for a course, before returning the final assignment.

@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to make concrete some idea and tasks associated with writing a journal paper for the [Australian Journal of Educational Technology](http://ascilite.org.au/ajet/ajet.html) (AJET) based on the [ASCILITE'09 paper](http://www.ascilite.org.au/conferences/auckland09/procs/beer.pdf) based on the work of the [Indicators project](http://indicatorsproject.wordpress.com/). The paper will be co-authored by a group and the aim of this post is to start discussion about content of the paper and the tasks we need to do to get it written.
 
 ### The purpose/abstract of the paper

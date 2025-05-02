@@ -60,9 +60,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 And onto daily #6 of #fedwikihappening. I'm hoping this will start explore what the process might be around using fedwiki in my day-to-day thinking. To that end, I'm planning to
 
 1. Read and do a bit more idea mining.

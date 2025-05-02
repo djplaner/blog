@@ -48,9 +48,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently participating in the [Learning and Knowledge Analytics MOOC](http://learninganalytics.net/) being run by George Siemens and others. This post outlines the process I used to create a [podcast of the presentations](http://feeds.feedburner.com/lak11podcast) (click on that link if you want to subscribe to the podcast) being given as part of the course.
 
 ### Why?

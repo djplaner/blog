@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The last tidy up of BIM resulted in some fairly major code changes as early design assumptions were over-turned in favour of more PHP/Moodle like approaches, not to mention general better design/structure. This tidy up turns to some of the more "housekeeping" types of tasks. This one seeks to ensure that BIM follows all of the security guidelines as [suggested on the Moodle site](http://docs.moodle.org/en/Development:Security)
 
 ### Auth and capabilities

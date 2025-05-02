@@ -5,9 +5,6 @@ categories: ['bad', 'digitalignorance']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 @damoclarky has [commented](/blog2/2016/06/28/the-nature-of-digital-technology-part-2/#comment-7673) on yesterday's [Part 2 post](/blog2/2016/06/28/the-nature-of-digital-technology-part-2/). A comment that's sparked a bit of thinking. I've moved my length response into this post, rather than as a reply to the comment.
 
 ## What is it? Stable or unstable?

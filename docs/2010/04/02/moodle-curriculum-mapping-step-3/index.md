@@ -5,9 +5,6 @@ categories: ['curriculummapping-cddu']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This will be a brief extension of [previous work](/blog2/2010/03/30/moodle-curriculum-mapping-step-2/) around [this project](/blog2/2010/04/01/elevator-pitch-for-curriculum-mapping/). The main aim is to start identifying some of the methods used by Moodle with its current outcomes approach and how those might be harnessed and modified to support curriculum mapping. In particular, some specific questions include: What's necessary to
 
 - allow the outcomes to be grouped and displayed as such when showing an activity/resource? **IDENTIFIED**

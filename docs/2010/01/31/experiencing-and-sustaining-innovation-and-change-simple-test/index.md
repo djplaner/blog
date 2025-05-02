@@ -5,7 +5,4 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Sorry, no insights into the title of the post. This is simply a test post that I'm using for bim development.

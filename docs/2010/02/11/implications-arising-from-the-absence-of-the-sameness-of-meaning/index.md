@@ -76,9 +76,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A few days ago [Stephen Downes](http://downes.ca/) - a little unusually - made a sequence of comments/tweets on Twitter around the "sameness of meaning" and its impossibility. Since then I've had a number of experiences and discussions that suggest some of the problem associated with learning and teaching policy, process and structure within universities arises because too many people assume that there is sameness of meaning.
 
 ### Communication and the commonality of meaning

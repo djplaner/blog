@@ -5,9 +5,6 @@ categories: ['paperideas']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The adoption, implementation and support of e-learning is a difficult and extremely complex act. A variety of metaphors and models are drawn upon by participants to reduce the difficulty involved. These metaphors and models represent fundamental understandings of the participants and directly influences the decisions they make.
 
 The position I'd like to take for a paper is that many of these metaphors and models are not at all helpful. Many are, in fact, incredibly harmful or limiting. In the following I try to develop a list of these metaphors and models.

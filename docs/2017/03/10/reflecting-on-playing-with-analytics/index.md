@@ -5,9 +5,6 @@ categories: ['indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is the 2nd in 3 posts thinking about learning analytics and how we might engage with it better. [The first](http://djon.es/blog/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/) rambled on about reproducible research and hunted for what we might do.
 
 This post is an attempt to reflect on some work I did last year trying to [design a collection of analytics to explore engagement](http://djon.es/blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/). The aim is to remind myself what was done and try to distill what worked and what didn't. Hopefully to inform what we might do this year.

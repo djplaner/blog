@@ -58,9 +58,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Assignment 1 for my course is due later today. 100+ students have submitted. Time to explore the Moodle assignment submission system and how to allocate assignments to markers.
 
 ### So what?

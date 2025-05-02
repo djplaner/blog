@@ -5,9 +5,6 @@ categories: ['phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Am attempting to keep this weekly update thing going within the new context. Not much to report this week as I was out of town for three days, baby sitting and recovering for another, and thinking about jobs and family-based travel on the other.
 
 Am going to try a more evolutionary, to do list oriented approach to this post as well. i.e. the finer grain tasks I need to complete will be added and hopefully checked off here during the week.

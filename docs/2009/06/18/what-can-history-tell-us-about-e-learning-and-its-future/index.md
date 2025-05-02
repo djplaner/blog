@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following contains some initial thoughts about what might turn into a paper for [ASCILITE'09](http://www.ascilite.org.au/conferences/auckland09/). It's likely that I'll co-author this with [Col Beer](http://beerc.wordpress.com/).
 
 ### Origins

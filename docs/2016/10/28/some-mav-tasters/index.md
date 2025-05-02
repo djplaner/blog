@@ -5,9 +5,6 @@ categories: ['bad']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [MAV](https://github.com/damoclark/mav-enterprise) is just about up and running at USQ as one of [the Technology Demonstrators](https://www.usq.edu.au/learning-teaching/demonstrators/about). It's taken longer than I thought, but it's there.  The following demonstrates MAV running on a course I teach and is intended to illustrate some of what it can do.
 
 Hoping we'll get an opportunity to use [this type of process](/blog2/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/#using) to support others to use MAV to explore what's happening in their courses. The aim being to explore what, if any, insights MAV provides teaching staff.

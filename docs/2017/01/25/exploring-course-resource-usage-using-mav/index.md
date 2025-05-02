@@ -6,9 +6,6 @@ tags: ['bad', 'mav', 'moodle']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following starts with the following question raised from a colleague about a Moodle course site they have designed.
 
 https://twitter.com/chalkhands/status/823750342999306240

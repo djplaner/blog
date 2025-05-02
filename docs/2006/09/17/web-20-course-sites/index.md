@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 **Thesis**
 
 That Universities can provide a better quality, more reliable elearning service and, at the same time, repurpose resources away from low-level infrastructure resources towards higher-level customisation roles, by replacing the current model for learning management systems.

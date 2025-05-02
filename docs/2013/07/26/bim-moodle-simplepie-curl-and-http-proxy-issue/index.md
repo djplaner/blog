@@ -65,9 +65,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Good news this week. [BIM](/blog2/research/bam-blog-aggregation-management/) got into the institution's testing site for Moodle. One step close to going live. The bad news is that there were a couple of issues to resolve. This post is a record of the attempt to address the big one (successfully as well).
 
 ## The problem

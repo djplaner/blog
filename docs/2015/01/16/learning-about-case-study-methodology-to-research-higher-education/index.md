@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some thoughts on Harland (2014). The abstract for the paper is
 
 > Learning about teaching through inquiry is a sound practice for professional development and the university teacher-as-researcher is now commonplace. With the proliferation of inquiry-based postgraduate programmes in university teaching, more academics from across the disciplines are learning new ways of doing research. In this paper, I draw on 10 years’ experience of teaching research methods in higher education. I teach on a one-year part-time course that aims to help academics change their practice and contribute to the theories of teaching in higher education through publication of their work. The preferred research method is case study and there are four questions that both inexperienced and experienced participants can find challenging: what is the potential of case study; what forms of data are acceptable; when does analysis stop and what makes a quality case study? I conclude with a set of recommendations for the new researcher aimed at enhancing the quality of research. Suggestions include properly integrating existing theory into published work, avoiding positivist analogues to judge research, using multiple methods in research design and avoiding writing descriptively or without a critical audience in mind.

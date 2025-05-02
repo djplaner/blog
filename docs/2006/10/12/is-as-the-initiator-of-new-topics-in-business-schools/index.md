@@ -5,9 +5,6 @@ categories: ['information-systems']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [ISWorld](http://lyris.isworld.org/isworldlist.htm) is a mailing list that acts as a major forum for discussion for information systems academics. Over the last few days the discussion has been about dropping enrolments and the search for bumper sticker phrases as one way to encourage enrolments.
 
 In one post Neil Ramiller from Portland State University argues the point that IS has a history of starting off new topics that are then adopted/appropriated by other colleagues in the business school. His examples

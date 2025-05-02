@@ -5,9 +5,6 @@ categories: ['elearning', 'herding-cats', 'react']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Starting with a [review by Will thalheimer](http://www.willatworklearning.com/2006/07/book_review_wic.html) I came across the book [The Six Disciplines of Breakthrough Learning: How to Turn Training and Development into Business Results](http://www.amazon.com/Six-Disciplines-Breakthrough-Learning-Development/dp/0787982547/sr=1-1/qid=1168559550/ref=pd_bbs_sr_1/102-0567162-7528163?ie=UTF8&s=books) by Calhoun Wick et al.
 
 I won't bother summarising the book. The [review by Will thalheimer](http://www.willatworklearning.com/2006/07/book_review_wic.html) does a good job of that and the Amazon link lets you take a look inside the book.

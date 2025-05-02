@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The story of trying to get BAM into Moodle (BIM) continues, today's saga continues on from the [last post](/blog2/2009/08/11/bim2-starting-the-module/) which had progress stalled. The NEWMODULE template module was put in place, I had thought most of the necessary steps were being taken, however, the module name is not showing up as expected.
 
 First, I'll try and solve that problem, then make some moves on starting to put in some initial functionality into the BIM module to get it working as a prototype.

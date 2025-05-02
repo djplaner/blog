@@ -93,9 +93,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is in response to [a blog post](http://dangerouslyirrelevant.org/2012/02/are-teacher-preparation-programs-dangerously-irrelevant-guest-post.html) with the same title. The title attracted me I've just started work within a teacher preparation program and have some concerns about such programs being irrelevant.
 
 Very briefly, the post reports on a study the interviewed 39 US-based national award winning teachers (part of [this project](http://gamingmatter.com/GM/21CTP_Home.html)). The aim being to learn about what worked for the top teachers.

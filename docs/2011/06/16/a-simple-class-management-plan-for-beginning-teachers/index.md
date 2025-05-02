@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is part of an assignment for my study to become a teacher through [CQU](http://www.cqu.edu.au/). It's written as a letter/report/web page, an odd mix of genre.
 
 ### The letter

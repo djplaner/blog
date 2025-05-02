@@ -99,9 +99,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Pragmatic students have always made judgements about exactly how they are going to engage with the activities teachers set them. I know I made decisions not to attend lectures (especially those at 8am on cold winter mornings). At times I've focused on just the assignments without engaging completely in the various intended learning activities. I made those decisions in a context nowhere near as constrained as many of my current students find themselves in terms of trying to balance work (often full-time), family (often very complex), and study.
 
 So it's no great surprise to see students "corrupting" the intent of learning activities designed into the course I teach. It's happened [before](/blog2/2013/03/06/how-much-of-a-cage-should-i-build/) and I assume that there are a whole range of different forms of task corruption going on. Over the weekend, however, I became aware of a different type [task corruption](http://u1003618.wordpress.com/2014/05/02/digital-ownership-poor-fran/) going on. It appears that at least some students are simply "reblogging" the posts of others without making additional comments.

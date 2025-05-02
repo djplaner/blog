@@ -129,9 +129,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 (There is a response/attempted clarification to [comments](http://www.downes.ca/cgi-bin/page.cgi?post=52617) on the following by Stephen Downes in [another post](/blog2/2010/06/08/course-websites-and-libertarian-paternalism/))
 
 The focus of the following is not the "evil" LMS. That's another argument, and I agree with much of it. The question here assumes that your university is going to use, or even require the use of, an LMS. Given that, should the institution expect or even allow academics to manually create course websites in the LMS?

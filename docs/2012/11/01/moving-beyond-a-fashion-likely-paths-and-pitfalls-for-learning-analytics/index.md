@@ -93,9 +93,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following started life as a submission to the [SoLAR Southern Flare Conference](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/schedConf/overview) and is serving double purpose as a contribution to [#cfhe12](http://edfuture.net/), which is currently looking at [Big data and analytics](https://edfuture.desire2learn.com/d2l/lms/content/viewer/main_frame.d2l?ou=6609&tId=43).
 
 One of the questions asked for this week about learning analytics is, "is it a fad?". I agree with [Ian Reid's comment on an earlier post](/blog2/2012/10/25/learning-analytics-anything-more-than-just-another-fad/#comment-5780), it's almost certainly going to be another fad. The following offers some evidence for this, some insights into why it will be the case, and suggests one way it might be avoided.

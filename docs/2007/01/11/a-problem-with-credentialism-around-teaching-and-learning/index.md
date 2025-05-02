@@ -5,9 +5,6 @@ categories: ['elearning', 'herding-cats', 'react']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For at least the last 5 years there has been an increasing drive for university academics to have formal credentials in learning and teaching. The essential argument is that you wouldn't go to a medical doctor who hadn't been trained in medicine, so why should you be taught at university by a person who has been trained in teaching.
 
 One problem with this is the assumption that a credential in teaching is the same as being a good, or even capable, teacher. But that's not the issue I'm thinking about here.

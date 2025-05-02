@@ -6,9 +6,6 @@ tags: ['bad', 'elearning', 'personalisation']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 David Wiley has posed a [little thought experiment](http://opencontent.org/blog/archives/4430) that encourages reflection around levels of automation and "personalisation" within a University course. Judging by my Twitter stream it appears to have arisen out of a session or happening from the [ELI conference](http://www.educause.edu/events/eli-annual-meeting-2016). The experiment describes a particular teacher purpose, outlines four options for fulfilling that purpose, and offers a standard against which to consider those options.
 
 It's a thought experiment that connects to a practice of mine and the growing status quo around higher education (at least in Australia). It's also generated some interesting responses.

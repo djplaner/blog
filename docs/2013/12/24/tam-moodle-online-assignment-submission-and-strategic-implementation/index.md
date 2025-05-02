@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to expand upon a mention in [the last post](/blog2/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/) about exploring one set of thoughts about why/how we might extend/reuse/build upon some prior research using TAM (Technology Acceptance Model) and its application to understanding the use (or not) of Online Assignment Submission and Management (OASM) in higher education.
 
 In summary,

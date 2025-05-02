@@ -5,9 +5,6 @@ categories: ['4paths', 'bricolage', 'casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Following is a summary of [Johanson and Hasselbring (2018)](https://ieeexplore.ieee.org/abstract/document/8254315/) and an exploration of what, if anything, it might suggest for learning design and learning analytics. Johanson and Hasselbring (2018) explore why scientists whom have been developing software to do science (computational science) haven't been using principles and practices from software engineering to develop this software. The idea is that such an understanding will help frame advice for how computational science can be improved through application of appropriate software engineering practice (\*\*assumption\*\*).
 
 This is interesting because of potential similarities between learning analytics (and perhaps even learning design in our now digitally rich learning environments) and computational science. Subsequently, lessons about if and how computational science has/hasn't been using software engineering principles might provide useful insights for the implementation of learning analytics and the support of learning design. I'm especially interested due to my observation that both practice and research around learning analytics implementation isn't necessarily exploring all of the possibilities.

@@ -149,9 +149,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This carries on "bits" from [chapter 5](/blog2/2010/05/30/focusing-on-integration-chapter-5/) of the thesis. It's a rough draft of a description of the institutional context within [CQU](http://www.cqu.edu.au/) from 2000 onwards. It's brief and targeted mainly at the factors which impact on Webfuse development.
 
 It needs more work and checking. If you have any suggestions, fire away.

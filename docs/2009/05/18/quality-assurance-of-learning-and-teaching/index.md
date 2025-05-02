@@ -5,9 +5,6 @@ categories: ['reflectivealignment']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [AUQA](http://www.auqa.edu.au) is coming. Eventually most Australian universities will receive a second visit from AUQA. As such visitations come closer increasing levels of thought are given to demonstrating quality. What does it mean to demonstrate quality of learning and teaching?
 
 According to Biggs (2001) the answer is

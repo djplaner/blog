@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over the last few days I've finished reading [Predictably Irrational](http://www.amazon.com/Predictably-Irrational-Hidden-Forces-Decisions/dp/006135323X) by [Dan Ariely](http://www.predictablyirrational.com/?page_id=5) a professor at Duke University in behavioural economics. What follows is a bit of a summary. In short, I enjoyed it and it's reinforced an interest in questioning some of the assumptions that seem to underpin the current practice of L&T at Universities.
 
 If you want more the [Amazon page](http://www.amazon.com/Predictably-Irrational-Hidden-Forces-Decisions/dp/006135323X) has reviews and more details. There is also a [Wikipedia page](http://en.wikipedia.org/wiki/Predictably_Irrational). Lastly, the author has set up a [site](http://www.predictablyirrational.com/). There's also a couple of online talks by the author including a TED talk and another on [YouTube](http://www.youtube.com/watch?v=JhjUJTw2i1M)

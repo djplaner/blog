@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A much delayed blog post that I'm getting out in a hurry now.
 
 A few weeks ago I started yet another MOOC with the intent of it being the demonstration of "as learner" for the [Network & Global Learning course](http://netgl.wordpress.com/). As with all other attempts to start a MOOC, it was a failure. Mostly due to my own time constraints and unexpected time sinks. But also because the content and the approach used in the MOOC didn't fit and I wasn't motivated enough or have enough time to bridge the gap.

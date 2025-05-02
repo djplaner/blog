@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post contains some initial thoughts for a potential paper for [ASCILITE'2007](http://www.ascilite.org.au/conferences/singapore07/), a conference that has as its theme "ICT: Providing choices for learners and learning".
 
 The full couple of paragraphs for the conference is

@@ -5,9 +5,6 @@ categories: ['design-theory', 'elearning', 'missingps', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For those of you who don't know, I'm developing something called the [Ps Framework](/blog2/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/) for sensemaking around e-learning (read the [earlier post](/blog2/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/) for more information.
 
 [Jocene](http://jocene.edublogs.org/), one of my current colleagues and someone who is having to engage with the Ps Framework, has somewhat regularly complained about IT folk and their interest in the Ps, Cs, etc.

@@ -84,9 +84,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For longer than I care to remember, I've been working on the [Place](/blog2/2009/05/06/place-component-of-the-ps-framework/) component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog2/research/phd-thesis/). This post brings the penultimate section for the Ps component - institution. The last section will be the "lessons from place" section that attempts to draw some lessons from the Place component for the practice of e-learning. Who knows when that will arrive.
 
 As with previous parts of the thesis, this is a first draft with only a modicum of re-reading. There are likely to be mistakes. More in-depth editing will wait for a later time.

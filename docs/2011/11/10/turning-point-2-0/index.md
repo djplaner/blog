@@ -111,9 +111,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Almost a year ago I blogged about [a turning point](/blog2/2010/11/12/a-turning-point/) in my formal work life. I'd finished a draft of the PhD and had been accepted into a pre-service teacher graduate diploma. A year on and there is another turning point. Tomorrow is the last day of my teaching internship, if my eportfolio passes I will become eligible for provisional registration with the Queensland College of Teachers to teach high school Information Technology and Mathematics. But I won't be teaching in high schools next year.
 
 A few weeks ago I was offered a position within the [Faculty of Education](http://www.usq.edu.au/education) at the University of Southern Queensland (USQ). I start in late January 2012. Much remains uncertain about exactly what I'll be doing, but it will likely involve teaching courses being taken by pre-service teachers. Most likely something around e-learning/ICTs and perhaps some mathematics, will find out over coming months. In terms of research, I'm hoping/planing to do a lot more around e-learning and much more. I'm looking forward to the challenge. A lot to read, think and do.

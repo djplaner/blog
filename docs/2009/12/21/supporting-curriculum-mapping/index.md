@@ -36,9 +36,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following was initially written as a report for my current institution. I've removed the name of the institution here. It is my perception that most universities suffer from the problems described below.
 
 I am particularly interested in answers to the following questions:

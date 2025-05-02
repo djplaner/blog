@@ -5,9 +5,6 @@ categories: ['phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Last week's update](/blog2/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/) reported on a bit of a brick wall that had been struck. Thankfully, the strategies outlined in that update and feedback from the esteemed supervisor has well and truly destroyed said brick wall and progress is steaming ahead with a renewed sense of vigour and perhaps just the vaguest glimmers of light at the end of a long, long tunnel.
 
 ### What I've done

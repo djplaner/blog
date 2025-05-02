@@ -35,9 +35,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Further reflections on the work around online assignment submission are available in the following more recent publications
 
 - David Jones, Mary Cranston, Sandy Behrens, Kieren Jamieson, (2005). What makes ICT implementation successful: A case study of online assignment submission, Presented at ODLAA’2005  

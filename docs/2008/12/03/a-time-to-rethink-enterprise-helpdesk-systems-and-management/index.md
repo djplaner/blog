@@ -6,9 +6,6 @@ tags: ['helpdesk']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part of my current work I provide support to academic staff using a learning management system. The reactive part of this support is funneled though an organisational helpdesk that is run along fairly common IT helpdesk processes and uses a fairly common enterprise helpdesk application.
 
 For me the reactive part of this sort of support involves solving peoples' problems. In most part, it is a communication problem requiring helping the person understand how the reality of the system and how it operates does not match what they understand and what they are trying to do. In some of these instances, the people who are having these problems are stressed and frustrated.

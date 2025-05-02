@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a couple of weeks I'm off to Canberra to talk PhD, potential ALTC grants and promote the use of [BIM](/blog2/research/bam-blog-aggregation-management/). As part of the latter task, I'm giving a quick talk at the University of Canberra as part of their [Stuff the works lunches](http://www.canberra.edu.au/tlc/current-events). The title of the talk is "Reducing the aggravation of student blogging: The story of BIM".
 
 I have to send of a short abstract for the talk today, so thought I'd share it here. I'll use this post as the home for all the resources associated with the talk. The slides should be up sometime just before the talk and I hope some audio/video will follow not long after.

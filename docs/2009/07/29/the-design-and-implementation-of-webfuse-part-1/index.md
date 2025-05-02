@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This continues the collection of content that goes into Chapter 4 of my [PhD thesis](/blog2/research/phd-thesis/). Chapter 4 is meant to tell the story of the first iteration of Webfuse from 1996 through 1999. The [last section](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/) I posted describes the design guidelines that informed the implementation of Webfuse. This post and at least one following post seeks to describe the details of the design and implementation of Webfuse.
 
 As with all the previous posts of content from the thesis, this content is in a rough first draft form. It will need more work. Comments and suggestions are more than welcome.

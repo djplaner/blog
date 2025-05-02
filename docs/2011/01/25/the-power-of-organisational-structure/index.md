@@ -63,9 +63,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I find myself in an interesting transitionary period in learning. I'm in the final stages of my part-time PhD study, just waiting for the copy editor to check the last two chapters and then its submission time. I'm participating - participation that has been negatively impacted recently by the desire to get the thesis finalised - in a MOOC, [LAK11](http://learninganalytics.net/) and looking at returning to full-time study as a high school teacher in training. It is from within this context that the following arises.
 
 Yesterday I read a [reflection on week 2](http://blog.hansdezwart.info/2011/01/23/lak11-week-2-rise-of-big-dataand-data-scientists/) of LAK11 Hans de Zwart in which he quotes from a [MIT Sloan Management review article on Big Data and analytics](http://sloanreview.mit.edu/the-magazine/articles/2011/winter/52205/big-data-analytics-and-the-path-from-insights-to-value/?type=x&reprint=52205). The quote

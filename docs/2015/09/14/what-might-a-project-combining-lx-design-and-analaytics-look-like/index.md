@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a bit more than an hour I'll be talking to @catspyjamasnz trying to nut out some ideas for a project around LX Design and Learning Analytics. The following is me thinking out loud and working through "my issues".
 
 ## What is LX Design

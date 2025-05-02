@@ -5,9 +5,6 @@ categories: ['edc3100', 'moodle', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's the start of the second week of the course I'm teaching. I'm directly responsible for 60 odd on-campus students and 130 or so online/distance students. That split reminds me a lot of my teaching at [CQU](http://www.cqu.edu.au/) in the mid-1990s. The deja vu continues in terms of getting a feel for how the students are going, how are they responding to the course, its model and content? Back at CQU the solution was inspired by [course barometer idea](/blog2/student-feedback-anonymity-observable-change-and-course-barometers/) from some University folk in Sweeden.
 
 The original course barometer was a purpose-built application in Webfuse, an "LMS" used at CQU from 1996 through 2009. This post records an initial attempt to recreate something simliar using standard Moodle 1.9 modules.

@@ -5,9 +5,6 @@ categories: ['bad', 'edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [![Fountain](images/25946611716_c8cd1a64d9_m.jpg)](https://www.flickr.com/photos/david_jones/25946611716/in/dateposted-public/ "Fountain")
 
 I'm spending this week attending the [SITE'2016 conference](https://www.academicexperts.org/conf/SITE/2016/) (SITE = [Society of Information Technology and Teacher Education](http://site.aace.org/)). This is my first SITE and the following outlines some of my expectations and intent.

@@ -5,9 +5,6 @@ categories: ['bam', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In a [previous post](/blog2/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/) I talked about the rationale and need for thinking about a taxonomy of educational aggregation projects. Something that I haven't really given a lot of thought to, just yet.
 
 About 15 minutes ago I [posted this](/blog2/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/) about "cooked" course feeds. [Wordpress.com's](http://wordpress.com/) "possibly related posts" feature (where it automatically appends 3 or 4 other posts from Wordpress.com blogs which it deems to possibly related) included a [link to this post](http://techticker.net/2008/01/30/prologue-as-a-blog-portal/) entitled "Prologue as an eLearning Blog Portal".

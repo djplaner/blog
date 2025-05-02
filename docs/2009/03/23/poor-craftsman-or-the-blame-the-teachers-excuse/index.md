@@ -51,9 +51,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### Disclaimer
 
 I strongly believe in the notion that both learning and teaching, and attempting to improve learning and teaching, are [wicked design problems](http://en.wikipedia.org/wiki/Wicked_problem) to which there is no single answer, there are no right nor easy answers. The better answers lie in a broad recognition, understanding and synthesis of the diverse perspectives that exist; an in-depth understanding of the local context in which you are trying to operate; and a broad (usually much broader than people assume) set of knowledge of concepts and fields that might help.

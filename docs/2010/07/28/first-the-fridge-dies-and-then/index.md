@@ -191,9 +191,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For the last couple of days our LG side-by-side fridge has been dying. Not a great situation, especially given the problems we've had with it. And then today I find out that my employment at my current institution is about to cease after 20 years. The following is a bit of reflection about what might happen now.
 
 The last couple of years at the institution have been a boring cycle: org restructure, imminent redundancy, last minute "saving", period of uncertainty, org restructures, imminent redundancy, glimmer of last minute "saving"...redundancy. So, while there is a tinge of sadness (mostly for the folk "left behind), and a touch of worry (disruption to the family) this is actually a great relief. We're in a position where this causes no great financial pressure, so not only is there relief, there is some wonder at the possibilities that have opened up.

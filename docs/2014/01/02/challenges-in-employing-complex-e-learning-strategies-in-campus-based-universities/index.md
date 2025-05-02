@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary of McNaught et al (2009). This is one of three papers that from the same institution around the LMS that [I've looked at recently](/blog2/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/).
 
 The abstract for the paper is

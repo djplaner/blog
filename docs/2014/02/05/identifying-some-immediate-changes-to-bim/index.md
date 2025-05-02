@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I have until the 21st of February to get [BIM](/blog2/research/bam-blog-aggregation-management/) tested and ready for installation into the institutional Moodle instance. The following is some initial planning of what I'd like to get done in that time frame. A list that will then need to be further whittled away to what I can get done in that time frame. There are three categories of changes
 
 1. Changes to better support the pedagogy I'm currently using.

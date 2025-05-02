@@ -5,9 +5,6 @@ categories: ['herding-cats', 'reflectivealignment']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A [recent post](/blog2/2010/06/02/the-role-of-experience/) of mine continued the trend of reflecting on the impacts - in my mind negative impacts - of a top-down, compliance driven culture in higher education. This bit has been encouraged by [a comment](/blog2/2010/06/02/the-role-of-experience/#comment-3217) on that post which makes a number of interesting points, at least in terms of encouraging some additional thinking on my part. It's also serindipitously coincided with some recent local events.
 
 ### My interpretation

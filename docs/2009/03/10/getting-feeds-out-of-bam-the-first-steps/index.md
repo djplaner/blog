@@ -5,9 +5,6 @@ categories: ['bam', 'chapter-5', 'design-theory', 'elearning', 'plescquni', 'the
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The [Blog Aggregation Management (BAM) project](/blog2/research/bam-blog-aggregation-management/) is an attempt to be a bit more Web 2.0/SaaS in the implementation of e-learning within a University. BAM works by students creating and using their own blog on one of a number of freely available external blogging services and registering it with BAM. BAM provides some management infrastructure that integrates these external services with university information and also offers support for staff to mark and track student posts. The staff interface is primarily via a web interface.
 
 Recently, I've been [thinking about](/blog2/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/) changes to enable teaching staff to use RSS readers as their primary interface. This post details some initial steps towards achieving this.

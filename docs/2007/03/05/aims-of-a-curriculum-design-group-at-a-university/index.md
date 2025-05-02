@@ -5,9 +5,6 @@ categories: ['emd']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is a collection of rough ideas about what the overall aim should be for a curriculum design group at a University. In particular, a University like [Central Queensland University](http://www.cqu.edu.au/).
 
 The driver for this is that I'm now the "leader" of just such a group. A group that has been newly formed. We're starting from scratch and need to figure out how, what and why we're going to work. Obviously, this is very much a work in progress and required input and comments from a range of folk (one of the reasons for doing this on my blog).

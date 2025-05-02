@@ -85,9 +85,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [PLEs@CQUni](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) project is attempting to figure out how/if social software, web 2.0 etc can be effectively used at [CQUni](http://www.cquni.edu.au/) to improve learning and teaching. I'm part of a group attempting to figure out how we can do this, figure out what works, what doesn't and get these technologies/ideas used effectively.
 
 As part of this process we need to think about the principles that underpin these technologies and identify how they can used, what problems they will pose and how we can investigate further what they mean for the students and staff of CQUni. This post is, hopefully, the start of a gathering of and perhaps some reflection on what others have already written about these principles.

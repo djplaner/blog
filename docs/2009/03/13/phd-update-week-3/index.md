@@ -5,9 +5,6 @@ categories: ['phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A new record. A renewed interest in the PhD has lasted 3 weeks. I've even made a come back from [the weak second album problem](/blog2/2009/03/06/the-weak-second-album-phd-update/) and probably had the most fulfilling week. Though I could have been more productive, perhaps that's an aim for next week.
 
 This week I did cross a lot of things off the PhD to do list, but I also added a fair few.

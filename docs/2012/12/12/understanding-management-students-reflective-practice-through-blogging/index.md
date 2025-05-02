@@ -82,9 +82,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and perhaps some reflection upon Osman and Koh (2013). It's part of the thinking and reading behind the re-design of the [ICTs and pedagogy course](http://www.usq.edu.au/course/synopses/2013/EDC3100.html) I help teach to pre-service teachers.
 
 ## Abstract

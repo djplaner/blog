@@ -5,9 +5,6 @@ categories: ['ascilite']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Live blogging from a talk by [Stephen Marshall](http://www.utdc.vuw.ac.nz/about/staff/stephen.shtml) - Using the e-learning Maturity Model to Identify Good Practice in E-Learning
 
 Different ways of talking about quality as

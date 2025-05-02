@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As a first step to [BIM v2.0](/blog2/2010/11/09/initial-plans-for-bim-2-0/) I'm installing and starting to play with Moodle 2.0 (RC2). The following is a summary/reflection of the experience. One of the aims of this is to investigate how Moodle 2.0 handles its integration with external blogs and see what lessons/insights I can learn for BIM v2.0.
 
 _Warning:_ This is a little incomplete, I'm posting early for testing purposes.

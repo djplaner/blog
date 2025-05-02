@@ -39,9 +39,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A tweet from [@rgesthuizen](http://twitter.com/#!/rgesthuizen) pointed me to [this article](http://www.csmonitor.com/Commentary/Opinion/2011/0302/Why-the-weak-students-end-up-as-teachers-Education-programs-lack-intellect/\(page\)/2) which argues that only weak students are ending up as teachers because education programs lack intellect. This is of interest to me for two reasons. First, I'm currently enrolled in an education program and I'm not sure my experiences match 100% what is claimed in the article (perhaps an interesting US/Australian difference). Second, because the fatal indicator of a lack of intellect within education programs seems to be in direct opposition to the positions I've seen in my first week of study.
 
 The basic argument is that less intellectual able students are flocking to education programs because they are easy. The suggested solution to bring intellectually strong students back to education is

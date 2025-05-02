@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the second of the sections from my [thesis](/blog2/research/phd-thesis/) that describe the various changes made to Webfuse and how it was implemented during the years 2000-2004 (and a bit beyond). It's a rough first draft. The [first section](/blog2/2010/06/04/adopter-focused-development-and-diffusion-theory/) describes how the Webfuse development process came to be very focused on the potential adopters of Webfuse. This section describes why and how the Webfuse development process became more emergent/agile.
 
 I continue to hold that the traditional development life cycles (i.e. not adopter focused and not agile) used to implement e-learning within universities are a major problem.

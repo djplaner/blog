@@ -6,9 +6,6 @@ coverImage: verandahSunset.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following began as a summary of
 
 > Hammond, M. (2019). What is an ecological approach and how can it assist in understanding ICT take-up? _British Journal of Educational Technology_. [https://doi.org/10.1111/bjet.12889](https://doi.org/10.1111/bjet.12889)

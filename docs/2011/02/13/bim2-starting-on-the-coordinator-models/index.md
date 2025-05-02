@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [last bit of work](/blog2/2011/02/06/bim2-the-greater-coordinator-conversion/) on bim2 set up the structure for the coordinator interface and operations. This post documents the work of implementing the models, i.e. starting the process by which the coordinator interface actually starts actually working. Most of this should be a reasonably straight translation/update of bim into the OO structure of bim2.
 
 This post gets the first two tabs done. Three to go.

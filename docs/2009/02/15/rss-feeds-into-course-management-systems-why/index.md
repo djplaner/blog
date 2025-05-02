@@ -5,9 +5,6 @@ categories: ['elearning', 'plescquni', 'web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Last night I was looking for some information about recording audio for powerpoint presentations in order to create a slidecast
 
 > **Aside:** I like [Slideshare](http://www.slideshare.net/) and I like creating [slidecasts](http://www.slideshare.net/davidj/immersive-3d-technologies-and-learning-and-teaching-at-cqu). However, synchronising the audio with each slide is a pain, even using the interface provided by Slideshare. I'd much prefer being able to record the audio while giving the presentation and having it automatically synchronised. A while ago I thought we had a [process using Powerpoint](/blog2/2008/08/07/creating-slidecasts-on-slideshare-e-learning-support/), but no. Bloody powerpoint keeps cutting off the last few seconds of the audio for each slide. To get it to work you have to pause for 5 seconds at the end of each slide. **If you have any insight into how to fix this, please let me know**. I can't even find any mention of this problem via Google.

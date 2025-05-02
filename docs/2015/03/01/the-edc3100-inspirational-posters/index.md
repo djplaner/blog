@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a work in progress intended to record the "inspirational posters" that I use on my course website. Mainly so I an remember what I used and why.
 
 ### Inspirational posters??

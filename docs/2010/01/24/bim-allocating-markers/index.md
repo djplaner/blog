@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I had sort of hoped that most of the new BIM development was finished. However, after a bit of research at the local institution it becomes obvious that I'll have to implement a marker allocation screen. Hopefully, it won't require that much work.
 
 ### Requirement

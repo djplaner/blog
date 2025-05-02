@@ -170,9 +170,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Earlier today I tweeted the following
 
 !!! warning "Outdated content"

@@ -5,9 +5,6 @@ categories: ['elearning', 'react']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A nice quote for REACT comes from Campbell, Gibson and Grammlich (2005)
 
 > Like Albion & Gibson (1998), who maintain that individual faculty, sharing innovative teaching methods, can encourage others ‘to acquire the insights which will enable them to adapt their own practice’ (p. 1), we believe that faculty engagement in a design process provides a catalyst to change in understanding and practice. In fact, the sharing of experience through a social, relational process of collaborative conversation (Feldman, 2000) goes beyond the adaptation of practice to innovation, to the transformation of practice through innovation.

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As [proposed earlier](/blog2/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/) this post is the first step in attempting to evaluate the differences between three learning management systems. This post attempts to understand and describe the model underpinning Blackboard version 6.3.
 
 ### Hierarchical

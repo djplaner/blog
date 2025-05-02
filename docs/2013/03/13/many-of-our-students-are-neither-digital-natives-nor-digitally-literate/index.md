@@ -607,9 +607,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday I attended a session with three different presentations focused around "student voices and their current use of technologies at USQ". There was some very interesting information presented. However, I have a few reservations with aspects of the research and especially with some of the conclusions that have been drawn. I'm hoping to reflect upon and post more about this when I have some time. But an experience just now reinforced one of my reservations and is worth a short sidetrack.
 
 A largish survey of students found that all of the students had some form of access to the Internet. Given that it was an online survey, this is perhaps not surprising. But that's not the problem I particularly want to address here.

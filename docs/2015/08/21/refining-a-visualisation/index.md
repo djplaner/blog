@@ -5,9 +5,6 @@ categories: ['4paths']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Time to [refine the visualisation](/blog2/2015/08/18/visualising-locations-of-students-etc/) of students by postcodes started earlier this week. Have another set of data to work with.
 
 1. Remove the identifying data.

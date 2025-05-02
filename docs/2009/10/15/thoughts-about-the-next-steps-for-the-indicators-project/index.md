@@ -98,9 +98,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post is an attempt to capture some adhoc, over night thoughts about how the [indicators project](http://indicatorsproject.wordpress.com/) might move forward.
 
 ### Context

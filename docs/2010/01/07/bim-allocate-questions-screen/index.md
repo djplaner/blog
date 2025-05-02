@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [The last bit of work](/blog2/2009/12/26/bim-the-show-student-posts-screen/) I did on BIM continue the current trend of getting screens mostly working without some of the extra effort required for a production system. This is in part driven by my desire to become more familiar with differing aspects of Moodle development.
 
 This post continues that trend by describing the implementation of the "allocate questions screen". This is the screen used by a teacher to change the allocation of student posts to questions. A basic premise of BIM is that for a given course students are expected to respond to particular questions. BIM attempts to automatically detect student posts that answer a question and allocate them appropriately. Sometimes, however, there is a need for some manual intervention.

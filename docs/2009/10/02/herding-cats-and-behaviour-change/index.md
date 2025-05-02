@@ -5,9 +5,6 @@ categories: ['herding-cats']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 My focus for the last couple of weeks was a presentation - [Herding cats and losing weight: How to improve learning and teaching](/blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/). One description of the argument of that presentation is:
 
 - To improve learning and teaching within a university you have to change the conceptions (the behaviour) of the academics.

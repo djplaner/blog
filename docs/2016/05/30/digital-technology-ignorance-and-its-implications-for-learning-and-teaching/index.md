@@ -137,9 +137,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Slides and abstract for the presentation can be found below.
 
 A [video recording](https://vimeo.com/175476384) of the presentation is also available.

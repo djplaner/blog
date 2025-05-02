@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 An attempt at some live blogging from [#ascilite](http://www.ascilite.org.au/conferences/sydney13/) starting with the [Australian Learning Analytics Summer Institute (#a-lasi)](http://www.ascilite.org.au/conferences/sydney13/program/workshops/a-lasi.php).
 
 Shirley Alexander chair of the keynote. Relating story of challenges of getting PCs adopted at Macquarie University - PCs are toy computers. The point is it's all about the need. Mentioning a DVCs key concern is productivity. Good use of data the key.

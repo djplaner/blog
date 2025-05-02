@@ -5,9 +5,6 @@ categories: ['dojo']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Based on various sources including [the Dojo "manual"](http://manual.dojotoolkit.org/WikiHome/DojoDotBook/BookScript)
 
 Three starting sections in HEAD

@@ -5,9 +5,6 @@ categories: ['elearning', 'web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm becoming interested in the notion of [Web 2.0 course sites](http://cq-pan.cqu.edu.au/david-jones/blog/?p=15) as the next step in the evolutionary development of Webfuse.
 
 This details my first experiment with [Google Video](http://video.google.com) as part of that process. The [Wikipedia](http://en.wikipedia.org/) page on [Google Video](http://en.wikipedia.org/wiki/Google_Video) has more detail on competing services, background and drawbacks of Google Video.

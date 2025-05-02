@@ -72,9 +72,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following has some reflection/questions generated while reading
 
 > Macfadyen, L. P., & Dawson, S. (2012). [Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional Strategic Plan](http://www.ifets.info/journals/15_3/11.pdf). Educational Technology & Society, 15 (3), 149–163.

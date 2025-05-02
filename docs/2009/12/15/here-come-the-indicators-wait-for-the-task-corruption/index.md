@@ -116,9 +116,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over the weekend it was reported in various media outlets that the Australian government has a [new plan for higher education](http://www.theaustralian.com.au/higher-education/julia-gillard-warns-universities-over-results-based-funding/story-e6frgcjx-1225808652486). A plan that includes words like "results-based funding", performance, targets, quality and "readily available". They cynical tone that I hope you are hearing, is not solely - or even mainly - due to some opposition to the idea of universities being accountable or effective. It's mainly due to the belief that I think for the majority of teaching at universities this move will encourage more [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) than it will actual real improvement in the quality of teaching.
 
 This post argues for that perception. A bit further down (and in the comments), there is an argument against the practice of requiring new university teaching staff to complete teaching qualifications.

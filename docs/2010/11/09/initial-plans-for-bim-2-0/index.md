@@ -91,9 +91,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm slowly getting out from under the thesis, which means I am starting to have some time to think about the next version of [BIM](/blog2/research/bam-blog-aggregation-management/). The following is an attempt to lay out some of the ideas I have for the next version of BIM. Beyond helping me gather my thoughts, I'm hoping it will generate some comments and ideas from others. I doubt I will be able to implement all of the suggestions, so I'm hoping to get a sense for what others think is most important.
 
 Currently, I can think of the following categories of potential BIM improvements:

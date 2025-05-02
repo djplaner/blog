@@ -100,9 +100,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [Moodle open book project](/blog2/the-moodle-open-book-module-project/) is attempting (not surprisingly) to modify the [Moodle book module](https://docs.moodle.org/29/en/Book_module) to enable it to produce open resources (educational or otherwise). The main focus is on making the content of the books open in a way that enables modification and reuse. The plan is to do this by enabling a Moodle book resource to be linked to github.
 
 The following is an exploration of and an attempt to describe how this might work at a fairly high level.

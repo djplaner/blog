@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following reports on the process to complete the backup/restore functionality for [BIM 2.0](/blog2/research/bam-blog-aggregation-management/). Backup is currently working. Time to add the ability to restore those backups. It draws on the process described in [this documentation - "Restore 2.0 for developers"](http://docs.moodle.org/dev/Restore_2.0_for_developers). Which doesn't appear anywhere as detailed/sequential as the backup 2.0 documentation.
 
 This and some simple mistakes on my part meant the following was spread over a couple of days, rather than a hours as I'd hoped. Restore is currently working, at least according to the tests I've done.

@@ -74,9 +74,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [last post](/blog2/2010/12/19/first-coding-steps-for-bim2/) covered the initial steps in starting bim2. Including the choice of the name _bim2_. But there is a problem.
 
 ### The problem

@@ -172,9 +172,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The idea that everyone should know how to code is increasingly dominant and increasingly questioned. In terms of a required skill that everyone should know, I remain sitting on the fence. But if you are currently teaching in a contemporary university where e-learning (technology enhanced learning, digital learning, online learning, choose your phrase) forms a significant part of what you do, then I think you should seriously consider developing the skill.
 
 If you don't have the skill, then I don't know how you are surviving the supreme silliness that is the institutionally selected and mandated e-learning environment. And, at the very least, I've been able to convince [Kate](https://www.linkedin.com/pub/kate-ames/16/aa2/3b4)

@@ -5,9 +5,6 @@ categories: ['elearning', 'indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The [Excellence in Research for Australia (ERA) Initiative](http://www.arc.gov.au/era/default.htm) combined with various [local institutional](http://www.cqu.edu.au/) and personal factors has increased the interest of some colleagues and I in biting the bullet and entering the next stage of academic development. i.e. the preparation, submission and hopefully successful receipt of applications for external funding. This post is the start of some reflections and thinking about how and what to do.
 
 I am starting from the assumption that it is now an institutional requirement that we undertake this task and be successful at it. There are a range of questions about the validity of aspects of this task and the thinking that may be displayed below. In part, this is purely pragmatic and, hopefully, will in part be mitigated by trying to knock the rough edges off that pragmatism by various other strategies.

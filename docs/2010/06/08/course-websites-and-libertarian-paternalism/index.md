@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Stephen Downes [makes a valid point](http://www.downes.ca/cgi-bin/page.cgi?post=52617) about my recent question about whether or not academics [should manually create websites](/blog2/2010/06/07/should-academics-manually-create-course-websites/). I agree with his underlying point that academics should not be forced to use the institutional approach. Given any option I would not suggest such an approach.
 
 ### Incompetent paternalism

@@ -407,9 +407,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### The problem
 
 Most university teaching is crap. Too general, too sweeping? Maybe, but based on my experience I'm fairly comfortable with that statement. The vast majority of what passes for teaching at Universities has a number of really significant flaws. It's based more on what the teaching academic is familiar with (generally based on the discipline experience) than on any idea of what might be effective.

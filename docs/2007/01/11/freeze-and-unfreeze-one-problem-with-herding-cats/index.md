@@ -57,9 +57,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently working on a paper/idea which is essentially seeking to argue that the [herding cats metaphor](http://cq-pan.cqu.edu.au/david-jones/blog/?cat=14). This metaphor's most famous instantiation is the [EDS herding cats commercial](http://youtube.com/watch?v=zHgEQ71rGwo). It is a metaphor/phrase that is often used within higher education, especially when someone has tried to get academics to do something. It's often equated to herding cats.
 
 My basic premise is that herding cats is exactly the wrong way to encourage academics to change. To me it is indicative of the traditional top-down, I know best approach that is completely inappropriate, for a number of reasons, for academia.

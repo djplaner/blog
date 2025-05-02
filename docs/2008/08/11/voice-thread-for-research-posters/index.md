@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post describes some very early thinking about a trial that forms part of the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). The trial seeks to support the use of [Voice Thread](http://voicethread.com) to allow students to share research posters they prepare as part of the [CQUni](http://www.cquni.edu.au/) course PSYC13021, Special Topic in Psychology. The aim here is to summarise the project and describe the first steps.
 
 ### What is voice thread?

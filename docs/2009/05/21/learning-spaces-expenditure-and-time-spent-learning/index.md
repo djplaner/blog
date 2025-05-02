@@ -5,9 +5,6 @@ categories: ['elearning', 'ilecture', 'innovation']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I've just been listening [to this podcast](http://www.gardnercampbell.net/blog1/?p=770) of a keynote by [Dr Phil Long](http://edtechtrends.blogspot.com/). Apart from the content of the talk, this is interesting because Dr Long has just recently [started work at the University of Queensland](http://www.uq.edu.au/news/?article=16664) (which is just down the road from here) at the [Centre for Educational Innovation and Technology](http://www.uq.edu.au/ceit/).
 
 There is much good content. I particular recommend listening through the question and answer section at the end for a story about a "student/teacher" relationship that is very inspiring.

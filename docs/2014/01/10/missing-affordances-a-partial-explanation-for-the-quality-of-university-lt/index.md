@@ -58,9 +58,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A friday afternoon rant/story illustrating what I see as a fatal flaw in institutional University L&T systems (at least those I'm experienced within in Australia). This flaw helps explain why the quality of L&T - especially e-learning - leaves something to be desired.
 
 ### Evaluating teaching and learning

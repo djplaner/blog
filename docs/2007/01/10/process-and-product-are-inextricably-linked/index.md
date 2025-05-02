@@ -5,9 +5,6 @@ categories: ['elearning', 'herding-cats', 'react']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Simon](http://en.wikipedia.org/wiki/Herbert_Simon) (1996, p 130) writing about the connection between what is designed (product) and the process used to designed it, says
 
 > What we ordinarily call "style"? may stem just as much from these decisions about the design process as from alternative emphases on the goals to be realized through the final design … both the shape of the design and organization of the design process are essential components of a theory of design.

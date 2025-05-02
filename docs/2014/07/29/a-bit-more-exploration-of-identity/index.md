@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A bit more reading/thinking about identity in the form of reading Day et al (2006) and also in light of [some conversations](http://timklapdor.wordpress.com/2014/07/27/reclaim-rethink/) going on around identity and the Reclaim Project. More on my personal Reclaim my Domain project tomorrow, hopefully. Day et al (2006) was one of the readings set in the [NGL course](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/#readings), meant to spark some thinking about identity and its connection with NGL.
 
 ## Implications/questions

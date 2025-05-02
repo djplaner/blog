@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post is meant to document the (hopefully short) process of getting the Mark Post screen implemented in BIM.
 
 ### Required data

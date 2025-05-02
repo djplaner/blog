@@ -77,9 +77,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 While I'm traveling this week I am reading [How people learn](http://www.nap.edu/openbook.php?record_id=6160). This is a fairly well known book that arose out of a US National Academy of Science project to look at recent insights from research about how people learn and then generate insights for teaching. I'll be reading it through the lens of my thesis and some broader thinking about "academic development" (one of the terms applied to trying to help improve the teaching and learning of university).
 
 Increasingly, I've been thinking that the "academic development" is essentially "teaching the teacher", though it would be better phrased as creating an environment in which the academics can learn how to be better at enabling student learning. Hand in hand with this thought is the observation and increasing worry that much of what passes for academic development and management action around improving learning and teaching is not conducive to creating this learning environment. The aim of reading this book is to think about ways which this situation might be improved.

@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So, getting back into BIM development. [The last post](/blog2/2009/12/14/getting-back-into-bim-summary-and-way-forward/) reminded me where I'm up to. The following is an attempt to plan, implement and document some code. Am starting where I left off, with the registration process for students. As part of this process I am finally starting to use the [to do list](/blog2/research/bam-blog-aggregation-management/bim-to-do-list/) for what it was meant to be used for.
 
 ### Properly creating the form

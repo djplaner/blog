@@ -55,9 +55,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Some colleagues and are re-starting an exploration of OEP in Initial Teacher Education (ITE). A first task is an attempt to get a handle on what has been done/is known about OEP/OER. Yes, we're looking for spectrums/frameworks/models etc that help map out what might be done with OEP/OER.  We're interested in using this to understand what's been done around OEP within ITE and also what we've already done.
 
 The following is a summary of a quick lit review. No real structure and includes a range of strange notes.

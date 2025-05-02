@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 't
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Currently reading Winefield et al (2003) as part of writing [my thesis](/blog2/research/phd-thesis/), thought I'd share some of the points and reflections here.
 
 ### University well-being and staff well-being

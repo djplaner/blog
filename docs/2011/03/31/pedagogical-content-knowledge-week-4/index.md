@@ -5,9 +5,6 @@ categories: ['eded20456', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So, only two weeks to catch up on this course.
 
 ### Curriculum frameworks

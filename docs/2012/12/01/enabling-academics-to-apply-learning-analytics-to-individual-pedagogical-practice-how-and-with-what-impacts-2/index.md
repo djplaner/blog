@@ -67,9 +67,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an excerpt from an unsuccessful [2012 second round OLT grant](http://www.olt.gov.au/). We're currently pondering what the next step is with the idea.
 
 [A recent presentation](/blog2/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/) at the Southern Solar Flare conference places the following idea in a broader context of learning analytics and how universities are implementing it.

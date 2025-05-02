@@ -297,9 +297,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I came across a post title "Some ways university will change over ten years by [Mark Smithers](http://www.masmithers.com/about/) via a tweet from [Claire Brooks](http://www.linkedin.com/in/clairebrooks). The post is, as Mark puts it, an attempt to anticipate the changing roles and functions of universities and how it will effect educational technology. To some extent it's the sort of thing that I might be expected to do in [my current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/, if not to develop institutional policy, at least to inform it.
 
 So, I plan to follow Mark's blog and see what he comes up with. I also hope to be able to blog some reflections and reactions on what he and others have written. The aim of this is, in the first part, force me to start to formulate, make concrete and question my own views so that it can inform my practice. In part, I've already started this process with [a post](/blog2/2009/07/01/how-do-you-apprehend-the-future/) reflecting on [a EDUCAUSE Review article](http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume44/ApprehendingtheFutureEmergingT/171774) by Bryan Alexander.

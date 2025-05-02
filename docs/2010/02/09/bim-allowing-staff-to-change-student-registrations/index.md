@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 BIM is essentially complete and about to go into user testing, however, initial testing suggests that an ability for staff to change the blog students have registered would be a significant benefit during the first couple of weeks. This post describes the design and implementation of this feature.
 
 ### Plan

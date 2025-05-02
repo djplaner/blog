@@ -85,9 +85,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Due to a combination of personal and institutional flaws (the information systems and enterprise processes within Universities continue to be "interesting") that last month or so has been pretty horrendous from a work perspective. Only now starting to get some space to reflect on what's been happening and engage more students and research. My apologies to the students who have been impacted.
 
 One of the major tasks during this time has been designing learning experiences for the course [EDM8006, Curriculum and Pedagogical Studies 2: Arts & Technologies](http://www.usq.edu.au/course/specification/2016/EDM8006-S2-2016-WEB-TWMBA.html). In particular, two weeks of learning experiences intended to introduce students to [Australian Curriculum: Technologies learning area](http://www.australiancurriculum.edu.au/technologies/introduction) and its two subjects: Design and technologies, and Digital technologies. This is part of work that was connected with [attempts earlier in the year](/blog2/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/) to explore open educational practices (OEP) within initial teacher education (ITE).

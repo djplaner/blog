@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Next step in tidying up is to clean up the checking, calculation and setting of the blog and feed URLs as students register their blogs.
 
 First, fix up some problem with markers without any students.

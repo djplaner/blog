@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A discussion on a mailing list indicates that government legislation may be a barrier to the Web 2.0 idea of making everything open.  In someway related to, or tied up with the issue of privacy etc.
 
 In the discussion some are worried that the Family Educational Rights and Privacy Act (FERPA)  means that online discussions for a course can't be made completely open.

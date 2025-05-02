@@ -4,9 +4,6 @@ date: 2009-01-02 01:04:27+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Ron Chernich, Bruce Jamieson, David Jones, RCOS: Yet another teaching operating system, Proceedings of the First Australasian Conference on Computer Science Education.
 
 ## Abstract

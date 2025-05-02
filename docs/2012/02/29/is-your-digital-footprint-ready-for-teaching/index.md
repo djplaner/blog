@@ -105,9 +105,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Am in the process of creating a new blog to be called ["Is my digital footprint ready for teaching?"](http://teachingfootprint.wordpress.com/). The following describes the why and what and records some initial planning/design.
 
 Keen to hear any suggestions folk have.

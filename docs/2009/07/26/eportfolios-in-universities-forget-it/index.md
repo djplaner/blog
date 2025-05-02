@@ -230,9 +230,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I continue to have [a high level of skepticism](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/) around the concept of universities investing in ePortfolios. I feel that it is another example of how people within universities tend to over-emphasize their importance in the scheme of things, extend the university role into areas it where it should never have been and subsequently waste resources and more importantly the time and energy of academic staff that would be better spent focusing on other aspects of improving learning and teaching. In particular, I see ePortfolios being another approach that is being over-run by the [technologists alliance](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/#alliance).
 
 This latest restating of my prejudice arises from [a find](http://www.downes.ca/cgi-bin/page.cgi?post=49682) from [Stephen Downes](http://www.downes.ca/) OLDaily newsletter which eventually traces back to [this post](http://blocs.xtec.cat/portfolioproject/2009/07/24/portfolioroadmap/) from a Spanish higher school teacher which in turn draws on [this post](http://blog.core-ed.net/derek/2008/09/conceptualising-eportfolios.html) from Derek Wenmoth.

@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a reflection on one activity required during the first week of the ICTs for Learning Design course I'm taking. Over the next few weeks there will be a number of these reflective posts and then, eventually, a post that synthesises these posts into one reflection.
 
 The intent behind this design is, I believe, to link our uses of various technologies back to what we're meant to be learning about different learning paradigms/theories with the design of some learning activities. i.e. this is a form of reflection on what we've done that should encourage a bit of meta-cognition about how it all fits together.

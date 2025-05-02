@@ -6,9 +6,6 @@ tags: ['cddu-elearning-coursesite']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [CQUni](http://www.cquni.edu.au/) has an interest in increasing the quality of the course websites, as part of a broader push to improve the quality of learning and teaching. This post is an attempt to engage with some of the issues and develop some suggestions for moving forward.
 
 There are many an argument why this particular focus on course websites might be somewhat misguided. For example, there is a growing argument (under various titles, including Personal Learning Environments) for the need to move away from this sort of institutional focus to a much greater focus on the learning environment of the individual students. While those discussions are important, as an institution we do need to have a pragmatic focus and improve what we do and our students experience.

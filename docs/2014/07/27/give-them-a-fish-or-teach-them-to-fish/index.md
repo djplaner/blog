@@ -120,9 +120,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![T-Shirt-Teach A Man To Fish by Beige Alert, on Flickr](https://farm1.static.flickr.com/29/46188978_cf47d7f70f_m.jpg "T-Shirt-Teach A Man To Fish by Beige Alert, on Flickr")](https://www.flickr.com/photos/beigephotos/46188978/)  
 [![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](http://i.creativecommons.org/l/by-sa/2.0/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/beigephotos/)[Beige Alert](https://www.flickr.com/people/beigephotos/) [](http://www.imagecodr.org/)
 

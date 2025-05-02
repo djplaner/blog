@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Some colleagues and I are putting the finishing touches on a paper that has arisen out of the [indicators project](http://beerc.wordpress.com/2009/03/15/the-indicators-project/). The paper is an exploratory paper, seeking to find interesting patterns that might indicate good or bad things about the use of LMS (learning management systems, aka course management systems, virtual learning environments etc) that might help improve decision-making by all participants (students through management). I hope to post the paper in coming days.
 
 This post is about one aspect of the paper. The section where we compare feature adoption between two different LMS that have been used side-by-side at our institution: Blackboard and Webfuse. (**Important:** I don't believe Webfuse is an LMS and will argue that in my PhD (Webfuse is the topic of my thesis). But it's easier to go with the flow). This is one of the apparent holes in the literature, we haven't found any publications analysing and comparing system logs from different LMS, especially within the one institution over the same long time frame. In our case we went from 2005 through the first half of 2009.

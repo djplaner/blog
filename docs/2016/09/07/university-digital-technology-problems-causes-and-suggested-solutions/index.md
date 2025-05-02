@@ -5,9 +5,6 @@ categories: ['bad']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The level of support provided by digital technologies to broad learning and teaching tasks within my little part of my current institution is extremely limited. The following is one explanation why this is the case, and one set of suggestions for what might be done, both immediately and longer term.
 
 ## The problems and a cause

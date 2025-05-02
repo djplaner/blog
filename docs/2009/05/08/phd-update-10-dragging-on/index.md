@@ -49,9 +49,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Well, I've reached double figures for these updates. The last week has been a slow one, or at least felt like it. The public holiday didn't help, nor the day off to [ponder the new position](/blog2/2009/05/07/pondering-a-new-position/). Progress has been made, but it just seems slow, especially when compared to what I said I'd do. I'm becoming more used to accepting some progress, be it slow or otherwise, as long as it's moving forward.
 
 ### What I've done

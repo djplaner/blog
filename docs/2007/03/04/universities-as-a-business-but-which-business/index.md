@@ -128,9 +128,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Last week I gave a presentation to new academic staff at [CQU](http://www.cqu.edu.au/), a part of their "induction" process. The presentation was titled [Some possible futures of e-learning: Lessons and enablers](http://cq-pan.cqu.edu.au/david-jones/Publications/Presentations/PossibleFutures/).
 
 The basic premise was something along the lines

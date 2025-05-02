@@ -5,9 +5,6 @@ categories: ['research', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 According to the Wordpress dashboard for this blog this is the 1000th published post (I have 100 odd drafts that I never finished or thought better of posting). Given I'm about to mark first year in a new job in a new institution in a new region, undergo my annual performance review and commence a new academic year, it would seem time to reflect and think about the future.
 
 But first, thanks to those folk who have read and contributed to the blog over the years. Much of the good from blogging has arisen from those connections.

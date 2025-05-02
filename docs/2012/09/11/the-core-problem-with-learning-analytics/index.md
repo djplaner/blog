@@ -124,9 +124,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Had some time this morning to read [Analytics in Higher Education: Benefits, Barriers, Progress and Recommendations](http://net.educause.edu/ir/library/pdf/ERS1207/ers1207.pdf) from the EDUCAUSE Centre for Applied Research. It's a report on the results of a survey and seven focus groups (involving IT and Institutional Research - IR - people from universities) attempt to "address the topics of defining analytics, identifying challenges, and proposing solutions" (Bischel, 2012, p. 5). The following uses the quotes from this report that really struck me to identify and suggest what might be the core problem I have with learning analytics. The assumption of rationality.
 
 The report uses this working definition for analytics

@@ -5,9 +5,6 @@ categories: ['edu8117', 'psframework']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Suffering a minor malaise brought on the strategic/operational planning process currently underway at my place of work. As a process it always seems an exercise in futility and frustration, but at least the current process is significantly better than some I've observed.
 
 The problem is that it's all based on a faulty assumption. That an institution can respond to an incredibly complex and rapidly changing context by having some smart people go away for a few months and create a theoretical conception of the way forward for the institution. A theoretical conception informed by their own existing schemata, which in an incredibly complex and rapidly changing context are always going to be insufficient. Especially when those smart people are those that have been successful in the current system which is based on old ideals. Some (many?) of which are unlikely to be relevant in the future.

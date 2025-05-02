@@ -77,9 +77,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's over a month since my last post. Start of semester will do that to you. 350+ students having [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/synopses/2014/EDC3100.html) inflicted upon them always makes for a busy time. No more so with the first assignment due in a couple of days. In a slight turn up for the books, rather than complain about the holes in the various institutional systems and processes make this worse, it's time to save a couple of observations for future consideration.
 
 The following is written as if it is the fault or limitations of students that are the problem here. It's not intended that way. The course contributes, as does many other factors.

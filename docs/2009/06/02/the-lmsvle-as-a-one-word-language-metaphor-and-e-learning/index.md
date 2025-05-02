@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently back from a holiday restarting work on [my thesis](/blog2/research/phd-thesis/) and in particular on the [process component](/blog2/2009/05/25/teleological-and-ateleological-processes/) of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). I'm currently working on the section that describes the two extremes, I'm using Introna's (1996) distinction between teleological design and ateleological design.
 
 The following arises out of re-reading Introna (1996) and picking up some new insights that resonate with some recent thoughts I've been having about e-learning and Learning Management Systems (LMSs/VLEs). The following is an attempt to make sense of Introna (1996) - which is not the easiest paper to follow - and integrate it with some of my thinking.

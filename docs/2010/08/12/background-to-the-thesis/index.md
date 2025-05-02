@@ -5,9 +5,6 @@ categories: ['chapter-1', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It seems like I'm in the downhill stretch with the [thesis](/blog2/research/phd-thesis/). Almost all the new material has been written, am just waiting on some feedback from my esteemed supervisor before completing the last new section (it follows the same structure as a previous section, hence the importance of feedback). So, while I'm waiting on that feedback, I'm starting the revision of the draft chapters. The following is a re-working of the first main section of chapter 1 and provides the background to the research.
 
 ### Background to the research

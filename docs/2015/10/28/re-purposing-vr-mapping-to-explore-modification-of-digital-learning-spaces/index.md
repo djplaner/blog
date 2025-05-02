@@ -185,9 +185,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### Why?
 
 Apparently there is a digital literacy/fluency problem with teachers. The [2014 Horizon Report for Higher Education](http://www.nmc.org/publications/2014-horizon-report-higher-ed) identified the “Low Digital Fluency of Faculty” as the number 1 “significant challenge impeding higher education technology adoption”. In the [2015 Horizon Report for Higher Education](http://www.nmc.org/publication/nmc-horizon-report-2015-higher-education-edition/) this morphs into "Improving Digital Literacy" being the #2 significant challenge. While the [2015 K-12 Horizon Report](http://www.nmc.org/publication/nmc-horizon-report-2015-k-12-edition/) has "Integrating Technology in Teacher Education" as the #2 significant challenge.

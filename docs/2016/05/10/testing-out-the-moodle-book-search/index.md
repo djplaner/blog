@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Earlier this year - as part of the [Moodle Open Book project](/blog2/the-moodle-open-book-module-project/) - I [made some changes](/blog2/2016/01/17/finishing-tweaks-to-moodle-book-search-block/) to [Search Book block](https://github.com/stronk7/moodle-block_search_books) for Moodle. The hope being that my institution might install this on it's Moodle installation, which in turn would allow my students and I to search the ~70 Moodle books that make up the "learning path" for my course.
 
 Well it is almost there. It's in the test environment and the following reports on some testing of the Search Book block. In summary, it all appears to be working.

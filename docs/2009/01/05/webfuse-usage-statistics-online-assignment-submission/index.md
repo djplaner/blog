@@ -5,9 +5,6 @@ categories: ['thesis', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Online assignment submission is one of the more used features of Webfuse and is explained in part in a few publications.
 
 ### Number of students and courses

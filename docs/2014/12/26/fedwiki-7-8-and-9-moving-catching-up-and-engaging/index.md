@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Thanks to the good folk of @reclaimhosting I know have a FedWiki working as part of my own domain - [http://fedwiki.djon.es/](http://fedwiki.djon.es/). That's the good news. The bad news is that the move creates two problems
 
 1. A small loss of data. In setting up the new fedwiki there was a need to copy over the old one. However, just after that copy (of which I was clueless due to ignoring email) I got inspired and added something. Not a big problem, but something to explore how I might remedy this within the fedwiki model.

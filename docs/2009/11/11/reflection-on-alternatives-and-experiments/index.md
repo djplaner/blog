@@ -100,9 +100,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've just completed [a presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) which included an experiment with some different technologies for lectures and a [talk I gave at EDUCAUSE09](http://www.educause.edu/E09+Hybrid/EDUCAUSE2009FacetoFaceConferen/ELearningImplementationAlterna/176134). The slides, video and other related resources are available from the [main presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) page.
 
 The purpose of this post is an attempt at a debrief/reflection on the experience.

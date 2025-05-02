@@ -67,9 +67,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is an excerpt from Chapter 5 of the thesis. It's a re-do of an earlier post, I'm a bit happier with it than v1.0. I'm posting it here because it connects with some work I'm doing preparing to work on BIM v2.0 and also because it summarises what I think may areas of further research in e-learning would be, if I were to do any.
 
 First, there is a definition of what I mean by scaffolding conglomerations, then there is some brief justificatory knowledge on which this very early, rough idea is based.

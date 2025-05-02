@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For the last couple of weeks I've been working on chapter 4 of [my thesis](/blog2/research/phd-thesis/). I've worked my way through explaining the context ([general context](/blog2/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) and ([use of e-learning](/blog2/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/)), the [design guidelines](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/) and the implementation (parts [1](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/), [2](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-2/) and [3](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-3/)). I've now reached the evaluation section, where I'm meant to describe what happened with the use of Webfuse and make some judgement calls about how it went.
 
 The purpose of this post is to make concrete what I'm thinking about doing. A sort of planning document. I don't think it will be of much use to most others, though the following section on related work might be some interest.

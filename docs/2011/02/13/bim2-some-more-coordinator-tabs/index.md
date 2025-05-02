@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The [last work](/blog2/2011/02/13/bim2-starting-on-the-coordinator-models/) on bim2 ended up with the first 2 of 5 tabs for the coordinator interface completed. This post continues on with that development.
 
 ### Allocate markers

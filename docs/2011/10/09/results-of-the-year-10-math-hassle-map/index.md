@@ -5,9 +5,6 @@ categories: ['teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A little while ago I [blogged about](/blog2/2011/09/25/a-hassle-map-for-year-10-mathematics-you-cant-focus-on-the-negatives/) the idea of having the students in the Year 10 mathematics class I'm teaching generate a "hassle map". Essentially a list of the things that annoy them about the class with the aim of doing something about it. This week I implemented the idea. The following describes the week, talks about the responses from the students, and lays out some initial thoughts about what will happen next.
 
 More than happy to hear suggestions from people.

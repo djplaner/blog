@@ -107,9 +107,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [2014 Horizon Report for Higher Education](http://www.nmc.org/publications/2014-horizon-report-higher-ed) has identified the "Low Digital Fluency of Faculty" as the number 1 "significant challenge impeding higher education technology adoption". I have many problems with this, but the image below captures my main problem.
 
 [![You want digitally fluent faculty? by David T Jones, on Flickr](images/15025763858_58eea9f20c.jpg "You want digitally fluent faculty? by David T Jones, on Flickr")](https://www.flickr.com/photos/david_jones/15025763858/)

@@ -107,9 +107,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the tasks asked of participants in the [NGL course](https://netgl.wordpress.com/) is to write about "me as a teacher" (i.e. some sort of involvement in formal education helping others learn). The idea is that as we read and think about NGL ideas, theories and tools we're working towards figuring out how we can transform what we do as a teacher using those ideas, theories and tools.
 
 ## What is your role as a teacher?

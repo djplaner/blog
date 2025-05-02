@@ -5,9 +5,6 @@ categories: ['elearning', 'herding-cats', 'indicators', 'moodle', 'phd', 'reflec
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A [blog post](http://www.gilfuseducationgroup.com/academic-analytics-data-rich-information-poor) on the website of [Gilfes Education Group](http://www.gilfuseducationgroup.com/) (apparently a "network of independent education experts") picks up on the [Indicators project](http://indicatorsproject.wordpress.com/) and its take on academic analytics. The post seems to largely in agreement with what we're doing and the reasons behind it.
 
 The following seeks to pick up on a point made in the [Gilfus post](http://www.gilfuseducationgroup.com/academic-analytics-data-rich-information-poor) about the problem arising from ownership of the data and some of the other [barriers that have been proposed](/blog2/2009/12/02/barriers-to-harnessing-academic-analytics/). The argument I develop in the following that [functional fixedness](http://en.wikipedia.org/wiki/Functional_fixedness) is a major barrier to the effective appropriation of academic analytics to help improve learning and teaching.

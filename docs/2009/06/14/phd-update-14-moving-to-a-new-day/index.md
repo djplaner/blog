@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the first of the updates to be sent out on a Sunday. Part of a plan to move from doing this on Friday to Sunday. Mostly because there have been a couple of Friday's I've missed. Also, this might set the reflection up as the start to a week, rather then the end and consequently encourage greater emphasis on moving forward than looking back...who knows.
 
 Since [last week](/blog2/2009/06/05/phd-update-13-back-after-a-week-off/) progress has been slowed by another two days lost due to public holiday and other work commitments. So, I'm not happy with progress.

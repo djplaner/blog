@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Have been listening to a [Dave Snowden podcast](http://www.cognitive-edge.com/podcasts.php) of a "101 organic KM course". Amongst many familiar themes is the mention of the pitfalls of too much transparency hurting innovation.
 
 He uses the example of expense accounts to illustrate the point. At one stage he had a large expense account which could be used to fund interesting and unusual approaches around his work. The innovation was possible was there was no itemisation/justification of the expense. Upon moving into a large company there came a requirement for itemisation. That itemisation kills off innovation.

@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Okay, so after [fixing up the naming problems](/blog2/2010/12/19/problems-with-naming-of-bim2/) with bim2 etc, it's time to actually get the code going.
 
 ### To do

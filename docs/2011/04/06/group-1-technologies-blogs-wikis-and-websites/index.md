@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part of assignment 2 for ICTs for Learning Design we're meant to examine/play with examples of four different groups of technologies. Choose one each week to analyse in a little more detail and use that as the basis for the assignment. This post is my reflection on group 1. A group that contains blogs, wikis and websites.
 
 Given I've done a fair bit of work in the past with these technologies, I'm going to reflect on what I've done, rather than engage in new play.

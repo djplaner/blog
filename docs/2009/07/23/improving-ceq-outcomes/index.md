@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As part of [my new position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to identify opportunities, trends etc around learning and teaching and inform the local institutional community of them. The following is the first of those reports. I've attempted to keep the explanation as short as possible as I'm uncertain the type of folk I'm writing this for are likely to read long essays.
 
 It could be interpreted as a fairly questionable approach. However, I have a few theoretically perspectives on how to create sustainable improvement in L&T within a University that suggests that this is a good way to do it. It's meant to be only the first step.

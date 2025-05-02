@@ -80,9 +80,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a section from my [PhD thesis](/blog2/research/phd-thesis/). It is part of the "Past Experience" section of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). It aims to give a potted history of technology-mediated learning and show how it connects with e-learning. Since these terms are somewhat overused, it starts with some definitions. The plan is that this history will be used to identify lessons from history, which e-learning (generally) hasn't learned.
 
 I've been working on this for at least a month. I have been doing other work on the thesis, but the fact that this has take soooo long is not all the heartening. I think perhaps may sights are set a little high. The alternatives are that I'm either a crap writer or I'm currently not in the mood to write. We'll see where we go from here.

@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As part of working on my [thesis](/blog2/research/phd-thesis/) I'm working on chapter 2. As the traditional literature review one purpose of the chapter is to demonstrate what I know about the topic and to highlight what I think are the flaws or holes in current research and practice that I believe my research will address. The following builds on some initial ideas from a [previous blog post](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) and serves as some practice in formulating my ideas. So it will still be rough. Feel free to suggest improvements, point out problems and disagree.
 
 I was going to leap headlong in describing the flaws of university based e-learning that I perceive. However, before getting to those I thought I'd address what I see as the source of these problems - the "dominant assumptions".

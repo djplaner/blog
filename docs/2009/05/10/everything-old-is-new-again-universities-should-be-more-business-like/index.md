@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In [a previous post](/blog2/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/) I mentioned the current raft of "the university will die" discussions going on online and soon in print. Many of these, and especially [this one](http://www.popecenter.org/clarion_call/article.html?id=2161), embody some sort of argument along the lines of "those silly, impractical academics will only be helped if they become more like business". This is not a new perspective.
 
 [![Cover of Academic and Industrial Efficiency](images/3516650893_7d4e95724d_m.jpg)](http://www.flickr.com/photos/david_jones/3516650893/ "Cover of Academic and Industrial Efficiency by David T Jones, on Flickr")

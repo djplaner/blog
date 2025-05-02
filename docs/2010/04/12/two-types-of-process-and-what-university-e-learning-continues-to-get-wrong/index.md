@@ -106,9 +106,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I should be writing other things, but there's a wave amongst some of the "innovation bloggers" at the moment that I wanted to ride for the purposes of - once again - trying to get those driving university e-learning (and learning and teaching more generally) to realise they have something fundamentally wrong. They are using the wrong type of process.
 
 I level this criticism at most of management, most of the support staff (information technology, instructional designers, staff developers etc) and especially at most of the researchers around e-learning etc.

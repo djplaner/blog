@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the content of my first solo journal article.
 
 > Jones, D. (2004). The conceptualisation of e-learning: Lessons and implications. Best Practice in University Learning and Teaching: Learning from Our Challenges.  Theme Issue of Studies in Learning, Evaluation, Innovation and Development, 1(1), 47–55.

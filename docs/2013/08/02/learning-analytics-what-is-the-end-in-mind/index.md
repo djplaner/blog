@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Learning analytics is one of the new management fashions sweeping higher education. As a consequence, every Australian University I know has some sort of project around learning analytics underway. Some of these projects are actually considering how to help the folk at the coal face - students and teaching staff - use and benefit from learning analytics.
 
 (Aside: It feels like the focus is more on the students than the teaching staff. This feels like a continuation of a recent trend where central institutional L&T is increasingly focusing on working directly with the students and bypassing the teaching staff, perhaps because it's easier. But that's a topic for another time).

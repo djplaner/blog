@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Increasingly BIM development is getting to the stage where the functionality for BIM's three different types of user (coordinator, markers and students) are just about complete. I've been using a very naive, probably misleading interpretation of Moodle's capabilities system to distinguish between the different types of users and what they can do. Yesterday, doing what I thought was some minor updates, it broke. I'm currently having to use a kludge to get BIM to work for different users. This post is documents my attempts to fix this problem.
 
 ### The components of the problem

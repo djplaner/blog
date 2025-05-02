@@ -37,9 +37,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 2024 passed without a post to this blog. Many reasons, but largely because I moved on from higher education. Suddenly digital education - the old focus of this blog - wasn't a big part of my thinking. Raising the question, **what now**?
 
 What now for this blog, for my online presence and engagement, and for what "I do"?

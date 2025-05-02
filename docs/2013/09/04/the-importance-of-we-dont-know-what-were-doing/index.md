@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The video below is of a talk by [Brett Victor](http://worrydream.com/#!/cv/bret_victor_resume.pdf) on "The Future of Programming". But don't let that stop you, underpinning the talk is an important message for folk involved in learning, teaching and most things. The two main points I took away from it are (as applied to my area of interest):
 
 1. "Technology changes quick, peoples' minds change slowly".

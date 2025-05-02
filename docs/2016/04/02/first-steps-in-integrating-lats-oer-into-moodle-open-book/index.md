@@ -31,9 +31,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following documents initial explorations into leveraging the [two Learning Activity Types (LATs) short courses](http://activitytypes.wm.edu/shortcourse/) that have been released as Open Educational Resources (OERs) by [Hofer and Harris (2016)](https://www.academicexperts.org/conf/site/2016/papers/49080/). As outlined in a [prior post](/blog2/2016/03/26/lats-oer-tpack-and-github/) my plan is to use these OERs as a test case for [the Moodle open book project](/blog2/the-moodle-open-book-module-project/). The aim being to
 
 1. Test and identify areas for improvement for the Moodle open book code using a real OER.

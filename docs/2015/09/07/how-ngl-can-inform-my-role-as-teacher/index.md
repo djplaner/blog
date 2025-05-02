@@ -5,9 +5,6 @@ categories: ['elearning', 'netgl']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The students in [a course](http://netgl.wordpress.com) I'm teaching are asked to reflect on their own work and respond to the question embedded in the title to this post. What follows is mostly a test post to illustrate how it will all work, but also captures some of my views.
 
 ### My own learning outside of the institution.

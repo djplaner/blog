@@ -5,9 +5,6 @@ categories: ['bim2', 'indicators', 'irac', 'learninganalytics-elearning', 'moodl
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In 2014 I am hoping to make some changes to [BIM](/blog2/research/bam-blog-aggregation-management/) that will enhance [the course I'll be teaching](http://www.usq.edu.au/course/synopses/2014/EDC3100.html). The hope is to leverage various learning analytics to enhance student learning. The following is an attempt to use [the IRAC framework](/blog2/2013/12/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics-ascilite/) to think about what might be done. Essentially a bit of brainstorming about possible future development.
 
 Each of the headings below link to the IRAC framework. First off the content and the purpose of this use of learning analytics is described. Then each of the four components of the IRAC framework - **I**nformation, **R**epresentation, **A**ffordances and **C**hange - are considered.

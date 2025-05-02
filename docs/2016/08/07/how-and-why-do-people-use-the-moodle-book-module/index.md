@@ -70,9 +70,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Below are collection of resources related to a [presentation](https://mootau.moodlemoot.org/mod/data/view.php?d=20&rid=762&filter=1) given at [Moodle Moot'AU 2016](https://mootau.moodlemoot.org/course/view.php?id=62), titled "How and why do people use the Moodle Book Module?"
 
 The [Graphs section below](/blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/#graphs) provides links to individual web pages that contain many of the charts included in the presentation slides below. The graphs are interactive. Roll the mouse over the graph to see some numbers, zoom in, pan around, etc.

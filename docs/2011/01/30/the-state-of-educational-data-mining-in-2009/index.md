@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some initial reflections on the paper
 
 > Baker, S.J.D., Yacef, K. (2009) The State of Educational Data Mining in 2009: A Review and Future Visions: http://www.educationaldatamining.org/JEDM/images/articles/vol1/issue1/JEDMVol1Issue1\_BakerYacef.pdf

@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'thesis', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Antonio Vantaggiato gives [one response](http://blogs.netedu.info/?p=1061) to a post from Donald Clark titled "Moodle: e-learning's frankenstein". Clark's post is getting a bit of traction because it is being seen as a negative critique of Moodle.
 
 I think part of this problem is the failure to recognise the importance of the perceived purpose to which Moodle (or any LMS) is meant to serve. Just in my local institution, I can see a number of very different perceptions of the purpose behind the adoption of Moodle.

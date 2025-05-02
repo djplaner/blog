@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A journal of fixes and testing of BIM. Aim here is to address some minor issues with integration with my current institution's Moodle instance thereby providing a minimum working version for installation. As per [yesterday's planning](/blog2/2014/02/05/identifying-some-immediate-changes-to-bim/) the hope is to make further changes based on this foundation.
 
 Result is a slightly tweaked version released [via Moodle contrib](https://moodle.org/plugins/pluginversions.php?plugin=mod_bim). This will be the foundation for some tweaks, though I can feel time slipping away.

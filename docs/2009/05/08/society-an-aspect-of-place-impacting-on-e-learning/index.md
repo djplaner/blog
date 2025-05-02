@@ -65,9 +65,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following, finally, is a first draft of the sector section of the ["Place" component](/blog2/2009/05/06/place-component-of-the-ps-framework/) of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). This is all meant to be part of chapter 2 of my [thesis](/blog2/research/phd-thesis/).
 
 The "Place" section has, and continues to have, a too-long and troubled history. I've spent too much time figuring out how to briefly summarise perspectives and factors within the broader society that impact upon the implementation of e-learning within universities. There have been a number of false starts and I still don't think this is very good, but it's time to "release early", move on, and hope that it's "good enough".

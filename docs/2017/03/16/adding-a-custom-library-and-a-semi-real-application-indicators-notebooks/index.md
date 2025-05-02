@@ -5,9 +5,6 @@ categories: ['indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So the [indicators notebooks/platform](http://djon.es/blog/2017/03/13/sharing-indicators-platform-via-github/) is on github. The one and only bit of analysis is almost completely useless and still requires a fair bit of set up code. The aims in this post are
 
 1. Add in a custom library for connecting to the data source.

@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the next part of the evaluation section of chapter 5 of [my thesis](/blog2/research/phd-thesis/). It seeks to evaluate how well the Webfuse system fulfilled the guideline of "an integrated online learning environment" for the period 2000-2004. This is only the first section which talks about the provision of course sites. Subsequent sections will talk about feature adoption, staff and student usage of course sites, and staff and student usage of Wf applications.
 
 ### An integrated OLE

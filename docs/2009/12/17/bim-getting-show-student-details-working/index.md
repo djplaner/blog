@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post summarises the work necessary to take the next step in BIM development. As summarised in [the last post](/blog2/2009/12/17/bim-getting-student-registration-working/) the plan is to implement the remaining [screens](/blog2/2009/12/14/getting-back-into-bim-summary-and-way-forward/#screens) roughly complete so that potential users can interact and give feedback. This included the need to start designing and populating remaining database tables.
 
 This post focuses on the implementation of the **Show student details** screen. This screen is used by students to show what BIM knows about their blog. This includes # of posts, blog url, allocation of posts to questions and any marks/formal comments from academic staff. Two steps:

@@ -73,9 +73,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Col](http://beerc.wordpress.com/) has been playing around with some ideas for a [Moodle indicators block](/blog2/2010/05/09/requirements-for-an-indicators-moodle-block/). This is a record of my first attempt to install and play with the block. Might also do a bit of reflection and setting up of processes etc so we can go further with this.
 
 The long term goal is to promote the [Indicators project](http://indicatorsproject.wordpress.com/), help some folk and do some research.

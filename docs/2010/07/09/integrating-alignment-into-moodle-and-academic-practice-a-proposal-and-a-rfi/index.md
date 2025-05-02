@@ -187,9 +187,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm off to the [2001 Australian MoodleMoot](http://moodlemoot.org.au/) next week. The [conference program](http://moodlemoot.org.au/mod/resource/view.php?id=128) includes a collection of 3 minute show and tell sessions on the Tuesday afternoon. The following is a summary of what I think I'm going to talk about and a call for suggestions.
 
 I'm starting to add all the associated resources with the presentation to this post.

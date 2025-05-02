@@ -5,9 +5,6 @@ categories: ['c2d2', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Much of what [we do](http://cddu.cqu.edu.au) involves enabling academics (and students) to become familiar with particular technologies. Sufficiently familiar to think about how they can use it in their learning and teaching. We've had to do it with [Blackboard](http://www.slideshare.net/davidj/intro-to-blackboard-for-sowk11012/) and we'll have to do it with [Second Life](http://damosworld.wordpress.com/2008/07/14/second-life-bringing-it-to-the-educators/).
 
 The aim of this post is to reflect upon some methods of doing this.

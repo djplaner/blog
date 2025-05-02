@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [BIM](/blog2/research/bam-blog-aggregation-management/) is into it's 2nd week of being used at CQU (about 3/4 courses approaching 500 students) and there's also talk of it being used at another Australian university. It's time for a couple of reflections on early experience and also time to identify the source of a common problem.
 
 ### Not enough pro-active support

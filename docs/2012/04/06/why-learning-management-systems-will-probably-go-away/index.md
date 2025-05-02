@@ -534,9 +534,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'd like to argue - and yes it is perhaps a case of wishful thinking - that there are reasons to suspect that learning management systems (LMSs) will probably go away. Or at the very least, identify some forces that are pushing that way.
 
 The post is mostly in response to Tony Bates post ["Why learning management systems are not going away"](http://www.tonybates.ca/2012/04/04/why-learning-management-systems-are-not-going-away/), but it is also inspired by [this post](http://musicfordeckchairs.wordpress.com/2012/03/28/the-hardest-part/) from "Music of Deskchairs".

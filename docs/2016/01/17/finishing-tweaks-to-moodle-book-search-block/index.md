@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A [previous post](/blog2/2015/12/15/tweaking-moodle-book-search/) recorded some early exploration of what tweaks might be necessary to be made to the Moodle book search block. The [original code](https://github.com/stronk7/moodle-block_search_books) for the block and the [tweaks I've made](https://github.com/djplaner/moodle-block_search_books) are available via GitHub.
 
 ### Current status

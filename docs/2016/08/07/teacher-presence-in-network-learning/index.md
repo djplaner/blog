@@ -5,9 +5,6 @@ categories: ['edc3100', 'edu8117']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A new semester and [the Networked and Global Learning course](https://netgl.wordpress.com/) is running again. Apologies to those in the other courses I teach, but this course is consistently the most engaging and interesting. It's a course in which I typically learn as much as the other participants. However, due to the reasons/excuses outlined in [the last post](/blog2/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/), I haven't been able to engage as much as I would have liked with the course.
 
 This has me thinking about something [Adam wrote](https://adamngl.wordpress.com/2016/07/25/community-influences-on-learner-identity/), in particular the argument/observation from Rovai (2002) which Adam describes as

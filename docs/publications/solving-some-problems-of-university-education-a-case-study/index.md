@@ -81,9 +81,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is an old paper from 1996. Many of the links below are broken as the websites no longer exist.
 
 David Jones, Solving some problems of University Education: A Case Study, Proceedings of AusWeb96, Southern Cross University Press, Gold Coast, Gold Coast, Roger Debreceny, Allan Ellis, pp 243-252

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 And another weekly reflection of tasks and learning associated with a course. This one is for the Literacy and Numeracy course.
 
 ### Context and background

@@ -69,9 +69,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Friday I am supposed to be giving a 30 minute overview of the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). The tentative title is "PLEs@CQUni: Origins, Rationale, Outcomes and Future?". As part of the origins section I was going to talk about some of the fundamental assumptions of university learning and teaching which PLEs, learning 2.0 and associated concepts, memes and propaganda are undermining, or at least questioning. The following is an attempt to outline some of those and hopefully a plea for the perspective of others.
 
 This isn't an attempt to get the definitive list. I'm sure there are others out there - pointers welcome. This is an attempt to put together a short list which can be used to make strong points to my potential audience and encourage them to consider that, just maybe, it's time to reconsider a few practices.

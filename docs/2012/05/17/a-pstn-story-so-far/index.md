@@ -61,9 +61,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is some reflection on forward thinking about the [Pre-Service Teacher Network (#pstn) project](http://universityofawesome.org/pstn/about/). Bits of this may end up in a paper destined for the [PLE Conference 2012](http://pleconf.org)
 
 ### My story

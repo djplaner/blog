@@ -148,9 +148,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following post is a continuation of posts from the "Past Experience" section of chapter 2 of [my thesis](/blog2/research/phd-thesis/). It follows on from previous posts including: [Ps Framework](/blog2/2009/03/18/the-ps-framework/), [History of technology-mediated learning](/blog2/2009/04/17/a-history-of-technology-mediated-learning/), and [the paradigms of e-learning](/blog2/2009/04/20/the-paradigms-of-e-learning/).
 
 I'm currently working on the "e-learning usage" section. The aim here is to look at the quality and quantity of usage of e-learning over the last 10 years or so - i.e. in the industrial e-learning paradigm. The quality and quantity overviews are part of the same section, so the following includes the current introduction to the overall section and then gets into the discussion of quality. Hopefully the quantity section will be up ASAP.

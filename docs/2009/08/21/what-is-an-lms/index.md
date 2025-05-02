@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following post is the next step in completing the Product component of chapter 2 of [my thesis](/blog2/research/phd-thesis/). [An earlier post](/blog2/2009/08/19/the-product-component-of-the-ps-framework/) started off the Product component. This post is the first section in a broader section titled "University e-learning technology". This post focuses on the learning management system (LMS).
 
 The content of this first post is a rough first draft of a section of the thesis. Increasingly there are going to be **insert crossref** type measures reminding me to add cross references to other sections.

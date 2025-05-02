@@ -35,9 +35,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 And now onto Week 2 of the Coursera MOOC ["Big Data in Education"](https://class.coursera.org/bigdata-edu-001/). Focusing on the evaluation of models - is it any good?
 
 ### Detector confidence

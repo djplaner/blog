@@ -128,9 +128,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 An attempt to start another MOOC.  Learn to code for data analysis from FutureLearn/OUUK.  Interested in this one to perhaps start the migration from Perl to Python as my main vehicle for data munging; and, also to check out the use of Jupyter notebooks as a learning environment.
 
 Reflections

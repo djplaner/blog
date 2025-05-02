@@ -130,9 +130,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A [friend and colleague](http://damosworld.wordpress.com/about-damien/) is engaged in some thinking about [connectivism and its relationship with other learning theories](http://damosworld.wordpress.com/2009/05/26/connectivism-and-the-importance-of-context-an-example/). Thinking that is informed, sparked and perhaps somewhat unanswered by [a post from George Siemens](http://www.connectivism.ca/?p=116).
 
 Damien and I talked briefly about this today and I let fly with an ill-informed opinion. I thought I'd share it here and hope that someone will point out the errors in my assumptions. I've been aware of the connectivism stuff for a while but have not taken the time to fully understand it. One of my tasks post the PhD thesis. I am, however, a potential fan of the approach as the following may indicate.

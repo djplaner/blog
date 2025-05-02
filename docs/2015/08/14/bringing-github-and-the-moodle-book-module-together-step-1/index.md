@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the first step in actually implementing some of the ideas outlined in [an earlier post](/blog2/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/) about bringing [and the](http://github.com/) [Moodle Book module](https://docs.moodle.org/29/en/Book_module) together. The major steps covered here are
 
 1. Explore the requirements of a book tool.

@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So I'm working on an assignment examining and critiquing the government's [Digital Education Revolution](http://www.deewr.gov.au/Schooling/DigitalEducationRevolution/Pages/default.aspx) (DER). It looks like the argument I'm going to make is that it won't be a success. Where success is defined as achieving its goals, which is to
 
 > contribute sustainable and meaningful change to teaching and learning in Australian schools that will prepare students for further education, training, jobs of the future and to live and work in a digital world

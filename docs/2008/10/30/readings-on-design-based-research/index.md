@@ -5,9 +5,6 @@ categories: ['design-theory', 'elearning', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 My [thesis](/blog2/research/phd-thesis/) is an example [information systems design research](http://ais.affiniscape.com/displaycommon.cfm?an=1&subarticlenbr=279). However, since the aim of the thesis is to develop a design theory for the implementation of e-learning within a university I do have some interest in the design-based research (DBR) literature from the education discipline.
 
 I'm current following a discussion about DBR within education on the [ITForum mailing list](http://it.coe.uga.edu/itforum/) on which a number of folk are sharing resources, resources I'm not going to be able to read now. The purpose of this post is to save those references so I can perhaps (yea, right) go back and read them at some later stage.

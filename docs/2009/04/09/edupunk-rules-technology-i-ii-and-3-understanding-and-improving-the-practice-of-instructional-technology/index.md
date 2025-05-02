@@ -170,9 +170,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and perhaps a bit of a reflection on McDonald and Gibbons (nd). This is a journal article that has been accepted, but not yet officially published. It appears to be based on the [PhD thesis](http://contentdm.lib.byu.edu/ETD/image/etd1610.pdf) of McDonald.
 
 The paper uses the criteria of technology I, II and III to examine differences between researchers description of a theory and how practitioners implement it. This identifies 3 reasons for technological gravity and 3 approaches to avoid it.

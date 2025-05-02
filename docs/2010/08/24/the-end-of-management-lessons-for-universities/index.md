@@ -5,9 +5,6 @@ categories: ['chapter-2', 'distributedcognition', 'elearning', 'phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Yet another "death of X" article is the spark for this post. [This one](http://online.wsj.com/article/SB10001424052748704476104575439723695579664.html) comes from the Wall Street Journal and is titled [The end of management](http://online.wsj.com/article/SB10001424052748704476104575439723695579664.html). There's been a wave of these articles recently, but this one I like because it caters to my prejudice that most of the problems in organisations, especially in universities around learning and teaching, arise from an inappropriate management paradigm. The following has some connections to the [oil sheiks thread.](/blog2/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/)
 
 Some choice quotes

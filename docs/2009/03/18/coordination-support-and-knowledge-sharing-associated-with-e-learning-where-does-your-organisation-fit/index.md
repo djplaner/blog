@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A [recent post](/blog2/2009/03/13/virtual-learning-environments-three-implementation-perspectives/) summarised a paper that was taking some insights from the information systems discipline and applied it to the implementation of a LMS/VLE. This post draws on some insights from Alavi and Leidner (2001), an influential paper (208 citations on Google Scholar) from the information systems discipline. A paper that calls for IS researchers to focus more on technology-mediated learning - i.e. e-learning.
 
 Of the many ways the paper suggests IS researchers can make a contribution the following is the focus of this post.

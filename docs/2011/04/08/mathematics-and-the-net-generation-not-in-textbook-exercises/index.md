@@ -122,9 +122,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 So, in a few weeks time I'll be teaching mathematics to high school kids. Almost certainly grades 8 & 9 (find out next week). I've been doing a bit of reading and have joined various online groups. Last week I purchased a couple of textbooks used in local schools to refresh my knowledge and see what's being covered.
 
 As it happens I started looking in the textbook for ideas for a video. [In this post](/blog2/2011/04/07/group-2-technologies-images-audio-and-video/) I was playing with [What can you do with this (WCYDWT) idea](http://blog.mrmeyer.com/?category_name=what-can-you-do-with-this) from [Dan Meyer](http://blog.mrmeyer.com). That's when I came across this problem

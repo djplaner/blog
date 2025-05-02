@@ -5,9 +5,6 @@ categories: ['exploring', 'moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In a [previous post](/blog2/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/) I generated various representations of when Moodle Book resources were being used and some indications of when they were being created. What I didn't do in that post was generate a calendar heatmap of when the Book resources were being create and modified. This is of interest because I'm wondering whether or not these resources (web pages) are being modified throughout the semester, or just at the beginning.
 
 The following corrects that. It starts with calendar heatmaps showing when I've edited/created the Book resources in my course. I've tended - or least eventually developed - a practice of developing and changing the books as the semester progresses. I think I'm strange - turns out that I'm apparently not that strange at all.

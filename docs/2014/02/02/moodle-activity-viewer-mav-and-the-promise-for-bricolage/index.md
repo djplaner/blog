@@ -82,9 +82,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've spent the last few days - on and off - getting [the Moodle Activity Viewer](http://damosworld.wordpress.com/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/) installed on my local Moodle instance. There were two main reasons for doing this
 
 1. Analyse how students were using my 2013 course sites.

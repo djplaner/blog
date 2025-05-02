@@ -5,9 +5,6 @@ categories: ['moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Time to follow up [step 2](/blog2/2015/08/16/github-and-the-moodle-book-step-2/) in connecting github and the Moodle book module.
 
 ## Current status

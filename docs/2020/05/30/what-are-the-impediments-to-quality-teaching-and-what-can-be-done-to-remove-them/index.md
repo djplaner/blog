@@ -6,9 +6,6 @@ coverImage: 2426828336_7ea6d5630f_o-e1590820300444.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is something I wrote in a protected post years ago. I want to get this bit out in the open.
 
 It captures an important distinction about Quality Assurance from John Biggs and asks a question (the title of this post) that I've yet to see an institution address effectively. Lots of big projects and events paying lip service, but not really anything substantially addressing the practical impediments to quality teaching.

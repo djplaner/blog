@@ -101,9 +101,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I have a thing against large scale enterprise information systems (such as ERP systems like Peoplesoft or learning management systems - commercial or open source) and how they are generally implemented within organisations. This morning provides a wonderful example of why.
 
 An organisation I'm aware of has, like many others, a human resources system that maintains information about staff. In the last couple of years it's gotten really modern and added a web interface to it so that staff can change and view their details.

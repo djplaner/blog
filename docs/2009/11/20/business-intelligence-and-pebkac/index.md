@@ -5,9 +5,6 @@ categories: ['elearning', 'indicators', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ### Context
 
 I'm currently sitting in the QANTAS club at Canberra airport waiting to return home after a week at [ANU](http://www.anu.edu.au/) working on the PhD (being done through ANU). I decided to read a copy of [CIO magazine](http://www.cio.com.au/) while having brunch. In doing so I came across [this article](http://www.cio.com.au/article/326937/mind_your_own_business_intelligence?fp=4&fpid=51237) (Rodgers, 2009) title "Mind your own Business Intelligence.

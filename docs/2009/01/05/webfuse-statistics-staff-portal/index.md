@@ -5,9 +5,6 @@ categories: ['thesis', 'website']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Webfuse provides a "staff portal" called Staff MyCQU. It is essentially a web-based application that provides a single interface to most of the tools/services staff require while teaching a course.
 
 ### \# staff using the staff portal

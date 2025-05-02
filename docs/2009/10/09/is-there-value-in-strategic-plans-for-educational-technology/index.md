@@ -5,9 +5,6 @@ categories: ['chapter-2', 'elearning', 'herding-cats', 'innovation', 'phd', 'psf
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [Dave Cormier](http://www.davecormier.com) has recently published a blog post titled [Dave's wildly unscientific survey of technology use in Higher Education](http://davecormier.com/edblog/2009/10/07/daves-wildly-unscientific-survey-of-technology-use-in-higher-education/). There's a bunch of interesting stuff there. I especially like Dave's note on e-portfolios
 
 > eportfolios are a vast hidden overhead. They really only make sense if they are portable and accessible to the user. Transferring vast quantities of student held data out of the university every spring seems complicated. Better, maybe, to instruct students to use external services.

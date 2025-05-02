@@ -5,9 +5,6 @@ categories: ['indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 There are moves afoot to revisit some of the earlier research arising from [Indicators project](http://indicatorsproject.wordpress.com/) and hopefully move beyond. To do that well we need to give some thought to updating the methods we use to analyse, share and report what we're doing. In particular, because we're now a cross-institutional project. The following captures some early exploration of this problem.
 
 This has actually become the first of 2 or 3 blog posts. This one was getting too large. The sequence of post looks likely to be

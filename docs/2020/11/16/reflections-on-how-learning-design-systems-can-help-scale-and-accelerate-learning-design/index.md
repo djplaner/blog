@@ -6,9 +6,6 @@ coverImage: 36379213_b65e65ed62_o.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 On October 30 I watched a [webinar](https://twitter.com/COL4D/status/1321838452271271936) (recording below) given by Joyce Seitzinger ([@catspyjamasnz](https://twitter.com/catspyjamasnz)) and hosted by the [Commonwealth of Learning](https://www.col.org/). It was titled, "How Learning Design Systems can help scale and accelerate learning design". If you work in higher education helping with the practice of digital (or [post-digital education](https://www.springer.com/journal/42438)) - which is a bigger group of folk than it was 12 months ago - then I recommend the talk and the approach. Especially, if you're having to deal with scale - large student numbers, large numbers of courses, multiple offerings etc.
 
 Joyce's work is important work because it engages with one of the more challenging questions facing higher education

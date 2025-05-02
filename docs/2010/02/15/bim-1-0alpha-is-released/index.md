@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It is with a significant sense of relief that I announce the release of version 1.0 alpha of [BIM](/blog2/research/bam-blog-aggregation-management/). You can see the code and what passes for documentation [on this page](/blog2/research/bam-blog-aggregation-management/current-version-of-bim/). The [main BIM page](/blog2/research/bam-blog-aggregation-management/) gives more background on the rationale and design of BIM.
 
 BIM is meant to be used in action by 5 courses at [CQUniversity](http://www.cqu.edu.au/) in the term starting next week. Before that happens, it is being given the once over by the folk at [Netspot](http://netspot.com.au/). Shall be interesting to see what they find, BIM is my first real taste of Moodle development and it probably shows.

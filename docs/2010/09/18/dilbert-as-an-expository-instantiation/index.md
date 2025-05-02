@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'information-systems', '
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A few recent posts have been first draft excerpts from my Information Systems Design Theory (ISDT) from emergent university e-learning systems. Being academics and hence somewhat pedantic about these things there are meant to be a number of specific components of an ISDT. One of these is the expository instantiation that is meant to act as both an explanatory device and a platform for testing (Gregor and Jones, 2007) i.e. it's meant to help explain the theory and also examples of testing the theory.
 
 The trouble is that [today's Dilbert cartoon](http://www.dilbert.com/2010-09-05/) is probably as good an explanation of what is currently the [third principle of implementation](/blog2/2010/09/17/principles-of-implementation/#three) for my ISDT.

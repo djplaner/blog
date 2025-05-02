@@ -5,9 +5,6 @@ categories: ['plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post is a combination "message to the troops" and thinking about how to encourage use of a discipline based learning network.
 
 ### Message to the troops

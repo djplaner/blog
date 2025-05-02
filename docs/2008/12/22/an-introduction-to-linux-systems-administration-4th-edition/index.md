@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Cover of 3rd edition](images/28525315920_10062391ca_m.jpg)](https://www.flickr.com/photos/david_jones/28525315920/in/dateposted-public/ "Cover of 3rd edition")
 
 For various reasons I'm in a process of capturing some ancient history before it potentially gets lost in the great cyberspace rubbish bin.

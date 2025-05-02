@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday I helped out with the folk running the session intended to orient new full-time teaching academics to teaching at our institution. What follows are the slides, other resources, and some initial reflections on the session.
 
 _New (28 March, 2017):_ [Results](https://docs.google.com/forms/d/1-JCPkM6HUJ2xvAcItwE_UXpdR2p6c3w4zSHdwTJsCkw/viewanalytics) from participant evaluation now available. Three separate participants suggested a longer session, a first for an orientation session?

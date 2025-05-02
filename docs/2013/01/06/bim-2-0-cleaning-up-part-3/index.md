@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The third in a series of posts documenting necessary cleaning up of [issues](https://github.com/djplaner/BIM/issues?labels=immediate&state=open) with BIM. Getting closer and closer to release of 2.0b
 
 Issues being cleaned up here include

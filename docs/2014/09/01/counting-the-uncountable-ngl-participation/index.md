@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following documents the writing of a script to perform simple counts of what the [NGL participants](http://netgl.wordpress.com/) have been doing on their blog. Another post on the course blog will offer an explanation of the emails that will be sent to participants real soon now.
 
 ### What?

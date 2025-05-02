@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the next section of the [Process](/blog2/2009/05/25/teleological-and-ateleological-processes/) component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) section of my [thesis](/blog2/research/phd-thesis). I have an inkling that my bias towards [ateleological processes](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/) comes through a bit strong in this. May have to balance it up with some additions later on.
 
 Does anyone have some literature references that are friendly towards the idea of institutional learning and teaching strategies? (Beyond some of the following)

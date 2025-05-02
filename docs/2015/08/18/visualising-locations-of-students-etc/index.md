@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've been set a task (asked nicely really) by my Head of School if it is possible to produce a map that will allow all and sundry to see the geographic spread of our students.
 
 I vaguely remember doing something like this previously with Google maps, but I didn't think it "visual" enough. @palbion identified a couple of GIS experts in another school who could probably do it. I still don't know whether I can do it, but I'm using this as an opportunity to test the adage from Connectivism that

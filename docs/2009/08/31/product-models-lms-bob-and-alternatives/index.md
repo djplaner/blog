@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following completes the "alternate models" section of the Product component started in a [previous post](/blog2/2009/08/31/procurement-and-software-alternate-models-for-e-learning/). It's a bit rough and ready, but hopefully good enough.
 
 ### Product models

@@ -67,9 +67,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [unit](http://cddu.cqu.edu.au/) I work with is undertaking a project called [Blackboard Indicators](http://cddu.cqu.edu.au/index.php/Blackboard_Indicators). Essentially the development of a tool that will perform some automated checks on our [institution's](http://www.cquni.edu.au/) Blackboard course sites and show some indicators which might identify potential problems or areas for improvement.
 
 The current status is that we're starting to develop a slightly better idea of what people are currently doing through use of the literature and also some professional networks (e.g. the [Australasian Council on Open, Distance and E-learning](http://www.acode.edu.au/)) and have an initial prototype running.

@@ -205,9 +205,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 > All the brilliant breakthroughs in modern medicine and in communication technologies have developed via this process. You only get this type of education in class. -- [Professor Tor Hundloe](http://pipl.com/directory/people/Tor/Hundloe)
 
 It seems the Sunday Mail is mining the minor vein of controversy gold provided by the "online lecture" movement. Last week [I posted](/blog2/2009/06/02/attending-lectures-is-old-school-what-else-is/) about an article that suggested that attending lectures was old school. i.e. that students weren't going to face-to-face lectures because they are available online. The above quote comes from another article (Fraser, 2009) in the most recent issue of this Sunday paper.

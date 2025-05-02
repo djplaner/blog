@@ -49,9 +49,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Solving some problems with University Education: Part II, Proceedings of Ausweb'99, Balina, Australia
 
 ## Abstract

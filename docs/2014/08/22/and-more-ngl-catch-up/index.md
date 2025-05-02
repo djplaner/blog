@@ -45,9 +45,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I had a choice to make. Do a bit of prep of content for the next week of NGL or make more connections with what folk have been doing? I've decided that the later is more important and long overdue.
 
 Wonder what the participants think?

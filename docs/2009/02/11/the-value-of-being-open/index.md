@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Moving into the "web 2.0"/social media/online world can be confronting for people. Especially the "open" part. With blogs, photo sharing, social bookmarking etc a lot of what used to be private (or closed) becomes public (or open). This can challenge people. Damien talked [about this and other problems](http://damosworld.wordpress.com/2008/12/15/do-you-eat-your-own-dogfood/) with social media in a blog post from late last year.
 
 In the last week three separate things have happened that have reinforced the value of being open. They are:

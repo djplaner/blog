@@ -35,9 +35,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Anyone who knows me, knows that I have a particular disdain for the perspective that e-learning within a university can be treated as an IT project and in particular as the implementation of an Enterprise Resource Planning (ERP system). i.e. the LMS is an ERP and should be implemented as one. Some previous rants can be found on this blog, including:
 
 - [one ring to rule them all](/blog2/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/);

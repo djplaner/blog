@@ -103,9 +103,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![Impossible Perfection by mikecogh, on Flickr](images/5864059008_c945104fdd_m.jpg "Impossible Perfection by mikecogh, on Flickr")](https://www.flickr.com/photos/mikecogh/5864059008/)  
 [![Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Share Alike 2.0 Generic License")](http://creativecommons.org/licenses/by-sa/2.0/)   by  [](https://www.flickr.com/people/mikecogh/)[mikecogh](https://www.flickr.com/people/mikecogh/) [](http://www.imagecodr.org/)
 

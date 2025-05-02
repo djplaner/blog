@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As a step towards thinking about how you judge the success of an LMS/VLE, this post looks at some work done by [Steven Malikowski](http://malikowski.org/). Why his work? Well he is co-author on three journal papers that provide one perspective on the usage of features of an LMS, including one that proposes a model for research into course management systems. A list of the papers in the references section.
 
 This post focuses on looking at the 2008 paper. On the whole, there seems to be a fair bit of space for research to extend and improve on this work.

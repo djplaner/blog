@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following explores some ideas for extensions to [BIM](/blog2/research/bam-blog-aggregation-management/) based on [a blog post](http://davecormier.com/edblog/2010/10/21/my-ple-model-is-the-internet-no-more-system-for-me/) from [Dave Cormier](http://davecormier.com/edblog/whos-dave/).
 
 ### Dave's post

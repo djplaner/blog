@@ -5,9 +5,6 @@ categories: ['journey', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As recently noted, I'm about to return to university study. Have decided that I'm going to keep a journal of the entire experience. Perhaps with some intent later on to use this as data for research around the student experience. This may be of some interest as I will be studying at the institution I worked for as an academic for 20 years.
 
 ### Completing enrolment

@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This tells the story of the conversion of the bim coordinator code into the new OO design being used for bim2.
 
 ### Design

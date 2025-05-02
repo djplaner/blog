@@ -5,9 +5,6 @@ categories: ['eded20455', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Ahh, the life of a student. No sooner is [one assignment](/blog2/2011/04/15/analysis-of-digital-technologies/) completed, is another one underway. In this case, one I've essentially ignored/forgotten about until a week out from being due.
 
 This post documents some early thinking about how I'm going to start my "Student diversity report". The assignment description essentially boils down to

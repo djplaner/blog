@@ -5,9 +5,6 @@ categories: ['bad']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is a development log of a few additions to the [recent fixes to the Peoplesoft gradebook](/blog2/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/). The following documents attempts to implement the following
 
 1. **Highlight students in the supp range** DONE Students with a mark between 44.5 and 49.5 need the grade to be set to IM and a note inserted.

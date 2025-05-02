@@ -48,9 +48,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 _Note:_ An update to this post included at the end.
 
 I'm currently finalising results for a course with 250+ students spread across multiple campuses and online. The final large assignment - worth 70% of the final mark - requires that students create a portfolio (are people still using the term "eportfolio"?) in Mahara and submit it via the institutional assignment submission system.

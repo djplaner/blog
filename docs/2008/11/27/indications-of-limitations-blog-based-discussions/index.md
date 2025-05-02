@@ -5,9 +5,6 @@ categories: ['elearning', 'plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm trying to run an [experiment in blog-based discussions](/blog2/2008/11/26/an-experiment-in-blog-based-discussions/). Trying to understand, from experience, the realities of using individual blogs for a multi-person discussion. It's not going well.
 
 The first problem was that Wordpress' pingbacks not always working - as briefly mentioned in [this post](/blog2/2008/11/26/more-on-blogs-and-discussion/). The next problem is that links from an external blog (in particular one from Blogger), aren't currently working in a way that is particularly useful for tracking a conversation.

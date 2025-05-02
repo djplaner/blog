@@ -60,9 +60,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A couple of weeks ago @kateMfD wrote a post asking ["What next for the LMS?"](http://musicfordeckchairs.wordpress.com/2014/09/27/what-next-for-the-lms/). (one of a raft of LMS posts doing the rounds recently). Kate's point was in part that
 
 > The LMS is specifically good at what universities need it to do. Universities have learning management systems for the same reason they have student information systems: because their core institutional business isn’t learning itself, but the governance of the processes that assure that learning has happened in agreed ways.

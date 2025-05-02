@@ -212,9 +212,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [This post](http://computinged.wordpress.com/2011/08/02/instruction-makes-student-attitudes-on-computational-modeling-worse-caballero-thesis-part-3/) from Mark Guzdial is the last of three looking at a PhD thesis examining the influence of using computational/programming approaches to teaching physics. [This post](http://computinged.wordpress.com/2011/08/02/instruction-makes-student-attitudes-on-computational-modeling-worse-caballero-thesis-part-3/) talks about the finding in the thesis that students attitudes towards computational modelling became **more unfavourable after** instruction.
 
 That's right, the course in computational modelling made the more negative about computational modelling. It turned them off and made them focus more on rote memorisation.

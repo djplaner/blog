@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a first draft of the next section of chapter 5 of [my thesis](/blog2/research/phd-thesis/). The aim here is to try and illustrate how the combination of the [agile](/blog2/2010/06/05/emergent-and-agile-development/) and [adopted-focused](/blog2/2010/06/04/adopter-focused-development-and-diffusion-theory/) development process of Webfuse, when combined with the [design of Webfuse](/blog2/2010/06/07/object-orientation-and-design-patterns/) enabled the rapid development of "workarounds" that enabled the system to adapt to changes in the environment and requirements of the systems users.
 
 ### Workarounds

@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is an early attempt at the acknowledgements section of the thesis. My better half, also completing here PhD, queried why this section would be needed? I will be including because there are some people that need to be acknowledged for their contributions.
 
 ### Acknowledgements

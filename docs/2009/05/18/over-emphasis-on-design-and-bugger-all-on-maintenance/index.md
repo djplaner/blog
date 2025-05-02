@@ -77,9 +77,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I have a quote from software engineering that I have been quoting for a long time. It's from Glass (2001) and says that when building software, 40 to 80% of the costs are going to be for maintenance. i.e. Only from 20 to 60% of the costs are going to for the initial development or purchase.
 
 Maintenance is something that takes more money than design.

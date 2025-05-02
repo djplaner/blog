@@ -136,9 +136,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Two of my recent publications ([Jones & Clark, 2015](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/); [Jones, Heffernan & Albion, 2016](/blog2/publications/)) seek to explore and identify the problems faced by teachers in developing the knowledge necessary to teach in e-learning/digital learning environments. Both suggest that there are significant problems with how this is currently done and offer some theoretical suggestions about how it might be improved. Jones & Clark (2015) suggest that [the BAD/SET mindsets](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) offer one way to understand the problems of the current approaches, and outline some fruitful ways forward.
 
 This post is an attempt to describe in broad details of a system that could potentially enable a much greater use of the BAD mindset within what passes for institutional e-learning environments (and perhaps beyond). The system, is really a collection of different current technologies, including:

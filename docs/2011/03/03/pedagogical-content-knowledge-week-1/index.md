@@ -156,9 +156,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the fourth of these weekly summaries/reflections - perhaps learning log is a better description - but only 1 is complete so far. Hopefully this will be #2. The course is titled Pedagogical Content Knowledge and appears to aim to use Schulman's ideas of PCK to frame the necessary learning about both pedagogy and the content for the pre-service teachers in this course.
 
 ### eStudyGuides

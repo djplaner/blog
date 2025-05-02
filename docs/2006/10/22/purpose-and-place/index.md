@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A continuation of the elements of the ["missing Ps"](http://cq-pan.cqu.edu.au/david-jones/blog/?p=52).
 
 This one looks at the Purpose and Place. The idea is that before a University starts thinking about selecting an LMS, or even starts to question whether or not an LMS is what it needs, it should think long and hard about the purpose to which it will put the LMS (need to try and avoid that label). In doing so it needs to think hard about what it considers to be the purpose of information technology and all of this needs to be driven by consideration of place, the context of the individual University.

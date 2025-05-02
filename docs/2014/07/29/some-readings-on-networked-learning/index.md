@@ -53,9 +53,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is some ad hoc thoughts and reflections upon the somewhat ad hoc collection of readings (Kligyte, 2009; Bonzo & Parchoma, 2010; Bell, 2010) around networked learning from [Week 1 of the NGL course](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/#readings).
 
 ## Kligyte, 2009 - Threshold concept: A lens for examining networked learning

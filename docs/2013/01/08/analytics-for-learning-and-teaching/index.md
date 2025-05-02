@@ -67,9 +67,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some reflection upon a CETIS report (Harmelen and Workman, 2012) titled [Analytics for Learning and Teaching](http://publications.cetis.ac.uk/2012/516). One of the reasons for reading this is the current considerations around reworking and resubmitting a [unsuccessful OLT application](/blog2/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/) around learning analytics.
 
 This report is the third in a series of reports on analytics produced by jisc/cetis. i.e. some UK folk who have been associated with e-learning/educational technology for some time. I'm only vaguely aware of the details of who and what they are, but they have made useful contributions in the past. Add to this a topic that is of current interest to me and I'm my hopes are high for this.

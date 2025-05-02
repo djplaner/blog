@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 If you hadn't realised by now, this blog is often used as a notebook to record ideas in development. This is by no means complete, but the record is there.
 
 Did you catch the high buzz word content in the title of this post? It can possibly mean only one thing, academics and grant writing. As a jobbing academic - saw that phrase used last week and like [one definition](http://www.merriam-webster.com/dictionary/jobbing), but then found this [definition from professional wrestling](http://en.wikipedia.org/wiki/Job_\(professional_wrestling\)) which perhaps better fits some aspects of grant writing - I've fallen into writing a research grant on very short notice and with no real planning and forethought.

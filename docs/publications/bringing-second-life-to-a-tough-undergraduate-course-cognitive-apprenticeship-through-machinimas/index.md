@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Nona Muldoon, David Jones, Jenny Kofoed, Colin Beer, Bringing ’second life’ to a tough undergraduate course: Cognitive apprenticeship through machinimas, Proceedings of [ASCILITE’2008](http://www.ascilite.org.au/conferences/melbourne08/)
 
 ### Abstract

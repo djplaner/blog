@@ -87,9 +87,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 So the practice is established, I am aiming to write a single blog post per week, per course as part of my studies to become a teacher. This post if for week 1 of the supportive learning environments course.
 
 ### Managing diversity

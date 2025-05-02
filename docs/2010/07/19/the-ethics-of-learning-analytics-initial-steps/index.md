@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Col's [recent blog post](http://beerc.wordpress.com/2010/07/19/ethical-issues-around-data-mining-learning-management-systems/) has just started the necessary process of [the Indicators project](http://indicatorsproject.wordpress.com/) paying closer attention to the question of ethics when applied to learning analytics. The following are some of my initial responses to Col's post and an attempt to invite some additional suggestions from other folk around the question
 
 > What are the ethical problems and considerations that should form part of work around learning analytics?

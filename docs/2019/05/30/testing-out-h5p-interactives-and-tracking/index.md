@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Feel free to play around with the following h5p interactive (one of the examples provided on the [h5p site](http://h5p.org/)). I'm testing out if and how it tracks people's engagement with the interactive. What does it do when someone who doesn't have an account on this blog (and/or doesn't login) interacts? What data can I see?
 
 By default it appears that h5p/wordpress doesn't really provide anything useful and a quick search didn't reveal any possibilities.

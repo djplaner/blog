@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The Ps Framework is a taxonomy/framework that has arisen out of my attempts to understand the literature around e-learning within universities. It's main aim is to serve as the structure for chapter 2 of [my thesis](/blog2/research/phd-thesis/). This blog post seeks to summarise some of the origins and potential futures of the Ps framework and also to explain why I think it might be useful.
 
 ### Origins

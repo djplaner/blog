@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 More detail on what BIM is [can be found here](/blog2/research/bam-blog-aggregation-management/)
 
 The following documents initial forays into getting the coordinator view of bim. The aim is to summarise what is or isn't working in Moodle 2.1

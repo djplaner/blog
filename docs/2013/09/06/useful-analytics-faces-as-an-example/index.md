@@ -43,9 +43,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A couple of weeks ago I expressed one of my reservations with the large buckets of money and time universities (and others) are currently investing in learning analytics in a blog post titled [Bugger analytics, just give me useful information](/blog2/2013/08/12/bugger-analytics-just-give-me-useful-information/). My reservation is that the learning designers, data scientists, commercial software vendors, management and other members of Geohegan's (1994) [technologists' alliance](/blog2/2009/08/09/the-chasm/#alliance) are so enamoured of the theoretical future possibilities of learning analytics they are ignoring (or perhaps are possibly completely ignorant) of the current information needs of learners and teachers. The following is an attempt at a small example
 
 ### Faces and photo galleries

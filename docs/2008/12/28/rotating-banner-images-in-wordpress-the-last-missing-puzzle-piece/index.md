@@ -78,9 +78,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 **Update:** The old server that I used to use for my website and also to implement the rotating banner on this blog, is down. It will likely to be down for quite some time.
 
 When I [moved by website](/blog2/2008/10/16/the-great-website-move-of-2008/) from my long-term personal server to [Wordpress.com](http://wordpress.com/) the one bit of functionality that I lost was the rotating banner image.

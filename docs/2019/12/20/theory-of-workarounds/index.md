@@ -5,9 +5,6 @@ categories: ['4paths', 'bad', 'casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 ## Introduction
 
 The following is a summary of the paper _Theory of Workarounds_.

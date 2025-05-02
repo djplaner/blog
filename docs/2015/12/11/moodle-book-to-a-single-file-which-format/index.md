@@ -102,9 +102,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [Moodle Book github tool](/blog2/2015/12/03/moodle-book-and-github-working-together/) allows the import/export (pull/push) of Book content from/to GitHub. The content from the Moodle Book is stored as a single file on GitHub. One of the many unanswered questions about the tool is the format of the exported file. The current format is a bit of dodgy HTML with divs, classes, and ids.  Aim here is to figure out if and how the [HTML 5 semantic elements](http://www.w3schools.com/html/html5_semantic_elements.asp) might provide a more useful method.
 
 Given that my last serious web development role and interest was 10+ years ago, some of the following is likely to be a bit silly.  It's not helped by the fact that the online explanation of some of these elements differ and the whole semantic element thing appears to be somewhat less than widely supported and used.

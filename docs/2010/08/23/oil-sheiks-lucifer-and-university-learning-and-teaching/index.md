@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following arises from a combination of factors including:
 
 - Mark Smithers blog post [Selling solar panels to oil sheiks](http://www.masmithers.com/2010/08/22/selling-solar-panels-to-oil-sheiks/);

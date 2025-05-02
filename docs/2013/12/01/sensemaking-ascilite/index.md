@@ -5,9 +5,6 @@ categories: ['ascilite']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Live blogging of workshop run by [Associate Professor Gregor Kennedy](http://www.cshe.unimelb.edu.au/people/kennedy.html) - early work from MM mentioning audit trail. Something that Reeves and Hedberg (2003) criticise as being hard to impossible without the students themselves explaining.
 
 Talked about as early skepticism which disappeared with the arrival of big data.

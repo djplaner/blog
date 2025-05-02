@@ -5,9 +5,6 @@ categories: ['eded20458', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Way past time to catch up on this work. So week 6 is looking at "Models for Teaching and Learning Multiliteracies".
 
 ### Timelines out of whack

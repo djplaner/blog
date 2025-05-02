@@ -6,9 +6,6 @@ tags: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Ben-Ari (1999) reports an experiment where 10 members of a University department were asked to verbalise their understandings as they completed tasks in Word. The aim was to explore their conceptual understanding of Word and its link with their use of Word. Ben-Ari (1999) writes
 
 Considering the high quality of the subjects, the most surprising result was the low level of use of this very sophisticated software tool.

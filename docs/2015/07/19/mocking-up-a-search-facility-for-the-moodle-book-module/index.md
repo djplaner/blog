@@ -6,9 +6,6 @@ tags: ['moodle']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Time to start generating a mock up of one of the itches identified in [this presentation](http://www.slideshare.net/davidj/can-the-book-module-be-open-and-other-enhancements-what-would-you-like-to-see) and from the [Moodle "open" book project](/blog2/the-moodle-open-book-module-project/). Perhaps best summed up from this comment from a past EDC3100 student
 
 > It is impossible to go back and remember where to find information…At least on a PDF I can use the Find function

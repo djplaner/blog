@@ -5,9 +5,6 @@ categories: ['bad']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm finally getting/creating a smidgin of time to continue exploring what "distributed" views of knowledge and learning might say about understanding and helping teachers (of all ilks) learn more about what they do. The following is a summary of Putnam and Borko (2000)
 
 Which gives a straight forward overview of the "situated perspective" and how it links to existing research (from the 90s) into teacher learning

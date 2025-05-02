@@ -5,9 +5,6 @@ categories: ['ipt', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A few weeks ago I posted about some apparent trends in the number of enrolments within the Queensland High School subject Information and Processing Technology (IPT). All things being equal, I'll be qualified to teach that course in Queensland High Schools next year.
 
 One of the assignments I had to complete was to design a work plan for a single year of an IPT course. The following is an edited extract of the design I came up with and its rationale. The design was expressed in the formal structure used in Queensland schools, the following just gives the main points.

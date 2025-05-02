@@ -5,9 +5,6 @@ categories: ['quotes']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Came across the following quote in Mischra and Koehler (2006), storing it here for future use.
 
 > The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them.  

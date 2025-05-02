@@ -66,9 +66,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a "webified" version of an invited presentation at the [Blended Learning 2013 Summit](http://www.blended-learning.com.au/). This version is largely an experiment with this medium/approach to sharing the talk. The slides from the talk are shown below with a written version of what I might have hoped to have said during the talk.
 
 Click on the images if you wish to see them larger. The slides from the talk and also from a 2 hour workshop [are also available](http://indicatorsproject.wordpress.com/2013/09/18/moving-beyond-a-fashion-blended-learning-2013/).

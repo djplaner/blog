@@ -5,9 +5,6 @@ categories: ['bad', 'elearning', 'tpack']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is the 2nd post ([first here](/blog2/2015/10/06/teachers-as-digital-renovators/)) looking at [Instructional Science 43(2)](http://link.springer.com/journal/11251/43/2/page/1) on the topic of "Teachers as designers of technology enhanced learning". This post looks at [Matuk et al (2015)](http://link.springer.com/article/10.1007/s11251-014-9338-1)
 
 ## In summary

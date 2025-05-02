@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is a ~1600 word reflective blog post required for assessment purposes. I find myself less than pleased with this assignment. In part because I don't think 1600 words is enough to do justice to the problem. But also because of my own limitations in terms of knowledge of the context and content.
 
 ### Introduction

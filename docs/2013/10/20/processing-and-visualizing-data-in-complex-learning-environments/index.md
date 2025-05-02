@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and some thinking around
 
 > Thompson, K., Ashe, D., Carvalho, L., Goodyear, P., Kelly, N., & Parisio, M. (2013). Processing and Visualizing Data in Complex Learning Environments. American Behavioral Scientist, 57(10), 1401–1420. doi:10.1177/0002764213479368

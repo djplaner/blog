@@ -68,9 +68,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 After more years than I care to count, almost as many structures, and many, many more plans and timetables, the thesis is just about done. I have just finished stuffing around with Word and have produced [a single PDF](http://davidtjones.files.wordpress.com/2011/01/thesiscomplete.pdf) that will almost certainly be the version that is submitted.
 
 All that is left is to figure out how to submit from a distance and sit back and wait for the judgement of the examiners.

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### Background
 
 The [Blog Aggregation Management (BAM) Project](/blog2/research/bam-blog-aggregation-management/) is a 3 year old project to extend some of the ideas (especially small pieces loosely joined) behind my thesis into the brave new world of "Web 2.0" (circa 2006). It was also intended to help solve a set of immediate problems in a particular course I was teaching through appropriate assessment and activities implemented by each student having their own blog. BAM provided the essential management and institutional wrapper around the use of these blogs to enable us to track and mark student progress.

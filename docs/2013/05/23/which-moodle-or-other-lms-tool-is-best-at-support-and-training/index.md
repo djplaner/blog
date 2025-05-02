@@ -37,9 +37,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A question for those with experience of Moodle or other LMS tools/plugins/services etc
 
 > Which tools do a really good job of embedded support/training?

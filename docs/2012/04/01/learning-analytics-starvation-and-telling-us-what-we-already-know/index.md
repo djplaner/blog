@@ -128,9 +128,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [This article](http://www.insidehighered.com/news/2012/02/01/using-big-data-predict-online-student-success) from Inside Higher Ed reports on some initial findings from the Gates Foundation data mining project in the US. The key finding reported in the article is
 
 > New students are more likely to drop out of online colleges if they take full courseloads than if they enroll part time

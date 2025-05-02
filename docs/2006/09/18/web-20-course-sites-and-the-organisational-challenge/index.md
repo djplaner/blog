@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Derek Morrison raises the spectre of organisational response to the idea of Web 2.0 course websites. In part, this looks like the challenge of losing control facing IT support divisions and management.
 
 The open content nature of services like Google Video would create a related issue for academics.

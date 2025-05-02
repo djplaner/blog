@@ -5,9 +5,6 @@ categories: ['bad', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following does a compare and contrast between the "what is" of university e-learning systems and the "what might be". There are three sections
 
 1. The task - describes a fairly common task someone teaching online might wish to undertake.

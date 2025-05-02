@@ -60,9 +60,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 20 years ago, straight from graduating, I started work as a part-time tutor within a Department of Mathematics and Computing. Within a few years it was obvious to a naive computing person that the mathematics part of the department was in trouble. Fewer and fewer people were enrolling in the mathematics programs, but they still had a fairly large group of academics (mostly doing service teaching - i.e. stats for business undergrads). At the same time, computing was exploding in enrolments. We had too few staff and too many students. The perception was that it wasn't fair on us, to carry them.
 
 How the worm turns. The descendant of that department is now a combination of computing (information technology), mathematics (mostly service), and information systems (a business flavour of computing). Computing had flourished around the turn of the century with the Y2K and dot-com influences, combined with international students in Australia. But the [bubble has burst](http://www.theaustralian.com.au/higher-education/pain-in-store-for-top-universities/story-e6frgcjx-1225938920860) and the computing disciplines now find themselves struggling with large numbers of staff and bugger all students. They are suffering the same problem as the mathematicians.

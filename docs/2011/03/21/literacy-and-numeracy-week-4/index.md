@@ -5,9 +5,6 @@ categories: ['eded20458', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Week 4 of the literacy and numeracy course.
 
 ### Hot topics in literacy and numeracy

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Bit the bullet yesterday and upgraded to a DSLR. The Olympus C-770 we've had for almost four years seems a bit the worse for wear after [Zach and Zeke](http://www.flickr.com/photos/david_jones/3030788393/) dropped it while battling for control. Plus there's the size issues, 4MP is not cutting it anymore.
 
 !!! warning "Broken image link"

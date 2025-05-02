@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is floating an idea that might be useful in my [local context](http://www.cqu.edu.au/).
 
 ### The idea

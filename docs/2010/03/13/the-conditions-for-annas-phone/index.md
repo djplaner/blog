@@ -22,9 +22,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following outlines the conditions for Anna's phone.
 
 ### We will provide

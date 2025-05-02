@@ -113,9 +113,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post [continues the adaptation](/blog2/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/) of the original work of [David Wiley](https://davidwiley.org) around the reuse and remixing of open content and applying that knowledge to the LMS and other institutional e-learning systems and practices. The idea is that explicitly ignoring the distinction between the "content" and the digital systems (and perhaps also the physical equipment) that are used in contemporary learning/teaching spaces is useful in identifying problems with current practice and identifying alternatives.
 
 ### The Reusability Paradox

@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the second in an intermittent collection of posts associated with visits to nice restaurants. This one tells the story of the visit of my wife and I to [Ezard](http://www.ezard.com.au/main.html) in Melbourne.
 
 _Disclaimer:_ I'm a philistine when it comes to food, but am attempting to improve my tastes and experience. I'm a clueless foodie.

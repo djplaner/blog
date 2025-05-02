@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Sharonn, Stewart, Leonie Power, Patterns: using proven experience to develop online learning, Proceedings of ASCILITE’99, Responding to Diversity, Brisbane: QUT, pp 155-162
 
 ## Abstract

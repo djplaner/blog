@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In another 2 or 3 weeks I begin my formal education as a high school teacher. In preparation for doing that I've joined various online groups and started listening to K-12 education related podcasts. A common refrain in the podcasts has been the problems associated with teaching to the test. Both US and Australian education commentators have been pointing out that a major consequence of broad-scale, standardised testing - such as [the National Assessment Program: Literacy and Numeracy](http://www.naplan.edu.au/tests/tests_landing_page.html) (NAPLAN) tests in Australia - is teaching to the test. i.e. the education of students suffers because anything that doesn't contribute to the attainment of "good" test scores is ignored and other potentially harmful practices are adopted. For example, [This article](http://inside.org.au/teaching-to-the-test/) from the Australian context draws heavily on a [Diane Ravitch article in the Wall Street Journal](http://online.wsj.com/article/SB10001424052748704869304575109443305343962.html).
 
 Not exactly news, but today I've come seen evidence of this first hand. An experienced high school teacher - someone I've actually known for sometime and have a lot of respect for - has posted to a national mailing list a message that goes something like this

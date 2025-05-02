@@ -6,9 +6,6 @@ coverImage: 3311829635_0080586412_o-scaled-e1601494373689.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Happy to see the end of 2018. Time to figure out what 2019 holds. This is a first step.
 
 I start 2019 as a meso-level practitioner in a new university. Hannon (2013) describes meso-level practitioners as the “teaching academics, learning technologists, and academic developers” (p. 175) working between the learning and teaching coal-face and the institutional context defined by an institution’s policies and technological systems. In my case, the institutional/technological vision (macro-level) that has decided to shift to Blackboard Ultra and to push the broader concept of a broader ecosystem of applications (Pebble Pad, Microsoft Office,...). i.e. it's not just the LMS anymore, there's a raft of technologies that can be drawn upon.

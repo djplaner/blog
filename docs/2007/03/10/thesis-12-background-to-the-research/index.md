@@ -5,9 +5,6 @@ categories: ['chapter-1', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Advanced industrial societies are currently undergoing a fundamental transformation from capital- and labour-based economies into knowledge economies (Burton-Jones 2001). In such economies knowledge, education, people and their ideas, become the key strategic resource necessary for prosperity (Duderstadt, Atkins et al. 2002). This transition to a knowledge economy is characterised by factors including globalization, increasing competition, knowledge sharing and transfer, and an information technology revolution (Zhang and Nunamaker 2003). This transition raises a number of issues for education systems, in particular how best to adapt such systems to the changes in the socio-economic landscape and provide the best educational opportunities and outcomes (Knight, Knight et al. 2006).
 
 Schools and universities will play increasingly important roles as society enters this new age of knowledge as society becomes increasingly dependent upon the social institutions that create knowledge and educate people (Duderstadt, Atkins et al. 2002). Some believe that the university will be the central institution in post-industrial society (Bok 1990). A 2002 survey of 30 OECD countries indicated that more people than ever are completing tertiary education and that 1.9% of the combined GDP of these countries was devoted to higher education (OECD 2005). A report comparing education between the G8 countries show those countries spending between 1% and 2.7% of GDP on higher education during the year 2000 (Sen, Partelow et al. 2005).

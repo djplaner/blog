@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [A 2005 article](http://www.digital-web.com/articles/web_2_for_designers/) outlining 6 main themes in designing a web 2.0 site
 
 1. Writing semantic markup (transition to XML)

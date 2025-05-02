@@ -56,9 +56,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The next step in my journey as a full-time Uni student happened today when I saw a notice announcing the draft class timetable. As a result I offer some commentary on the problems of "service" provision as the metaphor for many modern universities/organisations.
 
 ### A personalised timetable

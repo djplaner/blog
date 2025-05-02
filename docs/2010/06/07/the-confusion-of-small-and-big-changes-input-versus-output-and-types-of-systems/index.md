@@ -52,9 +52,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over the last couple of days I've enjoyed a small discussion that has arisen out of some comments Kevin has made on my blog. This post is an attempt to partially engage with [the most recent comment](/blog2/2009/09/30/teaching-academic-staff-development-mastery-and-separation/#comment-3218). I echo Kevin's conclusion, I'd love to hear anyone else's take on this.
 
 ### The unanswered question

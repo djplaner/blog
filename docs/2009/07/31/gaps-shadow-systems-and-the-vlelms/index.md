@@ -6,9 +6,6 @@ tags: ['vle']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 One of my continuing "rants" that long-time readers of this blog will be familiar with is the lack of fit between enterprise systems and what people want to do with them. I've [blogged about this with enterprise systems](/blog2/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/), learned to [live and thrive](/blog2/publications/how-to-live-with-erp-systems-and-thrive/) in spite of that gap and [drawn some lessons from it](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/) for enterprise systems.
 
 It's even become a bit of a family activity with my wife's Masters research being aimed at attempting to explain the most common response to the lack of fit between people's requirements and the enterprise systems put in place to fulfill them - shadow systems. The following image is of the model that arose out of Sandy's work (Behrens and Sedera, 2004).

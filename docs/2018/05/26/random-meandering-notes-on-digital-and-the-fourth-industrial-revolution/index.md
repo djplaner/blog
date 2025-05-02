@@ -5,9 +5,6 @@ categories: ['bad', 'digitalignorance']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In the absence of an established workflow for curating thoughts and resources I am using this blog post to save links to some resources. It's also being used as an initial attempt to write down some thoughts on these resources and beyond. All very rough.
 
 ### Fourth industrial revolution

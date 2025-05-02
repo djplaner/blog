@@ -28,9 +28,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [The group](http://cddu.cqu.edu.au/) I work with is charged with helping [CQUniversity](http://www.cquni.edu.au/) staff make use of various innovations around educational technology. One of the difficulties if giving staff a taste of the breadth of possibilities for what a new technology might be able to do.
 
 One tool for doing that is a taxonomy, [conceptual framework](http://en.wikipedia.org/wiki/Conceptual_framework) or a theory for analysis and description ([Gregor 2006](http://www.ise.canberra.edu.au/un6797/Shirley/No6-MISQ%20RA%203828%20theory%20sub%205%20260705%20final-f.pdf)). These essentially attempt to generate some sort of classification or mapping of a topic area into a number of distinct (and hopefully useful) components/categories.

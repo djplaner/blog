@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Motaghian et al (2013) in talking about "web-based learning systems" (LMS) conclude that (p. 167)
 
 > perceived usefulness was the most important influential factor on instructors’ intention and their actual use of the systems (adoption)

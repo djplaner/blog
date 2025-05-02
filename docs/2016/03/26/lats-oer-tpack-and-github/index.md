@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to think about the inter-connections between [the paper "Open Educational Resources (OERs) for TPACK Development"](https://www.academicexperts.org/conf/site/2016/papers/49080/) presented by Mark Hofer and Judi Harris at SITE'2016 and [the Moodle OpenBook project](/blog2/the-moodle-open-book-module-project/) and my own teaching.
 
 First, is a description of what the open courses they've developed and what the students do. Second, is some early thinking of how this might link to EDC3100 and the Moodle open book project.

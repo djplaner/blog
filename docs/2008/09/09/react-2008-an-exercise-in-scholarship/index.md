@@ -88,9 +88,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 We're about to embark on a little experiment in the scholarship of learning and teaching going under the tag react2008. The fundamental aim is to help improve the quality of papers we will write that are targeted for publication at [EdMedia'2009](http://www.aace.org/conf/edmedia/default.htm). The experiment is going by the names of either react2008 or writers' workshop. The project as a [central website](http://cddu.cqu.edu.au/index.php/Writers_Workshop).
 
 Other aims of the project include

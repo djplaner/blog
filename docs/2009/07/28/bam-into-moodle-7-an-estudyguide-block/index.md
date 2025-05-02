@@ -81,9 +81,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [last post](/blog2/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/) provided an overview of what is required to put BAM into Moodle and generated a list of things I have to learn in order to implement it.
 
 This post will tell at least some of the story of developing my first CQU Moodle block. Whether the block ever gets used in action, is beside the point. The main aim is to give me the opportunity to engage in a bit of [constructionism](http://en.wikipedia.org/wiki/Constructionist_learning). In particular, the block I've decided to have a crack at will help me learn answers to the following questions developed at the end of the [last post](/blog2/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/).

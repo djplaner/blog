@@ -5,9 +5,6 @@ categories: ['ascilitementor', 'elearning', 'emd']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 **This is a work in progress**
 
 A couple of weeks ago I attended the 2007 [Carrick Awards Forum](http://emedia.rmit.edu.au/carrickawards/index.htm) at [RMIT](http://www.rmit.edu.au/) on behalf of [CQU](http://www.cqu.edu.au/). The main aims in attending, at least from my perspective, included getting a better "feel for Carrick" and forming some ideas about how CQU can be more successful in having staff receive these rewards.

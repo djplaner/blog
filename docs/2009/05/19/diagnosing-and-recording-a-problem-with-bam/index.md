@@ -103,9 +103,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Trying out a new approach to documentation of coding changes to [BAM](/blog2/research/bam-blog-aggregation-management/) - i.e. writing it up in a post.
 
 ### The problem

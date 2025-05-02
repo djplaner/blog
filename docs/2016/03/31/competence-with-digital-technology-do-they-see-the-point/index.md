@@ -5,9 +5,6 @@ categories: ['bad', 'edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [![PEBKAC by Rafa Esteve, on Flickr](images/13928696037_37aa61542a_m.jpg "PEBKAC by Rafa Esteve, on Flickr")](https://www.flickr.com/photos/morosbruts/13928696037/) "[PEBKAC](https://www.flickr.com/photos/morosbruts/13928696037/)" ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)) by [Rafa Esteve](https://www.flickr.com/people/morosbruts/) [](http://www.imagecodr.org/)
 
 Apparently there's a [problem with digital skills](https://theconversation.com/students-struggle-with-digital-skills-because-their-teachers-lack-confidence-56071) in Australian schools. Only 52% of Year 10  students achieved a minimum standard of digital competence, and the teachers tasked to help develop that competence [feel they aren't competent](http://www.sciencedirect.com/science/article/pii/S0360131511002065). Closer to home, I've [previously pointed out](/blog2/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/) that the pre-service teachers I work with are far from digital natives harnessing digital technologies seamlessly to achieve the learning, teaching, and life goals.

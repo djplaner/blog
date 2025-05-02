@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In another 50 minutes I'm off to attend the "First Open Textbook Community Meeting" made up of folk who were successful in getting an internal institutional grant for the [USQ Open Textbook Initiative](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks). One of the tasks we're being asked is
 
 > Prepare a short overview of your intended project for your colleagues at the meeting

@@ -5,9 +5,6 @@ categories: ['ple', 'plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday I gave a presentation on the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni). It was a 30 minute presentation designed to give a quick overview of the origins of the project, why it is being run the way it is and what some of the outcomes have been so far. At a very brief, higher level. There are numerous talks in various aspects of this presentation.
 
 The video should be available in a couple of days. Sadly, with various contextual factors playing a role the talk is somewhat sarcastic, not that this is something really new. The slides are on slideshare.

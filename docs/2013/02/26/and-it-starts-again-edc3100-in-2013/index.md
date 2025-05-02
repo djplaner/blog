@@ -72,9 +72,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's that time of year again - week 1, semester 1 - and after almost three-quarters of a year there are face-to-face students to tutor and lecture. Have to love the pedagogical assumptions built into the fabric of the technology that is a University education (a good example of technology becoming [mythic](/blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/)). The following captures a few thoughts from the first lecture/tutorial.
 
 ## The need to define ICTs by example?

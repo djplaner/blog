@@ -189,9 +189,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 So the [Australian Learning and Teaching Council](http://www.theaustralian.com.au/higher-education/champion-of-learning-and-teaching-gets-the-chop/story-e6frgcjx-1225995531923) has got the chop. There are [a lot of folk](http://suggest.getup.org.au/forums/60819-campaign-ideas/suggestions/1416367-reversing-the-govt-s-decision-to-abolish-the-austr?ref=title) upset about this and I can understand why. A lot of people invested a lot of time and energy into ALTC activities, some/many of which had good outcomes.
 
 My problem is that I just can't get to excited about it. I'm not convinced that ALTC had, or could ever have hoped to have had, a significant impact on the higher education sector within Australia. This is an attempt to document some of my reasons for this.

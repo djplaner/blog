@@ -4,9 +4,6 @@ date: 2009-04-07 14:47:04+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following page provides a summary of docs associated with the implementation of BAM
 
 ### Automatic allocation

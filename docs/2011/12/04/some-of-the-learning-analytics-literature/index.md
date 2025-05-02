@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Am trying to slowly get back into the learning analytics literature as part of writing a paper. The following is an ad hoc collection of comments/reflections on a few learning analytics papers.
 
 ### Definitions, processes and potentials

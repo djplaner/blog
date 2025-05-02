@@ -51,9 +51,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This semester I'm teaching [EDU8117, Networked and Global Learning](http://www.usq.edu.au/course/specification/2012/EDU8117-S2-2012-WEB-TWMBA.html), one of the Masters level courses here at USQ. It's been an interesting experience because I'm essentially supporting the design - a very detailed "constructive alignment" design - prepared by someone else. The following is a belated start of my plan to engage in the course at some level like a student. The requirement was to use one of a few provided quotes attempting to define either networked learning or global learning and link it to personal experience. A first step in developing a research article in the topic.
 
 ### Networked learning

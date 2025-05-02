@@ -114,9 +114,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm currently thinking about a potential contribution to the [SoLAR Southern Flare Conference](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/schedConf/overview) on Learning Analytics in about a month or so. The [early shape of that contribution](/blog2/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/) is online and my last few posts have been summarising some explorations through various areas of the literature. Not the learning analytics literature, but broader literature on which much of the learning analytics literature should be based, but of which much isn't.
 
 That reading has me increasingly pessimistic about the end result of learning analytics moves within Australian universities. It will be just another fad. Does anyone feel more positive?

@@ -4,9 +4,6 @@ date: 2009-12-01 12:53:27+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In the [University](http://www.cqu.edu.au/) within which I work there has always been one particular divide. There are the faculties - these are the parts of the organisation in which the "normal" academics live - and there are the non-faculties - populated by those folk who are not "normal" teaching/research academics sitting within disciplines. For example, I'm employed as an academic, I do research, but I do no direct teaching and live within the [Curriculum Design and Development Unit](http://cddu.cqu.edu.au/). I'm supposed to help the institution improve it's learning and teaching.
 
 The trouble is that almost all the academics are within the faculties. Those of outside the faculties are the "others" by being outside but we're also somewhat invisible. In particular, what we do is typically seen as invisible because we aren't within the faculties. Just recently someone I've known for sometime, asked someone else I work with, what I was doing. Coming from others, the question might have been, why are we still paying him if he's not doing anything?

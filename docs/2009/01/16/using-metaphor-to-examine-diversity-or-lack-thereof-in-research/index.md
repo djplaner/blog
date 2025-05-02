@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [This post](http://emergentresearchers.wordpress.com/2009/01/16/metaphor-meaning-and-myth-exploring-diversity-in-information-systems-research/) contains a link to a PDF working paper that uses metaphor analysis on a collection of journal papers to examine just how diverse research within the Information Systems field actually is. It finds that the IS field is actually not very diverse at all from this perspective, which is somewhat contradictory to what is accepted by most IS folk.
 
 The paper treats research as a cognitive process. A process that is constrained/influenced by the concepts we have of the world and the objects we study in our research. Our understandings of these concepts are very often unquestioned. The paper uses metaphor analysis to uncover what understandings IS researchers (writing in one of the IS fields premier journals) have of the concept of the "organisation".

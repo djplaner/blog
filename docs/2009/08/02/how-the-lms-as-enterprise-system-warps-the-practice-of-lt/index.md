@@ -6,9 +6,6 @@ tags: ['vle-lms']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 At the start of an early day of working on the PhD I am feeling particularly old. Dealing with a teenager at home may also have contributed to it. So, I'm feeling in a particularly curmudgeonly frame of mind, i.e. grumpy old b\*stard. Please keep that in mind when reading the following, it will likely come over much more cynical/negative than it is meant.
 
 One of my colleagues, [Nona Muldoon](http://nonamuldoon.wordpress.com/) has just posted a couple of blog posts on the idea of the 2minuteMoodle. The posts are [an introduction](http://nonamuldoon.wordpress.com/2009/08/01/introducing-the-2minutemoodle-a-framework-for-providing-additional-instructional-scaffolding/) and a [What is it, how to do it](http://nonamuldoon.wordpress.com/2009/08/01/2minutemoodle-what-is-it-and-how-to-do-it/).

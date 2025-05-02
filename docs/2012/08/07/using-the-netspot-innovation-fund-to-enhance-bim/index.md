@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So the [2013 NetSpot Innovation Fund](http://netspot.com.au/innovationfund.html#Register12interest) has been announced. You can read more on that prior link but my summary is that NetSpot will contribute their human resources (with significant expertise around Moodle development, QA etc.) to improving an existing innovation with the aim of making it more sustainable. In the words of the [guidelines](http://netspot.com.au/NetSpot%20Innovation%20Fund%20Guidelines%202013.pdf)
 
 > it is essentially a software development project

@@ -63,9 +63,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 And so it's onto chapter 2 of the set text for the ICTs and Pedagogy courses I'm going to be teaching.
 
 To be honest, I have some reservations about the text. Not because it is bad, but because it clashes with the approach I would have taken. That may say more about the limitations of trying to write a generic textbook than the limitations of this specific book. For example, it's the end of chapter 2 of the text and there's been no move to get students to actively use ICTs or get them to use ICTs for learning and teaching.

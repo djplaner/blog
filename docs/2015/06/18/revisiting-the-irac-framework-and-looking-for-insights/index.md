@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The Moodlemoot'AU 2015 conference is running [working groups](https://mootau15.moodlemoot.org/mod/page/view.php?id=108) one of which is looking at assessment analytics. In essence, trying to think about what can be done in the Moodle LMS code to enhance assessment.
 
 As it happens I'm giving a talk during the Moot titled ["Four paths for learning analytics: Moving beyond a management fashion"](https://mootau15.moodlemoot.org/mod/data/view.php?d=1&rid=124). The aim of the talk is to provide some insights to help people think about the design and evaluation of learning analytics. The working seems like a good opportunity to (at some level) "eat my own dogfood" and fits with my current task of developing the presentation.

@@ -54,9 +54,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've just started reading [Capra & Luigi Luisi (2014)](http://www.cambridge.org/us/academic/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/systems-view-life-unifying-vision), in large part because I think that the shift in scientific thinking they apparently describe in the book may have some useful insights for [BAD/SET mindsets](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) and trying to understand and improve digital learning.
 
 In the first chapter they propose

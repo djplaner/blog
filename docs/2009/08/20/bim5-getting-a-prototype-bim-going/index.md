@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the last [bit of work](/blog2/2009/08/17/bim-4-re-jigging-how-bim-works/) I did on BIM, I got to the stage of having some initial working code for BIM module that allow someone to create a BIM activity and have that data saved to the database. The activity wouldn't do anything, but it's a start.
 
 The aim today is to try and make some progress on getting a prototype up and going. i.e. some working Moodle code that academic staff can interact with and get some idea of how BIM will work. I'm still uncertain how far I will go with this. I have two main options:

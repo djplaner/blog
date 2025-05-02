@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The "Gantt chart" question in week 3 has caused students some problems.
 
 The textbook only briefly mentions Gantt charts. It doesn't step by step tell the students how to do it. There is no structure. My assumption was that simple project management and using Project isn't that difficult a task for Masters level students. I was wrong.

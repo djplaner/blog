@@ -6,9 +6,6 @@ tags: ['paris']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 After our [big night out at Lasserre](/blog2/2008/12/16/a-night-at-lassere/) Saturday morning saw us walking down to the [Musee D'Orsay](http://en.wikipedia.org/wiki/Musee_d%27orsay).
 
 [![The Grand Palais](images/3106189593_f9f29abc52_m.jpg)](http://www.flickr.com/photos/david_jones/3106189593/ "The Grand Palais by David T Jones, on Flickr")

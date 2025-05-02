@@ -239,9 +239,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following post started over the weekend. I'm adding this little preface as a result of the wasted hours I spent yesterday battling badly designed systems and the subsequent stories I've heard from others today. One of those stories revolved around how the shortening available time and the poorly designed systems is driving one academic to make a change to her course that she knows is pedagogically inappropriate, but which is necessary due to the constraints of these systems.
 
 And today (after a comment from Mark Brown in his Moodlemoot'AU 2013 keynote last week) I came across [this blog post](http://larrycuban.wordpress.com/2010/12/19/blaming-doctors-and-teachers-for-underuse-of-high-tech-tools/) from Larry Cuban titled "Blaming Doctors and Teachers for Underuse of High-tech tools". It includes the following quote

@@ -81,9 +81,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Catching up with everyone in NGL is taking longer than I thought, mainly due to external factors. Here's some more.
 
 ### Stone-age facebook

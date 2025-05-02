@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 More work on bim2, this one starting work on the [previously identified tasks](/blog2/2012/04/05/bim2-whats-working-for-coordinator/). Find out what [BIM is here](/blog2/research/bam-blog-aggregation-management/).
 
 **Status:** At this stage, the user screens from bim2 can be considered in alpha. i.e. they basically work, but there will be bugs and some of the underlying "infrastructure" (i.e. backups and restores, gradebook integration etc) need to be fixed. The current code can [be gotten here](https://github.com/djplaner/BIM/tree/bim2).

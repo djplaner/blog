@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 't
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I occasionally get comments (usually agreement) on the quote that I include in my email signature. The quote
 
 > If a major project is truly innovative, you cannot possibly know its exact cost and its exact schedule at the beginning. And if in fact you do know the exact cost and the exact schedule, chances are that the technology is obsolete.

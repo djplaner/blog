@@ -5,9 +5,6 @@ categories: ['tools', 'website']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part implementation requirements for the [rotating banner image](/blog2/2009/01/06/implementing-the-rotating-banner-image/) on this blog I needed some software to crop photos to the required dimensions. Increasingly, I'm also finding myself needing to do this with figures and diagram related to my research and work (e.g. [one](http://www.flickr.com/photos/david_jones/3235019019/) and [](http://www.flickr.com/photos/david_jones/3232493287/)).
 
 I used to have Fireworks, or whatever the application was called on my Mac. But it's an old, old copy and moving to Mac OS X 10.5 meant it was buggy and crashed a lot. I could have gotten a full scale graphics package like the Gimp or Photoshop, but frankly I would never have used most of the features and wondered why I would waste the space.

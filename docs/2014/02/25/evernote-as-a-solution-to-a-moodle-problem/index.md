@@ -80,9 +80,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the problems I have with the way Moodle has been implemented at this institution (and probably not unique to this institution) is the [absence of a search engine](/blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/). Mostly because the students "inability to find anything" is being blamed on poor course design and being solved by an institutional push for consistency.
 
 Amongst the many problems with this "solution" (e.g. the assumption that a single design will be suitable for the full spectrum of courses, topics and pedagogies used across a university) is that it won't actually solve the "inability to find anything" for my course. My course will still have a series of activities and resources in which useful information is stored. No amount of consistent layout of a Moodle site is going to make it simple to find specific bits of information amongst those activities/resources. You need a search engine.

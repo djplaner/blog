@@ -4,9 +4,6 @@ date: 2009-01-01 13:36:38+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Webfuse: An integrated, eclectic Web authoring tool, Proceedings of EdMedia’99, Betty Collis, Ron Oliver (editors), June, 1999, pp 1799-1801
 
 ## Introduction

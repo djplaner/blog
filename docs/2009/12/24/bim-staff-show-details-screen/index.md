@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post documents the creation/completion of the BIM show details screen. This is used by staff to get a summary of their student details, whether they have registered their feed, made posts etc.
 
 The BIM design will be based on the [equivalent BAM screen](http://www.flickr.com/photos/david_jones/3268716654/in/set-72157608613577424/) with some slight modifications. For example, I don't believe Moodle will have the equivalent of the Webfuse "Photo Gallery" or "email merge" facilities.

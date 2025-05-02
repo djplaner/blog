@@ -128,9 +128,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've reached a phase in my thesis work that allows me, long after I should have, to return to Cavallo (2004). I had previously put in a [place holder](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) to remind me to go back to this paper. The full impact of the paper will likely become evident over the next few days, but this post focuses specifically on an issue I see arising locally.
 
 ### The local issue

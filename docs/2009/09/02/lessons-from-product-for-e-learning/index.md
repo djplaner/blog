@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post contains the last section of the "Product" component of chapter 2 of the [my thesis](/blog2/research/phd-thesis/), at least a rough first draft version of it. This is getting to the crux of my argument and problem with how most universities implement e-learning (adoption of an LMS) and it refers back to many of the other components of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). This will eventually become part of my EDUCAUSE'09 presentation and I'm thinking of re-working the following from thesis speak into something a little more leading.
 
 Since this post relies on many of the other sections of the thesis (including one that isn't written yet) and that the way I've been blogging these sections means that there is probably no easy way for you to connect all the dots. Going to the [thesis page](/blog2/research/phd-thesis/) is probably the easiest, as all the posts should be linked from there.

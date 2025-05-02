@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a couple of [recent posts](/blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) (and [this one](/blog2/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/)) I've essentially been arguing that most evaluation of teaching at universities is actually worse the useless. The following quote from White (2006) provides some additional ammunition.
 
 > Research has suggested that grade leniency is the most significant factor in positive evaluation of teaching (Greenwald & Gilmore, 1997; Marsh & Roche, 2000). These pressures may be resulting in grade inflation by some teachers and departments, and concomitantly, unrealistic student expectations with respect to the marks they should be awarded.

@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've been [banging on about](/blog2/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/) the tendency for educational technology folk, especially those in the technologists alliance to "blame the teacher" as the reason why technology-mediated learning hasn't achieved all of its promise.
 
 I came across a paper that illustrates just how long this tendency as been around. Petrina (2004) passes a critical eye over Pressey's early work on the first teaching machines in the early 1920s and what broader lessons there might be. But it also includes a couple of quotes that illustrate Pressey's tendency to "blame the teacher" for the failure of his utopian dreams.

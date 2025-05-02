@@ -6,9 +6,6 @@ tags: ['operatingsystems-animation']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Back in 1998/1999 I supervised a couple of project students (who have gone onto bigger and brighter things) in the development of some multimedia resources to support a course in operating systems. The most recent version of the course is [available here](http://webfuse.cqu.edu.au/Courses/2008/T1/COIT13152/).
 
 I taught the course from about 1995 through 1999. I seem to recollect that I got to use the resources we developed once, before handing the course onto others and taking on other roles. Some of the resources, the animations, are still being used almost ten years later.

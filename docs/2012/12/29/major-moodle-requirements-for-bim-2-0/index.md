@@ -26,9 +26,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The next step in the development of [BIM 2.0](/blog2/research/bam-blog-aggregation-management/) is identifying the list of major (Moodle) requirements that need to be implemented. BIM is a Moodle [activity module](http://docs.moodle.org/dev/Activity_modules). Moodle has a range of expectations that such modules are meant to meet. The following is an attempt to identify what needs to be done.
 
 It has resulted in a renewed effort to use the github [issue list](https://github.com/djplaner/BIM/issues) to record and manage what needs to be done. Not only have I started adding issues for BIM 2.0, I've also been through the old issues and decided which apply to BIM 2.0

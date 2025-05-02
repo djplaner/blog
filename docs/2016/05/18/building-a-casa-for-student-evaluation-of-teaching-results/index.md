@@ -5,9 +5,6 @@ categories: ['bad', 'casa']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I have a problem with my Student Evaluation of Teaching (SET) data!
 
 No. It's not that the results are terrible. Some are good, some not so much. (see the two images in this post)

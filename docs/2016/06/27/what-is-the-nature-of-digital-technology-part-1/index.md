@@ -121,9 +121,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Formal education in most of its forms is still struggling to effectively harness digital technology to enhance and transform learning and teaching. Even with a history for 40+ years of various attempts. The reasons for this are numerous and diverse. The following is an attempt to look at one of the reasons. A reason, at least to me, which seems to have be somewhat ignored.
 
 The technology. Does digital technology have a unique nature/set of capabilities/affordances that sets it apart from other types of technology? If so, what is it? What might understanding the nature of digital technology have to say about how formal education is attempting to use it to transform learning and teaching?

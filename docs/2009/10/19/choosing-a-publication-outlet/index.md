@@ -116,9 +116,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm reluctant to post this. It's part of a pragmatic approach to figuring out where, as an Australian academic, I should try and target publications. It seeks to identify publications in the higher education and educational technology areas that would be "best".
 
 I'm well aware of the questionable aspects of this approach, but if this is the game.... Especially when your institution is starting to discuss definitions of research active staff - the implication being that if you aren't research active you don't get time to do research - that include requirements for fixed numbers of A and A\* journals within a 3 year period.

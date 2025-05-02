@@ -70,9 +70,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### 2023 Update
 
 Add the "magic script" to my Wordpress install and we have...

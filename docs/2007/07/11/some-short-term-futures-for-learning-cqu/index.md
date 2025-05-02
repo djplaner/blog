@@ -91,9 +91,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 On Monday I gave a presentation titled "Some short-term futures of learning @ CQU". The aim was to provide [CQU](http://www.cqu.edu.au/) staff with an understanding of the services and work being done by [CD&DU](http://webclass.cqu.edu.au/).
 
 The slides and video of the presentation are [available here](http://cq-pan.cqu.edu.au/david-jones/Publications/Presentations/shortTermFutures/)

@@ -43,9 +43,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 So Part B of the NGL catch up](/blog2/2014/08/12/catching-up-on-the-ngl-participation/). Main focus here will be on the 11 participants blogs I haven't yet caught up on and a [to do list to follow up on.
 
 ## The challenge of now knowing

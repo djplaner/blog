@@ -2,12 +2,10 @@
 title: Understanding (digital) education through workarounds and quality indicators
 date: 2020-06-02 09:50:33+10:00
 categories: ['bad', 'shadowsystems']
-coverImage: 3245606338_cf6f214070_o-scaled-e1591054628707.jpg
+coverImage: trough.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
 
 COVID-19 and the subsequent #pivotonline has higher education paying a lot more attention to the use of digital and online technology for learning and teaching (digital education). COVID-19 has made digital education necessary. COVID-19 has made any form of education – and just about anything else – more difficult. For everyone. COVID-19 and it’s impact is rewriting what higher education will be after. COVID-19 is raising hopes and fears that what will come after will be (positively?) transformative. Not beholden to previous conceptions and corporate mores.
 

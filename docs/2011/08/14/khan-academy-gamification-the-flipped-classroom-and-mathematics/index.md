@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As part of my study to become a high school teacher (Information Technology and Mathematics) I have to develop a unit of work for a senior class (defined here as being in Grades 10-12). As part of this process I'm meant to
 
 - Describe myself as a teacher and learner (500 words max.).

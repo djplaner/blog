@@ -192,9 +192,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a little under a month's time I am meant to be in charge of the course [EDC3100 ICT and Pedagogy](http://www.usq.edu.au/course/synopses/2012/EDC3100.html) at the [University of Southern Queensland](http://www.usq.edu.au/). The first time I've taught a course since in almost 6 years, should be fun. This is one of the responsibilities of the new job that I haven't quite yet started. For various reasons, however, I can't help be start thinking about the course.
 
 As part of my thinking, I'm going to try and blog. To some extent as an attempt to model what I preach. The following is a quick overview of the little I know about the course, the direction the course appears to be taking and some questions I have for you and for reflection.

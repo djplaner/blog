@@ -109,9 +109,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've come home early today from my new job within a Faculty of Education at a University. Entirely because the quality of the technology I have at home far exceeds the quality of the technology I have at work. The following suggests that this little anecdote highlights one of the contributing factors as to why the quantity and quality of ICT integration in schools is less than good.
 
 ### Some consensus?

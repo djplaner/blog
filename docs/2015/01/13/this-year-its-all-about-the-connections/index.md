@@ -166,9 +166,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to give some structure to what I might do this year in terms of teaching and research. It's in the same spirit as a [similar post](http://timklapdor.wordpress.com/2015/01/07/coming-soon-a-contribution-not-a-prediction-for-2015/) by Tim Klapdor. A summary of my possible contribution to 2015, rather than a set of predictions for 2015. More in line with [Alan Kay's quote](http://www.smalltalk.org/alankay.html)
 
 > Don't worry about what anybody else is going to do… The best way to predict the future is to invent it

@@ -170,9 +170,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It seems to be the day for a backlash against learning analytics or its parent big data. This morning my PLN has filtered to the top [Taleb's "Beware the big errors of 'big data'"](http://www.wired.com/opinion/2013/02/big-data-means-big-errors-people/) and [Why big data is not truth](http://mobile.nytimes.com/blogs/bits/2013/06/01/why-big-data-is-not-truth/). Not that surprising to me given that [I've argued](/blog2/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/) that learning analytics in Universities has all hallmarks of yet another fad.
 
 As I mentioned [in this presentation](/blog2/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/) my argument isn't that "Learning analytics == crap". My argument is that "How universities (and most organisations) for that matter implement learning analytics == crap". After all - to paraphrase some Sir Ken Robinson schtick about lifting standards - no-one is arguing against data-driven decision making (which is a main claim of big data). All decisions should be based on data. The problem is the reality of most implementations will be that the data provided by learning analytics is likely to be horribly flawed, provided to the wrong people, and used to make decisions very badly.

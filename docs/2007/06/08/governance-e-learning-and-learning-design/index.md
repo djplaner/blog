@@ -104,9 +104,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the challenges facing CQU and in particular ["my group"](http://cq-pan.cqu.edu.au/david-jones/blog/?p=102) is the question of governance around e-learning (the use of ICTs to support/enhance learning and teaching) and learning design. The essential problem, from my perspective, is that there are limited resources how and who makes the decisions about how those resources are used.
 
 While we're struggling with e-learning and learning design "governance" [CQU's](http://www.cqu.edu.au/) [Information Technology Division](http://itd.cqu.edu.au/) is also seeking to recast its governance structures.

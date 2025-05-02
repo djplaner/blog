@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In terms of the [thesis](/blog2/research/phd-thesis/), my current focus is on chapter 5. This chapter seeks to describe what we did from 2000 through 2004 and beyond. I'm currently working on the evaluation section, a major component of the evaluation is looking at the usage statistics of Webfuse during this period. It's slow going and there is still a fair bit of analysis to go, but some initial figures are available.
 
 ### What analysis has been done?

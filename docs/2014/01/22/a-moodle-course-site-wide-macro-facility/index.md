@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 **UPDATE (Feb 2015):** Have implemented a version of this using a simple Javascript approach. Not quite course site wide, but functional
 
 In the process - like an increasing number of Oz academics - updating a course site for a new semester. I'm fairly happy with the site as it stands and the Moodle copy process does a good job of updating links (i.e. the link to assignment 1 now links to assignment in the new course site, not the old). The trouble is that the current process doesn't currently do a good job with dates and other values that may change from semester to semester.

@@ -121,9 +121,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A [local Sunday paper](http://www.news.com.au/couriermail/sundaymail/) had an article last Sunday titled "Is this the future of our universities?" and with a sub-heading of "Attending lectures is 'old school'. This post is a first attempt to gather some thoughts about how the whole thinking about lectures in universities, including the notions around e-lectures in articles like this, are just so 'old school'. So much so that what passes for "digital lectures" is pretty limited.
 
 [![Crowded math course](images/277264851_ac0f82022f_m_d.jpg)](http://www.flickr.com/photos/thowi/277264851/)

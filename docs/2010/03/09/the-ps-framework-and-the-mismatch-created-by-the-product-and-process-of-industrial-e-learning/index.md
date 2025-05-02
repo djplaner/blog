@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Last year I gave a [a couple of presentations](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) titled "Alternatives for the institutional implementation of e-learning". In those presentations I essentially argued that what passes for current practice of e-learning in universities - what I now call "industrial e-learning" - suffers from a significant mismatch which, I believe, contributes to most of its limitations. My argument is that the nature of the product (the LMS) and the process (teleological) adopted in industrial e-learning to be completely unsuited to the nature of the people involved in e-learning, the nature of learning and teaching and the nature of universities and the context in which they operate.
 
 Anyone who has been following this blog for some time will recognise that sentiment in any number of posts. But this one is a little different.

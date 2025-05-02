@@ -84,9 +84,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Some colleagues and I are starting to [wonder about what type of "digital knowledge" teachers](/blog2/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/) might need. This is occurring in the context of a re-design of a Bachelor of Education. This particular post is a summary of reading and thinking about ideas outlined in Kirschner (2015) and related writings. Apparently [Instructional Science 43(2)](http://link.springer.com/journal/11251/43/2/page/1) feature contributions discussing "teacher as a design professional".
 
 In particular, the idea of

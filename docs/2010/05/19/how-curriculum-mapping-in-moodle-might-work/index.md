@@ -108,9 +108,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The purpose of this post is to provide a concrete description of how curriculum mapping of a Moodle course might work. The hope is that this will enable a broader array of people to comment on the approach and, in particular, identify flaws or problems. So, please comment.
 
 This is being done as part of the [alignment project](/blog2/2010/05/13/more-thinking-about-the-alignment-project/) and picks up from some [earlier examination](/blog2/2010/03/23/first-step-in-moodle-curriculum-mapping/) of Moodle's existing outcomes feature.

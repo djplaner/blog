@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday, I posted a [draft of an application](/blog2/2010/05/13/more-thinking-about-the-alignment-project/) for what is currently being called, the alignment project. [Stephen Downes](http://downes.ca/) has [commented](http://downes.ca/post/52394) on the alignment project in is [OLDaily](http://www.downes.ca/news/OLDaily.htm). Stephen's comments are
 
 > This is totally not my approach, but a careful and detailed articulation of an alternative. It should be considered.....I would criticize the duality the approach presupposes, between 'quality' (alignment) and the disorganized 'lone wolf' approach to teaching.

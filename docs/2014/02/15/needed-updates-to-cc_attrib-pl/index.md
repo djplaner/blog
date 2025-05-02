@@ -5,9 +5,6 @@ categories: ['bricolage']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a list of updates I need to make to a perl script [I wrote last year](/blog2/2013/10/20/creative-commons-flickr-and-presentations-a-bit-of-tinkering/) that helps me properly attribute the Creative Commons licenced Flickr photos I use in presentations. This list arises from prepare the [welcome video](http://www.slideshare.net/davidj/welcome-to-edc3100-ict-and-pedagogy) for this year's course. Most, if not all, of the updates are to make it easier to use, prevent the chance of "spam" like behaviour and deal with apparent reliability issues with the Flickr API.
 
 ### Parse the slides file - ignore comments

@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Ensuring the quality of the student learning experience has become an increasingly important task for Australian universities. Experience over the last 10 years and some recent reading suggests there are some limitations to how this is currently being done. New innovations/fashions like learning analytics appear likely to reinforce these limitations, rather than actually make significant progress. I'm wondering whether the current paradigm/mindset that underpins university quality assurance (QA) processes can be challenged by learning analytics.
 
 ## The black box approach to QA

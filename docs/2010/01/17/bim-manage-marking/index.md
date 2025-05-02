@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 We come to the main last collection of functionality required of BIM to be operation (a major tidy up is needed after this, but it's getting there). That last collection is currently going under the label "Manage Marking". It covers the functionality required by the teacher in charge of a course to manage the marking being done by other staff, this includes the following tasks:
 
 - Track the marking progress of other staff.

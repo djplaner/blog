@@ -52,9 +52,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 My tweet stream reminded me this morning that [#oer15](https://oer15.oerconf.org/) is up and running. The following tweet from @courosa was amongst the first I saw.
 
 https://twitter.com/courosa/status/587916958596759552

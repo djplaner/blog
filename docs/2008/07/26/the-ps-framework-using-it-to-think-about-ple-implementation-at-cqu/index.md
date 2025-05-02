@@ -5,9 +5,6 @@ categories: ['design-theory', 'elearning', 'missingps', 'plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Yesterday I gave a presentation at CQU titled "The Ps Framework: Mapping the landscape for the PLEs@CQUni project". The slides are on Slideshare and the video on Google video and are embedded below.
 
 The presentation is meant to help in the writing of a paper for [ASCILITE 2008 conference](http://www.ascilite.org.au/conferences/melbourne08/) (one of the reasons for the title). The purpose of this post is to reflect on the presentation and anything I didn't cover which I need to.

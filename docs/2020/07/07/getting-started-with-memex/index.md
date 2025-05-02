@@ -7,9 +7,6 @@ coverImage: 2407833520_69e9e59ea4_o-e1594164072247.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 My [last post](/blog2/2020/07/06/designing-a-personal-memex-with-foam/) was an exploration of [Foam](https://foambubble.github.io/foam/) (a nascent personal knowledge management and sharing system) and how I might use it. This post documents two steps toward implementation
 
 1. Writing blog posts using Foam and syncing to my blog (e.g. this post)

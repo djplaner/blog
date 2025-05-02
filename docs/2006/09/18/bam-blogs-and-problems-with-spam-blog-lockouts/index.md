@@ -5,9 +5,6 @@ categories: ['bam', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Have had a report from one of the students
 
 > i am facing a problem since 14 sept. that my blog has been locked by spam blogger robot.i have tried so many times to unlock my blog but it does not unlocked yet i am going late to send my blog for week 8.

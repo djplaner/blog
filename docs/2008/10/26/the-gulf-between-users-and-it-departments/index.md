@@ -82,9 +82,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Apparently [Accenture](http://accenture.com/) have discovered ["user-determined computing"](http://www.loosewireblog.com/2008/01/user-determined.html) and associated issues.
 
 The definition goes something like this

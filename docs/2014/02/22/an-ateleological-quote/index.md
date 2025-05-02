@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Came across [this presentation, "Learning how to learn"](http://www.slideshare.net/langwitches/learning-how2learn-change-rethinkamplify) (a bit ra-ra, but covers many of the bases for changes in the world and implications for learning). It includes this quote
 
 > If you focus on results, you will never change. If you focus on change, you will get results -- Jack Dixon

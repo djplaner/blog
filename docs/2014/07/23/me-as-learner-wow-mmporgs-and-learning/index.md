@@ -157,9 +157,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Week 1](https://netgl.wordpress.com/2014/07/15/week-1-me-and-networked-and-global-learning-ngl/) of the Networked and Global Learning (NGL) course asks the participants to think and write about what they would like to learn. It's meant to be something other than the principles of NGL and is intended to be something that can be learned through the use of NGL. What follows is my contribution and plans.
 
 ## What would you like to learn? Why?

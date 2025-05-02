@@ -6,9 +6,6 @@ coverImage: 36379213_b65e65ed62_o.jpg
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 In late 2018 I started work at an institution using [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn). My first project helping "put online" a group of 7 courses highlighted just how ugly Blackboard sites could be and how hard it was to do anything about it. By January 2019 [I shared the solution](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) I'd developed - [the Card Interface](https://github.com/djplaner/Card-Interface-Tweak). Below is a before/after image illustrating how the Card Interface 'tweaks' a standard Blackboard Learn content area into something more visual and contemporary. To do this you add some provided Javascript to the page and then add some card meta data to the other items.
 
 ![](images/2021-03-12-05-20-10.png)

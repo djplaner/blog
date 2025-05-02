@@ -63,9 +63,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The BBC has [an article](http://news.bbc.co.uk/2/hi/asia-pacific/3371659.stm) touching on Mao's "four pests" campaign. A perfect example of the difficulty of top-down design and the unexpected consequence that arise from limited overall knowledge of a system.
 
 In the 1950s China is seen to have four big evils - rats, flies, mosquitoes and sparrows.

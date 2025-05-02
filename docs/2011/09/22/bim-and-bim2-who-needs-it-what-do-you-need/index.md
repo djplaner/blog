@@ -64,9 +64,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Earlier this year, as the assignments mounted with my Graduate Diploma of Learning and Teaching, I put the [development of BIM on the back burner](/blog2/2011/04/07/bim-on-the-back-burner/). As my study to become a teacher winds down (stops for good on November 11 at the end of a 6 week internship) I'm thinking of re-starting work on BIM. Before I do that, I'm have a couple of questions
 
 1. Who out there is in the market for BIM and BIM2?  

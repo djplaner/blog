@@ -4,9 +4,6 @@ date: 2009-01-02 02:31:07+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Brett Carter, Jason Lockwood, Sean O’Kelly, Chris Parry, Shane Atkinson, Terry Manderson, David Jones CQ-PAN: Putting Schools into Cyberspace, Information On-Line and On-Disk 95, Sydney
 
 ## Abstract

@@ -6,9 +6,6 @@ tags: ['lak11']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following floats/records some initial ideas for connection two of my current projects, [BIM](/blog2/research/bam-blog-aggregation-management/) and [lak11](http://www.learninganalytics.net/). The ideas arise out of some discussion with my better half who is currently using BIM in one of the courses she is teaching.
 
 Some brief background, BIM is a Moodle module that allows teaching staff to manage and encourage the use of individual student blogs. The blogs are hosted by an external blog provider of the student's choice, not within Moodle. Typical use is to encourage reflection and make visible student work in order for comments and discussion.

@@ -5,9 +5,6 @@ categories: ['edc3100', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following tells the story of how and why I designed the following "Web 2.0" (and yes, I am very reluctant to use that term for a [range of reasons](http://www.computerweekly.com/feature/Web-20-What-does-it-constitute) but will for a range of other reasons) introduction of myself.
 
 The following image (click on the image to see a large photo) shows the final state. You can also [view it here](http://popplet.com/app/#/196113).

@@ -112,9 +112,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a collection of reflections on the [Web 2.0 Authoring Tools in Higher Education Learning and Teaching: New Directions for Assessment and Academic Integrity National Roundtable](http://web2assessmentroundtable.pbworks.com/) that I attended yesterday.
 
 In summary, while I question some of the assumptions underpinning the roundtable the event was worthwhile in some of the people I met and some measure of reassurance. The reassurance was two fold

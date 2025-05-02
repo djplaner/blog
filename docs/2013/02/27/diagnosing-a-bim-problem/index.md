@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following problem with using BIM has [been reported](/blog2/research/bam-blog-aggregation-management/#comment-6088) the following is a record of my attempt to recreate and fix the problem. The problem
 
 > I installed BIM2 on my Moodle 2.3. The installation was successful and I even managed to create a BIM activity. There is only one problem — When I go to Mark posts and click on a post, the only thing that is shown on the screen is the Changing post allocation headline. The rest of the screen is empty.

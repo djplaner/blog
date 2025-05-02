@@ -216,9 +216,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Most of my career was in universities. Taking on a range of roles including: teaching Information Technology (programming, operating systems, systems administration, software development); [developing "e-learning" systems](/blog2/research/phd-thesis/); lower-middle management; teaching ICT integration to pre-service teachers; and, now ed/tech designer of sorts.
 
 A [digital renovator](https://djplaner.github.io/memex/sense/computing/digital-renovator/) with a love for kludges and bricolage I've developed a few tools including the [(ancient and out of date) BIM activity module](/blog2/research/bam-blog-aggregation-management/) for Moodle and some [kludges for Blackboard](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/) (e.g. the [Card](https://djplaner.github.io/Card-Interface-Tweak/) and [Content](https://djplaner.github.io/Content-Interface-Tweak/) Interfaces) and now Canvas (e.g. [Canvas Collections](https://djplaner.github.io/canvas-collections/)). Work that has led to some insights into how University "e-learning" could be so much better.

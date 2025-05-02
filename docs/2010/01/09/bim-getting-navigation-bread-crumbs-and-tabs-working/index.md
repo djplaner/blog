@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the [last bit of work](/blog2/2010/01/07/bim-allocate-questions-screen/) on BIM I got the Allocate Posts page working. This created the issue of getting the navigation/bread crumbs trail work in a useful way. I made an initial start on that, this post tries to get it complete. It will also be an attempt to get the "tabbed" screen for the coordinator working.
 
 Work to do includes:

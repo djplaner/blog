@@ -52,9 +52,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A couple of weeks ago, I was [reflecting on something](/blog2/2012/02/17/but-does-it-have-to-be-a-lecture/) written about lectures when I paraphrased a definition/description of the lecture. I paraphrased it as
 
 > A method for transferring the content of the lecturer’s paper to the paper of the students without it passing through the minds of either.

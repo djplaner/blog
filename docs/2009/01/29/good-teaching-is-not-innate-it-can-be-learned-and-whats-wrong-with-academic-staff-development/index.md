@@ -42,9 +42,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The title to this post is included in a quote from [Kane, Sandretto and Heath](http://www.springerlink.com/content/p4h723u36x1850r5/) (2004)
 
 > The research team, comprising two teacher educators and an academic staff developer, embarked upon this research confident in the belief that good teaching is not innate, it can be learned. With this in mind, the project sought to theorise the attributes of excellent tertiary teachers and the relationships among those attributes, with the long-term goal of assisting novice academics in their development as teachers.

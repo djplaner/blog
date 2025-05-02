@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the last section from the People component of chapter 2 of [my thesis](/blog2/research/phd-thesis/). It is an attempt to derive some lessons from the previous sections that are relevant to the practice of e-learning.
 
 This leaves me with two components of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) to go and Chapter 2 is complete - at least to first draft stage. The two remaining are Product and Pedagogy. I believe both should be fairly quick ones to write, hopefully I'm right.

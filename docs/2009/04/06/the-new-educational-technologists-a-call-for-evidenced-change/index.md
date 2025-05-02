@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary/overview of Shurville, Browne and Whitaker (2008) - a paper title "Employing the new educational technologists: A call for evidenced change". One of the authors has a [blog](http://simonshurville.blogspot.com/2008/11/presenting-at-ascilite-08.html).
 
 I came across this paper while looking for evidence of people using Birnbaum's (2000) take on management fads in higher education in connection with e-learning. A connection I will certainly be making and was part way through creating a post about, when I came across this article.

@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I started playing around with what became learning analytics in 2007 or so. Since then every/any time "learning analytics" is mentioned in a university there's almost an automatic mention of dashboards. So much so I was lead to tweet.
 
 https://twitter.com/djplaner/status/610769509394182144

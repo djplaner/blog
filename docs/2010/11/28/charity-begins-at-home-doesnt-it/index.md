@@ -61,9 +61,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the first few years of teaching information technology at university I met a number of mature age students who were returning to study to get degrees. These were amongst the most enjoyable students to teach, not to mention simply being the best students. One of those students struggled with aspects of the technology, but stuck at it and did well. So well, she ended up completing her PhD years and years before I even looked like completing [mine](/blog2/research/phd-thesis/). She even ended up being the head of the school teaching IT.
 
 Not long after that she did a funny thing. At least it seemed a funny thing to me. She gave it up and got into doing volunteer work overseas. At that stage I couldn't understand why she'd leave the safety and challenge of an academic job to do such a thing. These days I have a much better idea of why that might be attractive. But increasingly, the main reason I didn't get it is captured by the phrase "charity begins at home". Sure there are a lot of people in some really horrible situations overseas and they need all the help they can get. But the same can be said of situations closer to home.

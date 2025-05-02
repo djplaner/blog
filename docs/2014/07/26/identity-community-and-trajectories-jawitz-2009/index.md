@@ -82,9 +82,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a bit of a reaction to one of the readings set for Week 1 of the [NGL course](http://netgl.wordpress.com). The reading was actually part of the old version of the course and it was brought over into this offering as it gives a brief summary of some of the academic perspectives around identity, trajectories and community.
 
 To be up front I've never been a big fan of the Communities of Practice (CoP) model. Initially because my first experience of CoPs were flawed attempts to use the CoP model to increase the engagement of academics with learning and teaching. They always failed to create a sense of community (at least beyond the small handful of people who were driving the creation of the CoP) and because I'm almost inherently opposed to the "happy-clappy we all one big community" ethos that underpinned the approach.

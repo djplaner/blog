@@ -99,9 +99,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a [recent post](/blog2/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/) reflecting on a presentation I referenced a [TED talk by Dan Pink](http://www.ted.com/talks/dan_pink_on_motivation.html) in which he proposed a new operating system for companies based on staff having:
 
 1. Autonomy;

@@ -6,9 +6,6 @@ tags: ['believe', 'computing', 'education', 'scores', 'usatoday']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For the last few years some colleagues and I have been watching the rise of managerialism within higher education, and more recently in K12 education.  
   
 Typically implemented as some vast activity - e.g. [a nationalised literacy and numeracy test for all Australian school children](http://www.naplan.edu.au/), or the reduction of [research quality to some numbers](http://www.arc.gov.au/era/) - that takes a complex task and reduces it to some sort of ranking.  

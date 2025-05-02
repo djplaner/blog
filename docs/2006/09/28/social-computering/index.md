@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Jeremy Geelan has a [post about "Social Computing": Oxymoron - or the biggest new thing since the web itself?](http://jeremy.linuxbloggers.com/social_computing_as_biggest_big_new_thing.htm).
 
 A nice summary overview, with some good references. Including a Forrester report that includes the following quote

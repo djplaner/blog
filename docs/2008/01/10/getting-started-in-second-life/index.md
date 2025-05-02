@@ -6,9 +6,6 @@ tags: ['secondlife-cddu-web3dx-muve-elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's almost official. CQU has an [island in Second Life](http://slurl.com/secondlife/CQU%20Learning/68/179//?title=CQU%20Learning%20and%20Teaching). Going under the name "CQU Learning" the purchase of the island is for the express purpose of examining what can be done in the environment to improve learning and teaching at CQU. The purchase is being funded by [Curriculum Design and Development Unit](http://cddu.cqu.edu.au/) and is connected with the [Carrick Web3D project](http://cddu.cqu.edu.au/index.php/Web3D_Exchange_Project) the unit is involved with.
 
 Currently, the island is bare/empty and access to the island is restricted to a few CQU staff. This will change during January 2008, hopefully very quickly, but it all depends. I'm thinking that the open source ethos of "release early and release often" might well apply to the island. i.e. allow folk to access the island earlier and have them help in the improvements to the island, rather than limit it to a few people who are responsible for everything.

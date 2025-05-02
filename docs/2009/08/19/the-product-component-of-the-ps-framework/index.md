@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 't
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post contains the start of the Product component of the Ps Framework that forms a section out of chapter 2 of [my thesis](/blog2/research/phd-thesis/).
 
 ### Product

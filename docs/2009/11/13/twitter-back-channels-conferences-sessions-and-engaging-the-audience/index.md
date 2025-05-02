@@ -201,9 +201,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A couple of days ago we did [an experiment](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) around presentations that included the use of a twitter back channel (hashtag: #eair). The following is a reflection on what that allowed me to do and implications for conferences.
 
 The question I end up at is "Should conferences have twitter hash tags for individual sessions?"

@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 At some stage soon I need to start developing a report on "learning and teaching portals". i.e. how our institution deals with online resources around learning and teaching. There are a few issues with how we do it, and it appears that we're not alone
 
 https://twitter.com/robinwb/status/829644598851014657

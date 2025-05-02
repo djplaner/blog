@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 After a short Xmas break it's time to continue work on getting [BIM 2.0](/blog2/research/bam-blog-aggregation-management/) up and going. In this post I'm trying to continue the work from [a week or so ago](/blog2/2012/12/19/bim-another-restart/). The main aim is to fix a bug with the manage marking page.
 
 **Status:** The manage marking bug has been fixed. Mostly related to further migration work from Moodle 1.9 to Moodle 2.x

@@ -24,9 +24,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The obligatory first experience with any system by a programmer requires it to be to say "Hello World!".
 
 So here goes.

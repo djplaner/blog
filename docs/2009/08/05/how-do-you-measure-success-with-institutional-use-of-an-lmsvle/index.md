@@ -5,9 +5,6 @@ categories: ['chapter-4', 'design-theory', 'elearning', 'indicators', 'lmsevalua
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 My [PhD](/blog2/research/phd-thesis/) is essentially arguing that most institutional approaches to e-learning within higher education (i.e. the adoption and long term use of an LMS) has some significant flaws. The thesis will/does describe one attempt to formulate an approach that is better. (Aside: I will not claim that the approach is the best, in fact I'll argue that the notion of there being "one best way" to support e-learning within a university is false.) The idea of "better" raises an interesting/important question, "How do you measure success with institutional use of an LMS?" How do you know if one approach is better than another?
 
 These questions are important for other reasons. For example, my current institution is currently implementing Moodle as its new LMS. During the selection and implementation of Moodle there have been all sorts of claims about its impact on learning and teaching. During this implementation process, management have also been making all sorts of decisions made about how Moodle should be used and supported (many of which I disagree strongly with). How will we know if those claims are fulfilled? How will we know if those plans have worked? How will we know if we have to try something different? In the absence of any decent information about how the institutional use of the LMS is going, how can an organisation and its management make informed decisions?

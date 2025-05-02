@@ -5,9 +5,6 @@ categories: ['edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Just documenting the process I use to create a collection of OPML files for distributing the details of EDC3100 student blogs (because I didn't document it last semester).
 
 ### Background

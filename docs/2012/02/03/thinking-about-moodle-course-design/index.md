@@ -71,9 +71,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over the next couple of weeks I am going to be responsible for the design of a Moodle course site. This will be the first time in almost 5 years that I've been the academic responsible for a course site, the first time in Moodle and in fact the first time in an "LMS" I didn't design. Add to this my on-going feelings of discomfort about the affordances of Moodle's course structure (scroll of death etc.) and the observation of some truly ugly Moodle course sites and I feel the need to be further informed.
 
 The following is a collection of sites and resources I've gathered to inform my design of the course site. What have I missed? What are the really good resources for Moodle course design?

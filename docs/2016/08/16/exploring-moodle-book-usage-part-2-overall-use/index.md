@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the second in a series of posts exploring the usage of the [Moodle Book module](https://docs.moodle.org/31/en/Book_module) at my current institution. The [first post](/blog2/2016/08/13/exploring-moodle-book-module-usage-part-1/) gave some background and outlined an initial series of questions about Book usage that I'm aiming to explore. This post reports on initial findings related to the following
 
 - Correctly identify the number of course offerings using the Book each year.

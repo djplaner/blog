@@ -6,9 +6,6 @@ tags: ['oep', 'oer', 'papers']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Albion, P., Jones, D., Jones, J., & Campbell, C. (2017). [Open Educational Practice and Preservice Teacher Education: Understanding past practice and future possibilities](http://learntechlib.org/p/177356). In Proceedings of Society for Information Technology & Teacher Education International Conference 2017. **Outstanding paper award**
 
 and also available as

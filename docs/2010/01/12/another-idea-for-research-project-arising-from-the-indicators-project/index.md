@@ -53,9 +53,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the good and also problematic things about the [Indicators project](http://indicatorsproject.wordpress.com/) (attempting to identify patterns in LMS usage data) is that there are so many interesting idea for further research that arise from the patterns being identified. What's best/worst is that the project has really only scratched the surface. This post is an attempt to write down an idea I had today in order to save it for another day, perhaps see if anyone has any insights that can improve it, and if anyone is keen to get involved.
 
 ### Why is age correlated with LMS usage?

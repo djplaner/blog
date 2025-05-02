@@ -4,9 +4,6 @@ date: 2009-01-02 23:37:12+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Rex Boggs, David Jones. Cyberspace: The New Educational Frontier., Queensland Society for Information Technology in Education (QSITE) conference, Rockhampton, April, 1994.
 
 ## What is Cyberspace?

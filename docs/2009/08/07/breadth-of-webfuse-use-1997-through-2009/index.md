@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over the last week I've posted a bit around papers and ideas about how you evaluate the use of a learning management system (LMS). This post is intended to summarise findings from an initial evaluation of the use of features in the Webfuse system from 1997 through 2009. Webfuse is the system I designed as part of my [PhD](/blog2/research/phd-thesis/) and has been used at [Central Queensland University](http://www.cqu.edu.au/) since 1997. At least the "LMS" part of Webfuse will cease being used in 2010.
 
 Aside: Webfuse is not an LMS. Anyone who calls Webfuse an LMS doesn't get it.

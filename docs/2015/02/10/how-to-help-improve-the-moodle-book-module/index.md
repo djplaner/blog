@@ -51,9 +51,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As mentioned [in the last post](/blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) there are limitations in the Moodle book module that are acting as [a concrete lounge](http://fedwiki.djon.es/view/welcome-visitors/view/concrete-lounge). The following documents an attempt to help improve the module.
 
 In the end, I've made some serious steps to contributing a bit of code to a standard plugin (as I write this, I'm imagining how experienced Moodle folk will shudder at the many misuses of Moodle terms in the following).

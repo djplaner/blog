@@ -68,9 +68,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a reflection on and response to a paper by [Lisa Lane](http://lisahistory.net/wordpress/) (2009) in [First Monday](http://firstmonday.org/) titled ["Insidious pedagogy: How course management systems impact teaching"](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2530/2303). I've been struggling with keeping up with reading, but this topics is closely connected to [my thesis](/blog2/research/phd-thesis/) and [the presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) I'll be giving soon.
 
 The post starts with my thoughts and reactions to the paper and has a summary of the paper at the end.

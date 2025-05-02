@@ -64,9 +64,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm building [an initial list of people](https://www.diigo.com/user/djplaner/nglpeople) (some additional folk are listed below) who might be considered "good to follow" for the participants of the course I'm teaching on [Network and Global Learning](http://netgl.wordpress.com/) which potentially covers topics/terms/phrases such as connected learning, open learning, connectivism, PLEs etc.
 
 The intent is that this list (which the participants will also contribute to) will provide some initial pointers for the participants to explore. The only criteria is that they are saying/doing something interesting related to "network learning".

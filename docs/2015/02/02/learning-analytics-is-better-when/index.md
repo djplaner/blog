@@ -42,9 +42,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Trying to capture some thinking that arose during an institutional meeting re: learning analytics. The meeting was somewhat positive, but - as is not uncommon - there seemed to be some limitations around what learning analytics actually is and what it might look like. Wondering if the following framing might help it draws on points made by numerous people about learning analytics and some strong echoes of [the (P)IRAC framework](/blog2/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/)
 
 Learning analytics better when it

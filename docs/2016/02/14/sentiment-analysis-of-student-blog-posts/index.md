@@ -59,9 +59,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 In June last year [I started an exploration](/blog2/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/) into the value of sentiment analysis of student blog posts. This morning I've actually gotten it to work. There may be some value, but further exploration is required. Here's the visible representation of what I've done.
 
 The following is a screen shot of the modified ["know thy student" kludge](/blog2/2015/09/15/helping-teachers-know-thy-students/) I've implemented for my course. The window shows some details for an individual student from second semester last year (I've blurred out identifying elements). The current focus is on the blog posts the student has written. [![Sentiment analysis of blog posts](images/24713913780_28a2460275.jpg)](https://www.flickr.com/photos/david_jones/24713913780/in/dateposted-public/ "Sentiment analysis of blog posts")

@@ -5,9 +5,6 @@ categories: ['sdo']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 **Overall Aim**
 
 Make learning in [SDO](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/) more authentic. Make it like the student is arriving at a real organisation as a trainee Systems Analyst.

@@ -5,9 +5,6 @@ categories: ['bim', 'bimerrors']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a record of some work to investigate some more apparent problem with BIM mirroring blog posts that contain "special" characters due to a bit of copying and pasting from Word into Wordpress.
 
 ### An aside on supporting a tool like BIM

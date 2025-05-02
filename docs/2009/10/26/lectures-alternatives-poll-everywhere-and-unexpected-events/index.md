@@ -53,9 +53,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This Wednesday I'm involved with an [experiment and presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) that is seeking to test out some alternatives for lectures/presentations. As it happens, the last week has brought a couple of events that are (so far) helping the case for the experiment. These are described below.
 
 ### And now for a word from our sponsors...

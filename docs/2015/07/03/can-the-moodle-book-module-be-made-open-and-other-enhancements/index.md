@@ -190,9 +190,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Next week I'm off to Melbourne to [Moodlemoot'AU 2015](https://mootau15.moodlemoot.org/). This post will hold the details and resources associated with [this talk](https://mootau15.moodlemoot.org/mod/data/view.php?d=1&rid=126) which is talking about how the Moodle book module might be enhanced, including by making it more open. It's the first public talk about the USQ funded [Moodle book project](/blog2/the-moodle-open-book-module-project/).
 
 There's a [Moodle site](https://mootau15.moodlemoot.org/course/view.php?id=7) associated with the Moot presentation.

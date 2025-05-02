@@ -100,9 +100,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One of the themes for this blog is that the majority of current approaches to improving learning and teaching within universities simply don't work. At least not in terms of enabling improvement in a majority of the learning and teaching at an institution. Recently I finally completed reading the last bits of the book [Nudge](http://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/ref=sr_1_1?ie=UTF8&s=books&qid=1265155607&sr=8-1) by Thaler and Sunstein. Chapter 18 is titled "The Real Third Way". This post explores how that metaphor connects with some of the thinking expressed here.
 
 ### The real third way

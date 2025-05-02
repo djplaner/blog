@@ -5,9 +5,6 @@ categories: ['bim', 'bimerrors']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is the first post in a new tradition. Any problems folk report with [BIM](/blog2/research/bam-blog-aggregation-management/) and the subsequent diagnosis and solution I undertake will get reported here on the blog and hopefully mirrored in some way onto the BIM [github page](http://github.com/djplaner/BIM).
 
 It is somewhat ironic that the first problem in this tradition comes from the [institution](http://www.cqu.edu.au/) I finished working at last Friday.

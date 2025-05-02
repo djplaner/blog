@@ -21,6 +21,7 @@ import re
 import mkdocs_gen_files
 import frontmatter
 import pathlib
+import yaml
 import markdown
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
@@ -32,6 +33,7 @@ BLOG_FOLDER = ""
 BLOG_HOME="/Users/davidjones/blog/docs/"
 BLOG_URL="https://djon.es/blog2/"
 
+NUM_POSTS_HOME_PAGE = 20
 
 def generateCategoryPage(categoryName, items):
     """
@@ -45,13 +47,9 @@ def generateCategoryPage(categoryName, items):
         f.write(f"""---
 type: blog_category
 template: blog-category.html
-category: {categoryName}
+title: Items for {categoryName}
 item_count: {len(items)}
 ---
-
-# Items for category {categoryName}
-
-See also: [[blog-home]], [[posts]], [[pages]]
 
 """)
 
@@ -59,37 +57,9 @@ See also: [[blog-home]], [[posts]], [[pages]]
 #        items = sorted(items, key=lambda x: x['yaml']['date'], reverse=True)
 
         for item in items:
-            path = item['path'].replace( "docs/", "").replace("index.md", "index.html")
-            #-- remove " See also: [.*) from content
-#            content = re.sub( r".*See also: ) ", "", item['content'] )
-            content = item['content'].replace("See also: [[blog-home | Home]]", "")
-            htmlContent = markdown.markdown(content)
-            soup = BeautifulSoup(htmlContent, 'html.parser')
+            itemContent = generateItemContent(item)
+            f.write(itemContent)
 
-            content = f"<p>{soup.find_all('p')[0].text}<a href=\"../{path}\">...more...</a></p>"
-
-#            if categoryName == "thesis":
-#                print(f"*******\n{item['content'][:300]}\n")
-#                print(f"*******\n{content[:300]}\n")
-#                print(f"*******\n{htmlContent}\n")
-#                input("Press Enter to continue...")
-
-            
-            #-- convert date to DD Mon YYYY
-            date = item['yaml']['date'].strftime("%d %b %Y")
-             
-            f.write( f"""
-<div class="blog-item">
-  <div class="blog-item-title"><a href="../{path}">{item['yaml']['title']}</a></div>
-  <div class="blog-item-date">📅 {date}</div>
-  <div class="blog-item-content-preview">
-    {content}
-  </div>
-</div>
-                    """)
-#            f.write( f"- [{item['yaml']['title']}](../{path})\n\n")
-#            f.write( f"  {str(item['yaml']['date'])}\n\n")
-            #f.write(f"- [[{item['wikilink']}/index.md]]\n")
     mkdocs_gen_files.set_edit_path( f"{BLOG_FOLDER}category/{categoryName}.md", "blog.py")
 
 def generateCategories(blogItems):
@@ -192,11 +162,11 @@ def generateFeeds(blogItems):
     of the 10 most recent posts
 
     Use feedgen (https://github.com/lkiesow/python-feedgen) to generate the RSS feed
-    - get the 10 most recent posts from blogItems
+    - get the NUM_POSTS_HOME_PAGE most recent posts from blogItems
     - generate the RSS feed and write to feed/index.md
     """
  
-    mostRecent = blogItems[:10]
+    mostRecent = blogItems[:NUM_POSTS_HOME_PAGE]
 
     #-- set up the feed
     fg=FeedGenerator()
@@ -236,6 +206,240 @@ def generateFeeds(blogItems):
     with mkdocs_gen_files.open(f"{BLOG_HOME}feed/feed.rss", "w") as f:
         f.write(str(fg.rss_str(pretty=True), 'utf-8'))
 
+def extractMonths(posts):
+    """
+    Given a list of posts, extract the months and years - Month, YYYY - from the posts' dates
+
+    parameters
+    - posts : list of all blog posts
+    returns a dict of dicts in the structure
+    "YYYY": { "%B": x }
+    """
+
+    months = {}
+    for item in posts:
+        #-- convert date to YYYY-MM
+        month = item['yaml']['date'].strftime("%B")
+        year = item['yaml']['date'].strftime("%Y")
+
+        if year not in months:
+            months[year] = {} 
+        if month not in months[year]:
+            months[year][month] =  {
+                'count': 0,
+                'year': year,
+                'month': month,
+                'posts': []
+            }
+        months[year][month]['count'] += 1
+        months[year][month]['posts'].append(item)
+
+    #-- sort the months in reverse order
+    #months = sorted(months, reverse=True)
+    monthPosts = []
+    for year in months.keys():
+        for month in months[year].keys():
+            monthPosts.append(months[year][month])
+
+    return monthPosts
+
+def generateArchives(archives):
+    """
+    Generate the month archive pages at 
+        blog2/Archives/<month>-<year>.md
+    Each one to contain excepts of the relevant 
+
+    parameters
+    - archives : list of dicts containing the months and years
+        { 'month': 'January', 'year': 2023, 'count': 3, 'posts': [<list of posts>] }
+    """
+
+    numItems = len(archives)
+    count = 0
+
+    for item in archives:
+        #-- convert date to YYYY-MM
+        path = f"{BLOG_FOLDER}archives/{item['month']}-{item['year']}.md"
+
+        #-- calculate the next and previous months
+        # - if this is the first month, set previous to Home
+        # - if this is the last month, set next to Home
+        previous = { 'text': 'Home', 'url': '/blog2/index.html' }
+        next = { 'text': 'Home', 'url': '/blog2/index.html' }
+        if count > 0:
+            previous = { 
+                        'text': f'{archives[count-1]["month"]} {archives[count-1]["year"]}', 
+                        'url': f"/blog2/archives/{archives[count-1]['month']}-{archives[count-1]['year']}.html" 
+                       }
+        if count < numItems - 1:
+            next = { 
+                    'text': f'{archives[count+1]["month"]} {archives[count+1]["year"]}',
+                    'url': f"/blog2/archives/{archives[count+1]['month']}-{archives[count+1]['year']}.html" 
+                   }
+
+        count += 1
+
+        with mkdocs_gen_files.open(path, "w") as f:
+            f.write(f"""---
+title: Archives for {item['month']} {item['year']}
+type: blog_archive
+template: blog-category.html
+item_count: {item['count']}
+next:
+    text: {next['text']}
+    url: {next['url']}
+previous:
+    text: {previous['text']}
+    url: {previous['url']}
+---
+
+""")
+
+            for post in item['posts']:
+                content = generateItemContent(post)
+                f.write(content)
+                #-- convert date to DD Mon YYYY
+#                date = post['yaml']['date'].strftime("%d %b %Y")
+#                path = post['path'].replace( "docs/", "").replace("index.md", "index.html")
+#                content = post['content'].replace("See also: [[blog-home | Home]]", "")
+#                htmlContent = markdown.markdown(content)
+#                soup = BeautifulSoup(htmlContent, 'html.parser')
+#                if len(content) == 0:
+#                print("************************")
+#                print(f"title is {post['yaml']['title']}")
+#                print(f"length of content is {len(content)}")
+#                paras = soup.find_all('p')
+#                print(f"num of ps is {len(paras)}")
+#                text = ""
+#                if len(paras) > 0:
+#                    text = paras[0].text
+#
+#                content = f"<p>{text}<a href=\"../{path}\">...more...</a></p>"
+
+                #-- convert date to DD Mon YYYY
+#                date = post['yaml']['date'].strftime("%d %b %Y")
+             
+#                f.write( f"""
+#<div class="blog-item">
+#  <div class="blog-item-title"><a href="../{path}">{post['yaml']['title']}</a></div>
+#  <div class="blog-item-date">📅 {date}</div>
+#  <div class="blog-item-content-preview">
+#    {content}
+#  </div>
+#</div>
+#                    """)
+#            f.write( f"- [{item['yaml']['title']}](../{path})\n\n")
+#            f.write( f"  {str(item['yaml']['date'])}\n\n")
+            #f.write(f"- [[{item['wikilink']}/index.md]]\n")
+
+    mkdocs_gen_files.set_edit_path( f"{BLOG_FOLDER}index.md", "blog.py")
+
+
+def generateItemContent(item, homePage=False):
+    """
+    Given a blog item generate the HTML content to display that item with the first para of blog content
+
+    parameters
+    - item : dict containing the blog item
+    - homePage : bool if True, generate the content for the home page
+
+    returns
+    - itemContent : str containing the HTML content for the item
+    """
+
+    itemContent = ""
+
+    relPath = "../"
+    if homePage:
+        relPath = "./"
+
+    path = item['path'].replace( "docs/", "").replace("index.md", "")
+    content = item['content'].replace("See also: [[blog-home | Home]]", "")
+    htmlContent = markdown.markdown(content)
+    soup = BeautifulSoup(htmlContent, 'html.parser')
+
+    paras = soup.find_all('p')
+    text = ""
+    if len(paras) > 0:
+        text = paras[0].text
+
+    content = f"<p>{text}<a href=\"../{path}\">...more...</a></p>"
+
+    #-- convert date to DD Mon YYYY
+    date = item['yaml']['date'].strftime("%d %b %Y")
+
+    coverImage= ""
+    if 'coverImage' in item['yaml']:
+        coverImage = f"""
+    <figure class="md-cover-image" style="margin: 0px; background-image: url('{relPath}{path}/images/{ item['yaml']['coverImage'] }');">
+        <img src="{relPath}{path}images/{ item['yaml']['coverImage'] }" alt="{ item['yaml']['title'] }" width="100%" height="auto">
+    </figure>
+"""
+
+    categories = ""
+    if 'categories' in item['yaml']:
+        categories = " in: "
+        for category in item['yaml']['categories']:
+            categories += f'<a href="/blog2/category/{category}.html">{category}</a>, '
+        ##-- remove the last comma
+        categories = categories[:-2]
+
+    itemContent = f"""
+<div class="blog-item">
+  <div class="blog-item-title"><a href="{relPath}{path}">{item['yaml']['title']}</a></div>
+  <div class="blog-item-date">📅 {date} {categories}</div>
+    {coverImage}
+  <div class="blog-item-content-preview">
+    {content}
+  </div>
+</div>
+                    """
+
+    return itemContent
+    
+def generateHome(posts):
+    """
+    Write the blog home page by adding 20 of the most recent posts
+    Maybe eventually add an intro from the frontmatter.
+
+    - read the home page file ~/docs/index.md
+    - throw away the content it is replaced
+    - replace the archives frontmatter with the current list of months
+    - add the X most recent posts
+
+    parameters
+    - posts : list of all blog posts
+    """
+
+    fileContent = extractFileContent(f"{BLOG_HOME}index.md")
+
+    #-- replace the archives frontmatter with the current list of months
+    archives = extractMonths(posts)
+    fileContent['yaml']['archives'] = archives
+    description = ""
+    if "description" in fileContent['yaml']:
+        description = fileContent['yaml']['description']
+
+    generateArchives(archives)
+
+    with mkdocs_gen_files.open(f"{BLOG_FOLDER}index.md", "w") as f:
+        #-- write the frontmatter
+        f.write(f"""---
+{yaml.dump(fileContent['yaml'])}
+---
+
+<p>{description}</p>
+
+""")
+
+        for item in posts[:10]: 
+            itemContent = generateItemContent(item, True)
+            f.write(itemContent)
+
+    mkdocs_gen_files.set_edit_path( f"{BLOG_FOLDER}index.md", "blog.py")
+
+
+    
 
 def generator():
     """
@@ -253,6 +457,10 @@ def generator():
 
     # Generate RSS feed
     generateFeeds(blogItems)
+
+    # Generate home page
+    generateHome(blogItems)
+
 
 
 generator()

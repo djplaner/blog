@@ -5,9 +5,6 @@ categories: ['quotes']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 > The essence of strategy is the close view of distant things and the distant view of close things -- Sun Tzu
 
 My interest in emergent/agile approaches means I'm not a fan of strategy and/or strategic appraoches currently used in most business.

@@ -6,9 +6,6 @@ tags: ['research', 'workflow']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 An attempt to briefly document an exploration into possibilities for enhancing my digital workflow.
 
 Main personal outcome is the modification of my research workflow to incorporate Zotfile to improve file naming and also to allow sharing of PDF files with my mobile. Sharing done via Google drive to the PDF Expert app and back again. Zotfile very nicely auto-extacting annotations and highlights from the PDF into Zotero note file.

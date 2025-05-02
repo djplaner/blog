@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Work for week 2. The following is a diary come min-reflection for the work I'm doing for the 2nd week of the ICTs for Learning Design course.
 
 ### A bug

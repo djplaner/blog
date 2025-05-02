@@ -54,9 +54,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following post is a continuation of posts from the "Past Experience" section of chapter 2 of [my thesis](/blog2/research/phd-thesis/). This part of chapter 2 is looking at the usage of e-learning within higher education. A [previous post](/blog2/2009/04/22/e-learning-usage-quality/) provided the introduction to the section and also covered usage from a quality perspective - i.e. how good is the learning and teaching.
 
 The aim of this post is to briefly examine what is known about the quantity of usage of e-learning within institutions. It does this by focusing on three different perspectives:

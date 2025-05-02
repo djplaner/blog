@@ -141,9 +141,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The title and spark for this post comes [from this post](http://www.convergemag.com/blog/bridge/Biggest-Loser-Inspiration.html) entitled "A night of 'Biggest Loser' Inspiration". I came across it via a tweet from [Gardner Campbell](http://www.gardnercampbell.net/) and in particular the quote from the post he tweeted (included here sans the 140 character tweet limit)
 
 > People follow inspiration and that's where students will go — where they are inspired to learn, collaborate, build and innovate.

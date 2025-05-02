@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The very nice folk from my institution's ICT group warned me back in March that
 
 > I have started work on the moodle 2.6 upgrade that will be happening midyear and have come across some deprecation warning from BIM. Just giving you plenty of notice that an updated version will be needed before release.

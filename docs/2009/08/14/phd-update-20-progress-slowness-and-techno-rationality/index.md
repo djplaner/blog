@@ -5,9 +5,6 @@ categories: ['phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's been almost two weeks since my [last PhD update](/blog2/2009/08/02/phd-update-19-falling-just-a-little-short/), mainly due to two factors. First, a lack of motivation due to some external factors and second, a decision to move back to Fridays as the release day for the summaries. The move back to Fridays arises from a new regular discussion with my esteemed supervisor on Friday afternoons. Releasing an update just before such a discussion seems to make sense.
 
 ### What I've done

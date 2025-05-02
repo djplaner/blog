@@ -139,9 +139,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Doing a bit of reading of the literature. As preparation for the redevelopment of a 3rd year course helping pre-service teachers figure out how ICTs can be integrated into/transform their learning and teaching.
 
 This is a summary of Underwood and Dillon (2011). The abstract is

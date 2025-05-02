@@ -92,9 +92,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the next couple of weeks I re-commence my face-to-face university education. This time in a Graduate Diploma in Learning and Teaching in order to become a high school teacher. As it's less than two weeks from the start of term, the materials for the courses are now becoming ready. The following is an ad hoc collection of thoughts and experiences as I try to get an overview of the material and the term ahead.
 
 ### Google being ruined?

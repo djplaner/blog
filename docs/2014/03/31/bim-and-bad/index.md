@@ -5,9 +5,6 @@ categories: ['bad', 'edc3100', 'herding-cats']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post arises from two events today
 
 1. The [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) call for papers came out today and I'm thinking about a paper I might submit.

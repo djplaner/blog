@@ -116,9 +116,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following post is sparked by reading Findlow (2008) as part of my [PhD work](/blog2/research/phd-thesis/). I'm about halfway through it and finding it very interesting. In particular, this post is sparked by the following paragraph from the paper
 
 > The institutional counterpoint to this was the feeling expressed, implicitly or explicitly, by all the administrative staff I talked to that, in the words of one mid-ranking administrator, ‘No offence, but some academics need a kick up the bum’. Only five survey respondents cited constraints not explicitly linked to aspects of ‘the system’, singling out academics’ ‘attitudes’, which they elaborated as: ‘lack of imagination’ and/or ‘a reluctance to take risks’

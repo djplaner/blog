@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'distributedcognition', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For various reasons, mostly PhD related (and somewhat related to procrastination), I'm taking the time to read a bit more about situated cognition. Not sure how far it will go. The following are some ad hoc reflections and essentially a diary of what I'm reading. Not aiming for this post to fulfil any purpose beyond being a place to dump observations.
 
 ### The wikipedia page

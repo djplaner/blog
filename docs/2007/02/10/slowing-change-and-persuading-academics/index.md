@@ -4,9 +4,6 @@ date: 2007-02-10 21:01:38+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Linda Larsen has posted a [summary](http://connect.educause.edu/blog/llarsen/summary_aligning_it_innovation_with_institutional_strategic_priorities/16748) of a presentation - "Aligning IT Innovation with Institutional Strategic Priorities" by [Freeman Hrabowski](http://www.umbc.edu/AboutUMBC/president/) (his bio is somewhat impressive), the President of the University of Maryland.
 
 A major point he tries to make is summarised in these two quotes

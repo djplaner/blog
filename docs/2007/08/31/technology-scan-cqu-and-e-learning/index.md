@@ -5,9 +5,6 @@ categories: ['elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The [Division of Learning and Teaching Services](http://dtls.cqu.edu.au/) which includes [CDDU](http://cddu.cqu.edu.au/) is going through a planning process driven by a range of organisational and contextual issues.
 
 As part of that process various folk we're asked to complete aspects of an environmental scan. Being the nerd in the group I was asked to do the technology scan. The following is a brief summary.

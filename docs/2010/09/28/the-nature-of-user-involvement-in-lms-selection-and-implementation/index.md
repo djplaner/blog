@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Given what know (see the below) about the importance of people to the implementation of information systems and also to learning and teaching, how would you characterise the involvement of uses in the selection and implementation of an LMS at most universities? What impact does it have?
 
 #### The importance of people

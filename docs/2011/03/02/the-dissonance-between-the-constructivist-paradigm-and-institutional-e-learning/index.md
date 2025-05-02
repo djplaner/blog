@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post is sparked by a combination of recent personal experience and recent discussions on the interweb. As part of current studies I'm reading a lot about e-learning theories, especially constructivism, and seeing the student perspective of the reality of institutional e-learning/resource-based learning. At the same time the last couple of weeks have seen various media articles, blog posts and commentaries around e-learning. I'll point to a few of these below, but I'll probably miss a few. Most have been highlighting or commenting upon the significant difference between what is known about good learning and teaching (i.e. something along the lines of constructivist) and what is being done/what academics expect to do.
 
 It's my argument that there exists a dissonance between the philosophical underpinnings expected of good teaching and learning and the philosophical underpinnings of how universities attempt to encourage and enable good teaching and learning, especially in e-learning. In terms of e-learning, I'm going to argue that this dissonance is enhanced by the lack of flexibility inherent in the tools, policies, and procedures being used to implement it.

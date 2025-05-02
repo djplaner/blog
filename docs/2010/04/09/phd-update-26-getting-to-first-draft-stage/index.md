@@ -5,9 +5,6 @@ categories: ['phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Two weekly PhD updates in a row, will be interesting to see how long this keeps going.
 
 ### What I did last week

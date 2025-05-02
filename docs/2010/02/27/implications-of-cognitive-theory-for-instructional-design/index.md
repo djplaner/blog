@@ -66,9 +66,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary/reflection of Winn (1990), the abstract follows
 
 > This article examines some of the implications of recent developments in cognitive theory for instuctional design. It is argued that behavioral theory is inadequate to prescribe instructional strategies that teach for understanding. Examples of how instructional designers have adopted relevant aspects of cognitive theory are described. However, it is argued that such adoption is only a first step. The growing body of evidence for the indeterminism of human cognition requires even further changes in how instructional designers think and act. A number of bodies of scholarly research and opinion are cited in support of this claim. Three implications of cognitive theory for design are offered: instructional strategies need to be developed to counter the reductionism implicit in task analysis; design needs to be integrated into the implementation of instruction; designers should work from a thorough knowledge of theory not just from design procedures.

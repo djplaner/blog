@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a first draft of a section from my thesis. It will form part of the newly cut down section on Process within chapter 2 (170 pages down to 50). The following tries to say something about the design processes used for teaching within universities. It starts with a characterisation of instructional design, looks at the limitations (referring to some earlier work about teleological and ateleological processes) and seeks to describe what the literature has to say about how teaching academics actually design/plan their courses.
 
 As with previous thesis drafts, this is an early draft, I'll re-edit and improve later, but thought I'd get this out there.

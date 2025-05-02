@@ -28,9 +28,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 After a long deal due to contextual and individual (i.e. mine) limitations, the first of the two [PLEs@CQUni project's](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) research staff has arrived and started work. Welcome Jocene.
 
 An underlying principle of the PLEs@CQUni project is ["eat your own dog food"](http://en.wikipedia.org/wiki/Eat_your_own_dog_food). That is, if we're going to be preaching the Web 2.0/Social Software mantra as a good thing, we should be "living the dream" by making heavy use of social software to do what we do. This helps us become familiar with it, identify its strengths and weaknesses and be better placed to understand how (and if) it might make a difference to learning and teaching at [CQUni](http://www.cqu.edu.au/)

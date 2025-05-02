@@ -126,9 +126,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Jocene Vallack, Nathaniel Fitzgerald-Hood, The Ps Framework: Mapping the landscape for the PLEs@CQUni project, [Proceedings of ASCILITE’2008](http://www.ascilite.org.au/conferences/melbourne08/)
 
 ### Abstract

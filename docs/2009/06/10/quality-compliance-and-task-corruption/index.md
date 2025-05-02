@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Within the next year [AUQA](http://www.auqa.edu.au/) are coming to pay a visit to my institution to "check our quality". I am a major cynic when it comes to quality assurance or the various other associated buzz words. An organisational unit I joined was big on the whole quality stuff, and while it was certified it was my view that most of what it was certified to do was completely and utterly wrong for the organisation. Not to mention that it was inefficient, badly designed and we had consultants reports to tell us that (not just our own views).
 
 In my thesis literature travels I came across this quote

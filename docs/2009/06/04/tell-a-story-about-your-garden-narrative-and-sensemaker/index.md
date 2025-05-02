@@ -54,9 +54,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 There have been a [few glimmers](/blog2/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/) in this blog in my undeveloped, long stalled but slowly growing interest in the use of narrative, metaphor and myth to understand and engage in innovation around learning and teaching. Much, but not all, of this arises from the work of [Dave Snowden](http://www.cognitive-edge.com/blogs/dave/) and attending [one of his workshops](/blog2/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/).
 
 ### A chance to play with SenseMaker

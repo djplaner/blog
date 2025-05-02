@@ -122,9 +122,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [T. S. Elliot's](http://en.wikipedia.org/wiki/T._S._Eliot) poem [The Hollow Men](http://en.wikipedia.org/wiki/The_Hollow_Men) has a section that goes
 
 > Between the idea And the reality Between the motion And the act Falls the Shadow

@@ -88,9 +88,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Some more work on bim2, carrying on from [last night](/blog2/2012/03/30/bim2-status-check-and-whats-next/). Aim here is to attack some of these tasks:
 
 - Fix problem with mirroring of student feeds.

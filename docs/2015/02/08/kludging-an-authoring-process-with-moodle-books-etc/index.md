@@ -56,9 +56,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following outlines an attempt to evolve the authoring "process" I currently use with Moodle books into something a little more useful. It won't be the be all and end all of authoring process, just enough to solve the immediate problem I have. i.e. [bricolage](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset)
 
 I've essentially got this working on my end. The problem is that the Moodle book module has a few flaws in how its import function works which means I can't really use this approach. At least until the book module is fixed. I've fixed most of it on my own install of Moodle. Will have to find out how that might happen.

@@ -41,9 +41,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a previous post examining [one reason folk don't take to e-learning](/blog2/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/) I included the following quote from [a book by Carolyn Marvin](http://www.amazon.com/When-Old-Technologies-Were-Communication/dp/0195063414/ref=sr_1_1?ie=UTF8&s=books&qid=1234322975&sr=8-1)
 
 > the introduction of new media is a special historical occasion when patterns anchored in older media that have provided the stable currency for social exchange are reexamined, challenged, and defended.

@@ -142,9 +142,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and touch of reflection on Couros (2010) and is the [another step](/blog2/2012/12/12/understanding-management-students-reflective-practice-through-blogging/) in thinking about the design/implementation of a course I'm working on.
 
 ## Thoughts and to do

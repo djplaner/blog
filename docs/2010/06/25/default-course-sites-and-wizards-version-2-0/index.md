@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the second version of an [earlier post](/blog2/2010/06/07/default-course-sites-and-wizards/). As I wrote more of the chapter I felt the need to revisit and expand the idea (though the following is still at a rough draft stage). The following describes the rationale and implementation behind the implementation of the default course sites approach within Webfuse. This approach was used at [CQU](http://www.cqu.edu.au/) from 2001 through 2009. It has similarities with what Mark Smithers [calls a minimium online presence policy (MOPP)](http://www.masmithers.com/2010/05/16/the-problem-with-mopps/), though (I think) my take on the value of MOPP differs a little from Mark's. Not surprising given the following.
 
 As part of writing the [thesis](/blog2/research/phd-thesis/) I am having to abstract out what I felt was good/important/interesting about the Webfuse work. The "default course site" approach, at least in terms of the principles behind it rather than the specific implementation, is probably going to be part of that. I still have to work on this some more, hopefully in coming weeks, but I've put some early [thoughts](/blog2/2010/06/14/academics-course-websites-and-power-laws/) out there.

@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It appears that the planets have aligned to provide the opportunity to marry some of my teaching duties with the very interesting [Pre-Service Teaching Networking (#pstn) project](http://universityofawesome.org/pstn/). The [project's about](http://universityofawesome.org/pstn/about/) page gives a pretty good description and ther's more detail in a [related Google doc](https://docs.google.com/document/d/1p236nHH3Yrc9eZegHc9EYtKXj3-rPmB_I91hziEJUkE/edit?hl=en_US). There's also more in the project's outline.
 
 The project will be getting underway really soon now, the following is a belated attempt to think about the project and how I can participate.

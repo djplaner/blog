@@ -40,9 +40,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post is an example assignment 1 blog post for EDC3100.
 
 This is my [web-based artefact](https://vimeo.com/121087093).

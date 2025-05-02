@@ -27,9 +27,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 For the purposes of informing my family and keeping a record for my faulty memory I am going to blog, where possible, Sandy's and my trip to Paris for [ICIS'2008](http://www.icis2008.org/). This first installment is from the start of the travel in Struck Oil through to the QANTAS Club in Singapore Airport.
 
 The day started early. Awake in bed thinking about getting up. Zach came in about 10 past 5 and the packing started. They day went down hill from there. Getting packed and the kids in the car went okay, pretty well. Then we got to school to drop Anna off.

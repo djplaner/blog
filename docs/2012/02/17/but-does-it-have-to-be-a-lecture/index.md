@@ -94,9 +94,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This Chronicle-based blog post titled ["Four things lecture is good for"](http://chronicle.com/blognetwork/castingoutnines/2012/02/13/four-things-lecture-is-good-for/) is resonating with a lot of people. At least judging by the retweets etc.
 
 I wonder if the article really should be title "Four things that make lectures (or any teaching mode) better".

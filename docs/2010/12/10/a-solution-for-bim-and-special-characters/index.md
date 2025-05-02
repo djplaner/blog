@@ -5,9 +5,6 @@ categories: ['bim', 'bim2', 'bimerrors']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The main long term issue in the use of BIM has been student's creating blog posts that contain ["special" characters](/blog2/2010/09/05/more-problems-with-bim-and-special-characters/). This is typically done when they create their post in Word and then copy and paste it into their blog. The interaction between BIM, [SimplePie](http://simplie.org) and database engines has not been a good one. It results in blog posts either not being stored in the Moodle database or being cut off at the special character.
 
 A couple of days ago I got a report of this type of problem from a course using BIM. Previously, all of the recent problems associated with special characters have been specific to this university's version of Postgres. I couldn't re-create the problems with my test Moodle install with MySQL or Postgres. This latest report is different. It causes problems on my install using MySQL.

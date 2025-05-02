@@ -5,9 +5,6 @@ categories: ['eded20458', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 And lucky last. This is the course I haven't gotten into as much yet, hopefully that can start to change. And today's topic is "A Workplace Focus".
 
 ### Overview

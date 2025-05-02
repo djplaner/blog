@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a start of trying to capture the story of BAM and BIM. The aim is to use this as part of a case study for a [paper](/blog2/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/) for [MoodleMoot'AU 2010](http://moodlemoot.org.au/).
 
 As well as trying to re-create the story of BIM from various publications, email archives and presentations the aim of the following is also to identify the challenges faced while developing BIM. This will be the first in a sequence of posts as I attempt to re-create the history.

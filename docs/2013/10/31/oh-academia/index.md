@@ -240,9 +240,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's been one of those weeks in academia.
 
 Earlier in the week the "I quit academia" meme went through my Twitter stream. Perhaps the closest this meme came to me was @marksmithers ["On leaving academia" post](http://www.masmithers.com/2013/10/29/on-leaving-academia/).

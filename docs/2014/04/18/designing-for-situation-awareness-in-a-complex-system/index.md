@@ -55,9 +55,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary and probably some thoughts on
 
 > Endsley, M. (2001). [Designing for Situation Awareness in Complex System](http://209.238.175.8/Papers/pdf/SA%20design.pdf). In Proceedings of the Second International Workshop on the symbiosis of humans, artifacts and environment. Kyoto, Japan.

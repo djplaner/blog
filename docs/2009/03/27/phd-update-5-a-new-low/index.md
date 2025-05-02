@@ -25,9 +25,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Well this week has been the worst yet in terms of progress on the PhD, at least with the last 5 weeks of updates. Most of it has been work related. Issues and events that have taken away the time, motivation and peace of mind necessary to effectively engage with PhD work.
 
 On the upside, today's been pretty effective, perhaps the best for the weeks. Hopefully this trend can continue.

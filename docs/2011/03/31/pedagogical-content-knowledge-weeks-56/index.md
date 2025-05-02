@@ -86,9 +86,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 And now onto weeks 5/6 for the PCK course I'm studying. Within two/three weeks we'll be heading out into schools, so the content for this week is starting to become fairly central. i.e. what is the curriculum and how are you meant to plan teaching/learning around that curriculum.
 
 ### Essential learnings for secondary middle phase

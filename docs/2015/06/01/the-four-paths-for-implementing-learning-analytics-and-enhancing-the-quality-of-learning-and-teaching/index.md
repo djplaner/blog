@@ -541,9 +541,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a place holder for two presentations that are related. They are:
 
 1. "Four paths for learning analytics: Moving beyond a management fashion"; and,

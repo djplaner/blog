@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 October last year we purchased Wandilla Zanzibar - Big Z from the big Brahman sales in Rocky. He was the new bull for the small number of remnants of our might herd of cattle.
 
 [![Wandilla Zanzibar - Big Z](images/2922425745_374a226b95_m.jpg)](http://www.flickr.com/photos/david_jones/2922425745/ "Wandilla Zanzibar - Big Z by David T Jones, on Flickr")

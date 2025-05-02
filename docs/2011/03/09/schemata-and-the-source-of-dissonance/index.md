@@ -190,9 +190,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is intended to be an illustration of one of the potential origins of the [gap between learning technologists and educators](http://sthcrft.amplify.com/2011/03/03/learning-technologies-mind-the-gap/). It picks up on the idea of schemata from [this week's study in one course](/blog2/2011/03/08/week-2-pedagogical-content-knowledge/) and connects to [my point about](/blog2/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/) the dissonance between how educational technology is implemented in universities and what we know about how people learn.
 
 I'm sure folk who have been around the education discipline longer than I will have seen this already. But it is a nice little activity and not one that I'd seen previously.

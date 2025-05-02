@@ -5,9 +5,6 @@ categories: ['web-20-course-sites', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Webfuse has always been based on the premise of open content, where ever possible.
 
 On of the reasons for that is so that it can raise the profile of the organisation by our good content bringing people to CQU.

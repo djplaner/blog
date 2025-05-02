@@ -41,9 +41,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is interesting (hat tip to @timbuckteeth). [English schools](http://www.bbc.co.uk/news/education-16493929) will no longer be teaching Information and Communications Technology (ICT) study - a situation where students are bored out of their minds learning Word and Excel by bored teachers - and instead will be taught "more rigorous computer science and programming".
 
 While the fundamental idea can be seen as worthy, its implementation will be difficult to impossible. I hope they can pull it off.

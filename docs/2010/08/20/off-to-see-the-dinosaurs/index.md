@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 And now for something completely different, leaving the dinosaurs of academic development within universities behind, it's time to move on to some real dinosaurs, or at least their fossilised remains. In a few weeks, the two boys and I are off out west. In particular, we're off to "ride" the [Dinosaur trail](http://www.queenslandholidays.com.au/things-to-see-and-do/australias-dinosaur-trail/index.cfm) of Western Queensland. Both boys are going through the dinosaur phase, with the 5 year old certain he wants to be a paleontologist when he grows up.
 
 This and any following posts are really intended to outline some planning for the trip and gather feedback from my family, but feel free to add insight if you have any.

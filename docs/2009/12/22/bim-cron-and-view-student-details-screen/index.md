@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In the [last bit of BIM work](/blog2/2009/12/22/bim-creating-the-test-data-completing-dbase-design/) I'd successfully created some test data and laid out some rough plans for what is next.
 
 The aim of this post is to document the bit of work done on the show details screen up and going. The initial work on the screen was [documented here](/blog2/2009/12/20/bim-savingmanipulating-rss-files/). This post draws on the test data, adds some support functions to manipulate it and improves the screen.

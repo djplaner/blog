@@ -97,9 +97,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [This article](http://www.trainingmag.com/msg/content_display/training/e3iwtqVX4kKzJL%2BEcpyFJFrFA%3D%3D) from a Training industry magazine raises a number of issues, well known in the research literature, about the significant limitations that exist with the evaluation of university teaching.
 
 Essentially the only type of evaluation done at most universities is what the article refers to as "level 1 smile sheets". That is student evaluation forms that ask them to rank what they felt they learn, what they felt about the course and the teacher. As [Will Thalheimer](http://www.willatworklearning.com/2008/07/smile-sheets-th.html) describes

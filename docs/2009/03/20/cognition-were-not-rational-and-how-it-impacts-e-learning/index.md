@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's a small world. I work in Rockhampton at [a university](http://www.cqu.edu.au/) and last year traveled to Canberra for a [Cognitive Edge workshop](http://www.cognitive-edge.com/) (which I recommend). One of the other participants was Cory Banks who, a few years ago, was a student at the university I work at. He's obviously moved onto bigger and better things.
 
 Our joint Cognitive Edge experience indicates some similar interests, which brings me to [this post on cognition](http://corzandeffect.wordpress.com/2009/03/20/cognition/) on Cory's blog. In th epost he suggests a number of aspects of cognition that impact upon problem solving. He's asking for help in validating and sourcing these aspects.

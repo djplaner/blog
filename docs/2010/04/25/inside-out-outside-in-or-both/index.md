@@ -239,9 +239,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 During the last week I have been in Canberra for various events, including [giving a presentation](/blog2/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/) on [BIM](/blog2/research/bam-blog-aggregation-management/) at University of Canberra. Somewhat surprisingly (as last I knew, he was in New Zealand), [Leigh Blackall](http://leighblackall.blogspot.com/) was in "audience" at the presentation, and as is Leigh's wont, he asked some serious questions. I was troubled by those questions and needed time to reflect on what an answer might be.
 
 This is an attempt to develop an answer to why I was troubled. In part, this attempts to [pick up a comment](http://leighblackall.blogspot.com/2010/04/on-system-that-manages-learning.html#comment-2932560188421168672) I'd made earlier on Leigh's blog about thesis, anti-thesis and synthesis

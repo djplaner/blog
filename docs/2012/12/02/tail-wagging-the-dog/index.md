@@ -56,9 +56,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm slowly recovering from a week at conferences. First, [ASCILITE'2012 (#ascilite2012)](http://www.ascilite2012.org/home) and second the [SoLAR Southern Flare Conference (#FlareAus)](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12). I was going to spend the week before preparing, but marking and other tasks intervened. This meant I spent much of the week preparing presentations which meant a couple of late nights and limited social collaboration. Add in a couple of early flights and I'm a little tired and frustrated. This may come through in the following.
 
 Perhaps the biggest frustration this week was the audio-visual support at #ascilite2012. This is summed up nicely by the following quote from the ["Information for Presenters" page](http://www.ascilite2012.org/information-for-presenters) from the conference website

@@ -49,9 +49,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The ICTs for Learning Design course requires each student to create a blog. The blog is then a key part of the assessment, it's actually how we're meant to submit assignments. The public nature of the blogs has caused some concern, but we are now being encouraged to read and comment on our peer's blogs.
 
 With the number of students approaching 100, this is not simple. Especially given that the main method of sharing blogs is via a Moodle wiki page. Most other students have used Blogger's/Blogspot's "follow" button (Blogger is the recommended platform), but I use Wordpress and like RSS/newsreaders. So the following documents the setting up of an OPML file with all the students' blogs and a brief bit about using it.

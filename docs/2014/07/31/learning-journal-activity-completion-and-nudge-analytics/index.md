@@ -11,9 +11,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Week 2 of 2nd semester. Time to start checking how students are going and checking in with those that haven't started yet. For EDC3100, this means putting in place the various "shadow systems" that bridge what's provided by the institution and what I need in order to enact the practices I deem appropriate. What follows is a record of the ongoing evolution of [this idea](/blog2/2013/06/10/the-kludge-for-marking-learning-journals/).
 
 Extending things a bit this semester is that EDU8117 will leverage some of the same system. So it will all have to be a bit more general. Also hoping to tweak it solve some issues from last semester.

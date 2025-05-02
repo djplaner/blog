@@ -81,9 +81,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As part of [the PhD](/blog2/research/phd-thesis/) I'm developing the [P Frameworks](/blog2/2009/03/18/the-ps-framework/) as a theory for analysing/understanding the factors the impact the organisational implementation of e-learning. Essentially, [I argued that](http://www.slideshare.net/davidj/an-information-systems-design-theory-for-elearning) that the current institutional practice of e-learning within universities demonstrates an orthodoxy. Further, I argue that this orthodoxy has a number of flaws that limit, some significantly, potential outcomes.
 
 In this post, and a few following, I'm going to develop a description of what I see as the orthodoxy associated with the "Product" component of the Ps Framework, what I see as the flaws associated with that orthodoxy, and the impacts it has on the institutional impact of e-learning. The "Product" component of the Ps Framework is concerned with

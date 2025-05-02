@@ -64,9 +64,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 What is your experience of the digital technologies provided by the organisations for which you work?
 
 If you'd like to share, please complete the poll below, more detail below.

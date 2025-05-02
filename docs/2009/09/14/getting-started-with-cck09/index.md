@@ -39,9 +39,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Last year I planned to participate in CCK08 - [Connectivism and Connective Knowledge'2008](http://ltc.umanitoba.ca/connectivism/?page_id=2) - "a rather large online course" organised by George Siemens and Stephen Downes. Then various things, including a nastly little organisational restructure got in the way and I piked out.
 
 Well [CCK09](http://ltc.umanitoba.ca/connectivism/) - the 2009 version of the course - has commenced and I'm trying to make the time to engage. I'm guessing there will be similar time pressures, however, this year I think the course, its content and method connect directly with [my current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/. A position which is essentially aimed at trying to improve the quality of learning and teaching at the [host institution](http://www.cqu.edu.au/).

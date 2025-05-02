@@ -103,9 +103,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In putting the finishing touches on [this ASCILITE paper](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) I discovered that Tuesday will be the 2 year anniversary of when I first put together much of the following on attempts by universities to improve/transform the quality of e-learning through checklists and other "quality assurance" methods. Given that I still see this tendency from central L&T folk in Universities - especially those in management - and that the original checklist the sparked the following has been largely gotten rid of, I thought I'd share this.
 
 The anecdotal spark will be briefly touched upon in the ASCILITE paper, the quick summary of some literature won't be due to space constraints. But I do find it increasingly interesting/frightening/sad that these approaches are still being adopted, even with the widespread knowledge of what actually happens.

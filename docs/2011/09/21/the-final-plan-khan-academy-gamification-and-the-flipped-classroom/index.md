@@ -62,9 +62,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Just over a month ago I [started planning](/blog2/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/) a Unit of Work (UoW) for Year 10 Core Mathematics. i.e. the rationale and design of about 8 or so weeks of lessons for such a class. The following gives a description of the final unit of work.
 
 In the end, the UoW makes little use of gamification. There is a plan to use progress bar to track group progress, but not in the sense of badges etc. The UoW does rely heavily on the assumed use of Khan Academy videos and exercises and hence uses the notion of the flipped classroom. The UoW also attempts to use a [Media Watch](http://www.abc.net.au/mediawatch/) like assumption to move toward the approach of Gustein (2003, p. 66) that showed it is possible to help “students begin to read the world with mathematics, develop mathematical power, and change their dispositions toward mathematics through the process”.

@@ -5,9 +5,6 @@ categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For the last week or so I've been attempting to bring together the principles that underpin the design theory for e-learning that will be the main contribution of my thesis. This post summarises one of the principles of form and function that is emerging from the last week or so. I using this blog post to escape the confines of PhD-ese and see if writing about it can generate some further refinement.
 
 Am aiming for brevity and clarity in the following.

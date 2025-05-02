@@ -30,9 +30,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 So, the year of study begins. First up is an attempt to engage in a MOOC (Massive Open Online Course) on [Learning and Knowledge Analytics](http://learninganalytics.net/). This first post aims to contain some reflection on the [course syllabus](http://learninganalytics.net/syllabus.html) and what I hope to get out of the course.
 
 ### The problem and the promise

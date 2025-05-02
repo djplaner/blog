@@ -5,9 +5,6 @@ categories: ['chapter-5', 'elearning', 'phd', 'thesis', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Back working on the thesis. The following is a rough draft of the introduction and part of the first section from Chapter 5 of the thesis. This chapter is starting to tell the story of Webfuse from 2000 to 2004 and beyond.
 
 As I'm reading and writing, I'm remembering all sorts of details, which has led to a change in the title of the chapter. "Focusing on better integration" isn't about technical integration, it's about integrating "e-learning" into the everyday practice of academics. This is where I think Webfuse was a success.

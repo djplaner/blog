@@ -40,9 +40,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A growing interest of mine is an investigation of how the design of the environment and information systems to support university learning and teaching can be improved with a greater consideration given to factors which can help encourage improvement and change. i.e. not just building systems that do a task (e.g. manage a discussion forum) but design a discussion forum that encourages and enables an academic to adopt strategies and tactics that are known to be good. If they choose to.
 
 One aspect of the thinking around this is the idea of behaviour modification. The assumption is that to some extent improving the teaching of academics is about changing their behaviour. The following is a summary of a paper (Nawyn et al, 2006) [available here](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.73.3559).

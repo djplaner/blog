@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Time to continue the implementation of support services for manage marking started in [the last post](/blog2/2011/02/17/bim2-manage-marking-support-services/). Services left to be implemented are
 
 - Releasing marked posts.

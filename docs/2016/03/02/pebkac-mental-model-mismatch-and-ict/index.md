@@ -210,9 +210,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Semester has commenced. First lecture yesterday. Big plans to use [Zoom](https://zoom.us/) to "broadcast" the lecture to online students and to make a recording that could be shared with those who didn't want to/couldn't listen to my dulcet, droning tones at 8am on a Tuesday morning.
 
 Zoom performed as expected. Easy to set up and get working. As expected a small issue with participants not following the advice to mute their microphones. Hence my dulcet, droning tones and the nodding off of the face-to-face audience were occasionally interrupted by the sounds of the domestic life of the online audience. Thankfully Zoom has the capability for the host of the session to mute mics of participants.

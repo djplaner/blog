@@ -5,9 +5,6 @@ categories: ['eded20491', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Another task for the ICTs for Learning Design course. This one is described as
 
 > Create a framework using both in combination that you believe will support excellent eLearning design. It is useful to consider Learning Engagement Theory as setting the valued learning context for your learners. And to consider Bloom's Taxonomy as ensuring that you move your students though a learning design that will support every phase, from knowledge and comprehension to evaluation and synthesis.

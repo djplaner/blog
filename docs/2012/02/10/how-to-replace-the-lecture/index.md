@@ -364,9 +364,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Almost 16 years ago I gave my first presentation at an academic conference. It was AusWeb'96 and I was talking to a paper titled ["Solving some problems of university education: A case study"](/blog2/publications/solving-some-problems-of-university-education-a-case-study/). I started out my presentation with "Lectures suck!".
 
 [![Some additional encouragement to study](images/3088525939_eff7642583_m.jpg)](http://www.flickr.com/photos/david_jones/3088525939/ "Some additional encouragement to study by David T Jones, on Flickr") I proceeded to explain why I thought that, especially in my context of a course with 26 students on-campus and 62 off-campus. Including Allen in Cyprus (see the photo).

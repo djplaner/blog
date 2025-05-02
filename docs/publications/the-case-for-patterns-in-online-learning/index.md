@@ -115,9 +115,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Sharonn Stewart, The case for patterns in online learning, Proceedings of Webnet’99 Conference, De Bar, P. & Legget, J. (eds), Association for the Advancement of Computing in Education, Honolulu, Hawaii, Oct 24-30, pp 592-597
 
 ## Abstract

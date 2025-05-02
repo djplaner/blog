@@ -5,9 +5,6 @@ categories: ['ascilite']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Live blogging workshop from [Prof Judy Kay](http://sydney.edu.au/engineering/it/~judy/). A computer scientist from the user modeling, AIED background, pervasive computing. A focus on personalisation. Putting people in control - personal data.
 
 Interest in [open learner models](http://sydney.edu.au/engineering/it/~judy/Homec/Pubs/2012_Metacog_Bull.pdf).

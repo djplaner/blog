@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The model inherent in most university based elearning and in most LMS/CMS/VLEs relies on course offering based websites that contain content produced primarily by the academic. This is the standard model used by the majority of academics in designing their teaching. Academics can spend upwards of 90% of their planning and development creating information (Oliver 1999) as the primary focus of learning.
 
 Bear Stearns, a US-based consulting firm, have a [presentation](http://www.bearstearns.com/bscportal/research/analysts/wang/112706/index.htm) around the impact of the Long Tail on the entertainment industry. The summary is

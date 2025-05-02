@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is an attempt to summarise an attempt to understanding [EduFeedr](http://www.edufeedr.net/) a bit more. Especially to compare and contrast it with [BIM](/blog2/research/bam-blog-aggregation-management/). I'm particularly interested in seeing what lessons can be learned from EduFeedr, not to mention what code and ideas can be borrowed.
 
 ### What

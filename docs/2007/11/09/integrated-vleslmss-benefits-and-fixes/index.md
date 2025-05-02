@@ -5,9 +5,6 @@ categories: ['ple', 'web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Niall Sclater is the Director of the Open University's (UK) VLE (UK acronym for LMS) Programme which is implementing Moodle ([some FAQs](http://conclave.open.ac.uk/ouvlefaq/)). Over the last few days he has made a couple of interesting posts:
 
 - [Reinventing the wheel?](http://sclater.com/blog/?p=38); and

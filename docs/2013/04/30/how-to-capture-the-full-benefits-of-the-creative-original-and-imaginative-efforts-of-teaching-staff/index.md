@@ -226,9 +226,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 What's good for research, must surely be good for teaching?
 
 An [article](http://www.theaustralian.com.au/higher-education/innovation-needs-creativity-not-control-go8/story-e6frgcjx-1226631616447) on the Australian's higher education page quotes the following advice from [this policy note](http://www.go8.edu.au/__documents/go8-policy-analysis/2013/go8policynote7_investresearchfunding_final.pdf) from the Group of 8 (an obviously non-self-serving document, of course)

@@ -5,9 +5,6 @@ categories: ['bam']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It's almost the end of term. We've started marking the blogs using BAM and not surprisingly some rough edges are showing. Things to look at
 
 - Merging feeds Currently BAM simply copies over the local mirror of the feed with the new one. This causes problems because Wordpress, and likely other providers, only provide a feed with the last 10 posts. The solution would be to merge the new feeds with the local mirrored copy. XML::Feed, the Perl module used in BAM, offers the splice method to do this. So should be easy.

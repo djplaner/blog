@@ -6,9 +6,6 @@ tags: ['isdt']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary of and reflection upon
 
 > Juhani Iivari, (2007), A Paradigmatic Analysis of Information Systems As a Design Science, Scandinavian Journal of Information Systems, 19(2):39-64

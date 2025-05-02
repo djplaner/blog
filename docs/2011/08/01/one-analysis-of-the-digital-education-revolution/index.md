@@ -36,9 +36,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The presentation slides below are the basis for a talk I'll be giving this Thursday as part of my study toward a Graduate Diploma in Learning and Teaching. The aim is to analyse the [Digital Education Revolution (DER)](http://www.digitaleducationrevolution.gov.au/) and identify any shortcomings and strengths (hint: I found it heavy on the former and light on the latter). The talk is being done in Elluminate to other students. Don't know the connection details, but if you wanted to participate I could chase that up. Let me know.
 
 In summary, my conclusion (which is not likely to be all that novel) is that the DER is pleasing in that it represents a fairly significant engagement (in terms of money) by the Federal Government with the question of teaching, learning, schooling and technology. The trouble is, however, that because of various flaws I think it unlikely that the DER will achieve its goal. At best it will remove some of the first order barriers - mostly student access to computers - for the next few years. Though even that will be somewhat limited - depending on how schools implement 1:1 - and is likely to cease in the near future when the DER funding ceases and other factors (tightening budget constrains, potential change of government, likely limited outcomes from the DER) play out.

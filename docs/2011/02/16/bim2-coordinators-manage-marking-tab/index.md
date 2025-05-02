@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The next step in bim2 development is implementation of the manage marking tab.
 
 ### What is it?

@@ -624,9 +624,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### Update: It's not just eportfolios
 
 16 September, 2012 - for some reason today has seen a fair bit of interest in this post from over 3 years ago. I though I'd take the opportunity to move this particular argument up a level.

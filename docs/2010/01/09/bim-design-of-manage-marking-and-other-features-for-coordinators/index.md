@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [BAM/BIM](/blog2/research/bam-blog-aggregation-management/) has initially been designed for use at [CQU](http://www.cqu.edu.au/). In that time it has been used in 29 course offerings with 13 of those averaging around 200 students per offering. i.e. BAM/BIM is originally designed for large offerings and hence needs to provide support for the teaching staff in charge of those large offerings.
 
 I'm currently implementing the "coordinator" (at CQU the "coordinator" is the academic in charge of the course) interface for BIM (initial [work here](/blog2/2010/01/09/bim-getting-navigation-bread-crumbs-and-tabs-working/)). The purpose of this post is to generate feedback from current and past coordinators about what features might be useful.

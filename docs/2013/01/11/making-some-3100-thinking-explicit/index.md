@@ -164,9 +164,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In around two months a couple of hundred pre-service teachers will be wanting/required to start engaging with the course EDC3100, ICTs and Pedagogy. For the last 3 or 4 months I've been [reading a bit](/blog2/2012/12/14/4668/) and generally mulling over what I'll do and how far to go. Back in July I started off [with this initial post](/blog2/2012/07/20/starting-the-re-design-of-edc3100/). It's now (past) time to make some of this explicit, make some design decisions and implement it. This is the start. Littered through the following will be questions and reminders to myself for further consideration.
 
 If you have thoughts and criticisms, now would be a good time to contribute. Any and all feedback is very much appreciated. Littered through the following are **Questions** I've left myself. Feel free to make suggestions.

@@ -163,9 +163,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [#pstn project](http://universityofawesome.org/pstn/) (#pstn - Pre-service Teacher Networking) is probably the most interesting project I've currently involved with (and one of many being starved of time as I get my head around a new institution). The project has a great team and is seeking to address a real problem - improving the transition of pre-service teachers into the profession and consequently retaining more of them - with an approach (social media, bottom up, emergent, connections, authentic practice etc.) that resonates strongly with my beliefs.
 
 Now that I'm at the end of the 2nd week of teaching, I have a slightly better feel for the students I'm teaching and the students who I think can benefit most from #pstn. That growing familiarity is suggesting some challenges for #pstn. The following shares these challenges and some thinking about them. Of course, this is all based on my own ad hoc experience and filtered through my own prejudices.

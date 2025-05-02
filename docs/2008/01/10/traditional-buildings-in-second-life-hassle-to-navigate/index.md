@@ -125,9 +125,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Starting to move around a bit more in Second Life and it hasn't taken long to hate walls. Traditional buildings with a roof, walls, corridors and small doorways seem to be designed to make navigation a hassle.
 
 The following is an example of a navigation experience this morning where as I walk around inside a building, then turnaround I am (or at least the perspective I have from behind my avatar is) suddenly flung out of the building. Somewhat disconcerting.

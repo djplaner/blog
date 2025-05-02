@@ -59,9 +59,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The question of the value of lurking is a common one for learning and teaching. Is it okay for students to simply sit quietly and listen, especially in an online forum? Should we "force" them to participate?
 
 I'm currently reading Saba (2000) as a ploy to generate more insight into "what is research". Saba (2000) has a section titled "Theory-based research", which summarises some of the research done in distance education. The first cab off the rank is Fulford and Zhang (1993) and this research seems to suggest one answer to the question of lurking.

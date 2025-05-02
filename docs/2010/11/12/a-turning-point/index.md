@@ -228,9 +228,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I am unsure whether or not I believe in specific turning points. Perhaps life is a bit more complex. The metaphor of life as a road with specific forks which mark the turning points, seems a bit simplistic. But today does feel like a turning point due to two events:
 
 1. reaching closure on the PhD; and  

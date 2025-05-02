@@ -5,9 +5,6 @@ categories: ['edc3100']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 For some time Australian universities have led an increasing mantra around increasing flexibility. An inevitable repercussion of the vast majority of students not being full-time learners, but instead having to balance family, work and study, is that study comes last. Family and work pressures lead to difficulty in meeting set deadlines for assessment, hence the call for flexibility. I'm actually all for that increase in flexibility, but it comes at a cost.
 
 This post is evidence of that cost. We've just started week 6 of second semester and I've got three assignments from last semester to mark due to the need for flexibility. As it happens with this course I've engaged in a [bit of development](/blog2/2014/07/31/learning-journal-activity-completion-and-nudge-analytics/) to do things a little differently. That's all well and good, but when you're kludging together technical solutions flexibility isn't typically deeply considered at the "design" stage.

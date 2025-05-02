@@ -58,9 +58,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following resources are for a [presentation](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/paper/view/439) given at the [Southern Solar Flare](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/schedConf/overview) on the 30th November, 2012.
 
 The premise of the talk is that learning analytics shows all the hallmarks of a management fashion, fad, or bandwagon and to avoid this we need to talk more realistically about its implementation. The talk identifies three paths that Universities might use to implement learning analytics and identifies pitfalls for each of these paths. The argument is that there are one or two dominant paths and a forgotten path. It's the forgotten path that my co-author and I are most interested in. It's the path which we think will allow learning analytics to have the most impact upon learning and teaching.

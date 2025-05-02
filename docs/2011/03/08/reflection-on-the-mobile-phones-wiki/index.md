@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 During week two for the ICTs for Learning Design course we are required to post a reflective blog post on the "Mobile phones wiki" exercise. This is mine.
 
 ### About the task

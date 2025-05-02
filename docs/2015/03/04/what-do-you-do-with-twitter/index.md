@@ -37,9 +37,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I was sitting in the first tutorial for EDC3100, ICT and Pedagogy yesterday when I overheard a student ask another, "What do you do with Twitter?". There are many answers to this, this is what I did with Twitter this morning.
 
 ### Learn - seek and sense

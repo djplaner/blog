@@ -69,9 +69,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 [![PEBKAC by Rafa Esteve, on Flickr](https://farm8.static.flickr.com/7326/13928696037_37aa61542a.jpg "PEBKAC by Rafa Esteve, on Flickr")](https://www.flickr.com/photos/morosbruts/13928696037/)  
 "[PEBKAC](https://www.flickr.com/photos/morosbruts/13928696037/)" ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)) by [Rafa Esteve](https://www.flickr.com/people/morosbruts/)
 

@@ -4,9 +4,6 @@ date: 2007-04-09 20:27:05+10:00
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [D'arcy Norman](http://www.darcynorman.net/about) (yes, I did borrow the look of my blog from his, though I use my own photos which aren't quite as accomplished as his) has a [post](http://www.darcynorman.net/2007/04/08/intj) about the results of an [online survey](http://www.blogthings.com/whatsyourpersonalitytypequiz/) which apparently evaluates your temperament type. My results...
 
 | **You Are An INTP** |

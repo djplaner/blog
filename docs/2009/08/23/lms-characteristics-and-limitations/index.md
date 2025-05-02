@@ -64,9 +64,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This post follows on from [previous posts](/blog2/2009/08/21/what-is-an-lms/) and contributes the next bit of the Product component of [my thesis](/blog2/research/phd-thesis/).
 
 Having given an overview of what an learning management system (LMS) is in the last post, this post looks at some of the characteristics and limitations of the LMS model. It's not complete, but it's a start.

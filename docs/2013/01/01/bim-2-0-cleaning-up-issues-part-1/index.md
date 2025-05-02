@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 While [BIM 2.0](/blog2/research/bam-blog-aggregation-management/) is largely working there remains a [list of 30 open issues](https://github.com/djplaner/BIM/issues) to be addressed. 19 of these are "future" issues. i.e. changes that would be really nice but aren't necessary for the immediate release of BIM 2.0. The following is the first part of working on the 11 that are of immediate interest.
 
 Of initial interest will be

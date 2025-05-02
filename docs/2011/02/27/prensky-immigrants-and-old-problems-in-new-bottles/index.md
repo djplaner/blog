@@ -42,9 +42,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Okay, so blog post #2 arising from week 1 of an ICTs for Learning Design course I'm doing. This post is intended to address the question of 21st century learners. In part this connects back to a sentence from the start of this weeks study guide with which I had problems. That sentence was
 
 > Today's students are fundamentally different from the learners of 40 years ago.

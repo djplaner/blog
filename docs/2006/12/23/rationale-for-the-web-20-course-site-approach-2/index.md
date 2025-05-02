@@ -5,9 +5,6 @@ categories: ['elearning', 'web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Pittard (2004) talks about the UK government's plans for e-learning (my bad description). It includes the following
 
 > It prioritises seven strategic action areas that are necessary to embed elearning effectively across all sectors:

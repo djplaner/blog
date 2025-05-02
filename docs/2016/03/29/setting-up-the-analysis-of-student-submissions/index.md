@@ -49,9 +49,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 A couple of weeks ago I wrote [this post](/blog2/2016/03/10/setting-up-an-excel-checklist/) outlining the design of an Excel spreadsheet EDC3100 students were asked to use for their first assignment. They'll be using it to evaluate an ICT-based lesson plan. The assignment is due Tuesday and ~140 have submitted so far. It's time to develop the code that's going to help me analyse the student submissions.
 
 ## Aim

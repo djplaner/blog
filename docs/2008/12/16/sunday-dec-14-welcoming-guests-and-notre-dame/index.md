@@ -6,9 +6,6 @@ tags: ['paris']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Today we were due to receive visitors who were going to stay with us for the next few days. My PhD supervisor (and fellow [ICIS'2008 attendee](http://www.icis2008.org/)) and her husband were due to arrive around 10:30. So Sandy and I spent a lazy morning inside reading and waiting for them to arrive. Of course, we hadn't provided all the necessary instructions and had them waiting on the sidewalk for a bit before getting inside.
 
 [![Inside Notre Dame de Paris](images/3112522763_9f316077ec_m.jpg)](http://www.flickr.com/photos/david_jones/3112522763/ "Inside Notre Dame de Paris by David T Jones, on Flickr")

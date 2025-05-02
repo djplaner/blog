@@ -5,9 +5,6 @@ categories: ['indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [The last post](http://djon.es/blog/2017/03/12/playing-with-python-and-jupyter-notebooks-for-analytics/) documented early explorations of Jupyter notebooks ending with a simple query of a Moodle database. This post takes the first baby steps toward some sort of indicators platform using Jupyter notebooks, Python and github. The focus here is to find some form of ORM or other form of database independent layer.
 
 **Problem:** the code from the last post was specific to Postgresql. If you're Moodle database is based on another database that code won't work. The aim here is to enable some level of sharing of code/analysis/indicators. This means needed a way to keep the code independent of database specifics. This is where [object relational mappers (ORMS)](https://www.fullstackpython.com/object-relational-mappers-orms.html) enter the picture. See [this](http://danielweitzenfeld.github.io/passtheroc/blog/2014/10/12/datasci-sqlalchemy/) for an argument why this is a good idea.

@@ -7,9 +7,6 @@ coverImage: Collections-2.png
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Finally, a reasonable version of Canvas Collections and associated support materials is ready to announce. Following will eventually form the content of a blog post posted to [the Canvas community space](https://community.canvaslms.com/t5/Canvas/ct-p/canvas).
 
 ## Introduction

@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This summarises some [continued investigation](/blog2/2010/03/09/outcomes-and-moodle/) of Moodle support for outcomes as part of preparing for the [curriculum mapping project](/blog2/research/curriculum-mapping/).
 
 Current summary of what I think I've learned is that Moodle 2.0 will have significant support for progress tracking, which involves connecting student progress with outcomes etc. This draws on very similar "infrastructure" as would be required by curriculum mapping. Curriculum mapping, however, requires different "reporting" mechanisms. It appears a fruitful marriage may be possible. Need to learn more.

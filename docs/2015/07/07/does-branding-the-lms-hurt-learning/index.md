@@ -75,9 +75,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The LMS used by my institution is Moodle, but the institution has "branded" it as "Study Desk". Meaning students and teachers talk about finding X on the "Study Desk". They don't talk about finding X on Moodle. The following suggests that this branding of the LMS may actually hurt learning.
 
 _Update:_ Via twitter @georgekroner mentioned [his post](http://edutechnica.com/2013/11/01/naming-your-lms/) that has some stats on what institutions are branding their LMS.

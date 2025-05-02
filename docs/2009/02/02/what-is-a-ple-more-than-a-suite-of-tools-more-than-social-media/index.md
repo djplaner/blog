@@ -89,9 +89,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [Jocene](http://jocene.edublogs.org/) and I are having a bit of a [chat about PLEs](/blog2/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/) and she raises a number of questions or perspectives in her last comment in that discussion that are worth of thought. So, I'm starting a new blog post here, rather than making a comment (the inequity in power and ease of use between the editing tools/interface used to create a post and those used to make a comment - very limited - make an interesting comment about the assumptions and affordances of a blog).
 
 The issues raised by Jocene I want to consider include:

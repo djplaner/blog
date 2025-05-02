@@ -5,9 +5,6 @@ categories: ['paperideas']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Christian Dalsgaard in a [2006 paper](http://www.eurodl.org/materials/contrib/2006/Christian_Dalsgaard.htm) suggests
 
 > Social software has initiated discussions about the extent to which tools should be separated or integrated in systems (see Levine 2004; Blackall 2005; Cormier 2005; Wilson 2005; Siemens 2005; Anderson 2006a; 2006b). However, the discussion will find no answer, unless it is placed within a context of pedagogy. Use and organization of tools within e-learning can be approached in different ways depending on the chosen pedagogy ([Dalsgaard, 2005](http://eleed.campussource.de/archive/1/78/)). Different pedagogies will have different things to say about the problem of integration vs. separation. **A discussion of the educational value of different tools must use a pedagogy as a starting point.**

@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post continues on from [the manage marking](/blog2/2010/01/17/bim-manage-marking/) work and describes the design/implementation of the view and release operations of manage marking. There are strong similarities in what both operations do and how they do it, so doing them in one.
 
 Both view and release take a collection of values and subsequently query/update the bim tables.

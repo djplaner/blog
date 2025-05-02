@@ -5,9 +5,6 @@ categories: ['eei']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Playing with [h5p](http://h5p.org/).
 
 \[h5p id="2"\]

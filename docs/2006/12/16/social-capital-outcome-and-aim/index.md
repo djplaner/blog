@@ -5,9 +5,6 @@ categories: ['elearning', 'herding-cats', 'webfuse']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following comes from 'Lessons for Education: Creating a Learning System' (Hargreaves, 2000). It talks about social capital and the role it might play in innovations in higher education.
 
 In particular, I believe it has connections with the work on Webfuse and my thesis/ISDT (Jones and Gregor, 2006). Evidence for this is the following quote from a [CQU](http://www.cqu.edu.au/) staff member.

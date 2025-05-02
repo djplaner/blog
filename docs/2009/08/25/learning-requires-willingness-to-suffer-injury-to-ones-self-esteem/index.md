@@ -86,9 +86,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over recent weeks I have ignored Twitter, it was consuming too much time and I have to focus on writing the PhD. There is a cost involved to doing this, you miss out on some good insights.
 
 > _Aside:_ The quality of the insights you gather from twitter are directly correlated with the quality of the people you follow. Listening to [this podcast](http://www.educause.edu/blog/gbayne/PodcastSocialMediaintheClassro/177590) yesterday I heard the following description of the difference between Facebook and Twitter. Facebook is for the people you already know, Twitter is for those you don't.

@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As per [the last post](/blog2/2011/02/16/bim2-coordinators-manage-marking-tab/) time to complete some support services for manage marking.
 
 - Releasing marked posts.

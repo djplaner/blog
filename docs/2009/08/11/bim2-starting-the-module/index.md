@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As outlined in the [last BIM post](/blog2/2009/08/11/bim-1-working-on-the-prototype/) the aim here is to take the "template" NEWMODULE and start creating a BIM module. Initially, this will contain hard-coded HTML or perhaps some initial non-functioning forms, we might progress onto some canned examples and finally to the real thing.
 
 ### The NEWMODULE template

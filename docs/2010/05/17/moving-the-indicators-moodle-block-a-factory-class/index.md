@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following reports on some work on the [indicators block](/blog2/2010/05/13/getting-started-with-cols-indicators-block/) to move it towards using some object-orientation and the [factory design pattern](http://en.wikipedia.org/wiki/Factory_method_pattern).
 
 ### Why?

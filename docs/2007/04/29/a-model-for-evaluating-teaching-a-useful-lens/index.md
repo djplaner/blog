@@ -61,9 +61,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As part of [CQU's](http://www.cqu.edu.au/) moves around improving its evaluation of good teaching I was sent a paper by [Keith Trigwell](http://www.itl.usyd.edu.au/aboutus/keithtrigwell.htm) (2001), "Judging university teaching".
 
 From that paper comes the following "model of teaching (or a framework for judging teaching)"

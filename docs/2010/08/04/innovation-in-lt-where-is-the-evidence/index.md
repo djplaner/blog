@@ -6,9 +6,6 @@ tags: ['educause', 'evidence', 'impact', 'seeking', 'seeking-evidence']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The dissonance between the lived experience of academics and students having to deal with institutional innovations in learning and teaching, and the outcomes reported by institutional evaluations of those innovations is a growing concern for me. As top-down management gets involved in these innovations, in directing what they are and how they should be done, it doesn't seem that the accompanying gathering of evidence and critical reflection is coming along with it.  
   
 Too often the folk evaluating innovations (or at least paying for them), are the folk who decided what the innovation should be or were responsible for implementing it. This strikes me as having significant potential for bias, including unintentional bias.  

@@ -2,9 +2,6 @@
 title: Pages
 type: pages
 ---
-
-See also: [[blog-home | Home]], [[pages]], [[posts]]
-
 - [current-research-projects](current-research-projects/index.md)
 - [the-moodle-open-book-module-project](the-moodle-open-book-module-project/index.md)
 - [student-feedback-anonymity-observable-change-and-course-barometers](student-feedback-anonymity-observable-change-and-course-barometers/index.md)

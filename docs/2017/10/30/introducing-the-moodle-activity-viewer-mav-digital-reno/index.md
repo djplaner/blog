@@ -5,9 +5,6 @@ categories: ['4paths', 'casa', 'distributedcognition', 'e-learning', 'learningan
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 What follows are the resources associated with a workshop being run at the University of Southern Queensland. As the title suggests, the aim is to get USQ folk started using [the Moodle Activity Viewer](https://damos.world/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/) to explore usage of Moodle activities and resources, and to briefly introduce the idea of digital renovation.
 
 Apart from the presentation slides and references below, other related resources include:

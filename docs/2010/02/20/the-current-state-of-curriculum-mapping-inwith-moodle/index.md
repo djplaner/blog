@@ -5,9 +5,6 @@ categories: ['curriculummapping-cddu']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As part of looking into a [project](/blog2/research/curriculum-mapping/) around curriculum mapping I need to take a look at the current state of play around curriculum mapping in the Moodle community. This is a summary of what I can find at the moment.
 
 Moodle is used in both schools and universities. My impression is that schools have a longer history and broader use of curriculum mapping, however, mapping in universities is hotting up.

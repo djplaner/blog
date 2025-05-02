@@ -55,9 +55,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Following up on a broader [research idea](/blog2/2012/02/26/defining-the-digital-age-and-its-influence-on-work-integrated-learning/) the following paragraph summarises a nascent, more specific idea a colleague and I are stumbling toward. It fits within the broader agenda.
 
 Suggestions, volunteers, pointers and criticisms welcome.

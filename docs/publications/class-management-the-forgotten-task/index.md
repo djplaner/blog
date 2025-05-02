@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Colin McCormack, Class Management: The Forgotten Task, Hope Greenberg, Rik Hall (editors), Shortening the Distance to Education, Proceedings of the Third International North American Web Conference, Fredicton, Canada, pp 109-125.
 
 ## Abstract

@@ -932,9 +932,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 David Jones, Sandy Behrens, Kieren Jamieson, Elizabeth Tansley
 
 ## Abstract

@@ -39,9 +39,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For some time I have thought that one of the major barriers to improving/innovation in learning and teaching has been the consistency of practice and mindset held by discipline based groups. Now I've got some suggestion of a research basis for this view. This post attempts to explain my view, outline the research basis and draw implications for the practice of learning and teaching at Universities.
 
 ### The problems with discipline-based groups

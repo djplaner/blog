@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following contains the next section from chapter 2 of my [thesis](/blog2/research/phd-thesis/) and the section on Processes. It follows on from the [section on institutional learning and teaching strategies](/blog2/2009/06/11/institutional-learning-and-teaching-strategies/) and seeks to talk a bit about institutional strategies for e-learning.
 
 As with other posts of this type, this is a version 1 draft. It will have some/many rough edges.

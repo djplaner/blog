@@ -97,9 +97,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a bit of reflection and curation of various posts from participants in the [netgl course](https://netgl.wordpress.com/). There'll be a few of these coming. The aim for this post is to suggest that there might be more to the "networked" part of Networked and Global Learning than just the Internet and social media. This is an important point to make because the interventions design by the folk from last year's offering of the course were a little too limited in their focus on the Internet and various forms of social media.
 
 At some level, the argument here is similar to the one [from this post titled "Why everything is a network"](https://networkscience.wordpress.com/2011/11/21/why-everything-is-a-network/) i.e. not that everything is a network, or that a network is the only metaphor by which to understand a whole range of situations. It is to suggest, however, that a network is a useful model/metaphor through which to understand and guide interventions in a range of situations.

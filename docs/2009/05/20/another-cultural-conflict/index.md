@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 't
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The main point of this post is to save this quote. I'm about to delete it from the thesis, can't make it fit, and I think it is important.
 
 > (Zellweger 2005) the tasks assigned to each group bear a number of inherent conflicts. For example, the push of instructional designers for creative and flexible solutions matching a faculty member’s goals might impose a threat for well-rehearsed IT processes. The deviation of standard solutions implicates a certain risk that IT workers would rather avoid as they most of all feel responsible for the stability and security of the IT systems.

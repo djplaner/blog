@@ -102,9 +102,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Work on the [PhD thesis](/blog2/research/phd-thesis/) is currently [going slow](/blog2/2009/05/08/phd-update-10-dragging-on/). There are many reasons for this, one of them is I keep following interesting streams of literature beyond the needs of the thesis. I can rationalise that most of these extra-thesis streams do connect with the work [I may be doing into the future](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/, though that doesn't necessarily help feel good about the thesis. (_aside:_ I continue to be amazed by the folk who haven't learnt that the one question you **do not** ask someone in my position is, "How's the thesis going?").
 
 Over the last month or so I've been focusing on historical perspectives around technology-mediated learning and the nature of organisations. This has become really depressing as it illustrates just how prone to reinventing the wheel we are in organisational practice - even in universities. This post talks about one of those streams of literature that strikes really close to home in terms of universities, e-learning, the limitations of current practice, and how we don't learn from the past.

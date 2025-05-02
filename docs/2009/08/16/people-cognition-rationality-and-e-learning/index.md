@@ -67,9 +67,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the second to last section for the People component of chapter 2 of [my thesis](/blog2/research/phd-thesis/). The basic aim of this section is to establish that people are generally not rational and methods that assume that they are, are destined to fail. It's my proposition that most of the organisational approaches to e-learning and, more generally, learning and teaching at universities suffer this flaw.
 
 I'm not the first to make this observation and I almost certainly haven't expressed it as well as it can be in the following. Again, I'm satisficing for the purposes of completing the thesis. There's a thesis in this topic alone.

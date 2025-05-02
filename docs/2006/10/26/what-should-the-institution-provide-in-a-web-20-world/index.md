@@ -5,9 +5,6 @@ categories: ['web-20-course-sites']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Clarence Fisher has an interesting [experiential post](http://remoteaccess.typepad.com/remote_access/2006/10/small_pieces_ve.html) about the difficulties that start to arise when using a lot of cool, new "Web 2.0" apps in a teaching/learning context. Free(ish) services he lists are blogs, wikis, podcasts/vlogs, superglu, flickr etc.
 
 But it's not all free.

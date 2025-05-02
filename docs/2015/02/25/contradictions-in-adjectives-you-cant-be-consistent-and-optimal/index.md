@@ -132,9 +132,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 One current challenge is attempting to engage productively with institutional strategic/operational planning. The big challenge in doing so is balancing the perceived importance of institutional level concerns (governance etc) with those of an individual teacher.
 
 As part of this challenge I was reading a document summarising the aims of a rather large institutional project in ICT around learning and teaching. Yesterday I tweeted part of the strategies from that project (it starts with "Ensure the development of"

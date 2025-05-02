@@ -6,9 +6,6 @@ tags: ['cddu-web3dx-secondlife-learningspaces']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 CQU has recently invested in an [island](http://cq-pan.cqu.edu.au/david-jones/blog/?p=157) in Second Life for the purposes of [finding out how it might be used within learning and teaching](http://cddu.cqu.edu.au/index.php/Web3D_Exchange_Project). One of the problems we have to face is how and what spaces do we build on the island.
 
 In this post I wonder if there are some lessons to be learned from the work that is being done to develop [next generation learning spaces](http://www.educause.edu/LearningSpaces) in the real world. In particular, I'm going to rely on a slide or two from a presentation given by [Dr Phillip Long](http://web.mit.edu/longpd/www/longpd.htm) at a symposium at [UQ](http://www.uq.edu.au/) last year.

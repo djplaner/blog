@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A few weeks ago, inspired by [@sthcrft](http://twitter.com/#!/sthcrft), I [speculated around the idea](/blog2/2012/03/16/eduhacking-a-better-use-for-part-of-academic-conferences/) of having a eduhack session at [ASCILITE'2012](http://www.ascilite2012.org/home). There was some interest and I had other tasks, but now it's time to think a bit more about it.
 
 The following is :

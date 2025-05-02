@@ -211,9 +211,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a call for participation from folk interesting in writing a paper or two that will tell some real stories arising from LMS evaluations.
 
 Alternatively, if you are aware of some existing research or publications along these lines, please let me know.

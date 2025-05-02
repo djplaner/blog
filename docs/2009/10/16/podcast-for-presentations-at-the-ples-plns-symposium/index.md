@@ -5,9 +5,6 @@ categories: ['cck09', 'elearning', 'ple', 'plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following basically tells the rationale and approach used to create a [(audio) podcast](http://feeds.feedburner.com/Delicious/davidj1/pleplnpodcast) of the presentations from the [Personal Learning Environments & Personal Learning Networks Online symposium on learning-centric technology](http://ltc.umanitoba.ca/blogs/ples/).
 
 I don't know if anyone else has already done this, but just in case will share.

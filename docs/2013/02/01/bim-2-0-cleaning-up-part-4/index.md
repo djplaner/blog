@@ -5,9 +5,6 @@ categories: ['bim', 'bim2']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Another step in getting [BIM 2.0](/blog2/research/bam-blog-aggregation-management/) ready for release. Addressing the current two outstanding issues prior to exploration of submitting BIM to [Moodle CONTRIB](http://docs.moodle.org/dev/Guidelines_for_contributed_code#The_CONTRIB_Frequently_Asked_Question_.28FAQ.29) (??appropriate terminology)
 
 The two tasks are

@@ -68,9 +68,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The first key takeaway from [Motz, Teague and Shepard (2015)](http://er.educause.edu/articles/2015/3/know-thy-students-providing-aggregate-student-data-to-instructors) is
 
 > Learner-centered approaches to higher education require that instructors have insight into their students' characteristics, but instructors often prepare their courses long before they have an opportunity to meet the students.

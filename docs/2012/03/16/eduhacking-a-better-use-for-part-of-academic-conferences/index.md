@@ -123,9 +123,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In short, can we get an Eduhack style event running at ASCILITE'12? Want to help? If you want, skip to the point
 
 Possibly the most productive conference I've ever been on was the 1996 [ITiCSE Conference](http://www.cs.utexas.edu/users/csed/iticse/) in Barcelona. (It seems the conferences have evolved from "Integrating Technology into CS Education" to "Innovation and Technology in CS Education"). Apart from my first trip to Spain, the conference introduced me to something different in terms of conferences, the working groups.

@@ -82,9 +82,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Paper presented at [SITE'2016](http://site.aace.org/conf/). One of three papers awarded the Ann Thompson TPACK Paper Award.
 
 Authors: [Peter Albion](http://peter.albion.id.au/), [Amanda Heffernan](http://staffsearch.usq.edu.au/profile/Amanda-Heffernan), David Jones

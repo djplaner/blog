@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the second episode in the continuing story of BIM. This episode picks up the story late in the first half of 2006. The [initial foray](/blog2/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/) into using individual student blogs to encourage reflection and make student learning more visible was bumbling along. It was now time to think about what I'd be teaching the following term.
 
 ### Introducing COIS20025, Systems Development Overview

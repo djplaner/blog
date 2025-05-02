@@ -78,9 +78,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 After spending a few days visiting friends and family in Central Queensland - not to mention enjoying the beach - a long 7+ hour drive home provided an opportunity for some thinking. I've long had significant qualms about the notion of leadership, especially as it is increasingly being understood and defined by the current corporatisation of universities and schools. The rhetoric is increasingly strong amongst schools with the current fashion for assuming that Principals can be the saviour of schools that have broken free from the evils of bureaucracy. I even work within an institution where a leadership research group is quite active amongst the education faculty.
 
 On the whole, my experience of leadership in organisations has been negative. At the best the institution bumbles along through bad leadership. I'm wondering whether or not questioning this notion of leadership might form an interesting future research agenda. The following is an attempt to make concrete some thinking from the drive home, spark some comments, and set me up for some more (re-)reading. It's an ill-informed mind dump sparked somewhat by some early experiences on return from leave.

@@ -37,9 +37,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 Last week I attended a [presentation](http://content.cqu.edu.au/FCWViewer/view.do?page=10837) by a colleague at [CQUniveristy](http://www.cqu.edu.au) titled [The Bureaucratic Model of Adult Instructional Design](http://content.cqu.edu.au/FCWViewer/view.do?page=10837). The stated purpose of the presentation was
 
 > present and explore the Bureaucratic Model as a narrative that we must understand if we are to influence the direction of adult education.

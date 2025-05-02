@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Okay, so Moodle is installed, configured and working. The next step, I believe, will be playing a bit with Moodle development and trying to get my head around how it works, what the abstractions are and anything else I need to know in order to actually start the design and development of "Moodle BAM".
 
 So this means back to the Introduction to Moodle Programming course and picking things up from Unit 4 - configuring moodle for development.

@@ -55,9 +55,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 On Monday I'm off to a rather large meeting to talk about what data might be usefully syndicated into a integrated dashboard. The following is an attempt to think out lod about the (P)IRAC framework ([Jones, Beer and Clark, 2013](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/)) in the context of this local project. To help prepare me for the meeting, but also to ponder some recent thoughts about the framework.
 
 This is still a work in progress.

@@ -28,9 +28,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Earlier this year I posted on [Disruption and the “mythic” technologies of education](/blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/) and my views about consistency and diversity when applied to learning, especially e-learning within universities.
 
 That post was sparked by a [presentation](http://www.gardnercampbell.net/blog1/?p=734) by [Gardner Campbell](http://www.gardnercampbell.net/blog1/). Of the many things I found striking was the video of [Chris Dede](http://gseweb.harvard.edu/~dedech/) using "eating, sleeping and bonding" as a framework to understand the diversity inherent in learning.

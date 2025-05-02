@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This weekend provided a wonderful story of the power of intrinsic motivation, and a perfect example of what I think is increasingly wrong with Australian higher education, especially its use of technology.
 
 ### The story

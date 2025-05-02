@@ -5,9 +5,6 @@ categories: ['phd', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 After a week away traveling with my sons in Western Queensland, I have to get back into the thesis. This post is essentially an attempt to capture where I'm up to and plan out what I need to do for the next week or so. As with the last update, I'll start scratching these out as I complete.
 
 The outstanding work can essentially be broken into two parts:

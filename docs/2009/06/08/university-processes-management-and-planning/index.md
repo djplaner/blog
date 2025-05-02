@@ -35,9 +35,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This is the first draft of a section from [my thesis](/blog2/research/phd-thesis/). I'm currently working on the [Process](/blog2/2009/05/25/teleological-and-ateleological-processes/) component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). The section included below is the first of three sections that seeks to summarise/describe the types of processes used within universities.
 
 ### University Processes

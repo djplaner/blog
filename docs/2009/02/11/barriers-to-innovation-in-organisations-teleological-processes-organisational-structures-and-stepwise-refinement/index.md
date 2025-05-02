@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This video speaks to me on so many levels. It summarises many of the problems I have faced and encountered trying to implement innovative approaches to e-learning at universities over the last 15 plus year. I'm sure I am not alone.
 
 Today, I've spent a lot of time not directly related to what I wanted to achieve. Consequently, I had planned not to do or look at anything else until I'd finished. But this video resonates so strongly that I couldn't resist watching, downloading it and blogging it.

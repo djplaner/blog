@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I think that the quality of most university learning and teaching is somewhat less than it could be. There are some really good examples and really engaged teaching academics. However, they are in the minority. This problem is made worse when the context of a particular university is extremely complex. For example, a number of Australian public universities, in response to reductions in government funding, have developed a collection of partnerships with commercial and overseas organisations to offer their courses in various modes. Some of these universities also have traditional on-campus students as well as distance education student spread throughout the globe.
 
 My experience at one such institution suggests that the focus on improving learning and teaching is being focused on the wrong time frame. The decision makers and organisational units that support teaching and learning are don't focus on the truly long term (5/10+ years - too long) or the truly short term (every day - too short). Their focus is on a period ranging from a single term/semester (who's teaching what, what results did students get) through to about 2 or 3 years (creation of policy and implementation of big bang improvement projects). This period is seen to be just right.

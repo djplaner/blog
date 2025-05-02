@@ -5,9 +5,6 @@ categories: ['eded20488', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm in the process of reading up on the Australian Federal Government's [Digital Education Revolution](http://www.deewr.gov.au/Schooling/DigitalEducationRevolution/Pages/default.aspx). There appear to be some interesting things going on, but there are also a few things that I'm shaking my head at.
 
 For example, there is this [report](http://www.deewr.gov.au/Schooling/DigitalEducationRevolution/DigitalStrategyforTeachers/Documents/ICTMappingFinalReport.pdf) that maps ICT professional learning which includes range of recommendations, some of which are quite good. For example, Recommendation 2 sounds good

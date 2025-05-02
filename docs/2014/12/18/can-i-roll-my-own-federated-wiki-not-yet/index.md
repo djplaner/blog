@@ -6,9 +6,6 @@ tags: ['fedwikihappening']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 So I now have a federated wiki of [my own](http://david.au.fedwikihappening.net/view/welcome-visitors). Rolled by the good folk of #fedwikihappening.
 
 But it doesn't feel like it's mine. It's on someone else's server. Which sort of defeats the purpose of a federated wiki a little. Though I do recognise it makes it easier for folk to get started, which [may not be a good thing](http://cogdogblog.com/2014/12/16/over-easy/)?

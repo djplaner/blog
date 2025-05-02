@@ -5,9 +5,6 @@ categories: ['missingps']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Time to bang on again about the "product fad" that is course management systems and higher education.
 
 A couple of weeks ago I participated in a by-invitation event looking at "e-driven organisational transformation". We were asked to talk for 10 minutes about how experience/views on such transformation.

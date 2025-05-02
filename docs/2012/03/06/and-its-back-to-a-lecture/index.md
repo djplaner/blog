@@ -165,9 +165,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 For a variety of reasons I returned to giving a lecture today. Here's a quick reflection and thoughts where I might go next.
 
 ### Why?

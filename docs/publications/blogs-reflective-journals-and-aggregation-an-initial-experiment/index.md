@@ -81,9 +81,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This paper was originally written for the [Blogs for Learning](http://blogsforlearning.msu.edu/) site. Additional information about the BAM project can be [found here](/blog2/research/bam-blog-aggregation-management/).
 
 ### Abstract

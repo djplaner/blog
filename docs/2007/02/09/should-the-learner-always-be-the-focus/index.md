@@ -5,9 +5,6 @@ categories: ['addie', 'elearning', 'emd']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A discussion of [ITForum](http://it.coe.uga.edu/itforum/) provided a pointer to an [interview](http://www.digitallearning.in/interview-details.asp?interviewid=137) with [Badrul Khan](http://badrulkhan.com/khan/) (who provided the link). In it he suggests that instructional design deals with just 2 dimensions (pedagogy and evaluation) of 8 dimensions required to create learner-focussed learning material.
 
 It includes the observation that the learner must always be the focus of instructional design. I agree, but with a reservation that is linked to my new job in instructional design.

@@ -5,9 +5,6 @@ categories: ['moodleopenbook']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 The following is a summary of an initial experiment using [the OERPub editor](http://editor.oerpub.org/) with some actual content from a course I'm currently looking after. The aim is to explore what it's like to use this purpose built open textbook editor that relies on github.
 
 My current suspicion is that it will demonstrate characteristics similar to all these types of projects, i.e.

@@ -5,9 +5,6 @@ categories: ['chapter-4', 'design-theory', 'elearning', 'phd', 'thesis', 'webfus
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This post continues the description of the design and implementation of Webfuse started with [this post](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/).
 
 ### Webfuse will be an integrated online learning environment

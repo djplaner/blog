@@ -5,9 +5,6 @@ categories: ['elearning', 'futures']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 I'm in the midst of preparing some additional slides for a [presentation/experiment](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) tomorrow around alternatives for the LMS and the lecture. In part, this presentation connects with the future of universities - and perhaps learning in general - a topic that seems to have gotten increasing airplay in the last year or so. Especially in the form of pundits predicting problems with current practice. This post is in part about showing that this is not a new thing, but also about saving some nice quotes for future use.
 
 As part of the work on the slides, I was doing a quick Google on "origins of the lecture". One of the the bits I came across was a book titled [In search of the virtual class: education in an information society](http://books.google.com.au/books?id=AxYyo565XH8C) in which I found the following quotes leading off chapter 4

@@ -5,9 +5,6 @@ categories: ['thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Have to give a 5 minute summary of [an earlier presentation](http://www.slideshare.net/davidj/one-analysis-of-the-digital-education-revolution) on the Australian Government's Digital Education Revolution (DER). The following is a first draft of the summary.
 
 ### Technological change and schooling

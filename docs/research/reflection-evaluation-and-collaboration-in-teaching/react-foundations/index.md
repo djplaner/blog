@@ -4,9 +4,6 @@ date: 2008-10-27 14:03:42+10:00
 type: page
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Most institutions of higher education recognise the problem associated with the level of innovation and quality in teaching and learning and most have formulated some sort of response. Many of these responses seem limited, have little effect and often don't address the following issues. [REACT](/blog2/research/reflection-evaluation-and-collaboration-in-teaching/) is based on a foundation drawing on knowledge from a broad array of disciplines. It also has connections with a number of other activities. This page offers a description of some of these foundations and connections.
 
 REACT's foundations and connections include (but aren't limited to):

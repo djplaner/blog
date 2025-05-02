@@ -123,9 +123,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The following is the introduction to a section of Chapter 2 of my [thesis](/blog2/research/phd-thesis/). It introduces the examination of the Place component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). Hopefully, the remaining sections of the section will be posted over the coming day or so.
 
 This isn't much of a post on its own, but posting it does provide a small sense of achievement that is much needed in the frustration that has been the last week or so in trying to get this section completed.

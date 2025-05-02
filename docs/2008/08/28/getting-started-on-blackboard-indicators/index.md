@@ -22,9 +22,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The [unit](http://cddu.cqu.edu.au/) I work for is responsible for providing assistance to [CQUniversity](http://www.cqu.edu.au/) staff and students in their use of e-learning. Which currently at CQUni is mostly the use of Blackboard.
 
 The current model built into our use of Blackboard is that the academic in charge of the course (or their nominee) is responsible for the design and creation of the course site. In most instances, staff are provided with an empty course site for a new term at which stage they copy over the content from the previous offering, make some modifications and make the site available to students.

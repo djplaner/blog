@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 This update is being posted a day early due to the author being incapacitated over the next couple of days. This marks the start of a couple of shared weeks in terms of PhD effort/time. Not only does next week bring Easter, it also brings 2 days of introductory Moodle training (having designed, developed and supported LMSes for the last 13 years, I'm not sure how useful - regardless of quality - two days of basic Moodle training will be).
 
 Having less time on the PhD is a bad thing. But at least this week I'm reasonably happy with the progress, given the current context.

@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm working with a group of fellow teacher educators here at USQ to explore what is happening around student engagement with our online courses. It's driven by the apparent less than stellar responses on [the QILT site](https://www.qilt.edu.au/) from our prior students around "engagement". It's also driven by some disquiet about the limitations of aggregated and de-contextualised data like that reported on the QILT site and also that arising from most learning analytics (e.g. as found [by Gašević et. al. (2015)](/blog2/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/).
 
 Hence our idea is to do something like

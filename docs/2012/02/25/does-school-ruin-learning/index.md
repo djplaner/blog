@@ -5,9 +5,6 @@ categories: ['edc3100', 'teaching']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 As the semester starts warming up the online students are starting to post their introductions using [Popplet](http://popplet.com/) (essentially a simplified Prezi, but one which is being a little unreliable today), [Prezi](http://prezi.com/) or other tools. One of the interesting threads that run through many of these posts has been the amazement at how young children, as young as 1 or 2, quickly become proficient at using information technology. My two young suns are currently getting into [pocket edition of Minecraft](http://www.minecraftwiki.net/wiki/Pocket_Edition) on their iPads with no advice from me.
 
 I then compare this with some of what I have heard from university academics and various pundits over the last few weeks. The common refrain of "where's the professional development" (PD). If you dig a bit into the change management advice around organisations and new technology you will find the provision of training one of the critical success factors. But there is some blow back on that idea.

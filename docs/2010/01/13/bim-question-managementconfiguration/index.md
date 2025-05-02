@@ -5,9 +5,6 @@ categories: ['bim']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 A central assumption in BIM is that student contributions to their feeds are, at least in some part, intended to respond to questions or activities that have been created to encourage reflection and other good stuff. This requires that the teaching staff using BIM have a mechanism for creating and changing the questions students will respond to. This post describes the initial implementation of this screen.
 
 This will be implemented using Moodle's formslib and borrow on work already done. It should be fairly straight forward.

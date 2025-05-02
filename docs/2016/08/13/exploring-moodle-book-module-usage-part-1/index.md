@@ -136,9 +136,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm due to have the slides for a [Moodlemoot Australia presentation](/blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/) in a few weeks. Time to get organised. The following is (perhaps) the first of a sequence of posts reporting on progress toward that presentation and the related research.
 
 ## Background

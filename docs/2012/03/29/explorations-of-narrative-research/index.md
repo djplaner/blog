@@ -35,9 +35,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 For a long time I've had a vague interest in narrative research, i.e. it's one of those things I always meant to learn more about. Here are some initial explorations.
 
 ### Narrative approaches to education research

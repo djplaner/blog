@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 22 years ago I helped a group of undergraduate Information Technology students set up [CQ-PAN - Central Queensland - Public Access Network](http://web.archive.org/web/19961223053531/http://cq-pan.cqu.edu.au/). An early attempt to allow CQ residents get on the Internet. [CQ-PAN got used](/blog2/1000-users-on-a-486/) by a range of people for a range of tasks. In 1994 CQ-PAN started [hosting mailing lists](/blog2/1000-users-on-a-486/#lists) for a range of purposes, including for courses being taught by my then employer, the Department of Mathematics and Computing (who were funding the hardware).
 
 Thus began my life of producing feral or shadow IT systems. IT systems that were "feral" because they were not produced by the central IT group officially charged by the organisation to support its strategic goals. IT systems that I needed to write because central IT never seem to know and/or be able to deliver the type of IT-based functionality that were needed to improve learning and teaching.

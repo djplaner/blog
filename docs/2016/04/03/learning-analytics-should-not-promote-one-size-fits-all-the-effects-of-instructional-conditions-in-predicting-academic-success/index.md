@@ -46,9 +46,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 What follows is a summary of
 
 Gašević, D., Dawson, S., Rogers, T., & Gasevic, D. (2015). Learning analytics should not promote one size fits all: The effects of instructional conditions in predicating learning success. _The Internet and Higher Education_, _28_, 68–84. doi:doi:10.1016/j.iheduc.2015.10.002

@@ -5,9 +5,6 @@ categories: ['ocw', 'oer', 'open', 'opencase']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 It seems the open educational resources and open courses are one of the next big fads. I realise that they've been around for a long time. There is the formalisation of open courses arising out of the MIT and similar projects leading to the [OCW consortium](http://ocwconsortium.org/) and more recently there's been idea of a [MOOC idea](http://www.educause.edu/EDUCAUSE%2BReview/EDUCAUSEReviewMagazineVolume45/ThroughtheOpenDoorOpenCoursesa/209320) arising from work by Seimens, Cormier, Downes and others. Even before all that there were various ad hoc examples of open courses (of different types) made available through the work of various "lone rangers". The fad cycle around OER/OCW has been in an upswing for a while, lots of formal institutional interest and increasingly there are grants being awarded. In fact, it appears that including OER/OCW in a grant title seems to be a good thing at the moment. Sure sign of a fad?
 
 ### Personal aside

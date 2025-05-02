@@ -182,9 +182,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 [#etmooc](http://etmooc.org/) has commenced. The flood of introductory emails flowing from the [#etmooc Google+ community](https://plus.google.com/u/0/communities/116116451882856472187) is a sure a sign as any. The questions begin. How effective are all these introductions? How will I engage with the course? Why am I engaging?
 
 [![etmooclogo by alisonseaman, on Flickr](http://farm9.static.flickr.com/8493/8380327943_99b03103c5_m.jpg "etmooclogo by alisonseaman, on Flickr")](http://www.flickr.com/photos/68051075@N02/8380327943/)  

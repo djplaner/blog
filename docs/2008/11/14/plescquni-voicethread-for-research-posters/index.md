@@ -5,9 +5,6 @@ categories: ['elearning', 'ple', 'plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Last night the [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) helped support a public session titled "Psychology and Public Health Infotainment". The purpose was to show the relevant local community practitioners research posters prepared by students in [CQUni](http://www.cqu.edu.au) course - PSYCH13021, Special Topic in Psychology.
 
 Our involvement was to help in the use of [VoiceThread](http://voicethread.com) as a means to present the students' posters and enable visitors to make comments on the research posters.

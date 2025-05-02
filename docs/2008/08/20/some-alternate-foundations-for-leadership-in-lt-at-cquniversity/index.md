@@ -63,9 +63,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 On Monday the 25th of August I am meant to be giving a talk that attempts to link complexity theory (and related topics) to the practice of leadership of learning and teaching within a university setting. The talk is part of a broader seminar series occurring this year at [CQUniversity](http://www.cquniversity.edu.au/) as part of the institution's [learning and teaching seminars](http://learning.cqu.edu.au/staff_development/presentations/lt_seminars-presentations.htm). The leadership in L&T series is being pushed/encouraged by [Dr Peter Reaburn](http://fseh.cqu.edu.au/FCWViewer/staff.do?site=100&sid=REABURNP).
 
 This, and perhaps a couple of other blogs posts, is meant to be a part of a small experiment in the use of social software. The abstract of the talk that goes out to CQUniversity staff will mention this blog post and some [related del.icio.us bookmarks](http://delicious.com/davidj1/complexityleadership). I actually don't expect it to work all that well as I don't have the energy to do the necessary preparations.

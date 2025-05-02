@@ -5,9 +5,6 @@ categories: ['elearning', 'indicators']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Just floating another idea for a research project around the [Indicators project](http://indicatorsproject.wordpress.com/).
 
 ### The spark

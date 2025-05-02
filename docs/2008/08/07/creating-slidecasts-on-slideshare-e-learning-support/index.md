@@ -160,9 +160,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 ### The problem
 
 The [unit](http://cddu.cqu.edu.au/) I work with is responsible for helping staff (and to some extent students) of [CQUniversity](http://www.cqu.edu.au/) with their learning and teaching. This is traditionally a fairly difficult task which is made more difficult at CQUniversity by a number of contextual factors. Perhaps the largest is the fact that staff and students are spread across at least 9 Australian campuses spread across almost the full length of the Australian east coast, a couple of overseas campuses and partners and throughout the world via distance education.

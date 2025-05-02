@@ -25,9 +25,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a couple of the courses I teach I ask students (for slightly different purposes) the question from the title of this post, "How many digital devices do you have?".  In one of the courses that question takes the form of a quiz and looks something like the following.
 
 #### Question text

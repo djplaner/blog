@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 After seeing a [previous post](/blog2/2013/05/31/changes-in-links-between-student-posts/) sharing some of his visualisations of the links between blog posts of EDC3100 students, Nick provided some video showing how the links were made over time.
 
 https://vimeo.com/67608266

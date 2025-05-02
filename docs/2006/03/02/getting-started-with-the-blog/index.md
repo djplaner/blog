@@ -10,9 +10,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 I've just created the new sample student blog for COIT11134.  This is the first post.  I've changed the look for the blog and removed the test post that Wordpress adds automatically.
 
 **Most important**

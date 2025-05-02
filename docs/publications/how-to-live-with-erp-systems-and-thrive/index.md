@@ -63,9 +63,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Many of the links in the following will now be broken due to changes in organisational systems
 
 David Jones, How to live with ERP systems and thrive, Presented at the Tertiary Education Management Conference’2003, Adelaide

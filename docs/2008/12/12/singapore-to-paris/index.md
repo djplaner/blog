@@ -6,9 +6,6 @@ tags: ['paris']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 After much shopping (mostly winter clothes - much needed and used already) and a bit of time in the QClub - time to get back on a plane for the 13+ hours to London. The upgrade to Business didn't come through but the nice check in lady from Brisbane had put us in the next best thing. A row of seats behind a partition that meant we had enough room to our legs out straight. Very nice. Both Sandy and I slept a reasonable amount for this type of thing. Watched a number of movies and basically waited for the flight to be over.
 
 The highlight for me as about halfway into the flight when we were over the middle East somewhere. Having a window seat I looked out to see clouds below shining in a full moon. Just above and to the left of our plane were two contrails from other planes. One of which I could see their navigation flights flashing in the distance. The moon was shining on these and making them glow. Very nice. Pity the camera was lodged up above and the scene only lasted for a few minutes.

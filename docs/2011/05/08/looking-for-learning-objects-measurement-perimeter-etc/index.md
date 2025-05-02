@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 So next week sees me actively engage in a bit of teaching through leading small episodes that form part of my mentor teachers' existing plans. In another week or two that will expand into complete lessons. One of the interesting parts of this activity has been the necessity to fit within the existing plans and approaches used by my mentor teachers. Approaches that I wouldn't necessarily have thought of and which place some constraints on what I can do.
 
 On the plus side, the topics I've been allocated both initially and for the complete lessons have some connection. All focused around measurement, perimeter, area, volume...., though at two different grade levels (Year 8 and Year 10). For the year 8s I've been asked to find some computer-based activities that engage the students around these topics. I'm also hoping to find some similar work for the Year 10s. So, the aim of this post is to document my exploration for computer-based activities/learning objects for this content area.

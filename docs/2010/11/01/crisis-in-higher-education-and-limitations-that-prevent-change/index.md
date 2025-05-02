@@ -28,9 +28,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 Over the last few days I've been catching up on some writing (first last week [Leigh Blackall](http://leighblackall.blogspot.com/2010/10/crisis-for-institutions-opportunities.html) and this morning from [Richard Hall](http://www.learnex.dmu.ac.uk/2010/10/26/open-education-cracks-and-the-crisis-of-higher-education/)) that, at least for me, seems to be trying to find ways that the current crisis in higher ed can be used as a spring board for something better. I certainly think there is an opportunity there. Dave Snowden has [argued](http://www.cognitive-edge.com/blogs/dave/2006/12/natural_numbers_networks_commu.php)
 
 > The best chance any organisation has to do things differently is during a crisis. During such a time people’s willingness to do things differently, to be open to working with people who they normally avoid is higher than in normal circumstances.

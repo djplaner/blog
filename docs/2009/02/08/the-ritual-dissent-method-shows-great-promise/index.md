@@ -5,9 +5,6 @@ categories: ['foult']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 This is a part of some reflections from running a session on [course analysis and design](/blog2/2009/01/30/using-a-blog-for-course-design-foult-sessions/) for new academics at [CQUniversity](http://www.cqu.edu.au/) last week. This one focuses on the benefits of using the [ritual dissent](http://www.cognitive-edge.com/method.php?mid=46) workshop method from [Cognitive Edge](http://www.cognitive-edge.com/).
 
 ### Context

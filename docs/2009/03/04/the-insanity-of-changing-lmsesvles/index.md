@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'missingps', 'psframewor
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 There is a definition of insanity that I've seen seen attributed to either Einstein or Benjamin Franklin,
 
 > “The definition of insanity is doing the same thing over and over again and expecting different results"

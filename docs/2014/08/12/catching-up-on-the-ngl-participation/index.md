@@ -38,9 +38,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 The last couple of weeks have been just a bit hectic and my participation in the network forming about [the NGL course](http://netgl.wordpress.com/) has been less than I'd aimed for. The following is an attempt to document some of the interesting bits I've missed and sign-post them for further action. It's really just an attempt to experiment with what any participant might need to do in such a course if they wanted to catch up. It's a test to see how well some of the technology has been set up and whether it helps capture most of what's happened.
 
 ## What's in Feedly?

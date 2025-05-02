@@ -67,9 +67,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 In a [previous post](/blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/) I started developing some ideas about the current assumptions associated with university learning and teaching which the concepts surrounding the nebulous term of PLEs bring into question. This post struggles with suggesting another one - consistency.
 
 !!! warning "Broken image link"

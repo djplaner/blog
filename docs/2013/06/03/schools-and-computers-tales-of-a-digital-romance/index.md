@@ -35,9 +35,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 It's the last week of semester, EDC3100 ICTs and Pedagogy is drawing to a close and I'm putting together the last bit of activities/resources for the students in the course. Most are focused on the last assignment and in particular a final essay that asks them to evaluate their use of ICTs while on their three week Professional Experience where they were in schools and other locations teaching. Perhaps the most challenging activity I'd like them to engage in is questioning their assumptions around learning, teaching and the application of ICTs. A particularly challenging activity given that much of what passes for the use of ICTs - including much of my own work - in formal education hasn't been very effective at questioning assumptions.
 
 As one of the scaffolds for this activity I am planning to point the students toward [Bigum (2012)](http://link.springer.com/content/pdf/10.1007%2F978-94-007-2642-0_2.pdf) as one strategy to illustrate questioning of assumptions. The following is a summary of my attempt to extract some messages from Bigum (2012) that I think are particularly interesting in the context of EDC3100. It also tracks some meanderings around related areas of knowledge.

@@ -5,9 +5,6 @@ categories: ['bim', 'elearning']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Once I get out from under the PhD, I'm hoping to expand an initial idea attacking the rhetoric of blended learning currently in vogue in some parts of higher education. The purpose of this quote is to save a quote that I've just come across for that expansion, and also to summarise the idea.
 
 At the very least, this has helped me realise that it isn't the original idea of blended learning that is at fault, it's how the idea has been translated into action within some institutions. i.e. as a fad, with little understanding of the complex complexities and even less engagement with them.

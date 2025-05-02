@@ -5,9 +5,6 @@ categories: ['chapter-2', 'design-theory', 'elearning', 'thesis']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 [![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
 
 The intent of the [Ps Framework](/blog2/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/) is to help identify and lightly organise the different components, and the different perspectives of those components, that impact the practice of e-learning within universities. Arguably they could be applied to learning and teaching in general, but the focus of this work is e-learning, so I limit it to that.

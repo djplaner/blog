@@ -24,9 +24,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 I'm trying to come up with the email that I'll send to all the DE students telling them about the how and why they'll be creating a blog for COIT11134.
 
 **Important Lesson(s)**

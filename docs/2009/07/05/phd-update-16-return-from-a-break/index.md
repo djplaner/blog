@@ -23,9 +23,6 @@ pingbacks:
       user_id: '0'
     
 ---
-
-See also: [[blog-home | Home]]
-
 As mentioned [a fortnight ago](/blog2/2009/06/21/phd-update-15-some-progress-and-an-absence/) I've had much of the last two weeks doing non-PhD stuff including a [road trip to Longreach](http://www.flickr.com/photos/david_jones/tags/longreach/). So this update is somewhat light on.
 
 ### What I've done

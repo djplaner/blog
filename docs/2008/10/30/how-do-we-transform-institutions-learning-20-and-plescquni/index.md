@@ -5,9 +5,6 @@ categories: ['elearning', 'plescquni']
 type: post
 template: blog-post.html
 ---
-
-See also: [[blog-home | Home]]
-
 Graham Atwell raises some questions around the topics Learning 2.0, PLEs, Web2.0, informal and formal learning in this [blog post](http://www.pontydysgu.org/2008/10/teaching-or-learning/). Apparently based on a workshop which appears to be focusing on the harnessing of these technologies/approaches in existing educational organisations
 
 _Aside:_ I find it somewhat interesting, given the topic, that I've found it somewhat difficult (I admit with only a quick google) to find anything about this workshop on the web. The closest I got was the following blurb on a [calendar of events page](http://cordis.europa.eu/fp7/ict/telearn-digicult/telearn-events_en.html).

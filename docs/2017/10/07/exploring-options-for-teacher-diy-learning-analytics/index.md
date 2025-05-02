@@ -63,9 +63,6 @@ pingbacks:
     []
     
 ---
-
-See also: [[blog-home | Home]]
-
 A few of us recently submitted a paper to [ALASI'2017](http://itali.uq.edu.au/alasi2017) that examined a "case study" of a teacher (me) engaging in a bit of DIY learning analytics. The case was used to drawing a few tentative conclusions and questions around the institutional implementation of learning analytics. The main conclusion is that teacher DIY learning analytics is largely ignored at the institutional level and that there appears to be a need and value to support it. The question is how (and then if supported, what happens)?
 
 This post is the start of an exploration of some technologies that combined may offer some of the affordances necessary to supporting teacher DIY learning analytics. The collection of technologies and the approach owes a significant amount of inspiration to [Tony Hirst](https://blog.ouseful.info/about/), especially in [this post](https://blog.ouseful.info/2017/06/27/byoa-bring-your-own-aplication-running-containerised-applications-on-the-desktop/) in which he writes
