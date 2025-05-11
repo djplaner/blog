@@ -1,8 +1,21 @@
 ---
-title: Leadership as defining what's successful
+categories:
+- cognitiveedge
+- complexityleadership
+- distributedcognition
+- highereducation
+- psframework
+- research
 date: 2014-01-21 10:52:01+10:00
-categories: ['cognitiveedge', 'complexityleadership', 'distributedcognition', 'highereducation', 'psframework', 'research']
-tags: ['leadership']
+next:
+  text: '"A #moodle course site wide "macro" facility?"'
+  url: /blog2/2014/01/22/a-moodle-course-site-wide-macro-facility/
+previous:
+  text: Analysing some course evaluation comments
+  url: /blog2/2014/01/15/analysing-some-course-evaluation-comments/
+tags:
+- leadership
+title: Leadership as defining what's successful
 type: post
 template: blog-post.html
 comments:

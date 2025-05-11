@@ -1,8 +1,15 @@
 ---
-title: Meso-level practitioners and generative technologies?
-date: 2019-01-03 10:02:28+10:00
-categories: ['eei']
+categories:
+- eei
 coverImage: 3311829635_0080586412_o-scaled-e1601494373689.jpg
+date: 2019-01-03 10:02:28+10:00
+next:
+  text: '"Trying out" needs agency and control'
+  url: /blog2/2019/01/18/trying-out-needs-agency-and-control/
+previous:
+  text: Testing h5p
+  url: /blog2/2018/12/11/testing-h5p/
+title: Meso-level practitioners and generative technologies?
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: Designing a collection of analytics to explore \"engagement\"
+categories:
+- bad
+- pirac
+- qilters
 date: 2016-04-14 07:45:28+10:00
-categories: ['bad', 'pirac', 'qilters']
+next:
+  text: Playing with Wikity
+  url: /blog2/2016/04/23/playing-with-wikity/
+previous:
+  text: Playing with D3
+  url: /blog2/2016/04/09/playing-with-d3/
+title: Designing a collection of analytics to explore "engagement"
 type: post
 template: blog-post.html
 comments:

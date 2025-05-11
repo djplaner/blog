@@ -1,7 +1,20 @@
 ---
-title: Oil sheiks, Lucifer and university learning and teaching
+categories:
+- academicdevelopment
+- chapter-5
+- design-theory
+- distributedcognition
+- elearning
+- thesis
 date: 2010-08-23 10:07:10+10:00
-categories: ['academicdevelopment', 'chapter-5', 'design-theory', 'distributedcognition', 'elearning', 'thesis']
+next:
+  text: '"University e-learning systems: the need for new product and process models
+    and some examples"'
+  url: /blog2/2010/08/24/university-e-learning-systems-the-need-for-new-product-and-process-models-and-some-examples/
+previous:
+  text: Extracting case study research and multiple contexts?
+  url: /blog2/2010/08/22/extracting-case-study-research-and-multiple-contexts/
+title: Oil sheiks, Lucifer and university learning and teaching
 type: post
 template: blog-post.html
 comments:

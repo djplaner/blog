@@ -1,7 +1,14 @@
 ---
-title: On the value or otherwise of SAMR, RAT etc.
+categories:
+- edu8117
 date: 2016-08-23 15:22:26+10:00
-categories: ['edu8117']
+next:
+  text: Exploring Moodle book usage - part 4 - students and initial use
+  url: /blog2/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
+previous:
+  text: Understanding and using the idea of &quot;network learning&quot;
+  url: /blog2/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+title: On the value or otherwise of SAMR, RAT etc.
 type: post
 template: blog-post.html
 comments:
@@ -55,7 +62,7 @@ pingbacks:
       user_id: '0'
     
 ---
-**Updated 30 August, 2016:** Added mention of @downes' pointers](http://www.downes.ca/post/65733) to peer review literature using SAMR. Evolved into [a small section
+**Updated 30 August, 2016:** Added mention of [@downes' pointers](http://www.downes.ca/post/65733) to peer review literature using SAMR. Evolved into a small section
 
 **Update: June 23: 2023** See also [PICRAT](https://citejournal.org/volume-20/issue-1-20/general/the-picrat-model-for-technology-integration-in-teacher-preparation/) an extension to RAT. The PIC representing the student's representation to a technology (**p**assive, **i**nteractive, **c**reative)
 

@@ -1,7 +1,16 @@
 ---
-title: Understanding systems conditions for sustainable uptake of learning analytics
+categories:
+- 4paths
+- indicators
 date: 2017-04-02 13:19:49+10:00
-categories: ['4paths', 'indicators']
+next:
+  text: Early steps in developing a design system/model for Professional Learning
+    Opportunities
+  url: /blog2/2017/04/26/early-steps-in-developing-a-design-systemmodel-for-professional-learning-opportunities/
+previous:
+  text: WTF(udge) does EEI do?
+  url: /blog2/2017/03/24/wtfudge-does-eei-do/
+title: Understanding systems conditions for sustainable uptake of learning analytics
 type: post
 template: blog-post.html
 ---

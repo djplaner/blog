@@ -1,7 +1,19 @@
 ---
-title: The IRIS model of Technology Adoption - neat and incomplete?
+categories:
+- chapter-2
+- design-theory
+- elearning
+- innovation
+- psframework
+- thesis
 date: 2009-03-06 09:18:54+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'innovation', 'psframework', 'thesis']
+next:
+  text: The weak second album (PhD update)
+  url: /blog2/2009/03/06/the-weak-second-album-phd-update/
+previous:
+  text: Place - the industrial society&#039;s impact on schools - and universities?
+  url: /blog2/2009/03/05/place-the-industrial-societys-impact-on-schools-and-universities/
+title: The IRIS model of Technology Adoption - neat and incomplete?
 type: post
 template: blog-post.html
 comments:

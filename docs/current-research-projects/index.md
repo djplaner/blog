@@ -1,6 +1,6 @@
 ---
-title: Current research projects
 date: 2013-11-04 09:36:58+10:00
+title: Current research projects
 type: page
 template: blog-post.html
 ---

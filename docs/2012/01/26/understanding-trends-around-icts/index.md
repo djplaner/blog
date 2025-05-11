@@ -1,7 +1,15 @@
 ---
-title: Understanding trends around ICTs
+categories:
+- edc3100
+- teaching
 date: 2012-01-26 14:52:39+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Models of Teacher PD  for ICT integration
+  url: /blog2/2012/01/30/models-of-teacher-pd-for-ict-integration/
+previous:
+  text: Reflections on understanding context
+  url: /blog2/2012/01/23/reflections-on-understanding-context/
+title: Understanding trends around ICTs
 type: post
 template: blog-post.html
 comments:

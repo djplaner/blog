@@ -1,7 +1,14 @@
 ---
-title: Statistics in Education - Week 1
+categories:
+- thesis
 date: 2013-08-10 23:02:43+10:00
-categories: ['thesis']
+next:
+  text: Bugger analytics, just give me useful information
+  url: /blog2/2013/08/12/bugger-analytics-just-give-me-useful-information/
+previous:
+  text: Learning analytics - What is the &quot;end in mind&quot;?
+  url: /blog2/2013/08/02/learning-analytics-what-is-the-end-in-mind/
+title: Statistics in Education - Week 1
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,18 @@
 ---
-title: "The \"dominant\" assumptions underlying university-based e-learning: an introduction"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- thesis
+- webfuse
 date: 2009-01-25 13:53:47+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'thesis', 'webfuse']
+next:
+  text: Some possible reasons why comparison of information systems are broken
+  url: /blog2/2009/01/27/some-possible-reasons-why-comparison-of-information-systems-are-broken/
+previous:
+  text: Somethings that are broken with evaluation of university teaching
+  url: /blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/
+title: '"The "dominant" assumptions underlying university-based e-learning: an introduction"'
 type: post
 template: blog-post.html
 comments:

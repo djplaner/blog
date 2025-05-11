@@ -1,7 +1,15 @@
 ---
-title: Animation over time of links between student posts
+categories:
+- bim
+- edc3100
 date: 2013-06-04 10:03:17+10:00
-categories: ['bim', 'edc3100']
+next:
+  text: Learning analytics, intervention and helping teachers
+  url: /blog2/2013/06/07/learning-analytics-intervention-and-helping-teachers/
+previous:
+  text: 'Schools and computers: Tales of a digital romance'
+  url: /blog2/2013/06/03/schools-and-computers-tales-of-a-digital-romance/
+title: Animation over time of links between student posts
 type: post
 template: blog-post.html
 comments:

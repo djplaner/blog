@@ -1,7 +1,20 @@
 ---
-title: Object orientation and design patterns
+categories:
+- chapter-5
+- design-theory
+- elearning
+- moodle
+- phd
+- thesis
+- webfuse
 date: 2010-06-07 08:31:56+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'moodle', 'phd', 'thesis', 'webfuse']
+next:
+  text: The Wf Framework
+  url: /blog2/2010/06/07/the-wf-framework/
+previous:
+  text: Emergent and agile development
+  url: /blog2/2010/06/05/emergent-and-agile-development/
+title: Object orientation and design patterns
 type: post
 template: blog-post.html
 comments:

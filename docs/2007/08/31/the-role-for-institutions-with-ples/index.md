@@ -1,7 +1,14 @@
 ---
-title: The role for institutions with PLEs
+categories:
+- ple
 date: 2007-08-31 09:06:17+10:00
-categories: ['ple']
+next:
+  text: Technology scan - CQU and e-learning
+  url: /blog2/2007/08/31/technology-scan-cqu-and-e-learning/
+previous:
+  text: Diffusion theory to guide adoption of immersive Web3D environments in learning
+  url: /blog2/2007/08/25/diffusion-theory-to-guide-adoption-of-immersive-web3d-environments-in-learning/
+title: The role for institutions with PLEs
 type: post
 template: blog-post.html
 ---

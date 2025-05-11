@@ -1,8 +1,20 @@
 ---
-title: "Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable delivery of quality learning and teaching"
-date: 2023-02-09 10:13:12+10:00
-categories: ['academicdevelopment', 'bad', 'casa', 'highereducation']
+categories:
+- academicdevelopment
+- bad
+- casa
+- highereducation
 coverImage: productivity.jpg
+date: 2023-02-09 10:13:12+10:00
+next:
+  text: Higher ed L&T's scale problem?
+  url: /blog2/2023/02/23/higher-ed-lts-scale-problem/
+previous:
+  text: 'Orchestrating entangled relations to stretch the iron triangle: Observations
+    from an LMS migration'
+  url: /blog2/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/
+title: '"Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
+  delivery of quality learning and teaching"'
 type: post
 template: blog-post.html
 ---

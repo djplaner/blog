@@ -1,7 +1,15 @@
 ---
-title: "Expert designer: Another assumption PLEs question"
+categories:
+- ple
+- plescquni
 date: 2008-11-15 09:43:24+10:00
-categories: ['ple', 'plescquni']
+next:
+  text: '"Big" systems - another assumption "PLEs" overthrow'
+  url: /blog2/2008/11/16/big-systems-another-assumption-ples-overthrow/
+previous:
+  text: 'PLEs@CQUni: Origins, rationale and outcomes so far'
+  url: /blog2/2008/11/15/plescquni-origins-rationale-and-outcomes-so-far/
+title: '"Expert designer: Another assumption PLEs question"'
 type: post
 template: blog-post.html
 comments:

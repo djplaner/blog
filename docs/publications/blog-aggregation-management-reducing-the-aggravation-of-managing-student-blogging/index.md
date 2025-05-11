@@ -1,6 +1,7 @@
 ---
-title: "Blog Aggregation Management: Reducing the Aggravation of Managing Student Blogging"
 date: 2009-04-29 21:55:50+10:00
+title: '"Blog Aggregation Management: Reducing the Aggravation of Managing Student
+  Blogging"'
 type: page
 template: blog-post.html
 comments:

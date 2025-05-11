@@ -1,7 +1,15 @@
 ---
-title: "Learning analytics: Anything more than just another fad?"
+categories:
+- indicators
+- learninganalytics-elearning
 date: 2012-10-25 16:02:42+10:00
-categories: ['indicators', 'learninganalytics-elearning']
+next:
+  text: '"Technology in education: The track record"'
+  url: /blog2/2012/10/29/technology-in-education-the-track-record/
+previous:
+  text: 'The quest to make sense of information: A research commentary'
+  url: /blog2/2012/10/25/the-quest-to-make-sense-of-information-a-research-commentary/
+title: '"Learning analytics: Anything more than just another fad?"'
 type: post
 template: blog-post.html
 comments:

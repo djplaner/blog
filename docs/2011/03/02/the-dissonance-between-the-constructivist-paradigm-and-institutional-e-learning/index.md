@@ -1,7 +1,16 @@
 ---
-title: The dissonance between the constructivist paradigm and the implementation of institutional e-learning
+categories:
+- elearning
+- thesis
 date: 2011-03-02 21:57:04+10:00
-categories: ['elearning', 'thesis']
+next:
+  text: A PMI of constructivism
+  url: /blog2/2011/03/03/a-pmi-of-constructivism/
+previous:
+  text: ICTs for learning design - the first week
+  url: /blog2/2011/02/28/icts-for-learning-design-the-first-week/
+title: The dissonance between the constructivist paradigm and the implementation of
+  institutional e-learning
 type: post
 template: blog-post.html
 comments:

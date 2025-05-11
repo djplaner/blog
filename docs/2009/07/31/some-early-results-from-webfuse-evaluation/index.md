@@ -1,7 +1,19 @@
 ---
-title: Some early results from Webfuse evaluation
+categories:
+- chapter-4
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2009-07-31 23:43:21+10:00
-categories: ['chapter-4', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: '"How the LMS - as enterprise system - warps the practice of L&#038;T"'
+  url: /blog2/2009/08/02/how-the-lms-as-enterprise-system-warps-the-practice-of-lt/
+previous:
+  text: Thinking about evaluating Webfuse (1996 through 1999) - evaluation of an LMS?
+  url: /blog2/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/
+title: Some early results from Webfuse evaluation
 type: post
 template: blog-post.html
 comments:

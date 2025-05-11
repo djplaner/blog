@@ -1,7 +1,14 @@
 ---
-title: "BIM#2 - Starting the module"
+categories:
+- bam
 date: 2009-08-11 15:20:00+10:00
-categories: ['bam']
+next:
+  text: '"BIM #3: Getting the module work, making some progress?"'
+  url: /blog2/2009/08/13/bim-3-getting-the-module-work-making-some-progress/
+previous:
+  text: 'BIM #1: Working on the prototype'
+  url: /blog2/2009/08/11/bim-1-working-on-the-prototype/
+title: '"BIM#2 - Starting the module"'
 type: post
 template: blog-post.html
 comments:

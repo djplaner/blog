@@ -1,7 +1,14 @@
 ---
-title: Some trends with enrolments in IPT
+categories:
+- thesis
 date: 2011-08-27 17:56:41+10:00
-categories: ['thesis']
+next:
+  text: Push-button schools and zap hats - The future of education
+  url: /blog2/2011/08/29/push-button-schools-and-zap-hats-the-future-of-education/
+previous:
+  text: Is IT a service industry, or is it &quot;eating the world&quot;?
+  url: /blog2/2011/08/23/is-it-a-service-industry-or-is-it-eating-the-world/
+title: Some trends with enrolments in IPT
 type: post
 template: blog-post.html
 ---

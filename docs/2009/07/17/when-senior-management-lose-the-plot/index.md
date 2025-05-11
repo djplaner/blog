@@ -1,7 +1,20 @@
 ---
-title: When senior management lose the plot
+categories:
+- chapter-2
+- design-theory
+- elearning
+- herding-cats
+- phd
+- psframework
+- thesis
 date: 2009-07-17 11:21:56+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'herding-cats', 'phd', 'psframework', 'thesis']
+next:
+  text: Occupational stress in Australian University Staff
+  url: /blog2/2009/07/17/occupational-stress-in-australian-university-staff/
+previous:
+  text: Installing Moodle - first step in BAM/MoodleAM
+  url: /blog2/2009/07/16/installing-moodle-first-step-in-bammoodleam/
+title: When senior management lose the plot
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Signing up for Connected Courses
+categories:
+- connectedcourses
 date: 2014-09-02 10:19:25+10:00
-categories: ['connectedcourses']
+next:
+  text: Too much stuff, not enough time
+  url: /blog2/2014/09/02/too-much-stuff-not-enough-time/
+previous:
+  text: Counting the uncountable - NGL participation
+  url: /blog2/2014/09/01/counting-the-uncountable-ngl-participation/
+title: Signing up for Connected Courses
 type: post
 template: blog-post.html
 comments:

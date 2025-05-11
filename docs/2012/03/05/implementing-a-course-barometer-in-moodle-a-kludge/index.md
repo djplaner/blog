@@ -1,7 +1,16 @@
 ---
-title: "Implementing a course barometer in Moodle: A kludge"
+categories:
+- edc3100
+- moodle
+- teaching
 date: 2012-03-05 10:49:12+10:00
-categories: ['edc3100', 'moodle', 'teaching']
+next:
+  text: And it's back to a lecture
+  url: /blog2/2012/03/06/and-its-back-to-a-lecture/
+previous:
+  text: Gilstrap, Martin and the definition of a lecture
+  url: /blog2/2012/03/04/gilstrap-martin-and-the-definition-of-a-lecture/
+title: '"Implementing a course barometer in Moodle: A kludge"'
 type: post
 template: blog-post.html
 ---

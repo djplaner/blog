@@ -1,7 +1,14 @@
 ---
-title: Is institutional e-learning a bit like teenage sex?
+categories:
+- elearning
 date: 2013-09-16 09:18:27+10:00
-categories: ['elearning']
+next:
+  text: University data isn't that "big", what are the implications?
+  url: /blog2/2013/09/20/university-data-isnt-that-big/
+previous:
+  text: Useful &quot;analytics&quot; - Faces as an example
+  url: /blog2/2013/09/06/useful-analytics-faces-as-an-example/
+title: Is institutional e-learning a bit like teenage sex?
 type: post
 template: blog-post.html
 comments:

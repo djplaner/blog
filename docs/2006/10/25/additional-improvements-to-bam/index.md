@@ -1,7 +1,14 @@
 ---
-title: Additional improvements to BAM
+categories:
+- bam
 date: 2006-10-25 15:04:39+10:00
-categories: ['bam']
+next:
+  text: Starting my "blogs for learning" article about BAM
+  url: /blog2/2006/10/26/starting-my-blogs-for-learning-article-about-bam/
+previous:
+  text: 'Who is to blame for plagiarism: technology, lecturers or context?'
+  url: /blog2/2006/10/25/who-is-to-blame-for-plagiarism-technology-lecturers-or-context/
+title: Additional improvements to BAM
 type: post
 template: blog-post.html
 ---

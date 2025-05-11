@@ -1,7 +1,15 @@
 ---
-title: "Supportive Learning Environments: Week 3, 4, 5 and 6"
+categories:
+- eded20455
+- teaching
 date: 2011-03-30 13:21:11+10:00
-categories: ['eded20455', 'teaching']
+next:
+  text: The next step for the LMS?
+  url: /blog2/2011/03/31/the-next-step-for-the-lms/
+previous:
+  text: Problems for teaching scholars
+  url: /blog2/2011/03/30/problems-for-teaching-scholars/
+title: '"Supportive Learning Environments: Week 3, 4, 5 and 6"'
 type: post
 template: blog-post.html
 ---

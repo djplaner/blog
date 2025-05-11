@@ -1,7 +1,15 @@
 ---
-title: Between the idea and the reality,.... falls the shadow
+categories:
+- shadowsystems
+- webfuse
 date: 2008-10-31 10:38:53+10:00
-categories: ['shadowsystems', 'webfuse']
+next:
+  text: '"Extending the classroom: Open content and open teaching: Summary and reflection"'
+  url: /blog2/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/
+previous:
+  text: Readings on Design-based research
+  url: /blog2/2008/10/30/readings-on-design-based-research/
+title: Between the idea and the reality,.... falls the shadow
 type: post
 template: blog-post.html
 comments:

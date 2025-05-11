@@ -1,7 +1,14 @@
 ---
-title: Standardised testing is bad, but what is the alternative?
+categories:
+- teaching
 date: 2011-02-13 09:40:53+10:00
-categories: ['teaching']
+next:
+  text: '"bim2: Starting on the coordinator models"'
+  url: /blog2/2011/02/13/bim2-starting-on-the-coordinator-models/
+previous:
+  text: 'bim2: the greater coordinator conversion'
+  url: /blog2/2011/02/06/bim2-the-greater-coordinator-conversion/
+title: Standardised testing is bad, but what is the alternative?
 type: post
 template: blog-post.html
 comments:

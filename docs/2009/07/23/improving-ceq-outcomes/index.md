@@ -1,7 +1,14 @@
 ---
-title: Improving CEQ Outcomes
+categories:
+- elearning
 date: 2009-07-23 09:56:43+10:00
-categories: ['elearning']
+next:
+  text: '"BAM into Moodle Step #4 - Learning more about Moodle"'
+  url: /blog2/2009/07/23/bam-into-moodle-step-4-learning-more-about-moodle/
+previous:
+  text: 'BAM into Moodle - Step #3 - some initial development?'
+  url: /blog2/2009/07/21/bam-into-moodle-step-3-some-initial-development/
+title: Improving CEQ Outcomes
 type: post
 template: blog-post.html
 comments:

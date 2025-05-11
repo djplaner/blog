@@ -1,7 +1,17 @@
 ---
-title: Ateleological development as a \"better way\" to develop university e-learning systems
+categories:
+- elearning
+- thesis
 date: 2007-03-13 06:03:37+10:00
-categories: ['elearning', 'thesis']
+next:
+  text: Descriptive (network) versus normative (community) based development of e-learning
+    in organisations
+  url: /blog2/2007/03/15/109/
+previous:
+  text: CAUDIT CIO&#039;s top 10 issues list - and what it says about them (to me)
+  url: /blog2/2007/03/10/caudit-cios-top-10-issues-list-and-what-it-says-about-them-to-me/
+title: Ateleological development as a "better way" to develop university e-learning
+  systems
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Group 3 Technologies - The activities
+categories:
+- eded20491
+- teaching
 date: 2011-04-09 12:34:43+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: A feeble first attempt at moving towards WCYDWT
+  url: /blog2/2011/04/11/a-feeble-first-attempt-at-moving-towards-wcydwt/
+previous:
+  text: Mathematics and the net generation - not in textbook exercises
+  url: /blog2/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
+title: Group 3 Technologies - The activities
 type: post
 template: blog-post.html
 ---

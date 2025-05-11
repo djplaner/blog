@@ -1,7 +1,18 @@
 ---
-title: Computers 'do not improve' pupil results, just like wood 'does not improve' houses
+categories:
+- bad
+- edc3100
+- elearning
 date: 2015-09-16 09:59:07+10:00
-categories: ['bad', 'edc3100', 'elearning']
+next:
+  text: Self-assertive and integrative tendencies and the connection to the BAD/SET
+    mindsets
+  url: /blog2/2015/09/17/self-assertive-and-integrative-tendencies-and-the-connection-to-the-badset-mindsets/
+previous:
+  text: Helping teachers &quot;know thy students&quot;
+  url: /blog2/2015/09/15/helping-teachers-know-thy-students/
+title: Computers 'do not improve' pupil results, just like wood 'does not improve'
+  houses
 type: post
 template: blog-post.html
 comments:

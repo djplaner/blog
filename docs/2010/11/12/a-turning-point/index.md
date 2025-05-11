@@ -1,7 +1,15 @@
 ---
-title: A turning point
+categories:
+- journey
+- teaching
 date: 2010-11-12 13:15:12+10:00
-categories: ['journey', 'teaching']
+next:
+  text: Delving into institutional information systems
+  url: /blog2/2010/11/12/delving-into-institutional-information-systems/
+previous:
+  text: Initial plans for BIM 2.0
+  url: /blog2/2010/11/09/initial-plans-for-bim-2-0/
+title: A turning point
 type: post
 template: blog-post.html
 comments:

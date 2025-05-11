@@ -1,7 +1,15 @@
 ---
-title: Which comes first? Pedagogy or technology?
+categories:
+- edc3100
+- edu8117
 date: 2016-09-11 09:39:58+10:00
-categories: ['edc3100', 'edu8117']
+next:
+  text: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used?"
+  url: /blog2/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/
+previous:
+  text: 'Making course activity more transparent: A proposed use of MAV'
+  url: /blog2/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
+title: Which comes first? Pedagogy or technology?
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,19 @@
 ---
-title: Lessons from product for e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-09-02 10:02:49+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"BIM #6 - Learning weblib.php"'
+  url: /blog2/2009/09/03/bim-6-learning-weblib-php/
+previous:
+  text: Curriculum mapping, process, technology and higher education - some questions
+  url: /blog2/2009/09/01/curriculum-mapping-process-technology-and-higher-education/
+title: Lessons from product for e-learning
 type: post
 template: blog-post.html
 comments:

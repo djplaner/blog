@@ -1,7 +1,15 @@
 ---
-title: Integrated VLEs/LMSs - benefits and fixes
+categories:
+- ple
+- web-20-course-sites
 date: 2007-11-09 00:03:41+10:00
-categories: ['ple', 'web-20-course-sites']
+next:
+  text: Simplicity, e-learning and shadow systems
+  url: /blog2/2007/11/16/simplicity-e-learning-and-shadow-systems/
+previous:
+  text: PLEs (&quot;social media&quot;) and measuring/ensuring success
+  url: /blog2/2007/11/05/ples-social-media-and-measuringensuring-success/
+title: Integrated VLEs/LMSs - benefits and fixes
 type: post
 template: blog-post.html
 ---

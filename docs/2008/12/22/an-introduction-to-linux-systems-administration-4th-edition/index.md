@@ -1,8 +1,16 @@
 ---
-title: An introduction to Linux Systems administration - 1st and 4th editions
+categories:
+- teaching
 date: 2008-12-22 13:22:46+10:00
-categories: ['teaching']
-tags: ['linux-systemsadministration']
+next:
+  text: What tree is this?
+  url: /blog2/2008/12/23/what-tree-is-this/
+previous:
+  text: It is official - a best publication for IS in 2007
+  url: /blog2/2008/12/22/it-is-official-a-best-publication-for-is-in-2007/
+tags:
+- linux-systemsadministration
+title: An introduction to Linux Systems administration - 1st and 4th editions
 type: post
 template: blog-post.html
 comments:

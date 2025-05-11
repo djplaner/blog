@@ -1,8 +1,17 @@
 ---
-title: A start to the \"Introduction to Learning and Knowledge Analytics\" MOOC
+categories:
+- indicators
+- lak11
 date: 2011-01-10 22:39:14+10:00
-categories: ['indicators', 'lak11']
-tags: ['lak11']
+next:
+  text: '"Learning analytics: Definitions, processes and potential"'
+  url: /blog2/2011/01/10/learning-analytics-definitions-processes-and-potential/
+previous:
+  text: Thesis acknowledgements version 0.5
+  url: /blog2/2011/01/07/thesis-acknowledgements-version-0-5/
+tags:
+- lak11
+title: A start to the "Introduction to Learning and Knowledge Analytics" MOOC
 type: post
 template: blog-post.html
 comments:

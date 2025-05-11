@@ -1,7 +1,16 @@
 ---
-title: Representing problems to make the solution transparent
+categories:
+- bricolage
+- casa
 date: 2021-10-23 17:04:59+10:00
-categories: ['bricolage', 'casa']
+next:
+  text: '"Orchestrating entangled relations to break the iron triangle: examples from
+    a LMS migration"'
+  url: /blog2/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/
+previous:
+  text: Exploring Dron's definition of educational technology
+  url: /blog2/2021/06/04/exploring-drons-definition-of-educational-technology/
+title: Representing problems to make the solution transparent
 type: post
 template: blog-post.html
 ---

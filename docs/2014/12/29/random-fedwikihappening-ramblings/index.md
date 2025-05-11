@@ -1,8 +1,16 @@
 ---
-title: "Random #fedwikihappening ramblings"
+categories:
+- thesis
 date: 2014-12-29 15:18:45+10:00
-categories: ['thesis']
-tags: ['fedwikihappening']
+next:
+  text: An illustration of the difficulty of learning about network learning
+  url: /blog2/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
+previous:
+  text: FedWiki 7, 8 and 9 - Moving, catching up and engaging
+  url: /blog2/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
+tags:
+- fedwikihappening
+title: '"Random #fedwikihappening ramblings"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: How much reblogging is \"bad\"?
+categories:
+- edc3100
 date: 2014-05-05 13:38:56+10:00
-categories: ['edc3100']
+next:
+  text: '"From thinking to tinkering: The grassroots of strategic information systems"'
+  url: /blog2/2014/05/08/from-thinking-to-tinkering-the-grassroots-of-strategic-information-systems/
+previous:
+  text: Designing for situation awareness in a complex system
+  url: /blog2/2014/04/18/designing-for-situation-awareness-in-a-complex-system/
+title: How much reblogging is "bad"?
 type: post
 template: blog-post.html
 comments:

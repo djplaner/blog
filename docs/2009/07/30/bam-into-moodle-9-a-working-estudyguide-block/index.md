@@ -1,7 +1,14 @@
 ---
-title: "BAM into Moodle #9 - a working eStudyGuide block?"
+categories:
+- bam
 date: 2009-07-30 15:53:48+10:00
-categories: ['bam']
+next:
+  text: Gaps, shadow systems and the VLE/LMS
+  url: /blog2/2009/07/31/gaps-shadow-systems-and-the-vlelms/
+previous:
+  text: 'BAM into Moodle #8 - finishing the eStudyGuide building block'
+  url: /blog2/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
+title: '"BAM into Moodle #9 - a working eStudyGuide block?"'
 type: post
 template: blog-post.html
 comments:

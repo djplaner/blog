@@ -1,6 +1,6 @@
 ---
-title: "Online Assignment Submission: An Evolutionary Tale"
 date: 2008-12-29 18:03:22+10:00
+title: '"Online Assignment Submission: An Evolutionary Tale"'
 type: page
 template: blog-post.html
 comments:

@@ -1,8 +1,16 @@
 ---
-title: A story about the failure of institutional eportfolios
+categories:
+- elearning
 date: 2014-02-27 10:39:59+10:00
-categories: ['elearning']
-tags: ['eportfolio']
+next:
+  text: '"Some areas of improvement for #edc3100"'
+  url: /blog2/2014/03/28/some-areas-of-improvement-for-edc3100/
+previous:
+  text: 'Evernote as a &quot;solution&quot; to a #moodle &quot;problem&quot;'
+  url: /blog2/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/
+tags:
+- eportfolio
+title: A story about the failure of institutional eportfolios
 type: post
 template: blog-post.html
 comments:

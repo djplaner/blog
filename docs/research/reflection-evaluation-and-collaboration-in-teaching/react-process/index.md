@@ -1,6 +1,6 @@
 ---
-title: REACT Process
 date: 2008-10-27 14:09:09+10:00
+title: REACT Process
 type: page
 template: blog-post.html
 comments:

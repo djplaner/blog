@@ -1,6 +1,6 @@
 ---
-title: "RCOS: Yet Another Teaching Operating System"
 date: 2009-01-02 01:04:27+10:00
+title: '"RCOS: Yet Another Teaching Operating System"'
 type: page
 template: blog-post.html
 ---

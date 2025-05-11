@@ -1,7 +1,19 @@
 ---
-title: "Breadth of Webfuse use: 1997 through 2009"
+categories:
+- design-theory
+- elearning
+- indicators
+- phd
+- thesis
+- webfuse
 date: 2009-08-07 21:48:10+10:00
-categories: ['design-theory', 'elearning', 'indicators', 'phd', 'thesis', 'webfuse']
+next:
+  text: The limiting impacts of a PhD and the writing up phase
+  url: /blog2/2009/08/09/the-limiting-impacts-of-a-phd-and-the-writing-up-phase/
+previous:
+  text: Losing weight, improving learning and teaching and complex systems
+  url: /blog2/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
+title: '"Breadth of Webfuse use: 1997 through 2009"'
 type: post
 template: blog-post.html
 comments:

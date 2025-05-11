@@ -1,7 +1,22 @@
 ---
-title: "Down with the cookie-cutter LMS: the Edupunk ideology and why integrated systems might go away"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- plescquni
+- psframework
+- thesis
 date: 2009-02-25 08:45:32+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'plescquni', 'psframework', 'thesis']
+next:
+  text: Improving university teaching - learning from constructive alignment by *NOT*
+    mandating it
+  url: /blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
+previous:
+  text: 'Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
+    projects?'
+  url: /blog2/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/
+title: '"Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
+  systems might go away"'
 type: post
 template: blog-post.html
 comments:

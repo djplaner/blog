@@ -1,7 +1,14 @@
 ---
-title: Starting my \"blogs for learning\" article about BAM
+categories:
+- bam
 date: 2006-10-26 14:30:17+10:00
-categories: ['bam']
+next:
+  text: What should the institution provide in a Web 2.0 world?
+  url: /blog2/2006/10/26/what-should-the-institution-provide-in-a-web-20-world/
+previous:
+  text: Additional improvements to BAM
+  url: /blog2/2006/10/25/additional-improvements-to-bam/
+title: Starting my "blogs for learning" article about BAM
 type: post
 template: blog-post.html
 ---

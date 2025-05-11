@@ -1,7 +1,16 @@
 ---
-title: Requirements, solutions, design, and who should decide
+categories:
+- bad
+- elearning
+- uxdesign
 date: 2015-09-09 18:06:31+10:00
-categories: ['bad', 'elearning', 'uxdesign']
+next:
+  text: What type of "digital knowledge" does a teacher need?
+  url: /blog2/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
+previous:
+  text: How NGL can inform my role as teacher
+  url: /blog2/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
+title: Requirements, solutions, design, and who should decide
 type: post
 template: blog-post.html
 comments:

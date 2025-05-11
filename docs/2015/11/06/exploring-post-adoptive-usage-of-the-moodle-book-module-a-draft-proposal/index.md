@@ -1,7 +1,17 @@
 ---
-title: "Exploring \"post adoptive usage\" of the #moodle Book module - a draft proposal"
+categories:
+- bad
+- elearning
+- exploring
+- moodleopenbook
 date: 2015-11-06 15:39:36+10:00
-categories: ['bad', 'elearning', 'exploring', 'moodleopenbook']
+next:
+  text: '"Opening up and enhancing #moodle books with GitHub, ePub, etc."'
+  url: /blog2/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/
+previous:
+  text: Anyone capturing users&#039; post-adoptive behaviours for the LMS? Implications?
+  url: /blog2/2015/10/31/anyone-capturing-users-post-adoptive-behaviours-for-the-lms-implications/
+title: '"Exploring "post adoptive usage" of the #moodle Book module - a draft proposal"'
 type: post
 template: blog-post.html
 comments:

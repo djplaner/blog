@@ -1,7 +1,14 @@
 ---
-title: Examples of free content (Universitites)
+categories:
+- web-20-course-sites
 date: 2006-10-02 08:51:30+10:00
-categories: ['web-20-course-sites']
+next:
+  text: Everything old is new again - working around copy detection
+  url: /blog2/2006/10/02/everything-old-is-new-again-working-around-copy-detection/
+previous:
+  text: Today&#039;s knowledge climate - why Webfuse approach is better
+  url: /blog2/2006/09/30/todays-knowledge-climate-why-webfuse-approach-is-better/
+title: Examples of free content (Universitites)
 type: post
 template: blog-post.html
 ---

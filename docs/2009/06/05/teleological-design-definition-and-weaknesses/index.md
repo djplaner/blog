@@ -1,7 +1,19 @@
 ---
-title: Teleological design - definition and weaknesses
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-06-05 08:58:09+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Ateleological processes - definition and weaknesses
+  url: /blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/
+previous:
+  text: Tell a story about your garden - narrative and SenseMaker
+  url: /blog2/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
+title: Teleological design - definition and weaknesses
 type: post
 template: blog-post.html
 comments:

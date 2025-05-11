@@ -1,7 +1,18 @@
 ---
-title: Coordination, support and knowledge sharing associated with e-learning - where does your organisation fit?
+categories:
+- chapter-2
+- elearning
+- thesis
 date: 2009-03-18 23:46:51+10:00
-categories: ['chapter-2', 'elearning', 'thesis']
+next:
+  text: Technology will *not* change the way we teach - an example why we're an amnesiac
+    field
+  url: /blog2/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
+previous:
+  text: The Ps framework
+  url: /blog2/2009/03/18/the-ps-framework/
+title: Coordination, support and knowledge sharing associated with e-learning - where
+  does your organisation fit?
 type: post
 template: blog-post.html
 comments:

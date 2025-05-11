@@ -1,7 +1,14 @@
 ---
-title: The edc3100 \"inspirational posters\"
+categories:
+- edc3100
 date: 2015-03-01 11:34:56+10:00
-categories: ['edc3100']
+next:
+  text: What do you do with Twitter?
+  url: /blog2/2015/03/04/what-do-you-do-with-twitter/
+previous:
+  text: 'Contradictions in adjectives: You can&#039;t be consistent and optimal'
+  url: /blog2/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/
+title: The edc3100 "inspirational posters"
 type: post
 template: blog-post.html
 comments:

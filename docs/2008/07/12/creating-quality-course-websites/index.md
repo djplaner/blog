@@ -1,8 +1,19 @@
 ---
-title: Creating quality course websites
+categories:
+- addie
+- c2d2
+- coursesites
+- elearning
 date: 2008-07-12 13:29:35+10:00
-categories: ['addie', 'c2d2', 'coursesites', 'elearning']
-tags: ['cddu-elearning-coursesite']
+next:
+  text: Creating quality course websites - the pragmatic approach
+  url: /blog2/2008/07/12/creating-quality-course-websites-the-pragmatic-approach/
+previous:
+  text: The place of free social software in institutional e-learning
+  url: /blog2/2008/06/28/the-place-of-free-social-software-in-institutional-e-learning/
+tags:
+- cddu-elearning-coursesite
+title: Creating quality course websites
 type: post
 template: blog-post.html
 ---

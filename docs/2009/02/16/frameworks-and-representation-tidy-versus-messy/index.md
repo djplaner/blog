@@ -1,8 +1,17 @@
 ---
-title: Frameworks and representation - tidy versus messy
-date: 2009-02-16 00:24:44+10:00
-categories: ['chapter-2', 'missingps', 'psframework']
+categories:
+- chapter-2
+- missingps
+- psframework
 coverImage: 3281484480_254917ef79_b.jpg
+date: 2009-02-16 00:24:44+10:00
+next:
+  text: Common sense (the things we take for granted) is the big obstacle for innovation
+  url: /blog2/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
+previous:
+  text: New ways of thinking - quote
+  url: /blog2/2009/02/15/new-ways-of-thinking-quote/
+title: Frameworks and representation - tidy versus messy
 type: post
 template: blog-post.html
 comments:

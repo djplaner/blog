@@ -1,7 +1,15 @@
 ---
-title: BIM - backup and restore
+categories:
+- bim
 date: 2010-02-07 11:53:36+10:00
-categories: ['bim']
+next:
+  text: BIM - talking to the gradebook
+  url: /blog2/2010/02/07/bim-talking-to-the-gradebook/
+previous:
+  text: 'Challenges in developing innovative pedagogy in blended learning: The case
+    of BIM'
+  url: /blog2/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/
+title: BIM - backup and restore
 type: post
 template: blog-post.html
 comments:

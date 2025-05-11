@@ -1,7 +1,16 @@
 ---
-title: \"Do it with\" teachers or students?
+categories:
+- bad
+- elearning
+- fad
 date: 2015-01-12 09:39:28+10:00
-categories: ['bad', 'elearning', 'fad']
+next:
+  text: This year it's all about the connections
+  url: /blog2/2015/01/13/this-year-its-all-about-the-connections/
+previous:
+  text: 'TPACK as shared practice: Toward a research agenda'
+  url: /blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/
+title: '"Do it with" teachers or students?'
 type: post
 template: blog-post.html
 ---

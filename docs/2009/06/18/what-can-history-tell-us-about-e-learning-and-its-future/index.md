@@ -1,7 +1,18 @@
 ---
-title: What can history tell us about e-learning and its future?
+categories:
+- chapter-2
+- elearning
+- lmsevaluation
+- paperideas
+- thesis
 date: 2009-06-18 10:48:53+10:00
-categories: ['chapter-2', 'elearning', 'lmsevaluation', 'paperideas', 'thesis']
+next:
+  text: The planning fallacy, innovation and ateleological design
+  url: /blog2/2009/06/18/the-planning-fallacy-innovation-and-ateleological-design/
+previous:
+  text: Institutional e-learning strategies
+  url: /blog2/2009/06/17/institutional-e-learning-strategies/
+title: What can history tell us about e-learning and its future?
 type: post
 template: blog-post.html
 comments:

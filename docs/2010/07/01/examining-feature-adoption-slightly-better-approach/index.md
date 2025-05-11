@@ -1,7 +1,20 @@
 ---
-title: Examining feature adoption - slightly better approach
+categories:
+- chapter-5
+- design-theory
+- elearning
+- indicators
+- phd
+- thesis
+- webfuse
 date: 2010-07-01 12:41:07+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'indicators', 'phd', 'thesis', 'webfuse']
+next:
+  text: Webfuse feature adoption - 1997 through 2009
+  url: /blog2/2010/07/01/webfuse-feature-adoption-1997-through-2009/
+previous:
+  text: An integrated OLE
+  url: /blog2/2010/06/26/an-integrated-ole/
+title: Examining feature adoption - slightly better approach
 type: post
 template: blog-post.html
 comments:

@@ -1,6 +1,6 @@
 ---
-title: About
 date: 2006-03-02 00:29:17+10:00
+title: About
 type: page
 template: blog-post.html
 comments:

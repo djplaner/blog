@@ -1,7 +1,15 @@
 ---
-title: Thinking about (more) reproducible research and learning analytics
+categories:
+- indicators
 date: 2017-03-08 07:57:16+10:00
-categories: ['indicators']
+next:
+  text: Communication and professional learning for teaching at Universities
+  url: /blog2/2017/03/09/communication-and-professional-learning-for-teaching-at-universities/
+previous:
+  text: The teleological reason why ICTs limit choice for university learners and
+    learning
+  url: /blog2/2017/03/01/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/
+title: Thinking about (more) reproducible research and learning analytics
 type: post
 template: blog-post.html
 ---

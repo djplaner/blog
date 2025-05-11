@@ -1,7 +1,14 @@
 ---
-title: Communication and professional learning for teaching at Universities
+categories:
+- eei
 date: 2017-03-09 09:59:20+10:00
-categories: ['eei']
+next:
+  text: How we are rethinking L&T grants, awards and professional learning
+  url: /blog2/2017/03/09/how-we-are-rethinking-lt-grants-awards-and-professional-learning/
+previous:
+  text: Thinking about (more) reproducible research and learning analytics
+  url: /blog2/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/
+title: Communication and professional learning for teaching at Universities
 type: post
 template: blog-post.html
 comments:
@@ -28,7 +35,7 @@ comments:
       type: comment
       user_id: '0'
     - approved: '1'
-      author: admin
+      author: David Jones
       author_email: davidthomjones@gmail.com
       author_ip: 139.86.69.41
       author_url: null

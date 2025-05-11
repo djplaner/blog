@@ -1,7 +1,14 @@
 ---
-title: Some MAV tasters
+categories:
+- bad
 date: 2016-10-28 11:47:09+10:00
-categories: ['bad']
+next:
+  text: Open, education, institutions and culture
+  url: /blog2/2016/11/18/open-education-institutions-and-culture/
+previous:
+  text: Exploring more frameworks to understand OER/OEP
+  url: /blog2/2016/10/10/exploring-more-frameworks-to-understand-oeroep/
+title: Some MAV tasters
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: The story of BIM - Development of BAM
+categories:
+- bim
 date: 2010-03-17 11:27:49+10:00
-categories: ['bim']
+next:
+  text: Late enrolling students and student signatures - Indicators project?
+  url: /blog2/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
+previous:
+  text: The story of BIM - Origins - blogs and minute papers
+  url: /blog2/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
+title: The story of BIM - Development of BAM
 type: post
 template: blog-post.html
 comments:

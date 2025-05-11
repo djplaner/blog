@@ -1,0 +1,191 @@
+
+ [data-md-color-scheme="memexdark"] .md-main {
+  background: #100775;
+background: linear-gradient(280deg, rgba(16, 7, 117, 1) 0%, rgba(10, 5, 79, 1) 50%, rgba(4, 10, 46, 1) 100%);
+ }
+
+[data-md-color-scheme="memexdark"].md-typeset blockquote {
+  padding-left: 1rem;
+  border-left: 4px solid var(--md-typeset-color);
+ }
+
+ .md-header__title {
+  font-size: 1.5rem;
+ }
+
+ .md-nav__link {
+  color: var(--md-typeset-a-color)
+ }
+
+ .md-typeset code:not(.focus-visible) {
+   text-wrap: auto;
+ }
+
+ .md-search-result {
+  background-color: var(--md-search-bg-color);
+  color: var(--md-search-fg-color); 
+ }
+
+ .md-search-result .md-typeset h1, .md-search-result .md-typeset h2{
+  color: var(--md-search-fg-color); 
+ }
+
+ [data-md-toggle=search]:checked~.md-header .md-search__form {
+  background-color: var(--md-search-bg-color);
+  color: var(--md-search-fg-color); 
+ }
+
+ .md-search-result__item {
+  background-color: var(--md-search-bg-color);
+ }
+
+    .memex-image {
+      max-width: 100%;
+      height: auto;
+      margin: 0px;
+      padding: 0px;
+    }
+
+  /*--md-primary-bg-color: #ffffff; */
+ [data-md-color-scheme="memexdark"] {
+  --md-primary-bg-color: #c2c2c2;
+  --md-primary-fg-color--light: #304753;
+  --md-primary-fg-color--dark: #0b0014; 
+  --md-primary-fg-color: #000000; 
+  --md-accent-fg-color: #8888ff;
+  --md-default-fg-color--light: #ffffff;
+  --md-default-fg-color--lighter: #ffffff;
+  --md-default-bg-color: transparent;
+  --md-typeset-color: #ffffff;
+  --md-typeset-a-color: #8888ff; 
+  --md-admonition-fg-color: #ffffff;
+  --md-admonition-bg-color: transparent;
+  --md-code-fg-color: #ffffff;
+  --md-code-bg-color: transparent;
+  --md-typeset-table-color: #aaaaaa;
+    --md-code-hl-punctuation-color: #ffffff;
+    --md-code-hl-variable-color: #ffffff;
+    --md-code-hl-operator-color: #ffffff;
+      --md-search-fg-color: #ffffff;
+  --md-search-bg-color: #000000;
+
+ }
+
+    /* Collections */
+  [data-md-color-scheme="memexlight"] {
+    --md-primary-bg-color: #ffffff;
+    --md-primary-fg-color--light: #304753;
+    --md-primary-fg-color--dark: #121212;
+    --md-primary-fg-color: #000000;
+    --md-accent-fg-color: #526cfe;
+    --md-default-fg-color--light: #000000;
+  --md-default-fg-color--lighter: #ffffff;
+  --md-default-bg-color: transparent;
+
+/*  --md-typeset-color: #ffffff;
+  --md-typeset-a-color: #8888ff; 
+  --md-admonition-fg-color: #ffffff;
+  --md-admonition-bg-color: transparent;*/
+  --md-code-fg-color: #000000;
+  --md-code-bg-color: #ffffff;
+  --md-search-fg-color: #000000;
+  --md-search-bg-color: #ffffff;
+
+/*  --md-typeset-table-color: #aaaaaa;
+    --md-code-hl-punctuation-color: #ffffff;
+    --md-code-hl-variable-color: #ffffff;
+    --md-code-hl-operator-color: #ffffff; */
+
+}
+  
+blockquote {
+  padding-left: 1rem
+}
+
+/** Old collections CSS below here? */
+  .tabbed-content {
+    padding: 0.5rem;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    border-left: 1px solid var(--md-default-fg-color--lightest);
+    border-right: 1px solid var(--md-default-fg-color--lightest);
+  }
+  
+  .tabbed-block {
+    font-size: 0.75rem;
+  }
+  
+  figure {
+    /*  border-style: solid;
+    border-width: 1px;
+    border-color: #f05454;*/
+    border-radius: 5px;
+    background-color: var(--md-default-fg-color--lightest);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+  }
+
+  figure > p {
+    padding: 0rem;
+  }
+
+  figcaption {
+    font-size: 0.7rem;
+    padding: 1rem;
+  }
+  
+  img {
+    padding: 0.5rem;
+  }
+  
+  a.md-header__button > img:nth-child(1) {
+    padding: 0rem;
+  }
+  
+  sl-animated-image {
+    padding: 0.5rem;
+  }
+  
+  .div-iframe {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+  }
+  
+  sl-tab-panel {
+    --padding: 0em;
+  }
+  
+  .explanation {
+    padding: 1rem;
+  }
+  
+  .responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .card-overview {
+    max-width: 200px;
+  }
+
+  .card-overview small {
+    color: var(--sl-color-neutral-500);
+  }
+
+  .card-overview [slot='footer'] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .home-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 0.5rem;
+  }

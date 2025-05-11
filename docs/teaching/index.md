@@ -1,6 +1,6 @@
 ---
-title: Teaching
 date: 2008-10-16 21:57:29+10:00
+title: Teaching
 type: page
 template: blog-post.html
 ---

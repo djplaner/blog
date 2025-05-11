@@ -1,7 +1,17 @@
 ---
-title: What type of \"digital knowledge\" does a teacher need?
+categories:
+- computationalthinking
+- elearning
+- literacies
+- tpack
 date: 2015-09-10 13:25:47+10:00
-categories: ['computationalthinking', 'elearning', 'literacies', 'tpack']
+next:
+  text: Exploring Moodle's API
+  url: /blog2/2015/09/13/exploring-moodles-api/
+previous:
+  text: Requirements, solutions, design, and who should decide
+  url: /blog2/2015/09/09/requirements-solutions-design-and-who-should-decide/
+title: What type of "digital knowledge" does a teacher need?
 type: post
 template: blog-post.html
 comments:

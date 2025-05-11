@@ -1,7 +1,15 @@
 ---
-title: "BAM into Moodle - Step #3 - some initial development?"
+categories:
+- bam
+- moodle
 date: 2009-07-21 15:38:21+10:00
-categories: ['bam', 'moodle']
+next:
+  text: Improving CEQ Outcomes
+  url: /blog2/2009/07/23/improving-ceq-outcomes/
+previous:
+  text: 'BAM into Moodle - Step #2: configuration and questions'
+  url: /blog2/2009/07/21/bam-into-moodle-step-2-configuration-and-questions/
+title: '"BAM into Moodle - Step #3 - some initial development?"'
 type: post
 template: blog-post.html
 comments:

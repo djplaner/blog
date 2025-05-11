@@ -1,7 +1,14 @@
 ---
-title: Do any universities know what's happening with their LMS?
+categories:
+- indicators
 date: 2011-11-15 08:44:33+10:00
-categories: ['indicators']
+next:
+  text: Porting BIM to Moodle 2 - Step 1
+  url: /blog2/2011/11/19/porting-bim-to-moodle-2-step-1/
+previous:
+  text: Some short-term R&#038;D plans
+  url: /blog2/2011/11/12/some-short-term-rd-plans/
+title: Do any universities know what's happening with their LMS?
 type: post
 template: blog-post.html
 comments:

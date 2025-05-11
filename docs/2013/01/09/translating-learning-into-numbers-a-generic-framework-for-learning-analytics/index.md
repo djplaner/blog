@@ -1,7 +1,15 @@
 ---
-title: "Translating Learning into Numbers: A Generic Framework for Learning Analytics"
+categories:
+- indicators
+- learninganalytics-elearning
 date: 2013-01-09 14:38:19+10:00
-categories: ['indicators', 'learninganalytics-elearning']
+next:
+  text: Making some "3100" thinking explicit
+  url: /blog2/2013/01/11/making-some-3100-thinking-explicit/
+previous:
+  text: Analytics for Learning and Teaching
+  url: /blog2/2013/01/08/analytics-for-learning-and-teaching/
+title: '"Translating Learning into Numbers: A Generic Framework for Learning Analytics"'
 type: post
 template: blog-post.html
 comments:

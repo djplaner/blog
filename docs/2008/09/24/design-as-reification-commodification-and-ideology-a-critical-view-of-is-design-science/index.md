@@ -1,7 +1,16 @@
 ---
-title: "Design as reification, commodification and ideology: A critical view of IS design science"
+categories:
+- design-theory
+- thesis
 date: 2008-09-24 22:18:54+10:00
-categories: ['design-theory', 'thesis']
+next:
+  text: The emergence of design research in IS in North America
+  url: /blog2/2008/10/08/the-emergence-of-design-research-in-is-in-north-america/
+previous:
+  text: What underpins student-centered education
+  url: /blog2/2008/09/24/what-underpins-student-centered-education/
+title: '"Design as reification, commodification and ideology: A critical view of IS
+  design science"'
 type: post
 template: blog-post.html
 comments:

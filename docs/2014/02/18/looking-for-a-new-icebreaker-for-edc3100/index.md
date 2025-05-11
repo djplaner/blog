@@ -1,7 +1,15 @@
 ---
-title: "Looking for a new \"icebreaker\" for #edc3100"
+categories:
+- edc3100
+- teaching
 date: 2014-02-18 10:05:49+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: '"Does GPA make any difference to #moodle course usage?"'
+  url: /blog2/2014/02/20/does-gpa-make-any-difference-to-moodle-course-usage/
+previous:
+  text: It&#039;s making us stupid
+  url: /blog2/2014/02/17/making-us-stupid/
+title: '"Looking for a new "icebreaker" for #edc3100"'
 type: post
 template: blog-post.html
 comments:

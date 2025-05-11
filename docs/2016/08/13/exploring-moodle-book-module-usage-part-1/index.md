@@ -1,7 +1,18 @@
 ---
-title: Exploring Moodle Book Module usage - part 1 - background and planning
+categories:
+- bad
+- edc3100
+- edu8117
+- exploring
+- moodleopenbook
 date: 2016-08-13 17:10:02+10:00
-categories: ['bad', 'edc3100', 'edu8117', 'exploring', 'moodleopenbook']
+next:
+  text: Exploring Moodle Book usage - part 2 - overall use
+  url: /blog2/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/
+previous:
+  text: How many digital devices do you have?
+  url: /blog2/2016/08/12/how-many-digital-devices-do-you-have/
+title: Exploring Moodle Book Module usage - part 1 - background and planning
 type: post
 template: blog-post.html
 comments:

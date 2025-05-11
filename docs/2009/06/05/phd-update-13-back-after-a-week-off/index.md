@@ -1,7 +1,16 @@
 ---
-title: "PhD Update #13 - back after a week off"
+categories:
+- chapter-2
+- phd
+- thesis
 date: 2009-06-05 16:23:45+10:00
-categories: ['chapter-2', 'phd', 'thesis']
+next:
+  text: University processes - management and planning
+  url: /blog2/2009/06/08/university-processes-management-and-planning/
+previous:
+  text: The teaching/research nexus - an example?
+  url: /blog2/2009/06/05/the-teachingresearch-nexus-an-example/
+title: '"PhD Update #13 - back after a week off"'
 type: post
 template: blog-post.html
 comments:

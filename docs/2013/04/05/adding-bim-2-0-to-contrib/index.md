@@ -1,7 +1,15 @@
 ---
-title: Adding bim 2.0 to \"CONTRIB\"
+categories:
+- bim
+- bim2
 date: 2013-04-05 16:46:07+10:00
-categories: ['bim', 'bim2']
+next:
+  text: An ad hoc exploration ethnographic research
+  url: /blog2/2013/04/07/an-ad-hoc-exploration-ethnographic-research/
+previous:
+  text: Meaningless freedom and auto-marking the learning journals
+  url: /blog2/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
+title: Adding bim 2.0 to "CONTRIB"
 type: post
 template: blog-post.html
 ---

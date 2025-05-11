@@ -1,6 +1,6 @@
 ---
-title: "Webfuse: An integrated, eclectic Web authoring tool"
 date: 2009-01-01 13:36:38+10:00
+title: '"Webfuse: An integrated, eclectic Web authoring tool"'
 type: page
 template: blog-post.html
 ---

@@ -1,6 +1,7 @@
 ---
-title: Enhancing the learning journey for distance education students in an introductory programming course
 date: 2008-12-22 10:29:58+10:00
+title: Enhancing the learning journey for distance education students in an introductory
+  programming course
 type: page
 template: blog-post.html
 ---

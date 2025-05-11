@@ -1,7 +1,15 @@
 ---
-title: Some initial thoughts on e-learning and innovation
+categories:
+- elearning
+- innovation
 date: 2009-05-13 22:11:16+10:00
-categories: ['elearning', 'innovation']
+next:
+  text: Institution - another part of place
+  url: /blog2/2009/05/15/institution-another-part-of-place/
+previous:
+  text: Quotes about innovation and creativity
+  url: /blog2/2009/05/13/quotes-about-innovation-and-creativity/
+title: Some initial thoughts on e-learning and innovation
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: Design Rationale - ICTs for E-Learning A3
+categories:
+- eded20491
+- ipt
+- teaching
 date: 2011-06-05 22:57:30+10:00
-categories: ['eded20491', 'ipt', 'teaching']
+next:
+  text: A simple class management plan for beginning teachers
+  url: /blog2/2011/06/16/a-simple-class-management-plan-for-beginning-teachers/
+previous:
+  text: Learner profile - ICTs for E-Learning A3 - Part 1
+  url: /blog2/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/
+title: Design Rationale - ICTs for E-Learning A3
 type: post
 template: blog-post.html
 comments:

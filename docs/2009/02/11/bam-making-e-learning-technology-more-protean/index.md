@@ -1,7 +1,23 @@
 ---
-title: BAM - making e-learning technology more protean
+categories:
+- bam
+- chapter-5
+- design-theory
+- elearning
+- missingps
+- ple
+- plescquni
+- thesis
+- webfuse
 date: 2009-02-11 10:18:01+10:00
-categories: ['bam', 'chapter-5', 'design-theory', 'elearning', 'missingps', 'ple', 'plescquni', 'thesis', 'webfuse']
+next:
+  text: The value of being open
+  url: /blog2/2009/02/11/the-value-of-being-open/
+previous:
+  text: The protean nature of modern technology - another limitation of most views
+    of e-learning
+  url: /blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+title: BAM - making e-learning technology more protean
 type: post
 template: blog-post.html
 comments:

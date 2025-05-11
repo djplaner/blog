@@ -1,7 +1,15 @@
 ---
-title: \"What is\" and \"what might be\" - evidence of a problem with institutional e-learning?
+categories:
+- bad
+- elearning
 date: 2014-12-15 13:39:15+10:00
-categories: ['bad', 'elearning']
+next:
+  text: '"Initial steps with the #FedWikiHappening happening"'
+  url: /blog2/2014/12/16/initial-steps-with-the-fedwikihappening-happening/
+previous:
+  text: Adding more student information to a Moodle course
+  url: /blog2/2014/11/13/adding-more-student-information-to-a-moodle-course/
+title: '"What is" and "what might be" - evidence of a problem with institutional e-learning?'
 type: post
 template: blog-post.html
 ---

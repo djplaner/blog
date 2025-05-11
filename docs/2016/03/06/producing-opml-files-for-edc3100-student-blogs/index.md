@@ -1,7 +1,15 @@
 ---
-title: Producing OPML files for EDC3100 student blogs
+categories:
+- bad
+- edc3100
 date: 2016-03-06 10:32:19+10:00
-categories: ['bad', 'edc3100']
+next:
+  text: Using resources appropriately
+  url: /blog2/2016/03/06/using-resources-appropriately/
+previous:
+  text: Preparing my digital &quot;learning space&quot;
+  url: /blog2/2016/03/04/preparing-my-digital-learning-space/
+title: Producing OPML files for EDC3100 student blogs
 type: post
 template: blog-post.html
 comments:

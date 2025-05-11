@@ -1,7 +1,20 @@
 ---
-title: The insanity of changing LMSes/VLEs
+categories:
+- chapter-2
+- design-theory
+- elearning
+- missingps
+- psframework
+- quotes
+- thesis
 date: 2009-03-04 09:55:50+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'missingps', 'psframework', 'quotes', 'thesis']
+next:
+  text: Place - the industrial society's impact on schools - and universities?
+  url: /blog2/2009/03/05/place-the-industrial-societys-impact-on-schools-and-universities/
+previous:
+  text: Task corruption in teaching @ university - negative impact of Place?
+  url: /blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
+title: The insanity of changing LMSes/VLEs
 type: post
 template: blog-post.html
 ---

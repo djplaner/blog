@@ -1,7 +1,15 @@
 ---
-title: BIM 2.0 - cleaning up part 4
+categories:
+- bim
+- bim2
 date: 2013-02-01 11:01:00+10:00
-categories: ['bim', 'bim2']
+next:
+  text: The missing perspective(s) on MOOCs?
+  url: /blog2/2013/02/08/the-missing-perspectives-on-moocs/
+previous:
+  text: Exploring connected versus/and networked learning
+  url: /blog2/2013/01/27/exploring-connected-versusand-networked-learning/
+title: BIM 2.0 - cleaning up part 4
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: Reflections on a 12 year-old course site - It would be harder now
+categories:
+- coursesites
+- elearning
 date: 2011-04-01 12:17:41+10:00
-categories: ['coursesites', 'elearning']
+next:
+  text: Making and using an OPML feed of student blogs
+  url: /blog2/2011/04/04/making-and-using-an-opml-feed-of-student-blogs/
+previous:
+  text: Two new laws for ERA/NAPLAN etc
+  url: /blog2/2011/04/01/two-new-laws-for-eranaplan-etc/
+title: Reflections on a 12 year-old course site - It would be harder now
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: "Who is to blame for plagiarism: technology, lecturers or context?"
+categories:
+- plagiarism
 date: 2006-10-25 12:47:32+10:00
-categories: ['plagiarism']
+next:
+  text: Additional improvements to BAM
+  url: /blog2/2006/10/25/additional-improvements-to-bam/
+previous:
+  text: The missing Ps - People
+  url: /blog2/2006/10/25/the-missing-ps-people/
+title: '"Who is to blame for plagiarism: technology, lecturers or context?"'
 type: post
 template: blog-post.html
 ---

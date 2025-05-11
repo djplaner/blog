@@ -1,7 +1,17 @@
 ---
-title: The McNamara Fallacy and pass rates, academic analytics, and engagement
+categories:
+- elearning
+- herding-cats
+- highereducation
+- indicators
 date: 2010-08-09 22:33:20+10:00
-categories: ['elearning', 'herding-cats', 'highereducation', 'indicators']
+next:
+  text: Background to the thesis
+  url: /blog2/2010/08/12/background-to-the-thesis/
+previous:
+  text: Wicked problems and the need to engage with differing perspectives
+  url: /blog2/2010/08/08/wicked-problems-and-the-need-to-engage-with-differing-perspectives/
+title: The McNamara Fallacy and pass rates, academic analytics, and engagement
 type: post
 template: blog-post.html
 comments:

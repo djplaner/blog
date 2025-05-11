@@ -1,8 +1,18 @@
 ---
-title: Gamification by camouflage - fads and higher ed
+categories:
+- thesis
 date: 2011-08-09 08:56:35+10:00
-categories: ['thesis']
-tags: ['eportfolios', 'gamification', 'highered']
+next:
+  text: Khan academy, gamification, the flipped classroom and mathematics
+  url: /blog2/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/
+previous:
+  text: Some literature on perceptions of IPT and IT/CS courses
+  url: /blog2/2011/08/08/some-literature-on-perceptions-of-ipt-and-itcs-courses/
+tags:
+- eportfolios
+- gamification
+- highered
+title: Gamification by camouflage - fads and higher ed
 type: post
 template: blog-post.html
 ---

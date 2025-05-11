@@ -1,7 +1,14 @@
 ---
-title: BIM testing and fixes
+categories:
+- bim2
 date: 2014-02-07 13:53:40+10:00
-categories: ['bim2']
+next:
+  text: Needed updates to cc_attrib.pl
+  url: /blog2/2014/02/15/needed-updates-to-cc_attrib-pl/
+previous:
+  text: Identifying some immediate changes to BIM
+  url: /blog2/2014/02/05/identifying-some-immediate-changes-to-bim/
+title: BIM testing and fixes
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Adding OPML feeds to BIM
+categories:
+- bim
+- moodle
 date: 2010-06-01 14:04:04+10:00
-categories: ['bim', 'moodle']
+next:
+  text: The role of experience
+  url: /blog2/2010/06/02/the-role-of-experience/
+previous:
+  text: The need for a third way
+  url: /blog2/2010/05/31/the-need-for-a-third-way/
+title: Adding OPML feeds to BIM
 type: post
 template: blog-post.html
 ---

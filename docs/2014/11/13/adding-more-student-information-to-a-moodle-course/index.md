@@ -1,7 +1,17 @@
 ---
-title: Adding more student information to a Moodle course
+categories:
+- bad
+- elearning
 date: 2014-11-13 16:50:48+10:00
-categories: ['bad', 'elearning']
+next:
+  text: '"What is" and "what might be" - evidence of a problem with institutional
+    e-learning?'
+  url: /blog2/2014/12/15/what-is-and-what-might-be-evidence-of-a-problem-with-institutional-e-learning/
+previous:
+  text: 'Established versus Affordances: part of the reason institutional e-learning
+    is like teenage sex'
+  url: /blog2/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
+title: Adding more student information to a Moodle course
 type: post
 template: blog-post.html
 comments:

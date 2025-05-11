@@ -1,7 +1,14 @@
 ---
-title: My example assignment 1 web-based artefact
+categories:
+- thesis
 date: 2015-03-25 09:47:47+10:00
-categories: ['thesis']
+next:
+  text: Framing some project ideas around support and services for learning and teaching
+  url: /blog2/2015/03/25/framing-some-project-ideas-around-support-and-services-for-learning-and-teaching/
+previous:
+  text: Embedding prezi - some tests
+  url: /blog2/2015/03/24/embedding-prezi-some-tests/
+title: My example assignment 1 web-based artefact
 type: post
 template: blog-post.html
 comments:

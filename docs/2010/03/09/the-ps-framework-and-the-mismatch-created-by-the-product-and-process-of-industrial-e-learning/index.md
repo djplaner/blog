@@ -1,7 +1,20 @@
 ---
-title: The Ps Framework and the mismatch created by the product and process of industrial e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-03-09 09:59:23+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Fixes and reflections on the early use of BIM
+  url: /blog2/2010/03/09/fixes-and-reflections-on-the-early-use-of-bim/
+previous:
+  text: Some thinking on analysing Webfuse usage
+  url: /blog2/2010/03/07/some-thinking-on-analysing-webfuse-usage/
+title: The Ps Framework and the mismatch created by the product and process of industrial
+  e-learning
 type: post
 template: blog-post.html
 comments:

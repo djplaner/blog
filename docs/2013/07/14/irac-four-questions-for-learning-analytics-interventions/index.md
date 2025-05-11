@@ -1,7 +1,17 @@
 ---
-title: IRAC - Four questions for learning analytics interventions
+categories:
+- elearning
+- highereducation
+- indicators
+- irac
 date: 2013-07-14 21:58:00+10:00
-categories: ['elearning', 'highereducation', 'indicators', 'irac']
+next:
+  text: How are they feeling - Semester 2 - Part 1
+  url: /blog2/2013/07/18/how-are-they-feeling-semester-2-part-1/
+previous:
+  text: A quick search for a Google reader alternative
+  url: /blog2/2013/07/07/a-quick-search-for-a-google-reader-alternative/
+title: IRAC - Four questions for learning analytics interventions
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: "Reflection and conclusions: Learning brief"
+categories:
+- eded20491
+- teaching
 date: 2011-03-15 17:24:11+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Learning brief - Reflections and conclusions - version 2.0
+  url: /blog2/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/
+previous:
+  text: 'Week 3: ICTs for Learning Design'
+  url: /blog2/2011/03/13/week-3-icts-for-learning-design/
+title: '"Reflection and conclusions: Learning brief"'
 type: post
 template: blog-post.html
 comments:

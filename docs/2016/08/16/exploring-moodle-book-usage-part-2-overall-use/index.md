@@ -1,7 +1,15 @@
 ---
-title: Exploring Moodle Book usage - part 2 - overall use
+categories:
+- exploring
+- moodleopenbook
 date: 2016-08-16 10:20:42+10:00
-categories: ['exploring', 'moodleopenbook']
+next:
+  text: Exploring Moodle book usage - part 3 - who and how much
+  url: /blog2/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/
+previous:
+  text: Exploring Moodle Book Module usage - part 1 - background and planning
+  url: /blog2/2016/08/13/exploring-moodle-book-module-usage-part-1/
+title: Exploring Moodle Book usage - part 2 - overall use
 type: post
 template: blog-post.html
 comments:

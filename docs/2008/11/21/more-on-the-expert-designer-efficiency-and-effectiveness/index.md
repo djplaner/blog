@@ -1,7 +1,16 @@
 ---
-title: More on the expert designer - efficiency and effectiveness
+categories:
+- elearning
+- ple
+- plescquni
 date: 2008-11-21 08:31:34+10:00
-categories: ['elearning', 'ple', 'plescquni']
+next:
+  text: Starting a new journey and hobby - photography
+  url: /blog2/2008/11/21/starting-a-new-journey-and-hobby-photography/
+previous:
+  text: Tool users, research, hammers and the law of instrument
+  url: /blog2/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/
+title: More on the expert designer - efficiency and effectiveness
 type: post
 template: blog-post.html
 comments:

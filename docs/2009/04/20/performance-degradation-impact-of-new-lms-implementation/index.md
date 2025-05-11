@@ -1,7 +1,19 @@
 ---
-title: Performance degradation - impact of new LMS implementation
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-04-20 15:30:37+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: The paradigms of e-learning
+  url: /blog2/2009/04/20/the-paradigms-of-e-learning/
+previous:
+  text: 'PhD Update #7 - a fortnight in review'
+  url: /blog2/2009/04/17/phd-update-7-a-fortnight-in-review/
+title: Performance degradation - impact of new LMS implementation
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,17 @@
 ---
-title: "#moodle, blogs, Moodle blogs and #bim"
+categories:
+- bim
+- bim2
+- moodle
 date: 2013-12-10 14:17:55+10:00
-categories: ['bim', 'bim2', 'moodle']
+next:
+  text: Blogs, learning analytics, IRAC and BIM
+  url: /blog2/2013/12/12/blogs-learning-analytics-irac-and-bim/
+previous:
+  text: 'The IRAC framework: Locating the performance zone for learning analytics
+    #ascilite'
+  url: /blog2/2013/12/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics-ascilite/
+title: '"#moodle, blogs, Moodle blogs and #bim"'
 type: post
 template: blog-post.html
 comments:

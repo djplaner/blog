@@ -1,7 +1,14 @@
 ---
-title: Big data in education - part 1
+categories:
+- learninganalytics-elearning
 date: 2013-11-03 11:14:50+10:00
-categories: ['learninganalytics-elearning']
+next:
+  text: Big data in education - part 2
+  url: /blog2/2013/11/03/big-data-in-education-part-1-2/
+previous:
+  text: BIM and broken moodle capabilities
+  url: /blog2/2013/11/01/bim-and-broken-moodle-capabilities/
+title: Big data in education - part 1
 type: post
 template: blog-post.html
 ---

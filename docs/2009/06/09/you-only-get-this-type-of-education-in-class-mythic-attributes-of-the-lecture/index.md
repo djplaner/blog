@@ -1,7 +1,14 @@
 ---
-title: You only get this type of education in class - mythic attributes of the lecture
+categories:
+- ilecture
 date: 2009-06-09 14:50:26+10:00
-categories: ['ilecture']
+next:
+  text: An ill-informed observation on connectivism and other learning theories
+  url: /blog2/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
+previous:
+  text: University processes - management and planning
+  url: /blog2/2009/06/08/university-processes-management-and-planning/
+title: You only get this type of education in class - mythic attributes of the lecture
 type: post
 template: blog-post.html
 comments:
@@ -60,7 +67,7 @@ comments:
       type: comment
       user_id: '0'
     - approved: '1'
-      author: admin
+      author: David Jones
       author_email: davidthomjones@gmail.com
       author_ip: 132.234.180.2
       author_url: null

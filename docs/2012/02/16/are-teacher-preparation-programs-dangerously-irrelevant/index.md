@@ -1,7 +1,14 @@
 ---
-title: Are teacher preparation programs dangerously irrelevant?
+categories:
+- teaching
 date: 2012-02-16 15:13:31+10:00
-categories: ['teaching']
+next:
+  text: But does it have to be a lecture?
+  url: /blog2/2012/02/17/but-does-it-have-to-be-a-lecture/
+previous:
+  text: How to replace the lecture?
+  url: /blog2/2012/02/10/how-to-replace-the-lecture/
+title: Are teacher preparation programs dangerously irrelevant?
 type: post
 template: blog-post.html
 comments:

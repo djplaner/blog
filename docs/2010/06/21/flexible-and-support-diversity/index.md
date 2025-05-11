@@ -1,7 +1,19 @@
 ---
-title: Flexible and support diversity
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-06-21 13:28:45+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Webfuse as a web publishing tool - 2000 through 2004
+  url: /blog2/2010/06/22/webfuse-as-a-web-publishing-tool-2000-through-2004/
+previous:
+  text: Further analysis of wf application usage
+  url: /blog2/2010/06/18/further-analysis-of-wf-application-usage/
+title: Flexible and support diversity
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,19 @@
 ---
-title: Lessons from place
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-17 21:55:27+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Over emphasis on design and bugger all on maintenance
+  url: /blog2/2009/05/18/over-emphasis-on-design-and-bugger-all-on-maintenance/
+previous:
+  text: 'Phd Update #11 - very short week'
+  url: /blog2/2009/05/15/phd-update-11-very-short-week/
+title: Lessons from place
 type: post
 template: blog-post.html
 comments:

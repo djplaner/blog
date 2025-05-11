@@ -1,7 +1,15 @@
 ---
-title: Adding restore to BIM
+categories:
+- bim
+- bim2
 date: 2013-01-01 16:09:38+10:00
-categories: ['bim', 'bim2']
+next:
+  text: BIM 2.0 - cleaning up issues - Part 1
+  url: /blog2/2013/01/01/bim-2-0-cleaning-up-issues-part-1/
+previous:
+  text: Backup for BIM 2.0
+  url: /blog2/2012/12/29/backup-for-bim-2-0/
+title: Adding restore to BIM
 type: post
 template: blog-post.html
 ---

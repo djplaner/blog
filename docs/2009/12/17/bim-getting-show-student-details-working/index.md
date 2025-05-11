@@ -1,7 +1,14 @@
 ---
-title: BIM - Getting \"show student details\" working
+categories:
+- bim
 date: 2009-12-17 15:58:31+10:00
-categories: ['bim']
+next:
+  text: BIM - Saving/manipulating RSS files
+  url: /blog2/2009/12/20/bim-savingmanipulating-rss-files/
+previous:
+  text: BIM - getting student registration working
+  url: /blog2/2009/12/17/bim-getting-student-registration-working/
+title: BIM - Getting "show student details" working
 type: post
 template: blog-post.html
 comments:

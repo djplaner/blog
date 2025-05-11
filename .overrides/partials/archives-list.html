@@ -3,23 +3,24 @@
     .md-nav__item {
         padding-bottom: 0.5em;
     }
-    .md-nav__title {
-        font-size: 1.5em;
+/*    .md-nav__title {
         font-weight: bold;
         padding-bottom: 0.5em;
-    }
+    } */
     .md-nav__list {
         padding-top: 0.5em;
     }
 </style>
 <!-- <h3 class="archive-title">Archives</h3> -->
-<nav class="md-nav md-nav--secondary">
-    <label class="md-nav__title">Archives</label>
+<nav class="md-nav md-nav--secondary" aria-label="Archives">
+    <label class="md-nav__title" for="__toc">
+        Archives
+    </label>
     <!-- <ul class="archives-list"> -->
     <ul class="md-nav__list">
         {% for archive in page.meta.archives %}
         <li class="md-nav__item">
-            <a href="archives/{{ archive.month }}-{{ archive.year }}.html">
+            <a href="archives/{{ archive.month }}-{{ archive.year }}.html" class="md-nav__link">
             {{ archive.month }} {{ archive.year }} - {{ archive.count }} 
             {% if archive.count == 1 %}
                 post 

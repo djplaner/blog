@@ -1,7 +1,14 @@
 ---
-title: Results of the Year 10 math hassle map
+categories:
+- teaching
 date: 2011-10-09 14:00:54+10:00
-categories: ['teaching']
+next:
+  text: '"Clickers", success, and why do I feel dirty?'
+  url: /blog2/2011/10/09/clickers-success-and-why-do-i-feel-dirty/
+previous:
+  text: Social media in higher education - to read
+  url: /blog2/2011/09/26/4109/
+title: Results of the Year 10 math hassle map
 type: post
 template: blog-post.html
 ---

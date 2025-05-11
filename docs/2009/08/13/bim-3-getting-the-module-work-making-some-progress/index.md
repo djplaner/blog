@@ -1,7 +1,14 @@
 ---
-title: "BIM #3: Getting the module work, making some progress?"
+categories:
+- bam
 date: 2009-08-13 11:31:16+10:00
-categories: ['bam']
+next:
+  text: '"PhD Update #20 - Progress, slowness and techno-rationality"'
+  url: /blog2/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
+previous:
+  text: BIM#2 - Starting the module
+  url: /blog2/2009/08/11/bim2-starting-the-module/
+title: '"BIM #3: Getting the module work, making some progress?"'
 type: post
 template: blog-post.html
 comments:

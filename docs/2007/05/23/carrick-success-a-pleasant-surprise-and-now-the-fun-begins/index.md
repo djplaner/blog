@@ -1,7 +1,14 @@
 ---
-title: Carrick success - a pleasant surprise and now the fun begins
+categories:
+- ascilitementor
 date: 2007-05-23 19:57:48+10:00
-categories: ['ascilitementor']
+next:
+  text: Governance, e-learning and learning design
+  url: /blog2/2007/06/08/governance-e-learning-and-learning-design/
+previous:
+  text: University learning and teaching publications - rankings and RQF
+  url: /blog2/2007/05/17/university-learning-and-teaching-publications-rankings-and-rqf/
+title: Carrick success - a pleasant surprise and now the fun begins
 type: post
 template: blog-post.html
 comments:

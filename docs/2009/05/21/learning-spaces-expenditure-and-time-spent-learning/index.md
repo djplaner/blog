@@ -1,7 +1,16 @@
 ---
-title: "Learning spaces: expenditure and time spent learning"
+categories:
+- elearning
+- ilecture
+- innovation
 date: 2009-05-21 16:48:22+10:00
-categories: ['elearning', 'ilecture', 'innovation']
+next:
+  text: The perils of re-organisation - Gaius Petronius
+  url: /blog2/2009/05/21/the-perils-of-re-organisation-gaius-petronius/
+previous:
+  text: Where&#039;s the inspiration? Where&#039;s the desire to improve?
+  url: /blog2/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/
+title: '"Learning spaces: expenditure and time spent learning"'
 type: post
 template: blog-post.html
 ---

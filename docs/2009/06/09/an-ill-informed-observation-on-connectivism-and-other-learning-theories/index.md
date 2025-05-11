@@ -1,6 +1,12 @@
 ---
-title: An ill-informed observation on connectivism and other learning theories
 date: 2009-06-09 15:26:09+10:00
+next:
+  text: Quality, compliance and task corruption
+  url: /blog2/2009/06/10/quality-compliance-and-task-corruption/
+previous:
+  text: You only get this type of education in class - mythic attributes of the lecture
+  url: /blog2/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
+title: An ill-informed observation on connectivism and other learning theories
 type: post
 template: blog-post.html
 comments:

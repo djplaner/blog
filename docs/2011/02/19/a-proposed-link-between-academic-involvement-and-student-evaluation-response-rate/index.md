@@ -1,7 +1,15 @@
 ---
-title: A proposed link between academic involvement and student evaluation response rate
+categories:
+- indicators
 date: 2011-02-19 23:45:47+10:00
-categories: ['indicators']
+next:
+  text: How many pages of a course profile are necessary?
+  url: /blog2/2011/02/20/how-many-pages-of-a-course-profile-are-necessary/
+previous:
+  text: 'bim2: manage marking services - Part II'
+  url: /blog2/2011/02/19/bim2-manage-marking-services-part-ii/
+title: A proposed link between academic involvement and student evaluation response
+  rate
 type: post
 template: blog-post.html
 comments:

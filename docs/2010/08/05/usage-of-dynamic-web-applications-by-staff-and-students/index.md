@@ -1,7 +1,19 @@
 ---
-title: Usage of dynamic web applications by staff and students
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-08-05 10:31:14+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: 30% of information about task performance
+  url: /blog2/2010/08/08/30-of-information-about-task-performance/
+previous:
+  text: Usage of Wf applications
+  url: /blog2/2010/08/04/usage-of-wf-applications/
+title: Usage of dynamic web applications by staff and students
 type: post
 template: blog-post.html
 ---

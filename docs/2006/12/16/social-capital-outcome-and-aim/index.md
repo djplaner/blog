@@ -1,7 +1,16 @@
 ---
-title: Social capital - outcome and aim
+categories:
+- elearning
+- herding-cats
+- webfuse
 date: 2006-12-16 13:39:18+10:00
-categories: ['elearning', 'herding-cats', 'webfuse']
+next:
+  text: Social capital, REACT, Trust - misc resources
+  url: /blog2/2006/12/19/social-capital-react-trust-misc-resources/
+previous:
+  text: Adoption of innovations and the &quot;not invented here&quot; syndrome
+  url: /blog2/2006/12/16/adoption-of-innovations-and-the-not-invented-here-syndrome/
+title: Social capital - outcome and aim
 type: post
 template: blog-post.html
 ---

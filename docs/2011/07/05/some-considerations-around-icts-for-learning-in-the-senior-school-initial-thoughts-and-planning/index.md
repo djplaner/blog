@@ -1,7 +1,17 @@
 ---
-title: "Some considerations around ICTs for learning in the Senior School: initial thoughts and planning"
+categories:
+- eded20488
+- teaching
 date: 2011-07-05 13:23:28+10:00
-categories: ['eded20488', 'teaching']
+next:
+  text: '"Social bookmarks, curriculum and resources: A search for a visualisation
+    tool"'
+  url: /blog2/2011/07/08/social-bookmarks-curriculum-and-resources-a-search-for-a-visualisation-tool/
+previous:
+  text: How do you increase sharing? Create an interactive website?
+  url: /blog2/2011/07/04/how-do-you-increase-sharing-create-an-interactive-website/
+title: '"Some considerations around ICTs for learning in the Senior School: initial
+  thoughts and planning"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,17 @@
 ---
-title: Examination focus and what it might tell us about learning and teaching
+categories:
+- elearning
+- indicators
+- reflectivealignment
 date: 2009-06-19 10:19:52+10:00
-categories: ['elearning', 'indicators', 'reflectivealignment']
+next:
+  text: Why minimium standards (probably) won't work and will probably become maximum
+    standards
+  url: /blog2/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
+previous:
+  text: The planning fallacy, innovation and ateleological design
+  url: /blog2/2009/06/18/the-planning-fallacy-innovation-and-ateleological-design/
+title: Examination focus and what it might tell us about learning and teaching
 type: post
 template: blog-post.html
 ---

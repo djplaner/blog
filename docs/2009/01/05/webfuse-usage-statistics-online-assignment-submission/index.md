@@ -1,7 +1,15 @@
 ---
-title: Webfuse usage statistics - Online assignment submission
+categories:
+- thesis
+- webfuse
 date: 2009-01-05 14:35:26+10:00
-categories: ['thesis', 'webfuse']
+next:
+  text: Implementing the rotating banner image
+  url: /blog2/2009/01/06/implementing-the-rotating-banner-image/
+previous:
+  text: Webfuse statistics - Staff Portal
+  url: /blog2/2009/01/05/webfuse-statistics-staff-portal/
+title: Webfuse usage statistics - Online assignment submission
 type: post
 template: blog-post.html
 ---

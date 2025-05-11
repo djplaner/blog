@@ -1,7 +1,15 @@
 ---
-title: The adoption and acceptance of learning analytics
+categories:
+- elearning
+- learninganalytics-elearning
 date: 2013-12-12 16:34:39+10:00
-categories: ['elearning', 'learninganalytics-elearning']
+next:
+  text: '"TAM, #moodle, online assignment submission and strategic implementation"'
+  url: /blog2/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
+previous:
+  text: Blogs, learning analytics, IRAC and BIM
+  url: /blog2/2013/12/12/blogs-learning-analytics-irac-and-bim/
+title: The adoption and acceptance of learning analytics
 type: post
 template: blog-post.html
 comments:

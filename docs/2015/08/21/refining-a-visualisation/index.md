@@ -1,7 +1,14 @@
 ---
-title: Refining a visualisation
+categories:
+- 4paths
 date: 2015-08-21 13:36:42+10:00
-categories: ['4paths']
+next:
+  text: All models are wrong, but some are useful and its application to e-learning
+  url: /blog2/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+previous:
+  text: github and the Moodle - Step 3
+  url: /blog2/2015/08/20/github-and-the-moodle-step-3/
+title: Refining a visualisation
 type: post
 template: blog-post.html
 ---

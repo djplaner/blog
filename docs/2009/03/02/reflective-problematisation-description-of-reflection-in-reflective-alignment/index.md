@@ -1,7 +1,17 @@
 ---
-title: Reflective problematisation - description of reflection in \"reflective alignment\"?
+categories:
+- quotes
+- react
+- react2008
+- reflectivealignment
 date: 2009-03-02 08:29:11+10:00
-categories: ['quotes', 'react', 'react2008', 'reflectivealignment']
+next:
+  text: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
+  url: /blog2/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
+previous:
+  text: Another spectrum for using indicators to place course websites
+  url: /blog2/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/
+title: Reflective problematisation - description of reflection in "reflective alignment"?
 type: post
 template: blog-post.html
 ---

@@ -1,6 +1,12 @@
 ---
-title: Getting started with the blog
 date: 2006-03-02 10:46:27+10:00
+next:
+  text: Writing and sending the email to students - using blogs
+  url: /blog2/2006/03/02/writing-and-sending-the-email-to-students-using-blogs/
+previous:
+  text: Home
+  url: /blog2/index.html
+title: Getting started with the blog
 type: post
 template: blog-post.html
 comments:

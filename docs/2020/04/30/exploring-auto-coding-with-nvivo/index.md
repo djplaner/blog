@@ -1,7 +1,16 @@
 ---
-title: Exploring auto-coding with NVivo
+categories:
+- bad
+- bricolage
+- shadowsystems
 date: 2020-04-30 16:39:30+10:00
-categories: ['bad', 'bricolage', 'shadowsystems']
+next:
+  text: Playing with React.js as a technology for CASA
+  url: /blog2/2020/05/20/playing-with-react-js-as-a-technology-for-casa/
+previous:
+  text: Early steps with Gephi
+  url: /blog2/2020/04/19/early-steps-with-gephi/
+title: Exploring auto-coding with NVivo
 type: post
 template: blog-post.html
 ---

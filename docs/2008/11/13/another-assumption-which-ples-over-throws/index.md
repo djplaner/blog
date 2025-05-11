@@ -1,7 +1,16 @@
 ---
-title: Another assumption which PLEs over throws
+categories:
+- elearning
+- ple
+- plescquni
 date: 2008-11-13 09:31:06+10:00
-categories: ['elearning', 'ple', 'plescquni']
+next:
+  text: PLEs@CQUni - VoiceThread for Research Posters
+  url: /blog2/2008/11/14/plescquni-voicethread-for-research-posters/
+previous:
+  text: What are the assumptions which PLEs/Learning 2.0 etc overthrow
+  url: /blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
+title: Another assumption which PLEs over throws
 type: post
 template: blog-post.html
 comments:

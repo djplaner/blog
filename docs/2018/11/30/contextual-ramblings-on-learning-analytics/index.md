@@ -1,8 +1,17 @@
 ---
-title: Contextual ramblings on learning analytics
+categories:
+- eei
 date: 2018-11-30 08:47:42+10:00
-categories: ['eei']
-tags: ['complexity', 'irac']
+next:
+  text: Testing h5p
+  url: /blog2/2018/12/11/testing-h5p/
+previous:
+  text: Explaining ISDT and its place in the research process
+  url: /blog2/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/
+tags:
+- complexity
+- irac
+title: Contextual ramblings on learning analytics
 type: post
 template: blog-post.html
 ---
@@ -97,15 +106,15 @@ The project I'm involved with is attempting the first "scale" transition identif
 
 Should we recognise and embrace this. We're not trying to scale this, make it mainstream. We're at the right hand innovation and problem solving end of the image below and aren't worried about everything to the left. So don't worry about it.
 
-<figure>
+<figure markdown>
 
 ![](images/screen-shot-2018-11-29-at-09-25-05.png?w=574&h=190)
 
-<figcaption>
+<caption>
 
 Borrowed from [Col Beer](https://beerc.wordpress.com/2018/11/29/the-tensions-around-learning-analytics/)
 
-</figcaption>
+</caption>
 
 </figure>
 

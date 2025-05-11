@@ -1,7 +1,19 @@
 ---
-title: Lessons from Pedagogy for e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-10-04 22:38:26+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"Lectures and the LMS: Alternatives and experiments"'
+  url: /blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
+previous:
+  text: Learning theories and e-learning
+  url: /blog2/2009/10/04/learning-theories-and-e-learning/
+title: Lessons from Pedagogy for e-learning
 type: post
 template: blog-post.html
 comments:

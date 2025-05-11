@@ -1,7 +1,19 @@
 ---
-title: Webfuse as a web publishing tool - 2000 through 2004
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-06-22 14:18:39+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Default course sites and wizards - version 2.0
+  url: /blog2/2010/06/25/default-course-sites-and-wizards-version-2-0/
+previous:
+  text: Flexible and support diversity
+  url: /blog2/2010/06/21/flexible-and-support-diversity/
+title: Webfuse as a web publishing tool - 2000 through 2004
 type: post
 template: blog-post.html
 ---

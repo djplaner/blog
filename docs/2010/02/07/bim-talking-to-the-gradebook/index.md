@@ -1,7 +1,14 @@
 ---
-title: BIM - talking to the gradebook
+categories:
+- bim
 date: 2010-02-07 21:35:58+10:00
-categories: ['bim']
+next:
+  text: BIM - Allowing staff to change student registrations
+  url: /blog2/2010/02/09/bim-allowing-staff-to-change-student-registrations/
+previous:
+  text: BIM - backup and restore
+  url: /blog2/2010/02/07/bim-backup-and-restore/
+title: BIM - talking to the gradebook
 type: post
 template: blog-post.html
 comments:

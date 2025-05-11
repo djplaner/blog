@@ -1,8 +1,16 @@
 ---
-title: Mocking up a search facility for the Moodle book module
+categories:
+- moodleopenbook
 date: 2015-07-19 15:07:22+10:00
-categories: ['moodleopenbook']
-tags: ['moodle']
+next:
+  text: How might a Book module search function work?
+  url: /blog2/2015/07/19/how-might-a-book-module-search-function-work/
+previous:
+  text: 'Predicting System Success using the Technology Acceptance Model: A Case Study'
+  url: /blog2/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/
+tags:
+- moodle
+title: Mocking up a search facility for the Moodle book module
 type: post
 template: blog-post.html
 ---

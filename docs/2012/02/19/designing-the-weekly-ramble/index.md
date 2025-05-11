@@ -1,7 +1,15 @@
 ---
-title: Designing the weekly ramble
+categories:
+- edc3100
+- teaching
 date: 2012-02-19 17:20:39+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Faculty-centered, peer-reviewed online course development models
+  url: /blog2/2012/02/19/faculty-centered-peer-reviewed-online-course-development-models/
+previous:
+  text: Please help, are there &quot;dating services&quot; for online courses?
+  url: /blog2/2012/02/19/please-help-are-there-dating-services-for-online-courses/
+title: Designing the weekly ramble
 type: post
 template: blog-post.html
 comments:

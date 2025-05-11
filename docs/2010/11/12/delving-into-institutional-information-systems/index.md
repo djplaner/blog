@@ -1,7 +1,15 @@
 ---
-title: Delving into institutional information systems
+categories:
+- journey
+- teaching
 date: 2010-11-12 14:52:37+10:00
-categories: ['journey', 'teaching']
+next:
+  text: Getting back into maths - it is not linear
+  url: /blog2/2010/11/15/getting-back-into-maths-it-is-not-linear/
+previous:
+  text: A turning point
+  url: /blog2/2010/11/12/a-turning-point/
+title: Delving into institutional information systems
 type: post
 template: blog-post.html
 ---

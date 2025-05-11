@@ -1,7 +1,17 @@
 ---
-title: On the difference between \"rational\", \"possible\" and \"desirable\"
+categories:
+- bad
+- elearning
+- indicators
 date: 2014-10-09 11:24:43+10:00
-categories: ['bad', 'elearning', 'indicators']
+next:
+  text: Fixing one part of the peoplesoft gradebook
+  url: /blog2/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/
+previous:
+  text: What do new views of knowledge &#038; thinking have to say about research
+    on teacher learning?
+  url: /blog2/2014/10/03/what-do-new-views-of-knowledge-thinking-have-to-say-about-research-on-teacher-learning/
+title: On the difference between "rational", "possible" and "desirable"
 type: post
 template: blog-post.html
 comments:

@@ -1,6 +1,6 @@
 ---
-title: Reflection, Evaluation, and Collaboration in Teaching
 date: 2008-10-27 14:01:44+10:00
+title: Reflection, Evaluation, and Collaboration in Teaching
 type: page
 template: blog-post.html
 comments:

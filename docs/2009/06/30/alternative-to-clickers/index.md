@@ -1,7 +1,14 @@
 ---
-title: Alternative to clickers - freeing up the physical location limitation
+categories:
+- ilecture
 date: 2009-06-30 10:36:27+10:00
-categories: ['ilecture']
+next:
+  text: How do you "apprehend the future"
+  url: /blog2/2009/07/01/how-do-you-apprehend-the-future/
+previous:
+  text: Students and e-learning - a start to the People section
+  url: /blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/
+title: Alternative to clickers - freeing up the physical location limitation
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,19 @@
 ---
-title: Institution - another part of place
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-15 15:12:59+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"Phd Update #11 - very short week"'
+  url: /blog2/2009/05/15/phd-update-11-very-short-week/
+previous:
+  text: Some initial thoughts on e-learning and innovation
+  url: /blog2/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
+title: Institution - another part of place
 type: post
 template: blog-post.html
 comments:

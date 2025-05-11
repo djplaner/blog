@@ -1,7 +1,15 @@
 ---
-title: The research \"foundation\" for the missing Ps
+categories:
+- elearning
+- missingps
 date: 2006-10-29 08:33:38+10:00
-categories: ['elearning', 'missingps']
+next:
+  text: The first missing Ps presentation
+  url: /blog2/2006/11/29/the-first-missing-ps-presentation/
+previous:
+  text: The missing Ps - Process
+  url: /blog2/2006/10/27/the-missing-ps-process/
+title: The research "foundation" for the missing Ps
 type: post
 template: blog-post.html
 ---

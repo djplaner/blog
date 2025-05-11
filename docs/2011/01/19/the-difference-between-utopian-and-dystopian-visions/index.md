@@ -1,8 +1,18 @@
 ---
-title: The difference between utopian and dystopian visions
+categories:
+- elearning
+- lak11
+- quotes
 date: 2011-01-19 10:35:52+10:00
-categories: ['elearning', 'lak11', 'quotes']
-tags: ['lak11']
+next:
+  text: The power of organisational structure
+  url: /blog2/2011/01/25/the-power-of-organisational-structure/
+previous:
+  text: Analytics creating too much transparency? A two-edged sword?
+  url: /blog2/2011/01/18/analytics-creating-too-much-transparency-a-two-edged-sword/
+tags:
+- lak11
+title: The difference between utopian and dystopian visions
 type: post
 template: blog-post.html
 ---

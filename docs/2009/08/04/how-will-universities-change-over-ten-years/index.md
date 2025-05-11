@@ -1,7 +1,15 @@
 ---
-title: How will universities change over ten years?
+categories:
+- elearning
+- futures
 date: 2009-08-04 13:35:40+10:00
-categories: ['elearning', 'futures']
+next:
+  text: How do you measure success with institutional use of an LMS/VLE?
+  url: /blog2/2009/08/05/how-do-you-measure-success-with-institutional-use-of-an-lmsvle/
+previous:
+  text: 'PhD Update #19 - Falling just a little short'
+  url: /blog2/2009/08/02/phd-update-19-falling-just-a-little-short/
+title: How will universities change over ten years?
 type: post
 template: blog-post.html
 comments:

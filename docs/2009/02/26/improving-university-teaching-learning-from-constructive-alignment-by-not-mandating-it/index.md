@@ -1,7 +1,19 @@
 ---
-title: Improving university teaching - learning from constructive alignment by *NOT* mandating it
+categories:
+- c2d2
+- elearning
+- innovation
+- teaching
 date: 2009-02-26 00:01:05+10:00
-categories: ['c2d2', 'elearning', 'innovation', 'teaching']
+next:
+  text: Minute papers - encouraging reflection?
+  url: /blog2/2009/02/27/minute-papers-encouraging-relection/
+previous:
+  text: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
+    systems might go away'
+  url: /blog2/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
+title: Improving university teaching - learning from constructive alignment by *NOT*
+  mandating it
 type: post
 template: blog-post.html
 comments:

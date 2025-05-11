@@ -1,7 +1,14 @@
 ---
-title: Installing and starting with Moodle 2.0
+categories:
+- bim
 date: 2010-11-18 17:12:25+10:00
-categories: ['bim']
+next:
+  text: Interesting times ahead
+  url: /blog2/2010/11/20/interesting-times-ahead/
+previous:
+  text: Understanding EduFeedr and contrast with BIM
+  url: /blog2/2010/11/17/understanding-edufeedr-and-contrast-with-bim/
+title: Installing and starting with Moodle 2.0
 type: post
 template: blog-post.html
 ---

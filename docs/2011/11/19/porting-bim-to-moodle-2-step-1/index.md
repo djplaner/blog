@@ -1,7 +1,14 @@
 ---
-title: Porting BIM to Moodle 2 - Step 1
+categories:
+- bim2
 date: 2011-11-19 16:43:31+10:00
-categories: ['bim2']
+next:
+  text: Twitter, pre-service teachers and creating networks
+  url: /blog2/2011/11/21/twitter-pre-service-teachers-and-creating-networks/
+previous:
+  text: Do any universities know what&#039;s happening with their LMS?
+  url: /blog2/2011/11/15/do-any-universities-know-whats-happening-with-their-lms/
+title: Porting BIM to Moodle 2 - Step 1
 type: post
 template: blog-post.html
 ---

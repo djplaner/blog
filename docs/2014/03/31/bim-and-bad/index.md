@@ -1,7 +1,16 @@
 ---
-title: BIM and BAD
+categories:
+- bad
+- edc3100
+- herding-cats
 date: 2014-03-31 16:08:07+10:00
-categories: ['bad', 'edc3100', 'herding-cats']
+next:
+  text: Staff need to be using the same tools they use to teach to also learn
+  url: /blog2/2014/04/02/staff-need-to-be-using-the-same-tools-they-use-to-teach-to-also-learn/
+previous:
+  text: 'Some areas of improvement for #edc3100'
+  url: /blog2/2014/03/28/some-areas-of-improvement-for-edc3100/
+title: BIM and BAD
 type: post
 template: blog-post.html
 ---

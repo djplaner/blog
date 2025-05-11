@@ -1,7 +1,20 @@
 ---
-title: A command for organisations? Program or be programmed
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
+- webfuse
 date: 2011-01-06 10:43:11+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis', 'webfuse']
+next:
+  text: Thesis acknowledgements version 0.5
+  url: /blog2/2011/01/07/thesis-acknowledgements-version-0-5/
+previous:
+  text: Progressing the student interface for bim2
+  url: /blog2/2010/12/30/progressing-the-student-interface-for-bim2/
+title: A command for organisations? Program or be programmed
 type: post
 template: blog-post.html
 comments:

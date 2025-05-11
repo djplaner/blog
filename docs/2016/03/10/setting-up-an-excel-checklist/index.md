@@ -1,7 +1,14 @@
 ---
-title: Setting up an Excel checklist
+categories:
+- edc3100
 date: 2016-03-10 17:30:02+10:00
-categories: ['edc3100']
+next:
+  text: Early analysis of Moodle data
+  url: /blog2/2016/03/18/early-analysis-of-moodle-data/
+previous:
+  text: Using resources appropriately
+  url: /blog2/2016/03/06/using-resources-appropriately/
+title: Setting up an Excel checklist
 type: post
 template: blog-post.html
 comments:

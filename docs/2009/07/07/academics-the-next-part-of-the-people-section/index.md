@@ -1,7 +1,19 @@
 ---
-title: Academics - the next part of the People section
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-07-07 23:41:54+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Integrating BAM into Moodle - Can it be done?
+  url: /blog2/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
+previous:
+  text: 'PhD Update #16 - return from a break'
+  url: /blog2/2009/07/05/phd-update-16-return-from-a-break/
+title: Academics - the next part of the People section
 type: post
 template: blog-post.html
 comments:

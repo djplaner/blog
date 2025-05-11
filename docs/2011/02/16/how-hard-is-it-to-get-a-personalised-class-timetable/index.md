@@ -1,7 +1,16 @@
 ---
-title: How hard is it to get a personalised class timetable?
+categories:
+- journey
+- teaching
+- webfuse
 date: 2011-02-16 13:56:54+10:00
-categories: ['journey', 'teaching', 'webfuse']
+next:
+  text: A glimmer of what I'm thinking
+  url: /blog2/2011/02/16/a-glimmer-of-what-im-thinking/
+previous:
+  text: Getting an overview of the term ahead
+  url: /blog2/2011/02/15/getting-an-overview-of-the-term-ahead/
+title: How hard is it to get a personalised class timetable?
 type: post
 template: blog-post.html
 comments:

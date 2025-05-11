@@ -1,8 +1,19 @@
 ---
-title: A Paradigmatic Analysis of Information Systems As a Design Science
+categories:
+- chapter-3
+- design-theory
+- information-systems
+- thesis
 date: 2008-10-25 22:28:47+10:00
-categories: ['chapter-3', 'design-theory', 'information-systems', 'thesis']
-tags: ['isdt']
+next:
+  text: The gulf between users and IT departments
+  url: /blog2/2008/10/26/the-gulf-between-users-and-it-departments/
+previous:
+  text: The many Ps
+  url: /blog2/2008/10/25/the-many-ps/
+tags:
+- isdt
+title: A Paradigmatic Analysis of Information Systems As a Design Science
 type: post
 template: blog-post.html
 ---

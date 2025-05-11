@@ -1,8 +1,17 @@
 ---
-title: "How the LMS - as enterprise system - warps the practice of L&#038;T"
+categories:
+- elearning
+- psframework
 date: 2009-08-02 08:17:53+10:00
-categories: ['elearning', 'psframework']
-tags: ['vle-lms']
+next:
+  text: '"Evaluation of Webfuse course site feature usage: 2006 through 2009"'
+  url: /blog2/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
+previous:
+  text: Some early results from Webfuse evaluation
+  url: /blog2/2009/07/31/some-early-results-from-webfuse-evaluation/
+tags:
+- vle-lms
+title: '"How the LMS - as enterprise system - warps the practice of L&#038;T"'
 type: post
 template: blog-post.html
 ---

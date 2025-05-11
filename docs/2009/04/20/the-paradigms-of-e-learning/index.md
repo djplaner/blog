@@ -1,7 +1,19 @@
 ---
-title: The paradigms of e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-04-20 22:04:41+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Pedagogy of the impressed - how teachers become victims of technology vision
+  url: /blog2/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
+previous:
+  text: Performance degradation - impact of new LMS implementation
+  url: /blog2/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+title: The paradigms of e-learning
 type: post
 template: blog-post.html
 comments:

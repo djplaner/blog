@@ -1,7 +1,22 @@
 ---
-title: One reason people don't take to new e-learning technology
+categories:
+- chapter-2
+- design-theory
+- elearning
+- missingps
+- ple
+- plescquni
+- quotes
+- thesis
 date: 2009-02-11 14:39:05+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'missingps', 'ple', 'plescquni', 'quotes', 'thesis']
+next:
+  text: '"Barriers to innovation in organisations: teleological processes, organisational
+    structures and stepwise refinement"'
+  url: /blog2/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
+previous:
+  text: The value of being open
+  url: /blog2/2009/02/11/the-value-of-being-open/
+title: One reason people don't take to new e-learning technology
 type: post
 template: blog-post.html
 comments:

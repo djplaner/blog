@@ -1,7 +1,14 @@
 ---
-title: Moodle curriculum mapping - Step 3
+categories:
+- curriculummapping-cddu
 date: 2010-04-02 10:04:43+10:00
-categories: ['curriculummapping-cddu']
+next:
+  text: '"PhD Update #25: A return to discipline?"'
+  url: /blog2/2010/04/02/phd-update-25-a-return-to-discipline/
+previous:
+  text: Elevator pitch for &quot;Moodle curriculum mapping&quot;
+  url: /blog2/2010/04/01/elevator-pitch-for-curriculum-mapping/
+title: Moodle curriculum mapping - Step 3
 type: post
 template: blog-post.html
 ---

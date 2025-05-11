@@ -1,6 +1,6 @@
 ---
-title: The design and construction of a simulated operating system
 date: 2009-01-02 13:06:50+10:00
+title: The design and construction of a simulated operating system
 type: page
 template: blog-post.html
 ---

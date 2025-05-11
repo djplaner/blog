@@ -1,7 +1,15 @@
 ---
-title: A little bim2 status and planning
+categories:
+- bim
+- bim2
 date: 2011-02-06 21:43:23+10:00
-categories: ['bim', 'bim2']
+next:
+  text: '"bim2: the greater coordinator conversion"'
+  url: /blog2/2011/02/06/bim2-the-greater-coordinator-conversion/
+previous:
+  text: 'bim2: registering a new blog'
+  url: /blog2/2011/02/06/bim2-registering-a-new-blog/
+title: A little bim2 status and planning
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: Open educational practice beyond the institution?
+categories:
+- bad
+- oer
+- open
 date: 2016-02-22 12:01:39+10:00
-categories: ['bad', 'oer', 'open']
+next:
+  text: PEBKAC, mental model mismatch and ICT
+  url: /blog2/2016/03/02/pebkac-mental-model-mismatch-and-ict/
+previous:
+  text: 'Can video be emedded in ePub exported from #moodle book?'
+  url: /blog2/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
+title: Open educational practice beyond the institution?
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: "PhD update - week #3"
+categories:
+- phd
+- thesis
 date: 2009-03-13 14:35:14+10:00
-categories: ['phd', 'thesis']
+next:
+  text: '"Virtual learning environments: three implementation perspectives"'
+  url: /blog2/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
+previous:
+  text: Moving from scarcity to abundance changes things - music
+  url: /blog2/2009/03/12/moving-from-scarcity-to-abundance-changes-things-music/
+title: '"PhD update - week #3"'
 type: post
 template: blog-post.html
 ---

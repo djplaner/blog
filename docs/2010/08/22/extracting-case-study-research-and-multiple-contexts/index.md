@@ -1,7 +1,14 @@
 ---
-title: Extracting case study research and multiple contexts?
+categories:
+- thesis
 date: 2010-08-22 12:29:36+10:00
-categories: ['thesis']
+next:
+  text: Oil sheiks, Lucifer and university learning and teaching
+  url: /blog2/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/
+previous:
+  text: 'PhD Update #28 - minimal work, feedback arrived'
+  url: /blog2/2010/08/22/phd-update-28-minimal-work-feedback-arrived/
+title: Extracting case study research and multiple contexts?
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: The conditions for Anna's phone
+categories:
+- thesis
 date: 2010-03-13 09:39:22+10:00
-categories: ['thesis']
+next:
+  text: '"Improving L&#038;T at Universities - The emperor has no clothes"'
+  url: /blog2/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
+previous:
+  text: The value of lurking - another research idea for the indicators project
+  url: /blog2/2010/03/12/the-value-of-lurking-another-research-idea-for-the-indicators-project/
+title: The conditions for Anna's phone
 type: post
 template: blog-post.html
 comments:

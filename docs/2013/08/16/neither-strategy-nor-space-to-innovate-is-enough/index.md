@@ -1,7 +1,14 @@
 ---
-title: Neither strategy nor \"space\" to innovate is enough
+categories:
+- bim2
 date: 2013-08-16 15:32:43+10:00
-categories: ['bim2']
+next:
+  text: The network challenge to the LMS mindset
+  url: /blog2/2013/08/29/the-network-challenge-to-the-lms-mindset/
+previous:
+  text: Aligning learning analytics with learning design
+  url: /blog2/2013/08/14/aligning-learning-analytics-with-learning-design/
+title: Neither strategy nor "space" to innovate is enough
 type: post
 template: blog-post.html
 comments:

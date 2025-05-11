@@ -1,7 +1,15 @@
 ---
-title: "PLEs and the institution: the wrong problem"
+categories:
+- elearning
+- plescquni
 date: 2010-07-23 10:04:20+10:00
-categories: ['elearning', 'plescquni']
+next:
+  text: First the fridge dies, and then...
+  url: /blog2/2010/07/28/first-the-fridge-dies-and-then/
+previous:
+  text: How to handle the marriage of PLEs and institutions
+  url: /blog2/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
+title: '"PLEs and the institution: the wrong problem"'
 type: post
 template: blog-post.html
 ---

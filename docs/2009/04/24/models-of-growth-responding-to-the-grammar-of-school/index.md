@@ -1,7 +1,21 @@
 ---
-title: Models of growth - responding to the grammar of school
+categories:
+- chapter-2
+- design-theory
+- elearning
+- moodle
+- phd
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-04-24 14:36:11+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'moodle', 'phd', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: '"Phd Update #8 - steaming ahead"'
+  url: /blog2/2009/04/24/phd-update-8-steaming-ahead/
+previous:
+  text: Usage of e-learning - quantity
+  url: /blog2/2009/04/23/usage-of-e-learning-quantity/
+title: Models of growth - responding to the grammar of school
 type: post
 template: blog-post.html
 comments:

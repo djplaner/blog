@@ -1,7 +1,14 @@
 ---
-title: The design of a Moodle course site
+categories:
+- moodle
 date: 2010-06-02 17:01:06+10:00
-categories: ['moodle']
+next:
+  text: Adopter focused development and diffusion theory
+  url: /blog2/2010/06/04/adopter-focused-development-and-diffusion-theory/
+previous:
+  text: The role of experience
+  url: /blog2/2010/06/02/the-role-of-experience/
+title: The design of a Moodle course site
 type: post
 template: blog-post.html
 comments:

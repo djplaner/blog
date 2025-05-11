@@ -1,7 +1,16 @@
 ---
-title: "Mapping the digital practices of teacher educators: Implications for teacher education in changing digital landscapes"
+categories:
+- bad
+- tpack
 date: 2016-03-24 04:57:50+10:00
-categories: ['bad', 'tpack']
+next:
+  text: '"SITE''2016: LATs, OER, and SPLOTs?"'
+  url: /blog2/2016/03/26/site2016-lats-oer-and-splots/
+previous:
+  text: What to expect/look for from SITE&#039;2016?
+  url: /blog2/2016/03/22/what-to-expectlook-for-from-site2016/
+title: '"Mapping the digital practices of teacher educators: Implications for teacher
+  education in changing digital landscapes"'
 type: post
 template: blog-post.html
 comments:

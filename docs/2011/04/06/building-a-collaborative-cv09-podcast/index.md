@@ -1,7 +1,15 @@
 ---
-title: Building a collaborative CV09 podcast
+categories:
+- eded20491
+- teaching
 date: 2011-04-06 10:00:47+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: '"Group 1 Technologies: Blogs, Wikis and Websites"'
+  url: /blog2/2011/04/06/group-1-technologies-blogs-wikis-and-websites/
+previous:
+  text: How do you analyse and select an educational technology
+  url: /blog2/2011/04/04/how-do-you-analyse-and-select-an-educational-technology/
+title: Building a collaborative CV09 podcast
 type: post
 template: blog-post.html
 ---

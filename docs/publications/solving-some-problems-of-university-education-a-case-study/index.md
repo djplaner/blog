@@ -1,6 +1,6 @@
 ---
-title: "Solving some problems of University Education: A Case Study"
 date: 2008-12-07 21:56:43+10:00
+title: '"Solving some problems of University Education: A Case Study"'
 type: page
 template: blog-post.html
 comments:

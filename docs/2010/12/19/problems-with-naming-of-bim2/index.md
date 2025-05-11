@@ -1,7 +1,15 @@
 ---
-title: Problems with naming of bim2
+categories:
+- bim
+- bim2
 date: 2010-12-19 13:50:44+10:00
-categories: ['bim', 'bim2']
+next:
+  text: A Theory-Driven Design Framework for Social Recommender Systems
+  url: /blog2/2010/12/20/3495/
+previous:
+  text: First coding steps for bim2
+  url: /blog2/2010/12/19/first-coding-steps-for-bim2/
+title: Problems with naming of bim2
 type: post
 template: blog-post.html
 comments:

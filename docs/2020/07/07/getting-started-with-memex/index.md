@@ -1,9 +1,17 @@
 ---
-title: Getting started with memex
-date: 2020-07-07 11:20:22+10:00
-categories: ['fedwiki']
-tags: ['memex']
+categories:
+- fedwiki
 coverImage: 2407833520_69e9e59ea4_o-e1594164072247.jpg
+date: 2020-07-07 11:20:22+10:00
+next:
+  text: Pondering if and how Hax & web components fit in Blackboard
+  url: /blog2/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/
+previous:
+  text: Designing a personal "memex" with Foam
+  url: /blog2/2020/07/06/designing-a-personal-memex-with-foam/
+tags:
+- memex
+title: Getting started with memex
 type: post
 template: blog-post.html
 ---

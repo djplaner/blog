@@ -1,8 +1,17 @@
 ---
-title: Analytics, semantic web and cognitive science
+categories:
+- lak11
 date: 2011-01-26 10:19:42+10:00
-categories: ['lak11']
-tags: ['cck11', 'lak11']
+next:
+  text: The demise of ALTC and why I'm not sad
+  url: /blog2/2011/01/28/the-demise-of-altc/
+previous:
+  text: The power of organisational structure
+  url: /blog2/2011/01/25/the-power-of-organisational-structure/
+tags:
+- cck11
+- lak11
+title: Analytics, semantic web and cognitive science
 type: post
 template: blog-post.html
 comments:

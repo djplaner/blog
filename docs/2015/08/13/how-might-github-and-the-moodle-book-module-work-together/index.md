@@ -1,7 +1,15 @@
 ---
-title: How might github and the Moodle book module work together
+categories:
+- moodle
+- moodleopenbook
 date: 2015-08-13 16:22:42+10:00
-categories: ['moodle', 'moodleopenbook']
+next:
+  text: '"Homogeneity: the inevitable result of a strategic approach?"'
+  url: /blog2/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
+previous:
+  text: ICT knowledge and quizzes
+  url: /blog2/2015/08/13/ict-knowledge-and-quizzes/
+title: How might github and the Moodle book module work together
 type: post
 template: blog-post.html
 comments:

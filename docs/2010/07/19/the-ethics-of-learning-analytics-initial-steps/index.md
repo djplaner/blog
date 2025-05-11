@@ -1,7 +1,15 @@
 ---
-title: "The ethics of learning analytics: initial steps"
+categories:
+- elearning
+- indicators
 date: 2010-07-19 21:50:13+10:00
-categories: ['elearning', 'indicators']
+next:
+  text: An overview of BIM
+  url: /blog2/2010/07/20/an-overview-of-bim/
+previous:
+  text: Trip report - Moodlemoot&#039;AU 2010
+  url: /blog2/2010/07/16/trip-report-moodlemootau-2010/
+title: '"The ethics of learning analytics: initial steps"'
 type: post
 template: blog-post.html
 comments:

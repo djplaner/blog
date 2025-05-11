@@ -1,7 +1,15 @@
 ---
-title: "Competence with digital technology: Teacher or environment?"
+categories:
+- bad
+- edc3100
 date: 2016-03-31 09:46:17+10:00
-categories: ['bad', 'edc3100']
+next:
+  text: First steps in integrating LATs OER into Moodle open book
+  url: /blog2/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
+previous:
+  text: Some simple analysis of student submissions
+  url: /blog2/2016/03/30/some-simple-analysis-of-student-submissions/
+title: '"Competence with digital technology: Teacher or environment?"'
 type: post
 template: blog-post.html
 ---

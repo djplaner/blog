@@ -1,7 +1,16 @@
 ---
-title: What is a PLE? More than a suite of tools? More than social media?
+categories:
+- elearning
+- ple
+- plescquni
 date: 2009-02-02 13:34:34+10:00
-categories: ['elearning', 'ple', 'plescquni']
+next:
+  text: Data mining of online courses - dominant assumptions and innovation potential
+  url: /blog2/2009/02/02/data-mining-of-online-courses-dominant-assumptions-and-innovation-potential/
+previous:
+  text: Joining the landed gentry - getting a money burner
+  url: /blog2/2009/02/02/joining-the-landed-gentry-getting-a-money-burner/
+title: What is a PLE? More than a suite of tools? More than social media?
 type: post
 template: blog-post.html
 comments:

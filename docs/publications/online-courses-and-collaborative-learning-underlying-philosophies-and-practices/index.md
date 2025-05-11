@@ -1,6 +1,6 @@
 ---
-title: "Online Courses and Collaborative Learning: Underlying Philosophies and Practices"
 date: 2008-12-31 14:12:31+10:00
+title: '"Online Courses and Collaborative Learning: Underlying Philosophies and Practices"'
 type: page
 template: blog-post.html
 ---

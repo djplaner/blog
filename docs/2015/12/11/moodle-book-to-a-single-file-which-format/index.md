@@ -1,8 +1,18 @@
 ---
-title: "Moodle book to a single file: which format?"
+categories:
+- moodleopenbook
+- thesis
 date: 2015-12-11 14:53:38+10:00
-categories: ['moodleopenbook', 'thesis']
-tags: ['html5', 'semantic']
+next:
+  text: '"Book github tool: producing some HTML5"'
+  url: /blog2/2015/12/14/book-github-tool-producing-some-html5/
+previous:
+  text: 'Moodle book and GitHub: working together'
+  url: /blog2/2015/12/03/moodle-book-and-github-working-together/
+tags:
+- html5
+- semantic
+title: '"Moodle book to a single file: which format?"'
 type: post
 template: blog-post.html
 comments:

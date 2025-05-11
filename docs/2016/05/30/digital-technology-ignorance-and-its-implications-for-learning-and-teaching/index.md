@@ -1,7 +1,15 @@
 ---
-title: Digital technology ignorance and its implications for learning and teaching
+categories:
+- bad
+- digitalignorance
 date: 2016-05-30 14:42:41+10:00
-categories: ['bad', 'digitalignorance']
+next:
+  text: Learn to code for data analyis - step 1
+  url: /blog2/2016/06/19/learn-to-code-for-data-analyis-step-1/
+previous:
+  text: Early thoughts on S1, 2016 offering of EDC3100
+  url: /blog2/2016/05/30/early-thoughts-on-s1-2016-offering-of-edc3100/
+title: Digital technology ignorance and its implications for learning and teaching
 type: post
 template: blog-post.html
 comments:

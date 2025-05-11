@@ -1,7 +1,15 @@
 ---
-title: "PhD Update #20 - Progress, slowness and techno-rationality"
+categories:
+- phd
+- thesis
 date: 2009-08-14 14:51:31+10:00
-categories: ['phd', 'thesis']
+next:
+  text: People, cognition, rationality and e-learning
+  url: /blog2/2009/08/16/people-cognition-rationality-and-e-learning/
+previous:
+  text: 'BIM #3: Getting the module work, making some progress?'
+  url: /blog2/2009/08/13/bim-3-getting-the-module-work-making-some-progress/
+title: '"PhD Update #20 - Progress, slowness and techno-rationality"'
 type: post
 template: blog-post.html
 ---

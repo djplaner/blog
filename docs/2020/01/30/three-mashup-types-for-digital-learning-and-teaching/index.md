@@ -1,8 +1,15 @@
 ---
-title: Three mashup types for digital learning and teaching
-date: 2020-01-30 16:06:34+10:00
-categories: ['eei']
+categories:
+- eei
 coverImage: frogs.jpg
+date: 2020-01-30 16:06:34+10:00
+next:
+  text: Early steps with Gephi
+  url: /blog2/2020/04/19/early-steps-with-gephi/
+previous:
+  text: Office365, charismatic technologies, and the ecological perspective
+  url: /blog2/2020/01/13/office365-charismatic-technologies-and-the-ecological-perspective/
+title: Three mashup types for digital learning and teaching
 type: post
 template: blog-post.html
 ---

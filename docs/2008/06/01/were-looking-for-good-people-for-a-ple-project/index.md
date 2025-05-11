@@ -1,7 +1,14 @@
 ---
-title: We're looking for good people for a PLE project
+categories:
+- ple
 date: 2008-06-01 20:32:06+10:00
-categories: ['ple']
+next:
+  text: The place of free social software in institutional e-learning
+  url: /blog2/2008/06/28/the-place-of-free-social-software-in-institutional-e-learning/
+previous:
+  text: Understanding approaches to improving a course
+  url: /blog2/2008/05/18/understanding-approaches-to-improving-a-course/
+title: We're looking for good people for a PLE project
 type: post
 template: blog-post.html
 ---

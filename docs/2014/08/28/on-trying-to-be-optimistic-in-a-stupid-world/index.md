@@ -1,6 +1,12 @@
 ---
-title: On trying to be optimistic in a stupid world
 date: 2014-08-28 15:17:55+10:00
+next:
+  text: Personality and other factors in education
+  url: /blog2/2014/08/28/personality-and-other-factors-in-education/
+previous:
+  text: The cost of being flexible and pushing the boundaries
+  url: /blog2/2014/08/25/the-cost-of-being-flexible-and-pushing-the-boundaries/
+title: On trying to be optimistic in a stupid world
 type: post
 template: blog-post.html
 comments:

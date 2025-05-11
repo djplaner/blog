@@ -1,7 +1,18 @@
 ---
-title: Are our institutions digital visitors?  What are the impacts on learning and teaching?
+categories:
+- bad
+- set
+- visitor
 date: 2015-10-09 12:51:08+10:00
-categories: ['bad', 'set', 'visitor']
+next:
+  text: '"Re-purposing V&#038;R mapping to explore modification of digital learning
+    spaces"'
+  url: /blog2/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
+previous:
+  text: What is &quot;netgl&quot; and how might it apply to my problem
+  url: /blog2/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
+title: Are our institutions digital visitors?  What are the impacts on learning and
+  teaching?
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: "Moving beyond a fashion: likely paths and pitfalls for learning analytics"
+categories:
+- thesis
 date: 2012-11-29 23:07:37+10:00
-categories: ['thesis']
+next:
+  text: '"Enabling academics to apply learning analytics to individual pedagogical
+    practice: how and with what impacts?"'
+  url: /blog2/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
+previous:
+  text: 'The life and death of Webfuse: What&#039;s wrong with industrial e-learning
+    and how to fix it'
+  url: /blog2/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/
+title: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
 type: post
 template: blog-post.html
 comments:

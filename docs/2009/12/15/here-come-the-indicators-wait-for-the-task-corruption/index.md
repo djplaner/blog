@@ -1,8 +1,16 @@
 ---
-title: Here come the indicators, wait for the task corruption
+categories:
+- elearning
 date: 2009-12-15 14:02:22+10:00
-categories: ['elearning']
-tags: ['quality-performance-kpi']
+next:
+  text: BIM and Moodle development - a more coherent overview found?
+  url: /blog2/2009/12/15/bim-and-moodle-a-more-coherent-overview/
+previous:
+  text: 'Getting back into BIM: Summary and way forward'
+  url: /blog2/2009/12/14/getting-back-into-bim-summary-and-way-forward/
+tags:
+- quality-performance-kpi
+title: Here come the indicators, wait for the task corruption
 type: post
 template: blog-post.html
 comments:

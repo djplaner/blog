@@ -1,7 +1,16 @@
 ---
-title: Exploring knowledge reuse in design for digital learning
+categories:
+- bad
+- casa
+- elearning
 date: 2019-02-24 15:46:18+10:00
-categories: ['bad', 'casa', 'elearning']
+next:
+  text: Testing out h5p interactives and tracking
+  url: /blog2/2019/05/30/testing-out-h5p-interactives-and-tracking/
+previous:
+  text: "Digital learning templates \u2013 adding context and configuration"
+  url: /blog2/2019/02/10/digital-learning-templates-adding-context-and-configuration/
+title: Exploring knowledge reuse in design for digital learning
 type: post
 template: blog-post.html
 ---

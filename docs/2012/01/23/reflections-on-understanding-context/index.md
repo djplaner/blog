@@ -1,7 +1,15 @@
 ---
-title: Reflections on understanding context
+categories:
+- edc3100
+- teaching
 date: 2012-01-23 12:02:50+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Understanding trends around ICTs
+  url: /blog2/2012/01/26/understanding-trends-around-icts/
+previous:
+  text: Initial thoughts on an ICT and Pedagogy course
+  url: /blog2/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/
+title: Reflections on understanding context
 type: post
 template: blog-post.html
 comments:

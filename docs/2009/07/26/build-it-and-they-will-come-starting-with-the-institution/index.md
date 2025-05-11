@@ -1,7 +1,19 @@
 ---
-title: Build it and they will come - starting with the institution
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-07-26 14:26:01+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"PhD update #18 - moving along"'
+  url: /blog2/2009/07/26/phd-update-18-moving-along/
+previous:
+  text: ePortfolios in universities - forget it?
+  url: /blog2/2009/07/26/eportfolios-in-universities-forget-it/
+title: Build it and they will come - starting with the institution
 type: post
 template: blog-post.html
 comments:

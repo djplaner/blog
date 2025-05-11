@@ -1,7 +1,14 @@
 ---
-title: An overview of learning analytics
+categories:
+- learninganalytics-elearning
 date: 2013-08-31 21:28:15+10:00
-categories: ['learninganalytics-elearning']
+next:
+  text: '"Learning Analytics: The Emergence of a Discipline"'
+  url: /blog2/2013/09/04/learning-analytics-the-emergence-of-a-discipline/
+previous:
+  text: The network challenge to the LMS mindset
+  url: /blog2/2013/08/29/the-network-challenge-to-the-lms-mindset/
+title: An overview of learning analytics
 type: post
 template: blog-post.html
 ---

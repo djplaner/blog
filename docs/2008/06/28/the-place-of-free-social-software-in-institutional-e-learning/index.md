@@ -1,8 +1,17 @@
 ---
-title: The place of free social software in institutional e-learning
+categories:
+- ple
+- web-20-course-sites
 date: 2008-06-28 21:26:11+10:00
-categories: ['ple', 'web-20-course-sites']
-tags: ['cddu-ple']
+next:
+  text: Creating quality course websites
+  url: /blog2/2008/07/12/creating-quality-course-websites/
+previous:
+  text: We&#039;re looking for good people for a PLE project
+  url: /blog2/2008/06/01/were-looking-for-good-people-for-a-ple-project/
+tags:
+- cddu-ple
+title: The place of free social software in institutional e-learning
 type: post
 template: blog-post.html
 ---

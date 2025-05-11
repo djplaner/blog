@@ -1,7 +1,14 @@
 ---
-title: "Evernote as a \"solution\" to a #moodle \"problem\""
+categories:
+- edc3100
 date: 2014-02-25 13:59:27+10:00
-categories: ['edc3100']
+next:
+  text: A story about the failure of institutional eportfolios
+  url: /blog2/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/
+previous:
+  text: An ateleological quote
+  url: /blog2/2014/02/22/an-ateleological-quote/
+title: '"Evernote as a "solution" to a #moodle "problem""'
 type: post
 template: blog-post.html
 comments:

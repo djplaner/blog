@@ -1,7 +1,14 @@
 ---
-title: BIM - Allowing staff to change student registrations
+categories:
+- bim
 date: 2010-02-09 20:25:43+10:00
-categories: ['bim']
+next:
+  text: BIM - misc changes from moodle-train
+  url: /blog2/2010/02/10/bim-misc-changes-from-moodle-train/
+previous:
+  text: BIM - talking to the gradebook
+  url: /blog2/2010/02/07/bim-talking-to-the-gradebook/
+title: BIM - Allowing staff to change student registrations
 type: post
 template: blog-post.html
 ---

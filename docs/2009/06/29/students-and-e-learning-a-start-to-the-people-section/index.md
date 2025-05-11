@@ -1,7 +1,19 @@
 ---
-title: Students and e-learning - a start to the People section
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-06-29 12:01:09+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Alternative to clickers - freeing up the physical location limitation
+  url: /blog2/2009/06/30/alternative-to-clickers/
+previous:
+  text: Confirmation bias, the Tolstoy Syndrome and pattern entrainment
+  url: /blog2/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
+title: Students and e-learning - a start to the People section
 type: post
 template: blog-post.html
 comments:

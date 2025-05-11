@@ -1,7 +1,18 @@
 ---
-title: "Reading - Embracing Big Data in Complex Educational Systems: The Learning Analytics Imperative and the Policy Challenge"
+categories:
+- 4paths
+- indicators
+- irac
+- learninganalytics-elearning
 date: 2015-06-14 18:05:07+10:00
-categories: ['4paths', 'indicators', 'irac', 'learninganalytics-elearning']
+next:
+  text: Import/export ePubs into the Moodle book module
+  url: /blog2/2015/06/15/importexport-epubs-into-the-moodle-book-module/
+previous:
+  text: Analysing Moodle community forum discussions about the Moodle book module
+  url: /blog2/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/
+title: '"Reading - Embracing Big Data in Complex Educational Systems: The Learning
+  Analytics Imperative and the Policy Challenge"'
 type: post
 template: blog-post.html
 comments:

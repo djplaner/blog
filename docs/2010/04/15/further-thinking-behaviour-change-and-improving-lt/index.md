@@ -1,7 +1,17 @@
 ---
-title: "Further thinking - behaviour change and improving L&#038;T"
+categories:
+- elearning
+- herding-cats
+- reflectivealignment
 date: 2010-04-15 11:03:58+10:00
-categories: ['elearning', 'herding-cats', 'reflectivealignment']
+next:
+  text: Framing a body of research and innovation
+  url: /blog2/2010/04/15/framing-a-body-of-research-and-innovation/
+previous:
+  text: Identifying and designing interventions to improve L&#038;T - a behaviour
+    change framework?
+  url: /blog2/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+title: '"Further thinking - behaviour change and improving L&#038;T"'
 type: post
 template: blog-post.html
 comments:

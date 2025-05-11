@@ -1,6 +1,6 @@
 ---
-title: The formulation of an ISDT for e-learning,
 date: 2008-10-22 13:54:44+10:00
+title: The formulation of an ISDT for e-learning,
 type: page
 template: blog-post.html
 comments:

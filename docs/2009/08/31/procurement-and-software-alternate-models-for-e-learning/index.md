@@ -1,7 +1,19 @@
 ---
-title: "Procurement and software: alternate models for e-learning"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-08-31 10:52:28+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Product models - LMS, BoB and alternatives
+  url: /blog2/2009/08/31/product-models-lms-bob-and-alternatives/
+previous:
+  text: 'Learning Tools in Higher Education: Products, Characteristics, Procurement'
+  url: /blog2/2009/08/30/learning-tools-in-higher-education-products-characteristics-procurement/
+title: '"Procurement and software: alternate models for e-learning"'
 type: post
 template: blog-post.html
 comments:

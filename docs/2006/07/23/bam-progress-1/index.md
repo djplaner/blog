@@ -1,7 +1,14 @@
 ---
-title: "BAM Progress #1"
+categories:
+- bam
 date: 2006-07-23 18:03:20+10:00
-categories: ['bam']
+next:
+  text: '"Design research: IS or CS - importance of "no overlap""'
+  url: /blog2/2006/07/25/design-research-is-or-cs-importance-of-no-overlap/
+previous:
+  text: Drucker on Adaptive vs Plan-driven
+  url: /blog2/2006/07/14/drucker-on-adaptive-vs-plan-driven/
+title: '"BAM Progress #1"'
 type: post
 template: blog-post.html
 comments:

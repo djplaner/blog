@@ -1,8 +1,18 @@
 ---
-title: What does this say about learning analytics?
+categories:
+- thesis
 date: 2015-04-22 12:51:25+10:00
-categories: ['thesis']
-tags: ['fashion', 'irac', 'learninganalytics']
+next:
+  text: An overview of the Moodle "open" book project
+  url: /blog2/2015/04/27/an-overview-of-the-moodle-open-book-project/
+previous:
+  text: Why is e-learning like teenage sex and what can be done about it?
+  url: /blog2/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/
+tags:
+- fashion
+- irac
+- learninganalytics
+title: What does this say about learning analytics?
 type: post
 template: blog-post.html
 ---

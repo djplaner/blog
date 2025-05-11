@@ -1,7 +1,15 @@
 ---
-title: Content, redirects and impact on Google ranking
+categories:
+- website
 date: 2009-01-07 16:38:53+10:00
-categories: ['website']
+next:
+  text: '"Seven principles of knowledge management and applications to e-learning,
+    curriculum design and L&#038;T in universities"'
+  url: /blog2/2009/01/09/seven-principles-of-knowledge-management-and-applications-to-e-learning-curriculum-design-and-lt-in-universities/
+previous:
+  text: Reflections and Implications from Webfuse - Domain languages
+  url: /blog2/2009/01/07/reflections-and-implications-from-webfuse-domain-languages/
+title: Content, redirects and impact on Google ranking
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: How are they going?
+categories:
+- edc3100
 date: 2013-03-04 13:33:55+10:00
-categories: ['edc3100']
+next:
+  text: How much of a cage should I build?
+  url: /blog2/2013/03/06/how-much-of-a-cage-should-i-build/
+previous:
+  text: BIM2 and disable_form_change_checker
+  url: /blog2/2013/03/03/bim2-and-disable_form_change_checker/
+title: How are they going?
 type: post
 template: blog-post.html
 comments:

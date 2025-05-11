@@ -1,7 +1,19 @@
 ---
-title: Messiness of information systems - another reason institutional e-learning struggles
+categories:
+- chapter-2
+- design-theory
+- elearning
+- lmsreview
+- thesis
 date: 2009-03-12 11:31:00+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'lmsreview', 'thesis']
+next:
+  text: Another perspective for the indicators project
+  url: /blog2/2009/03/12/another-perspective-for-the-indicators-project/
+previous:
+  text: Validity is subjective
+  url: /blog2/2009/03/11/validity-is-subjective/
+title: Messiness of information systems - another reason institutional e-learning
+  struggles
 type: post
 template: blog-post.html
 comments:

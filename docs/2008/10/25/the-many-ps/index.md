@@ -1,7 +1,17 @@
 ---
-title: The many Ps
+categories:
+- design-theory
+- elearning
+- missingps
+- thesis
 date: 2008-10-25 21:20:21+10:00
-categories: ['design-theory', 'elearning', 'missingps', 'thesis']
+next:
+  text: A Paradigmatic Analysis of Information Systems As a Design Science
+  url: /blog2/2008/10/25/a-paradigmatic-analysis-of-information-systems-as-a-design-science/
+previous:
+  text: The Ps Framework - avoiding perceptual blindness?
+  url: /blog2/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
+title: The many Ps
 type: post
 template: blog-post.html
 ---

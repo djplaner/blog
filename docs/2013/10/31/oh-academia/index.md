@@ -1,7 +1,14 @@
 ---
-title: Oh Academia
+categories:
+- highereducation
 date: 2013-10-31 17:36:21+10:00
-categories: ['highereducation']
+next:
+  text: BIM and broken moodle capabilities
+  url: /blog2/2013/11/01/bim-and-broken-moodle-capabilities/
+previous:
+  text: Processing and Visualizing Data in Complex Learning Environments
+  url: /blog2/2013/10/20/processing-and-visualizing-data-in-complex-learning-environments/
+title: Oh Academia
 type: post
 template: blog-post.html
 comments:

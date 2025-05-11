@@ -1,7 +1,14 @@
 ---
-title: Identity, community and trajectories - Jawitz (2009)
+categories:
+- edu8117
 date: 2014-07-26 15:44:17+10:00
-categories: ['edu8117']
+next:
+  text: Me as a teacher
+  url: /blog2/2014/07/27/me-as-a-teacher/
+previous:
+  text: 'Who are some good folk to follow re: network learning'
+  url: /blog2/2014/07/25/who-are-some-good-folk-to-follow-re-network-learning/
+title: Identity, community and trajectories - Jawitz (2009)
 type: post
 template: blog-post.html
 comments:

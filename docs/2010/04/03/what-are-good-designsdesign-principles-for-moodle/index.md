@@ -1,7 +1,16 @@
 ---
-title: What are good designs/design principles for Moodle
+categories:
+- curriculummapping-cddu
+- elearning
+- moodle
 date: 2010-04-03 23:04:09+10:00
-categories: ['curriculummapping-cddu', 'elearning', 'moodle']
+next:
+  text: '"Reducing the aggravation of student blogging: The story of BIM"'
+  url: /blog2/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/
+previous:
+  text: 'PhD Update #25: A return to discipline?'
+  url: /blog2/2010/04/02/phd-update-25-a-return-to-discipline/
+title: What are good designs/design principles for Moodle
 type: post
 template: blog-post.html
 ---

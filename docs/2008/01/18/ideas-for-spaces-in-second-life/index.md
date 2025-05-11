@@ -1,8 +1,18 @@
 ---
-title: Ideas for \"spaces\" in Second Life
+categories:
+- secondlife
+- web3dx
 date: 2008-01-18 16:57:36+10:00
-categories: ['secondlife', 'web3dx']
-tags: ['cddu-web3dx-secondlife-learningspaces']
+next:
+  text: From scarcity to over abundance - paradigm change for IT departments (and
+    others)
+  url: /blog2/2008/03/15/from-scarcity-to-over-abundance-paradigm-change-for-it-departments-and-others/
+previous:
+  text: Dealing with &quot;users&quot;, freedom and shadow systems
+  url: /blog2/2008/01/14/dealing-with-users-freedom-and-shadow-systems/
+tags:
+- cddu-web3dx-secondlife-learningspaces
+title: Ideas for "spaces" in Second Life
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: Adding email merge to BIM
+categories:
+- bim
+- elearning
+- moodle
 date: 2010-05-30 21:33:57+10:00
-categories: ['bim', 'elearning', 'moodle']
+next:
+  text: The need for a third way
+  url: /blog2/2010/05/31/the-need-for-a-third-way/
+previous:
+  text: Institutional changes - 2000 and beyond - and their impact
+  url: /blog2/2010/05/30/institutional-changes-2000-and-beyond-and-their-impact/
+title: Adding email merge to BIM
 type: post
 template: blog-post.html
 comments:

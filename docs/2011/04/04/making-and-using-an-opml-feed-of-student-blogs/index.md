@@ -1,7 +1,15 @@
 ---
-title: Making and using an OPML feed of student blogs
+categories:
+- eded20491
+- teaching
 date: 2011-04-04 11:00:56+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: How do you analyse and select an educational technology
+  url: /blog2/2011/04/04/how-do-you-analyse-and-select-an-educational-technology/
+previous:
+  text: Reflections on a 12 year-old course site - It would be harder now
+  url: /blog2/2011/04/01/reflections-on-a-12-year-old-course-site-it-would-be-harder-now/
+title: Making and using an OPML feed of student blogs
 type: post
 template: blog-post.html
 comments:

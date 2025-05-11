@@ -1,7 +1,14 @@
 ---
-title: Organizing for Innovation in the Digitized world
+categories:
+- bad
 date: 2016-05-16 10:04:04+10:00
-categories: ['bad']
+next:
+  text: Building a CASA for student evaluation of teaching results
+  url: /blog2/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
+previous:
+  text: 'Testing out the Heatmap #moodle block'
+  url: /blog2/2016/05/13/testing-out-the-heatmap-moodle-block/
+title: Organizing for Innovation in the Digitized world
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: A proposal for fixing what's broken with ed tech support in some universities
+categories:
+- academicdevelopment
+- bad
+- elearning
 date: 2015-01-22 11:57:49+10:00
-categories: ['academicdevelopment', 'bad', 'elearning']
+next:
+  text: Adding some learning process analytics to EDC3100
+  url: /blog2/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
+previous:
+  text: Trying out a new writing process
+  url: /blog2/2015/01/21/trying-out-a-new-writing-process/
+title: A proposal for fixing what's broken with ed tech support in some universities
 type: post
 template: blog-post.html
 ---

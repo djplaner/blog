@@ -1,7 +1,16 @@
 ---
-title: Is your digital footprint ready for teaching?
+categories:
+- edc3100
+- teaching
 date: 2012-02-29 23:51:39+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Moodle, blogs, feeds and the Google feed API
+  url: /blog2/2012/03/03/moodle-blogs-feeds-and-the-google-feed-api/
+previous:
+  text: 'The clash of corporate IT and open source learning management system: a nascent
+    research idea'
+  url: /blog2/2012/02/27/the-clash-of-corporate-it-and-open-source-learning-management-system-a-nascent-research-idea/
+title: Is your digital footprint ready for teaching?
 type: post
 template: blog-post.html
 comments:

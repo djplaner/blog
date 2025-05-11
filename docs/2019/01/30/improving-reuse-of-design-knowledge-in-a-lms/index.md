@@ -1,7 +1,14 @@
 ---
-title: Improving reuse of design knowledge in a LMS
+categories:
+- casa
 date: 2019-01-30 14:17:10+10:00
-categories: ['casa']
+next:
+  text: "Digital learning templates \u2013 adding context and configuration"
+  url: /blog2/2019/02/10/digital-learning-templates-adding-context-and-configuration/
+previous:
+  text: '"Trying out" needs agency and control'
+  url: /blog2/2019/01/18/trying-out-needs-agency-and-control/
+title: Improving reuse of design knowledge in a LMS
 type: post
 template: blog-post.html
 ---
@@ -48,15 +55,15 @@ Surprisingly, my current institution actually had another solution to this (and 
 
 The solution is called [Blackboard Tweaks](http://tweaks.github.io/Tweaks/). A building block for Blackboard written by folk from the [Queensland University of Technology](http://www.qut.edu.au). Once the building block is installed in a version of Blackboard you are able to choose from a [range of tweaks](http://tweaks.github.io/Tweaks/description.html) that will modify your normal Blackboard _Content Area_. For example, the _Dynamic Unit/Course Map Table_ can be used to generate a course map/study schedule that looks like the following.
 
-<figure>
+<figure markdown>
 
 ![](images/unitmap.png)
 
-<figcaption>
+<caption>
 
 Sample Unit Map produced by Blackboard Tweaks ([source](http://tweaks.github.io/Tweaks/description.html)).  
 
-</figcaption>
+</caption>
 
 </figure>
 

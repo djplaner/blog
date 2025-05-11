@@ -1,8 +1,20 @@
 ---
-title: No burden for TEQSA, yea right
+categories:
+- thesis
 date: 2010-10-27 09:11:46+10:00
-categories: ['thesis']
-tags: ['academic', 'australian-learning', 'project', 'standards', 'teaching-council']
+next:
+  text: Thesis abstract v1.0b
+  url: /blog2/2010/10/28/thesis-abstract-v1-0/
+previous:
+  text: Ideas for extending the flexibility of BIM
+  url: /blog2/2010/10/21/ideas-for-extending-the-flexibility-of-bim/
+tags:
+- academic
+- australian-learning
+- project
+- standards
+- teaching-council
+title: No burden for TEQSA, yea right
 type: post
 template: blog-post.html
 comments:

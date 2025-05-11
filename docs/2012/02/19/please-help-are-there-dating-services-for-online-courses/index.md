@@ -1,7 +1,15 @@
 ---
-title: Please help, are there \"dating services\" for online courses?
+categories:
+- edc3100
+- teaching
 date: 2012-02-19 10:03:37+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Designing the weekly ramble
+  url: /blog2/2012/02/19/designing-the-weekly-ramble/
+previous:
+  text: The process of designing a &quot;Web 2.0&quot; introduction
+  url: /blog2/2012/02/17/the-process-of-designing-a-web-2-0-introduction/
+title: Please help, are there "dating services" for online courses?
 type: post
 template: blog-post.html
 ---

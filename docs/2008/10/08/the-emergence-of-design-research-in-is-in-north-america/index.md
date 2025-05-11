@@ -1,7 +1,16 @@
 ---
-title: The emergence of design research in IS in North America
+categories:
+- design-theory
+- thesis
 date: 2008-10-08 22:26:32+10:00
-categories: ['design-theory', 'thesis']
+next:
+  text: '"The Anatomy of a Design Science Paper: A Research Note"'
+  url: /blog2/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/
+previous:
+  text: 'Design as reification, commodification and ideology: A critical view of IS
+    design science'
+  url: /blog2/2008/09/24/design-as-reification-commodification-and-ideology-a-critical-view-of-is-design-science/
+title: The emergence of design research in IS in North America
 type: post
 template: blog-post.html
 ---

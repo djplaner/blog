@@ -1,6 +1,6 @@
 ---
-title: The Moodle &quot;open&quot; Book (module) project
 date: 2015-04-14 08:03:38+10:00
+title: The Moodle &quot;open&quot; Book (module) project
 type: page
 template: blog-post.html
 comments:

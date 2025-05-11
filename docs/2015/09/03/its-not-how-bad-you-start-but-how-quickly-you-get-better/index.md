@@ -1,7 +1,15 @@
 ---
-title: It's not how bad you start, but how quickly you get better
+categories:
+- 4paths
+- bad
 date: 2015-09-03 14:27:11+10:00
-categories: ['4paths', 'bad']
+next:
+  text: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
+  url: /blog2/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
+previous:
+  text: All models are wrong, but some are useful and its application to e-learning
+  url: /blog2/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+title: It's not how bad you start, but how quickly you get better
 type: post
 template: blog-post.html
 comments:

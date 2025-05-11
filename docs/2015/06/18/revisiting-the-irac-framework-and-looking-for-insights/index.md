@@ -1,7 +1,18 @@
 ---
-title: Revisiting the IRAC framework and looking for insights
+categories:
+- 4paths
+- indicators
+- irac
+- moodle
 date: 2015-06-18 22:48:06+10:00
-categories: ['4paths', 'indicators', 'irac', 'moodle']
+next:
+  text: '"Dashboards suck: learning analytics'' broken metaphor"'
+  url: /blog2/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/
+previous:
+  text: Exploring BIM + sentiment analysis - what might it say about student blog
+    posts
+  url: /blog2/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
+title: Revisiting the IRAC framework and looking for insights
 type: post
 template: blog-post.html
 comments:

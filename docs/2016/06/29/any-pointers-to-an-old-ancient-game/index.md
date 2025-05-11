@@ -1,7 +1,16 @@
 ---
-title: Any pointers to an old, ancient game?
+categories:
+- bad
+- digitalignorance
+- edc3100
 date: 2016-06-29 15:08:39+10:00
-categories: ['bad', 'digitalignorance', 'edc3100']
+next:
+  text: Planning an EDC3100 "installfest"
+  url: /blog2/2016/07/07/planning-an-edc3100-installfest/
+previous:
+  text: Nature of digital technology? Part 2 - expansion
+  url: /blog2/2016/06/29/nature-of-digital-technology-part-2-expansion/
+title: Any pointers to an old, ancient game?
 type: post
 template: blog-post.html
 comments:

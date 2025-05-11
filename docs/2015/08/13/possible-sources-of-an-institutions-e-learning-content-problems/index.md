@@ -1,7 +1,15 @@
 ---
-title: Possible sources of an institution's e-learning content problems
+categories:
+- elearning
+- moodleopenbook
 date: 2015-08-13 10:18:36+10:00
-categories: ['elearning', 'moodleopenbook']
+next:
+  text: ICT knowledge and quizzes
+  url: /blog2/2015/08/13/ict-knowledge-and-quizzes/
+previous:
+  text: Changing &quot;as learner&quot; focus - analytics to &quot;chamber music&quot;
+  url: /blog2/2015/08/09/changing-as-learner-focus-analytics-to-chamber-music/
+title: Possible sources of an institution's e-learning content problems
 type: post
 template: blog-post.html
 ---

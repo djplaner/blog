@@ -1,7 +1,18 @@
 ---
-title: Kant - separation of reason and experience
+categories:
+- elearning
+- missingps
+- ple
+- plescquni
+- thesis
 date: 2008-11-21 10:03:01+10:00
-categories: ['elearning', 'missingps', 'ple', 'plescquni', 'thesis']
+next:
+  text: First photo
+  url: /blog2/2008/11/21/first-photo/
+previous:
+  text: Starting a new journey and hobby - photography
+  url: /blog2/2008/11/21/starting-a-new-journey-and-hobby-photography/
+title: Kant - separation of reason and experience
 type: post
 template: blog-post.html
 ---

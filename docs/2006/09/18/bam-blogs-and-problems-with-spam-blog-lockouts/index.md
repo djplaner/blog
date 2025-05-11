@@ -1,7 +1,15 @@
 ---
-title: BAM, blogs and problems with spam blog lockouts
+categories:
+- bam
+- elearning
 date: 2006-09-18 12:33:51+10:00
-categories: ['bam', 'elearning']
+next:
+  text: Quote to support the Webfuse approach
+  url: /blog2/2006/09/18/quote-to-support-the-webfuse-approach/
+previous:
+  text: Google video as a host for streaming/lectures
+  url: /blog2/2006/09/18/google-video-as-a-host-for-streaminglectures/
+title: BAM, blogs and problems with spam blog lockouts
 type: post
 template: blog-post.html
 ---

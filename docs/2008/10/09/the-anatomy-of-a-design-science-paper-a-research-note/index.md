@@ -1,8 +1,20 @@
 ---
-title: "The Anatomy of a Design Science Paper: A Research Note"
+categories:
+- design-theory
+- thesis
 date: 2008-10-09 21:07:19+10:00
-categories: ['design-theory', 'thesis']
-tags: ['designresearch', 'designscience-hevner-walls', 'isdr', 'isdt']
+next:
+  text: The great website move of 2008
+  url: /blog2/2008/10/16/the-great-website-move-of-2008/
+previous:
+  text: The emergence of design research in IS in North America
+  url: /blog2/2008/10/08/the-emergence-of-design-research-in-is-in-north-america/
+tags:
+- designresearch
+- designscience-hevner-walls
+- isdr
+- isdt
+title: '"The Anatomy of a Design Science Paper: A Research Note"'
 type: post
 template: blog-post.html
 comments:

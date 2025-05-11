@@ -1,7 +1,14 @@
 ---
-title: A summary of one perspective on the Digital Education Revolution
+categories:
+- thesis
 date: 2011-09-19 20:26:56+10:00
-categories: ['thesis']
+next:
+  text: '"The final plan: Khan Academy, gamification and the flipped classroom"'
+  url: /blog2/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/
+previous:
+  text: Push-button schools and zap hats - The future of education
+  url: /blog2/2011/08/29/push-button-schools-and-zap-hats-the-future-of-education/
+title: A summary of one perspective on the Digital Education Revolution
 type: post
 template: blog-post.html
 ---

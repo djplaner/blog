@@ -1,7 +1,14 @@
 ---
-title: Plans for implementing rotating banner image
+categories:
+- website
 date: 2008-12-28 15:50:08+10:00
-categories: ['website']
+next:
+  text: Operating Systems animations and other resources
+  url: /blog2/2008/12/30/operating-systems-animations-and-other-resources/
+previous:
+  text: Rotating banner images in Wordpress - the last missing puzzle piece
+  url: /blog2/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/
+title: Plans for implementing rotating banner image
 type: post
 template: blog-post.html
 comments:

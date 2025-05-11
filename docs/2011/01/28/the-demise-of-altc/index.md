@@ -1,7 +1,14 @@
 ---
-title: The demise of ALTC and why I'm not sad
+categories:
+- thesis
 date: 2011-01-28 13:48:46+10:00
-categories: ['thesis']
+next:
+  text: The state of educational data mining in 2009
+  url: /blog2/2011/01/30/the-state-of-educational-data-mining-in-2009/
+previous:
+  text: Analytics, semantic web and cognitive science
+  url: /blog2/2011/01/26/analytics-semantic-web-and-cognitive-science/
+title: The demise of ALTC and why I'm not sad
 type: post
 template: blog-post.html
 comments:

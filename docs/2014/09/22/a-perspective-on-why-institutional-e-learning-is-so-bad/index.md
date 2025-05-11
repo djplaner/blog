@@ -1,7 +1,15 @@
 ---
-title: A perspective on why institutional e-learning is so bad
+categories:
+- bad
+- elearning
 date: 2014-09-22 15:26:06+10:00
-categories: ['bad', 'elearning']
+next:
+  text: Unintended consequences of technology in education
+  url: /blog2/2014/10/02/unintended-consequences-of-technology-in-education/
+previous:
+  text: Breaking BAD to bridge the reality/rhetoric chasm
+  url: /blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/
+title: A perspective on why institutional e-learning is so bad
 type: post
 template: blog-post.html
 comments:

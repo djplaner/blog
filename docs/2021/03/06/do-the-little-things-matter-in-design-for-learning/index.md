@@ -1,8 +1,16 @@
 ---
-title: Do the little things matter in design for learning?
-date: 2021-03-06 17:17:06+10:00
-categories: ['casa']
+categories:
+- casa
 coverImage: 3311829635_0080586412_o-scaled-e1601494373689.jpg
+date: 2021-03-06 17:17:06+10:00
+next:
+  text: Reflecting on the spread of the Card Interface for Blackboard Learn
+  url: /blog2/2021/03/12/reflecting-on-the-spread-of-the-card-interface-for-blackboard-learn/
+previous:
+  text: Reflections on "How learning design systems can help scale and accelerate
+    learning design"
+  url: /blog2/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/
+title: Do the little things matter in design for learning?
 type: post
 template: blog-post.html
 ---

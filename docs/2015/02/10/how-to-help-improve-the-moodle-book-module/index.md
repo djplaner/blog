@@ -1,7 +1,17 @@
 ---
-title: How to help improve the Moodle book module
+categories:
+- bad
+- concretelounge
+- edc3100
+- moodle
 date: 2015-02-10 19:55:30+10:00
-categories: ['bad', 'concretelounge', 'edc3100', 'moodle']
+next:
+  text: Initial rationale and ideas for "continuous improvement" of learning and teaching
+  url: /blog2/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
+previous:
+  text: Framing an open book as situated, social, distributed and protean
+  url: /blog2/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
+title: How to help improve the Moodle book module
 type: post
 template: blog-post.html
 comments:

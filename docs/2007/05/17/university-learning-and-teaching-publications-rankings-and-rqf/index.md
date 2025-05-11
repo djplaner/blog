@@ -1,7 +1,15 @@
 ---
-title: University learning and teaching publications - rankings and RQF
+categories:
+- ascilitementor
+- elearning
 date: 2007-05-17 21:59:05+10:00
-categories: ['ascilitementor', 'elearning']
+next:
+  text: Carrick success - a pleasant surprise and now the fun begins
+  url: /blog2/2007/05/23/carrick-success-a-pleasant-surprise-and-now-the-fun-begins/
+previous:
+  text: A model for evaluating teaching - a useful lens?
+  url: /blog2/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/
+title: University learning and teaching publications - rankings and RQF
 type: post
 template: blog-post.html
 comments:

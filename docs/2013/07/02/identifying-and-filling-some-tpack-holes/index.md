@@ -1,7 +1,17 @@
 ---
-title: Identifying and filling some TPACK holes
+categories:
+- bim
+- design-theory
+- elearning
 date: 2013-07-02 15:00:40+10:00
-categories: ['bim', 'design-theory', 'elearning']
+next:
+  text: When is learning analytics not about the students?
+  url: /blog2/2013/07/02/when-is-learning-analytics-not-about-the-students/
+previous:
+  text: Documenting the gap between &quot;start of art&quot; and &quot;state of the
+    actual&quot;
+  url: /blog2/2013/06/20/documenting-the-gap-between-start-of-art-and-state-of-the-actual/
+title: Identifying and filling some TPACK holes
 type: post
 template: blog-post.html
 comments:

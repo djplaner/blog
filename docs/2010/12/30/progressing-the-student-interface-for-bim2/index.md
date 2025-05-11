@@ -1,7 +1,16 @@
 ---
-title: Progressing the student interface for bim2
+categories:
+- bam
+- bim
+- bim2
 date: 2010-12-30 12:33:34+10:00
-categories: ['bam', 'bim', 'bim2']
+next:
+  text: A command for organisations? Program or be programmed
+  url: /blog2/2011/01/06/a-command-for-organisations-program-or-be-programmed/
+previous:
+  text: BIM as a Wordpress plugin?
+  url: /blog2/2010/12/29/bim-as-a-wordpress-plugin/
+title: Progressing the student interface for bim2
 type: post
 template: blog-post.html
 ---

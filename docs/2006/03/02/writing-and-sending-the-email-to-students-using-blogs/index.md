@@ -1,6 +1,12 @@
 ---
-title: Writing and sending the email to students - using blogs
 date: 2006-03-02 11:00:29+10:00
+next:
+  text: Hello World
+  url: /blog2/2006/07/12/hello-world-2/
+previous:
+  text: Getting started with the blog
+  url: /blog2/2006/03/02/getting-started-with-the-blog/
+title: Writing and sending the email to students - using blogs
 type: post
 template: blog-post.html
 comments:

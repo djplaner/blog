@@ -1,7 +1,15 @@
 ---
-title: Mathematics and the net generation - not in textbook exercises
+categories:
+- mathematics
+- teaching
 date: 2011-04-08 17:01:29+10:00
-categories: ['mathematics', 'teaching']
+next:
+  text: Group 3 Technologies - The activities
+  url: /blog2/2011/04/09/group-3-technologies-the-activities/
+previous:
+  text: Group 3 Technologies - The readings
+  url: /blog2/2011/04/08/group-3-technologies-the-readings/
+title: Mathematics and the net generation - not in textbook exercises
 type: post
 template: blog-post.html
 comments:

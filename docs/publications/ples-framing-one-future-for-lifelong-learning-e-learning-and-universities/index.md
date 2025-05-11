@@ -1,6 +1,6 @@
 ---
-title: "PLEs: Framing one future for Lifelong Learning, E-Learning and Universities"
 date: 2008-10-15 22:08:56+10:00
+title: '"PLEs: Framing one future for Lifelong Learning, E-Learning and Universities"'
 type: page
 template: blog-post.html
 comments:

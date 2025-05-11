@@ -1,7 +1,15 @@
 ---
-title: Common sense (the things we take for granted) is the big obstacle for innovation
+categories:
+- elearning
+- quotes
 date: 2009-02-16 14:07:00+10:00
-categories: ['elearning', 'quotes']
+next:
+  text: Some ideas for e-learning indicators - releasing half-baked ideas
+  url: /blog2/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/
+previous:
+  text: Frameworks and representation - tidy versus messy
+  url: /blog2/2009/02/16/frameworks-and-representation-tidy-versus-messy/
+title: Common sense (the things we take for granted) is the big obstacle for innovation
 type: post
 template: blog-post.html
 ---

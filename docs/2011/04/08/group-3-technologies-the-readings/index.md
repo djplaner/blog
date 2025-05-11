@@ -1,7 +1,15 @@
 ---
-title: Group 3 Technologies - The readings
+categories:
+- eded20491
+- teaching
 date: 2011-04-08 14:56:23+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Mathematics and the net generation - not in textbook exercises
+  url: /blog2/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
+previous:
+  text: Why are we analysing ICTs for learning?
+  url: /blog2/2011/04/07/why-are-we-analysing-icts-for-learning/
+title: Group 3 Technologies - The readings
 type: post
 template: blog-post.html
 comments:

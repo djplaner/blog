@@ -1,7 +1,14 @@
 ---
-title: Digital learning templates – adding context and configuration
+categories:
+- eei
 date: 2019-02-10 16:38:10+10:00
-categories: ['eei']
+next:
+  text: Exploring knowledge reuse in design for digital learning
+  url: /blog2/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/
+previous:
+  text: Improving reuse of design knowledge in a LMS
+  url: /blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/
+title: "Digital learning templates \u2013 adding context and configuration"
 type: post
 template: blog-post.html
 ---

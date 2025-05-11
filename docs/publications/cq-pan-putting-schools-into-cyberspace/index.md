@@ -1,6 +1,6 @@
 ---
-title: "CQ-PAN: Putting schools into cyberspace"
 date: 2009-01-02 02:31:07+10:00
+title: '"CQ-PAN: Putting schools into cyberspace"'
 type: page
 template: blog-post.html
 ---

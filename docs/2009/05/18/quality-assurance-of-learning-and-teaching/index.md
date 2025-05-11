@@ -1,7 +1,14 @@
 ---
-title: Quality assurance of learning and teaching
+categories:
+- reflectivealignment
 date: 2009-05-18 17:11:10+10:00
-categories: ['reflectivealignment']
+next:
+  text: Diagnosing and recording a problem with BAM
+  url: /blog2/2009/05/19/diagnosing-and-recording-a-problem-with-bam/
+previous:
+  text: Over emphasis on design and bugger all on maintenance
+  url: /blog2/2009/05/18/over-emphasis-on-design-and-bugger-all-on-maintenance/
+title: Quality assurance of learning and teaching
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: E-Learning 2.0 and reliability of external services
+categories:
+- bam
+- elearning
 date: 2009-08-26 09:18:10+10:00
-categories: ['bam', 'elearning']
+next:
+  text: '"PhD Update #22 - one day active, but some movement"'
+  url: /blog2/2009/08/28/phd-update-22-one-day-active-but-some-movement/
+previous:
+  text: Learning requires willingness to suffer injury to one&#039;s self-esteem
+  url: /blog2/2009/08/25/learning-requires-willingness-to-suffer-injury-to-ones-self-esteem/
+title: E-Learning 2.0 and reliability of external services
 type: post
 template: blog-post.html
 ---

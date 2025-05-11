@@ -1,7 +1,17 @@
 ---
-title: What do students find useful?
+categories:
+- addie
+- c2d2
+- coursesites
+- elearning
 date: 2008-07-12 22:53:34+10:00
-categories: ['addie', 'c2d2', 'coursesites', 'elearning']
+next:
+  text: '"Taxonomies" for understanding applications of educational technology'
+  url: /blog2/2008/07/14/taxonomies-for-understanding-applications-of-educational-technology/
+previous:
+  text: Creating quality course websites - the pragmatic approach
+  url: /blog2/2008/07/12/creating-quality-course-websites-the-pragmatic-approach/
+title: What do students find useful?
 type: post
 template: blog-post.html
 comments:

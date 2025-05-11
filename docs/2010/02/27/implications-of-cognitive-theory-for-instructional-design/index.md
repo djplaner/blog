@@ -1,7 +1,17 @@
 ---
-title: Implications of cognitive theory for instructional design
+categories:
+- c2d2
+- curriculumdesign
+- elearning
+- reflectivealignment
 date: 2010-02-27 11:14:58+10:00
-categories: ['c2d2', 'curriculumdesign', 'elearning', 'reflectivealignment']
+next:
+  text: Design processes for teaching
+  url: /blog2/2010/03/05/design-processes-for-teaching/
+previous:
+  text: Reservations about instructional design
+  url: /blog2/2010/02/27/reservations-about-instructional-design/
+title: Implications of cognitive theory for instructional design
 type: post
 template: blog-post.html
 comments:

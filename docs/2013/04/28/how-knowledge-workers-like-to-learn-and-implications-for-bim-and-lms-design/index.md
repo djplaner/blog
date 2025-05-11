@@ -1,7 +1,16 @@
 ---
-title: How Knowledge Workers like to learn and implications for BIM and LMS design
+categories:
+- bim
 date: 2013-04-28 09:45:20+10:00
-categories: ['bim']
+next:
+  text: How to capture the "full benefits of the creative, original and imaginative
+    efforts of" teaching staff
+  url: /blog2/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/
+previous:
+  text: Making e-learning tools that are more supportive - BIM, TPACK and truncated
+    feeds
+  url: /blog2/2013/04/19/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds/
+title: How Knowledge Workers like to learn and implications for BIM and LMS design
 type: post
 template: blog-post.html
 comments:

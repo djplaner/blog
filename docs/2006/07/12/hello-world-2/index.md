@@ -1,6 +1,12 @@
 ---
-title: Hello World
 date: 2006-07-12 13:27:27+10:00
+next:
+  text: Sun Tzu Strategy Quote
+  url: /blog2/2006/07/13/sun-tzu-strategy-quote/
+previous:
+  text: Writing and sending the email to students - using blogs
+  url: /blog2/2006/03/02/writing-and-sending-the-email-to-students-using-blogs/
+title: Hello World
 type: post
 template: blog-post.html
 comments:

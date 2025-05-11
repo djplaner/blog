@@ -1,7 +1,15 @@
 ---
-title: Changing \"as learner\" focus - analytics to \"chamber music\"
+categories:
+- music
+- netgl
 date: 2015-08-09 17:24:45+10:00
-categories: ['music', 'netgl']
+next:
+  text: Possible sources of an institution's e-learning content problems
+  url: /blog2/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
+previous:
+  text: Does learning about teaching in formal education match this?
+  url: /blog2/2015/08/06/does-learning-about-teaching-in-formal-education-match-this/
+title: Changing "as learner" focus - analytics to "chamber music"
 type: post
 template: blog-post.html
 comments:

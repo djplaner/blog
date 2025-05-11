@@ -1,6 +1,6 @@
 ---
-title: "Computing by Distance Education: Problems and Solutions"
 date: 2008-11-13 08:59:49+10:00
+title: '"Computing by Distance Education: Problems and Solutions"'
 type: page
 template: blog-post.html
 comments:

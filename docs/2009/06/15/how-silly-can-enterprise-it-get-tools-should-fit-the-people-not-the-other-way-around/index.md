@@ -1,7 +1,16 @@
 ---
-title: How silly can enterprise IT get? Tools should fit the people, not the other way around
+categories:
+- elearning
+- shadowsystems
 date: 2009-06-15 10:40:43+10:00
-categories: ['elearning', 'shadowsystems']
+next:
+  text: Institutional e-learning strategies
+  url: /blog2/2009/06/17/institutional-e-learning-strategies/
+previous:
+  text: 'PhD Update #14 - Moving to a new day'
+  url: /blog2/2009/06/14/phd-update-14-moving-to-a-new-day/
+title: How silly can enterprise IT get? Tools should fit the people, not the other
+  way around
 type: post
 template: blog-post.html
 comments:

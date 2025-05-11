@@ -1,7 +1,14 @@
 ---
-title: BIM - Tidying up - Part 1
+categories:
+- bim
 date: 2010-01-26 21:26:14+10:00
-categories: ['bim']
+next:
+  text: Some reasons why business intelligence tools aren't the right fit
+  url: /blog2/2010/01/27/some-reasons-why-business-intelligence-tools-arent-the-right-fit/
+previous:
+  text: BIM - sending results to the gradebook
+  url: /blog2/2010/01/26/bim-sending-results-to-the-gradebook/
+title: BIM - Tidying up - Part 1
 type: post
 template: blog-post.html
 ---

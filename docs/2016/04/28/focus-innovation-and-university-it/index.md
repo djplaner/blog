@@ -1,7 +1,14 @@
 ---
-title: Focus, innovation and university IT
+categories:
+- bad
 date: 2016-04-28 13:33:45+10:00
-categories: ['bad']
+next:
+  text: How does BIM allocate blog posts to prompts
+  url: /blog2/2016/05/09/how-does-bim-allocate-blog-posts-to-prompts/
+previous:
+  text: The need for technopedagogues and will it ever go away?
+  url: /blog2/2016/04/25/the-need-for-technopedagogues-and-will-it-ever-go-away/
+title: Focus, innovation and university IT
 type: post
 template: blog-post.html
 comments:

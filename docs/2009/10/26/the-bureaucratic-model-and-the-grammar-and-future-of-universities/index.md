@@ -1,7 +1,15 @@
 ---
-title: The bureaucratic model and the grammar and future of universities
+categories:
+- elearning
+- psframework
 date: 2009-10-26 12:49:27+10:00
-categories: ['elearning', 'psframework']
+next:
+  text: Lectures, alternatives, poll everywhere and unexpected events
+  url: /blog2/2009/10/26/lectures-alternatives-poll-everywhere-and-unexpected-events/
+previous:
+  text: Participation, impact, collecting data and connecting people
+  url: /blog2/2009/10/24/participation-impact-collecting-data-and-connecting-people/
+title: The bureaucratic model and the grammar and future of universities
 type: post
 template: blog-post.html
 comments:

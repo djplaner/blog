@@ -1,7 +1,23 @@
 ---
-title: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
+categories:
+- bam
+- chapter-2
+- design-theory
+- elearning
+- ple
+- plescquni
+- psframework
+- thesis
+- webfuse
 date: 2009-03-02 15:39:47+10:00
-categories: ['bam', 'chapter-2', 'design-theory', 'elearning', 'ple', 'plescquni', 'psframework', 'thesis', 'webfuse']
+next:
+  text: Further evidence of problems with evaluation of teaching
+  url: /blog2/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/
+previous:
+  text: Reflective problematisation - description of reflection in &quot;reflective
+    alignment&quot;?
+  url: /blog2/2009/03/02/reflective-problematisation-description-of-reflection-in-reflective-alignment/
+title: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,17 @@
 ---
-title: \"Me as teacher\" - the 2015 focus for NGL
+categories:
+- bad
+- casa
+- edu8117
+- ngl
 date: 2015-07-23 13:22:17+10:00
-categories: ['bad', 'casa', 'edu8117', 'ngl']
+next:
+  text: What do "scale" and "mainstreaming" mean in higher education?
+  url: /blog2/2015/07/29/what-do-scale-and-mainstreaming-mean-in-higher-education/
+previous:
+  text: Updating &quot;more student details&quot;
+  url: /blog2/2015/07/23/updating-more-student-details/
+title: '"Me as teacher" - the 2015 focus for NGL'
 type: post
 template: blog-post.html
 ---

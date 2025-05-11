@@ -1,7 +1,16 @@
 ---
-title: "Design Based Research vs. Mixed Methods: The Differences and Commonalities"
+categories:
+- chapter-3
+- design-theory
+- elearning
 date: 2008-10-22 12:30:14+10:00
-categories: ['chapter-3', 'design-theory', 'elearning']
+next:
+  text: Look for incompetence before you go paranoid
+  url: /blog2/2008/10/23/look-for-incompetence-before-you-go-paranoid/
+previous:
+  text: The great website move of 2008
+  url: /blog2/2008/10/16/the-great-website-move-of-2008/
+title: '"Design Based Research vs. Mixed Methods: The Differences and Commonalities"'
 type: post
 template: blog-post.html
 comments:

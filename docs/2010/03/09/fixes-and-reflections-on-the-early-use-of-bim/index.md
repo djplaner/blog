@@ -1,7 +1,15 @@
 ---
-title: Fixes and reflections on the early use of BIM
+categories:
+- bim
 date: 2010-03-09 13:35:36+10:00
-categories: ['bim']
+next:
+  text: Outcomes and Moodle
+  url: /blog2/2010/03/09/outcomes-and-moodle/
+previous:
+  text: The Ps Framework and the mismatch created by the product and process of industrial
+    e-learning
+  url: /blog2/2010/03/09/the-ps-framework-and-the-mismatch-created-by-the-product-and-process-of-industrial-e-learning/
+title: Fixes and reflections on the early use of BIM
 type: post
 template: blog-post.html
 ---

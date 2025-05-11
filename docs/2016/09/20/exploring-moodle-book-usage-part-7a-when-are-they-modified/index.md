@@ -1,7 +1,15 @@
 ---
-title: Exploring Moodle Book usage - Part 7a) - when are they modified
+categories:
+- exploring
+- moodleopenbook
 date: 2016-09-20 17:32:24+10:00
-categories: ['exploring', 'moodleopenbook']
+next:
+  text: What if our digital technologies were protean?
+  url: /blog2/2016/09/21/what-if-our-digital-technologies-were-protean/
+previous:
+  text: Your experience of organisational digital technology?
+  url: /blog2/2016/09/20/your-experience-of-institutional-digital-technology/
+title: Exploring Moodle Book usage - Part 7a) - when are they modified
 type: post
 template: blog-post.html
 ---

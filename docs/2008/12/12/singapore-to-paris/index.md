@@ -1,8 +1,16 @@
 ---
-title: Singapore to Paris
+categories:
+- paris2008
 date: 2008-12-12 17:27:57+10:00
-categories: ['paris2008']
-tags: ['paris']
+next:
+  text: Our first afternoon in Paris
+  url: /blog2/2008/12/15/our-first-afternoon-in-paris/
+previous:
+  text: Struck Oil to Singapore
+  url: /blog2/2008/12/11/struck-oil-to-singapore/
+tags:
+- paris
+title: Singapore to Paris
 type: post
 template: blog-post.html
 ---

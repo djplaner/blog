@@ -1,7 +1,15 @@
 ---
-title: How many digital devices do you have?
+categories:
+- edc3100
+- edu8117
 date: 2016-08-12 14:17:12+10:00
-categories: ['edc3100', 'edu8117']
+next:
+  text: Exploring Moodle Book Module usage - part 1 - background and planning
+  url: /blog2/2016/08/13/exploring-moodle-book-module-usage-part-1/
+previous:
+  text: Teacher presence in network learning
+  url: /blog2/2016/08/07/teacher-presence-in-network-learning/
+title: How many digital devices do you have?
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: "Week 2: Pedagogical Content Knowledge"
+categories:
+- eded20456
+- teaching
 date: 2011-03-08 17:42:05+10:00
-categories: ['eded20456', 'teaching']
+next:
+  text: Schemata and the source of dissonance?
+  url: /blog2/2011/03/09/schemata-and-the-source-of-dissonance/
+previous:
+  text: Creating a framework for eLearning design
+  url: /blog2/2011/03/08/creating-a-framework-for-elearning-design/
+title: '"Week 2: Pedagogical Content Knowledge"'
 type: post
 template: blog-post.html
 ---

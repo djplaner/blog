@@ -1,8 +1,20 @@
 ---
-title: EduFeedr is live. BIM for open blog courses
+categories:
+- thesis
 date: 2010-11-16 22:13:11+10:00
-categories: ['thesis']
-tags: ['course', 'courses', 'edufeedr', 'participant', 'publish']
+next:
+  text: Understanding EduFeedr and contrast with BIM
+  url: /blog2/2010/11/17/understanding-edufeedr-and-contrast-with-bim/
+previous:
+  text: Getting back into maths - it is not linear
+  url: /blog2/2010/11/15/getting-back-into-maths-it-is-not-linear/
+tags:
+- course
+- courses
+- edufeedr
+- participant
+- publish
+title: EduFeedr is live. BIM for open blog courses
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: What is the nature of digital technology? Part 1
+categories:
+- bad
+- digitalignorance
 date: 2016-06-27 09:35:23+10:00
-categories: ['bad', 'digitalignorance']
+next:
+  text: The nature of digital technology? Part 2
+  url: /blog2/2016/06/28/the-nature-of-digital-technology-part-2/
+previous:
+  text: Learn to code for data analyis - step 1
+  url: /blog2/2016/06/19/learn-to-code-for-data-analyis-step-1/
+title: What is the nature of digital technology? Part 1
 type: post
 template: blog-post.html
 comments:

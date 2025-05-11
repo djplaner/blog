@@ -1,7 +1,16 @@
 ---
-title: "bim2: manage marking services - Part II"
+categories:
+- bim
+- bim2
 date: 2011-02-19 07:00:42+10:00
-categories: ['bim', 'bim2']
+next:
+  text: A proposed link between academic involvement and student evaluation response
+    rate
+  url: /blog2/2011/02/19/a-proposed-link-between-academic-involvement-and-student-evaluation-response-rate/
+previous:
+  text: 'bim2: manage marking support services'
+  url: /blog2/2011/02/17/bim2-manage-marking-support-services/
+title: '"bim2: manage marking services - Part II"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,21 @@
 ---
-title: Principles of form and function
+categories:
+- chapter-5
+- design-theory
+- elearning
+- information-systems
+- phd
+- thesis
+- webfuse
 date: 2010-09-15 08:49:07+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'information-systems', 'phd', 'thesis', 'webfuse']
+next:
+  text: Alan Kay and some reasons why the educational technology revolution hasn't
+    happened
+  url: /blog2/2010/09/16/alan-kay-and-some-reasons-why-the-educational-technology-revolution-hasnt-happened/
+previous:
+  text: Portfolios often implemented poorly
+  url: /blog2/2010/09/14/portfolios-often-implemented-poorly/
+title: Principles of form and function
 type: post
 template: blog-post.html
 ---

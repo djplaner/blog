@@ -1,7 +1,14 @@
 ---
-title: "BAM into Moodle #6 - Planning and some real coding"
+categories:
+- bam
 date: 2009-07-28 11:27:24+10:00
-categories: ['bam']
+next:
+  text: '"BAM into Moodle #7 - an eStudyGuide block"'
+  url: /blog2/2009/07/28/bam-into-moodle-7-an-estudyguide-block/
+previous:
+  text: The intervention - Webfuse design 1996-1999
+  url: /blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/
+title: '"BAM into Moodle #6 - Planning and some real coding"'
 type: post
 template: blog-post.html
 comments:

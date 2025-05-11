@@ -1,7 +1,19 @@
 ---
-title: Usage of Wf applications
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-08-04 10:28:02+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Usage of dynamic web applications by staff and students
+  url: /blog2/2010/08/05/usage-of-dynamic-web-applications-by-staff-and-students/
+previous:
+  text: Innovation in L&#038;T - where is the evidence
+  url: /blog2/2010/08/04/innovation-in-lt-where-is-the-evidence/
+title: Usage of Wf applications
 type: post
 template: blog-post.html
 ---

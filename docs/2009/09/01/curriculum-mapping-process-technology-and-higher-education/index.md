@@ -1,6 +1,12 @@
 ---
-title: Curriculum mapping, process, technology and higher education - some questions
 date: 2009-09-01 15:32:14+10:00
+next:
+  text: Lessons from product for e-learning
+  url: /blog2/2009/09/02/lessons-from-product-for-e-learning/
+previous:
+  text: 'e&#038;i report #2 - 20th August - 1st September'
+  url: /blog2/2009/09/01/ei-report-2-20-25th-august/
+title: Curriculum mapping, process, technology and higher education - some questions
 type: post
 template: blog-post.html
 comments:

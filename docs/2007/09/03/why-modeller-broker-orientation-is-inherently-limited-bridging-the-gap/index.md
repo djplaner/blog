@@ -1,7 +1,16 @@
 ---
-title: Why \"modeller-broker\" orientation is inherently limited - bridging the gap
+categories:
+- elearning
+- herding-cats
+- thesis
 date: 2007-09-03 12:22:17+10:00
-categories: ['elearning', 'herding-cats', 'thesis']
+next:
+  text: Carrick, Web3D and Sustainability
+  url: /blog2/2007/09/04/carrick-web3d-and-sustainability/
+previous:
+  text: Technology scan - CQU and e-learning
+  url: /blog2/2007/08/31/technology-scan-cqu-and-e-learning/
+title: Why "modeller-broker" orientation is inherently limited - bridging the gap
 type: post
 template: blog-post.html
 comments:

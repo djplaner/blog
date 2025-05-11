@@ -1,7 +1,15 @@
 ---
-title: EasyCrop - preparing photos for the rotating banner
+categories:
+- tools
+- website
 date: 2009-02-01 08:58:41+10:00
-categories: ['tools', 'website']
+next:
+  text: Joining the landed gentry - getting a money burner
+  url: /blog2/2009/02/02/joining-the-landed-gentry-getting-a-money-burner/
+previous:
+  text: How do you implement PLEs into higher education courses?
+  url: /blog2/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
+title: EasyCrop - preparing photos for the rotating banner
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,18 @@
 ---
-title: A history of technology-mediated learning
+categories:
+- chapter-2
+- design-theory
+- phd
+- psframework
+- thesis
 date: 2009-04-17 11:49:39+10:00
-categories: ['chapter-2', 'design-theory', 'phd', 'psframework', 'thesis']
+next:
+  text: '"PhD Update #7 - a fortnight in review"'
+  url: /blog2/2009/04/17/phd-update-7-a-fortnight-in-review/
+previous:
+  text: Theory and practice - quote and connection with e-learning?
+  url: /blog2/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/
+title: A history of technology-mediated learning
 type: post
 template: blog-post.html
 comments:

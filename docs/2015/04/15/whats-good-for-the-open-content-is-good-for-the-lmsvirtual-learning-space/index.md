@@ -1,7 +1,18 @@
 ---
-title: What's good for \"open content\" is good for the LMS/virtual learning space?
+categories:
+- 5rs
+- bad
+- elearning
+- moodleopenbook
+- openbook
 date: 2015-04-15 10:15:12+10:00
-categories: ['5rs', 'bad', 'elearning', 'moodleopenbook', 'openbook']
+next:
+  text: Where does the LMS sit in the reusability paradox
+  url: /blog2/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
+previous:
+  text: Starting the &quot;Moodle open book&quot; project
+  url: /blog2/2015/04/13/starting-the-moodle-open-book-project/
+title: What's good for "open content" is good for the LMS/virtual learning space?
 type: post
 template: blog-post.html
 comments:

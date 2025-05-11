@@ -1,7 +1,16 @@
 ---
-title: "PhD Update #5 - a new low"
+categories:
+- phd
+- thesis
 date: 2009-03-27 13:23:41+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Prescription, adaptation and failure around improving univeristy teaching
+  url: /blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
+previous:
+  text: '&quot;One ring to rule them all&quot;: Limitations and implications of the
+    LMS/VLE product model'
+  url: /blog2/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
+title: '"PhD Update #5 - a new low"'
 type: post
 template: blog-post.html
 comments:

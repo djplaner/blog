@@ -1,7 +1,15 @@
 ---
-title: "PhD Update #15 - Some progress and an absence"
+categories:
+- phd
+- thesis
 date: 2009-06-21 14:55:15+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Confirmation bias, the Tolstoy Syndrome and pattern entrainment
+  url: /blog2/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
+previous:
+  text: Lessons from process for university e-learning
+  url: /blog2/2009/06/21/lessons-from-process-for-university-e-learning/
+title: '"PhD Update #15 - Some progress and an absence"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: A question (or two) on the similarity of \"neuronal\" and \"networked\" knowledge
+categories:
+- eded20491
+- elearning
+- teaching
 date: 2011-03-05 16:58:29+10:00
-categories: ['eded20491', 'elearning', 'teaching']
+next:
+  text: A comparison of schools - enabled by MySchools v2.0
+  url: /blog2/2011/03/05/a-comparison-of-schools-enabled-by-myschools-v2-0/
+previous:
+  text: 'Pedagogical Content Knowledge: Week 1'
+  url: /blog2/2011/03/03/pedagogical-content-knowledge-week-1/
+title: A question (or two) on the similarity of "neuronal" and "networked" knowledge
 type: post
 template: blog-post.html
 comments:

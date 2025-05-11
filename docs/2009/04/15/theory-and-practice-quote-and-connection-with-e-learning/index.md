@@ -1,7 +1,18 @@
 ---
-title: Theory and practice - quote and connection with e-learning?
+categories:
+- chapter-2
+- design-theory
+- elearning
+- quotes
+- thesis
 date: 2009-04-15 10:17:22+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'quotes', 'thesis']
+next:
+  text: A history of technology-mediated learning
+  url: /blog2/2009/04/17/a-history-of-technology-mediated-learning/
+previous:
+  text: Disruption and the &quot;mythic&quot; technologies of education
+  url: /blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/
+title: Theory and practice - quote and connection with e-learning?
 type: post
 template: blog-post.html
 comments:

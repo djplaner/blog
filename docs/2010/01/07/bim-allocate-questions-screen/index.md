@@ -1,7 +1,14 @@
 ---
-title: BIM - Allocate questions screen
+categories:
+- bim
 date: 2010-01-07 12:02:53+10:00
-categories: ['bim']
+next:
+  text: BIM - getting navigation bread crumbs and tabs working
+  url: /blog2/2010/01/09/bim-getting-navigation-bread-crumbs-and-tabs-working/
+previous:
+  text: BIM - the show student posts screen
+  url: /blog2/2009/12/26/bim-the-show-student-posts-screen/
+title: BIM - Allocate questions screen
 type: post
 template: blog-post.html
 comments:

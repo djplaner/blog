@@ -1,7 +1,15 @@
 ---
-title: Webfuse statistics - Staff Portal
+categories:
+- thesis
+- website
 date: 2009-01-05 13:55:20+10:00
-categories: ['thesis', 'website']
+next:
+  text: Webfuse usage statistics - Online assignment submission
+  url: /blog2/2009/01/05/webfuse-usage-statistics-online-assignment-submission/
+previous:
+  text: Webfuse usage statistics - Quizzes
+  url: /blog2/2009/01/05/webfuse-usage-statistics-quizzes/
+title: Webfuse statistics - Staff Portal
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: Can/will learning analytics challenge the current QA mentality of university teaching
+categories:
+- thesis
 date: 2012-12-11 11:31:12+10:00
-categories: ['thesis']
+next:
+  text: Understanding management students' reflective practice through blogging
+  url: /blog2/2012/12/12/understanding-management-students-reflective-practice-through-blogging/
+previous:
+  text: Tertiary course design is very poor, and we solve it by &quot;blame the teacher&quot;
+  url: /blog2/2012/12/05/tertiary-course-design-is-very-poor-and-we-solve-it-by-blame-the-teacher/
+title: Can/will learning analytics challenge the current QA mentality of university
+  teaching
 type: post
 template: blog-post.html
 comments:

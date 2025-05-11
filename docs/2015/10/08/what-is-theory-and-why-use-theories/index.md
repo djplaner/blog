@@ -1,7 +1,17 @@
 ---
-title: What is theory and why use theories?
+categories:
+- edc3100
+- edu8117
+- research
+- theory
 date: 2015-10-08 12:16:56+10:00
-categories: ['edc3100', 'edu8117', 'research', 'theory']
+next:
+  text: What is "netgl" and how might it apply to my problem
+  url: /blog2/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
+previous:
+  text: Technology required by teachers to customise technology-enhanced units
+  url: /blog2/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
+title: What is theory and why use theories?
 type: post
 template: blog-post.html
 comments:

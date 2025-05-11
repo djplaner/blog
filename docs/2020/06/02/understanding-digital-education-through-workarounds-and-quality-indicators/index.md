@@ -1,12 +1,20 @@
 ---
-title: Understanding (digital) education through workarounds and quality indicators
-date: 2020-06-02 09:50:33+10:00
-categories: ['bad', 'shadowsystems']
+categories:
+- bad
+- shadowsystems
 coverImage: trough.jpg
+date: 2020-06-02 09:50:33+10:00
+next:
+  text: Designing a personal "memex" with Foam
+  url: /blog2/2020/07/06/designing-a-personal-memex-with-foam/
+previous:
+  text: What are the impediments to quality teaching and what can be done to remove
+    them?
+  url: /blog2/2020/05/30/what-are-the-impediments-to-quality-teaching-and-what-can-be-done-to-remove-them/
+title: Understanding (digital) education through workarounds and quality indicators
 type: post
 template: blog-post.html
 ---
-
 COVID-19 and the subsequent #pivotonline has higher education paying a lot more attention to the use of digital and online technology for learning and teaching (digital education). COVID-19 has made digital education necessary. COVID-19 has made any form of education – and just about anything else – more difficult. For everyone. COVID-19 and it’s impact is rewriting what higher education will be after. COVID-19 is raising hopes and fears that what will come after will be (positively?) transformative. Not beholden to previous conceptions and corporate mores.
 
 Most of that’s beyond me. Too big to consider. Too far beyond my control and my personal limitations. Hence I’ll retreat to my limited experience, practices, and conceptions. Exploring those more familiar and possibly understandable landscapes in order to reveal something that might be useful for the brave new post-COVID-19 world of university digital education. A world that I’m not confident has any hope of being positively transformed. Regardless of what the experts, prognosticators, futurists and vendors are selling. But I’m well-known for [being a pessimist](/blog2/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/).

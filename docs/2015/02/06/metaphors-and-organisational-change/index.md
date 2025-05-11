@@ -1,8 +1,19 @@
 ---
-title: Metaphors and organisational change
+categories:
+- thesis
 date: 2015-02-06 11:10:16+10:00
-categories: ['thesis']
-tags: ['bad', 'change', 'herdingcats', 'metaphor']
+next:
+  text: Kludging an authoring process with Moodle books (almost)
+  url: /blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
+previous:
+  text: 'Concrete lounge #1 - Helping learners find correct, up-to-date course information'
+  url: /blog2/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
+tags:
+- bad
+- change
+- herdingcats
+- metaphor
+title: Metaphors and organisational change
 type: post
 template: blog-post.html
 comments:

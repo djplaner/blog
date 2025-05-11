@@ -1,7 +1,17 @@
 ---
-title: Creating a voice thread presentation
+categories:
+- elearning
+- ple
+- plescquni
+- voicethreadresearchposters
 date: 2008-08-11 22:07:02+10:00
-categories: ['elearning', 'ple', 'plescquni', 'voicethreadresearchposters']
+next:
+  text: PLE drivers being considered in the corporate IT world?
+  url: /blog2/2008/08/13/ple-drivers-being-considered-in-the-corporate-it-world/
+previous:
+  text: Voice Thread for Research Posters
+  url: /blog2/2008/08/11/voice-thread-for-research-posters/
+title: Creating a voice thread presentation
 type: post
 template: blog-post.html
 ---

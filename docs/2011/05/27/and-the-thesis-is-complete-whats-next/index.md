@@ -1,7 +1,17 @@
 ---
-title: And the thesis is complete, what's next?
+categories:
+- design-theory
+- phd
+- thesis
+- webfuse
 date: 2011-05-27 16:04:27+10:00
-categories: ['design-theory', 'phd', 'thesis', 'webfuse']
+next:
+  text: Requirements and ideas for an eLearning design for IPT
+  url: /blog2/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/
+previous:
+  text: Where are all the innovative high school IT/CS classes?
+  url: /blog2/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/
+title: And the thesis is complete, what's next?
 type: post
 template: blog-post.html
 comments:

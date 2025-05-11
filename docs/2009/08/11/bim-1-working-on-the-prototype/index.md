@@ -1,7 +1,14 @@
 ---
-title: "BIM #1: Working on the prototype"
+categories:
+- bam
 date: 2009-08-11 11:17:24+10:00
-categories: ['bam']
+next:
+  text: '"BIM#2 - Starting the module"'
+  url: /blog2/2009/08/11/bim2-starting-the-module/
+previous:
+  text: Big Z&#039;s first progeny
+  url: /blog2/2009/08/11/big-zs-first-progeny/
+title: '"BIM #1: Working on the prototype"'
 type: post
 template: blog-post.html
 comments:

@@ -1,8 +1,16 @@
 ---
-title: Playing with React.js as a technology for CASA
-date: 2020-05-20 09:32:59+10:00
-categories: ['bad', 'casa']
+categories:
+- bad
+- casa
 coverImage: 23776579774_bb775a0f1f_o-scaled.jpg
+date: 2020-05-20 09:32:59+10:00
+next:
+  text: Learning to think in React
+  url: /blog2/2020/05/22/learning-to-think-in-react/
+previous:
+  text: Exploring auto-coding with NVivo
+  url: /blog2/2020/04/30/exploring-auto-coding-with-nvivo/
+title: Playing with React.js as a technology for CASA
 type: post
 template: blog-post.html
 ---

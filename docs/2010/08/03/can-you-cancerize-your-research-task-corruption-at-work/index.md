@@ -1,8 +1,20 @@
 ---
-title: Can you cancerize your research - task corruption at work
+categories:
+- thesis
 date: 2010-08-03 23:59:01+10:00
-categories: ['thesis']
-tags: ['american-university-system', 'atlantic', 'atlantic-magazine', 'tanehisi-coates', 'wrong-with']
+next:
+  text: '"Innovation in L&#038;T - where is the evidence"'
+  url: /blog2/2010/08/04/innovation-in-lt-where-is-the-evidence/
+previous:
+  text: No messiness here thanks - SNAFU all the way
+  url: /blog2/2010/08/03/no-messiness-here-thanks-snafu-all-the-way/
+tags:
+- american-university-system
+- atlantic
+- atlantic-magazine
+- tanehisi-coates
+- wrong-with
+title: Can you cancerize your research - task corruption at work
 type: post
 template: blog-post.html
 ---

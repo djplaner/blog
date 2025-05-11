@@ -1,7 +1,14 @@
 ---
-title: When will we no longer teach ICTs to pre-service teachers?
+categories:
+- teaching
 date: 2013-01-02 15:28:10+10:00
-categories: ['teaching']
+next:
+  text: BIM 2.0 - Cleaning up issues - Part 2
+  url: /blog2/2013/01/04/bim-2-0-cleaning-up-issues-part-2/
+previous:
+  text: BIM 2.0 - cleaning up issues - Part 1
+  url: /blog2/2013/01/01/bim-2-0-cleaning-up-issues-part-1/
+title: When will we no longer teach ICTs to pre-service teachers?
 type: post
 template: blog-post.html
 comments:

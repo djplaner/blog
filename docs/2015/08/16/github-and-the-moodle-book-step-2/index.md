@@ -1,7 +1,14 @@
 ---
-title: github and the Moodle book - Step 2
+categories:
+- moodleopenbook
 date: 2015-08-16 17:27:55+10:00
-categories: ['moodleopenbook']
+next:
+  text: There's more to it than the Internet and social software
+  url: /blog2/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/
+previous:
+  text: Bringing github and the Moodle book module together - step 1
+  url: /blog2/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
+title: github and the Moodle book - Step 2
 type: post
 template: blog-post.html
 comments:
@@ -39,9 +46,9 @@ Some additional work to be done includes
 I've got it installed and working from command line php scripts. Need to figure out how to use it
 
 1. Does the file exist in the repo? Getting the content should return a 200 status code and "type: file" if it is a file, but it will also return the content of the file.
-2. Create a new file API](https://developer.github.com/v3/repos/contents/#create-a-file): PUT /repos/:owner/:repo/contents/:path [Initial implementation in PHP working.
-3. (fetch) Get the content for the file. API](https://developer.github.com/v3/repos/contents/#get-contents) - GET /repos/:owner/:repo/contents/:path [Intial implementation in PHP working.
-4. (push) Update the file with new content. API:](https://developer.github.com/v3/repos/contents/#update-a-file) PUT /repos/:owner/:repo/contents/:path [Initial implementation in PHP working
+2. Create a new file [API](https://developer.github.com/v3/repos/contents/#create-a-file): PUT /repos/:owner/:repo/contents/:path Initial implementation in PHP working.
+3. (fetch) Get the content for the file. [API](https://developer.github.com/v3/repos/contents/#get-contents) - GET /repos/:owner/:repo/contents/:path Intial implementation in PHP working.
+4. (push) Update the file with new content. [API:](https://developer.github.com/v3/repos/contents/#update-a-file) PUT /repos/:owner/:repo/contents/:path Initial implementation in PHP working
 5. What is the status of the file in the repo? What do I actually mean by status? The full history? Still need to find what, if anything in github/git/the API provides this.
 6. What is the relationship between the content/status of the file in the repo and the content in the book. Looks like it's available via the same call.
 

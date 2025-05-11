@@ -1,7 +1,16 @@
 ---
-title: Draft chapter 4 of the thesis is up
+categories:
+- elearning
+- thesis
+- webfuse
 date: 2010-05-21 09:46:10+10:00
-categories: ['elearning', 'thesis', 'webfuse']
+next:
+  text: '"Understanding what teachers do: First step in improving L&#038;T"'
+  url: /blog2/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
+previous:
+  text: How curriculum mapping in Moodle might work
+  url: /blog2/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
+title: Draft chapter 4 of the thesis is up
 type: post
 template: blog-post.html
 ---

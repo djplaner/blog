@@ -1,7 +1,20 @@
 ---
-title: Functional fixedness, analytics, and the LMS
+categories:
+- elearning
+- herding-cats
+- indicators
+- moodle
+- phd
+- reflectivealignment
+- thesis
 date: 2010-06-12 10:53:58+10:00
-categories: ['elearning', 'herding-cats', 'indicators', 'moodle', 'phd', 'reflectivealignment', 'thesis']
+next:
+  text: Workarounds
+  url: /blog2/2010/06/13/workarounds/
+previous:
+  text: Course websites and &quot;libertarian paternalism&quot;
+  url: /blog2/2010/06/08/course-websites-and-libertarian-paternalism/
+title: Functional fixedness, analytics, and the LMS
 type: post
 template: blog-post.html
 ---

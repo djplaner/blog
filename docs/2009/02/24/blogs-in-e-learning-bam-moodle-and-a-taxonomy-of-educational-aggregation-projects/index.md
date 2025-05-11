@@ -1,7 +1,16 @@
 ---
-title: "Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation projects?"
+categories:
+- bam
 date: 2009-02-24 21:24:22+10:00
-categories: ['bam']
+next:
+  text: '"Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
+    systems might go away"'
+  url: /blog2/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
+previous:
+  text: Branding and universities - a mismatch of purpose and place?
+  url: /blog2/2009/02/24/branding-and-universities-a-mismatch-of-purpose-and-place/
+title: '"Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
+  projects?"'
 type: post
 template: blog-post.html
 comments:

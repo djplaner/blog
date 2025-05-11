@@ -1,7 +1,14 @@
 ---
-title: "The learning pyramid: true, false, hoax or myth?"
+categories:
+- elearning
 date: 2009-10-11 10:03:18+10:00
-categories: ['elearning']
+next:
+  text: The indicators project and what it means for me
+  url: /blog2/2009/10/12/the-indicators-project-and-what-it-means-for-me/
+previous:
+  text: Is there value in strategic plans for educational technology
+  url: /blog2/2009/10/09/is-there-value-in-strategic-plans-for-educational-technology/
+title: '"The learning pyramid: true, false, hoax or myth?"'
 type: post
 template: blog-post.html
 comments:

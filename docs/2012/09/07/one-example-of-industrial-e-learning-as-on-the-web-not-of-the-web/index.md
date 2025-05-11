@@ -1,7 +1,17 @@
 ---
-title: One example of industrial e-learning as \"on the web\" not \"of the web\"
+categories:
+- elearning
+- highereducation
+- phd
+- webfuse
 date: 2012-09-07 09:35:14+10:00
-categories: ['elearning', 'highereducation', 'phd', 'webfuse']
+next:
+  text: The core problem with learning analytics?
+  url: /blog2/2012/09/11/the-core-problem-with-learning-analytics/
+previous:
+  text: The dilemma of open courses in an Australian university
+  url: /blog2/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/
+title: One example of industrial e-learning as "on the web" not "of the web"
 type: post
 template: blog-post.html
 comments:

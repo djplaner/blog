@@ -1,6 +1,6 @@
 ---
-title: How to live with ERP systems and thrive
 date: 2008-10-24 14:53:28+10:00
+title: How to live with ERP systems and thrive
 type: page
 template: blog-post.html
 comments:

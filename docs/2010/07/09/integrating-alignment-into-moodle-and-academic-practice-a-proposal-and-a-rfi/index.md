@@ -1,7 +1,18 @@
 ---
-title: "Integrating alignment into Moodle and academic practice: A proposal and a RFI"
+categories:
+- alignment
+- curriculummapping-cddu
+- elearning
+- moodle
 date: 2010-07-09 09:26:24+10:00
-categories: ['alignment', 'curriculummapping-cddu', 'elearning', 'moodle']
+next:
+  text: Trip report - Moodlemoot'AU 2010
+  url: /blog2/2010/07/16/trip-report-moodlemootau-2010/
+previous:
+  text: McGuffins, learning, teaching and universities
+  url: /blog2/2010/07/04/mcguffins-learning-teaching-and-universities/
+title: '"Integrating alignment into Moodle and academic practice: A proposal and a
+  RFI"'
 type: post
 template: blog-post.html
 comments:

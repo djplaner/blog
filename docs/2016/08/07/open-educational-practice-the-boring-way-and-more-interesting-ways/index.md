@@ -1,7 +1,15 @@
 ---
-title: "Open Educational Practice: the boring way and more interesting ways"
+categories:
+- bad
+- moodleopenbook
 date: 2016-08-07 09:04:10+10:00
-categories: ['bad', 'moodleopenbook']
+next:
+  text: Teacher presence in network learning
+  url: /blog2/2016/08/07/teacher-presence-in-network-learning/
+previous:
+  text: How and why do people use the Moodle Book module?
+  url: /blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/
+title: '"Open Educational Practice: the boring way and more interesting ways"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,18 @@
 ---
-title: Choosing your indicators - why, how and what
+categories:
+- blackboardindicators
+- c2d2
+- complexityleadership
+- coursesites
+- elearning
 date: 2008-08-31 12:52:38+10:00
-categories: ['blackboardindicators', 'c2d2', 'complexityleadership', 'coursesites', 'elearning']
+next:
+  text: REACT 2008 - An exercise in scholarship?
+  url: /blog2/2008/09/09/react-2008-an-exercise-in-scholarship/
+previous:
+  text: Getting started on Blackboard indicators
+  url: /blog2/2008/08/28/getting-started-on-blackboard-indicators/
+title: Choosing your indicators - why, how and what
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: PLE drivers being considered in the corporate IT world?
+categories:
+- plescquni
 date: 2008-08-13 22:29:56+10:00
-categories: ['plescquni']
+next:
+  text: A new "all-in-one" introduction to OASIS
+  url: /blog2/2008/08/15/a-new-all-in-one-introduction-to-oasis/
+previous:
+  text: Creating a voice thread presentation
+  url: /blog2/2008/08/11/creating-a-voice-thread-presentation/
+title: PLE drivers being considered in the corporate IT world?
 type: post
 template: blog-post.html
 ---

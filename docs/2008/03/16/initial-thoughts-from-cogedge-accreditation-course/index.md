@@ -1,8 +1,27 @@
 ---
-title: Initial thoughts from CogEdge accreditation course
+categories:
+- c2d2
+- cognitiveedge
+- design-theory
+- elearning
+- herding-cats
+- information-systems
+- missingps
+- ple
+- thesis
 date: 2008-03-16 20:36:33+10:00
-categories: ['c2d2', 'cognitiveedge', 'design-theory', 'elearning', 'herding-cats', 'information-systems', 'missingps', 'ple', 'thesis']
-tags: ['cogedge', 'complexity', 'cynefin']
+next:
+  text: Understanding approaches to improving a course
+  url: /blog2/2008/05/18/understanding-approaches-to-improving-a-course/
+previous:
+  text: From scarcity to over abundance - paradigm change for IT departments (and
+    others)
+  url: /blog2/2008/03/15/from-scarcity-to-over-abundance-paradigm-change-for-it-departments-and-others/
+tags:
+- cogedge
+- complexity
+- cynefin
+title: Initial thoughts from CogEdge accreditation course
 type: post
 template: blog-post.html
 comments:

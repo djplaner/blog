@@ -1,7 +1,15 @@
 ---
-title: "PhD Update #7 - a fortnight in review"
+categories:
+- phd
+- thesis
 date: 2009-04-17 14:22:52+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Performance degradation - impact of new LMS implementation
+  url: /blog2/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+previous:
+  text: A history of technology-mediated learning
+  url: /blog2/2009/04/17/a-history-of-technology-mediated-learning/
+title: '"PhD Update #7 - a fortnight in review"'
 type: post
 template: blog-post.html
 comments:

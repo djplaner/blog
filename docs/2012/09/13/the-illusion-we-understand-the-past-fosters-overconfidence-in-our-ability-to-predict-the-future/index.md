@@ -1,7 +1,17 @@
 ---
-title: The illusion we understand the past fosters overconfidence in our ability to predict the future
+categories:
+- design-theory
+- elearning
+- thesis
 date: 2012-09-13 13:48:39+10:00
-categories: ['design-theory', 'elearning', 'thesis']
+next:
+  text: '"Chasing dreams and recognising realities: teachers'' responses to ICT"'
+  url: /blog2/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/
+previous:
+  text: The core problem with learning analytics?
+  url: /blog2/2012/09/11/the-core-problem-with-learning-analytics/
+title: The illusion we understand the past fosters overconfidence in our ability to
+  predict the future
 type: post
 template: blog-post.html
 comments:

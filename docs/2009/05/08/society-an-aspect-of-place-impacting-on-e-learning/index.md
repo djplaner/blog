@@ -1,7 +1,19 @@
 ---
-title: Society - an aspect of Place impacting on e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-08 09:32:18+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Sector - another part of Place
+  url: /blog2/2009/05/08/sector-another-part-of-place/
+previous:
+  text: Pondering a new position - request for help
+  url: /blog2/2009/05/07/pondering-a-new-position/
+title: Society - an aspect of Place impacting on e-learning
 type: post
 template: blog-post.html
 comments:

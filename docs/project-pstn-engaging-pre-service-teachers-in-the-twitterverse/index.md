@@ -1,6 +1,6 @@
 ---
-title: "Project #pstn: engaging pre-service teachers in the Twitterverse"
 date: 2012-06-26 10:45:20+10:00
+title: '"Project #pstn: engaging pre-service teachers in the Twitterverse"'
 type: page
 template: blog-post.html
 comments:

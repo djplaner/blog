@@ -1,8 +1,17 @@
 ---
-title: "Contradictions in adjectives: You can't be consistent and optimal"
+categories:
+- thesis
 date: 2015-02-25 06:36:00+10:00
-categories: ['thesis']
-tags: ['bad', 'elearning']
+next:
+  text: The edc3100 "inspirational posters"
+  url: /blog2/2015/03/01/the-edc3100-inspirational-posters/
+previous:
+  text: Organising a change in session time
+  url: /blog2/2015/02/19/organising-a-change-in-session-time/
+tags:
+- bad
+- elearning
+title: '"Contradictions in adjectives: You can''t be consistent and optimal"'
 type: post
 template: blog-post.html
 comments:

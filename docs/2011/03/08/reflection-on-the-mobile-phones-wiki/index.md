@@ -1,7 +1,15 @@
 ---
-title: Reflection on the mobile phones wiki
+categories:
+- eded20491
+- teaching
 date: 2011-03-08 10:40:54+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Creating a framework for eLearning design
+  url: /blog2/2011/03/08/creating-a-framework-for-elearning-design/
+previous:
+  text: 'ICTs for Learning Design: Week 2'
+  url: /blog2/2011/03/08/icts-for-learning-design-week-2/
+title: Reflection on the mobile phones wiki
 type: post
 template: blog-post.html
 comments:

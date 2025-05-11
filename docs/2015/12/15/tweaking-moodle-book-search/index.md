@@ -1,8 +1,16 @@
 ---
-title: Tweaking Moodle book search
+categories:
+- thesis
 date: 2015-12-15 16:43:30+10:00
-categories: ['thesis']
-tags: ['moodleopenbook']
+next:
+  text: Finishing tweaks to Moodle book search block
+  url: /blog2/2016/01/17/finishing-tweaks-to-moodle-book-search-block/
+previous:
+  text: 'Book github tool: producing some HTML5'
+  url: /blog2/2015/12/14/book-github-tool-producing-some-html5/
+tags:
+- moodleopenbook
+title: Tweaking Moodle book search
 type: post
 template: blog-post.html
 comments:

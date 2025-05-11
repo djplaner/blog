@@ -1,7 +1,15 @@
 ---
-title: The external validity problem
+categories:
+- elearning
 date: 2013-11-22 14:37:45+10:00
-categories: ['elearning']
+next:
+  text: '"Learning analytics is about learning - #ascilite"'
+  url: /blog2/2013/12/01/learning-analytics-is-about-learning-ascilite/
+previous:
+  text: Examining diffusion and sustainability of e-learning strategies thorugh weblog
+    data
+  url: /blog2/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
+title: The external validity problem
 type: post
 template: blog-post.html
 ---

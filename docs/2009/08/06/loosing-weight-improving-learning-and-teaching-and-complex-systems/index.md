@@ -1,7 +1,14 @@
 ---
-title: Losing weight, improving learning and teaching and complex systems
+categories:
+- reflectivealignment
 date: 2009-08-06 13:07:08+10:00
-categories: ['reflectivealignment']
+next:
+  text: '"Breadth of Webfuse use: 1997 through 2009"'
+  url: /blog2/2009/08/07/breadth-of-webfuse-use-1997-through-2009/
+previous:
+  text: External factors associated with CMS adoption
+  url: /blog2/2009/08/05/external-factors-associated-with-cms-adoption/
+title: Losing weight, improving learning and teaching and complex systems
 type: post
 template: blog-post.html
 comments:

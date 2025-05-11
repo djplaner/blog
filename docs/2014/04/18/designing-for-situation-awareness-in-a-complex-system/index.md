@@ -1,7 +1,15 @@
 ---
-title: Designing for situation awareness in a complex system
+categories:
+- indicators
+- irac
 date: 2014-04-18 15:17:54+10:00
-categories: ['indicators', 'irac']
+next:
+  text: How much reblogging is "bad"?
+  url: /blog2/2014/05/05/how-much-reblogging-is-bad/
+previous:
+  text: Staff need to be using the same tools they use to teach to also learn
+  url: /blog2/2014/04/02/staff-need-to-be-using-the-same-tools-they-use-to-teach-to-also-learn/
+title: Designing for situation awareness in a complex system
 type: post
 template: blog-post.html
 comments:

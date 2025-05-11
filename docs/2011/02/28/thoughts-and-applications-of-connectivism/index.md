@@ -1,7 +1,15 @@
 ---
-title: Thoughts and applications of connectivism
+categories:
+- eded20491
+- teaching
 date: 2011-02-28 10:35:21+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: ICTs for learning design - the first week
+  url: /blog2/2011/02/28/icts-for-learning-design-the-first-week/
+previous:
+  text: Prensky, immigrants and old problems in new bottles
+  url: /blog2/2011/02/27/prensky-immigrants-and-old-problems-in-new-bottles/
+title: Thoughts and applications of connectivism
 type: post
 template: blog-post.html
 comments:

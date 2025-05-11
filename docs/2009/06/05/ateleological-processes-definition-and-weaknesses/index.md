@@ -1,7 +1,19 @@
 ---
-title: Ateleological processes - definition and weaknesses
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-06-05 09:08:50+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: The teaching/research nexus - an example?
+  url: /blog2/2009/06/05/the-teachingresearch-nexus-an-example/
+previous:
+  text: Teleological design - definition and weaknesses
+  url: /blog2/2009/06/05/teleological-design-definition-and-weaknesses/
+title: Ateleological processes - definition and weaknesses
 type: post
 template: blog-post.html
 comments:

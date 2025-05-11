@@ -1,7 +1,15 @@
 ---
-title: Sir, when are we going to use this?
+categories:
+- mathematics
+- teaching
 date: 2011-05-03 21:59:44+10:00
-categories: ['mathematics', 'teaching']
+next:
+  text: Real life, mathematics, partial proportion and race horses
+  url: /blog2/2011/05/07/real-life-mathematics-partial-proportion-and-race-horses/
+previous:
+  text: Supportive Learning Environments - Week 7
+  url: /blog2/2011/05/02/supportive-learning-environments-week-7/
+title: Sir, when are we going to use this?
 type: post
 template: blog-post.html
 comments:

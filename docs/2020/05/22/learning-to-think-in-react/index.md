@@ -1,8 +1,16 @@
 ---
-title: Learning to think in React
-date: 2020-05-22 08:15:18+10:00
-categories: ['bad', 'casa']
+categories:
+- bad
+- casa
 coverImage: 49174894718_173269bb7c_o-scaled.jpg
+date: 2020-05-22 08:15:18+10:00
+next:
+  text: Improving jQuery theme/Content Interface integration
+  url: /blog2/2020/05/29/improving-jquery-theme-content-interface-integration/
+previous:
+  text: Playing with React.js as a technology for CASA
+  url: /blog2/2020/05/20/playing-with-react-js-as-a-technology-for-casa/
+title: Learning to think in React
 type: post
 template: blog-post.html
 ---

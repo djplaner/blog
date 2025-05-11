@@ -1,7 +1,15 @@
 ---
-title: More on blogs and discussion
+categories:
+- elearning
+- plescquni
 date: 2008-11-26 22:23:45+10:00
-categories: ['elearning', 'plescquni']
+next:
+  text: Indications of limitations - blog based discussions
+  url: /blog2/2008/11/27/indications-of-limitations-blog-based-discussions/
+previous:
+  text: Some resources for around blogs and discussion forums
+  url: /blog2/2008/11/26/some-resources-for-around-blogs-and-discussion-forums/
+title: More on blogs and discussion
 type: post
 template: blog-post.html
 ---

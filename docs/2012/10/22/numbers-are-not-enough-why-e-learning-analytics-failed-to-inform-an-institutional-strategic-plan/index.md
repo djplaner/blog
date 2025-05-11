@@ -1,7 +1,17 @@
 ---
-title: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional Strategic Plan
+categories:
+- elearning
+- indicators
+- learninganalytics-elearning
 date: 2012-10-22 12:34:56+10:00
-categories: ['elearning', 'indicators', 'learninganalytics-elearning']
+next:
+  text: '"The quest to make sense of information: A research commentary"'
+  url: /blog2/2012/10/25/the-quest-to-make-sense-of-information-a-research-commentary/
+previous:
+  text: The Texas sharpshooter fallacy and other issues for learning analytics
+  url: /blog2/2012/10/18/the-texas-sharpshooter-fallacy-and-other-issues-for-learning-analytics/
+title: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
+  Strategic Plan
 type: post
 template: blog-post.html
 comments:

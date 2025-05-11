@@ -1,7 +1,19 @@
 ---
-title: "PhD Update #21 - End in sight for chapter 2"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-08-21 09:43:06+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: What is an LMS?
+  url: /blog2/2009/08/21/what-is-an-lms/
+previous:
+  text: 'BIM#5: Getting a prototype BIM going'
+  url: /blog2/2009/08/20/bim5-getting-a-prototype-bim-going/
+title: '"PhD Update #21 - End in sight for chapter 2"'
 type: post
 template: blog-post.html
 comments:

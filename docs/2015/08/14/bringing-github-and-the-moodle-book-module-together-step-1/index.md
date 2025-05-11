@@ -1,7 +1,16 @@
 ---
-title: Bringing github and the Moodle book module together - step 1
+categories:
+- moodle
+- moodleopenbook
+- openbook
 date: 2015-08-14 17:36:42+10:00
-categories: ['moodle', 'moodleopenbook', 'openbook']
+next:
+  text: github and the Moodle book - Step 2
+  url: /blog2/2015/08/16/github-and-the-moodle-book-step-2/
+previous:
+  text: 'Homogeneity: the inevitable result of a strategic approach?'
+  url: /blog2/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
+title: Bringing github and the Moodle book module together - step 1
 type: post
 template: blog-post.html
 comments:

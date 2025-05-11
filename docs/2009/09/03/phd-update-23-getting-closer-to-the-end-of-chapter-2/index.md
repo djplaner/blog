@@ -1,7 +1,15 @@
 ---
-title: "Phd Update #23 - Getting closer to the end of chapter 2"
+categories:
+- phd
+- thesis
 date: 2009-09-03 21:49:38+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Pedagogy - the centrality of the pedagogue and what they believe
+  url: /blog2/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/
+previous:
+  text: 'BIM #6 - Learning weblib.php'
+  url: /blog2/2009/09/03/bim-6-learning-weblib-php/
+title: '"Phd Update #23 - Getting closer to the end of chapter 2"'
 type: post
 template: blog-post.html
 ---

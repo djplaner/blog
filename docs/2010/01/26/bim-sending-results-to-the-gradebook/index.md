@@ -1,7 +1,14 @@
 ---
-title: BIM - sending results to the gradebook
+categories:
+- bim
 date: 2010-01-26 14:27:04+10:00
-categories: ['bim']
+next:
+  text: BIM - Tidying up - Part 1
+  url: /blog2/2010/01/26/bim-tidying-up-part-1/
+previous:
+  text: Increasing weak ties, not strong - improving learning and teaching
+  url: /blog2/2010/01/26/increasing-weak-ties-not-strong-improving-learning-and-teaching/
+title: BIM - sending results to the gradebook
 type: post
 template: blog-post.html
 comments:

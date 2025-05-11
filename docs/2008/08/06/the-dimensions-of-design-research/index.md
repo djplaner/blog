@@ -1,7 +1,16 @@
 ---
-title: The dimensions of design research
+categories:
+- design-theory
+- plescquni
+- thesis
 date: 2008-08-06 09:32:57+10:00
-categories: ['design-theory', 'plescquni', 'thesis']
+next:
+  text: Creating slidecasts on Slideshare - e-learning support?
+  url: /blog2/2008/08/07/creating-slidecasts-on-slideshare-e-learning-support/
+previous:
+  text: How to lead your life and fulfill your childhood dreams
+  url: /blog2/2008/07/29/how-to-lead-your-life-and-fulfill-your-childhood-dreams/
+title: The dimensions of design research
 type: post
 template: blog-post.html
 ---

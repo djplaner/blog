@@ -1,7 +1,16 @@
 ---
-title: How do you analyse and select an educational technology
+categories:
+- eded20491
+- elearning
+- teaching
 date: 2011-04-04 15:07:36+10:00
-categories: ['eded20491', 'elearning', 'teaching']
+next:
+  text: Building a collaborative CV09 podcast
+  url: /blog2/2011/04/06/building-a-collaborative-cv09-podcast/
+previous:
+  text: Making and using an OPML feed of student blogs
+  url: /blog2/2011/04/04/making-and-using-an-opml-feed-of-student-blogs/
+title: How do you analyse and select an educational technology
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: The teleological reason why ICTs limit choice for university learners and learning
+categories:
+- eei
 date: 2017-03-01 09:00:43+10:00
-categories: ['eei']
+next:
+  text: Thinking about (more) reproducible research and learning analytics
+  url: /blog2/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/
+previous:
+  text: L&T Orientation for new Academic staff (S1, 2017)
+  url: /blog2/2017/02/24/lt-orientation-for-new-academic-staff-s1-2017/
+title: The teleological reason why ICTs limit choice for university learners and learning
 type: post
 template: blog-post.html
 ---

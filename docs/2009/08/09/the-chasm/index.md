@@ -1,7 +1,18 @@
 ---
-title: The chasm
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- thesis
 date: 2009-08-09 11:52:00+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'thesis']
+next:
+  text: Big Z's first progeny
+  url: /blog2/2009/08/11/big-zs-first-progeny/
+previous:
+  text: Support staff - continuing with the People component
+  url: /blog2/2009/08/09/support-staff-continuing-with-the-people-component/
+title: The chasm
 type: post
 template: blog-post.html
 comments:

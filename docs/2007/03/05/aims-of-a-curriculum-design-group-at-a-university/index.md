@@ -1,7 +1,14 @@
 ---
-title: Aims of a curriculum design group at a university
+categories:
+- emd
 date: 2007-03-05 15:28:19+10:00
-categories: ['emd']
+next:
+  text: Thesis 1.1 - Introduction
+  url: /blog2/2007/03/10/thesis-11-introduction/
+previous:
+  text: Open source in the education field
+  url: /blog2/2007/03/04/open-source-in-the-education-field/
+title: Aims of a curriculum design group at a university
 type: post
 template: blog-post.html
 ---

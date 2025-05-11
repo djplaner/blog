@@ -1,7 +1,14 @@
 ---
-title: How curriculum mapping in Moodle might work
+categories:
+- alignment
 date: 2010-05-19 21:05:17+10:00
-categories: ['alignment']
+next:
+  text: Draft chapter 4 of the thesis is up
+  url: /blog2/2010/05/21/draft-chapter-4-of-the-thesis-is-up/
+previous:
+  text: Moving the indicators Moodle block to a factory class
+  url: /blog2/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
+title: How curriculum mapping in Moodle might work
 type: post
 template: blog-post.html
 comments:

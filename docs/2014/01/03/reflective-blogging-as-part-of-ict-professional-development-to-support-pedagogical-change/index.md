@@ -1,7 +1,17 @@
 ---
-title: Reflective Blogging as part of ICT Professional Development to Support Pedagogical Change
+categories:
+- bim
+- edc3100
+- elearning
 date: 2014-01-03 10:37:59+10:00
-categories: ['bim', 'edc3100', 'elearning']
+next:
+  text: '"Visualising posting frequency: BIM and EDC3100"'
+  url: /blog2/2014/01/06/visualising-posting-frequency-bim-and-edc3100/
+previous:
+  text: Challenges in employing complex e-learning strategies in campus-based universities
+  url: /blog2/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
+title: Reflective Blogging as part of ICT Professional Development to Support Pedagogical
+  Change
 type: post
 template: blog-post.html
 ---

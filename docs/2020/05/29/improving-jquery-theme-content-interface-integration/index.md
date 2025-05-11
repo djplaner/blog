@@ -1,8 +1,16 @@
 ---
-title: Improving jQuery theme/Content Interface integration
+categories:
+- casa
+coverImage: hotel.jpg
 date: 2020-05-29 15:55:24+10:00
-categories: ['casa']
-coverImage: 3102194738_a67d8b1639_o-scaled-e1590732238340.jpg
+next:
+  text: What are the impediments to quality teaching and what can be done to remove
+    them?
+  url: /blog2/2020/05/30/what-are-the-impediments-to-quality-teaching-and-what-can-be-done-to-remove-them/
+previous:
+  text: Learning to think in React
+  url: /blog2/2020/05/22/learning-to-think-in-react/
+title: Improving jQuery theme/Content Interface integration
 type: post
 template: blog-post.html
 ---

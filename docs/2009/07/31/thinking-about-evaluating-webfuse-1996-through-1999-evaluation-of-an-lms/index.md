@@ -1,7 +1,20 @@
 ---
-title: Thinking about evaluating Webfuse (1996 through 1999) - evaluation of an LMS?
+categories:
+- chapter-4
+- design-theory
+- elearning
+- indicators
+- phd
+- thesis
+- webfuse
 date: 2009-07-31 13:44:16+10:00
-categories: ['chapter-4', 'design-theory', 'elearning', 'indicators', 'phd', 'thesis', 'webfuse']
+next:
+  text: Some early results from Webfuse evaluation
+  url: /blog2/2009/07/31/some-early-results-from-webfuse-evaluation/
+previous:
+  text: Gaps, shadow systems and the VLE/LMS
+  url: /blog2/2009/07/31/gaps-shadow-systems-and-the-vlelms/
+title: Thinking about evaluating Webfuse (1996 through 1999) - evaluation of an LMS?
 type: post
 template: blog-post.html
 comments:

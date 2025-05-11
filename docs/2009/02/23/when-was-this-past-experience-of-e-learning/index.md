@@ -1,7 +1,19 @@
 ---
-title: When was this - past experience of e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- psframework
+- quotes
+- thesis
 date: 2009-02-23 22:33:11+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'psframework', 'quotes', 'thesis']
+next:
+  text: Branding and universities - a mismatch of purpose and place?
+  url: /blog2/2009/02/24/branding-and-universities-a-mismatch-of-purpose-and-place/
+previous:
+  text: Patterns for e-learning - a lost opportunity or destined to fail
+  url: /blog2/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
+title: When was this - past experience of e-learning
 type: post
 template: blog-post.html
 ---

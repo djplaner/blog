@@ -1,7 +1,16 @@
 ---
-title: What is \"netgl\" and how might it apply to my problem
+categories:
+- edu8117
+- netgl
 date: 2015-10-08 14:21:06+10:00
-categories: ['edu8117', 'netgl']
+next:
+  text: Are our institutions digital visitors?  What are the impacts on learning and
+    teaching?
+  url: /blog2/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/
+previous:
+  text: What is theory and why use theories?
+  url: /blog2/2015/10/08/what-is-theory-and-why-use-theories/
+title: What is "netgl" and how might it apply to my problem
 type: post
 template: blog-post.html
 ---

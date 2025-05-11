@@ -1,7 +1,19 @@
 ---
-title: What are the conditions that are conducive to the creation of a variety of new ideas?
+categories:
+- chapter-2
+- elearning
+- innovation
+- phd
+- psframework
 date: 2009-05-25 14:51:39+10:00
-categories: ['chapter-2', 'elearning', 'innovation', 'phd', 'psframework']
+next:
+  text: A night at Ezard
+  url: /blog2/2009/05/27/a-night-at-ezard/
+previous:
+  text: Teleological and ateleological processes
+  url: /blog2/2009/05/25/teleological-and-ateleological-processes/
+title: What are the conditions that are conducive to the creation of a variety of
+  new ideas?
 type: post
 template: blog-post.html
 ---

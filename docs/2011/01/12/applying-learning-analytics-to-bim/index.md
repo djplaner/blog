@@ -1,8 +1,19 @@
 ---
-title: Applying \"learning analytics\" to BIM
+categories:
+- bim
+- bim2
+- indicators
+- lak11
 date: 2011-01-12 10:25:27+10:00
-categories: ['bim', 'bim2', 'indicators', 'lak11']
-tags: ['lak11']
+next:
+  text: Introducing Hunch
+  url: /blog2/2011/01/13/introducing-hunch/
+previous:
+  text: 'Learning analytics: Definitions, processes and potential'
+  url: /blog2/2011/01/10/learning-analytics-definitions-processes-and-potential/
+tags:
+- lak11
+title: Applying "learning analytics" to BIM
 type: post
 template: blog-post.html
 ---

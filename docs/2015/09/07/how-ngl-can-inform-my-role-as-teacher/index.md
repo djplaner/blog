@@ -1,7 +1,15 @@
 ---
-title: How NGL can inform my role as teacher
+categories:
+- elearning
+- netgl
 date: 2015-09-07 12:04:08+10:00
-categories: ['elearning', 'netgl']
+next:
+  text: Requirements, solutions, design, and who should decide
+  url: /blog2/2015/09/09/requirements-solutions-design-and-who-should-decide/
+previous:
+  text: Design of a BAD approach to developing TPACK
+  url: /blog2/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
+title: How NGL can inform my role as teacher
 type: post
 template: blog-post.html
 ---

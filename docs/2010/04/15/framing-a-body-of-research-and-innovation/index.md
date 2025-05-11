@@ -1,7 +1,16 @@
 ---
-title: Framing a body of research and innovation
+categories:
+- elearning
+- herding-cats
+- reflectivealignment
 date: 2010-04-15 11:21:31+10:00
-categories: ['elearning', 'herding-cats', 'reflectivealignment']
+next:
+  text: Clarification of the alignment project
+  url: /blog2/2010/04/22/clarification-of-the-alignment-project/
+previous:
+  text: Further thinking - behaviour change and improving L&#038;T
+  url: /blog2/2010/04/15/further-thinking-behaviour-change-and-improving-lt/
+title: Framing a body of research and innovation
 type: post
 template: blog-post.html
 comments:

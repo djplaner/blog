@@ -1,7 +1,15 @@
 ---
-title: Getting an overview of the term ahead
+categories:
+- journey
+- teaching
 date: 2011-02-15 17:25:30+10:00
-categories: ['journey', 'teaching']
+next:
+  text: How hard is it to get a personalised class timetable?
+  url: /blog2/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
+previous:
+  text: 'bim2: Some more coordinator tabs'
+  url: /blog2/2011/02/13/bim2-some-more-coordinator-tabs/
+title: Getting an overview of the term ahead
 type: post
 template: blog-post.html
 comments:

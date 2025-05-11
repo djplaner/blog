@@ -1,7 +1,17 @@
 ---
-title: Featured on slideshare - the give and take of social computing
+categories:
+- elearning
+- phd
+- thesis
 date: 2009-02-27 17:31:21+10:00
-categories: ['elearning', 'phd', 'thesis']
+next:
+  text: Dimensions delimiting conceptions of online teaching - something to guide
+    the indicators and the evaluation of LMS data?
+  url: /blog2/2009/02/28/dimensions-delimiting-conceptions-of-online-teaching-something-to-guide-the-indicators-and-the-evaluation-of-lms-data/
+previous:
+  text: 'PhD update #1 - the start of a tradition?'
+  url: /blog2/2009/02/27/phd-update-1-the-start-of-a-tradition/
+title: Featured on slideshare - the give and take of social computing
 type: post
 template: blog-post.html
 comments:

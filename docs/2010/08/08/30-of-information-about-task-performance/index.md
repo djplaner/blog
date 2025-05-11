@@ -1,7 +1,22 @@
 ---
-title: 30% of information about task performance
+categories:
+- c2d2
+- chapter-5
+- design-theory
+- elearning
+- highereducation
+- phd
+- reflectivealignment
+- thesis
+- webfuse
 date: 2010-08-08 14:00:56+10:00
-categories: ['c2d2', 'chapter-5', 'design-theory', 'elearning', 'highereducation', 'phd', 'reflectivealignment', 'thesis', 'webfuse']
+next:
+  text: Wicked problems and the need to engage with differing perspectives
+  url: /blog2/2010/08/08/wicked-problems-and-the-need-to-engage-with-differing-perspectives/
+previous:
+  text: Usage of dynamic web applications by staff and students
+  url: /blog2/2010/08/05/usage-of-dynamic-web-applications-by-staff-and-students/
+title: 30% of information about task performance
 type: post
 template: blog-post.html
 ---

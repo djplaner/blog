@@ -1,7 +1,16 @@
 ---
-title: "Extending the classroom: Open content and open teaching: Summary and reflection"
+categories:
+- elearning
+- missingps
+- react
 date: 2008-11-11 08:57:16+10:00
-categories: ['elearning', 'missingps', 'react']
+next:
+  text: What are the assumptions which PLEs/Learning 2.0 etc overthrow
+  url: /blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
+previous:
+  text: Between the idea and the reality,.... falls the shadow
+  url: /blog2/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/
+title: '"Extending the classroom: Open content and open teaching: Summary and reflection"'
 type: post
 template: blog-post.html
 comments:

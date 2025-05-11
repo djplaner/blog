@@ -1,7 +1,16 @@
 ---
-title: "The biggest flaw in university L&#038;T/e-learning?"
+categories:
+- elearning
+- react
+- reflectivealignment
 date: 2009-03-06 22:03:22+10:00
-categories: ['elearning', 'react', 'reflectivealignment']
+next:
+  text: '"How to improve L&#038;T and e-learning at universities"'
+  url: /blog2/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+previous:
+  text: The weak second album (PhD update)
+  url: /blog2/2009/03/06/the-weak-second-album-phd-update/
+title: '"The biggest flaw in university L&#038;T/e-learning?"'
 type: post
 template: blog-post.html
 comments:

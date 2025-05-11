@@ -1,7 +1,15 @@
 ---
-title: BIM and BIM2 - Who needs it? What do you need?
+categories:
+- bim
+- bim2
 date: 2011-09-22 11:04:05+10:00
-categories: ['bim', 'bim2']
+next:
+  text: A course outline to increase relevance of IPT
+  url: /blog2/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/
+previous:
+  text: 'The final plan: Khan Academy, gamification and the flipped classroom'
+  url: /blog2/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/
+title: BIM and BIM2 - Who needs it? What do you need?
 type: post
 template: blog-post.html
 comments:

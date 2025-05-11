@@ -1,7 +1,17 @@
 ---
-title: Emedding plotly graphs in Wordpress posts
+categories:
+- 4paths
+- indicators
+- irac
+- learninganalytics-elearning
 date: 2017-06-17 12:50:26+10:00
-categories: ['4paths', 'indicators', 'irac', 'learninganalytics-elearning']
+next:
+  text: Nudging up MyOpinion response rates using a gamified leaderboard
+  url: /blog2/2017/06/17/nudging-up-myopinion-response-rates-using-a-gamified-leaderboard/
+previous:
+  text: Bye, Bye Mendeley?
+  url: /blog2/2017/05/20/bye-bye-mendeley/
+title: Emedding plotly graphs in Wordpress posts
 type: post
 template: blog-post.html
 ---

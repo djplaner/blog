@@ -1,7 +1,17 @@
 ---
-title: "Re-purposing V&#038;R mapping to explore modification of digital learning spaces"
+categories:
+- bad
+- elearning
 date: 2015-10-28 12:30:49+10:00
-categories: ['bad', 'elearning']
+next:
+  text: The CSCW view of Knowledge Management
+  url: /blog2/2015/10/30/the-cscw-view-of-knowledge-management/
+previous:
+  text: Are our institutions digital visitors?  What are the impacts on learning and
+    teaching?
+  url: /blog2/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/
+title: '"Re-purposing V&#038;R mapping to explore modification of digital learning
+  spaces"'
 type: post
 template: blog-post.html
 comments:

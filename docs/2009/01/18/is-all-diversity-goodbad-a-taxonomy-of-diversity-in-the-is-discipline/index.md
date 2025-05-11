@@ -1,7 +1,17 @@
 ---
-title: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
+categories:
+- chapter-3
+- information-systems
+- missingps
+- thesis
 date: 2009-01-18 16:18:18+10:00
-categories: ['chapter-3', 'information-systems', 'missingps', 'thesis']
+next:
+  text: Why am I a ePortfolio skeptic?
+  url: /blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/
+previous:
+  text: Using metaphor to examine diversity (or lack thereof) in research
+  url: /blog2/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/
+title: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: Some findings from initial exploration of Moodle Book usage
+categories:
+- exploring
+- moodleopenbook
 date: 2016-10-06 18:17:22+10:00
-categories: ['exploring', 'moodleopenbook']
+next:
+  text: Exploring more frameworks to understand OER/OEP
+  url: /blog2/2016/10/10/exploring-more-frameworks-to-understand-oeroep/
+previous:
+  text: Exploring Moodle Book usage - part 9 - Strange courses
+  url: /blog2/2016/09/26/exploring-moodle-book-usage-part-9-strange-courses/
+title: Some findings from initial exploration of Moodle Book usage
 type: post
 template: blog-post.html
 ---

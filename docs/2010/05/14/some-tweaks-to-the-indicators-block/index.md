@@ -1,7 +1,14 @@
 ---
-title: Some tweaks to the indicators block
+categories:
+- indicators
 date: 2010-05-14 16:51:28+10:00
-categories: ['indicators']
+next:
+  text: Is there more to communities of practice?
+  url: /blog2/2010/05/16/is-there-more-to-communities-of-practice/
+previous:
+  text: Qualms about the alignment project
+  url: /blog2/2010/05/14/qualms-about-the-alignment-project/
+title: Some tweaks to the indicators block
 type: post
 template: blog-post.html
 comments:

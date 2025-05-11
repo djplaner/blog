@@ -1,7 +1,15 @@
 ---
-title: First the fridge dies, and then...
+categories:
+- thesis
 date: 2010-07-28 10:43:25+10:00
-categories: ['thesis']
+next:
+  text: The grammar of school, psychological dissonance and all professors are rather
+    ludditical
+  url: /blog2/2010/07/30/the-grammar-of-school-psychological-dissonance-and-all-professors-are-rather-ludditical/
+previous:
+  text: 'PLEs and the institution: the wrong problem'
+  url: /blog2/2010/07/23/ples-and-the-institution-the-wrong-problem/
+title: First the fridge dies, and then...
 type: post
 template: blog-post.html
 comments:

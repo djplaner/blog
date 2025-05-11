@@ -1,8 +1,18 @@
 ---
-title: Where does the LMS sit in the reusability paradox
+categories:
+- thesis
 date: 2015-04-21 15:54:45+10:00
-categories: ['thesis']
-tags: ['bad', 'e-learning']
+next:
+  text: Why is e-learning like teenage sex and what can be done about it?
+  url: /blog2/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/
+previous:
+  text: What&#039;s good for &quot;open content&quot; is good for the LMS/virtual
+    learning space?
+  url: /blog2/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
+tags:
+- bad
+- e-learning
+title: Where does the LMS sit in the reusability paradox
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Mao's \"four pests\" campaign - problems with herding cats
+categories:
+- herding-cats
 date: 2006-12-15 21:41:33+10:00
-categories: ['herding-cats']
+next:
+  text: Underpinnings for the REACT approach
+  url: /blog2/2006/12/16/underpinnings-for-the-react-approach/
+previous:
+  text: Software as a Service (SaaS) and elearning
+  url: /blog2/2006/11/29/software-as-a-service-saas-and-elearning/
+title: Mao's "four pests" campaign - problems with herding cats
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Can e-learning tools be more like Plants vs Zombies?
+categories:
+- elearning
 date: 2011-09-23 10:10:31+10:00
-categories: ['elearning']
+next:
+  text: A hassle map for Year 10 mathematics? You can't focus on the negatives?
+  url: /blog2/2011/09/25/a-hassle-map-for-year-10-mathematics-you-cant-focus-on-the-negatives/
+previous:
+  text: A course outline to increase relevance of IPT
+  url: /blog2/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/
+title: Can e-learning tools be more like Plants vs Zombies?
 type: post
 template: blog-post.html
 comments:

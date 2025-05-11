@@ -1,7 +1,18 @@
 ---
-title: Integration with professional lives of academics - why industrial e-learning fails and why post-industrial might work
+categories:
+- chapter-2
+- design-theory
+- elearning
+- thesis
 date: 2009-04-29 14:08:02+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'thesis']
+next:
+  text: First official BAM paper done
+  url: /blog2/2009/04/30/first-official-bam-paper-done/
+previous:
+  text: Lessons for from past experience
+  url: /blog2/2009/04/25/lessons-for-e-learning/
+title: Integration with professional lives of academics - why industrial e-learning
+  fails and why post-industrial might work
 type: post
 template: blog-post.html
 comments:

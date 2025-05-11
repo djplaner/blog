@@ -1,7 +1,17 @@
 ---
-title: What might a project combining LX Design and Analaytics look like?
+categories:
+- elearning
+- irac
+- learninganalytics-elearning
+- lxdesign
 date: 2015-09-14 11:40:19+10:00
-categories: ['elearning', 'irac', 'learninganalytics-elearning', 'lxdesign']
+next:
+  text: Helping teachers "know thy students"
+  url: /blog2/2015/09/15/helping-teachers-know-thy-students/
+previous:
+  text: Exploring Moodle&#039;s API
+  url: /blog2/2015/09/13/exploring-moodles-api/
+title: What might a project combining LX Design and Analaytics look like?
 type: post
 template: blog-post.html
 comments:

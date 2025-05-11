@@ -1,7 +1,19 @@
 ---
-title: Birnbaum's fad cycle in higher education
+categories:
+- chapter-2
+- design-theory
+- elearning
+- psframework
+- thesis
 date: 2009-04-06 15:31:52+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'psframework', 'thesis']
+next:
+  text: Early indications of "blame the student" that continues today
+  url: /blog2/2009/04/06/early-indications-of-blame-the-student-that-continues-today/
+previous:
+  text: Quotes from Snowden and the mismatch between what univeristy e-learning does
+    and what it needs
+  url: /blog2/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/
+title: Birnbaum's fad cycle in higher education
 type: post
 template: blog-post.html
 comments:

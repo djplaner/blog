@@ -1,7 +1,15 @@
 ---
-title: "BAM into Moodle - Step #2: configuration and questions"
+categories:
+- bam
+- moodle
 date: 2009-07-21 11:27:59+10:00
-categories: ['bam', 'moodle']
+next:
+  text: '"BAM into Moodle - Step #3 - some initial development?"'
+  url: /blog2/2009/07/21/bam-into-moodle-step-3-some-initial-development/
+previous:
+  text: 'PhD update #17 - You know you&#039;re losing your way when....'
+  url: /blog2/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
+title: '"BAM into Moodle - Step #2: configuration and questions"'
 type: post
 template: blog-post.html
 ---

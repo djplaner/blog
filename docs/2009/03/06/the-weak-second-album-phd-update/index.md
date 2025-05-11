@@ -1,7 +1,15 @@
 ---
-title: The weak second album (PhD update)
+categories:
+- phd
+- thesis
 date: 2009-03-06 12:30:18+10:00
-categories: ['phd', 'thesis']
+next:
+  text: '"The biggest flaw in university L&#038;T/e-learning?"'
+  url: /blog2/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/
+previous:
+  text: The IRIS model of Technology Adoption - neat and incomplete?
+  url: /blog2/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
+title: The weak second album (PhD update)
 type: post
 template: blog-post.html
 comments:

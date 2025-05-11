@@ -1,7 +1,14 @@
 ---
-title: Harnessing learning analytics to inform/improve learning and teaching
+categories:
+- indicators
 date: 2012-05-20 15:09:35+10:00
-categories: ['indicators']
+next:
+  text: '"Learning Analytics: engaging with and changing learning and teaching"'
+  url: /blog2/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
+previous:
+  text: 'A #pstn story, so far'
+  url: /blog2/2012/05/17/a-pstn-story-so-far/
+title: Harnessing learning analytics to inform/improve learning and teaching
 type: post
 template: blog-post.html
 comments:

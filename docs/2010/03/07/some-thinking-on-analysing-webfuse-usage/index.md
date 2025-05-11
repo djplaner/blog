@@ -1,7 +1,22 @@
 ---
-title: Some thinking on analysing Webfuse usage
+categories:
+- chapter-4
+- chapter-5
+- design-theory
+- elearning
+- indicators
+- phd
+- thesis
+- webfuse
 date: 2010-03-07 14:21:41+10:00
-categories: ['chapter-4', 'chapter-5', 'design-theory', 'elearning', 'indicators', 'phd', 'thesis', 'webfuse']
+next:
+  text: The Ps Framework and the mismatch created by the product and process of industrial
+    e-learning
+  url: /blog2/2010/03/09/the-ps-framework-and-the-mismatch-created-by-the-product-and-process-of-industrial-e-learning/
+previous:
+  text: Design processes for teaching
+  url: /blog2/2010/03/05/design-processes-for-teaching/
+title: Some thinking on analysing Webfuse usage
 type: post
 template: blog-post.html
 ---

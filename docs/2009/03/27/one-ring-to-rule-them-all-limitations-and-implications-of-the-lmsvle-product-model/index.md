@@ -1,7 +1,20 @@
 ---
-title: "\"One ring to rule them all\": Limitations and implications of the LMS/VLE product model"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-03-27 11:20:36+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"PhD Update #5 - a new low"'
+  url: /blog2/2009/03/27/phd-update-5-a-new-low/
+previous:
+  text: The myth of rationality in the selection of learning management systems/VLEs
+  url: /blog2/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
+title: '""One ring to rule them all": Limitations and implications of the LMS/VLE
+  product model"'
 type: post
 template: blog-post.html
 comments:

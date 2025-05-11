@@ -1,7 +1,21 @@
 ---
-title: "From theory to intervention: Mapping theoretically derived behavioural determinants to behaviour change techniques"
+categories:
+- chapter-2
+- curriculummapping-cddu
+- design-theory
+- elearning
+- herding-cats
+- indicators
+- reflectivealignment
 date: 2010-03-25 14:19:40+10:00
-categories: ['chapter-2', 'curriculummapping-cddu', 'design-theory', 'elearning', 'herding-cats', 'indicators', 'reflectivealignment']
+next:
+  text: Moodle, Oracle, blobs and MS-Word - problem and solution?
+  url: /blog2/2010/03/26/moodle-oracle-blobs-and-ms-word-problem-and-solution/
+previous:
+  text: 'Limits in developing innovative pedagogy with Moodle: The story of BIM'
+  url: /blog2/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/
+title: '"From theory to intervention: Mapping theoretically derived behavioural determinants
+  to behaviour change techniques"'
 type: post
 template: blog-post.html
 comments:

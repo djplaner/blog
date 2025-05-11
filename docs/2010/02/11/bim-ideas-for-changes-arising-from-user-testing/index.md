@@ -1,7 +1,14 @@
 ---
-title: BIM - Ideas for changes arising from user testing
+categories:
+- bim
 date: 2010-02-11 13:33:50+10:00
-categories: ['bim']
+next:
+  text: BIM - Final Tidy up
+  url: /blog2/2010/02/15/bim-final-tidy-up/
+previous:
+  text: Implications arising from the absence of the &quot;sameness of meaning&quot;
+  url: /blog2/2010/02/11/implications-arising-from-the-absence-of-the-sameness-of-meaning/
+title: BIM - Ideas for changes arising from user testing
 type: post
 template: blog-post.html
 ---

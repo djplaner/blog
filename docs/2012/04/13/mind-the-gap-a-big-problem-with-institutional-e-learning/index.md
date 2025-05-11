@@ -1,7 +1,15 @@
 ---
-title: Mind the gap - a big problem with institutional e-learning
+categories:
+- elearning
+- thesis
 date: 2012-04-13 13:14:00+10:00
-categories: ['elearning', 'thesis']
+next:
+  text: Questions and insights on (education) hack days/hackathons
+  url: /blog2/2012/04/25/questions-and-insights-on-edhackathons/
+previous:
+  text: bim2 - working on coordinator - part 1
+  url: /blog2/2012/04/11/bim2-working-on-coordinator-part-1/
+title: Mind the gap - a big problem with institutional e-learning
 type: post
 template: blog-post.html
 comments:

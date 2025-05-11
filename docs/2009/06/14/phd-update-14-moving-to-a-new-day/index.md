@@ -1,7 +1,16 @@
 ---
-title: "PhD Update #14 - Moving to a new day"
+categories:
+- phd
+- thesis
 date: 2009-06-14 11:35:24+10:00
-categories: ['phd', 'thesis']
+next:
+  text: How silly can enterprise IT get? Tools should fit the people, not the other
+    way around
+  url: /blog2/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
+previous:
+  text: To all my friends and colleagues out there - PhD etiquette
+  url: /blog2/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
+title: '"PhD Update #14 - Moving to a new day"'
 type: post
 template: blog-post.html
 comments:

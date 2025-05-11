@@ -1,6 +1,6 @@
 ---
-title: Four models of on-line teaching
 date: 2008-12-31 13:34:48+10:00
+title: Four models of on-line teaching
 type: page
 template: blog-post.html
 ---

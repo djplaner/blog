@@ -1,7 +1,19 @@
 ---
-title: Comparisons between LMS - the need for system independence
+categories:
+- chapter-2
+- design-theory
+- elearning
+- indicators
+- phd
+- thesis
 date: 2009-08-28 15:31:57+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'indicators', 'phd', 'thesis']
+next:
+  text: '"Learning Tools in Higher Education: Products, Characteristics, Procurement"'
+  url: /blog2/2009/08/30/learning-tools-in-higher-education-products-characteristics-procurement/
+previous:
+  text: 'PhD Update #22 - one day active, but some movement'
+  url: /blog2/2009/08/28/phd-update-22-one-day-active-but-some-movement/
+title: Comparisons between LMS - the need for system independence
 type: post
 template: blog-post.html
 comments:

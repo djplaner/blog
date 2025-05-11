@@ -1,7 +1,16 @@
 ---
-title: Developing personal learning networks for open and social learning
+categories:
+- edc3100
+- teaching
 date: 2012-12-14 12:00:18+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: '"Beyond the early adopters of online instruction: Motivating the reluctant
+    majority"'
+  url: /blog2/2012/12/14/beyond-the-early-adopters-of-online-instruction-motivating-the-reluctant-majority/
+previous:
+  text: Understanding management students&#039; reflective practice through blogging
+  url: /blog2/2012/12/12/understanding-management-students-reflective-practice-through-blogging/
+title: Developing personal learning networks for open and social learning
 type: post
 template: blog-post.html
 comments:

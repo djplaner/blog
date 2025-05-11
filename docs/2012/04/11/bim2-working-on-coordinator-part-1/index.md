@@ -1,7 +1,14 @@
 ---
-title: bim2 - working on coordinator - part 1
+categories:
+- bim2
 date: 2012-04-11 21:23:31+10:00
-categories: ['bim2']
+next:
+  text: Mind the gap - a big problem with institutional e-learning
+  url: /blog2/2012/04/13/mind-the-gap-a-big-problem-with-institutional-e-learning/
+previous:
+  text: Why learning management systems will probably go away
+  url: /blog2/2012/04/06/why-learning-management-systems-will-probably-go-away/
+title: bim2 - working on coordinator - part 1
 type: post
 template: blog-post.html
 comments:

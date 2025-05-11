@@ -1,7 +1,15 @@
 ---
-title: Thesis abstract v1.0b
+categories:
+- thesis
+- webfuse
 date: 2010-10-28 14:44:30+10:00
-categories: ['thesis', 'webfuse']
+next:
+  text: Crisis in higher education and limitations that prevent change
+  url: /blog2/2010/11/01/crisis-in-higher-education-and-limitations-that-prevent-change/
+previous:
+  text: No burden for TEQSA, yea right
+  url: /blog2/2010/10/27/no-burden-for-teqsa-yea-right/
+title: Thesis abstract v1.0b
 type: post
 template: blog-post.html
 comments:

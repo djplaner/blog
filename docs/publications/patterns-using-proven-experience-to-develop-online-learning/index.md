@@ -1,6 +1,6 @@
 ---
-title: "Patterns: using proven experience to  develop online learning"
 date: 2009-01-01 13:48:29+10:00
+title: '"Patterns: using proven experience to  develop online learning"'
 type: page
 template: blog-post.html
 comments:

@@ -1,7 +1,18 @@
 ---
-title: "Digital learning: It's déjà vu all over again"
+categories:
+- bad
+- dlrn15
+- elearning
+- set
 date: 2015-07-12 08:52:53+10:00
-categories: ['bad', 'dlrn15', 'elearning', 'set']
+next:
+  text: Revising week 1 of EDU8117 - Networked and Global Learning
+  url: /blog2/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/
+previous:
+  text: 'Female/male participation rates in IT: an example of what&#039;s easy to
+    log??'
+  url: /blog2/2015/07/09/femalemale-participation-rates-in-it-an-example-of-whats-easy-to-log/
+title: "\"Digital learning: It's d\xE9j\xE0 vu all over again\""
 type: post
 template: blog-post.html
 comments:
@@ -24,7 +35,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Below you will find resources associated with a talk titled "Digital Learning: It's deja vu all over again". The slides below are the near final set to be presented at the #dLRN15 conference](http://linkresearchlab.org/dlrn2015/) ([abstract available below).
+Below you will find resources associated with a talk titled "Digital Learning: It's deja vu all over again". The slides below are the near final set to be presented at [the #dLRN15 conference](http://linkresearchlab.org/dlrn2015/) (abstract available below).
 
 
 !!! warning "Outdated content no longer available"

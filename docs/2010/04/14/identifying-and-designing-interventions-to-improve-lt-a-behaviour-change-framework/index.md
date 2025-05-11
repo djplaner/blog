@@ -1,7 +1,18 @@
 ---
-title: "Identifying and designing interventions to improve L&#038;T - a behaviour change framework?"
+categories:
+- elearning
+- herding-cats
+- indicators
+- reflectivealignment
 date: 2010-04-14 13:02:32+10:00
-categories: ['elearning', 'herding-cats', 'indicators', 'reflectivealignment']
+next:
+  text: '"Further thinking - behaviour change and improving L&#038;T"'
+  url: /blog2/2010/04/15/further-thinking-behaviour-change-and-improving-lt/
+previous:
+  text: Two types of process and what university e-learning continues to get wrong
+  url: /blog2/2010/04/12/two-types-of-process-and-what-university-e-learning-continues-to-get-wrong/
+title: '"Identifying and designing interventions to improve L&#038;T - a behaviour
+  change framework?"'
 type: post
 template: blog-post.html
 comments:

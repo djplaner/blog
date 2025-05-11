@@ -1,8 +1,15 @@
 ---
-title: Reflecting on the spread of the Card Interface for Blackboard Learn
-date: 2021-03-12 12:02:59+10:00
-categories: ['casa']
+categories:
+- casa
 coverImage: 36379213_b65e65ed62_o.jpg
+date: 2021-03-12 12:02:59+10:00
+next:
+  text: What are the symbols in digital education/design for learning?
+  url: /blog2/2021/03/24/what-are-the-symbols-in-digital-education-design-for-learning/
+previous:
+  text: Do the little things matter in design for learning?
+  url: /blog2/2021/03/06/do-the-little-things-matter-in-design-for-learning/
+title: Reflecting on the spread of the Card Interface for Blackboard Learn
 type: post
 template: blog-post.html
 ---

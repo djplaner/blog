@@ -1,7 +1,14 @@
 ---
-title: Push-button schools and zap hats - The future of education
+categories:
+- thesis
 date: 2011-08-29 09:14:40+10:00
-categories: ['thesis']
+next:
+  text: A summary of one perspective on the Digital Education Revolution
+  url: /blog2/2011/09/19/a-summary-of-one-perspective-on-the-digital-education-revolution/
+previous:
+  text: Some trends with enrolments in IPT
+  url: /blog2/2011/08/27/some-trends-with-enrolments-in-ipt/
+title: Push-button schools and zap hats - The future of education
 type: post
 template: blog-post.html
 comments:

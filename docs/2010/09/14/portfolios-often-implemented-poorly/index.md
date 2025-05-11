@@ -1,7 +1,15 @@
 ---
-title: Portfolios often implemented poorly
+categories:
+- bim
+- elearning
 date: 2010-09-14 09:56:37+10:00
-categories: ['bim', 'elearning']
+next:
+  text: Principles of form and function
+  url: /blog2/2010/09/15/principles-of-form-and-function/
+previous:
+  text: How strict a blueprint do ISDTs provide?
+  url: /blog2/2010/09/13/how-strict-a-blueprint-do-isdts-provide/
+title: Portfolios often implemented poorly
 type: post
 template: blog-post.html
 ---

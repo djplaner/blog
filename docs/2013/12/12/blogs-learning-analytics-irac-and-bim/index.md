@@ -1,7 +1,18 @@
 ---
-title: Blogs, learning analytics, IRAC and BIM
+categories:
+- bim2
+- indicators
+- irac
+- learninganalytics-elearning
+- moodle
 date: 2013-12-12 09:50:18+10:00
-categories: ['bim2', 'indicators', 'irac', 'learninganalytics-elearning', 'moodle']
+next:
+  text: The adoption and acceptance of learning analytics
+  url: /blog2/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
+previous:
+  text: '#moodle, blogs, Moodle blogs and #bim'
+  url: /blog2/2013/12/10/moodle-blogs-moodle-blogs-and-bim/
+title: Blogs, learning analytics, IRAC and BIM
 type: post
 template: blog-post.html
 ---

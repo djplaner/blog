@@ -1,7 +1,22 @@
 ---
-title: Quotes from Snowden and the mismatch between what univeristy e-learning does and what it needs
+categories:
+- chapter-2
+- cognitiveedge
+- design-theory
+- elearning
+- phd
+- psframework
+- quotes
+- thesis
 date: 2009-04-06 13:22:10+10:00
-categories: ['chapter-2', 'cognitiveedge', 'design-theory', 'elearning', 'phd', 'psframework', 'quotes', 'thesis']
+next:
+  text: Birnbaum's fad cycle in higher education
+  url: /blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/
+previous:
+  text: 'The new educational technologists: A call for evidenced change'
+  url: /blog2/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
+title: Quotes from Snowden and the mismatch between what univeristy e-learning does
+  and what it needs
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Drucker on Adaptive vs Plan-driven
+categories:
+- quotes
 date: 2006-07-14 15:24:33+10:00
-categories: ['quotes']
+next:
+  text: '"BAM Progress #1"'
+  url: /blog2/2006/07/23/bam-progress-1/
+previous:
+  text: Sun Tzu Strategy Quote
+  url: /blog2/2006/07/13/sun-tzu-strategy-quote/
+title: Drucker on Adaptive vs Plan-driven
 type: post
 template: blog-post.html
 comments:

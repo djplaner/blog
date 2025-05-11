@@ -1,8 +1,21 @@
 ---
-title: Inside out, Outside in or both?
-date: 2010-04-25 12:40:40+10:00
-categories: ['bim', 'elearning', 'futures', 'moodle', 'phd', 'psframework', 'webfuse']
+categories:
+- bim
+- elearning
+- futures
+- moodle
+- phd
+- psframework
+- webfuse
 coverImage: 2153105227_341c4ee602_o-e1627001406797.jpg
+date: 2010-04-25 12:40:40+10:00
+next:
+  text: '"The realities of the ERA and L&#038;T support services"'
+  url: /blog2/2010/04/28/the-realities-of-the-era-and-lt-support-services/
+previous:
+  text: Clarification of the alignment project
+  url: /blog2/2010/04/22/clarification-of-the-alignment-project/
+title: Inside out, Outside in or both?
 type: post
 template: blog-post.html
 comments:

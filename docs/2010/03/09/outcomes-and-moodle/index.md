@@ -1,7 +1,14 @@
 ---
-title: Outcomes and Moodle
+categories:
+- curriculummapping-cddu
 date: 2010-03-09 14:19:49+10:00
-categories: ['curriculummapping-cddu']
+next:
+  text: Moodle, outcomes, metadata and curriculum mapping
+  url: /blog2/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
+previous:
+  text: Fixes and reflections on the early use of BIM
+  url: /blog2/2010/03/09/fixes-and-reflections-on-the-early-use-of-bim/
+title: Outcomes and Moodle
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: Is IT a service industry, or is it \"eating the world\"?
+categories:
+- information-systems
+- ipt
+- teaching
 date: 2011-08-23 11:40:35+10:00
-categories: ['information-systems', 'ipt', 'teaching']
+next:
+  text: Some trends with enrolments in IPT
+  url: /blog2/2011/08/27/some-trends-with-enrolments-in-ipt/
+previous:
+  text: Khan academy, gamification, the flipped classroom and mathematics
+  url: /blog2/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/
+title: Is IT a service industry, or is it "eating the world"?
 type: post
 template: blog-post.html
 comments:

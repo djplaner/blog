@@ -1,7 +1,15 @@
 ---
-title: Understanding learning as network formation
+categories:
+- bad
+- netgl
 date: 2015-08-18 14:31:49+10:00
-categories: ['bad', 'netgl']
+next:
+  text: Why should a teacher know how to code?
+  url: /blog2/2015/08/18/the-role-of-coding-in-learning-and-teaching/
+previous:
+  text: Testing the Lucimoo epub export book tool
+  url: /blog2/2015/08/18/testing-the-lucimoo-epub-export-book-tool/
+title: Understanding learning as network formation
 type: post
 template: blog-post.html
 comments:

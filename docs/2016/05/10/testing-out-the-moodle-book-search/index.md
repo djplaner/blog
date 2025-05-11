@@ -1,7 +1,15 @@
 ---
-title: Testing out the Moodle search book block
+categories:
+- bad
+- moodleopenbook
 date: 2016-05-10 10:08:04+10:00
-categories: ['bad', 'moodleopenbook']
+next:
+  text: '"Testing out the Heatmap #moodle block"'
+  url: /blog2/2016/05/13/testing-out-the-heatmap-moodle-block/
+previous:
+  text: How does BIM allocate blog posts to prompts
+  url: /blog2/2016/05/09/how-does-bim-allocate-blog-posts-to-prompts/
+title: Testing out the Moodle search book block
 type: post
 template: blog-post.html
 comments:

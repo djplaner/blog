@@ -1,7 +1,20 @@
 ---
-title: External factors associated with CMS adoption
+categories:
+- chapter-4
+- design-theory
+- elearning
+- indicators
+- lmsevaluation
+- phd
+- thesis
 date: 2009-08-05 14:35:06+10:00
-categories: ['chapter-4', 'design-theory', 'elearning', 'indicators', 'lmsevaluation', 'phd', 'thesis']
+next:
+  text: Losing weight, improving learning and teaching and complex systems
+  url: /blog2/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
+previous:
+  text: Automating calculation of LMS/CMS/VLE feature usage - a project?
+  url: /blog2/2009/08/05/automating-calculation-of-lmscmsvle-feature-usage-a-project/
+title: External factors associated with CMS adoption
 type: post
 template: blog-post.html
 ---

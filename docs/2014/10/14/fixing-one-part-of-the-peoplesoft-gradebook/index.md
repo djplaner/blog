@@ -1,7 +1,15 @@
 ---
-title: Fixing one part of the peoplesoft gradebook
+categories:
+- bad
+- design-theory
 date: 2014-10-14 16:47:50+10:00
-categories: ['bad', 'design-theory']
+next:
+  text: Some more tweaks to gradebook
+  url: /blog2/2014/11/05/some-more-tweaks-to-gradebook/
+previous:
+  text: On the difference between &quot;rational&quot;, &quot;possible&quot; and &quot;desirable&quot;
+  url: /blog2/2014/10/09/on-the-difference-between-rational-possible-and-desirable/
+title: Fixing one part of the peoplesoft gradebook
 type: post
 template: blog-post.html
 comments:

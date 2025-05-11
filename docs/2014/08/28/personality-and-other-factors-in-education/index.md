@@ -1,7 +1,14 @@
 ---
-title: Personality and other factors in education
+categories:
+- edu8117
 date: 2014-08-28 16:57:23+10:00
-categories: ['edu8117']
+next:
+  text: Counting the uncountable - NGL participation
+  url: /blog2/2014/09/01/counting-the-uncountable-ngl-participation/
+previous:
+  text: On trying to be optimistic in a stupid world
+  url: /blog2/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/
+title: Personality and other factors in education
 type: post
 template: blog-post.html
 comments:

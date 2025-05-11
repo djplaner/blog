@@ -1,7 +1,14 @@
 ---
-title: OEP, institutions and culture
+categories:
+- bad
 date: 2016-09-21 15:40:07+10:00
-categories: ['bad']
+next:
+  text: Exploring Moodle Book usage - Part 8 - linking to and from
+  url: /blog2/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/
+previous:
+  text: What if our digital technologies were protean?
+  url: /blog2/2016/09/21/what-if-our-digital-technologies-were-protean/
+title: OEP, institutions and culture
 type: post
 template: blog-post.html
 comments:

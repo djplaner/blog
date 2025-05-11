@@ -1,7 +1,16 @@
 ---
-title: "Social bookmarks, curriculum and resources: A search for a visualisation tool"
+categories:
+- thesis
 date: 2011-07-08 14:59:08+10:00
-categories: ['thesis']
+next:
+  text: Choosing the wrong drivers for whole system reform
+  url: /blog2/2011/07/13/choosing-the-wrong-drivers-for-whole-system-reform/
+previous:
+  text: 'Some considerations around ICTs for learning in the Senior School: initial
+    thoughts and planning'
+  url: /blog2/2011/07/05/some-considerations-around-icts-for-learning-in-the-senior-school-initial-thoughts-and-planning/
+title: '"Social bookmarks, curriculum and resources: A search for a visualisation
+  tool"'
 type: post
 template: blog-post.html
 comments:

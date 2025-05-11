@@ -1,7 +1,19 @@
 ---
-title: Institutional changes - 2000 and beyond - and their impact
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-05-30 13:40:18+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Adding email merge to BIM
+  url: /blog2/2010/05/30/2933/
+previous:
+  text: Focusing on integration - chapter 5
+  url: /blog2/2010/05/30/focusing-on-integration-chapter-5/
+title: Institutional changes - 2000 and beyond - and their impact
 type: post
 template: blog-post.html
 comments:

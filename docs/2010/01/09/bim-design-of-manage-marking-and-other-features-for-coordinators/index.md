@@ -1,7 +1,14 @@
 ---
-title: BIM - Design of \"Manage Marking\" and other features for Coordinators
+categories:
+- bim
 date: 2010-01-09 12:35:55+10:00
-categories: ['bim']
+next:
+  text: BIM - Mark Post screen
+  url: /blog2/2010/01/10/bim-mark-post-screen/
+previous:
+  text: BIM - getting navigation bread crumbs and tabs working
+  url: /blog2/2010/01/09/bim-getting-navigation-bread-crumbs-and-tabs-working/
+title: BIM - Design of "Manage Marking" and other features for Coordinators
 type: post
 template: blog-post.html
 comments:

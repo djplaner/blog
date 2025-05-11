@@ -1,7 +1,15 @@
 ---
-title: Starting on a \"student diversity report\"
+categories:
+- eded20455
+- teaching
 date: 2011-04-16 22:19:44+10:00
-categories: ['eded20455', 'teaching']
+next:
+  text: iPhone tracking as a teaching tool
+  url: /blog2/2011/04/21/iphone-tracking-as-a-teaching-tool/
+previous:
+  text: Analysis of digital technologies
+  url: /blog2/2011/04/15/analysis-of-digital-technologies/
+title: Starting on a "student diversity report"
 type: post
 template: blog-post.html
 ---

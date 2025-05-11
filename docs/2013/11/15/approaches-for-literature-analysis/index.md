@@ -1,7 +1,17 @@
 ---
-title: Approaches for literature analysis
+categories:
+- indicators
+- irac
+- learninganalytics-elearning
 date: 2013-11-15 15:33:44+10:00
-categories: ['indicators', 'irac', 'learninganalytics-elearning']
+next:
+  text: Examining diffusion and sustainability of e-learning strategies thorugh weblog
+    data
+  url: /blog2/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
+previous:
+  text: Evaluations of online learning activities based on LMS logs
+  url: /blog2/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/
+title: Approaches for literature analysis
 type: post
 template: blog-post.html
 ---

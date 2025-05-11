@@ -1,7 +1,20 @@
 ---
-title: Lessons for from past experience
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-04-25 16:09:45+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Integration with professional lives of academics - why industrial e-learning
+    fails and why post-industrial might work
+  url: /blog2/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/
+previous:
+  text: 'Phd Update #8 - steaming ahead'
+  url: /blog2/2009/04/24/phd-update-8-steaming-ahead/
+title: Lessons for from past experience
 type: post
 template: blog-post.html
 comments:

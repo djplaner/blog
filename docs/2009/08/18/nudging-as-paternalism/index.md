@@ -1,7 +1,18 @@
 ---
-title: Nudging as paternalism
+categories:
+- chapter-2
+- elearning
+- phd
+- reflectivealignment
+- thesis
 date: 2009-08-18 15:48:30+10:00
-categories: ['chapter-2', 'elearning', 'phd', 'reflectivealignment', 'thesis']
+next:
+  text: The product component of the Ps Framework
+  url: /blog2/2009/08/19/the-product-component-of-the-ps-framework/
+previous:
+  text: Herding cats, losing weight and how to improve learning and teaching
+  url: /blog2/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/
+title: Nudging as paternalism
 type: post
 template: blog-post.html
 comments:

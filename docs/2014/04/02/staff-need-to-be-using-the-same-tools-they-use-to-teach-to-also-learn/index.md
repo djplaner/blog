@@ -1,7 +1,15 @@
 ---
-title: Staff need to be using the same tools they use to teach to also learn
+categories:
+- design-theory
+- elearning
 date: 2014-04-02 17:19:41+10:00
-categories: ['design-theory', 'elearning']
+next:
+  text: Designing for situation awareness in a complex system
+  url: /blog2/2014/04/18/designing-for-situation-awareness-in-a-complex-system/
+previous:
+  text: BIM and BAD
+  url: /blog2/2014/03/31/bim-and-bad/
+title: Staff need to be using the same tools they use to teach to also learn
 type: post
 template: blog-post.html
 comments:

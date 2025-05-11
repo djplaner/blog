@@ -1,7 +1,20 @@
 ---
-title: Identifying file distribution on Webfuse course sites
+categories:
+- chapter-5
+- design-theory
+- elearning
+- indicators
+- lmsevaluation
+- phd
+- thesis
 date: 2009-08-24 12:03:58+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'indicators', 'lmsevaluation', 'phd', 'thesis']
+next:
+  text: Learning requires willingness to suffer injury to one's self-esteem
+  url: /blog2/2009/08/25/learning-requires-willingness-to-suffer-injury-to-ones-self-esteem/
+previous:
+  text: Other information systems in higher education
+  url: /blog2/2009/08/23/other-information-systems-in-higher-education/
+title: Identifying file distribution on Webfuse course sites
 type: post
 template: blog-post.html
 ---

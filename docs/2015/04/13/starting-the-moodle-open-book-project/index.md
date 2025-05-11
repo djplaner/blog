@@ -1,7 +1,16 @@
 ---
-title: Starting the \"Moodle open book\" project
+categories:
+- bad
+- moodleopenbook
+- openbook
 date: 2015-04-13 22:09:57+10:00
-categories: ['bad', 'moodleopenbook', 'openbook']
+next:
+  text: What's good for "open content" is good for the LMS/virtual learning space?
+  url: /blog2/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
+previous:
+  text: Designing a Secondary Computing curriuclum &#038; pedagogy course
+  url: /blog2/2015/04/02/designing-a-secondary-computing-curriuclum-pedagogy-course/
+title: Starting the "Moodle open book" project
 type: post
 template: blog-post.html
 comments:

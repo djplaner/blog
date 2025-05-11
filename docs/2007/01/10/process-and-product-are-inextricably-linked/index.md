@@ -1,7 +1,16 @@
 ---
-title: Process and product are inextricably linked
+categories:
+- elearning
+- herding-cats
+- react
 date: 2007-01-10 14:04:04+10:00
-categories: ['elearning', 'herding-cats', 'react']
+next:
+  text: Issues around staff development for e-learning
+  url: /blog2/2007/01/10/issues-around-staff-development-for-e-learning/
+previous:
+  text: Participatory design as the basis for staff development and course design
+  url: /blog2/2007/01/05/participatory-design-as-the-basis-for-staff-development-and-course-design/
+title: Process and product are inextricably linked
 type: post
 template: blog-post.html
 ---

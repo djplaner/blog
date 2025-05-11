@@ -1,7 +1,16 @@
 ---
-title: "Software engineering for computational science : past, present, future"
+categories:
+- 4paths
+- bricolage
+- casa
 date: 2018-05-10 10:50:38+10:00
-categories: ['4paths', 'bricolage', 'casa']
+next:
+  text: Random meandering notes on "digital" and the fourth industrial revolution
+  url: /blog2/2018/05/26/random-meandering-notes-on-digital-and-the-fourth-industrial-revolution/
+previous:
+  text: Repository - differences between Open Source and OER and implications
+  url: /blog2/2018/04/19/repository-differences-between-open-source-and-oer-and-implications/
+title: '"Software engineering for computational science : past, present, future"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: "The clash of corporate IT and open source learning management system: a nascent research idea"
+categories:
+- research
 date: 2012-02-27 12:06:43+10:00
-categories: ['research']
+next:
+  text: Is your digital footprint ready for teaching?
+  url: /blog2/2012/02/29/is-your-digital-footprint-ready-for-teaching/
+previous:
+  text: Defining the digital age and its influence on work integrated learning
+  url: /blog2/2012/02/26/defining-the-digital-age-and-its-influence-on-work-integrated-learning/
+title: '"The clash of corporate IT and open source learning management system: a nascent
+  research idea"'
 type: post
 template: blog-post.html
 comments:

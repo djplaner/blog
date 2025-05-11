@@ -1,7 +1,14 @@
 ---
-title: bim2 - status check and what's next
+categories:
+- bim2
 date: 2012-03-30 22:40:51+10:00
-categories: ['bim2']
+next:
+  text: bim2 - student and marker fixes
+  url: /blog2/2012/03/31/bim2-student-and-marker-fixes/
+previous:
+  text: Curriculum innovation as an educational technology trend
+  url: /blog2/2012/03/30/curriculum-innovation-as-an-educational-technology-trend/
+title: bim2 - status check and what's next
 type: post
 template: blog-post.html
 ---

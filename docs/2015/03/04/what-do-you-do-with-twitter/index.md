@@ -1,7 +1,16 @@
 ---
-title: What do you do with Twitter?
+categories:
+- edc3100
+- pkm
+- twitter
 date: 2015-03-04 10:18:53+10:00
-categories: ['edc3100', 'pkm', 'twitter']
+next:
+  text: Ways to raise visiblity of unit planning
+  url: /blog2/2015/03/23/ways-to-raise-visiblity-of-unit-planning/
+previous:
+  text: The edc3100 &quot;inspirational posters&quot;
+  url: /blog2/2015/03/01/the-edc3100-inspirational-posters/
+title: What do you do with Twitter?
 type: post
 template: blog-post.html
 comments:

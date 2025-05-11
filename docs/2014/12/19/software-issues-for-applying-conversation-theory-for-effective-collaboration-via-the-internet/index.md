@@ -1,8 +1,16 @@
 ---
-title: "FedWiki Daily #6 - Mining, fracking and exploring the process"
+categories:
+- thesis
 date: 2014-12-19 17:07:39+10:00
-categories: ['thesis']
-tags: ['fedwikihappening']
+next:
+  text: FedWiki 7, 8 and 9 - Moving, catching up and engaging
+  url: /blog2/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
+previous:
+  text: Concrete Lounge
+  url: /blog2/2014/12/18/concrete-lounge/
+tags:
+- fedwikihappening
+title: '"FedWiki Daily #6 - Mining, fracking and exploring the process"'
 type: post
 template: blog-post.html
 comments:

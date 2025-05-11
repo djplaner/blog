@@ -1,7 +1,16 @@
 ---
-title: Exploring Moodle Book usage – Part 7 – When are they used?
+categories:
+- edc3100
+- exploring
+- moodleopenbook
 date: 2016-09-11 18:19:26+10:00
-categories: ['edc3100', 'exploring', 'moodleopenbook']
+next:
+  text: Your experience of organisational digital technology?
+  url: /blog2/2016/09/20/your-experience-of-institutional-digital-technology/
+previous:
+  text: Which comes first? Pedagogy or technology?
+  url: /blog2/2016/09/11/which-comes-first-pedagogy-or-technology/
+title: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used?"
 type: post
 template: blog-post.html
 comments:

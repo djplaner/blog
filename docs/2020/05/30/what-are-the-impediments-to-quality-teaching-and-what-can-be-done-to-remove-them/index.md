@@ -1,8 +1,17 @@
 ---
-title: What are the impediments to quality teaching and what can be done to remove them?
+categories:
+- bad
+- casa
+coverImage: frog.jpg
 date: 2020-05-30 16:33:01+10:00
-categories: ['bad', 'casa']
-coverImage: 2426828336_7ea6d5630f_o-e1590820300444.jpg
+next:
+  text: Understanding (digital) education through workarounds and quality indicators
+  url: /blog2/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/
+previous:
+  text: Improving jQuery theme/Content Interface integration
+  url: /blog2/2020/05/29/improving-jquery-theme-content-interface-integration/
+title: What are the impediments to quality teaching and what can be done to remove
+  them?
 type: post
 template: blog-post.html
 ---

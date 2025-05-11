@@ -1,7 +1,17 @@
 ---
-title: "PhD Update #6 - start of shortened weeks"
+categories:
+- design-theory
+- phd
+- thesis
 date: 2009-04-02 13:21:32+10:00
-categories: ['design-theory', 'phd', 'thesis']
+next:
+  text: '"The fad cycle in learning &#038; teaching - a historical perspective"'
+  url: /blog2/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+previous:
+  text: 'Implementing an institution-wide learning and teaching strategy: lessons
+    in managing change'
+  url: /blog2/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/
+title: '"PhD Update #6 - start of shortened weeks"'
 type: post
 template: blog-post.html
 comments:

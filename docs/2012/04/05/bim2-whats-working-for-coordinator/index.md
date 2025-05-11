@@ -1,7 +1,14 @@
 ---
-title: bim2 - What's working for coordinator
+categories:
+- bim2
 date: 2012-04-05 15:46:28+10:00
-categories: ['bim2']
+next:
+  text: Why learning management systems will probably go away
+  url: /blog2/2012/04/06/why-learning-management-systems-will-probably-go-away/
+previous:
+  text: bim2 - Marker interface
+  url: /blog2/2012/04/03/bim2-marker-interface/
+title: bim2 - What's working for coordinator
 type: post
 template: blog-post.html
 comments:

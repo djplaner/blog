@@ -1,7 +1,15 @@
 ---
-title: "Reducing the aggravation of student blogging: The story of BIM"
+categories:
+- bam
+- bim
 date: 2010-04-07 08:55:44+10:00
-categories: ['bam', 'bim']
+next:
+  text: '"Phd Update #26 - Getting to first draft stage"'
+  url: /blog2/2010/04/09/phd-update-26-getting-to-first-draft-stage/
+previous:
+  text: What are good designs/design principles for Moodle
+  url: /blog2/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
+title: '"Reducing the aggravation of student blogging: The story of BIM"'
 type: post
 template: blog-post.html
 comments:

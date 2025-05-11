@@ -1,7 +1,14 @@
 ---
-title: The assessment of learning journals - ideas for BIM
+categories:
+- bim2
 date: 2013-02-25 09:53:59+10:00
-categories: ['bim2']
+next:
+  text: And it starts again, edc3100 in 2013
+  url: /blog2/2013/02/26/and-it-starts-again-edc3100-in-2013/
+previous:
+  text: Exploring using the Wii/Augmented Reality to teach proportion
+  url: /blog2/2013/02/20/exploring-using-the-wiiaugmented-reality-to-teach-proportion/
+title: The assessment of learning journals - ideas for BIM
 type: post
 template: blog-post.html
 comments:

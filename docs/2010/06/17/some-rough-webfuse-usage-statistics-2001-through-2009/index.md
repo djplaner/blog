@@ -1,7 +1,20 @@
 ---
-title: Some rough Webfuse usage statistics - 2001 through 2009
+categories:
+- chapter-5
+- design-theory
+- elearning
+- indicators
+- phd
+- thesis
+- webfuse
 date: 2010-06-17 14:09:47+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'indicators', 'phd', 'thesis', 'webfuse']
+next:
+  text: Further analysis of wf application usage
+  url: /blog2/2010/06/18/further-analysis-of-wf-application-usage/
+previous:
+  text: Academics, course websites and power laws
+  url: /blog2/2010/06/14/academics-course-websites-and-power-laws/
+title: Some rough Webfuse usage statistics - 2001 through 2009
 type: post
 template: blog-post.html
 comments:

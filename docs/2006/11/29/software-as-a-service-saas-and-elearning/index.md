@@ -1,7 +1,15 @@
 ---
-title: Software as a Service (SaaS) and elearning
+categories:
+- web-20-course-sites
 date: 2006-11-29 22:06:12+10:00
-categories: ['web-20-course-sites']
+next:
+  text: Mao's "four pests" campaign - problems with herding cats
+  url: /blog2/2006/12/15/maos-four-pests-campaign-problems-with-herding-cats/
+previous:
+  text: The Long Tail - aggregation and context and the role of a &quot;Web 2.0 course
+    site&quot;
+  url: /blog2/2006/11/29/the-long-tail-aggregation-and-context-and-the-role-of-a-web-20-course-site/
+title: Software as a Service (SaaS) and elearning
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: \"Here I stand\" - Campbell's concerns on analytics and other stuff
+categories:
+- indicators
 date: 2012-03-28 14:02:22+10:00
-categories: ['indicators']
+next:
+  text: Explorations of narrative research
+  url: /blog2/2012/03/29/explorations-of-narrative-research/
+previous:
+  text: 'Learning analytics and study behaviour: A pilot study'
+  url: /blog2/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/
+title: '"Here I stand" - Campbell''s concerns on analytics and other stuff'
 type: post
 template: blog-post.html
 comments:

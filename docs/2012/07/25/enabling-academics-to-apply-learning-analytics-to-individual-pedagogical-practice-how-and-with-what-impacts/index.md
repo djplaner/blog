@@ -1,7 +1,18 @@
 ---
-title: "Enabling academics to apply learning analytics to individual pedagogical practice: how and with what impacts?"
+categories:
+- distributedcognition
+- elearning
+- indicators
+- learninganalytics-elearning
 date: 2012-07-25 09:11:44+10:00
-categories: ['distributedcognition', 'elearning', 'indicators', 'learninganalytics-elearning']
+next:
+  text: Using the NetSpot Innovation fund to enhance bim
+  url: /blog2/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
+previous:
+  text: Starting the re-design of EDC3100
+  url: /blog2/2012/07/20/starting-the-re-design-of-edc3100/
+title: '"Enabling academics to apply learning analytics to individual pedagogical
+  practice: how and with what impacts?"'
 type: post
 template: blog-post.html
 comments:

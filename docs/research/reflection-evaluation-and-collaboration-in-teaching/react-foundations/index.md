@@ -1,6 +1,6 @@
 ---
-title: REACT Foundations
 date: 2008-10-27 14:03:42+10:00
+title: REACT Foundations
 type: page
 template: blog-post.html
 ---
@@ -29,7 +29,7 @@ The REACT project engages with ideas about the scholarship of learning and teach
 - **Peer review**  
     Provided by REACT's use of a mentor and also its two-stage peer review process.
 
-REACT's 7-step writing process](process.htm) also resonates strongly with the scholarship of teaching model developed by Trigwell, Martin, Benjamin and Prosser ([2000)
+REACT's 7-step [writing process](process.htm) also resonates strongly with the scholarship of teaching model developed by Trigwell, Martin, Benjamin and Prosser (2000)
 
 1. being informed about learning and teaching generally and in the teachers' own discipline;
 
@@ -70,7 +70,7 @@ top
 
 Design research is a knowledge-using activity that offers prescriptions, embodied in artifacts, in an attempt to improve performance of some task. Design research is concerned with how things ought to be, with devising artifacts to attain goals (Simon, 1996). Often seen as the poorer cousin to traditional research design research can be found in fields as diverse as accounting, education and information systems.
 
-Since the 1990s interest in design research, based on the work of Simon (1996](#simon1996)), has grown within the discipline of education, usually under the name of design experiments. A theme issue of Educational Research (Kelly 2003) examines the work of a number of active design-based researchers within education. Design experiments are prime examples of research that resides in the space of studies that offer potentially significant contributions to both theory and practice ([Burkhardt and Schoenfeld, 2003).
+Since the 1990s interest in design research, based on the work of Simon (1996), has grown within the discipline of education, usually under the name of design experiments. A theme issue of Educational Research (Kelly 2003) examines the work of a number of active design-based researchers within education. Design experiments are prime examples of research that resides in the space of studies that offer potentially significant contributions to both theory and practice (Burkhardt and Schoenfeld, 2003).
 
 top
 
@@ -123,7 +123,7 @@ From one perspective the communities of practice approach rejects many of the un
 Beyond the reference above additional material on communities of practice include
 
 - [Communities of practice](http://www.co-i-l.com/coil/knowledge-garden/cop/index.shtml)
-- Communities of practice and organisational performance](http://www.research.ibm.com/journal/sj/404/lesser.html) ([Lesser and Storck, 2001)  
+- [Communities of practice and organisational performance](http://www.research.ibm.com/journal/sj/404/lesser.html) (Lesser and Storck, 2001)  
     
 
 top

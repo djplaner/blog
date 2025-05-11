@@ -1,8 +1,16 @@
 ---
-title: Reflections on \"How learning design systems can help scale and accelerate learning design\"
-date: 2020-11-16 07:49:12+10:00
-categories: ['casa']
+categories:
+- casa
 coverImage: 36379213_b65e65ed62_o.jpg
+date: 2020-11-16 07:49:12+10:00
+next:
+  text: Do the little things matter in design for learning?
+  url: /blog2/2021/03/06/do-the-little-things-matter-in-design-for-learning/
+previous:
+  text: Supporting the design of discipline-specific digital learning activities
+  url: /blog2/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/
+title: Reflections on "How learning design systems can help scale and accelerate learning
+  design"
 type: post
 template: blog-post.html
 ---

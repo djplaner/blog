@@ -1,7 +1,15 @@
 ---
-title: "bim2: registering a new blog"
+categories:
+- bim
+- bim2
 date: 2011-02-06 21:14:47+10:00
-categories: ['bim', 'bim2']
+next:
+  text: A little bim2 status and planning
+  url: /blog2/2011/02/06/a-little-bim2-status-and-planning/
+previous:
+  text: Some stories from teaching awards
+  url: /blog2/2011/02/02/some-stories-from-teaching-awards/
+title: '"bim2: registering a new blog"'
 type: post
 template: blog-post.html
 ---

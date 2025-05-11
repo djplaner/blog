@@ -1,7 +1,21 @@
 ---
-title: The protean nature of modern technology - another limitation of most views of e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- missingps
+- thesis
+- webfuse
 date: 2009-02-09 15:38:21+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'missingps', 'thesis', 'webfuse']
+next:
+  text: BAM - making e-learning technology more protean
+  url: /blog2/2009/02/11/bam-making-e-learning-technology-more-protean/
+previous:
+  text: On the silliness of &quot;best practice&quot; - or why you shouldn&#039;t
+    (just) copy successful organisations
+  url: /blog2/2009/02/09/on-the-silliness-of-best-practice-or-why-you-shouldnt-just-copy-successful-organisations/
+title: The protean nature of modern technology - another limitation of most views
+  of e-learning
 type: post
 template: blog-post.html
 comments:

@@ -1,8 +1,18 @@
 ---
-title: "Opening up and enhancing #moodle books with GitHub, ePub, etc."
+categories:
+- moodleopenbook
+- thesis
 date: 2015-11-30 08:33:58+10:00
-categories: ['moodleopenbook', 'thesis']
-tags: ['github']
+next:
+  text: '"Moodle book and GitHub: working together"'
+  url: /blog2/2015/12/03/moodle-book-and-github-working-together/
+previous:
+  text: 'Exploring &quot;post adoptive usage&quot; of the #moodle Book module - a
+    draft proposal'
+  url: /blog2/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
+tags:
+- github
+title: '"Opening up and enhancing #moodle books with GitHub, ePub, etc."'
 type: post
 template: blog-post.html
 comments:

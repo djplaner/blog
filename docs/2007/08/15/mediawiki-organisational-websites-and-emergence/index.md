@@ -1,7 +1,14 @@
 ---
-title: Mediawiki, organisational websites and emergence
+categories:
+- emd
 date: 2007-08-15 21:21:37+10:00
-categories: ['emd']
+next:
+  text: Diffusion theory to guide adoption of immersive Web3D environments in learning
+  url: /blog2/2007/08/25/diffusion-theory-to-guide-adoption-of-immersive-web3d-environments-in-learning/
+previous:
+  text: It&#039;s the process, stupid (not the product)
+  url: /blog2/2007/08/11/its-the-process-stupid-not-the-product/
+title: Mediawiki, organisational websites and emergence
 type: post
 template: blog-post.html
 ---

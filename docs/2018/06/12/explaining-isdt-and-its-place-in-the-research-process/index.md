@@ -1,7 +1,14 @@
 ---
-title: Explaining ISDT and its place in the research process
+categories:
+- design-theory
 date: 2018-06-12 12:08:56+10:00
-categories: ['design-theory']
+next:
+  text: Contextual ramblings on learning analytics
+  url: /blog2/2018/11/30/contextual-ramblings-on-learning-analytics/
+previous:
+  text: Random meandering notes on "digital" and the fourth industrial revolution
+  url: /blog2/2018/05/26/random-meandering-notes-on-digital-and-the-fourth-industrial-revolution/
+title: Explaining ISDT and its place in the research process
 type: post
 template: blog-post.html
 ---

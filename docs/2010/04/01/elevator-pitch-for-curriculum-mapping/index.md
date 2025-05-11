@@ -1,7 +1,14 @@
 ---
-title: Elevator pitch for \"Moodle curriculum mapping\"
+categories:
+- curriculummapping-cddu
 date: 2010-04-01 10:49:00+10:00
-categories: ['curriculummapping-cddu']
+next:
+  text: Moodle curriculum mapping - Step 3
+  url: /blog2/2010/04/02/moodle-curriculum-mapping-step-3/
+previous:
+  text: Moodle curriculum mapping - Step 2
+  url: /blog2/2010/03/30/moodle-curriculum-mapping-step-2/
+title: Elevator pitch for "Moodle curriculum mapping"
 type: post
 template: blog-post.html
 comments:

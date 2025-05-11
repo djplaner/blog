@@ -1,7 +1,14 @@
 ---
-title: BIM - minor fixes to show student details
+categories:
+- bim
 date: 2009-12-24 08:18:36+10:00
-categories: ['bim']
+next:
+  text: BIM - Staff show details screen
+  url: /blog2/2009/12/24/bim-staff-show-details-screen/
+previous:
+  text: 'Herding cats and losing weight: the vimeo video'
+  url: /blog2/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/
+title: BIM - minor fixes to show student details
 type: post
 template: blog-post.html
 ---

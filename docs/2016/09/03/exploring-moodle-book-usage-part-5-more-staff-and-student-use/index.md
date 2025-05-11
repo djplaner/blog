@@ -1,7 +1,15 @@
 ---
-title: Exploring Moodle Book usage - Part 5 - more staff and student use
+categories:
+- exploring
+- moodleopenbook
 date: 2016-09-03 09:28:35+10:00
-categories: ['exploring', 'moodleopenbook']
+next:
+  text: "Exploring Moodle Book usage \u2013 Part 6 \u2013 What do they contain?"
+  url: /blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/
+previous:
+  text: Exploring frameworks to understand OER/OEP
+  url: /blog2/2016/09/01/exploring-frameworks-to-understand-oeroep/
+title: Exploring Moodle Book usage - Part 5 - more staff and student use
 type: post
 template: blog-post.html
 ---

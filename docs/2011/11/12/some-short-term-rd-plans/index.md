@@ -1,7 +1,14 @@
 ---
-title: "Some short-term R&#038;D plans"
+categories:
+- thesis
 date: 2011-11-12 09:44:09+10:00
-categories: ['thesis']
+next:
+  text: Do any universities know what's happening with their LMS?
+  url: /blog2/2011/11/15/do-any-universities-know-whats-happening-with-their-lms/
+previous:
+  text: Turning point 2.0
+  url: /blog2/2011/11/10/turning-point-2-0/
+title: '"Some short-term R&#038;D plans"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: How many pages of a course profile are necessary?
+categories:
+- journey
+- teaching
 date: 2011-02-20 21:40:51+10:00
-categories: ['journey', 'teaching']
+next:
+  text: Learning styles, teaching and digital pedagogy
+  url: /blog2/2011/02/25/learning-styles-teaching-and-digital-pedagogy/
+previous:
+  text: A proposed link between academic involvement and student evaluation response
+    rate
+  url: /blog2/2011/02/19/a-proposed-link-between-academic-involvement-and-student-evaluation-response-rate/
+title: How many pages of a course profile are necessary?
 type: post
 template: blog-post.html
 comments:

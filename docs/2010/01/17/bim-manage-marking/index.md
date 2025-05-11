@@ -1,7 +1,14 @@
 ---
-title: BIM - Manage Marking
+categories:
+- bim
 date: 2010-01-17 10:25:40+10:00
-categories: ['bim']
+next:
+  text: BIM - manage marking - view and release
+  url: /blog2/2010/01/17/bim-manage-marking-view-and-release/
+previous:
+  text: BIM - question management/configuration
+  url: /blog2/2010/01/13/bim-question-managementconfiguration/
+title: BIM - Manage Marking
 type: post
 template: blog-post.html
 comments:

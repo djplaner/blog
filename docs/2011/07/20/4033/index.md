@@ -1,7 +1,14 @@
 ---
-title: Can you be a native in a world that is always changing?
+categories:
+- thesis
 date: 2011-07-20 12:22:04+10:00
-categories: ['thesis']
+next:
+  text: What story do the numbers tell?
+  url: /blog2/2011/07/24/what-story-do-the-numbers-tell/
+previous:
+  text: Teaching teachers for the future
+  url: /blog2/2011/07/19/teaching-teachers-for-the-future/
+title: Can you be a native in a world that is always changing?
 type: post
 template: blog-post.html
 ---

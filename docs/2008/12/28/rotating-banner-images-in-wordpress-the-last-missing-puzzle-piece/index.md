@@ -1,7 +1,14 @@
 ---
-title: Rotating banner images in Wordpress - the last missing puzzle piece
+categories:
+- website
 date: 2008-12-28 11:53:51+10:00
-categories: ['website']
+next:
+  text: Plans for implementing rotating banner image
+  url: /blog2/2008/12/28/plans-for-implementing-rotating-banner-image/
+previous:
+  text: Update on the website move - google rankings
+  url: /blog2/2008/12/28/update-on-the-website-move-google-rankings/
+title: Rotating banner images in Wordpress - the last missing puzzle piece
 type: post
 template: blog-post.html
 comments:

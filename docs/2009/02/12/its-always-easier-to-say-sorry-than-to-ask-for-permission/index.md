@@ -1,7 +1,20 @@
 ---
-title: It's always easier to say sorry than to ask for permission
+categories:
+- chapter-2
+- design-theory
+- elearning
+- thesis
+- webfuse
 date: 2009-02-12 13:32:48+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'thesis', 'webfuse']
+next:
+  text: The emperor has no clothes - why is the learning and teaching peformance fund
+    naked
+  url: /blog2/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/
+previous:
+  text: 'Barriers to innovation in organisations: teleological processes, organisational
+    structures and stepwise refinement'
+  url: /blog2/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
+title: It's always easier to say sorry than to ask for permission
 type: post
 template: blog-post.html
 ---

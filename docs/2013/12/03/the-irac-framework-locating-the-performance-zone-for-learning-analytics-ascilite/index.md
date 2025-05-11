@@ -1,7 +1,19 @@
 ---
-title: "The IRAC framework: Locating the performance zone for learning analytics #ascilite"
+categories:
+- ascilite
+- elearning
+- indicators
+- irac
+- learninganalytics-elearning
 date: 2013-12-03 20:26:38+10:00
-categories: ['ascilite', 'elearning', 'indicators', 'irac', 'learninganalytics-elearning']
+next:
+  text: '"#moodle, blogs, Moodle blogs and #bim"'
+  url: /blog2/2013/12/10/moodle-blogs-moodle-blogs-and-bim/
+previous:
+  text: 'Reviewing the past to imagine the future of elearning #ascilite'
+  url: /blog2/2013/12/03/reviewing-the-past-to-imagine-the-future-of-elearning-ascilite/
+title: '"The IRAC framework: Locating the performance zone for learning analytics
+  #ascilite"'
 type: post
 template: blog-post.html
 comments:

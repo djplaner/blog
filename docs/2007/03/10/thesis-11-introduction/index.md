@@ -1,7 +1,17 @@
 ---
-title: Thesis 1.1 - Introduction
+categories:
+- chapter-1
+- design-theory
+- thesis
+- webfuse
 date: 2007-03-10 19:58:51+10:00
-categories: ['chapter-1', 'design-theory', 'thesis', 'webfuse']
+next:
+  text: Thesis 1.2 - Background to the research
+  url: /blog2/2007/03/10/thesis-12-background-to-the-research/
+previous:
+  text: Aims of a curriculum design group at a university
+  url: /blog2/2007/03/05/aims-of-a-curriculum-design-group-at-a-university/
+title: Thesis 1.1 - Introduction
 type: post
 template: blog-post.html
 ---

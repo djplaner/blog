@@ -1,7 +1,17 @@
 ---
-title: Does institutional e-learning have a TPACK problem?
+categories:
+- bim2
+- design-theory
+- elearning
+- psframework
 date: 2013-03-22 10:15:06+10:00
-categories: ['bim2', 'design-theory', 'elearning', 'psframework']
+next:
+  text: Meaningless freedom and auto-marking the learning journals
+  url: /blog2/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
+previous:
+  text: Professional development is created, not provided
+  url: /blog2/2013/03/20/professional-development-is-created-not-provided/
+title: Does institutional e-learning have a TPACK problem?
 type: post
 template: blog-post.html
 comments:

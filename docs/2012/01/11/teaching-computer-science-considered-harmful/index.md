@@ -1,8 +1,18 @@
 ---
-title: Teaching computer science considered harmful?
+categories:
+- thesis
 date: 2012-01-11 18:02:30+10:00
-categories: ['thesis']
-tags: ['computer-science-education', 'high-school-computer-science']
+next:
+  text: Initial thoughts on an ICT and Pedagogy course
+  url: /blog2/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/
+previous:
+  text: 'Ateleological travels in a teleological world: Past and future journeys around
+    ICTs in education'
+  url: /blog2/2011/12/09/ateleological-travels-in-a-teleological-world-past-and-future-journeys-around-icts-in-education/
+tags:
+- computer-science-education
+- high-school-computer-science
+title: Teaching computer science considered harmful?
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: "Phd Update #26 - Getting to first draft stage"
+categories:
+- phd
+- thesis
 date: 2010-04-09 21:22:14+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Two types of process and what university e-learning continues to get wrong
+  url: /blog2/2010/04/12/two-types-of-process-and-what-university-e-learning-continues-to-get-wrong/
+previous:
+  text: 'Reducing the aggravation of student blogging: The story of BIM'
+  url: /blog2/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/
+title: '"Phd Update #26 - Getting to first draft stage"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,18 @@
 ---
-title: University processes - management and planning
+categories:
+- chapter-2
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-06-08 12:43:17+10:00
-categories: ['chapter-2', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: You only get this type of education in class - mythic attributes of the lecture
+  url: /blog2/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
+previous:
+  text: 'PhD Update #13 - back after a week off'
+  url: /blog2/2009/06/05/phd-update-13-back-after-a-week-off/
+title: University processes - management and planning
 type: post
 template: blog-post.html
 comments:

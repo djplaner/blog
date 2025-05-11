@@ -1,7 +1,17 @@
 ---
-title: Adding some learning process analytics to EDC3100
+categories:
+- bad
+- edc3100
+- irac
+- learninganalytics-elearning
 date: 2015-01-23 11:58:28+10:00
-categories: ['bad', 'edc3100', 'irac', 'learninganalytics-elearning']
+next:
+  text: Using the PIRAC - Thinking about an "integrated dashboard"
+  url: /blog2/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
+previous:
+  text: A proposal for fixing what&#039;s broken with ed tech support in some universities
+  url: /blog2/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
+title: Adding some learning process analytics to EDC3100
 type: post
 template: blog-post.html
 comments:

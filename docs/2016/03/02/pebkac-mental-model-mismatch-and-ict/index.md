@@ -1,7 +1,15 @@
 ---
-title: PEBKAC, mental model mismatch and ICT
+categories:
+- bad
+- edc3100
 date: 2016-03-02 09:09:27+10:00
-categories: ['bad', 'edc3100']
+next:
+  text: Preparing my digital "learning space"
+  url: /blog2/2016/03/04/preparing-my-digital-learning-space/
+previous:
+  text: Open educational practice beyond the institution?
+  url: /blog2/2016/02/22/open-educational-practice-beyond-the-institution/
+title: PEBKAC, mental model mismatch and ICT
 type: post
 template: blog-post.html
 comments:

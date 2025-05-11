@@ -1,8 +1,18 @@
 ---
-title: Change the environment, not the culture
+categories:
+- elearning
+- psframework
+- thesis
 date: 2009-12-09 08:55:26+10:00
-categories: ['elearning', 'psframework', 'thesis']
-tags: ['ascilite09']
+next:
+  text: '"The Innovation Prevention Department: Why?"'
+  url: /blog2/2009/12/11/the-innovation-prevention-department-why/
+previous:
+  text: Self-reporting considered harmful?
+  url: /blog2/2009/12/08/self-reporting-considered-harmful/
+tags:
+- ascilite09
+title: Change the environment, not the culture
 type: post
 template: blog-post.html
 comments:

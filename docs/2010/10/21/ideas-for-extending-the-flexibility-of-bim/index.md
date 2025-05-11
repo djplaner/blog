@@ -1,7 +1,14 @@
 ---
-title: Ideas for extending the flexibility of BIM
+categories:
+- bim
 date: 2010-10-21 14:47:13+10:00
-categories: ['bim']
+next:
+  text: No burden for TEQSA, yea right
+  url: /blog2/2010/10/27/no-burden-for-teqsa-yea-right/
+previous:
+  text: Time for a career change?
+  url: /blog2/2010/10/20/time-for-a-career-change/
+title: Ideas for extending the flexibility of BIM
 type: post
 template: blog-post.html
 ---

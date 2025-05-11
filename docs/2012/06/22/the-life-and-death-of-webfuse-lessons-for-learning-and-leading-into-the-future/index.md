@@ -1,7 +1,18 @@
 ---
-title: "The life and death of Webfuse: lessons for learning and leading into the future"
+categories:
+- design-theory
+- elearning
+- thesis
+- webfuse
 date: 2012-06-22 14:06:05+10:00
-categories: ['design-theory', 'elearning', 'thesis', 'webfuse']
+next:
+  text: Learning analytics and complexity
+  url: /blog2/2012/06/24/learning-analytics-and-complexity/
+previous:
+  text: 'Learning Analytics: engaging with and changing learning and teaching'
+  url: /blog2/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
+title: '"The life and death of Webfuse: lessons for learning and leading into the
+  future"'
 type: post
 template: blog-post.html
 comments:

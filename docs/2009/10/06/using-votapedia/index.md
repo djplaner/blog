@@ -1,7 +1,15 @@
 ---
-title: Using Votapedia
+categories:
+- ilecture
+- votapedia
 date: 2009-10-06 15:40:49+10:00
-categories: ['ilecture', 'votapedia']
+next:
+  text: Initial CRC investigations
+  url: /blog2/2009/10/07/initial-crc-investigations/
+previous:
+  text: Thoughts on &quot;Insidious pedagogy&quot;
+  url: /blog2/2009/10/06/thoughts-on-insidiuous-pedagogy/
+title: Using Votapedia
 type: post
 template: blog-post.html
 ---

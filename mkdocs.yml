@@ -1,6 +1,7 @@
 
 site_name: "Some Assemblage Required"
 site_url: https://djon.es/blog2/
+#site_url: http://localhost:8000/blog2/
 #repo_url: https://github.com/djplaner/blog
 site_author: "David Jones"
 site_dir: ../blog2 # stick HTML outside main repo
@@ -8,18 +9,23 @@ use_directory_urls: false
 
 theme:
   name: material
+  font: 
+    text: Gabarito
+    code: Roboto Mono
+  palette: 
+    - scheme: memexdark
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: memexlight
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
   #  favicon: attachment/portrait.png
   #favicon: assets/memex.png
   #logo: assets/spider_web.png
-  palette:
-  - scheme: collections
-    toggle:
-      icon: material/brightness-7
-      name: Switch to dark mode
-  - scheme: slate
-    toggle:
-      icon: material/brightness-4
-      name: Switch to light mode
+
   custom_dir: .overrides
   language: en
   features:
@@ -28,11 +34,11 @@ theme:
     - navigation.instant
     - navigation.tracking
     - content.tabs.links
-    - navigation.expand 
+#    - navigation.expand 
     - navigation.path
-    - navigation.indexes
+#    - navigation.indexes
     - navigation.footer
-    - navigation.sections
+#    - navigation.sections
 #    - toc.follow
 #    - toc.integrate
     - header.autohide
@@ -77,13 +83,14 @@ markdown_extensions:
   - pymdownx.tilde
 plugins:
   - search
+  - macros
+  - social
   - glightbox
   - mkdocs-video
   - mkdocs-pdf
   - gen-files:
       scripts:
         - generators/blog.py ## TODO generate dynamically generated blogs
-  - macros:
   - roamlinks 
   - exclude:
       glob:

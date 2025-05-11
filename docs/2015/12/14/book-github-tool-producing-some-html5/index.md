@@ -1,8 +1,16 @@
 ---
-title: "Book github tool: producing some HTML5"
+categories:
+- thesis
 date: 2015-12-14 15:37:38+10:00
-categories: ['thesis']
-tags: ['moodleopenbook']
+next:
+  text: Tweaking Moodle book search
+  url: /blog2/2015/12/15/tweaking-moodle-book-search/
+previous:
+  text: 'Moodle book to a single file: which format?'
+  url: /blog2/2015/12/11/moodle-book-to-a-single-file-which-format/
+tags:
+- moodleopenbook
+title: '"Book github tool: producing some HTML5"'
 type: post
 template: blog-post.html
 ---

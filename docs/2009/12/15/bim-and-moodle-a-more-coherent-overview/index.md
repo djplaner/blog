@@ -1,8 +1,16 @@
 ---
-title: BIM and Moodle development - a more coherent overview found?
+categories:
+- bim
 date: 2009-12-15 15:53:40+10:00
-categories: ['bim']
-tags: ['moodle']
+next:
+  text: BIM - getting student registration working
+  url: /blog2/2009/12/17/bim-getting-student-registration-working/
+previous:
+  text: Here come the indicators, wait for the task corruption
+  url: /blog2/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/
+tags:
+- moodle
+title: BIM and Moodle development - a more coherent overview found?
 type: post
 template: blog-post.html
 comments:

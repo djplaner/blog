@@ -1,7 +1,20 @@
 ---
-title: Introducing the Moodle Activity Viewer (MAV) & digital reno
+categories:
+- 4paths
+- casa
+- distributedcognition
+- e-learning
+- learninganalytics-elearning
+- mav
 date: 2017-10-30 21:51:56+10:00
-categories: ['4paths', 'casa', 'distributedcognition', 'e-learning', 'learninganalytics-elearning', 'mav']
+next:
+  text: Improving teacher awareness, action and reflection on learner activity
+  url: /blog2/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/
+previous:
+  text: Implications and questions for institutional learning analytics implementation
+    arising from teacher DIY learning analytics
+  url: /blog2/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/
+title: Introducing the Moodle Activity Viewer (MAV) & digital reno
 type: post
 template: blog-post.html
 ---

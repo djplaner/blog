@@ -1,6 +1,7 @@
 ---
-title: A Model for the Design of Web-based Systems that supports Adoption, Appropriation, and Evolution
 date: 2008-12-31 23:14:25+10:00
+title: A Model for the Design of Web-based Systems that supports Adoption, Appropriation,
+  and Evolution
 type: page
 template: blog-post.html
 comments:

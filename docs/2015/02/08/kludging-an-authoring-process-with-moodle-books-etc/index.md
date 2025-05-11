@@ -1,7 +1,15 @@
 ---
-title: Kludging an authoring process with Moodle books (almost)
+categories:
+- edc3100
+- moodle
 date: 2015-02-08 13:13:31+10:00
-categories: ['edc3100', 'moodle']
+next:
+  text: Framing an open book as situated, social, distributed and protean
+  url: /blog2/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
+previous:
+  text: Metaphors and organisational change
+  url: /blog2/2015/02/06/metaphors-and-organisational-change/
+title: Kludging an authoring process with Moodle books (almost)
 type: post
 template: blog-post.html
 comments:

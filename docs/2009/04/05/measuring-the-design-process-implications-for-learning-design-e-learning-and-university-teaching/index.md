@@ -1,7 +1,21 @@
 ---
-title: Measuring the design process - implications for learning design, e-learning and university teaching
+categories:
+- chapter-2
+- complexityleadership
+- design-theory
+- elearning
+- lmsevaluation
+- psframework
+- thesis
 date: 2009-04-05 13:17:26+10:00
-categories: ['chapter-2', 'complexityleadership', 'design-theory', 'elearning', 'lmsevaluation', 'psframework', 'thesis']
+next:
+  text: '"The new educational technologists: A call for evidenced change"'
+  url: /blog2/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
+previous:
+  text: The fad cycle in learning &#038; teaching - a historical perspective
+  url: /blog2/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+title: Measuring the design process - implications for learning design, e-learning
+  and university teaching
 type: post
 template: blog-post.html
 comments:

@@ -1,6 +1,12 @@
 ---
-title: "e&#038;i report #4 - 15th to 29th September, 2009"
 date: 2009-09-29 10:33:04+10:00
+next:
+  text: What's the best route for improving your teaching (post-thesis)?
+  url: /blog2/2009/09/29/whats-the-best-route-for-improving-your-teaching-post-thesis/
+previous:
+  text: Small changes in &quot;Lectures&quot; - ustream, votapedia
+  url: /blog2/2009/09/28/small-changes-in-lectures-ustream-votapedia/
+title: '"e&#038;i report #4 - 15th to 29th September, 2009"'
 type: post
 template: blog-post.html
 ---

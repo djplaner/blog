@@ -1,8 +1,18 @@
 ---
-title: Another idea for research project arising from the indicators project
+categories:
+- elearning
+- indicators
 date: 2010-01-12 08:57:10+10:00
-categories: ['elearning', 'indicators']
-tags: ['lms', 'vle']
+next:
+  text: BIM - question management/configuration
+  url: /blog2/2010/01/13/bim-question-managementconfiguration/
+previous:
+  text: BIM - getting capabilities working properly
+  url: /blog2/2010/01/10/bim-getting-capabilities-working-properly/
+tags:
+- lms
+- vle
+title: Another idea for research project arising from the indicators project
 type: post
 template: blog-post.html
 comments:

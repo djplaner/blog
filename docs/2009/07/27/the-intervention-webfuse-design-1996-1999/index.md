@@ -1,7 +1,18 @@
 ---
-title: The intervention - Webfuse design 1996-1999
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- thesis
 date: 2009-07-27 14:13:34+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'thesis']
+next:
+  text: '"BAM into Moodle #6 - Planning and some real coding"'
+  url: /blog2/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/
+previous:
+  text: Use of &quot;e-learning&quot; @ CQU up to 1996 (or so)
+  url: /blog2/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/
+title: The intervention - Webfuse design 1996-1999
 type: post
 template: blog-post.html
 comments:

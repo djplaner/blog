@@ -1,7 +1,14 @@
 ---
-title: Twitter back channels, conferences, sessions and engaging the audience
 date: 2009-11-13 11:57:04+10:00
-tags: ['twitter-conferences']
+next:
+  text: Web 2.0 tools in assessment in higher education
+  url: /blog2/2009/11/16/web-2-0-tools-in-assessment-in-higher-education/
+previous:
+  text: Reflection on alternatives and experiments
+  url: /blog2/2009/11/11/reflection-on-alternatives-and-experiments/
+tags:
+- twitter-conferences
+title: Twitter back channels, conferences, sessions and engaging the audience
 type: post
 template: blog-post.html
 comments:

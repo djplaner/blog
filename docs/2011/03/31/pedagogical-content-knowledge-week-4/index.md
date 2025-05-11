@@ -1,7 +1,15 @@
 ---
-title: "Pedagogical Content Knowledge: Week 4"
+categories:
+- eded20456
+- teaching
 date: 2011-03-31 10:06:48+10:00
-categories: ['eded20456', 'teaching']
+next:
+  text: '"Pedagogical Content Knowledge: Weeks 5/6"'
+  url: /blog2/2011/03/31/pedagogical-content-knowledge-weeks-56/
+previous:
+  text: The next step for the LMS?
+  url: /blog2/2011/03/31/the-next-step-for-the-lms/
+title: '"Pedagogical Content Knowledge: Week 4"'
 type: post
 template: blog-post.html
 ---

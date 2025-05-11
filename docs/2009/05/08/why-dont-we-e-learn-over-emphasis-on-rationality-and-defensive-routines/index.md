@@ -1,7 +1,21 @@
 ---
-title: Why don't we (e-)learn - over emphasis on rationality and defensive routines
+categories:
+- chapter-2
+- design-theory
+- herding-cats
+- phd
+- psframework
+- reading
+- reflectivealignment
+- thesis
 date: 2009-05-08 22:36:58+10:00
-categories: ['chapter-2', 'design-theory', 'herding-cats', 'phd', 'psframework', 'reading', 'reflectivealignment', 'thesis']
+next:
+  text: Everything old is new again - universities should be more business like
+  url: /blog2/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/
+previous:
+  text: 'PhD Update #10 - Dragging on'
+  url: /blog2/2009/05/08/phd-update-10-dragging-on/
+title: Why don't we (e-)learn - over emphasis on rationality and defensive routines
 type: post
 template: blog-post.html
 comments:

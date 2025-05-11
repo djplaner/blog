@@ -1,7 +1,14 @@
 ---
-title: Enterprise Web 2.0
+categories:
+- web-20-course-sites
 date: 2006-09-19 13:47:03+10:00
-categories: ['web-20-course-sites']
+next:
+  text: UnAPI as a basis for Web 2.0 course sites
+  url: /blog2/2006/09/20/unapi-as-a-basis-for-web-20-course-sites/
+previous:
+  text: Experiment with Google and open course content
+  url: /blog2/2006/09/19/experiment-with-google-and-open-course-content/
+title: Enterprise Web 2.0
 type: post
 template: blog-post.html
 ---

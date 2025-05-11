@@ -1,7 +1,14 @@
 ---
-title: BIM - the show student posts screen
+categories:
+- bim
 date: 2009-12-26 13:08:02+10:00
-categories: ['bim']
+next:
+  text: BIM - Allocate questions screen
+  url: /blog2/2010/01/07/bim-allocate-questions-screen/
+previous:
+  text: BIM - Staff show details screen
+  url: /blog2/2009/12/24/bim-staff-show-details-screen/
+title: BIM - the show student posts screen
 type: post
 template: blog-post.html
 comments:

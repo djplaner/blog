@@ -1,7 +1,14 @@
 ---
-title: Is there a need for research focii?
+categories:
+- thesis
 date: 2011-02-01 16:23:07+10:00
-categories: ['thesis']
+next:
+  text: Some stories from teaching awards
+  url: /blog2/2011/02/02/some-stories-from-teaching-awards/
+previous:
+  text: NAPLAN tests, task corruption and teaching to the test
+  url: /blog2/2011/02/01/naplan-tests-task-corruption-and-teaching-to-the-test/
+title: Is there a need for research focii?
 type: post
 template: blog-post.html
 ---

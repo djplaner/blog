@@ -1,7 +1,16 @@
 ---
-title: How to replace the lecture?
+categories:
+- edc3100
+- teaching
 date: 2012-02-10 09:07:56+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Are teacher preparation programs dangerously irrelevant?
+  url: /blog2/2012/02/16/are-teacher-preparation-programs-dangerously-irrelevant/
+previous:
+  text: 'It&#039;s better at home: One contributor to why ICT integration in schools
+    sucks'
+  url: /blog2/2012/02/07/its-better-at-home-one-contributor-to-why-ict-integration-in-schools-sucks/
+title: How to replace the lecture?
 type: post
 template: blog-post.html
 comments:

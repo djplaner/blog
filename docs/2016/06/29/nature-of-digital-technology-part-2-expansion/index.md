@@ -1,7 +1,15 @@
 ---
-title: Nature of digital technology? Part 2 - expansion
+categories:
+- bad
+- digitalignorance
 date: 2016-06-29 09:15:55+10:00
-categories: ['bad', 'digitalignorance']
+next:
+  text: Any pointers to an old, ancient game?
+  url: /blog2/2016/06/29/any-pointers-to-an-old-ancient-game/
+previous:
+  text: The nature of digital technology? Part 2
+  url: /blog2/2016/06/28/the-nature-of-digital-technology-part-2/
+title: Nature of digital technology? Part 2 - expansion
 type: post
 template: blog-post.html
 ---

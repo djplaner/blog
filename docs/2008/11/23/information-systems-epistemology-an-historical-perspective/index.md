@@ -1,7 +1,16 @@
 ---
-title: "Information Systems Epistemology: An Historical Perspective"
+categories:
+- chapter-3
+- design-theory
+- thesis
 date: 2008-11-23 14:16:56+10:00
-categories: ['chapter-3', 'design-theory', 'thesis']
+next:
+  text: An experiment in blog-based discussions
+  url: /blog2/2008/11/26/an-experiment-in-blog-based-discussions/
+previous:
+  text: First photo
+  url: /blog2/2008/11/21/first-photo/
+title: '"Information Systems Epistemology: An Historical Perspective"'
 type: post
 template: blog-post.html
 comments:

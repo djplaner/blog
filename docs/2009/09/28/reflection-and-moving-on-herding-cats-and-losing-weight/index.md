@@ -1,7 +1,14 @@
 ---
-title: Reflection and moving on - herding cats and losing weight
+categories:
+- cck09
 date: 2009-09-28 15:01:58+10:00
-categories: ['cck09']
+next:
+  text: Small changes in "Lectures" - ustream, votapedia
+  url: /blog2/2009/09/28/small-changes-in-lectures-ustream-votapedia/
+previous:
+  text: 'e&#038;i report #3 - 1st-15th September'
+  url: /blog2/2009/09/15/ei-report-3-1st-15th-september/
+title: Reflection and moving on - herding cats and losing weight
 type: post
 template: blog-post.html
 comments:

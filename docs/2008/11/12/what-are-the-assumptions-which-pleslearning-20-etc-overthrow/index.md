@@ -1,7 +1,18 @@
 ---
-title: What are the assumptions which PLEs/Learning 2.0 etc overthrow
+categories:
+- elearning
+- missingps
+- ple
+- plescquni
+- web-20-course-sites
 date: 2008-11-12 15:12:34+10:00
-categories: ['elearning', 'missingps', 'ple', 'plescquni', 'web-20-course-sites']
+next:
+  text: Another assumption which PLEs over throws
+  url: /blog2/2008/11/13/another-assumption-which-ples-over-throws/
+previous:
+  text: 'Extending the classroom: Open content and open teaching: Summary and reflection'
+  url: /blog2/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/
+title: What are the assumptions which PLEs/Learning 2.0 etc overthrow
 type: post
 template: blog-post.html
 comments:

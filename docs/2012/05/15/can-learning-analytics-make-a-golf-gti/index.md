@@ -1,7 +1,14 @@
 ---
-title: Can learning analytics make a Golf GTI
+categories:
+- indicators
 date: 2012-05-15 18:01:37+10:00
-categories: ['indicators']
+next:
+  text: '"A #pstn story, so far"'
+  url: /blog2/2012/05/17/a-pstn-story-so-far/
+previous:
+  text: A CRM for the LMS?
+  url: /blog2/2012/05/05/a-crm-for-the-lms/
+title: Can learning analytics make a Golf GTI
 type: post
 template: blog-post.html
 comments:

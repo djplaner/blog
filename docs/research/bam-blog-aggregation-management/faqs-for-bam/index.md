@@ -1,6 +1,6 @@
 ---
-title: FAQs for BAM
 date: 2009-03-16 07:58:06+10:00
+title: FAQs for BAM
 type: page
 template: blog-post.html
 comments:

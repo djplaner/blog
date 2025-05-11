@@ -1,7 +1,14 @@
 ---
-title: Dissenting views of institutional e-learning
+categories:
+- elearning
 date: 2013-10-09 17:42:00+10:00
-categories: ['elearning']
+next:
+  text: Technology-enhanced learning - workloads and costs
+  url: /blog2/2013/10/09/technology-enhanced-learning-workloads-and-costs/
+previous:
+  text: Planning an analysis of the learning analytics literature
+  url: /blog2/2013/10/03/planning-an-analysis-of-the-learning-analytics-literature/
+title: Dissenting views of institutional e-learning
 type: post
 template: blog-post.html
 comments:

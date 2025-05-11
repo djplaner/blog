@@ -1,7 +1,14 @@
 ---
-title: The ritual dissent method shows great promise
+categories:
+- foult
 date: 2009-02-08 21:39:29+10:00
-categories: ['foult']
+next:
+  text: VoiceThread as a mechanism for feedback to students
+  url: /blog2/2009/02/08/voicethread-as-a-mechanism-for-feedback-to-students/
+previous:
+  text: More detail on the money burner
+  url: /blog2/2009/02/03/more-detail-on-the-money-burner/
+title: The ritual dissent method shows great promise
 type: post
 template: blog-post.html
 ---

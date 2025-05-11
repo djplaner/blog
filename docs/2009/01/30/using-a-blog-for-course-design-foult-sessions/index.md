@@ -1,7 +1,16 @@
 ---
-title: Using a blog for course design foult sessions
+categories:
+- addie
+- c2d2
 date: 2009-01-30 13:50:27+10:00
-categories: ['addie', 'c2d2']
+next:
+  text: How do you implement PLEs into higher education courses?
+  url: /blog2/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
+previous:
+  text: Good teaching is not innate, it can be &quot;learned&quot; - and what&#039;s
+    wrong with academic staff development
+  url: /blog2/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/
+title: Using a blog for course design foult sessions
 type: post
 template: blog-post.html
 comments:

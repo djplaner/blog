@@ -1,7 +1,15 @@
 ---
-title: The missing P - Product
+categories:
+- elearning
+- missingps
 date: 2006-10-19 14:03:34+10:00
-categories: ['elearning', 'missingps']
+next:
+  text: The missing Ps - Perception
+  url: /blog2/2006/10/19/the-missing-ps-perception/
+previous:
+  text: The Missing Ps are a waste of time
+  url: /blog2/2006/10/19/the-missing-ps-are-a-waste-of-time/
+title: The missing P - Product
 type: post
 template: blog-post.html
 ---

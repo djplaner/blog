@@ -1,7 +1,16 @@
 ---
-title: "PhD Update - Week #4 - Frustration and progress"
+categories:
+- phd
+- thesis
 date: 2009-03-20 10:19:24+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Cognition - we're not rational and how it impacts e-learning
+  url: /blog2/2009/03/20/cognition-were-not-rational-and-how-it-impacts-e-learning/
+previous:
+  text: Technology will *not* change the way we teach - an example why we&#039;re
+    an amnesiac field
+  url: /blog2/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
+title: '"PhD Update - Week #4 - Frustration and progress"'
 type: post
 template: blog-post.html
 ---

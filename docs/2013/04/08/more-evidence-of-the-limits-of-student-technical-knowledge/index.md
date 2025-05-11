@@ -1,7 +1,17 @@
 ---
-title: More evidence of the limits of student technical knowledge
+categories:
+- bim
+- edc3100
+- elearning
+- teaching
 date: 2013-04-08 22:03:33+10:00
-categories: ['bim', 'edc3100', 'elearning', 'teaching']
+next:
+  text: Application or targeted learning analytics - another scope?
+  url: /blog2/2013/04/10/application-or-targeted-learning-analytics-another-scope/
+previous:
+  text: An ad hoc exploration ethnographic research
+  url: /blog2/2013/04/07/an-ad-hoc-exploration-ethnographic-research/
+title: More evidence of the limits of student technical knowledge
 type: post
 template: blog-post.html
 comments:

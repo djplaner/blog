@@ -1,7 +1,20 @@
 ---
-title: Institutional e-learning strategies
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-06-17 11:41:17+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: What can history tell us about e-learning and its future?
+  url: /blog2/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+previous:
+  text: How silly can enterprise IT get? Tools should fit the people, not the other
+    way around
+  url: /blog2/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
+title: Institutional e-learning strategies
 type: post
 template: blog-post.html
 comments:

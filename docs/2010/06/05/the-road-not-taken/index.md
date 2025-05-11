@@ -1,7 +1,15 @@
 ---
-title: The road not taken
+categories:
+- herding-cats
+- reflectivealignment
 date: 2010-06-05 09:03:26+10:00
-categories: ['herding-cats', 'reflectivealignment']
+next:
+  text: Emergent and agile development
+  url: /blog2/2010/06/05/emergent-and-agile-development/
+previous:
+  text: Adopter focused development and diffusion theory
+  url: /blog2/2010/06/04/adopter-focused-development-and-diffusion-theory/
+title: The road not taken
 type: post
 template: blog-post.html
 ---

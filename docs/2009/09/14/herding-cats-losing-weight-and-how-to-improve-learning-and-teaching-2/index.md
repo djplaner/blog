@@ -1,7 +1,14 @@
 ---
-title: Herding cats, losing weight and how to improve learning and teaching
+categories:
+- presentations
 date: 2009-09-14 14:09:28+10:00
-categories: ['presentations']
+next:
+  text: '"e&#038;i report #3 - 1st-15th September"'
+  url: /blog2/2009/09/15/ei-report-3-1st-15th-september/
+previous:
+  text: Getting started with CCK09
+  url: /blog2/2009/09/14/getting-started-with-cck09/
+title: Herding cats, losing weight and how to improve learning and teaching
 type: post
 template: blog-post.html
 comments:

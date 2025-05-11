@@ -1,7 +1,16 @@
 ---
-title: Descriptive (network) versus normative (community) based development of e-learning in organisations
+categories:
+- elearning
 date: 2007-03-15 09:27:13+10:00
-categories: ['elearning']
+next:
+  text: Does ICT provide choices of learners and learning in higher education
+  url: /blog2/2007/04/06/does-ict-provide-choices-of-learners-and-learning-in-higher-education/
+previous:
+  text: Ateleological development as a &quot;better way&quot; to develop university
+    e-learning systems
+  url: /blog2/2007/03/13/ateleological-development-as-a-better-way-to-develop-university-e-learning-systems/
+title: Descriptive (network) versus normative (community) based development of e-learning
+  in organisations
 type: post
 template: blog-post.html
 comments:

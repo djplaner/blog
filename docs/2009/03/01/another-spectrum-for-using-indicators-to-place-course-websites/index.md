@@ -1,7 +1,20 @@
 ---
-title: Another spectrum for using indicators to place course websites
+categories:
+- addie
+- blackboardindicators
+- chapter-4
+- elearning
+- indicators
+- thesis
 date: 2009-03-01 21:02:59+10:00
-categories: ['addie', 'blackboardindicators', 'chapter-4', 'elearning', 'indicators', 'thesis']
+next:
+  text: Reflective problematisation - description of reflection in "reflective alignment"?
+  url: /blog2/2009/03/02/reflective-problematisation-description-of-reflection-in-reflective-alignment/
+previous:
+  text: Dimensions delimiting conceptions of online teaching - something to guide
+    the indicators and the evaluation of LMS data?
+  url: /blog2/2009/02/28/dimensions-delimiting-conceptions-of-online-teaching-something-to-guide-the-indicators-and-the-evaluation-of-lms-data/
+title: Another spectrum for using indicators to place course websites
 type: post
 template: blog-post.html
 comments:

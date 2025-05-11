@@ -1,7 +1,20 @@
 ---
-title: "PhD Update #24: off to the crocodile form"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-09-11 07:30:00+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Dede's "sleeping, eating and bonding" metaphor and the diversity of learning
+    and its impacts for e-learning
+  url: /blog2/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/
+previous:
+  text: How do you develop a cross-LMS usage comparison?
+  url: /blog2/2009/09/09/how-do-you-develop-a-cross-lms-usage-comparison/
+title: '"PhD Update #24: off to the crocodile form"'
 type: post
 template: blog-post.html
 comments:

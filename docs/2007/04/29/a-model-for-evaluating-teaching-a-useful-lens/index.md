@@ -1,7 +1,16 @@
 ---
-title: A model for evaluating teaching - a useful lens?
+categories:
+- addie
+- ascilitementor
+- elearning
 date: 2007-04-29 21:13:15+10:00
-categories: ['addie', 'ascilitementor', 'elearning']
+next:
+  text: University learning and teaching publications - rankings and RQF
+  url: /blog2/2007/05/17/university-learning-and-teaching-publications-rankings-and-rqf/
+previous:
+  text: Personality type - INTP
+  url: /blog2/2007/04/09/personality-type-intp/
+title: A model for evaluating teaching - a useful lens?
 type: post
 template: blog-post.html
 comments:

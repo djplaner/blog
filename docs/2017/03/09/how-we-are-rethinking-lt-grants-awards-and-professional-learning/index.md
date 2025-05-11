@@ -1,7 +1,14 @@
 ---
-title: How we are rethinking L&T grants, awards and professional learning
+categories:
+- eei
 date: 2017-03-09 14:21:51+10:00
-categories: ['eei']
+next:
+  text: Reflecting on playing with learning analytics
+  url: /blog2/2017/03/10/reflecting-on-playing-with-analytics/
+previous:
+  text: Communication and professional learning for teaching at Universities
+  url: /blog2/2017/03/09/communication-and-professional-learning-for-teaching-at-universities/
+title: How we are rethinking L&T grants, awards and professional learning
 type: post
 template: blog-post.html
 ---

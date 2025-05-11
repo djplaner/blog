@@ -1,8 +1,18 @@
 ---
-title: Exploring using the Wii/Augmented Reality to teach proportion
+categories:
+- edc3100
 date: 2013-02-20 15:11:03+10:00
-categories: ['edc3100']
-tags: ['augmented-reality', 'math', 'mathematics']
+next:
+  text: The assessment of learning journals - ideas for BIM
+  url: /blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/
+previous:
+  text: The missing perspective(s) on MOOCs?
+  url: /blog2/2013/02/08/the-missing-perspectives-on-moocs/
+tags:
+- augmented-reality
+- math
+- mathematics
+title: Exploring using the Wii/Augmented Reality to teach proportion
 type: post
 template: blog-post.html
 comments:

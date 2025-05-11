@@ -1,7 +1,19 @@
 ---
-title: Using metaphor to examine diversity (or lack thereof) in research
+categories:
+- chapter-2
+- design-theory
+- elearning
+- missingps
+- thesis
 date: 2009-01-16 11:47:41+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'missingps', 'thesis']
+next:
+  text: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
+  url: /blog2/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
+previous:
+  text: Seven principles of knowledge management and applications to e-learning, curriculum
+    design and L&#038;T in universities
+  url: /blog2/2009/01/09/seven-principles-of-knowledge-management-and-applications-to-e-learning-curriculum-design-and-lt-in-universities/
+title: Using metaphor to examine diversity (or lack thereof) in research
 type: post
 template: blog-post.html
 comments:

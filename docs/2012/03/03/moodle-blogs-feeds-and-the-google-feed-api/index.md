@@ -1,7 +1,16 @@
 ---
-title: Moodle, blogs, feeds and the Google feed API
+categories:
+- edc3100
+- moodle
+- teaching
 date: 2012-03-03 11:02:49+10:00
-categories: ['edc3100', 'moodle', 'teaching']
+next:
+  text: Gilstrap, Martin and the definition of a lecture
+  url: /blog2/2012/03/04/gilstrap-martin-and-the-definition-of-a-lecture/
+previous:
+  text: Is your digital footprint ready for teaching?
+  url: /blog2/2012/02/29/is-your-digital-footprint-ready-for-teaching/
+title: Moodle, blogs, feeds and the Google feed API
 type: post
 template: blog-post.html
 comments:

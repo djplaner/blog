@@ -1,7 +1,16 @@
 ---
-title: All models are wrong, but some are useful and its application to e-learning
+categories:
+- bad
+- dejavu
+- elearning
 date: 2015-08-28 09:03:40+10:00
-categories: ['bad', 'dejavu', 'elearning']
+next:
+  text: It's not how bad you start, but how quickly you get better
+  url: /blog2/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
+previous:
+  text: Refining a visualisation
+  url: /blog2/2015/08/21/refining-a-visualisation/
+title: All models are wrong, but some are useful and its application to e-learning
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,18 @@
 ---
-title: Accept the fact that we have to treat almost anybody as a volunteer - implications for learning and teaching
+categories:
+- elearning
+- missingps
+- plescquni
+- thesis
 date: 2008-12-05 09:58:24+10:00
-categories: ['elearning', 'missingps', 'plescquni', 'thesis']
+next:
+  text: Struck Oil to Singapore
+  url: /blog2/2008/12/11/struck-oil-to-singapore/
+previous:
+  text: A time to rethink enterprise helpdesk systems and management
+  url: /blog2/2008/12/03/a-time-to-rethink-enterprise-helpdesk-systems-and-management/
+title: Accept the fact that we have to treat almost anybody as a volunteer - implications
+  for learning and teaching
 type: post
 template: blog-post.html
 comments:

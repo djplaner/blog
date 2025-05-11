@@ -1,7 +1,17 @@
 ---
-title: How to capture the \"full benefits of the creative, original and imaginative efforts of\" teaching staff
+categories:
+- bim
+- bim2
+- elearning
 date: 2013-04-30 11:53:51+10:00
-categories: ['bim', 'bim2', 'elearning']
+next:
+  text: Everything old is new again
+  url: /blog2/2013/05/04/everything-old-is-new-again/
+previous:
+  text: How Knowledge Workers like to learn and implications for BIM and LMS design
+  url: /blog2/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/
+title: How to capture the "full benefits of the creative, original and imaginative
+  efforts of" teaching staff
 type: post
 template: blog-post.html
 comments:

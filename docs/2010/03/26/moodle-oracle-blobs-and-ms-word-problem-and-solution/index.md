@@ -1,7 +1,16 @@
 ---
-title: Moodle, Oracle, blobs and MS-Word - problem and solution?
+categories:
+- bim
+- moodle
 date: 2010-03-26 12:55:19+10:00
-categories: ['bim', 'moodle']
+next:
+  text: Moodle curriculum mapping - Step 2
+  url: /blog2/2010/03/30/moodle-curriculum-mapping-step-2/
+previous:
+  text: 'From theory to intervention: Mapping theoretically derived behavioural determinants
+    to behaviour change techniques'
+  url: /blog2/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
+title: Moodle, Oracle, blobs and MS-Word - problem and solution?
 type: post
 template: blog-post.html
 comments:

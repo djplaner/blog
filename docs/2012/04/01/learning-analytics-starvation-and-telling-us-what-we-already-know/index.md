@@ -1,7 +1,14 @@
 ---
-title: "Learning analytics: Starvation and telling us what we already know?"
+categories:
+- indicators
 date: 2012-04-01 14:49:05+10:00
-categories: ['indicators']
+next:
+  text: bim2 - Marker interface
+  url: /blog2/2012/04/03/bim2-marker-interface/
+previous:
+  text: bim2 - student and marker fixes
+  url: /blog2/2012/03/31/bim2-student-and-marker-fixes/
+title: '"Learning analytics: Starvation and telling us what we already know?"'
 type: post
 template: blog-post.html
 comments:

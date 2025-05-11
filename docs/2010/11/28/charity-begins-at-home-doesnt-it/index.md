@@ -1,7 +1,15 @@
 ---
-title: Charity begins at home, doesn't it?
+categories:
+- journey
+- teaching
 date: 2010-11-28 10:56:11+10:00
-categories: ['journey', 'teaching']
+next:
+  text: Schools, systems and change done to me
+  url: /blog2/2010/11/29/schools-systems-and-change-done-to-me/
+previous:
+  text: 8 stupidest management fads of all time
+  url: /blog2/2010/11/21/8-stupidest-management-fads-of-all-time/
+title: Charity begins at home, doesn't it?
 type: post
 template: blog-post.html
 comments:

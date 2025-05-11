@@ -1,7 +1,16 @@
 ---
-title: Validity is subjective
+categories:
+- quotes
 date: 2009-03-11 15:16:42+10:00
-categories: ['quotes']
+next:
+  text: Messiness of information systems - another reason institutional e-learning
+    struggles
+  url: /blog2/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/
+previous:
+  text: Initial steps toward an education aggregation taxonomy - community versus
+    individual?
+  url: /blog2/2009/03/11/an-alternate-bam-related-idea/
+title: Validity is subjective
 type: post
 template: blog-post.html
 comments:

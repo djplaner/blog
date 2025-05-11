@@ -1,7 +1,15 @@
 ---
-title: Conversation, not content, is king
+categories:
+- elearning
+- web-20-course-sites
 date: 2006-09-22 08:44:14+10:00
-categories: ['elearning', 'web-20-course-sites']
+next:
+  text: Efficient, effective, empowered learning
+  url: /blog2/2006/09/22/efficient-effective-empowered-learning/
+previous:
+  text: UnAPI as a basis for Web 2.0 course sites
+  url: /blog2/2006/09/20/unapi-as-a-basis-for-web-20-course-sites/
+title: Conversation, not content, is king
 type: post
 template: blog-post.html
 ---

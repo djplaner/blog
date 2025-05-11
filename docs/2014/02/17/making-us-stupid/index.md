@@ -1,7 +1,14 @@
 ---
-title: It's making us stupid
+categories:
+- elearning
 date: 2014-02-17 11:58:01+10:00
-categories: ['elearning']
+next:
+  text: '"Looking for a new "icebreaker" for #edc3100"'
+  url: /blog2/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/
+previous:
+  text: Needed updates to cc_attrib.pl
+  url: /blog2/2014/02/15/needed-updates-to-cc_attrib-pl/
+title: It's making us stupid
 type: post
 template: blog-post.html
 comments:

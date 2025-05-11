@@ -1,7 +1,15 @@
 ---
-title: "BIM - Tidy up #4 - Getting ready for user testing"
+categories:
+- bim
 date: 2010-02-04 13:58:43+10:00
-categories: ['bim']
+next:
+  text: '"Challenges in developing innovative pedagogy in blended learning: The case
+    of BIM"'
+  url: /blog2/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/
+previous:
+  text: 'BIM - Tidy up #4 - Security checks'
+  url: /blog2/2010/02/03/bim-tidy-up-4-security-checks/
+title: '"BIM - Tidy up #4 - Getting ready for user testing"'
 type: post
 template: blog-post.html
 ---

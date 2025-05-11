@@ -1,7 +1,14 @@
 ---
-title: New ways of thinking - quote
+categories:
+- quotes
 date: 2009-02-15 23:39:50+10:00
-categories: ['quotes']
+next:
+  text: Frameworks and representation - tidy versus messy
+  url: /blog2/2009/02/16/frameworks-and-representation-tidy-versus-messy/
+previous:
+  text: RSS feeds into course management systems - why?
+  url: /blog2/2009/02/15/rss-feeds-into-course-management-systems-why/
+title: New ways of thinking - quote
 type: post
 template: blog-post.html
 ---

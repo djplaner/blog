@@ -1,8 +1,16 @@
 ---
-title: Reflections on asw2a
+categories:
+- elearning
 date: 2009-11-24 08:42:42+10:00
-categories: ['elearning']
-tags: ['asw2a']
+next:
+  text: Any one for a grant application/research project?
+  url: /blog2/2009/11/27/any-one-for-a-grant-applicationresearch-project/
+previous:
+  text: Web 2.0 in assessment - an opening statement?
+  url: /blog2/2009/11/22/web-2-0-in-assessment-an-opening-statement/
+tags:
+- asw2a
+title: Reflections on asw2a
 type: post
 template: blog-post.html
 comments:

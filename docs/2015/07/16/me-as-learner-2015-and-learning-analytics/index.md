@@ -1,7 +1,14 @@
 ---
-title: "Me as learner: 2015 and learning analytics"
+categories:
+- edu8117
 date: 2015-07-16 13:27:37+10:00
-categories: ['edu8117']
+next:
+  text: '"Import and the Book module: a case of knowledge loss?"'
+  url: /blog2/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/
+previous:
+  text: Revising week 1 of EDU8117 - Networked and Global Learning
+  url: /blog2/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/
+title: '"Me as learner: 2015 and learning analytics"'
 type: post
 template: blog-post.html
 ---

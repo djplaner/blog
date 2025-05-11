@@ -1,8 +1,16 @@
 ---
-title: Clarification of the alignment project
+categories:
+- curriculummapping-cddu
 date: 2010-04-22 13:55:48+10:00
-categories: ['curriculummapping-cddu']
-tags: ['altc']
+next:
+  text: Inside out, Outside in or both?
+  url: /blog2/2010/04/25/inside-out-outside-in-or-both/
+previous:
+  text: Framing a body of research and innovation
+  url: /blog2/2010/04/15/framing-a-body-of-research-and-innovation/
+tags:
+- altc
+title: Clarification of the alignment project
 type: post
 template: blog-post.html
 comments:

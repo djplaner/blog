@@ -1,7 +1,14 @@
 ---
-title: BIM - Saving/manipulating RSS files
+categories:
+- bim
 date: 2009-12-20 18:03:32+10:00
-categories: ['bim']
+next:
+  text: Supporting curriculum mapping?
+  url: /blog2/2009/12/21/supporting-curriculum-mapping/
+previous:
+  text: BIM - Getting &quot;show student details&quot; working
+  url: /blog2/2009/12/17/bim-getting-show-student-details-working/
+title: BIM - Saving/manipulating RSS files
 type: post
 template: blog-post.html
 comments:

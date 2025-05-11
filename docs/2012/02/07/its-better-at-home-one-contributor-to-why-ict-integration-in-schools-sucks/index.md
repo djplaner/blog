@@ -1,7 +1,16 @@
 ---
-title: "It's better at home: One contributor to why ICT integration in schools sucks"
+categories:
+- edc3100
+- ict
+- teaching
 date: 2012-02-07 16:55:37+10:00
-categories: ['edc3100', 'ict', 'teaching']
+next:
+  text: How to replace the lecture?
+  url: /blog2/2012/02/10/how-to-replace-the-lecture/
+previous:
+  text: BIM to Moodle 2.x - Step 2
+  url: /blog2/2012/02/04/bim-to-moodle-2-x-step-2/
+title: '"It''s better at home: One contributor to why ICT integration in schools sucks"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,17 @@
 ---
-title: Preparing my digital \"learning space\"
+categories:
+- bad
+- edc3100
+- elearning
+- learninganalytics-elearning
 date: 2016-03-04 13:33:34+10:00
-categories: ['bad', 'edc3100', 'elearning', 'learninganalytics-elearning']
+next:
+  text: Producing OPML files for EDC3100 student blogs
+  url: /blog2/2016/03/06/producing-opml-files-for-edc3100-student-blogs/
+previous:
+  text: PEBKAC, mental model mismatch and ICT
+  url: /blog2/2016/03/02/pebkac-mental-model-mismatch-and-ict/
+title: Preparing my digital "learning space"
 type: post
 template: blog-post.html
 comments:

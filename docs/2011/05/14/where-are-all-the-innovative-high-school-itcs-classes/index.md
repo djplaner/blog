@@ -1,7 +1,15 @@
 ---
-title: Where are all the innovative high school IT/CS classes?
+categories:
+- ipt
+- teaching
 date: 2011-05-14 16:05:45+10:00
-categories: ['ipt', 'teaching']
+next:
+  text: And the thesis is complete, what's next?
+  url: /blog2/2011/05/27/and-the-thesis-is-complete-whats-next/
+previous:
+  text: Looking for &quot;learning objects&quot; measurement, perimeter etc.
+  url: /blog2/2011/05/08/looking-for-learning-objects-measurement-perimeter-etc/
+title: Where are all the innovative high school IT/CS classes?
 type: post
 template: blog-post.html
 ---

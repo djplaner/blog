@@ -1,7 +1,14 @@
 ---
-title: BIM - Staff show details screen
+categories:
+- bim
 date: 2009-12-24 12:00:46+10:00
-categories: ['bim']
+next:
+  text: BIM - the show student posts screen
+  url: /blog2/2009/12/26/bim-the-show-student-posts-screen/
+previous:
+  text: BIM - minor fixes to show student details
+  url: /blog2/2009/12/24/bim-minor-fixes-to-show-student-details/
+title: BIM - Staff show details screen
 type: post
 template: blog-post.html
 comments:

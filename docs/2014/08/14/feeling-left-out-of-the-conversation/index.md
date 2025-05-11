@@ -1,7 +1,14 @@
 ---
-title: Feeling left out of the conversation
+categories:
+- edu8117
 date: 2014-08-14 09:42:57+10:00
-categories: ['edu8117']
+next:
+  text: Strategic plans, theoretical models and just doing it
+  url: /blog2/2014/08/15/strategic-plans-theoretical-models-and-just-doing-it/
+previous:
+  text: Catching up on the NGL participation
+  url: /blog2/2014/08/12/catching-up-on-the-ngl-participation/
+title: Feeling left out of the conversation
 type: post
 template: blog-post.html
 comments:

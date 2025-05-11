@@ -1,7 +1,15 @@
 ---
-title: The Missing Ps are a waste of time
+categories:
+- elearning
+- missingps
 date: 2006-10-19 13:41:17+10:00
-categories: ['elearning', 'missingps']
+next:
+  text: The missing P - Product
+  url: /blog2/2006/10/19/the-missing-p-product/
+previous:
+  text: Another review of LMS Reviews
+  url: /blog2/2006/10/19/another-review-of-lms-reviews/
+title: The Missing Ps are a waste of time
 type: post
 template: blog-post.html
 comments:

@@ -1,11 +1,26 @@
 ---
-title: Teacher DIY learning analytics - implications & questions for institutional learning analytics
+categories:
+- 4paths
+- bad
+- bricolage
+- casa
+- e-learning
+- indicators
+- learninganalytics-elearning
 date: 2017-11-26 10:38:02+10:00
-categories: ['4paths', 'bad', 'bricolage', 'casa', 'e-learning', 'indicators', 'learninganalytics-elearning']
+next:
+  text: Are learning analytics leading us towards a utopian or dystopian future, and
+    what can we as practitioners do to influence this?
+  url: /blog2/2017/12/02/are-learning-analytics-leading-us-towards-a-utopian-or-dystopian-future-and-what-can-we-as-practitioners-do-to-influence-this/
+previous:
+  text: Improving teacher awareness, action and reflection on learner activity
+  url: /blog2/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/
+title: Teacher DIY learning analytics - implications & questions for institutional
+  learning analytics
 type: post
 template: blog-post.html
 ---
-The following provides a collection of information and resources associated with a paper](http://djon.es/blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/) and presentation given at ALASI 2017 - the Australian Learning Analytics Summer Institute](http://itali.uq.edu.au/alasi2017) in Brisbane on 30 November, 2017. Below you'll find an abstract, a recording of a version of the presentation, the [presentation slides and the [references.
+The following provides a collection of information and resources associated with [a paper](http://djon.es/blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/) and presentation given at [ALASI 2017 - the Australian Learning Analytics Summer Institute](http://itali.uq.edu.au/alasi2017) in Brisbane on 30 November, 2017. Below you'll find an abstract, a recording of a version of the presentation, the presentation slides and the references.
 
 The paper examines the DIY development and use of a particular application of learning analytics (known as _Know thy student_) within a single course during 2015 and 2016. The paper argues that given limitations about what is known about the institutional implementation of learning analytics that examining teacher DIY learning analytics can reveal some interesting insights. The paper identifies three implications and three questions.
 

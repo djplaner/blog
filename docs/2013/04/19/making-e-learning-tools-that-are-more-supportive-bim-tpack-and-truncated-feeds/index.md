@@ -1,7 +1,16 @@
 ---
-title: Making e-learning tools that are more supportive - BIM, TPACK and truncated feeds
+categories:
+- bim
+- elearning
 date: 2013-04-19 10:44:12+10:00
-categories: ['bim', 'elearning']
+next:
+  text: How Knowledge Workers like to learn and implications for BIM and LMS design
+  url: /blog2/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/
+previous:
+  text: And they don&#039;t even know enough to expect better
+  url: /blog2/2013/04/16/and-they-dont-even-know-enough-to-expect-better/
+title: Making e-learning tools that are more supportive - BIM, TPACK and truncated
+  feeds
 type: post
 template: blog-post.html
 comments:

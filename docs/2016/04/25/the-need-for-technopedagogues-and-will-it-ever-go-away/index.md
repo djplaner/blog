@@ -1,7 +1,14 @@
 ---
-title: The need for technopedagogues and will it ever go away?
+categories:
+- bad
 date: 2016-04-25 16:45:48+10:00
-categories: ['bad']
+next:
+  text: Focus, innovation and university IT
+  url: /blog2/2016/04/28/focus-innovation-and-university-it/
+previous:
+  text: Playing with Wikity
+  url: /blog2/2016/04/23/playing-with-wikity/
+title: The need for technopedagogues and will it ever go away?
 type: post
 template: blog-post.html
 comments:

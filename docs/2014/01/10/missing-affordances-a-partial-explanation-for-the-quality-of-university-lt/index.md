@@ -1,7 +1,15 @@
 ---
-title: "Missing affordances - A partial explanation for the quality of University L&#038;T"
+categories:
+- elearning
 date: 2014-01-10 15:25:53+10:00
-categories: ['elearning']
+next:
+  text: Evaluating EDC3100 in 2013 - step 1
+  url: /blog2/2014/01/13/evaluating-edc3100-in-2013-step-1/
+previous:
+  text: 'Visualising posting frequency: BIM and EDC3100'
+  url: /blog2/2014/01/06/visualising-posting-frequency-bim-and-edc3100/
+title: '"Missing affordances - A partial explanation for the quality of University
+  L&#038;T"'
 type: post
 template: blog-post.html
 comments:

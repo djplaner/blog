@@ -1,7 +1,15 @@
 ---
-title: "Pedagogical Content Knowledge: Weeks 5/6"
+categories:
+- eded20456
+- teaching
 date: 2011-03-31 15:51:18+10:00
-categories: ['eded20456', 'teaching']
+next:
+  text: Two new laws for ERA/NAPLAN etc
+  url: /blog2/2011/04/01/two-new-laws-for-eranaplan-etc/
+previous:
+  text: 'Pedagogical Content Knowledge: Week 4'
+  url: /blog2/2011/03/31/pedagogical-content-knowledge-week-4/
+title: '"Pedagogical Content Knowledge: Weeks 5/6"'
 type: post
 template: blog-post.html
 comments:

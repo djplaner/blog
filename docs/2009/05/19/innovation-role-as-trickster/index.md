@@ -1,6 +1,12 @@
 ---
-title: Innovation role as Trickster
 date: 2009-05-19 14:33:55+10:00
+next:
+  text: Another BAM problem - awarding mark of 0
+  url: /blog2/2009/05/20/another-bam-problem-awarding-mark-of-0/
+previous:
+  text: Diagnosing and recording a problem with BAM
+  url: /blog2/2009/05/19/diagnosing-and-recording-a-problem-with-bam/
+title: Innovation role as Trickster
 type: post
 template: blog-post.html
 ---

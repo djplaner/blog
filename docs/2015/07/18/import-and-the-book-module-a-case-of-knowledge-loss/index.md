@@ -1,7 +1,16 @@
 ---
-title: "Import and the Book module: a case of knowledge loss?"
+categories:
+- moodleopenbook
+- openbook
 date: 2015-07-18 15:53:46+10:00
-categories: ['moodleopenbook', 'openbook']
+next:
+  text: '"Predicting System Success using the Technology Acceptance Model: A Case
+    Study"'
+  url: /blog2/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/
+previous:
+  text: 'Me as learner: 2015 and learning analytics'
+  url: /blog2/2015/07/16/me-as-learner-2015-and-learning-analytics/
+title: '"Import and the Book module: a case of knowledge loss?"'
 type: post
 template: blog-post.html
 comments:

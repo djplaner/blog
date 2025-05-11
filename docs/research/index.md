@@ -1,6 +1,6 @@
 ---
-title: Research
 date: 2008-10-20 15:37:51+10:00
+title: Research
 type: page
 template: blog-post.html
 ---

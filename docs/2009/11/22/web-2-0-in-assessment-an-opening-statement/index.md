@@ -1,8 +1,18 @@
 ---
-title: Web 2.0 in assessment - an opening statement?
+categories:
+- elearning
 date: 2009-11-22 19:27:21+10:00
-categories: ['elearning']
-tags: ['assessment', 'asw2a', 'web2-0-socialmedia']
+next:
+  text: Reflections on asw2a
+  url: /blog2/2009/11/24/reflections-on-asw2a/
+previous:
+  text: Business intelligence and PEBKAC
+  url: /blog2/2009/11/20/business-intelligence-and-pebkac/
+tags:
+- assessment
+- asw2a
+- web2-0-socialmedia
+title: Web 2.0 in assessment - an opening statement?
 type: post
 template: blog-post.html
 ---

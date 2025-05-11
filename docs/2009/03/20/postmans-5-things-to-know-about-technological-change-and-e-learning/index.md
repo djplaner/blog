@@ -1,7 +1,18 @@
 ---
-title: Postman's - 5 things to know about technological change and e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- thesis
 date: 2009-03-20 15:23:51+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'thesis']
+next:
+  text: Making the LMS/VLE "mythic"
+  url: /blog2/2009/03/23/making-the-lmsvle-mythic/
+previous:
+  text: Cognition - we&#039;re not rational and how it impacts e-learning
+  url: /blog2/2009/03/20/cognition-were-not-rational-and-how-it-impacts-e-learning/
+title: Postman's - 5 things to know about technological change and e-learning
 type: post
 template: blog-post.html
 comments:

@@ -1,8 +1,22 @@
 ---
-title: "The life and death of Webfuse: What's wrong with industrial e-learning and how to fix it"
+categories:
+- design-theory
+- elearning
+- missingps
+- psframework
+- thesis
+- webfuse
 date: 2012-11-26 03:41:10+10:00
-categories: ['design-theory', 'elearning', 'missingps', 'psframework', 'thesis', 'webfuse']
-tags: ['ascilite2012']
+next:
+  text: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
+  url: /blog2/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
+previous:
+  text: A triumph of the explicit over the tacit and the subsequent loss of learning
+  url: /blog2/2012/11/08/a-triumph-of-the-explicit-over-the-tacit-and-the-subsequent-loss-of-learning/
+tags:
+- ascilite2012
+title: '"The life and death of Webfuse: What''s wrong with industrial e-learning and
+  how to fix it"'
 type: post
 template: blog-post.html
 comments:

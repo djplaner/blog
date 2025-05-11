@@ -1,8 +1,16 @@
 ---
-title: Blurb for the alignment project
+categories:
+- alignment
 date: 2010-05-07 10:47:52+10:00
-categories: ['alignment']
-tags: ['altc']
+next:
+  text: Requirements for an "indicators" Moodle block
+  url: /blog2/2010/05/09/requirements-for-an-indicators-moodle-block/
+previous:
+  text: Leadership as appreciating resistance
+  url: /blog2/2010/05/03/leadership-as-appreciating-resistance/
+tags:
+- altc
+title: Blurb for the alignment project
 type: post
 template: blog-post.html
 ---

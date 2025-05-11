@@ -1,7 +1,20 @@
 ---
-title: How do you measure success with institutional use of an LMS/VLE?
+categories:
+- chapter-4
+- design-theory
+- elearning
+- indicators
+- lmsevaluation
+- phd
+- thesis
 date: 2009-08-05 11:16:44+10:00
-categories: ['chapter-4', 'design-theory', 'elearning', 'indicators', 'lmsevaluation', 'phd', 'thesis']
+next:
+  text: Factors related to the breadth of use of LMS/VLE features
+  url: /blog2/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/
+previous:
+  text: How will universities change over ten years?
+  url: /blog2/2009/08/04/how-will-universities-change-over-ten-years/
+title: How do you measure success with institutional use of an LMS/VLE?
 type: post
 template: blog-post.html
 ---

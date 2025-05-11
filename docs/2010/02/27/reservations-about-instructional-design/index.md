@@ -1,7 +1,17 @@
 ---
-title: Reservations about instructional design
+categories:
+- c2d2
+- curriculumdesign
+- elearning
+- reflectivealignment
 date: 2010-02-27 06:37:56+10:00
-categories: ['c2d2', 'curriculumdesign', 'elearning', 'reflectivealignment']
+next:
+  text: Implications of cognitive theory for instructional design
+  url: /blog2/2010/02/27/implications-of-cognitive-theory-for-instructional-design/
+previous:
+  text: Fixes to BIM
+  url: /blog2/2010/02/25/fixes-to-bim/
+title: Reservations about instructional design
 type: post
 template: blog-post.html
 comments:

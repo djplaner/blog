@@ -1,9 +1,17 @@
 ---
-title: Designing a personal \"memex\" with Foam
+categories:
+- pkm
+coverImage: birds.jpg
 date: 2020-07-06 11:11:58+10:00
-categories: ['pkm']
-tags: ['memex']
-coverImage: 49997112801_e233541a82_k-e1593997890516.jpg
+next:
+  text: Getting started with memex
+  url: /blog2/2020/07/07/getting-started-with-memex/
+previous:
+  text: Understanding (digital) education through workarounds and quality indicators
+  url: /blog2/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/
+tags:
+- memex
+title: Designing a personal "memex" with Foam
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: The missing perspective(s) on MOOCs?
+categories:
+- edu8117
+- elearning
 date: 2013-02-08 10:04:46+10:00
-categories: ['edu8117', 'elearning']
+next:
+  text: Exploring using the Wii/Augmented Reality to teach proportion
+  url: /blog2/2013/02/20/exploring-using-the-wiiaugmented-reality-to-teach-proportion/
+previous:
+  text: BIM 2.0 - cleaning up part 4
+  url: /blog2/2013/02/01/bim-2-0-cleaning-up-part-4/
+title: The missing perspective(s) on MOOCs?
 type: post
 template: blog-post.html
 comments:

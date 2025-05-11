@@ -1,6 +1,6 @@
 ---
-title: Moodle dev resources
 date: 2009-12-15 11:05:34+10:00
+title: Moodle dev resources
 type: page
 template: blog-post.html
 ---

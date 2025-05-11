@@ -1,7 +1,15 @@
 ---
-title: Exploring Moodle book usage - part 3 - who and how much
+categories:
+- exploring
+- moodleopenbook
 date: 2016-08-17 11:38:40+10:00
-categories: ['exploring', 'moodleopenbook']
+next:
+  text: Understanding and using the idea of "network learning"
+  url: /blog2/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+previous:
+  text: Exploring Moodle Book usage - part 2 - overall use
+  url: /blog2/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/
+title: Exploring Moodle book usage - part 3 - who and how much
 type: post
 template: blog-post.html
 comments:

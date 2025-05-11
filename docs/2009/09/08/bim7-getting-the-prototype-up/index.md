@@ -1,7 +1,14 @@
 ---
-title: "BIM#7 - Getting the prototype up"
+categories:
+- bim
 date: 2009-09-08 15:42:15+10:00
-categories: ['bim']
+next:
+  text: How do you develop a cross-LMS usage comparison?
+  url: /blog2/2009/09/09/how-do-you-develop-a-cross-lms-usage-comparison/
+previous:
+  text: Pedagogy - the centrality of the pedagogue and what they believe
+  url: /blog2/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/
+title: '"BIM#7 - Getting the prototype up"'
 type: post
 template: blog-post.html
 ---

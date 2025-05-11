@@ -1,7 +1,15 @@
 ---
-title: Problems of service provision and why can't I have a personalised class timetable?
+categories:
+- journey
+- teaching
 date: 2011-01-30 22:49:19+10:00
-categories: ['journey', 'teaching']
+next:
+  text: My god, is it done?
+  url: /blog2/2011/01/31/my-god-is-it-done/
+previous:
+  text: The state of educational data mining in 2009
+  url: /blog2/2011/01/30/the-state-of-educational-data-mining-in-2009/
+title: Problems of service provision and why can't I have a personalised class timetable?
 type: post
 template: blog-post.html
 comments:

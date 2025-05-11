@@ -1,8 +1,16 @@
 ---
-title: Self-reporting considered harmful?
+categories:
+- elearning
 date: 2009-12-08 08:00:27+10:00
-categories: ['elearning']
-tags: ['ascilite09']
+next:
+  text: Change the environment, not the culture
+  url: /blog2/2009/12/09/change-the-environment-not-the-culture/
+previous:
+  text: Barriers to harnessing academic analytics
+  url: /blog2/2009/12/02/barriers-to-harnessing-academic-analytics/
+tags:
+- ascilite09
+title: Self-reporting considered harmful?
 type: post
 template: blog-post.html
 comments:

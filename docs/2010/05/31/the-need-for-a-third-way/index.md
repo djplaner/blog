@@ -1,7 +1,19 @@
 ---
-title: The need for a third way
+categories:
+- chapter-4
+- design-theory
+- herding-cats
+- reflectivealignment
+- thesis
+- webfuse
 date: 2010-05-31 11:28:25+10:00
-categories: ['chapter-4', 'design-theory', 'herding-cats', 'reflectivealignment', 'thesis', 'webfuse']
+next:
+  text: Adding OPML feeds to BIM
+  url: /blog2/2010/06/01/adding-opml-feeds-to-bim/
+previous:
+  text: Adding email merge to BIM
+  url: /blog2/2010/05/30/2933/
+title: The need for a third way
 type: post
 template: blog-post.html
 comments:

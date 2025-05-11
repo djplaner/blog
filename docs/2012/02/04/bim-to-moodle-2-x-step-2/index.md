@@ -1,7 +1,15 @@
 ---
-title: BIM to Moodle 2.x - Step 2
+categories:
+- bim2
 date: 2012-02-04 17:21:15+10:00
-categories: ['bim2']
+next:
+  text: '"It''s better at home: One contributor to why ICT integration in schools
+    sucks"'
+  url: /blog2/2012/02/07/its-better-at-home-one-contributor-to-why-ict-integration-in-schools-sucks/
+previous:
+  text: Thinking about Moodle course design
+  url: /blog2/2012/02/03/thinking-about-moodle-course-design/
+title: BIM to Moodle 2.x - Step 2
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: "Bringing the LMS into the network - Experiment # 1 - Activity completion"
+categories:
+- bad
+- bricolage
 date: 2014-08-03 22:46:59+10:00
-categories: ['bad', 'bricolage']
+next:
+  text: Resilience and other implications of technological changes
+  url: /blog2/2014/08/12/resilience-and-other-implications/
+previous:
+  text: Emergence, improvisation and course design
+  url: /blog2/2014/07/31/emergence-improvisation-and-course-design/
+title: '"Bringing the LMS into the network - Experiment # 1 - Activity completion"'
 type: post
 template: blog-post.html
 ---

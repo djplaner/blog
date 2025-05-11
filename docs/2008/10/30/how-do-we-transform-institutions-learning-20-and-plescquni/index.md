@@ -1,7 +1,15 @@
 ---
-title: How do we transform institutions? Learning 2.0 and PLEs@CQUni
+categories:
+- elearning
+- plescquni
 date: 2008-10-30 00:52:55+10:00
-categories: ['elearning', 'plescquni']
+next:
+  text: Readings on Design-based research
+  url: /blog2/2008/10/30/readings-on-design-based-research/
+previous:
+  text: The importance of diversity to improving learning and teaching
+  url: /blog2/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
+title: How do we transform institutions? Learning 2.0 and PLEs@CQUni
 type: post
 template: blog-post.html
 ---

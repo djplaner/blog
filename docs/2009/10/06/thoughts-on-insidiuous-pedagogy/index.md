@@ -1,7 +1,18 @@
 ---
-title: Thoughts on \"Insidious pedagogy\"
+categories:
+- chapter-2
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-10-06 11:04:04+10:00
-categories: ['chapter-2', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Using Votapedia
+  url: /blog2/2009/10/06/using-votapedia/
+previous:
+  text: 'Lectures and the LMS: Alternatives and experiments'
+  url: /blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
+title: Thoughts on "Insidious pedagogy"
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,19 @@
 ---
-title: Emergent and agile development
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-06-05 13:56:20+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Object orientation and design patterns
+  url: /blog2/2010/06/07/object-orientation-and-design-patterns/
+previous:
+  text: The road not taken
+  url: /blog2/2010/06/05/the-road-not-taken/
+title: Emergent and agile development
 type: post
 template: blog-post.html
 comments:

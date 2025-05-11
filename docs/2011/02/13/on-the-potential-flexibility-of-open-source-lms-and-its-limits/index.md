@@ -1,7 +1,19 @@
 ---
-title: On the potential flexibility of open source LMS and its limits
+categories:
+- design-theory
+- elearning
+- moodle
+- phd
+- thesis
+- webfuse
 date: 2011-02-13 17:24:50+10:00
-categories: ['design-theory', 'elearning', 'moodle', 'phd', 'thesis', 'webfuse']
+next:
+  text: '"bim2: Some more coordinator tabs"'
+  url: /blog2/2011/02/13/bim2-some-more-coordinator-tabs/
+previous:
+  text: 'bim2: Starting on the coordinator models'
+  url: /blog2/2011/02/13/bim2-starting-on-the-coordinator-models/
+title: On the potential flexibility of open source LMS and its limits
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: bim2 - student and marker fixes
+categories:
+- bim2
 date: 2012-03-31 22:42:04+10:00
-categories: ['bim2']
+next:
+  text: '"Learning analytics: Starvation and telling us what we already know?"'
+  url: /blog2/2012/04/01/learning-analytics-starvation-and-telling-us-what-we-already-know/
+previous:
+  text: bim2 - status check and what&#039;s next
+  url: /blog2/2012/03/30/bim2-status-check-and-whats-next/
+title: bim2 - student and marker fixes
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Faculty-centered, peer-reviewed online course development models
+categories:
+- research
 date: 2012-02-19 22:31:04+10:00
-categories: ['research']
+next:
+  text: '"One Moodle course design: approach and trade-offs"'
+  url: /blog2/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/
+previous:
+  text: Designing the weekly ramble
+  url: /blog2/2012/02/19/designing-the-weekly-ramble/
+title: Faculty-centered, peer-reviewed online course development models
 type: post
 template: blog-post.html
 comments:

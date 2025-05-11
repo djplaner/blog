@@ -1,7 +1,15 @@
 ---
-title: Meaningless freedom and auto-marking the learning journals
+categories:
+- edc3100
+- teaching
 date: 2013-04-01 10:56:45+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Adding bim 2.0 to "CONTRIB"
+  url: /blog2/2013/04/05/adding-bim-2-0-to-contrib/
+previous:
+  text: Does institutional e-learning have a TPACK problem?
+  url: /blog2/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
+title: Meaningless freedom and auto-marking the learning journals
 type: post
 template: blog-post.html
 comments:

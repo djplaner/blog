@@ -1,7 +1,16 @@
 ---
-title: "Learning analytics: Definitions, processes and potential"
+categories:
+- indicators
+- lak11
 date: 2011-01-10 23:56:30+10:00
-categories: ['indicators', 'lak11']
+next:
+  text: Applying "learning analytics" to BIM
+  url: /blog2/2011/01/12/applying-learning-analytics-to-bim/
+previous:
+  text: A start to the &quot;Introduction to Learning and Knowledge Analytics&quot;
+    MOOC
+  url: /blog2/2011/01/10/a-start-to-the-introduction-to-learning-and-knowledge-analytics-mooc/
+title: '"Learning analytics: Definitions, processes and potential"'
 type: post
 template: blog-post.html
 ---

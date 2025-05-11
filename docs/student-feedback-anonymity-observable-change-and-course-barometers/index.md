@@ -1,6 +1,6 @@
 ---
-title: Student feedback, anonymity, observable change and course barometers
 date: 2012-03-04 23:08:58+10:00
+title: Student feedback, anonymity, observable change and course barometers
 type: page
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: github and the Moodle - Step 3
+categories:
+- moodleopenbook
 date: 2015-08-20 11:15:08+10:00
-categories: ['moodleopenbook']
+next:
+  text: Refining a visualisation
+  url: /blog2/2015/08/21/refining-a-visualisation/
+previous:
+  text: Visualising locations of students etc
+  url: /blog2/2015/08/18/visualising-locations-of-students-etc/
+title: github and the Moodle - Step 3
 type: post
 template: blog-post.html
 ---

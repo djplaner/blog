@@ -1,7 +1,15 @@
 ---
-title: Bye, Bye Mendeley?
+categories:
+- research
 date: 2017-05-20 09:05:02+10:00
-categories: ['research']
+next:
+  text: Emedding plotly graphs in Wordpress posts
+  url: /blog2/2017/06/17/emedding-plotly-graphs-in-wordpress-posts/
+previous:
+  text: Early steps in developing a design system/model for Professional Learning
+    Opportunities
+  url: /blog2/2017/04/26/early-steps-in-developing-a-design-systemmodel-for-professional-learning-opportunities/
+title: Bye, Bye Mendeley?
 type: post
 template: blog-post.html
 ---

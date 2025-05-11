@@ -1,7 +1,18 @@
 ---
-title: "From thinking to tinkering: The grassroots of strategic information systems"
+categories:
+- bad
+- bricolage
+- elearning
+- information-systems
+- innovation
 date: 2014-05-08 13:40:46+10:00
-categories: ['bad', 'bricolage', 'elearning', 'information-systems', 'innovation']
+next:
+  text: Does my course suffer from semester droop?
+  url: /blog2/2014/05/09/does-my-course-suffer-from-semester-droop/
+previous:
+  text: How much reblogging is &quot;bad&quot;?
+  url: /blog2/2014/05/05/how-much-reblogging-is-bad/
+title: '"From thinking to tinkering: The grassroots of strategic information systems"'
 type: post
 template: blog-post.html
 ---

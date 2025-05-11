@@ -1,8 +1,18 @@
 ---
-title: Creating quality course websites - the pragmatic approach
+categories:
+- addie
+- c2d2
+- coursesites
 date: 2008-07-12 16:21:09+10:00
-categories: ['addie', 'c2d2', 'coursesites']
-tags: ['cddu-elearning-coursesite']
+next:
+  text: What do students find useful?
+  url: /blog2/2008/07/12/what-do-students-find-useful/
+previous:
+  text: Creating quality course websites
+  url: /blog2/2008/07/12/creating-quality-course-websites/
+tags:
+- cddu-elearning-coursesite
+title: Creating quality course websites - the pragmatic approach
 type: post
 template: blog-post.html
 comments:

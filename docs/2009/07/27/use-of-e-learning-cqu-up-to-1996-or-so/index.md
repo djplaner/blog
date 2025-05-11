@@ -1,7 +1,19 @@
 ---
-title: Use of \"e-learning\" @ CQU up to 1996 (or so)
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-07-27 12:08:04+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: The intervention - Webfuse design 1996-1999
+  url: /blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/
+previous:
+  text: 'PhD update #18 - moving along'
+  url: /blog2/2009/07/26/phd-update-18-moving-along/
+title: Use of "e-learning" @ CQU up to 1996 (or so)
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Exploring connected versus/and networked learning
+categories:
+- etmooc
 date: 2013-01-27 23:21:39+10:00
-categories: ['etmooc']
+next:
+  text: BIM 2.0 - cleaning up part 4
+  url: /blog2/2013/02/01/bim-2-0-cleaning-up-part-4/
+previous:
+  text: 1000 blog posts - a time to look back
+  url: /blog2/2013/01/24/1000-blog-posts-a-time-to-look-back/
+title: Exploring connected versus/and networked learning
 type: post
 template: blog-post.html
 comments:
@@ -219,13 +226,13 @@ pingbacks:
       user_id: '0'
     
 ---
-On a very wet, Australia day long weekend I'm hoping to explore some of the differences, similarities and connections between networked and connected learning. This is all part of my attempt to participate in #etmooc which is currently looking at "Connected Learning – Tools, Processes & Pedagogy". [Networked learning](http://en.wikipedia.org/wiki/Networked_learning) is the term I'm most familiar with and it appears to have a longer history. I'm wondering where connected learning has come from, why and what does it offer as a concept?
+On a very wet, Australia day long weekend I'm hoping to explore some of the differences, similarities and connections between networked and connected learning. This is all part of my attempt to participate in \#etmooc which is currently looking at "Connected Learning – Tools, Processes & Pedagogy". [Networked learning](http://en.wikipedia.org/wiki/Networked_learning) is the term I'm most familiar with and it appears to have a longer history. I'm wondering where connected learning has come from, why and what does it offer as a concept?
 
 [![Another shot of the creek](images/8418722501_d7363bb3d1_m.jpg)](http://www.flickr.com/photos/david_jones/8418722501/ "Another shot of the creek by David T Jones, on Flickr")
 
 ## #etmooc and Connected Learning
 
-#etmooc's connected learning introduction is hosted in [a Google doc](https://docs.google.com/document/d/1Tz5kgDF1TyZCq1a5Wusvw0g3u09w-5Xy0OFXHL3I5dg/edit). It contains links to all of the resources, including the slides and a recording of the presentation. I've skimmed the slides and need to find the time to watch the presentation, Alec's always worth a listen.
+\#etmooc's connected learning introduction is hosted in [a Google doc](https://docs.google.com/document/d/1Tz5kgDF1TyZCq1a5Wusvw0g3u09w-5Xy0OFXHL3I5dg/edit). It contains links to all of the resources, including the slides and a recording of the presentation. I've skimmed the slides and need to find the time to watch the presentation, Alec's always worth a listen.
 
 The "connected learning" term seems to derive from [this infographic on connected learning](http://connectedlearning.tv/infographic) and the folk who developed it. Their ["What is Connected Learning"](http://connectedlearning.tv/what-is-connected-learning) provides more of an overview, including principles (see the following table) and a [research synthesis report](http://dmlhub.net/sites/default/files/ConnectedLearning_report.pdf).
 

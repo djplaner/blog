@@ -1,7 +1,16 @@
 ---
-title: What to expect/look for from SITE'2016?
+categories:
+- bad
+- edc3100
 date: 2016-03-22 10:02:00+10:00
-categories: ['bad', 'edc3100']
+next:
+  text: '"Mapping the digital practices of teacher educators: Implications for teacher
+    education in changing digital landscapes"'
+  url: /blog2/2016/03/24/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes-2/
+previous:
+  text: 'OEP and Initial Teacher Education: Moving on from the horsey, horseless carriage'
+  url: /blog2/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/
+title: What to expect/look for from SITE'2016?
 type: post
 template: blog-post.html
 ---

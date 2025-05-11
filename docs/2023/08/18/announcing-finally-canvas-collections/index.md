@@ -1,9 +1,18 @@
 ---
-title: Announcing (finally) Canvas Collections
-date: 2023-08-18 12:19:47+10:00
-categories: ['casa']
-tags: ['canvas', 'casa']
+categories:
+- casa
 coverImage: Collections-2.png
+date: 2023-08-18 12:19:47+10:00
+next:
+  text: What now?
+  url: /blog2/2025/01/12/what-now/
+previous:
+  text: Higher ed L&T's scale problem?
+  url: /blog2/2023/02/23/higher-ed-lts-scale-problem/
+tags:
+- canvas
+- casa
+title: Announcing (finally) Canvas Collections
 type: post
 template: blog-post.html
 ---

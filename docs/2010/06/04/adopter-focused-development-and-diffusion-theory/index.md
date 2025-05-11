@@ -1,7 +1,19 @@
 ---
-title: Adopter focused development and diffusion theory
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-06-04 17:01:40+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: The road not taken
+  url: /blog2/2010/06/05/the-road-not-taken/
+previous:
+  text: The design of a Moodle course site
+  url: /blog2/2010/06/02/the-design-of-a-moodle-course-site/
+title: Adopter focused development and diffusion theory
 type: post
 template: blog-post.html
 comments:

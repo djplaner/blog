@@ -1,7 +1,14 @@
 ---
-title: Implementing the rotating banner image
+categories:
+- website
 date: 2009-01-06 09:34:46+10:00
-categories: ['website']
+next:
+  text: Reflections and Implications from Webfuse - Domain languages
+  url: /blog2/2009/01/07/reflections-and-implications-from-webfuse-domain-languages/
+previous:
+  text: Webfuse usage statistics - Online assignment submission
+  url: /blog2/2009/01/05/webfuse-usage-statistics-online-assignment-submission/
+title: Implementing the rotating banner image
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Quotes about innovation and creativity
+categories:
+- innovation
+- quotes
 date: 2009-05-13 13:12:00+10:00
-categories: ['innovation', 'quotes']
+next:
+  text: Some initial thoughts on e-learning and innovation
+  url: /blog2/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
+previous:
+  text: Everything old is new again - universities should be more business like
+  url: /blog2/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/
+title: Quotes about innovation and creativity
 type: post
 template: blog-post.html
 comments:

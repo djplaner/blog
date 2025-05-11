@@ -1,7 +1,15 @@
 ---
-title: How do you \"apprehend the future\"
+categories:
+- elearning
+- futures
 date: 2009-07-01 21:43:52+10:00
-categories: ['elearning', 'futures']
+next:
+  text: '"PhD Update #16 - return from a break"'
+  url: /blog2/2009/07/05/phd-update-16-return-from-a-break/
+previous:
+  text: Alternative to clickers - freeing up the physical location limitation
+  url: /blog2/2009/06/30/alternative-to-clickers/
+title: How do you "apprehend the future"
 type: post
 template: blog-post.html
 comments:

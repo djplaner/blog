@@ -1,8 +1,18 @@
 ---
-title: The gulf between users and IT departments
+categories:
+- enterprise-20
+- information-systems
+- thesis
 date: 2008-10-26 21:37:03+10:00
-categories: ['enterprise-20', 'information-systems', 'thesis']
-tags: ['shadowsystems-shadow-enterprise20']
+next:
+  text: The importance of diversity to improving learning and teaching
+  url: /blog2/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
+previous:
+  text: A Paradigmatic Analysis of Information Systems As a Design Science
+  url: /blog2/2008/10/25/a-paradigmatic-analysis-of-information-systems-as-a-design-science/
+tags:
+- shadowsystems-shadow-enterprise20
+title: The gulf between users and IT departments
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,22 @@
 ---
-title: "The new educational technologists: A call for evidenced change"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-04-06 10:51:46+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: Quotes from Snowden and the mismatch between what univeristy e-learning does
+    and what it needs
+  url: /blog2/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/
+previous:
+  text: Measuring the design process - implications for learning design, e-learning
+    and university teaching
+  url: /blog2/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
+title: '"The new educational technologists: A call for evidenced change"'
 type: post
 template: blog-post.html
 comments:

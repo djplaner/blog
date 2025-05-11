@@ -1,8 +1,19 @@
 ---
-title: \"CQU Learning\" - early days of a Second Life island
+categories:
+- cqulearninghistory
+- elearning
+- secondlife
+- web3dx
 date: 2008-01-13 16:16:53+10:00
-categories: ['cqulearninghistory', 'elearning', 'secondlife', 'web3dx']
-tags: ['cddu-web3dx-secondlife']
+next:
+  text: Dealing with "users", freedom and shadow systems
+  url: /blog2/2008/01/14/dealing-with-users-freedom-and-shadow-systems/
+previous:
+  text: Traditional buildings in Second Life - hassle to navigate
+  url: /blog2/2008/01/10/traditional-buildings-in-second-life-hassle-to-navigate/
+tags:
+- cddu-web3dx-secondlife
+title: '"CQU Learning" - early days of a Second Life island'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: Which Moodle (or other LMS) tool is best at support and training?
+categories:
+- bim2
+- elearning
+- moodle
 date: 2013-05-23 14:08:14+10:00
-categories: ['bim2', 'elearning', 'moodle']
+next:
+  text: Preparing BIM for Moodle 2.4 (and beyond?)
+  url: /blog2/2013/05/26/preparing-bim-for-moodle-2-4-and-beyond/
+previous:
+  text: I&#039;m helping to organise a conference - sort of
+  url: /blog2/2013/05/22/im-helping-to-organise-a-conference-sort-of/
+title: Which Moodle (or other LMS) tool is best at support and training?
 type: post
 template: blog-post.html
 comments:

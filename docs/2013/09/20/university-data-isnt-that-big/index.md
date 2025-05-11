@@ -1,7 +1,15 @@
 ---
-title: University data isn't that \"big\", what are the implications?
+categories:
+- elearning
+- learninganalytics-elearning
 date: 2013-09-20 12:28:23+10:00
-categories: ['elearning', 'learninganalytics-elearning']
+next:
+  text: Getting started with Weka
+  url: /blog2/2013/09/21/getting-started-with-weka/
+previous:
+  text: Is institutional e-learning a bit like teenage sex?
+  url: /blog2/2013/09/16/is-institutional-e-learning-like-teenage-sex/
+title: University data isn't that "big", what are the implications?
 type: post
 template: blog-post.html
 comments:

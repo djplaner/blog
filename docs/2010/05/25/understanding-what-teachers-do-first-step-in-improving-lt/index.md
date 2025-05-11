@@ -1,7 +1,15 @@
 ---
-title: "Understanding what teachers do: First step in improving L&#038;T"
+categories:
+- elearning
+- reflectivealignment
 date: 2010-05-25 10:16:43+10:00
-categories: ['elearning', 'reflectivealignment']
+next:
+  text: Adding multiple visualisation approaches to Indicators block
+  url: /blog2/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/
+previous:
+  text: Draft chapter 4 of the thesis is up
+  url: /blog2/2010/05/21/draft-chapter-4-of-the-thesis-is-up/
+title: '"Understanding what teachers do: First step in improving L&#038;T"'
 type: post
 template: blog-post.html
 ---

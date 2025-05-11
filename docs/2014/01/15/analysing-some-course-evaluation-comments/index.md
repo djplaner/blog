@@ -1,7 +1,14 @@
 ---
-title: Analysing some course evaluation comments
+categories:
+- edc3100
 date: 2014-01-15 11:33:50+10:00
-categories: ['edc3100']
+next:
+  text: Leadership as defining what's successful
+  url: /blog2/2014/01/21/leadership-as-defining-whats-successful/
+previous:
+  text: Getting started with NVivo
+  url: /blog2/2014/01/14/getting-started-with-nvivo/
+title: Analysing some course evaluation comments
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,19 @@
 ---
-title: Continuing to bash the consultant model
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-24 09:09:34+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Teleological and ateleological processes
+  url: /blog2/2009/05/25/teleological-and-ateleological-processes/
+previous:
+  text: The problem with consultants/MBAs - Dilbert&#039;s view
+  url: /blog2/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/
+title: Continuing to bash the consultant model
 type: post
 template: blog-post.html
 comments:

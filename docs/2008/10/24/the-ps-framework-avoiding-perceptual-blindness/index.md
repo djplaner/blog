@@ -1,7 +1,17 @@
 ---
-title: The Ps Framework - avoiding perceptual blindness?
+categories:
+- design-theory
+- elearning
+- missingps
+- ple
 date: 2008-10-24 15:48:13+10:00
-categories: ['design-theory', 'elearning', 'missingps', 'ple']
+next:
+  text: The many Ps
+  url: /blog2/2008/10/25/the-many-ps/
+previous:
+  text: Look for incompetence before you go paranoid
+  url: /blog2/2008/10/23/look-for-incompetence-before-you-go-paranoid/
+title: The Ps Framework - avoiding perceptual blindness?
 type: post
 template: blog-post.html
 comments:

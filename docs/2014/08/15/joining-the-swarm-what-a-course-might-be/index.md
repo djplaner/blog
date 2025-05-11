@@ -1,7 +1,14 @@
 ---
-title: "Joining the \"swarm\": what a course might be?"
+categories:
+- edu8117
 date: 2014-08-15 11:24:36+10:00
-categories: ['edu8117']
+next:
+  text: Catching up on the NGL participation - part B
+  url: /blog2/2014/08/15/catching-up-on-the-ngl-participation-part-b/
+previous:
+  text: Strategic plans, theoretical models and just doing it
+  url: /blog2/2014/08/15/strategic-plans-theoretical-models-and-just-doing-it/
+title: '"Joining the "swarm": what a course might be?"'
 type: post
 template: blog-post.html
 comments:

@@ -1,6 +1,6 @@
 ---
-title: "Blogs, reflective journals and aggregation: An initial experiment"
 date: 2009-02-10 14:15:49+10:00
+title: '"Blogs, reflective journals and aggregation: An initial experiment"'
 type: page
 template: blog-post.html
 comments:

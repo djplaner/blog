@@ -1,7 +1,14 @@
 ---
-title: I'm helping to organise a conference - sort of
+categories:
+- edu8719
 date: 2013-05-22 11:04:37+10:00
-categories: ['edu8719']
+next:
+  text: Which Moodle (or other LMS) tool is best at support and training?
+  url: /blog2/2013/05/23/which-moodle-or-other-lms-tool-is-best-at-support-and-training/
+previous:
+  text: 'Moodle, BIM, reflective journals and TPACK: Suggestions for moving beyond'
+  url: /blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/
+title: I'm helping to organise a conference - sort of
 type: post
 template: blog-post.html
 comments:

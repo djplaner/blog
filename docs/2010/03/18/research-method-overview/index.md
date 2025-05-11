@@ -1,7 +1,17 @@
 ---
-title: Research Method - Overview
+categories:
+- chapter-3
+- design-theory
+- elearning
+- thesis
 date: 2010-03-18 21:17:42+10:00
-categories: ['chapter-3', 'design-theory', 'elearning', 'thesis']
+next:
+  text: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
+  url: /blog2/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+previous:
+  text: Embedding behaviour modification - paper summary
+  url: /blog2/2010/03/17/embedding-behaviour-modification-paper-summary/
+title: Research Method - Overview
 type: post
 template: blog-post.html
 comments:

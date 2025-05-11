@@ -1,7 +1,15 @@
 ---
-title: Anyone capturing users' post-adoptive behaviours for the LMS? Implications?
+categories:
+- bad
+- elearning
 date: 2015-10-31 15:25:36+10:00
-categories: ['bad', 'elearning']
+next:
+  text: '"Exploring "post adoptive usage" of the #moodle Book module - a draft proposal"'
+  url: /blog2/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
+previous:
+  text: The CSCW view of Knowledge Management
+  url: /blog2/2015/10/30/the-cscw-view-of-knowledge-management/
+title: Anyone capturing users' post-adoptive behaviours for the LMS? Implications?
 type: post
 template: blog-post.html
 ---

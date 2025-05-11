@@ -1,7 +1,16 @@
 ---
-title: The model underpinning blackboard and how ACCT19064 uses it
+categories:
+- elearning
+- lmsevaluation
+- lmsreview
 date: 2008-11-19 08:42:31+10:00
-categories: ['elearning', 'lmsevaluation', 'lmsreview']
+next:
+  text: Tool users, research, hammers and the law of instrument
+  url: /blog2/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/
+previous:
+  text: Evaluating an LMS by understanding the underpinning &quot;model&quot;
+  url: /blog2/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/
+title: The model underpinning blackboard and how ACCT19064 uses it
 type: post
 template: blog-post.html
 comments:

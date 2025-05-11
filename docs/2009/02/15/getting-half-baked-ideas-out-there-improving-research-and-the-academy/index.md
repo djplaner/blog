@@ -1,7 +1,23 @@
 ---
-title: "Getting half-baked ideas out there: improving research and the academy"
+categories:
+- chapter-2
+- cognitiveedge
+- design-theory
+- elearning
+- evaluation
+- innovation
+- lmsevaluation
+- react
+- thesis
 date: 2009-02-15 12:06:56+10:00
-categories: ['chapter-2', 'cognitiveedge', 'design-theory', 'elearning', 'evaluation', 'innovation', 'lmsevaluation', 'react', 'thesis']
+next:
+  text: RSS feeds into course management systems - why?
+  url: /blog2/2009/02/15/rss-feeds-into-course-management-systems-why/
+previous:
+  text: 'Alternatives for the institutional implementation of e-learning: Lessons
+    from 12 years of  Webfuse'
+  url: /blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/
+title: '"Getting half-baked ideas out there: improving research and the academy"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Turning point 2.0
+categories:
+- thesis
 date: 2011-11-10 16:37:20+10:00
-categories: ['thesis']
+next:
+  text: '"Some short-term R&#038;D plans"'
+  url: /blog2/2011/11/12/some-short-term-rd-plans/
+previous:
+  text: What arrogance! What an insult to the rich and chaotic variety of the human
+    experience
+  url: /blog2/2011/10/16/what-arrogance-what-an-insult-to-the-rich-and-chaotic-variety-of-the-human-experience/
+title: Turning point 2.0
 type: post
 template: blog-post.html
 comments:

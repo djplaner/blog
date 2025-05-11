@@ -1,7 +1,15 @@
 ---
-title: A new term dawns
+categories:
+- thesis
 date: 2011-06-20 14:46:06+10:00
-categories: ['thesis']
+next:
+  text: '"The death of learning in higher education: quality nazis, "strategic" leadership,
+    blinkered project managers and idiot academics"'
+  url: /blog2/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/
+previous:
+  text: A simple class management plan for beginning teachers
+  url: /blog2/2011/06/16/a-simple-class-management-plan-for-beginning-teachers/
+title: A new term dawns
 type: post
 template: blog-post.html
 comments:

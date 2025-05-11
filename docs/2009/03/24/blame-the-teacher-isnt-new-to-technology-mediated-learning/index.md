@@ -1,7 +1,18 @@
 ---
-title: \"Blame the teacher\" isn't new to technology-mediated learning
+categories:
+- chapter-2
+- design-theory
+- phd
+- reflectivealignment
+- thesis
 date: 2009-03-24 22:27:56+10:00
-categories: ['chapter-2', 'design-theory', 'phd', 'reflectivealignment', 'thesis']
+next:
+  text: The myth of rationality in the selection of learning management systems/VLEs
+  url: /blog2/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
+previous:
+  text: Poor craftsman - or the &quot;blame the teachers&quot; excuse
+  url: /blog2/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/
+title: '"Blame the teacher" isn''t new to technology-mediated learning'
 type: post
 template: blog-post.html
 comments:

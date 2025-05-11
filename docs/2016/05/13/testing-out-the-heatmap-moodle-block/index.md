@@ -1,7 +1,14 @@
 ---
-title: "Testing out the Heatmap #moodle block"
+categories:
+- bad
 date: 2016-05-13 12:19:52+10:00
-categories: ['bad']
+next:
+  text: Organizing for Innovation in the Digitized world
+  url: /blog2/2016/05/16/organizing-for-innovation-in-the-digitized-world/
+previous:
+  text: Testing out the Moodle search book block
+  url: /blog2/2016/05/10/testing-out-the-moodle-book-search/
+title: '"Testing out the Heatmap #moodle block"'
 type: post
 template: blog-post.html
 ---

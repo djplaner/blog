@@ -1,7 +1,15 @@
 ---
-title: Learning analytics, intervention and helping teachers
+categories:
+- elearning
+- indicators
 date: 2013-06-07 14:12:54+10:00
-categories: ['elearning', 'indicators']
+next:
+  text: The kludge for marking learning journals
+  url: /blog2/2013/06/10/the-kludge-for-marking-learning-journals/
+previous:
+  text: Animation over time of links between student posts
+  url: /blog2/2013/06/04/animation-over-time-of-links-between-student-posts/
+title: Learning analytics, intervention and helping teachers
 type: post
 template: blog-post.html
 comments:

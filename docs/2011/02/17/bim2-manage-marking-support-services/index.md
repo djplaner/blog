@@ -1,7 +1,15 @@
 ---
-title: "bim2: manage marking support services"
+categories:
+- bim
+- bim2
 date: 2011-02-17 20:55:29+10:00
-categories: ['bim', 'bim2']
+next:
+  text: '"bim2: manage marking services - Part II"'
+  url: /blog2/2011/02/19/bim2-manage-marking-services-part-ii/
+previous:
+  text: 'bim2: Coordinator&#039;s manage marking tab'
+  url: /blog2/2011/02/16/bim2-coordinators-manage-marking-tab/
+title: '"bim2: manage marking support services"'
 type: post
 template: blog-post.html
 ---

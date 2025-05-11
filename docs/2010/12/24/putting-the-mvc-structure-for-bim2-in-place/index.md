@@ -1,7 +1,15 @@
 ---
-title: Putting the MVC structure for bim2 in place
+categories:
+- bim
+- bim2
 date: 2010-12-24 10:31:11+10:00
-categories: ['bim', 'bim2']
+next:
+  text: The student controller for bim2 - models and view
+  url: /blog2/2010/12/28/the-student-controller-for-bim2-models-and-view/
+previous:
+  text: Adding a bim2 activity - development progress
+  url: /blog2/2010/12/20/adding-a-bim2-activity-development-progress/
+title: Putting the MVC structure for bim2 in place
 type: post
 template: blog-post.html
 ---

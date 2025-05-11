@@ -1,7 +1,18 @@
 ---
-title: Webfuse is dead! Long live Webfuse!
+categories:
+- bim
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-03-10 17:08:22+10:00
-categories: ['bim', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: '"Focusing on the wrong time frame - a core problem of university L&#038;T?"'
+  url: /blog2/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
+previous:
+  text: Moodle, outcomes, metadata and curriculum mapping
+  url: /blog2/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
+title: Webfuse is dead! Long live Webfuse!
 type: post
 template: blog-post.html
 comments:

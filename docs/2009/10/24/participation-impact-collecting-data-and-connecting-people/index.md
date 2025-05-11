@@ -1,8 +1,17 @@
 ---
-title: Participation, impact, collecting data and connecting people
+categories:
+- elearning
+- indicators
 date: 2009-10-24 08:58:00+10:00
-categories: ['elearning', 'indicators']
-tags: ['vle-cms-lms']
+next:
+  text: The bureaucratic model and the grammar and future of universities
+  url: /blog2/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
+previous:
+  text: Alternate ways to get the real story in organisations
+  url: /blog2/2009/10/21/alternate-ways-to-get-the-real-story-in-organisations/
+tags:
+- vle-cms-lms
+title: Participation, impact, collecting data and connecting people
 type: post
 template: blog-post.html
 ---

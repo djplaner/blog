@@ -1,7 +1,14 @@
 ---
-title: Professional development is created, not provided
+categories:
+- thesis
 date: 2013-03-20 15:59:07+10:00
-categories: ['thesis']
+next:
+  text: Does institutional e-learning have a TPACK problem?
+  url: /blog2/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
+previous:
+  text: 'BIM: Why and what?'
+  url: /blog2/2013/03/18/bim-why-and-what/
+title: Professional development is created, not provided
 type: post
 template: blog-post.html
 comments:

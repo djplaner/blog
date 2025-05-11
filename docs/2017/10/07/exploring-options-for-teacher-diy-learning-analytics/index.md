@@ -1,8 +1,18 @@
 ---
-title: Exploring options for teacher DIY learning analytics
+categories:
+- 4paths
+- indicators
 date: 2017-10-07 08:24:07+10:00
-categories: ['4paths', 'indicators']
-tags: ['teacherdiy']
+next:
+  text: Implications and questions for institutional learning analytics implementation
+    arising from teacher DIY learning analytics
+  url: /blog2/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/
+previous:
+  text: 'Learning, learning analytics and multiple levels: The problem of starvation'
+  url: /blog2/2017/09/25/learning-learning-analytics-and-multiple-levels-the-problem-of-starvation/
+tags:
+- teacherdiy
+title: Exploring options for teacher DIY learning analytics
 type: post
 template: blog-post.html
 comments:
@@ -43,7 +53,7 @@ comments:
       type: comment
       user_id: '0'
     - approved: '1'
-      author: admin
+      author: David Jones
       author_email: davidthomjones@gmail.com
       author_ip: 139.86.69.39
       author_url: null

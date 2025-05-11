@@ -1,7 +1,14 @@
 ---
-title: A hassle map for Year 10 mathematics? You can't focus on the negatives?
+categories:
+- teaching
 date: 2011-09-25 10:39:44+10:00
-categories: ['teaching']
+next:
+  text: Social media in higher education - to read
+  url: /blog2/2011/09/26/4109/
+previous:
+  text: Can e-learning tools be more like Plants vs Zombies?
+  url: /blog2/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/
+title: A hassle map for Year 10 mathematics? You can't focus on the negatives?
 type: post
 template: blog-post.html
 comments:

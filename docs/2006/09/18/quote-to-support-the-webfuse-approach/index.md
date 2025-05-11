@@ -1,7 +1,17 @@
 ---
-title: Quote to support the Webfuse approach
+categories:
+- bam
+- elearning
+- web-20-course-sites
+- webfuse
 date: 2006-09-18 13:58:59+10:00
-categories: ['bam', 'elearning', 'web-20-course-sites', 'webfuse']
+next:
+  text: The host your own preference argument against Web 2.0 course sites
+  url: /blog2/2006/09/18/the-host-your-own-preference-argument-against-web-20-course-sites/
+previous:
+  text: BAM, blogs and problems with spam blog lockouts
+  url: /blog2/2006/09/18/bam-blogs-and-problems-with-spam-blog-lockouts/
+title: Quote to support the Webfuse approach
 type: post
 template: blog-post.html
 comments:

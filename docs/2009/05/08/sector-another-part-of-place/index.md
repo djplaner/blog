@@ -1,7 +1,19 @@
 ---
-title: Sector - another part of Place
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-08 12:17:21+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"PhD Update #10 - Dragging on"'
+  url: /blog2/2009/05/08/phd-update-10-dragging-on/
+previous:
+  text: Society - an aspect of Place impacting on e-learning
+  url: /blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
+title: Sector - another part of Place
 type: post
 template: blog-post.html
 comments:

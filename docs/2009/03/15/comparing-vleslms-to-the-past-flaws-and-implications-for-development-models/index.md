@@ -1,7 +1,16 @@
 ---
-title: "Comparing VLEs/LMS to the past: flaws and implications for development models"
+categories:
+- chapter-2
+- elearning
+- thesis
 date: 2009-03-15 23:20:18+10:00
-categories: ['chapter-2', 'elearning', 'thesis']
+next:
+  text: '"Blame the teacher" and its negative impact on learning and e-learning'
+  url: /blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
+previous:
+  text: 'Virtual learning environments: three implementation perspectives'
+  url: /blog2/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
+title: '"Comparing VLEs/LMS to the past: flaws and implications for development models"'
 type: post
 template: blog-post.html
 comments:

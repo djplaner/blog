@@ -1,7 +1,17 @@
 ---
-title: Why minimium standards (probably) won't work and will probably become maximum standards
+categories:
+- chapter-2
+- design-theory
+- thesis
 date: 2009-06-19 13:30:07+10:00
-categories: ['chapter-2', 'design-theory', 'thesis']
+next:
+  text: Learning and teaching processes
+  url: /blog2/2009/06/19/learning-and-teaching-processes/
+previous:
+  text: Examination focus and what it might tell us about learning and teaching
+  url: /blog2/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
+title: Why minimium standards (probably) won't work and will probably become maximum
+  standards
 type: post
 template: blog-post.html
 comments:

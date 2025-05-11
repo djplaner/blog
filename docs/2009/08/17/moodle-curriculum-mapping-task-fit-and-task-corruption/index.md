@@ -1,7 +1,14 @@
 ---
-title: Moodle, curriculum mapping, task fit and task corruption
 date: 2009-08-17 10:48:54+10:00
-tags: ['moodle-curriculummapping']
+next:
+  text: Lessons for e-learning from people
+  url: /blog2/2009/08/17/lessons-for-e-learning-from-people/
+previous:
+  text: 'BIM #4: Re-jigging how BIM works'
+  url: /blog2/2009/08/17/bim-4-re-jigging-how-bim-works/
+tags:
+- moodle-curriculummapping
+title: Moodle, curriculum mapping, task fit and task corruption
 type: post
 template: blog-post.html
 comments:

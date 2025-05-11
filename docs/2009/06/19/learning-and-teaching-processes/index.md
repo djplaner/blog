@@ -1,7 +1,21 @@
 ---
-title: Learning and teaching processes
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-06-19 23:09:35+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: "The reason *insert label* talk about gurus is because they can\u2019t spell\
+    \ the word charlatan"
+  url: /blog2/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-cant-spell-the-word-charlatan/
+previous:
+  text: Why minimium standards (probably) won&#039;t work and will probably become
+    maximum standards
+  url: /blog2/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
+title: Learning and teaching processes
 type: post
 template: blog-post.html
 comments:

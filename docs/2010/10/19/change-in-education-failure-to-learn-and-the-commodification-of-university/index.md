@@ -1,7 +1,14 @@
 ---
-title: Change in education, failure to learn and the commodification of university
+categories:
+- thesis
 date: 2010-10-19 12:43:49+10:00
-categories: ['thesis']
+next:
+  text: Time for a career change?
+  url: /blog2/2010/10/20/time-for-a-career-change/
+previous:
+  text: The problem with blended learning
+  url: /blog2/2010/10/13/the-problem-with-blended-learning/
+title: Change in education, failure to learn and the commodification of university
 type: post
 template: blog-post.html
 comments:

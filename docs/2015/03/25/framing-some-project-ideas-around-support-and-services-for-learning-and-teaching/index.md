@@ -1,7 +1,14 @@
 ---
-title: Framing some project ideas around support and services for learning and teaching
+categories:
+- thesis
 date: 2015-03-25 13:54:47+10:00
-categories: ['thesis']
+next:
+  text: Concrete lounges and why basketball players aren't better hockey players
+  url: /blog2/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/
+previous:
+  text: My example assignment 1 web-based artefact
+  url: /blog2/2015/03/25/my-example-assignment-1-web-based-artefact/
+title: Framing some project ideas around support and services for learning and teaching
 type: post
 template: blog-post.html
 ---

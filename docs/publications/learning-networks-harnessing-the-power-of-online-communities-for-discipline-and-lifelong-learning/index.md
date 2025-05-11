@@ -1,6 +1,7 @@
 ---
-title: "Learning networks: Harnessing the power of online communities for discipline and lifelong learning"
 date: 2008-10-22 08:15:16+10:00
+title: '"Learning networks: Harnessing the power of online communities for discipline
+  and lifelong learning"'
 type: page
 template: blog-post.html
 comments:

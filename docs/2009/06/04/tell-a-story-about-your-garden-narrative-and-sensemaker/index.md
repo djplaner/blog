@@ -1,7 +1,14 @@
 ---
-title: Tell a story about your garden - narrative and SenseMaker
+categories:
+- cognitiveedge
 date: 2009-06-04 10:08:44+10:00
-categories: ['cognitiveedge']
+next:
+  text: Teleological design - definition and weaknesses
+  url: /blog2/2009/06/05/teleological-design-definition-and-weaknesses/
+previous:
+  text: Attending lectures is &#039;old school&#039; - what else is?
+  url: /blog2/2009/06/02/attending-lectures-is-old-school-what-else-is/
+title: Tell a story about your garden - narrative and SenseMaker
 type: post
 template: blog-post.html
 comments:

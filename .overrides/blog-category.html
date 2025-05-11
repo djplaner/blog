@@ -7,42 +7,29 @@
 <style>
   .category {
     width: 100%;
-    padding: 1em;
-    color: var(--md-admonition-bg-color);
-    background-color: var(--md-admonition-fg-color);
+    padding: 0.5em;
+/*    color: var(--md-admonition-bg-color);
+    background-color: var(--md-admonition-fg-color); */
+  }
+  .category h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
   }
 </style>
 <div class="md-content" data-md-component="content">
+  {% include "partials/prev-next.html" %}
   <div class="category">
     <h2>{{ page.meta.title }} ({{ page.meta.item_count }}
       {% if page.meta.item_count == 1 %}item){% else %}items){% endif %}
     </h2>
   </div>
-  {% if "next" in page.meta %}
-  <nav class="md-footer__inner md-grid" aria-label="Footer"> <a href="{{ page.meta.previous.url }}"
-      class="md-footer__link md-footer__link--prev" aria-label="Previous: {{ page.meta.previous.text }}">
-      <div class="md-footer__button md-icon"> 
-        {% include ".icons/material/arrow-left.svg" %}
-      </div>
-      <div class="md-footer__title"> <span class="md-footer__direction"> Previous </span>
-        <div class="md-ellipsis"> {{ page.meta.previous.text }} </div>
-      </div>
-    </a> <a href="{{ page.meta.next.url }}" class="md-footer__link md-footer__link--next" aria-label="Next: {{ page.meta.next.text }}">
-      <div class="md-footer__title"> <span class="md-footer__direction"> Next </span>
-        <div class="md-ellipsis"> {{ page.meta.next.text }} </div>
-      </div>
-      <div class="md-footer__button md-icon"> 
-        {% include ".icons/material/arrow-right.svg" %}
-      </div>
-    </a> </nav>
-    {% endif %}
+
   <article class="md-content__inner md-typeset">
     {% block content %}
     {% include "partials/post-list.html" %}
     {% endblock %}
   </article>
 
-
-
+  {% include "partials/prev-next.html" %}
 
   {% endblock %}

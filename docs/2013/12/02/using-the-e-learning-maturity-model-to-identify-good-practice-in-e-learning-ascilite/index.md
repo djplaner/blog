@@ -1,7 +1,15 @@
 ---
-title: "Using the e-learning Maturity Model to Identify Good Practice in E-Learning #ascilite"
+categories:
+- ascilite
 date: 2013-12-02 10:26:39+10:00
-categories: ['ascilite']
+next:
+  text: '"A window into lecturers'' conversations #ascilite"'
+  url: /blog2/2013/12/02/a-window-into-lecturers-conversations-ascilite/
+previous:
+  text: 'Sensemaking  - #ascilite'
+  url: /blog2/2013/12/01/sensemaking-ascilite/
+title: '"Using the e-learning Maturity Model to Identify Good Practice in E-Learning
+  #ascilite"'
 type: post
 template: blog-post.html
 ---

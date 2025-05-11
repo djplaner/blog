@@ -1,7 +1,14 @@
 ---
-title: BIM2 and disable_form_change_checker
+categories:
+- bim2
 date: 2013-03-03 18:09:10+10:00
-categories: ['bim2']
+next:
+  text: How are they going?
+  url: /blog2/2013/03/04/how-are-they-going/
+previous:
+  text: Diagnosing a BIM problem
+  url: /blog2/2013/02/27/diagnosing-a-bim-problem/
+title: BIM2 and disable_form_change_checker
 type: post
 template: blog-post.html
 comments:

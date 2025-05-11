@@ -1,7 +1,16 @@
 ---
-title: Updating \"more student details\"
+categories:
+- bad
+- edc3100
+- indicators
 date: 2015-07-23 12:39:09+10:00
-categories: ['bad', 'edc3100', 'indicators']
+next:
+  text: '"Me as teacher" - the 2015 focus for NGL'
+  url: /blog2/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
+previous:
+  text: How might a Book module search function work?
+  url: /blog2/2015/07/19/how-might-a-book-module-search-function-work/
+title: Updating "more student details"
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,18 @@
 ---
-title: "Some alternate foundations for leadership in L&#038;T at CQUniversity"
+categories:
+- cognitiveedge
+- complexityleadership
+- design-theory
+- elearning
+- plescquni
 date: 2008-08-20 15:09:47+10:00
-categories: ['cognitiveedge', 'complexityleadership', 'design-theory', 'elearning', 'plescquni']
+next:
+  text: Alternate foundations - the presentation
+  url: /blog2/2008/08/28/alternate-foundations-the-presentation/
+previous:
+  text: A new &quot;all-in-one&quot; introduction to OASIS
+  url: /blog2/2008/08/15/a-new-all-in-one-introduction-to-oasis/
+title: '"Some alternate foundations for leadership in L&#038;T at CQUniversity"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: How might a Book module search function work?
+categories:
+- moodleopenbook
 date: 2015-07-19 16:22:41+10:00
-categories: ['moodleopenbook']
+next:
+  text: Updating "more student details"
+  url: /blog2/2015/07/23/updating-more-student-details/
+previous:
+  text: Mocking up a search facility for the Moodle book module
+  url: /blog2/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/
+title: How might a Book module search function work?
 type: post
 template: blog-post.html
 ---

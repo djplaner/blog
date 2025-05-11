@@ -1,7 +1,21 @@
 ---
-title: Situated shared practice, curriculum design and academic development
+categories:
+- academicdevelopment
+- c2d2
+- chapter-5
+- design-theory
+- elearning
+- highereducation
+- phd
+- thesis
 date: 2010-08-30 21:51:37+10:00
-categories: ['academicdevelopment', 'c2d2', 'chapter-5', 'design-theory', 'elearning', 'highereducation', 'phd', 'thesis']
+next:
+  text: Scaffolding, context-sensitive conglomerations in e-learning systems
+  url: /blog2/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/
+previous:
+  text: The rider, elephant, and shaping the path
+  url: /blog2/2010/08/30/rider-elephant-path/
+title: Situated shared practice, curriculum design and academic development
 type: post
 template: blog-post.html
 comments:

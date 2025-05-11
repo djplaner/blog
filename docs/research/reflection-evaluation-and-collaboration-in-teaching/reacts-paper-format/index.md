@@ -1,6 +1,6 @@
 ---
-title: "REACT&#039;s paper format"
 date: 2008-10-27 14:10:30+10:00
+title: '"REACT&#039;s paper format"'
 type: page
 template: blog-post.html
 ---

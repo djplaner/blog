@@ -1,7 +1,15 @@
 ---
-title: Bugger analytics, just give me useful information
+categories:
+- elearning
+- learninganalytics-elearning
 date: 2013-08-12 11:44:50+10:00
-categories: ['elearning', 'learninganalytics-elearning']
+next:
+  text: Aligning learning analytics with learning design
+  url: /blog2/2013/08/14/aligning-learning-analytics-with-learning-design/
+previous:
+  text: Statistics in Education - Week 1
+  url: /blog2/2013/08/10/statistics-in-education-week-1/
+title: Bugger analytics, just give me useful information
 type: post
 template: blog-post.html
 comments:

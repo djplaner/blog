@@ -1,7 +1,14 @@
 ---
-title: The cost of being flexible and pushing the boundaries
+categories:
+- edc3100
 date: 2014-08-25 16:01:32+10:00
-categories: ['edc3100']
+next:
+  text: On trying to be optimistic in a stupid world
+  url: /blog2/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/
+previous:
+  text: One process for the NGL course
+  url: /blog2/2014/08/25/one-process-for-the-ngl-course/
+title: The cost of being flexible and pushing the boundaries
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: "Visualising the blog network of #edc3100 students"
+categories:
+- edc3100
+- indicators
+- teaching
 date: 2013-03-18 00:31:48+10:00
-categories: ['edc3100', 'indicators', 'teaching']
+next:
+  text: '"BIM: Why and what?"'
+  url: /blog2/2013/03/18/bim-why-and-what/
+previous:
+  text: Many of our students are neither digital natives nor digitally literate
+  url: /blog2/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/
+title: '"Visualising the blog network of #edc3100 students"'
 type: post
 template: blog-post.html
 comments:

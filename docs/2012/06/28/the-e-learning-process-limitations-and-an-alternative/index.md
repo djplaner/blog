@@ -1,7 +1,19 @@
 ---
-title: The e-learning process - limitations and an alternative
+categories:
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
+- webfuse
 date: 2012-06-28 22:30:40+10:00
-categories: ['design-theory', 'elearning', 'phd', 'psframework', 'thesis', 'webfuse']
+next:
+  text: Introducing the alternative
+  url: /blog2/2012/06/29/introducing-the-alternative/
+previous:
+  text: The LMS Product - limitations and an alternative
+  url: /blog2/2012/06/28/the-lms-product-limitations-and-alternative/
+title: The e-learning process - limitations and an alternative
 type: post
 template: blog-post.html
 comments:

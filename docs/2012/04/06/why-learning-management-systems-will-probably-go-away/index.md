@@ -1,7 +1,15 @@
 ---
-title: Why learning management systems will probably go away
+categories:
+- design-theory
+- elearning
 date: 2012-04-06 12:34:22+10:00
-categories: ['design-theory', 'elearning']
+next:
+  text: bim2 - working on coordinator - part 1
+  url: /blog2/2012/04/11/bim2-working-on-coordinator-part-1/
+previous:
+  text: bim2 - What&#039;s working for coordinator
+  url: /blog2/2012/04/05/bim2-whats-working-for-coordinator/
+title: Why learning management systems will probably go away
 type: post
 template: blog-post.html
 comments:

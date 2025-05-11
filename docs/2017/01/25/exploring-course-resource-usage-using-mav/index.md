@@ -1,8 +1,18 @@
 ---
-title: Exploring course site resource usage using MAV
+categories:
+- eei
 date: 2017-01-25 13:16:45+10:00
-categories: ['eei']
-tags: ['bad', 'mav', 'moodle']
+next:
+  text: The PEBKAC problems of digital L&T and how to solve it?
+  url: /blog2/2017/02/10/the-pebkac-problem-of-ict-support-and-training/
+previous:
+  text: Formulating a Trello process
+  url: /blog2/2017/01/12/formulating-a-trello-process/
+tags:
+- bad
+- mav
+- moodle
+title: Exploring course site resource usage using MAV
 type: post
 template: blog-post.html
 ---

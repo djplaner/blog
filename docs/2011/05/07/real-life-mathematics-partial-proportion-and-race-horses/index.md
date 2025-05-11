@@ -1,7 +1,16 @@
 ---
-title: Real life, mathematics, partial proportion and race horses
+categories:
+- mathematics
+- teaching
+- wcydwt
 date: 2011-05-07 18:11:17+10:00
-categories: ['mathematics', 'teaching', 'wcydwt']
+next:
+  text: Looking for "learning objects" measurement, perimeter etc.
+  url: /blog2/2011/05/08/looking-for-learning-objects-measurement-perimeter-etc/
+previous:
+  text: Sir, when are we going to use this?
+  url: /blog2/2011/05/03/sir-when-are-we-going-to-use-this/
+title: Real life, mathematics, partial proportion and race horses
 type: post
 template: blog-post.html
 comments:

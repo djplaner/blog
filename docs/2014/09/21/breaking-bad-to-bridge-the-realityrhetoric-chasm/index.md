@@ -1,7 +1,18 @@
 ---
-title: Breaking BAD to bridge the reality/rhetoric chasm
+categories:
+- ascilite
+- bad
+- design-theory
+- distributedcognition
+- elearning
 date: 2014-09-21 15:52:39+10:00
-categories: ['ascilite', 'bad', 'design-theory', 'distributedcognition', 'elearning']
+next:
+  text: A perspective on why institutional e-learning is so bad
+  url: /blog2/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/
+previous:
+  text: Searching for a phrase and some research
+  url: /blog2/2014/09/16/searching-for-a-phrase-and-some-research/
+title: Breaking BAD to bridge the reality/rhetoric chasm
 type: post
 template: blog-post.html
 comments:

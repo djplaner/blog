@@ -1,7 +1,19 @@
 ---
-title: "University - change or die: and another problem with the LMS model"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-06 11:12:39+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Pondering a new position - request for help
+  url: /blog2/2009/05/07/pondering-a-new-position/
+previous:
+  text: Place - component of the Ps Framework
+  url: /blog2/2009/05/06/place-component-of-the-ps-framework/
+title: '"University - change or die: and another problem with the LMS model"'
 type: post
 template: blog-post.html
 comments:

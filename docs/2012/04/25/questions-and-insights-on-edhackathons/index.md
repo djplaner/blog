@@ -1,7 +1,15 @@
 ---
-title: Questions and insights on (education) hack days/hackathons
+categories:
+- thesis
 date: 2012-04-25 22:26:05+10:00
-categories: ['thesis']
+next:
+  text: '"Enabling and analysing cross-institutional patterns in learning analytics:
+    A foundation for research and action"'
+  url: /blog2/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/
+previous:
+  text: Mind the gap - a big problem with institutional e-learning
+  url: /blog2/2012/04/13/mind-the-gap-a-big-problem-with-institutional-e-learning/
+title: Questions and insights on (education) hack days/hackathons
 type: post
 template: blog-post.html
 ---

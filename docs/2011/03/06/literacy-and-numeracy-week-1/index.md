@@ -1,7 +1,15 @@
 ---
-title: "Literacy and Numeracy: Week 1"
+categories:
+- eded20491
+- teaching
 date: 2011-03-06 22:00:09+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Multiliteracies and why weak students become teachers
+  url: /blog2/2011/03/07/multiliteracies-and-why-weak-students-become-teachers/
+previous:
+  text: 'Supportive Learning Environments: Week 1'
+  url: /blog2/2011/03/06/supportive-learning-environments-week-1/
+title: '"Literacy and Numeracy: Week 1"'
 type: post
 template: blog-post.html
 comments:

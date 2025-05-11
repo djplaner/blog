@@ -1,7 +1,21 @@
 ---
-title: "The fad cycle in learning &#038; teaching - a historical perspective"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-04-02 14:05:10+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: Measuring the design process - implications for learning design, e-learning
+    and university teaching
+  url: /blog2/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
+previous:
+  text: 'PhD Update #6 - start of shortened weeks'
+  url: /blog2/2009/04/02/phd-update-6-start-of-shortened-weeks/
+title: '"The fad cycle in learning &#038; teaching - a historical perspective"'
 type: post
 template: blog-post.html
 comments:

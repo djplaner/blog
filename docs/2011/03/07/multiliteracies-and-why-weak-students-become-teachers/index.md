@@ -1,7 +1,14 @@
 ---
-title: Multiliteracies and why weak students become teachers
+categories:
+- teaching
 date: 2011-03-07 09:26:07+10:00
-categories: ['teaching']
+next:
+  text: '"End of week 1: reflections and what''s next"'
+  url: /blog2/2011/03/07/end-of-week-1-reflections-and-whats-next/
+previous:
+  text: 'Literacy and Numeracy: Week 1'
+  url: /blog2/2011/03/06/literacy-and-numeracy-week-1/
+title: Multiliteracies and why weak students become teachers
 type: post
 template: blog-post.html
 comments:

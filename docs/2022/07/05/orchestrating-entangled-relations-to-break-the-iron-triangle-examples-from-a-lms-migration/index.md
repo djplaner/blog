@@ -1,8 +1,18 @@
 ---
-title: "Orchestrating entangled relations to break the iron triangle: examples from a LMS migration"
-date: 2022-07-05 06:28:32+10:00
-categories: ['bad', 'casa']
+categories:
+- bad
+- casa
 coverImage: cropped-assemblage-japan.png
+date: 2022-07-05 06:28:32+10:00
+next:
+  text: '"Orchestrating entangled relations to stretch the iron triangle: Observations
+    from an LMS migration"'
+  url: /blog2/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/
+previous:
+  text: Representing problems to make the solution transparent
+  url: /blog2/2021/10/23/representing-problems-to-make-the-solution-transparent/
+title: '"Orchestrating entangled relations to break the iron triangle: examples from
+  a LMS migration"'
 type: post
 template: blog-post.html
 comments:
@@ -30,16 +40,11 @@ pingbacks:
 
 All university strategies for learning and teaching seek to maximise: accessibility (as many people as possible can participate - feel the scale - in as many ways as possible); quality (it's good); and, cost effectiveness (it's cheap to produce and offer). Ryan et al (2021) argue that this is a "key issue for contemporary higher education" (p. 1383) due to inevitable cost constraints, the benefits of increased access to higher education, and requirements to maintain quality standards. However, the literature on the "iron triangle" in higher education (e.g. Daniel et al, 2009; Mulder, 2013; Ryan et al, 2021) suggests that maximising all three is difficult, if not impossible. As illustrated in Figure 1 (adapted from Mulder, 2013, p. 100) the iron triangle suggests that changes in one (e.g. changing accessibility from on-campus to online due to COVID) will have negatively impact at least one, but probably both, of the other qualities (e.g. the COVID response involving increase in workload for staff and resulting in less than happy participants).
 
-<figure>
-
-<figcaption>
-
+<figure markdown>
+<caption>
 Figure 1: Illustrating the iron triangle (adapted from Mulder, 2013, p. 100)
-
-</figcaption>
-
+</caption>
 ![Illustration of the iron triangle](images/mulder-iron-triangle.png)
-
 </figure>
 
 Much of the iron triangle literature identifies different strategies that promise to break the iron triangle. Mulder (2013) suggests open educational resources (OER). Daniel et al (2009) suggest open and distance eLearning. Ryan et al (2021) suggest high-quality large group teaching and learning; alternative curriculum structures; and automation of assessment and feedback.
@@ -140,25 +145,21 @@ All these problems contribute to the initial migration outcome not being all tha
 
 It's a mess and that's just the visible structure. What were separate bits of content are now all combined together, because common cartridge is ignorant of that design. Some elements that were not needed in Canvas have been imported. Some information (_Staff Information_) was lost. And did you notice the default "scroll of death" in Canvas (Figure 3)?
 
-<figure>
+<figure markdown>
 
-<figcaption>
-
+<caption>
 Figure 2: Source LMS
-
-</figcaption>
-
+</caption>
 ![Student view of a simple Blackboard course](images/bb_course.png)
-
 </figure>
 
-<figure>
+<figure markdown>
 
-<figcaption>
+<caption>
 
 Figure 3: Destination LMS
 
-</figcaption>
+</caption>
 
 ![Student view of Canvas course created by importing a Common Cartridge export of the Blackboard course](images/canvas_export_version.png)
 
@@ -166,13 +167,13 @@ Figure 3: Destination LMS
 
 The [Canvas Files area](https://community.canvaslms.com/t5/Canvas-Basics-Guide/What-are-Files/ta-p/7) is even worse off. Figure 4 shows the files area of this same course after common cartridge import. Only the first four or five files were in the Blackboard course. All the _web\_content0000X_ folders are added by the common cartridge import.
 
-<figure>
+<figure markdown>
 
-<figcaption>
+<caption>
 
 Figure 4: Canvas files area - common cartridge import
 
-</figcaption>
+</caption>
 
 ![Canvas files area after Common Cartridge import](images/files_cc_import.png)
 
@@ -218,25 +219,25 @@ Figure 6 illustrates a much neater Files area compared to Figure 4. All of the u
 
 Figure 5 still has a pretty significant whiff of the 'scroll of death'. In part because the highly visual [card interface](https://djplaner.github.io/Card-Interface-Tweak/) used in the Blackboard course site is not available in Blackboard. This is a ["feature"](https://www.wired.com/story/its-not-a-bug-its-a-feature/) of Canvas and how it organises learning content in a long, visually boring scroll of death. More on that next.
 
-<figure>
+<figure markdown>
 
-<figcaption>
+<caption>
 
 Figure 5: Canvas site via CAR
 
-</figcaption>
+</caption>
 
 | ![Canvas course site created by migrating via CAR](images/canvas-via-car.png)
 
 </figure>
 
-<figure>
+<figure markdown>
 
-<figcaption>
+<caption>
 
 Figure 6: Canvas files via CAR
 
-</figcaption>
+</caption>
 
 ![Canvas files migrated via CAR](images/files-car.png)
 
@@ -279,25 +280,25 @@ The dates are a further example of injecting context into a generic tool to save
 
 Not only does Canvas Collections improve the aesthetics of a Canvas course site it improves the findability of information within the course site by making it possible to explicitly represent the information architecture. Research (Simmunich et al, 2015) suggests that course sites with higher findability lead to increases in student reported self-efficacy and motivation, and a better overall experience. Experience with the Card Interface and early experience with Canvas Collections suggest that it is just not the students which benefit. Being able to improve a course site using Canvas Collections appears to encourage teaching staff to think more explicitly about the design of their course sites. Being asked to consider questions like: What are the core objects/activities in your course? How should they be explained? Visually represented?
 
-<figure>
+<figure markdown>
 
-<figcaption>
+<caption>
 
 Figure 7: Canvas Collections - content collection
 
-</figcaption>
+</caption>
 
 ![](images/canvas-collections-content.png)
 
 </figure>
 
-<figure>
+<figure markdown>
 
-<figcaption>
+<caption>
 
 Figure 8: Canvas Collections - assessment collection
 
-</figcaption>
+</caption>
 
 ![](images/canvas-collections-assessment.png)
 

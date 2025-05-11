@@ -1,7 +1,15 @@
 ---
-title: Exploring Moodle Book usage - Part 8 - linking to and from
+categories:
+- exploring
+- moodleopenbook
 date: 2016-09-22 15:15:51+10:00
-categories: ['exploring', 'moodleopenbook']
+next:
+  text: Exploring Moodle Book usage - part 9 - Strange courses
+  url: /blog2/2016/09/26/exploring-moodle-book-usage-part-9-strange-courses/
+previous:
+  text: OEP, institutions and culture
+  url: /blog2/2016/09/21/oep-institutions-and-culture/
+title: Exploring Moodle Book usage - Part 8 - linking to and from
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: "Call for papers -- Personal Learning Environments: How can we harness ICTs to effectively support lifelong learning?"
+categories:
+- ple
 date: 2007-10-06 21:13:18+10:00
-categories: ['ple']
+next:
+  text: Personal learning environments @ CQU
+  url: /blog2/2007/10/28/personal-learning-environments-cqu/
+previous:
+  text: 'It&#039;s all over: no need to select an LMS'
+  url: /blog2/2007/09/30/its-all-over-no-need-to-select-an-lms/
+title: '"Call for papers -- Personal Learning Environments: How can we harness ICTs
+  to effectively support lifelong learning?"'
 type: post
 template: blog-post.html
 ---

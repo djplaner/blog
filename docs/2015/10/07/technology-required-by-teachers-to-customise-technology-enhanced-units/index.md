@@ -1,7 +1,16 @@
 ---
-title: Technology required by teachers to customise technology-enhanced units
+categories:
+- bad
+- elearning
+- tpack
 date: 2015-10-07 13:11:46+10:00
-categories: ['bad', 'elearning', 'tpack']
+next:
+  text: What is theory and why use theories?
+  url: /blog2/2015/10/08/what-is-theory-and-why-use-theories/
+previous:
+  text: Teachers as designers of technology enhance learning?
+  url: /blog2/2015/10/06/teachers-as-digital-renovators/
+title: Technology required by teachers to customise technology-enhanced units
 type: post
 template: blog-post.html
 ---

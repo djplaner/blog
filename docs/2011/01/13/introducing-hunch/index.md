@@ -1,8 +1,17 @@
 ---
-title: Introducing Hunch
+categories:
+- indicators
+- lak11
 date: 2011-01-13 22:42:40+10:00
-categories: ['indicators', 'lak11']
-tags: ['lak11']
+next:
+  text: Creating a podcast for LAK11 presentations
+  url: /blog2/2011/01/15/creating-a-podcast-for-lak11-presentations/
+previous:
+  text: Applying &quot;learning analytics&quot; to BIM
+  url: /blog2/2011/01/12/applying-learning-analytics-to-bim/
+tags:
+- lak11
+title: Introducing Hunch
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Trying out a new writing process
+categories:
+- bambimbad
 date: 2015-01-21 16:28:18+10:00
-categories: ['bambimbad']
+next:
+  text: A proposal for fixing what's broken with ed tech support in some universities
+  url: /blog2/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
+previous:
+  text: 'Barriers to higher education technology adoption: Digital fluency or usefulness?'
+  url: /blog2/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/
+title: Trying out a new writing process
 type: post
 template: blog-post.html
 ---

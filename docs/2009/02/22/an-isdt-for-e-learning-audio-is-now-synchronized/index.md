@@ -1,7 +1,20 @@
 ---
-title: \"An ISDT for e-learning\" - Audio is now synchronized
+categories:
+- anu
+- design-theory
+- elearning
+- information-systems
+- psframework
+- thesis
+- webfuse
 date: 2009-02-22 13:34:51+10:00
-categories: ['anu', 'design-theory', 'elearning', 'information-systems', 'psframework', 'thesis', 'webfuse']
+next:
+  text: Patterns for e-learning - a lost opportunity or destined to fail
+  url: /blog2/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/
+previous:
+  text: An information systems design theory for e-learning
+  url: /blog2/2009/02/21/an-information-systems-design-theory-for-e-learning/
+title: '"An ISDT for e-learning" - Audio is now synchronized'
 type: post
 template: blog-post.html
 ---

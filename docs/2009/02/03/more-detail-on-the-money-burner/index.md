@@ -1,7 +1,14 @@
 ---
-title: More detail on the money burner
+categories:
+- moneyburner
 date: 2009-02-03 09:36:19+10:00
-categories: ['moneyburner']
+next:
+  text: The ritual dissent method shows great promise
+  url: /blog2/2009/02/08/the-ritual-dissent-method-shows-great-promise/
+previous:
+  text: Data mining of online courses - dominant assumptions and innovation potential
+  url: /blog2/2009/02/02/data-mining-of-online-courses-dominant-assumptions-and-innovation-potential/
+title: More detail on the money burner
 type: post
 template: blog-post.html
 ---

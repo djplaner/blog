@@ -1,9 +1,17 @@
 ---
-title: Visualising and pruning my Memex
-date: 2020-08-09 11:54:42+10:00
-categories: ['fedwiki']
-tags: ['memex']
+categories:
+- fedwiki
 coverImage: 3391725798_b2dc4dbc7f_o-e1596938009641.jpg
+date: 2020-08-09 11:54:42+10:00
+next:
+  text: Supporting the design of discipline-specific digital learning activities
+  url: /blog2/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/
+previous:
+  text: Pondering if and how Hax & web components fit in Blackboard
+  url: /blog2/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/
+tags:
+- memex
+title: Visualising and pruning my Memex
 type: post
 template: blog-post.html
 comments:
@@ -27,7 +35,7 @@ comments:
       type: comment
       user_id: '0'
     - approved: '1'
-      author: admin
+      author: David Jones
       author_email: davidthomjones@gmail.com
       author_ip: 120.153.199.251
       author_url: null

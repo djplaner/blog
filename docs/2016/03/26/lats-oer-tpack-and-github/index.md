@@ -1,7 +1,16 @@
 ---
-title: LATs, OER, TPACK, and GitHub
+categories:
+- moodleopenbook
+- oep
+- site2016
 date: 2016-03-26 03:23:14+10:00
-categories: ['moodleopenbook', 'oep', 'site2016']
+next:
+  text: Setting up the analysis of student submissions
+  url: /blog2/2016/03/29/setting-up-the-analysis-of-student-submissions/
+previous:
+  text: 'SITE&#039;2016: LATs, OER, and SPLOTs?'
+  url: /blog2/2016/03/26/site2016-lats-oer-and-splots/
+title: LATs, OER, TPACK, and GitHub
 type: post
 template: blog-post.html
 comments:

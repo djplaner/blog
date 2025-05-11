@@ -1,7 +1,15 @@
 ---
-title: "Literacy and Numeracy: Week 3"
+categories:
+- eded20458
+- teaching
 date: 2011-03-20 22:36:16+10:00
-categories: ['eded20458', 'teaching']
+next:
+  text: Is high school the next challenge for CS
+  url: /blog2/2011/03/21/is-high-school-the-next-challenge-for-cs/
+previous:
+  text: Learning brief - Reflections and conclusions - version 2.0
+  url: /blog2/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/
+title: '"Literacy and Numeracy: Week 3"'
 type: post
 template: blog-post.html
 ---

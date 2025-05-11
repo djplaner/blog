@@ -1,7 +1,19 @@
 ---
-title: Task corruption in teaching @ university - negative impact of Place?
+categories:
+- chapter-2
+- design-theory
+- elearning
+- missingps
+- psframework
+- thesis
 date: 2009-03-04 08:08:29+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'missingps', 'psframework', 'thesis']
+next:
+  text: The insanity of changing LMSes/VLEs
+  url: /blog2/2009/03/04/the-insanity-of-changing-lmsesvles/
+previous:
+  text: Further evidence of problems with evaluation of teaching
+  url: /blog2/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/
+title: Task corruption in teaching @ university - negative impact of Place?
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: This year it's all about the connections
+categories:
+- bad
 date: 2015-01-13 10:54:56+10:00
-categories: ['bad']
+next:
+  text: '"Choosing a research publication outlet: Part II"'
+  url: /blog2/2015/01/14/choosing-a-research-publication-outlet-part-ii/
+previous:
+  text: '&quot;Do it with&quot; teachers or students?'
+  url: /blog2/2015/01/12/do-it-with-teachers-or-students/
+title: This year it's all about the connections
 type: post
 template: blog-post.html
 comments:

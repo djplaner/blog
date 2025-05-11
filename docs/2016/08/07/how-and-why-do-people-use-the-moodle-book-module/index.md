@@ -1,7 +1,15 @@
 ---
-title: How and why do people use the Moodle Book module?
+categories:
+- exploring
+- moodleopenbook
 date: 2016-08-07 05:32:31+10:00
-categories: ['exploring', 'moodleopenbook']
+next:
+  text: '"Open Educational Practice: the boring way and more interesting ways"'
+  url: /blog2/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
+previous:
+  text: Valuing the &quot;residue of experience&quot; a bit more
+  url: /blog2/2016/08/05/valuing-the-residue-of-experience-a-bit-more/
+title: How and why do people use the Moodle Book module?
 type: post
 template: blog-post.html
 comments:

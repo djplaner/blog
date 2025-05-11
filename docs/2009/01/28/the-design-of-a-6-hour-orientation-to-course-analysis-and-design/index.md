@@ -1,8 +1,18 @@
 ---
-title: The design of a 6 hour orientation to course analysis and design
+categories:
+- c2d2
+- foult
 date: 2009-01-28 13:37:29+10:00
-categories: ['c2d2', 'foult']
-tags: ['staffdevelopment-learning-teaching-university-highereducation-academicstaffdevelopment']
+next:
+  text: Good teaching is not innate, it can be "learned" - and what's wrong with academic
+    staff development
+  url: /blog2/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/
+previous:
+  text: Some possible reasons why comparison of information systems are broken
+  url: /blog2/2009/01/27/some-possible-reasons-why-comparison-of-information-systems-are-broken/
+tags:
+- staffdevelopment-learning-teaching-university-highereducation-academicstaffdevelopment
+title: The design of a 6 hour orientation to course analysis and design
 type: post
 template: blog-post.html
 comments:

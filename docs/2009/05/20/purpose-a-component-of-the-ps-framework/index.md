@@ -1,7 +1,19 @@
 ---
-title: Purpose - a component of the Ps Framework
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-20 23:01:41+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Where's the inspiration? Where's the desire to improve?
+  url: /blog2/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/
+previous:
+  text: Another cultural conflict
+  url: /blog2/2009/05/20/another-cultural-conflict/
+title: Purpose - a component of the Ps Framework
 type: post
 template: blog-post.html
 comments:

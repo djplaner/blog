@@ -1,7 +1,16 @@
 ---
-title: Freeze and unfreeze - one problem with herding cats
+categories:
+- elearning
+- herding-cats
+- react
 date: 2007-01-11 14:06:33+10:00
-categories: ['elearning', 'herding-cats', 'react']
+next:
+  text: Breakthrough learning - what lessons for staff development of academics?
+  url: /blog2/2007/01/12/breakthrough-learning-what-lessons-for-staff-development-of-academics/
+previous:
+  text: A problem with credentialism around teaching and learning
+  url: /blog2/2007/01/11/a-problem-with-credentialism-around-teaching-and-learning/
+title: Freeze and unfreeze - one problem with herding cats
 type: post
 template: blog-post.html
 comments:

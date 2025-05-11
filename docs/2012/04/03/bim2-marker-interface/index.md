@@ -1,7 +1,14 @@
 ---
-title: bim2 - Marker interface
+categories:
+- bim2
 date: 2012-04-03 22:51:35+10:00
-categories: ['bim2']
+next:
+  text: bim2 - What's working for coordinator
+  url: /blog2/2012/04/05/bim2-whats-working-for-coordinator/
+previous:
+  text: 'Learning analytics: Starvation and telling us what we already know?'
+  url: /blog2/2012/04/01/learning-analytics-starvation-and-telling-us-what-we-already-know/
+title: bim2 - Marker interface
 type: post
 template: blog-post.html
 ---

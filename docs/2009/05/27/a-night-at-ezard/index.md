@@ -1,7 +1,15 @@
 ---
-title: A night at Ezard
+categories:
+- eating
 date: 2009-05-27 09:42:44+10:00
-categories: ['eating']
+next:
+  text: The LMS/VLE as a one word language - metaphor and e-learning
+  url: /blog2/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/
+previous:
+  text: What are the conditions that are conducive to the creation of a variety of
+    new ideas?
+  url: /blog2/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
+title: A night at Ezard
 type: post
 template: blog-post.html
 comments:

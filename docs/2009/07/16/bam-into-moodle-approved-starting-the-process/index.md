@@ -1,7 +1,14 @@
 ---
-title: BAM into Moodle approved - starting the process
+categories:
+- bam
 date: 2009-07-16 10:58:38+10:00
-categories: ['bam']
+next:
+  text: Installing Moodle - first step in BAM/MoodleAM
+  url: /blog2/2009/07/16/installing-moodle-first-step-in-bammoodleam/
+previous:
+  text: Predictably irrational - implications for L&#038;T at Universities
+  url: /blog2/2009/07/15/predictably-irrational-implications-for-lt-at-universities/
+title: BAM into Moodle approved - starting the process
 type: post
 template: blog-post.html
 comments:

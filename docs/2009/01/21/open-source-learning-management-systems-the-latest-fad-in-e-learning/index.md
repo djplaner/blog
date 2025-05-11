@@ -1,7 +1,17 @@
 ---
-title: Open source learning management systems - the latest fad in e-learning
+categories:
+- chapter-2
+- elearning
+- missingps
+- thesis
 date: 2009-01-21 23:01:54+10:00
-categories: ['chapter-2', 'elearning', 'missingps', 'thesis']
+next:
+  text: Somethings that are broken with evaluation of university teaching
+  url: /blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/
+previous:
+  text: Why am I a ePortfolio skeptic?
+  url: /blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/
+title: Open source learning management systems - the latest fad in e-learning
 type: post
 template: blog-post.html
 comments:

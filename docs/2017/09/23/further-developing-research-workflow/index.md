@@ -1,8 +1,17 @@
 ---
-title: Further developing research workflow
+categories:
+- eei
 date: 2017-09-23 14:30:28+10:00
-categories: ['eei']
-tags: ['research', 'workflow']
+next:
+  text: '"Learning, learning analytics and multiple levels: The problem of starvation"'
+  url: /blog2/2017/09/25/learning-learning-analytics-and-multiple-levels-the-problem-of-starvation/
+previous:
+  text: What's changed in academic staff development?
+  url: /blog2/2017/07/16/17252/
+tags:
+- research
+- workflow
+title: Further developing research workflow
 type: post
 template: blog-post.html
 ---

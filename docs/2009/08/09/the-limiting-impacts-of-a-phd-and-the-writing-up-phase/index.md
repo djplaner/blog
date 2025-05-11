@@ -1,7 +1,15 @@
 ---
-title: The limiting impacts of a PhD and the writing up phase
+categories:
+- phd
+- thesis
 date: 2009-08-09 10:51:11+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Support staff - continuing with the People component
+  url: /blog2/2009/08/09/support-staff-continuing-with-the-people-component/
+previous:
+  text: 'Breadth of Webfuse use: 1997 through 2009'
+  url: /blog2/2009/08/07/breadth-of-webfuse-use-1997-through-2009/
+title: The limiting impacts of a PhD and the writing up phase
 type: post
 template: blog-post.html
 ---

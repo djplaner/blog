@@ -1,7 +1,14 @@
 ---
-title: BIM - getting navigation bread crumbs and tabs working
+categories:
+- bim
 date: 2010-01-09 11:47:06+10:00
-categories: ['bim']
+next:
+  text: BIM - Design of "Manage Marking" and other features for Coordinators
+  url: /blog2/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/
+previous:
+  text: BIM - Allocate questions screen
+  url: /blog2/2010/01/07/bim-allocate-questions-screen/
+title: BIM - getting navigation bread crumbs and tabs working
 type: post
 template: blog-post.html
 comments:

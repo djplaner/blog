@@ -1,6 +1,7 @@
 ---
-title: "Bringing &#8216;second life&#8217; to a tough undergraduate course: Cognitive apprenticeship through Machinimas"
 date: 2008-10-22 08:11:52+10:00
+title: '"Bringing &#8216;second life&#8217; to a tough undergraduate course: Cognitive
+  apprenticeship through Machinimas"'
 type: page
 template: blog-post.html
 comments:

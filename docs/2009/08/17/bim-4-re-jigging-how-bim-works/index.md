@@ -1,7 +1,14 @@
 ---
-title: "BIM #4: Re-jigging how BIM works"
+categories:
+- bam
 date: 2009-08-17 09:07:45+10:00
-categories: ['bam']
+next:
+  text: Moodle, curriculum mapping, task fit and task corruption
+  url: /blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
+previous:
+  text: People, cognition, rationality and e-learning
+  url: /blog2/2009/08/16/people-cognition-rationality-and-e-learning/
+title: '"BIM #4: Re-jigging how BIM works"'
 type: post
 template: blog-post.html
 comments:

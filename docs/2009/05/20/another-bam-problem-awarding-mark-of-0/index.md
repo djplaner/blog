@@ -1,7 +1,14 @@
 ---
-title: Another BAM problem - awarding mark of 0
+categories:
+- bam
 date: 2009-05-20 12:33:24+10:00
-categories: ['bam']
+next:
+  text: Another cultural conflict
+  url: /blog2/2009/05/20/another-cultural-conflict/
+previous:
+  text: Innovation role as Trickster
+  url: /blog2/2009/05/19/innovation-role-as-trickster/
+title: Another BAM problem - awarding mark of 0
 type: post
 template: blog-post.html
 comments:

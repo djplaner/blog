@@ -1,7 +1,14 @@
 ---
-title: Fixing BIM's back up and restore
+categories:
+- bim
 date: 2010-05-27 15:44:14+10:00
-categories: ['bim']
+next:
+  text: One potential approach to provide a Moodle email merge facility
+  url: /blog2/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/
+previous:
+  text: Adding multiple visualisation approaches to Indicators block
+  url: /blog2/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/
+title: Fixing BIM's back up and restore
 type: post
 template: blog-post.html
 ---

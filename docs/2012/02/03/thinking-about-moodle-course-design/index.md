@@ -1,7 +1,15 @@
 ---
-title: Thinking about Moodle course design
+categories:
+- edc3100
+- teaching
 date: 2012-02-03 15:51:46+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: BIM to Moodle 2.x - Step 2
+  url: /blog2/2012/02/04/bim-to-moodle-2-x-step-2/
+previous:
+  text: Thinking about the Preservice teaching networking (#pstn) project
+  url: /blog2/2012/01/31/thinking-about-the-preservice-teaching-networking-pstn-project/
+title: Thinking about Moodle course design
 type: post
 template: blog-post.html
 comments:

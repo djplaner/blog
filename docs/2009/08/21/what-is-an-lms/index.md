@@ -1,8 +1,21 @@
 ---
-title: What is an LMS?
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-08-21 15:02:05+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
-tags: ['lms-vle-cms']
+next:
+  text: LMS characteristics and limitations
+  url: /blog2/2009/08/23/lms-characteristics-and-limitations/
+previous:
+  text: 'PhD Update #21 - End in sight for chapter 2'
+  url: /blog2/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/
+tags:
+- lms-vle-cms
+title: What is an LMS?
 type: post
 template: blog-post.html
 comments:

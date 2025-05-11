@@ -1,7 +1,15 @@
 ---
-title: "PhD update #18 - moving along"
+categories:
+- phd
+- thesis
 date: 2009-07-26 14:37:52+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Use of "e-learning" @ CQU up to 1996 (or so)
+  url: /blog2/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/
+previous:
+  text: Build it and they will come - starting with the institution
+  url: /blog2/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/
+title: '"PhD update #18 - moving along"'
 type: post
 template: blog-post.html
 ---

@@ -1,8 +1,17 @@
 ---
-title: Some literature on perceptions of IPT and IT/CS courses
+categories:
+- thesis
 date: 2011-08-08 21:39:36+10:00
-categories: ['thesis']
-tags: ['computer-science-education', 'ipt']
+next:
+  text: Gamification by camouflage - fads and higher ed
+  url: /blog2/2011/08/09/gamification-by-camouflage-fads-and-higher-ed/
+previous:
+  text: What is important when testing students?
+  url: /blog2/2011/08/08/what-is-important-when-testing-students/
+tags:
+- computer-science-education
+- ipt
+title: Some literature on perceptions of IPT and IT/CS courses
 type: post
 template: blog-post.html
 comments:

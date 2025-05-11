@@ -1,7 +1,15 @@
 ---
-title: No messiness here thanks - SNAFU all the way
+categories:
+- elearning
+- highereducation
 date: 2010-08-03 23:17:08+10:00
-categories: ['elearning', 'highereducation']
+next:
+  text: Can you cancerize your research - task corruption at work
+  url: /blog2/2010/08/03/can-you-cancerize-your-research-task-corruption-at-work/
+previous:
+  text: CQU problem with BIM and RSS feeds
+  url: /blog2/2010/08/02/cqu-problem-with-bim-and-rss-feeds/
+title: No messiness here thanks - SNAFU all the way
 type: post
 template: blog-post.html
 ---

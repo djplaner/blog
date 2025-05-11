@@ -1,7 +1,17 @@
 ---
-title: "PhD update #1 - the start of a tradition?"
+categories:
+- design-theory
+- phd
+- thesis
 date: 2009-02-27 15:33:54+10:00
-categories: ['design-theory', 'phd', 'thesis']
+next:
+  text: Featured on slideshare - the give and take of social computing
+  url: /blog2/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
+previous:
+  text: Why formulaic guidance annoys experts and why they ignore the needs of the
+    novice
+  url: /blog2/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
+title: '"PhD update #1 - the start of a tradition?"'
 type: post
 template: blog-post.html
 comments:

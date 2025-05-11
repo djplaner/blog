@@ -1,7 +1,14 @@
 ---
-title: The failures of intuition in education
+categories:
+- intuitionfail
 date: 2011-12-05 20:49:24+10:00
-categories: ['intuitionfail']
+next:
+  text: '"Scaling" educational innovations'
+  url: /blog2/2011/12/07/scaling-educational-innovations/
+previous:
+  text: Some of the learning analytics literature
+  url: /blog2/2011/12/04/some-of-the-learning-analytics-literature/
+title: The failures of intuition in education
 type: post
 template: blog-post.html
 comments:

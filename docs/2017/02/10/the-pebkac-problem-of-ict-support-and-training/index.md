@@ -1,8 +1,17 @@
 ---
-title: The PEBKAC problems of digital L&T and how to solve it?
+categories:
+- bad
+- eei
 date: 2017-02-10 14:24:54+10:00
-categories: ['bad', 'eei']
-tags: ['nodt']
+next:
+  text: Am I (or my team) ready to apply for an AAUT?
+  url: /blog2/2017/02/16/am-i-or-my-team-ready-to-apply-for-an-aaut/
+previous:
+  text: Exploring course site resource usage using MAV
+  url: /blog2/2017/01/25/exploring-course-resource-usage-using-mav/
+tags:
+- nodt
+title: The PEBKAC problems of digital L&T and how to solve it?
 type: post
 template: blog-post.html
 comments:
@@ -29,7 +38,7 @@ comments:
       type: comment
       user_id: '0'
     - approved: '1'
-      author: admin
+      author: David Jones
       author_email: davidthomjones@gmail.com
       author_ip: 124.181.58.63
       author_url: null

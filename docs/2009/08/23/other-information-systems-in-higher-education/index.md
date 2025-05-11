@@ -1,7 +1,19 @@
 ---
-title: Other information systems in higher education
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-08-23 13:48:53+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Identifying file distribution on Webfuse course sites
+  url: /blog2/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/
+previous:
+  text: LMS characteristics and limitations
+  url: /blog2/2009/08/23/lms-characteristics-and-limitations/
+title: Other information systems in higher education
 type: post
 template: blog-post.html
 ---

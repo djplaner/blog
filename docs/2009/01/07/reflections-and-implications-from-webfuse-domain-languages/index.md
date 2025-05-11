@@ -1,7 +1,15 @@
 ---
-title: Reflections and Implications from Webfuse - Domain languages
+categories:
+- paperideas
+- webfusereflectionsimplications
 date: 2009-01-07 16:32:13+10:00
-categories: ['paperideas', 'webfusereflectionsimplications']
+next:
+  text: Content, redirects and impact on Google ranking
+  url: /blog2/2009/01/07/content-redirects-and-impact-on-google-ranking/
+previous:
+  text: Implementing the rotating banner image
+  url: /blog2/2009/01/06/implementing-the-rotating-banner-image/
+title: Reflections and Implications from Webfuse - Domain languages
 type: post
 template: blog-post.html
 ---

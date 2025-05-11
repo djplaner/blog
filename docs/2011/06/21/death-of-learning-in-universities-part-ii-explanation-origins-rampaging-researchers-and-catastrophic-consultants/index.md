@@ -1,7 +1,16 @@
 ---
-title: "Death of learning in universities: Part II. Explanation, origins, rampaging researchers and catastrophic consultants"
+categories:
+- thesis
 date: 2011-06-21 19:05:26+10:00
-categories: ['thesis']
+next:
+  text: Myself as teacher and learner
+  url: /blog2/2011/07/03/myself-as-teacher-and-learner/
+previous:
+  text: 'The death of learning in higher education: quality nazis, &quot;strategic&quot;
+    leadership, blinkered project managers and idiot academics'
+  url: /blog2/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/
+title: '"Death of learning in universities: Part II. Explanation, origins, rampaging
+  researchers and catastrophic consultants"'
 type: post
 template: blog-post.html
 comments:

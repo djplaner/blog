@@ -1,8 +1,15 @@
 ---
-title: Office365, charismatic technologies, and the ecological perspective
-date: 2020-01-13 13:41:52+10:00
-categories: ['casa']
+categories:
+- casa
 coverImage: verandahSunset.jpg
+date: 2020-01-13 13:41:52+10:00
+next:
+  text: Three mashup types for digital learning and teaching
+  url: /blog2/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/
+previous:
+  text: Is training the barrier to quality online learning in higher ed?
+  url: /blog2/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/
+title: Office365, charismatic technologies, and the ecological perspective
 type: post
 template: blog-post.html
 ---

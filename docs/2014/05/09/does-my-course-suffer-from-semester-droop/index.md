@@ -1,7 +1,16 @@
 ---
-title: Does my course suffer from semester droop?
+categories:
+- edc3100
+- elearning
+- indicators
 date: 2014-05-09 10:09:32+10:00
-categories: ['edc3100', 'elearning', 'indicators']
+next:
+  text: Making BIM ready for Moodle 2.6
+  url: /blog2/2014/05/19/making-bim-ready-for-moodle-2-6/
+previous:
+  text: 'From thinking to tinkering: The grassroots of strategic information systems'
+  url: /blog2/2014/05/08/from-thinking-to-tinkering-the-grassroots-of-strategic-information-systems/
+title: Does my course suffer from semester droop?
 type: post
 template: blog-post.html
 comments:

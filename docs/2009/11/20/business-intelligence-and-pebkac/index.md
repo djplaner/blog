@@ -1,7 +1,16 @@
 ---
-title: Business intelligence and PEBKAC
+categories:
+- elearning
+- indicators
+- thesis
 date: 2009-11-20 10:45:09+10:00
-categories: ['elearning', 'indicators', 'thesis']
+next:
+  text: Web 2.0 in assessment - an opening statement?
+  url: /blog2/2009/11/22/web-2-0-in-assessment-an-opening-statement/
+previous:
+  text: Web 2.0 tools in assessment in higher education
+  url: /blog2/2009/11/16/web-2-0-tools-in-assessment-in-higher-education/
+title: Business intelligence and PEBKAC
 type: post
 template: blog-post.html
 ---

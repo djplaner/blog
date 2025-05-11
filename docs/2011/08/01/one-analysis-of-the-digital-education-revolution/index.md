@@ -1,7 +1,14 @@
 ---
-title: One analysis of the Digital Education Revolution
+categories:
+- eded20488
 date: 2011-08-01 12:35:33+10:00
-categories: ['eded20488']
+next:
+  text: Is the teaching of IT/CS in high school turning people off?
+  url: /blog2/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/
+previous:
+  text: Residents and visitors, are builders the forgotten category?
+  url: /blog2/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/
+title: One analysis of the Digital Education Revolution
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: What now?
+categories:
+- colophon
 date: 2025-01-12 15:19:03+10:00
-categories: ['colophon']
+next:
+  text: Home
+  url: /blog2/index.html
+previous:
+  text: Announcing (finally) Canvas Collections
+  url: /blog2/2023/08/18/announcing-finally-canvas-collections/
+title: What now?
 type: post
 template: blog-post.html
 comments:
@@ -20,7 +27,7 @@ comments:
       type: comment
       user_id: '0'
     - approved: '1'
-      author: admin
+      author: David Jones
       author_email: davidthomjones@gmail.com
       author_ip: 61.68.186.82
       author_url: null

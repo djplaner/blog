@@ -1,7 +1,14 @@
 ---
-title: Gilstrap, Martin and the definition of a lecture
+categories:
+- ilecture
 date: 2012-03-04 12:12:55+10:00
-categories: ['ilecture']
+next:
+  text: '"Implementing a course barometer in Moodle: A kludge"'
+  url: /blog2/2012/03/05/implementing-a-course-barometer-in-moodle-a-kludge/
+previous:
+  text: Moodle, blogs, feeds and the Google feed API
+  url: /blog2/2012/03/03/moodle-blogs-feeds-and-the-google-feed-api/
+title: Gilstrap, Martin and the definition of a lecture
 type: post
 template: blog-post.html
 comments:

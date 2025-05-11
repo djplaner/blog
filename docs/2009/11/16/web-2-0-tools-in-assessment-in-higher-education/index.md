@@ -1,8 +1,16 @@
 ---
-title: Web 2.0 tools in assessment in higher education
+categories:
+- elearning
 date: 2009-11-16 09:51:35+10:00
-categories: ['elearning']
-tags: ['web2-0-socialmedia']
+next:
+  text: Business intelligence and PEBKAC
+  url: /blog2/2009/11/20/business-intelligence-and-pebkac/
+previous:
+  text: Twitter back channels, conferences, sessions and engaging the audience
+  url: /blog2/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
+tags:
+- web2-0-socialmedia
+title: Web 2.0 tools in assessment in higher education
 type: post
 template: blog-post.html
 ---

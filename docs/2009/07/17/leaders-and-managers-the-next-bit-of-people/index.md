@@ -1,7 +1,19 @@
 ---
-title: Leaders and managers - the next bit of People
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-07-17 14:42:07+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"PhD update #17 - You know you''re losing your way when...."'
+  url: /blog2/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
+previous:
+  text: Occupational stress in Australian University Staff
+  url: /blog2/2009/07/17/occupational-stress-in-australian-university-staff/
+title: Leaders and managers - the next bit of People
 type: post
 template: blog-post.html
 comments:

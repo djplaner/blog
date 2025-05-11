@@ -1,7 +1,15 @@
 ---
-title: An experiment in blog-based discussions
+categories:
+- ple
+- plescquni
 date: 2008-11-26 09:11:45+10:00
-categories: ['ple', 'plescquni']
+next:
+  text: Some resources for around blogs and discussion forums
+  url: /blog2/2008/11/26/some-resources-for-around-blogs-and-discussion-forums/
+previous:
+  text: 'Information Systems Epistemology: An Historical Perspective'
+  url: /blog2/2008/11/23/information-systems-epistemology-an-historical-perspective/
+title: An experiment in blog-based discussions
 type: post
 template: blog-post.html
 comments:

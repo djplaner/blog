@@ -1,7 +1,15 @@
 ---
-title: Analysis of digital technologies
+categories:
+- eded20491
+- teaching
 date: 2011-04-15 15:33:44+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Starting on a "student diversity report"
+  url: /blog2/2011/04/16/starting-on-a-student-diversity-report/
+previous:
+  text: Safe, legal and ethical practice for ICTs in schools
+  url: /blog2/2011/04/13/safe-legal-and-ethical-practice-for-icts-in-schools/
+title: Analysis of digital technologies
 type: post
 template: blog-post.html
 comments:

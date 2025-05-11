@@ -1,7 +1,14 @@
 ---
-title: It's more than how you use the technology - authoring online content
+categories:
+- casa
 date: 2019-12-10 07:44:28+10:00
-categories: ['casa']
+next:
+  text: '"The conceptualisation of e-learning: Lessons and implications"'
+  url: /blog2/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/
+previous:
+  text: How to share design knowledge in design for digital learning?
+  url: /blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/
+title: It's more than how you use the technology - authoring online content
 type: post
 template: blog-post.html
 ---

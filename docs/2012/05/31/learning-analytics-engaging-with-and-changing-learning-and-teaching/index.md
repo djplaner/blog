@@ -1,7 +1,17 @@
 ---
-title: "Learning Analytics: engaging with and changing learning and teaching"
+categories:
+- elearning
+- indicators
+- reflectivealignment
 date: 2012-05-31 11:39:41+10:00
-categories: ['elearning', 'indicators', 'reflectivealignment']
+next:
+  text: '"The life and death of Webfuse: lessons for learning and leading into the
+    future"'
+  url: /blog2/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+previous:
+  text: Harnessing learning analytics to inform/improve learning and teaching
+  url: /blog2/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+title: '"Learning Analytics: engaging with and changing learning and teaching"'
 type: post
 template: blog-post.html
 comments:

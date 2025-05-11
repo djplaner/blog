@@ -1,7 +1,14 @@
 ---
-title: "Technology in education: The track record"
+categories:
+- elearning
 date: 2012-10-29 08:38:34+10:00
-categories: ['elearning']
+next:
+  text: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
+  url: /blog2/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/
+previous:
+  text: 'Learning analytics: Anything more than just another fad?'
+  url: /blog2/2012/10/25/learning-analytics-anything-more-than-just-another-fad/
+title: '"Technology in education: The track record"'
 type: post
 template: blog-post.html
 comments:

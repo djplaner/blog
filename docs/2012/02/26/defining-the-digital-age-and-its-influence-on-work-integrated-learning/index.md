@@ -1,7 +1,15 @@
 ---
-title: Defining the digital age and its influence on work integrated learning
+categories:
+- research
 date: 2012-02-26 23:16:31+10:00
-categories: ['research']
+next:
+  text: '"The clash of corporate IT and open source learning management system: a
+    nascent research idea"'
+  url: /blog2/2012/02/27/the-clash-of-corporate-it-and-open-source-learning-management-system-a-nascent-research-idea/
+previous:
+  text: Does school ruin learning?
+  url: /blog2/2012/02/25/does-school-ruin-learning/
+title: Defining the digital age and its influence on work integrated learning
 type: post
 template: blog-post.html
 comments:

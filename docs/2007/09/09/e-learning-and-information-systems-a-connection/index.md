@@ -1,7 +1,14 @@
 ---
-title: E-learning and information systems - a connection?
+categories:
+- thesis
 date: 2007-09-09 12:25:36+10:00
-categories: ['thesis']
+next:
+  text: IS diffusion theory research - hints for e-learning implementation
+  url: /blog2/2007/09/09/is-diffusion-theory-research-hints-for-e-learning-implementation/
+previous:
+  text: Design-based research and theory
+  url: /blog2/2007/09/04/design-based-research-and-theory/
+title: E-learning and information systems - a connection?
 type: post
 template: blog-post.html
 ---

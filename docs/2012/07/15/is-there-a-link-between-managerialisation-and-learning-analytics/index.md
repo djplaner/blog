@@ -1,7 +1,15 @@
 ---
-title: Is there a link between managerialisation and learning analytics?
+categories:
+- elearning
+- learninganalytics-elearning
 date: 2012-07-15 13:33:24+10:00
-categories: ['elearning', 'learninganalytics-elearning']
+next:
+  text: Starting the re-design of EDC3100
+  url: /blog2/2012/07/20/starting-the-re-design-of-edc3100/
+previous:
+  text: Redesigning the weekly ramble
+  url: /blog2/2012/07/15/redesigning-the-weekly-ramble/
+title: Is there a link between managerialisation and learning analytics?
 type: post
 template: blog-post.html
 comments:

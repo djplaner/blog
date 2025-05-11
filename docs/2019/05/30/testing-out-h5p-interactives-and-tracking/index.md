@@ -1,7 +1,15 @@
 ---
-title: Testing out h5p interactives and tracking
+categories:
+- eei
 date: 2019-05-30 08:45:48+10:00
-categories: ['eei']
+next:
+  text: '"Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive
+    templates and CASA"'
+  url: /blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/
+previous:
+  text: Exploring knowledge reuse in design for digital learning
+  url: /blog2/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/
+title: Testing out h5p interactives and tracking
 type: post
 template: blog-post.html
 ---
@@ -11,4 +19,7 @@ By default it appears that h5p/wordpress doesn't really provide anything useful 
 
 [This post](https://www.olivertacke.de/labs/2018/03/25/collecting-and-analyzing-data-with-h5p-and-opening-up-education-maybe/) provides a bit more detail on broader possibilites with xAPI and h5p, including [this Wordpress plugin (h5pxAPIkatchu)](https://wordpress.org/plugins/h5pxapikatchu/#installation). This plugin catches all the xAPI statements emitted by h5p interactives and stores them in the Wordpress database for downloading for analysis.
 
-\[h5p id="10"\]
+
+!!! warning "Outdated content no longer available"
+
+    H5P content no longer available

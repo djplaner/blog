@@ -1,7 +1,15 @@
 ---
-title: And it starts again, edc3100 in 2013
+categories:
+- edc3100
+- teaching
 date: 2013-02-26 11:31:57+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Diagnosing a BIM problem
+  url: /blog2/2013/02/27/diagnosing-a-bim-problem/
+previous:
+  text: The assessment of learning journals - ideas for BIM
+  url: /blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/
+title: And it starts again, edc3100 in 2013
 type: post
 template: blog-post.html
 comments:

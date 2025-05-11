@@ -1,7 +1,16 @@
 ---
-title: A profile of learners in an IPT class
+categories:
+- eded20491
+- ipt
+- teaching
 date: 2011-06-02 10:00:56+10:00
-categories: ['eded20491', 'ipt', 'teaching']
+next:
+  text: Learner profile - ICTs for E-Learning A3 - Part 1
+  url: /blog2/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/
+previous:
+  text: Requirements and ideas for an eLearning design for IPT
+  url: /blog2/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/
+title: A profile of learners in an IPT class
 type: post
 template: blog-post.html
 ---

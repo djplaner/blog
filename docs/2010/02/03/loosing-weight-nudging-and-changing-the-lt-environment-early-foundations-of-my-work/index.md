@@ -1,7 +1,17 @@
 ---
-title: "Loosing weight, nudging and changing the L&#038;T environment - early foundations of my work"
+categories:
+- elearning
+- herding-cats
+- reflectivealignment
 date: 2010-02-03 11:45:56+10:00
-categories: ['elearning', 'herding-cats', 'reflectivealignment']
+next:
+  text: '"BIM - Tidy up #4 - Security checks"'
+  url: /blog2/2010/02/03/bim-tidy-up-4-security-checks/
+previous:
+  text: 'BIM - Tidy up #3'
+  url: /blog2/2010/02/01/bim-tidy-up-3/
+title: '"Loosing weight, nudging and changing the L&#038;T environment - early foundations
+  of my work"'
 type: post
 template: blog-post.html
 comments:

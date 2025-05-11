@@ -1,7 +1,16 @@
 ---
-title: "Homogeneity: the inevitable result of a strategic approach?"
+categories:
+- bad
+- elearning
+- thesis
 date: 2015-08-14 09:57:05+10:00
-categories: ['bad', 'elearning', 'thesis']
+next:
+  text: Bringing github and the Moodle book module together - step 1
+  url: /blog2/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
+previous:
+  text: How might github and the Moodle book module work together
+  url: /blog2/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/
+title: '"Homogeneity: the inevitable result of a strategic approach?"'
 type: post
 template: blog-post.html
 ---

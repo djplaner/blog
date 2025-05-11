@@ -1,8 +1,19 @@
 ---
-title: "Orchestrating entangled relations to stretch the iron triangle: Observations from an LMS migration"
-date: 2022-10-10 09:08:08+10:00
-categories: ['bad', 'casa']
+categories:
+- bad
+- casa
 coverImage: entangled.jpg
+date: 2022-10-10 09:08:08+10:00
+next:
+  text: '"Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
+    delivery of quality learning and teaching"'
+  url: /blog2/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/
+previous:
+  text: 'Orchestrating entangled relations to break the iron triangle: examples from
+    a LMS migration'
+  url: /blog2/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/
+title: '"Orchestrating entangled relations to stretch the iron triangle: Observations
+  from an LMS migration"'
 type: post
 template: blog-post.html
 comments:

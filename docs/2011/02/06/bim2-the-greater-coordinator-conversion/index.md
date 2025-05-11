@@ -1,7 +1,15 @@
 ---
-title: "bim2: the greater coordinator conversion"
+categories:
+- bim
+- bim2
 date: 2011-02-06 23:10:05+10:00
-categories: ['bim', 'bim2']
+next:
+  text: Standardised testing is bad, but what is the alternative?
+  url: /blog2/2011/02/13/standardised-testing-is-bad-but-what-is-the-alternative/
+previous:
+  text: A little bim2 status and planning
+  url: /blog2/2011/02/06/a-little-bim2-status-and-planning/
+title: '"bim2: the greater coordinator conversion"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: How do you increase sharing? Create an interactive website?
+categories:
+- eded20488
+- teaching
 date: 2011-07-04 13:44:02+10:00
-categories: ['eded20488', 'teaching']
+next:
+  text: '"Some considerations around ICTs for learning in the Senior School: initial
+    thoughts and planning"'
+  url: /blog2/2011/07/05/some-considerations-around-icts-for-learning-in-the-senior-school-initial-thoughts-and-planning/
+previous:
+  text: 'The freedom of academia: strategised, KPI&#039;d, and quality assured away'
+  url: /blog2/2011/07/04/the-freedom-of-academia-strategised-kpid-and-quality-assured-away/
+title: How do you increase sharing? Create an interactive website?
 type: post
 template: blog-post.html
 ---

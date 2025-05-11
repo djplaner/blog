@@ -1,8 +1,17 @@
 ---
-title: Am I (or my team) ready to apply for an AAUT?
+categories:
+- eei
 date: 2017-02-16 08:12:50+10:00
-categories: ['eei']
-tags: ['eei']
+next:
+  text: '"Open Educational Practice and Preservice Teacher Education: Understanding
+    past practice and future possibilities"'
+  url: /blog2/2017/02/23/open-educational-practice-and-preservice-teacher-education-understanding-past-practice-and-future-possibilities/
+previous:
+  text: The PEBKAC problems of digital L&T and how to solve it?
+  url: /blog2/2017/02/10/the-pebkac-problem-of-ict-support-and-training/
+tags:
+- eei
+title: Am I (or my team) ready to apply for an AAUT?
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: One-size-fits-all formulas
+categories:
+- elearning
 date: 2013-05-29 11:57:57+10:00
-categories: ['elearning']
+next:
+  text: Changes in links between student posts
+  url: /blog2/2013/05/31/changes-in-links-between-student-posts/
+previous:
+  text: Preparing BIM for Moodle 2.4 (and beyond?)
+  url: /blog2/2013/05/26/preparing-bim-for-moodle-2-4-and-beyond/
+title: One-size-fits-all formulas
 type: post
 template: blog-post.html
 ---

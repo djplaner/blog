@@ -1,7 +1,15 @@
 ---
-title: Traditional buildings in Second Life - hassle to navigate
+categories:
+- secondlife
+- web3dx
 date: 2008-01-10 08:50:42+10:00
-categories: ['secondlife', 'web3dx']
+next:
+  text: '"CQU Learning" - early days of a Second Life island'
+  url: /blog2/2008/01/13/cqu-learning-early-days-of-a-second-life-island/
+previous:
+  text: Getting started in Second Life
+  url: /blog2/2008/01/10/getting-started-in-second-life/
+title: Traditional buildings in Second Life - hassle to navigate
 type: post
 template: blog-post.html
 comments:

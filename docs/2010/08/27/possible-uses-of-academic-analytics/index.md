@@ -1,7 +1,16 @@
 ---
-title: Possible uses of academic analytics
+categories:
+- academicdevelopment
+- elearning
+- indicators
 date: 2010-08-27 16:12:14+10:00
-categories: ['academicdevelopment', 'elearning', 'indicators']
+next:
+  text: The rider, elephant, and shaping the path
+  url: /blog2/2010/08/30/rider-elephant-path/
+previous:
+  text: BIM, blog posts and special characters
+  url: /blog2/2010/08/26/bim-blog-posts-and-special-characters/
+title: Possible uses of academic analytics
 type: post
 template: blog-post.html
 comments:

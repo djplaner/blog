@@ -1,7 +1,15 @@
 ---
-title: Next step for NGL
+categories:
+- edu8117
 date: 2014-07-19 08:49:25+10:00
-categories: ['edu8117']
+next:
+  text: Me as learner - WoW, MMPORGs and learning
+  url: /blog2/2014/07/23/me-as-learner-wow-mmporgs-and-learning/
+previous:
+  text: Designing a course on &quot;Networked and Global Learning&quot; - scope, thoughts
+    and call for suggestions
+  url: /blog2/2014/07/07/designing-a-course-on-networked-and-global-learning-scope-thoughts-and-call-for-suggestions/
+title: Next step for NGL
 type: post
 template: blog-post.html
 ---

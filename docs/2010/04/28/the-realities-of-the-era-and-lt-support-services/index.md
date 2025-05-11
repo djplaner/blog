@@ -1,7 +1,14 @@
 ---
-title: "The realities of the ERA and L&#038;T support services"
+categories:
+- publication
 date: 2010-04-28 14:04:02+10:00
-categories: ['publication']
+next:
+  text: The alignment project as leadership
+  url: /blog2/2010/04/29/the-alignment-project-as-leadership/
+previous:
+  text: Inside out, Outside in or both?
+  url: /blog2/2010/04/25/inside-out-outside-in-or-both/
+title: '"The realities of the ERA and L&#038;T support services"'
 type: post
 template: blog-post.html
 ---

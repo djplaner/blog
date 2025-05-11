@@ -1,7 +1,14 @@
 ---
-title: Making BIM ready for Moodle 2.6
+categories:
+- bim
 date: 2014-05-19 13:39:10+10:00
-categories: ['bim']
+next:
+  text: Tracking task corruption with Moodle activity completion
+  url: /blog2/2014/06/14/tracking-task-corruption-with-moodle-activity-completion/
+previous:
+  text: Does my course suffer from semester droop?
+  url: /blog2/2014/05/09/does-my-course-suffer-from-semester-droop/
+title: Making BIM ready for Moodle 2.6
 type: post
 template: blog-post.html
 ---

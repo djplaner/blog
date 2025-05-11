@@ -1,7 +1,18 @@
 ---
-title: Different perspectives on the purpose of the LMS
+categories:
+- chapter-2
+- design-theory
+- elearning
+- thesis
+- webfuse
 date: 2010-03-12 09:29:48+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'thesis', 'webfuse']
+next:
+  text: The value of lurking - another research idea for the indicators project
+  url: /blog2/2010/03/12/the-value-of-lurking-another-research-idea-for-the-indicators-project/
+previous:
+  text: Focusing on the wrong time frame - a core problem of university L&#038;T?
+  url: /blog2/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
+title: Different perspectives on the purpose of the LMS
 type: post
 template: blog-post.html
 ---

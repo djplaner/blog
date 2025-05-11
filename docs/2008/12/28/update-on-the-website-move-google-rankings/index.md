@@ -1,7 +1,14 @@
 ---
-title: Update on the website move - google rankings
+categories:
+- thesis
 date: 2008-12-28 08:45:05+10:00
-categories: ['thesis']
+next:
+  text: Rotating banner images in Wordpress - the last missing puzzle piece
+  url: /blog2/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/
+previous:
+  text: What tree is this?
+  url: /blog2/2008/12/23/what-tree-is-this/
+title: Update on the website move - google rankings
 type: post
 template: blog-post.html
 comments:

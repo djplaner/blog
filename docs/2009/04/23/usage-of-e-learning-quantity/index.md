@@ -1,7 +1,19 @@
 ---
-title: Usage of e-learning - quantity
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-04-23 13:44:00+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Models of growth - responding to the grammar of school
+  url: /blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
+previous:
+  text: E-learning usage - quality
+  url: /blog2/2009/04/22/e-learning-usage-quality/
+title: Usage of e-learning - quantity
 type: post
 template: blog-post.html
 comments:

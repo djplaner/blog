@@ -1,7 +1,14 @@
 ---
-title: What are the really useful analytics?
+categories:
+- indicators
 date: 2012-03-29 12:31:53+10:00
-categories: ['indicators']
+next:
+  text: Curriculum innovation as an educational technology trend
+  url: /blog2/2012/03/30/curriculum-innovation-as-an-educational-technology-trend/
+previous:
+  text: Explorations of narrative research
+  url: /blog2/2012/03/29/explorations-of-narrative-research/
+title: What are the really useful analytics?
 type: post
 template: blog-post.html
 comments:

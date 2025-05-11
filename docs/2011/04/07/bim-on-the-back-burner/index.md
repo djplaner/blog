@@ -1,7 +1,15 @@
 ---
-title: BIM on the back burner
+categories:
+- bim
+- bim2
 date: 2011-04-07 10:01:18+10:00
-categories: ['bim', 'bim2']
+next:
+  text: '"ICTs for learning design: Group 2 Technologies - The readings"'
+  url: /blog2/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/
+previous:
+  text: 'Group 1 Technologies: Blogs, Wikis and Websites'
+  url: /blog2/2011/04/06/group-1-technologies-blogs-wikis-and-websites/
+title: BIM on the back burner
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: Understanding management students' reflective practice through blogging
+categories:
+- thesis
 date: 2012-12-12 09:21:45+10:00
-categories: ['thesis']
+next:
+  text: Developing personal learning networks for open and social learning
+  url: /blog2/2012/12/14/4668/
+previous:
+  text: Can/will learning analytics challenge the current QA mentality of university
+    teaching
+  url: /blog2/2012/12/11/canwill-learning-analytics-challenge-the-current-qa-mentality-of-university-teaching/
+title: Understanding management students' reflective practice through blogging
 type: post
 template: blog-post.html
 comments:

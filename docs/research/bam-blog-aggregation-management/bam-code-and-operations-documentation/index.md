@@ -1,6 +1,6 @@
 ---
-title: BAM code and operations documentation
 date: 2009-04-07 14:47:04+10:00
+title: BAM code and operations documentation
 type: page
 template: blog-post.html
 ---

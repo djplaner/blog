@@ -1,7 +1,18 @@
 ---
-title: Helping teachers \"know thy students\"
+categories:
+- 4paths
+- bad
+- elearning
+- irac
 date: 2015-09-15 10:06:18+10:00
-categories: ['4paths', 'bad', 'elearning', 'irac']
+next:
+  text: Computers 'do not improve' pupil results, just like wood 'does not improve'
+    houses
+  url: /blog2/2015/09/16/computers-do-not-improve-pupil-results-just-like-wood-does-not-improve-houses/
+previous:
+  text: What might a project combining LX Design and Analaytics look like?
+  url: /blog2/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+title: Helping teachers "know thy students"
 type: post
 template: blog-post.html
 comments:

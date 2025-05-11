@@ -1,7 +1,16 @@
 ---
-title: The absence of a search function - my current big problem with a Moodle installation
+categories:
+- edc3100
+- moodle
+- teaching
 date: 2013-03-07 13:03:42+10:00
-categories: ['edc3100', 'moodle', 'teaching']
+next:
+  text: Many of our students are neither digital natives nor digitally literate
+  url: /blog2/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/
+previous:
+  text: How much of a cage should I build?
+  url: /blog2/2013/03/06/how-much-of-a-cage-should-i-build/
+title: The absence of a search function - my current big problem with a Moodle installation
 type: post
 template: blog-post.html
 comments:

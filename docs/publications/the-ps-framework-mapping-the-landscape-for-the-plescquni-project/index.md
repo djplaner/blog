@@ -1,6 +1,6 @@
 ---
-title: "The Ps Framework: Mapping the landscape for the PLEs@CQUni project"
 date: 2008-10-18 21:32:20+10:00
+title: '"The Ps Framework: Mapping the landscape for the PLEs@CQUni project"'
 type: page
 template: blog-post.html
 comments:

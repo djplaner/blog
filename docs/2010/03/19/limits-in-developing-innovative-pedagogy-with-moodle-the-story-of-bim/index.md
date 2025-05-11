@@ -1,7 +1,14 @@
 ---
-title: "Limits in developing innovative pedagogy with Moodle: The story of BIM"
+categories:
+- bim
 date: 2010-03-19 10:50:56+10:00
-categories: ['bim']
+next:
+  text: Why is University/LMS e-learning so ugly?
+  url: /blog2/2010/03/23/why-is-universitylms-e-learning-so-ugly/
+previous:
+  text: Research Method - Overview
+  url: /blog2/2010/03/18/research-method-overview/
+title: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
 type: post
 template: blog-post.html
 ---

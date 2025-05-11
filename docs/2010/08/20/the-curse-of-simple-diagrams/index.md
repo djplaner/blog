@@ -1,8 +1,20 @@
 ---
-title: The curse of simple diagrams
+categories:
+- thesis
 date: 2010-08-20 16:10:42+10:00
-categories: ['thesis']
-tags: ['association', 'education', 'learning', 'learning-technology', 'technology']
+next:
+  text: Off to see the dinosaurs
+  url: /blog2/2010/08/20/off-to-see-the-dinosaurs/
+previous:
+  text: 'Lessons learned from Webfuse: 2000 onwards'
+  url: /blog2/2010/08/19/lessons-learned-from-webfuse-2000-onwards/
+tags:
+- association
+- education
+- learning
+- learning-technology
+- technology
+title: The curse of simple diagrams
 type: post
 template: blog-post.html
 ---

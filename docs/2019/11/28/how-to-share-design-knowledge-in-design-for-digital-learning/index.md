@@ -1,8 +1,16 @@
 ---
-title: How to share design knowledge in design for digital learning?
-date: 2019-11-28 15:00:19+10:00
-categories: ['casa']
+categories:
+- casa
 coverImage: EuIQOqjU0AIci64-e1629593563872.jpeg
+date: 2019-11-28 15:00:19+10:00
+next:
+  text: It's more than how you use the technology - authoring online content
+  url: /blog2/2019/12/10/its-more-than-how-you-use-the-technology-authoring-online-content/
+previous:
+  text: 'Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive
+    templates and CASA'
+  url: /blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/
+title: How to share design knowledge in design for digital learning?
 type: post
 template: blog-post.html
 ---

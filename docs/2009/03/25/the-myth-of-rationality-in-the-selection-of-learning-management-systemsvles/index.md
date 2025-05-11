@@ -1,7 +1,20 @@
 ---
-title: The myth of rationality in the selection of learning management systems/VLEs
+categories:
+- chapter-2
+- design-theory
+- elearning
+- lmsevaluation
+- phd
+- thesis
 date: 2009-03-25 15:06:14+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'lmsevaluation', 'phd', 'thesis']
+next:
+  text: '""One ring to rule them all": Limitations and implications of the LMS/VLE
+    product model"'
+  url: /blog2/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
+previous:
+  text: '&quot;Blame the teacher&quot; isn&#039;t new to technology-mediated learning'
+  url: /blog2/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/
+title: The myth of rationality in the selection of learning management systems/VLEs
 type: post
 template: blog-post.html
 comments:

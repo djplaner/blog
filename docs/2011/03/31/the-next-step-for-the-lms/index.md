@@ -1,8 +1,20 @@
 ---
-title: The next step for the LMS?
+categories:
+- thesis
 date: 2011-03-31 08:00:52+10:00
-categories: ['thesis']
-tags: ['learning', 'learning-objects', 'seriously', 'someone', 'stopped']
+next:
+  text: '"Pedagogical Content Knowledge: Week 4"'
+  url: /blog2/2011/03/31/pedagogical-content-knowledge-week-4/
+previous:
+  text: 'Supportive Learning Environments: Week 3, 4, 5 and 6'
+  url: /blog2/2011/03/30/supportive-learning-environments-week-3-4-5-and-6/
+tags:
+- learning
+- learning-objects
+- seriously
+- someone
+- stopped
+title: The next step for the LMS?
 type: post
 template: blog-post.html
 comments:

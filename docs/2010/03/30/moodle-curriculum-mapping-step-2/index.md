@@ -1,7 +1,14 @@
 ---
-title: Moodle curriculum mapping - Step 2
+categories:
+- curriculummapping-cddu
 date: 2010-03-30 09:46:11+10:00
-categories: ['curriculummapping-cddu']
+next:
+  text: Elevator pitch for "Moodle curriculum mapping"
+  url: /blog2/2010/04/01/elevator-pitch-for-curriculum-mapping/
+previous:
+  text: Moodle, Oracle, blobs and MS-Word - problem and solution?
+  url: /blog2/2010/03/26/moodle-oracle-blobs-and-ms-word-problem-and-solution/
+title: Moodle curriculum mapping - Step 2
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Initial rationale and ideas for \"continuous improvement\" of learning and teaching
+categories:
+- bad
+- eep
 date: 2015-02-18 12:57:07+10:00
-categories: ['bad', 'eep']
+next:
+  text: Organising a change in session time
+  url: /blog2/2015/02/19/organising-a-change-in-session-time/
+previous:
+  text: How to help improve the Moodle book module
+  url: /blog2/2015/02/10/how-to-help-improve-the-moodle-book-module/
+title: Initial rationale and ideas for "continuous improvement" of learning and teaching
 type: post
 template: blog-post.html
 ---

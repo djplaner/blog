@@ -1,7 +1,14 @@
 ---
-title: Moodle, outcomes, metadata and curriculum mapping
+categories:
+- curriculummapping-cddu
 date: 2010-03-10 10:21:33+10:00
-categories: ['curriculummapping-cddu']
+next:
+  text: Webfuse is dead! Long live Webfuse!
+  url: /blog2/2010/03/10/webfuse-is-dead-long-live-webfuse/
+previous:
+  text: Outcomes and Moodle
+  url: /blog2/2010/03/09/outcomes-and-moodle/
+title: Moodle, outcomes, metadata and curriculum mapping
 type: post
 template: blog-post.html
 comments:

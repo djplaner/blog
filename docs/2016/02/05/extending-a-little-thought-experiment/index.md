@@ -1,8 +1,18 @@
 ---
-title: Extending a little thought experiment
+categories:
+- thesis
 date: 2016-02-05 12:41:47+10:00
-categories: ['thesis']
-tags: ['bad', 'elearning', 'personalisation']
+next:
+  text: Exploring the relationship between learning design and OEP
+  url: /blog2/2016/02/09/on-the-relationship-between-learning-design-and-oep/
+previous:
+  text: Using social bookmarking to enrich the learning environment
+  url: /blog2/2016/02/04/using-social-bookmarking-to-enrich-the-learning-environment/
+tags:
+- bad
+- elearning
+- personalisation
+title: Extending a little thought experiment
 type: post
 template: blog-post.html
 ---

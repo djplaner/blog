@@ -1,7 +1,15 @@
 ---
-title: "Choosing a research publication outlet: Part II"
+categories:
+- bambimbad
+- research
 date: 2015-01-14 15:38:30+10:00
-categories: ['bambimbad', 'research']
+next:
+  text: Learning about case study methodology to research higher education
+  url: /blog2/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/
+previous:
+  text: This year it&#039;s all about the connections
+  url: /blog2/2015/01/13/this-year-its-all-about-the-connections/
+title: '"Choosing a research publication outlet: Part II"'
 type: post
 template: blog-post.html
 comments:

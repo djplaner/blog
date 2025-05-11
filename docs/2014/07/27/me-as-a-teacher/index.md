@@ -1,7 +1,14 @@
 ---
-title: Me as a teacher
+categories:
+- edu8117
 date: 2014-07-27 11:40:55+10:00
-categories: ['edu8117']
+next:
+  text: Give them a fish, or teach them to fish?
+  url: /blog2/2014/07/27/give-them-a-fish-or-teach-them-to-fish/
+previous:
+  text: Identity, community and trajectories - Jawitz (2009)
+  url: /blog2/2014/07/26/identity-community-and-trajectories-jawitz-2009/
+title: Me as a teacher
 type: post
 template: blog-post.html
 comments:

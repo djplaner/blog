@@ -1,7 +1,16 @@
 ---
-title: How people learn and implications for academic development
+categories:
+- academicdevelopment
+- herding-cats
+- highereducation
 date: 2010-08-19 09:07:23+10:00
-categories: ['academicdevelopment', 'herding-cats', 'highereducation']
+next:
+  text: Learning with an open course - a case study?
+  url: /blog2/2010/08/19/learning-with-an-open-course-a-case-study/
+previous:
+  text: Analysing the business model for higher education and why they can&#039;t
+  url: /blog2/2010/08/15/analysing-the-business-model-for-higher-education-and-why-they-cant/
+title: How people learn and implications for academic development
 type: post
 template: blog-post.html
 comments:

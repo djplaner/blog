@@ -1,6 +1,6 @@
 ---
-title: Three generations of online assignment management
 date: 2009-01-01 14:31:53+10:00
+title: Three generations of online assignment management
 type: page
 template: blog-post.html
 comments:

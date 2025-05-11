@@ -1,7 +1,15 @@
 ---
-title: Increasing weak ties, not strong - improving learning and teaching
+categories:
+- curriculumdesign
+- elearning
 date: 2010-01-26 07:58:51+10:00
-categories: ['curriculumdesign', 'elearning']
+next:
+  text: BIM - sending results to the gradebook
+  url: /blog2/2010/01/26/bim-sending-results-to-the-gradebook/
+previous:
+  text: BIM - Allocating markers
+  url: /blog2/2010/01/24/bim-allocating-markers/
+title: Increasing weak ties, not strong - improving learning and teaching
 type: post
 template: blog-post.html
 ---

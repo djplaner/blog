@@ -1,8 +1,20 @@
 ---
-title: An information systems design theory for e-learning
+categories:
+- design-theory
+- elearning
+- missingps
+- thesis
 date: 2009-02-21 03:58:09+10:00
-categories: ['design-theory', 'elearning', 'missingps', 'thesis']
-tags: ['lms-cms']
+next:
+  text: '"An ISDT for e-learning" - Audio is now synchronized'
+  url: /blog2/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
+previous:
+  text: Reliability - an argument against using Web 2.0 services in learning? Probably
+    not.
+  url: /blog2/2009/02/18/reliability-an-argument-against-using-web-20-services-in-learning/
+tags:
+- lms-cms
+title: An information systems design theory for e-learning
 type: post
 template: blog-post.html
 comments:

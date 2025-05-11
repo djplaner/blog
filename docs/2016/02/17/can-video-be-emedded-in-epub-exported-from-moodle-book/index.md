@@ -1,7 +1,14 @@
 ---
-title: "Can video be emedded in ePub exported from #moodle book?"
+categories:
+- bad
 date: 2016-02-17 10:56:53+10:00
-categories: ['bad']
+next:
+  text: Open educational practice beyond the institution?
+  url: /blog2/2016/02/22/open-educational-practice-beyond-the-institution/
+previous:
+  text: Sentiment analysis of student blog posts
+  url: /blog2/2016/02/14/sentiment-analysis-of-student-blog-posts/
+title: '"Can video be emedded in ePub exported from #moodle book?"'
 type: post
 template: blog-post.html
 comments:

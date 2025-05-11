@@ -1,7 +1,19 @@
 ---
-title: The design and implementation of Webfuse - Part 3
+categories:
+- chapter-4
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2009-07-29 23:53:00+10:00
-categories: ['chapter-4', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: '"BAM into Moodle #8 - finishing the eStudyGuide building block"'
+  url: /blog2/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
+previous:
+  text: The design and implementation of Webfuse - Part 2
+  url: /blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-2/
+title: The design and implementation of Webfuse - Part 3
 type: post
 template: blog-post.html
 ---

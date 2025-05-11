@@ -1,7 +1,14 @@
 ---
-title: Compliance cultures and transforming the quality of e-learning
+categories:
+- thesis
 date: 2012-09-29 12:10:22+10:00
-categories: ['thesis']
+next:
+  text: Three likely paths for learning analytics and academics
+  url: /blog2/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/
+previous:
+  text: 'Chasing dreams and recognising realities: teachers&#039; responses to ICT'
+  url: /blog2/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/
+title: Compliance cultures and transforming the quality of e-learning
 type: post
 template: blog-post.html
 comments:

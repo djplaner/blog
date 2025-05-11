@@ -1,8 +1,17 @@
 ---
-title: "Getting back into BIM: Summary and way forward"
+categories:
+- bam
+- elearning
 date: 2009-12-14 14:23:41+10:00
-categories: ['bam', 'elearning']
-tags: ['bim']
+next:
+  text: Here come the indicators, wait for the task corruption
+  url: /blog2/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/
+previous:
+  text: 'The Innovation Prevention Department: Why?'
+  url: /blog2/2009/12/11/the-innovation-prevention-department-why/
+tags:
+- bim
+title: '"Getting back into BIM: Summary and way forward"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Herding cats, losing weight and how to improve learning and teaching
+categories:
+- reflectivealignment
 date: 2009-08-18 09:32:02+10:00
-categories: ['reflectivealignment']
+next:
+  text: Nudging as paternalism
+  url: /blog2/2009/08/18/nudging-as-paternalism/
+previous:
+  text: Lessons for e-learning from people
+  url: /blog2/2009/08/17/lessons-for-e-learning-from-people/
+title: Herding cats, losing weight and how to improve learning and teaching
 type: post
 template: blog-post.html
 ---

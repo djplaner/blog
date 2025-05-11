@@ -1,7 +1,20 @@
 ---
-title: "Making the LMS more like the Globe Theatre: distributed cognition, the extended mind and Moodle"
+categories:
+- bim
+- design-theory
+- elearning
+- moodle
+- phd
+- thesis
 date: 2010-10-06 16:58:54+10:00
-categories: ['bim', 'design-theory', 'elearning', 'moodle', 'phd', 'thesis']
+next:
+  text: The problem with blended learning
+  url: /blog2/2010/10/13/the-problem-with-blended-learning/
+previous:
+  text: The nature of user involvement in LMS selection and implementation
+  url: /blog2/2010/09/28/the-nature-of-user-involvement-in-lms-selection-and-implementation/
+title: '"Making the LMS more like the Globe Theatre: distributed cognition, the extended
+  mind and Moodle"'
 type: post
 template: blog-post.html
 comments:

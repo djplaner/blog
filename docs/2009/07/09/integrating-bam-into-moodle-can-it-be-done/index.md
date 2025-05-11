@@ -1,7 +1,14 @@
 ---
-title: Integrating BAM into Moodle - Can it be done?
+categories:
+- bam
 date: 2009-07-09 15:14:35+10:00
-categories: ['bam']
+next:
+  text: BAM and the Chinese "firewall"
+  url: /blog2/2009/07/15/bam-and-the-chinese-firewall/
+previous:
+  text: Academics - the next part of the People section
+  url: /blog2/2009/07/07/academics-the-next-part-of-the-people-section/
+title: Integrating BAM into Moodle - Can it be done?
 type: post
 template: blog-post.html
 ---

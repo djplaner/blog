@@ -1,7 +1,15 @@
 ---
-title: Getting back into maths - it is not linear
+categories:
+- math
+- teaching
 date: 2010-11-15 17:46:51+10:00
-categories: ['math', 'teaching']
+next:
+  text: EduFeedr is live. BIM for open blog courses
+  url: /blog2/2010/11/16/edufeedr-is-live-bim-for-open-blog-courses/
+previous:
+  text: Delving into institutional information systems
+  url: /blog2/2010/11/12/delving-into-institutional-information-systems/
+title: Getting back into maths - it is not linear
 type: post
 template: blog-post.html
 comments:

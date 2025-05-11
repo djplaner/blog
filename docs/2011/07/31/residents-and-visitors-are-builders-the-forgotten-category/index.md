@@ -1,7 +1,14 @@
 ---
-title: Residents and visitors, are builders the forgotten category?
+categories:
+- thesis
 date: 2011-07-31 15:50:03+10:00
-categories: ['thesis']
+next:
+  text: One analysis of the Digital Education Revolution
+  url: /blog2/2011/08/01/one-analysis-of-the-digital-education-revolution/
+previous:
+  text: What story do the numbers tell?
+  url: /blog2/2011/07/24/what-story-do-the-numbers-tell/
+title: Residents and visitors, are builders the forgotten category?
 type: post
 template: blog-post.html
 comments:

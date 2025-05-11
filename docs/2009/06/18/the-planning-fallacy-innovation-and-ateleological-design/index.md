@@ -1,7 +1,19 @@
 ---
-title: The planning fallacy, innovation and ateleological design
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-06-18 11:38:14+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Examination focus and what it might tell us about learning and teaching
+  url: /blog2/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
+previous:
+  text: What can history tell us about e-learning and its future?
+  url: /blog2/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+title: The planning fallacy, innovation and ateleological design
 type: post
 template: blog-post.html
 ---

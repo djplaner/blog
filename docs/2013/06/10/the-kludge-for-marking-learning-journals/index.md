@@ -1,7 +1,16 @@
 ---
-title: The kludge for marking learning journals
+categories:
+- bim
+- edc3100
+- elearning
 date: 2013-06-10 11:08:53+10:00
-categories: ['bim', 'edc3100', 'elearning']
+next:
+  text: Mobile video to enhance the Work Integrated Learning of pre-service teachers
+  url: /blog2/2013/06/13/mobile-video-to-enhance-the-work-integrated-learning-of-pre-service-teachers/
+previous:
+  text: Learning analytics, intervention and helping teachers
+  url: /blog2/2013/06/07/learning-analytics-intervention-and-helping-teachers/
+title: The kludge for marking learning journals
 type: post
 template: blog-post.html
 comments:

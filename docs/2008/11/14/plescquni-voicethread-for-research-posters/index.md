@@ -1,7 +1,16 @@
 ---
-title: PLEs@CQUni - VoiceThread for Research Posters
+categories:
+- elearning
+- ple
+- plescquni
 date: 2008-11-14 09:01:52+10:00
-categories: ['elearning', 'ple', 'plescquni']
+next:
+  text: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
+  url: /blog2/2008/11/15/plescquni-origins-rationale-and-outcomes-so-far/
+previous:
+  text: Another assumption which PLEs over throws
+  url: /blog2/2008/11/13/another-assumption-which-ples-over-throws/
+title: PLEs@CQUni - VoiceThread for Research Posters
 type: post
 template: blog-post.html
 ---

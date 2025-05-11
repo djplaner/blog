@@ -1,7 +1,19 @@
 ---
-title: An integrated OLE
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-06-26 15:39:30+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Examining feature adoption - slightly better approach
+  url: /blog2/2010/07/01/examining-feature-adoption-slightly-better-approach/
+previous:
+  text: Default course sites and wizards - version 2.0
+  url: /blog2/2010/06/25/default-course-sites-and-wizards-version-2-0/
+title: An integrated OLE
 type: post
 template: blog-post.html
 ---

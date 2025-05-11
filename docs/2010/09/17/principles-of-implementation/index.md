@@ -1,7 +1,15 @@
 ---
-title: Principles of implementation
+categories:
+- thesis
 date: 2010-09-17 11:00:35+10:00
-categories: ['thesis']
+next:
+  text: Justificatory knowledge
+  url: /blog2/2010/09/17/justificatory-knowledge/
+previous:
+  text: Alan Kay and some reasons why the educational technology revolution hasn&#039;t
+    happened
+  url: /blog2/2010/09/16/alan-kay-and-some-reasons-why-the-educational-technology-revolution-hasnt-happened/
+title: Principles of implementation
 type: post
 template: blog-post.html
 ---

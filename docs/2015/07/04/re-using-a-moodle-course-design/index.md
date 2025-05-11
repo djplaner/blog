@@ -1,7 +1,15 @@
 ---
-title: "Re-using a #moodle course design"
+categories:
+- eds4406
+- moodle
 date: 2015-07-04 16:25:51+10:00
-categories: ['eds4406', 'moodle']
+next:
+  text: Does branding the LMS hurt learning
+  url: /blog2/2015/07/07/does-branding-the-lms-hurt-learning/
+previous:
+  text: Can the Moodle book module be made open and other enhancements
+  url: /blog2/2015/07/03/can-the-moodle-book-module-be-made-open-and-other-enhancements/
+title: '"Re-using a #moodle course design"'
 type: post
 template: blog-post.html
 ---

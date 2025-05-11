@@ -1,7 +1,15 @@
 ---
-title: "bim2: Starting on the coordinator models"
+categories:
+- bim
+- bim2
 date: 2011-02-13 11:56:34+10:00
-categories: ['bim', 'bim2']
+next:
+  text: On the potential flexibility of open source LMS and its limits
+  url: /blog2/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
+previous:
+  text: Standardised testing is bad, but what is the alternative?
+  url: /blog2/2011/02/13/standardised-testing-is-bad-but-what-is-the-alternative/
+title: '"bim2: Starting on the coordinator models"'
 type: post
 template: blog-post.html
 comments:

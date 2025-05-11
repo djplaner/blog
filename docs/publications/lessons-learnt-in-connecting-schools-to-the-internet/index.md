@@ -1,6 +1,6 @@
 ---
-title: Lessons learnt in connecting schools to the Internet
 date: 2009-01-02 12:45:16+10:00
+title: Lessons learnt in connecting schools to the Internet
 type: page
 template: blog-post.html
 ---

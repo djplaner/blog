@@ -1,7 +1,15 @@
 ---
-title: Helping create innovative, good quality learning and teaching
+categories:
+- ascilitementor
+- emd
 date: 2007-06-10 20:59:24+10:00
-categories: ['ascilitementor', 'emd']
+next:
+  text: CQU's first Web 2.0 course site?
+  url: /blog2/2007/06/12/cqus-first-web-20-course-site/
+previous:
+  text: Governance, e-learning and learning design
+  url: /blog2/2007/06/08/governance-e-learning-and-learning-design/
+title: Helping create innovative, good quality learning and teaching
 type: post
 template: blog-post.html
 comments:

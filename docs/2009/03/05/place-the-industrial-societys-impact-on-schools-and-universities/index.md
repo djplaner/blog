@@ -1,7 +1,17 @@
 ---
-title: Place - the industrial society's impact on schools - and universities?
+categories:
+- chapter-2
+- design-theory
+- elearning
+- thesis
 date: 2009-03-05 10:17:10+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'thesis']
+next:
+  text: The IRIS model of Technology Adoption - neat and incomplete?
+  url: /blog2/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
+previous:
+  text: The insanity of changing LMSes/VLEs
+  url: /blog2/2009/03/04/the-insanity-of-changing-lmsesvles/
+title: Place - the industrial society's impact on schools - and universities?
 type: post
 template: blog-post.html
 ---

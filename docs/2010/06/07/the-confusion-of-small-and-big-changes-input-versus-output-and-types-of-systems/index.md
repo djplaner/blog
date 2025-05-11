@@ -1,7 +1,19 @@
 ---
-title: The confusion of small and big changes
+categories:
+- chapter-5
+- elearning
+- herding-cats
+- reflectivealignment
+- thesis
+- webfuse
 date: 2010-06-07 13:29:24+10:00
-categories: ['chapter-5', 'elearning', 'herding-cats', 'reflectivealignment', 'thesis', 'webfuse']
+next:
+  text: Default course sites and wizards
+  url: /blog2/2010/06/07/default-course-sites-and-wizards/
+previous:
+  text: The Wf Framework
+  url: /blog2/2010/06/07/the-wf-framework/
+title: The confusion of small and big changes
 type: post
 template: blog-post.html
 comments:

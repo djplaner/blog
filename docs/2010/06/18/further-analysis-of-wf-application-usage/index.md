@@ -1,7 +1,20 @@
 ---
-title: Further analysis of wf application usage
+categories:
+- chapter-5
+- design-theory
+- elearning
+- indicators
+- phd
+- thesis
+- webfuse
 date: 2010-06-18 15:48:30+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'indicators', 'phd', 'thesis', 'webfuse']
+next:
+  text: Flexible and support diversity
+  url: /blog2/2010/06/21/flexible-and-support-diversity/
+previous:
+  text: Some rough Webfuse usage statistics - 2001 through 2009
+  url: /blog2/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/
+title: Further analysis of wf application usage
 type: post
 template: blog-post.html
 comments:

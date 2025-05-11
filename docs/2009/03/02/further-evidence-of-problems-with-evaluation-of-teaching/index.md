@@ -1,7 +1,14 @@
 ---
-title: Further evidence of problems with evaluation of teaching
+categories:
+- quotes
 date: 2009-03-02 20:36:37+10:00
-categories: ['quotes']
+next:
+  text: Task corruption in teaching @ university - negative impact of Place?
+  url: /blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
+previous:
+  text: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
+  url: /blog2/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
+title: Further evidence of problems with evaluation of teaching
 type: post
 template: blog-post.html
 comments:

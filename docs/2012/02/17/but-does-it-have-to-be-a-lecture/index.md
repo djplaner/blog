@@ -1,7 +1,14 @@
 ---
-title: But does it have to be a lecture?
+categories:
+- teaching
 date: 2012-02-17 11:21:02+10:00
-categories: ['teaching']
+next:
+  text: The process of designing a "Web 2.0" introduction
+  url: /blog2/2012/02/17/the-process-of-designing-a-web-2-0-introduction/
+previous:
+  text: Are teacher preparation programs dangerously irrelevant?
+  url: /blog2/2012/02/16/are-teacher-preparation-programs-dangerously-irrelevant/
+title: But does it have to be a lecture?
 type: post
 template: blog-post.html
 comments:

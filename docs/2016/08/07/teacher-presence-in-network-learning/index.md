@@ -1,7 +1,15 @@
 ---
-title: Teacher presence in network learning
+categories:
+- edc3100
+- edu8117
 date: 2016-08-07 15:35:39+10:00
-categories: ['edc3100', 'edu8117']
+next:
+  text: How many digital devices do you have?
+  url: /blog2/2016/08/12/how-many-digital-devices-do-you-have/
+previous:
+  text: 'Open Educational Practice: the boring way and more interesting ways'
+  url: /blog2/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
+title: Teacher presence in network learning
 type: post
 template: blog-post.html
 ---

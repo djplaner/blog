@@ -1,7 +1,14 @@
 ---
-title: Learning journal, activity completion and nudge analytics
+categories:
+- edc3100
 date: 2014-07-31 11:06:15+10:00
-categories: ['edc3100']
+next:
+  text: Emergence, improvisation and course design
+  url: /blog2/2014/07/31/emergence-improvisation-and-course-design/
+previous:
+  text: A bit more exploration of identity
+  url: /blog2/2014/07/29/a-bit-more-exploration-of-identity/
+title: Learning journal, activity completion and nudge analytics
 type: post
 template: blog-post.html
 comments:

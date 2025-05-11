@@ -1,7 +1,15 @@
 ---
-title: Teachers as designers of technology enhance learning?
+categories:
+- bad
+- tpack
 date: 2015-10-06 12:25:43+10:00
-categories: ['bad', 'tpack']
+next:
+  text: Technology required by teachers to customise technology-enhanced units
+  url: /blog2/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
+previous:
+  text: 'University e-learning: Removing context and adding sediment'
+  url: /blog2/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+title: Teachers as designers of technology enhance learning?
 type: post
 template: blog-post.html
 comments:

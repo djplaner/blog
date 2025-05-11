@@ -1,7 +1,15 @@
 ---
-title: Using the NetSpot Innovation fund to enhance bim
+categories:
+- bim
 date: 2012-08-07 09:23:47+10:00
-categories: ['bim']
+next:
+  text: Lessons for the meta-level of networked learning?
+  url: /blog2/2012/08/13/lessons-for-the-meta-level-of-networked-learning/
+previous:
+  text: 'Enabling academics to apply learning analytics to individual pedagogical
+    practice: how and with what impacts?'
+  url: /blog2/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
+title: Using the NetSpot Innovation fund to enhance bim
 type: post
 template: blog-post.html
 ---

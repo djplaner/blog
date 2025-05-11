@@ -1,7 +1,20 @@
 ---
-title: Is there value in strategic plans for educational technology
+categories:
+- chapter-2
+- elearning
+- herding-cats
+- innovation
+- phd
+- psframework
+- thesis
 date: 2009-10-09 09:07:46+10:00
-categories: ['chapter-2', 'elearning', 'herding-cats', 'innovation', 'phd', 'psframework', 'thesis']
+next:
+  text: '"The learning pyramid: true, false, hoax or myth?"'
+  url: /blog2/2009/10/11/the-learning-pyramid-true-false-hoax-or-myth/
+previous:
+  text: 'Call for participation: Getting the real stories of LMS evaluations?'
+  url: /blog2/2009/10/07/call-for-participation-getting-the-real-stories-of-lms-evaluations/
+title: Is there value in strategic plans for educational technology
 type: post
 template: blog-post.html
 ---

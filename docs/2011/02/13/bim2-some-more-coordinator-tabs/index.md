@@ -1,7 +1,15 @@
 ---
-title: "bim2: Some more coordinator tabs"
+categories:
+- bim
+- bim2
 date: 2011-02-13 23:17:19+10:00
-categories: ['bim', 'bim2']
+next:
+  text: Getting an overview of the term ahead
+  url: /blog2/2011/02/15/getting-an-overview-of-the-term-ahead/
+previous:
+  text: On the potential flexibility of open source LMS and its limits
+  url: /blog2/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
+title: '"bim2: Some more coordinator tabs"'
 type: post
 template: blog-post.html
 ---

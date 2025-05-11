@@ -1,8 +1,18 @@
 ---
-title: It is official - a best publication for IS in 2007
+categories:
+- chapter-3
+- design-theory
+- thesis
 date: 2008-12-22 10:03:39+10:00
-categories: ['chapter-3', 'design-theory', 'thesis']
-tags: ['isdt-is']
+next:
+  text: An introduction to Linux Systems administration - 1st and 4th editions
+  url: /blog2/2008/12/22/an-introduction-to-linux-systems-administration-4th-edition/
+previous:
+  text: Sunday (Dec 14) - Welcoming guests and Notre Dame
+  url: /blog2/2008/12/16/sunday-dec-14-welcoming-guests-and-notre-dame/
+tags:
+- isdt-is
+title: It is official - a best publication for IS in 2007
 type: post
 template: blog-post.html
 comments:

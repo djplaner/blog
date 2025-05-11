@@ -1,7 +1,14 @@
 ---
-title: Aligning learning analytics with learning design
+categories:
+- learninganalytics-elearning
 date: 2013-08-14 14:56:10+10:00
-categories: ['learninganalytics-elearning']
+next:
+  text: Neither strategy nor "space" to innovate is enough
+  url: /blog2/2013/08/16/neither-strategy-nor-space-to-innovate-is-enough/
+previous:
+  text: Bugger analytics, just give me useful information
+  url: /blog2/2013/08/12/bugger-analytics-just-give-me-useful-information/
+title: Aligning learning analytics with learning design
 type: post
 template: blog-post.html
 comments:

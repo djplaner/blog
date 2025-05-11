@@ -1,7 +1,15 @@
 ---
-title: Evaluating EDC3100 in 2013 - step 1
+categories:
+- edc3100
 date: 2014-01-13 10:04:59+10:00
-categories: ['edc3100']
+next:
+  text: Getting started with NVivo
+  url: /blog2/2014/01/14/getting-started-with-nvivo/
+previous:
+  text: Missing affordances - A partial explanation for the quality of University
+    L&#038;T
+  url: /blog2/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/
+title: Evaluating EDC3100 in 2013 - step 1
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: "PhD Update #25: A return to discipline?"
+categories:
+- phd
+- thesis
 date: 2010-04-02 18:13:06+10:00
-categories: ['phd', 'thesis']
+next:
+  text: What are good designs/design principles for Moodle
+  url: /blog2/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
+previous:
+  text: Moodle curriculum mapping - Step 3
+  url: /blog2/2010/04/02/moodle-curriculum-mapping-step-3/
+title: '"PhD Update #25: A return to discipline?"'
 type: post
 template: blog-post.html
 comments:

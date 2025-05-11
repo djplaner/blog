@@ -1,6 +1,12 @@
 ---
-title: What am I doing?
 date: 2009-12-01 12:53:27+10:00
+next:
+  text: What research groups are looking at the future of education
+  url: /blog2/2009/12/01/what-research-groups-are-looking-at-the-future-of-education/
+previous:
+  text: Any one for a grant application/research project?
+  url: /blog2/2009/11/27/any-one-for-a-grant-applicationresearch-project/
+title: What am I doing?
 type: post
 template: blog-post.html
 ---

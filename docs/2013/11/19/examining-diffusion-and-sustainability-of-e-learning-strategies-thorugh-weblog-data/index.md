@@ -1,7 +1,18 @@
 ---
-title: Examining diffusion and sustainability of e-learning strategies thorugh weblog data
+categories:
+- elearning
+- indicators
+- irac
+- learninganalytics-elearning
 date: 2013-11-19 14:01:16+10:00
-categories: ['elearning', 'indicators', 'irac', 'learninganalytics-elearning']
+next:
+  text: The external validity problem
+  url: /blog2/2013/11/22/the-external-validity-problem/
+previous:
+  text: Approaches for literature analysis
+  url: /blog2/2013/11/15/approaches-for-literature-analysis/
+title: Examining diffusion and sustainability of e-learning strategies thorugh weblog
+  data
 type: post
 template: blog-post.html
 comments:

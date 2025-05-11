@@ -1,7 +1,14 @@
 ---
-title: UC Berkeley already using Google Video
+categories:
+- web-20-course-sites
 date: 2006-09-28 11:52:44+10:00
-categories: ['web-20-course-sites']
+next:
+  text: FERPA as a barrier to open communication
+  url: /blog2/2006/09/29/ferpa-as-a-barrier-to-open-communication/
+previous:
+  text: Social computing
+  url: /blog2/2006/09/28/social-computering/
+title: UC Berkeley already using Google Video
 type: post
 template: blog-post.html
 ---

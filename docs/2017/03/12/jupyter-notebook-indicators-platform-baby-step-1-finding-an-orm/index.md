@@ -1,7 +1,14 @@
 ---
-title: "Jupyter notebook indicators platform: Baby step #1 - Finding an ORM"
+categories:
+- indicators
 date: 2017-03-12 22:30:50+10:00
-categories: ['indicators']
+next:
+  text: Sharing "indicators platform" via github
+  url: /blog2/2017/03/13/sharing-indicators-platform-via-github/
+previous:
+  text: Playing with Python and Jupyter notebooks for analytics
+  url: /blog2/2017/03/12/playing-with-python-and-jupyter-notebooks-for-analytics/
+title: '"Jupyter notebook indicators platform: Baby step #1 - Finding an ORM"'
 type: post
 template: blog-post.html
 ---

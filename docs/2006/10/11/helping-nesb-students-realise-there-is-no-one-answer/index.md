@@ -1,7 +1,14 @@
 ---
-title: Helping \"NESB\" students realise - there is no one answer
+categories:
+- bam
 date: 2006-10-11 08:36:44+10:00
-categories: ['bam']
+next:
+  text: IS as the initiator of new topics in business schools
+  url: /blog2/2006/10/12/is-as-the-initiator-of-new-topics-in-business-schools/
+previous:
+  text: When will enterprises truly embrace Enterprise 2.0 applications?
+  url: /blog2/2006/10/10/when-will-enterprises-truly-embrace-enterprise-20-applications/
+title: Helping "NESB" students realise - there is no one answer
 type: post
 template: blog-post.html
 ---

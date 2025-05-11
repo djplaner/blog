@@ -1,7 +1,15 @@
 ---
-title: Building a CASA for student evaluation of teaching results
+categories:
+- bad
+- casa
 date: 2016-05-18 09:09:52+10:00
-categories: ['bad', 'casa']
+next:
+  text: Automating a SET leaderboard
+  url: /blog2/2016/05/23/automating-a-set-leaderboard/
+previous:
+  text: Organizing for Innovation in the Digitized world
+  url: /blog2/2016/05/16/organizing-for-innovation-in-the-digitized-world/
+title: Building a CASA for student evaluation of teaching results
 type: post
 template: blog-post.html
 ---

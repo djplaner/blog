@@ -1,7 +1,16 @@
 ---
-title: Does learning about teaching in formal education match this?
+categories:
+- 4paths
+- bad
+- netgl
 date: 2015-08-06 12:30:43+10:00
-categories: ['4paths', 'bad', 'netgl']
+next:
+  text: Changing "as learner" focus - analytics to "chamber music"
+  url: /blog2/2015/08/09/changing-as-learner-focus-analytics-to-chamber-music/
+previous:
+  text: An experiment with the oerpub editor
+  url: /blog2/2015/08/03/an-experiment-with-the-oerpub-editor/
+title: Does learning about teaching in formal education match this?
 type: post
 template: blog-post.html
 ---

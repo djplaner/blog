@@ -1,7 +1,15 @@
 ---
-title: "Established versus Affordances: part of the reason institutional e-learning is like teenage sex"
+categories:
+- bad
 date: 2014-11-07 10:29:06+10:00
-categories: ['bad']
+next:
+  text: Adding more student information to a Moodle course
+  url: /blog2/2014/11/13/adding-more-student-information-to-a-moodle-course/
+previous:
+  text: Some more tweaks to gradebook
+  url: /blog2/2014/11/05/some-more-tweaks-to-gradebook/
+title: '"Established versus Affordances: part of the reason institutional e-learning
+  is like teenage sex"'
 type: post
 template: blog-post.html
 comments:

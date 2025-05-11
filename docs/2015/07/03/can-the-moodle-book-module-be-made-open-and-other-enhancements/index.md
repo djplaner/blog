@@ -1,7 +1,14 @@
 ---
-title: Can the Moodle book module be made open and other enhancements
+categories:
+- moodleopenbook
 date: 2015-07-03 15:44:31+10:00
-categories: ['moodleopenbook']
+next:
+  text: '"Re-using a #moodle course design"'
+  url: /blog2/2015/07/04/re-using-a-moodle-course-design/
+previous:
+  text: Re-building results processing
+  url: /blog2/2015/07/01/re-building-results-processing/
+title: Can the Moodle book module be made open and other enhancements
 type: post
 template: blog-post.html
 comments:

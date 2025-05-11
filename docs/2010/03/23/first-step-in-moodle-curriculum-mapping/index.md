@@ -1,7 +1,14 @@
 ---
-title: First step in \"Moodle curriculum mapping\"
+categories:
+- curriculummapping-cddu
 date: 2010-03-23 14:13:24+10:00
-categories: ['curriculummapping-cddu']
+next:
+  text: The suffocating straightjackets of liberating ideas
+  url: /blog2/2010/03/24/the-suffocating-straightjackets-of-liberating-ideas/
+previous:
+  text: Why is University/LMS e-learning so ugly?
+  url: /blog2/2010/03/23/why-is-universitylms-e-learning-so-ugly/
+title: First step in "Moodle curriculum mapping"
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: What should a LMS evaluation consider?
+categories:
+- elearning
+- lmsevaluation
 date: 2008-09-14 22:41:27+10:00
-categories: ['elearning', 'lmsevaluation']
+next:
+  text: What is research?  How do you do it?
+  url: /blog2/2008/09/19/what-is-research-how-do-you-do-it/
+previous:
+  text: REACT 2008 - An exercise in scholarship?
+  url: /blog2/2008/09/09/react-2008-an-exercise-in-scholarship/
+title: What should a LMS evaluation consider?
 type: post
 template: blog-post.html
 comments:

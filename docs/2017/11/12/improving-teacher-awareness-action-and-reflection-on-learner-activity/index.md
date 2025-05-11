@@ -1,7 +1,20 @@
 ---
-title: Improving teacher awareness, action and reflection on learner activity
+categories:
+- 4paths
+- bricolage
+- casa
+- indicators
+- irac
+- learninganalytics-elearning
 date: 2017-11-12 16:39:49+10:00
-categories: ['4paths', 'bricolage', 'casa', 'indicators', 'irac', 'learninganalytics-elearning']
+next:
+  text: Teacher DIY learning analytics - implications & questions for institutional
+    learning analytics
+  url: /blog2/2017/11/26/teacher-diy-learning-analytics-implications-questions-for-institutional-learning-analytics/
+previous:
+  text: Introducing the Moodle Activity Viewer (MAV) & digital reno
+  url: /blog2/2017/10/30/introducing-the-moodle-activity-viewer-mav-digital-reno/
+title: Improving teacher awareness, action and reflection on learner activity
 type: post
 template: blog-post.html
 ---

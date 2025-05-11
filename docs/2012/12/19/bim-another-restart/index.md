@@ -1,7 +1,14 @@
 ---
-title: "BIM: another restart?"
+categories:
+- bim
 date: 2012-12-19 08:09:46+10:00
-categories: ['bim']
+next:
+  text: Bug fix and to do for BIM
+  url: /blog2/2012/12/28/bug-fix-and-to-do-for-bim/
+previous:
+  text: Why Moneyball is the wrong analogy for learning analytics
+  url: /blog2/2012/12/17/why-moneyball-is-the-wrong-analogy-for-learning-analytics/
+title: '"BIM: another restart?"'
 type: post
 template: blog-post.html
 comments:

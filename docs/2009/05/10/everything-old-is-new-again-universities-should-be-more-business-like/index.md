@@ -1,7 +1,18 @@
 ---
-title: Everything old is new again - universities should be more business like
+categories:
+- chapter-2
+- design-theory
+- phd
+- psframework
+- thesis
 date: 2009-05-10 13:12:22+10:00
-categories: ['chapter-2', 'design-theory', 'phd', 'psframework', 'thesis']
+next:
+  text: Quotes about innovation and creativity
+  url: /blog2/2009/05/13/quotes-about-innovation-and-creativity/
+previous:
+  text: Why don&#039;t we (e-)learn - over emphasis on rationality and defensive routines
+  url: /blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
+title: Everything old is new again - universities should be more business like
 type: post
 template: blog-post.html
 comments:

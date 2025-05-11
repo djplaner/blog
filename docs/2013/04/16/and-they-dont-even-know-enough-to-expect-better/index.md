@@ -1,7 +1,16 @@
 ---
-title: And they don't even know enough to expect better
+categories:
+- bim
+- elearning
 date: 2013-04-16 12:44:53+10:00
-categories: ['bim', 'elearning']
+next:
+  text: Making e-learning tools that are more supportive - BIM, TPACK and truncated
+    feeds
+  url: /blog2/2013/04/19/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds/
+previous:
+  text: Application or targeted learning analytics - another scope?
+  url: /blog2/2013/04/10/application-or-targeted-learning-analytics-another-scope/
+title: And they don't even know enough to expect better
 type: post
 template: blog-post.html
 comments:

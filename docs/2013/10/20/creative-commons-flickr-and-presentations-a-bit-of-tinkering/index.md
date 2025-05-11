@@ -1,8 +1,17 @@
 ---
-title: "Creative Commons, Flickr and presentations: A bit of tinkering"
+categories:
+- thesis
 date: 2013-10-20 18:25:43+10:00
-categories: ['thesis']
-tags: ['creative-commons', 'creative-commons-licence']
+next:
+  text: Processing and Visualizing Data in Complex Learning Environments
+  url: /blog2/2013/10/20/processing-and-visualizing-data-in-complex-learning-environments/
+previous:
+  text: Supporting Action Research with Learning Analytics
+  url: /blog2/2013/10/13/supporting-action-research-with-learning-analytics/
+tags:
+- creative-commons
+- creative-commons-licence
+title: '"Creative Commons, Flickr and presentations: A bit of tinkering"'
 type: post
 template: blog-post.html
 comments:

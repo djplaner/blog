@@ -1,7 +1,20 @@
 ---
-title: Factors related to the breadth of use of LMS/VLE features
+categories:
+- chapter-4
+- design-theory
+- elearning
+- indicators
+- lmsevaluation
+- phd
+- thesis
 date: 2009-08-05 13:14:48+10:00
-categories: ['chapter-4', 'design-theory', 'elearning', 'indicators', 'lmsevaluation', 'phd', 'thesis']
+next:
+  text: Automating calculation of LMS/CMS/VLE feature usage - a project?
+  url: /blog2/2009/08/05/automating-calculation-of-lmscmsvle-feature-usage-a-project/
+previous:
+  text: How do you measure success with institutional use of an LMS/VLE?
+  url: /blog2/2009/08/05/how-do-you-measure-success-with-institutional-use-of-an-lmsvle/
+title: Factors related to the breadth of use of LMS/VLE features
 type: post
 template: blog-post.html
 comments:

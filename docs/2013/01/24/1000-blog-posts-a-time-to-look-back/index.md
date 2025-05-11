@@ -1,7 +1,15 @@
 ---
-title: 1000 blog posts - a time to look back
+categories:
+- research
+- teaching
 date: 2013-01-24 15:04:54+10:00
-categories: ['research', 'teaching']
+next:
+  text: Exploring connected versus/and networked learning
+  url: /blog2/2013/01/27/exploring-connected-versusand-networked-learning/
+previous:
+  text: Taking a look at the &quot;Decoding Learning&quot; report
+  url: /blog2/2013/01/23/taking-a-look-at-the-decoding-learning-report/
+title: 1000 blog posts - a time to look back
 type: post
 template: blog-post.html
 ---

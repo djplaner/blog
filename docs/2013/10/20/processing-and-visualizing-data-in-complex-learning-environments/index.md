@@ -1,7 +1,16 @@
 ---
-title: Processing and Visualizing Data in Complex Learning Environments
+categories:
+- elearning
+- indicators
+- irac
 date: 2013-10-20 22:25:38+10:00
-categories: ['elearning', 'indicators', 'irac']
+next:
+  text: Oh Academia
+  url: /blog2/2013/10/31/oh-academia/
+previous:
+  text: 'Creative Commons, Flickr and presentations: A bit of tinkering'
+  url: /blog2/2013/10/20/creative-commons-flickr-and-presentations-a-bit-of-tinkering/
+title: Processing and Visualizing Data in Complex Learning Environments
 type: post
 template: blog-post.html
 comments:

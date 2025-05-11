@@ -1,7 +1,21 @@
 ---
-title: How do you develop a cross-LMS usage comparison?
+categories:
+- chapter-5
+- design-theory
+- elearning
+- evaluation
+- indicators
+- lmsevaluation
+- phd
+- thesis
 date: 2009-09-09 15:59:10+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'evaluation', 'indicators', 'lmsevaluation', 'phd', 'thesis']
+next:
+  text: '"PhD Update #24: off to the crocodile form"'
+  url: /blog2/2009/09/11/phd-update-24-off-to-the-crocodile-form/
+previous:
+  text: BIM#7 - Getting the prototype up
+  url: /blog2/2009/09/08/bim7-getting-the-prototype-up/
+title: How do you develop a cross-LMS usage comparison?
 type: post
 template: blog-post.html
 ---

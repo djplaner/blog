@@ -1,7 +1,14 @@
 ---
-title: The suffocating straightjackets of liberating ideas
+categories:
+- quotes
 date: 2010-03-24 10:28:12+10:00
-categories: ['quotes']
+next:
+  text: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
+  url: /blog2/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/
+previous:
+  text: First step in &quot;Moodle curriculum mapping&quot;
+  url: /blog2/2010/03/23/first-step-in-moodle-curriculum-mapping/
+title: The suffocating straightjackets of liberating ideas
 type: post
 template: blog-post.html
 ---

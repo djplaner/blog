@@ -1,7 +1,15 @@
 ---
-title: "OEP and Initial Teacher Education: Moving on from the horsey, horseless carriage"
+categories:
+- bad
+- open
 date: 2016-03-18 07:04:32+10:00
-categories: ['bad', 'open']
+next:
+  text: What to expect/look for from SITE'2016?
+  url: /blog2/2016/03/22/what-to-expectlook-for-from-site2016/
+previous:
+  text: Early analysis of Moodle data
+  url: /blog2/2016/03/18/early-analysis-of-moodle-data/
+title: '"OEP and Initial Teacher Education: Moving on from the horsey, horseless carriage"'
 type: post
 template: blog-post.html
 comments:

@@ -1,6 +1,6 @@
 ---
-title: "Cyberspace: The new educational frontier"
 date: 2009-01-02 23:37:12+10:00
+title: '"Cyberspace: The new educational frontier"'
 type: page
 template: blog-post.html
 ---

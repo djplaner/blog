@@ -1,7 +1,14 @@
 ---
-title: An ateleological quote
+categories:
+- quotes
 date: 2014-02-22 08:28:59+10:00
-categories: ['quotes']
+next:
+  text: '"Evernote as a "solution" to a #moodle "problem""'
+  url: /blog2/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/
+previous:
+  text: 'Does GPA make any difference to #moodle course usage?'
+  url: /blog2/2014/02/20/does-gpa-make-any-difference-to-moodle-course-usage/
+title: An ateleological quote
 type: post
 template: blog-post.html
 comments:

@@ -1,8 +1,17 @@
 ---
-title: Operating Systems animations and other resources
+categories:
+- elearning
+- teaching
 date: 2008-12-30 09:09:03+10:00
-categories: ['elearning', 'teaching']
-tags: ['operatingsystems-animation']
+next:
+  text: Webfuse usage statistics - Quizzes
+  url: /blog2/2009/01/05/webfuse-usage-statistics-quizzes/
+previous:
+  text: Plans for implementing rotating banner image
+  url: /blog2/2008/12/28/plans-for-implementing-rotating-banner-image/
+tags:
+- operatingsystems-animation
+title: Operating Systems animations and other resources
 type: post
 template: blog-post.html
 ---

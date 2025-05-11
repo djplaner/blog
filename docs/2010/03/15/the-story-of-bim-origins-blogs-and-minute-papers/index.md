@@ -1,7 +1,14 @@
 ---
-title: The story of BIM - Origins - blogs and minute papers
+categories:
+- bim
 date: 2010-03-15 15:11:44+10:00
-categories: ['bim']
+next:
+  text: The story of BIM - Development of BAM
+  url: /blog2/2010/03/17/the-story-of-bim-development-of-bam/
+previous:
+  text: Improving L&#038;T at Universities - The emperor has no clothes
+  url: /blog2/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
+title: The story of BIM - Origins - blogs and minute papers
 type: post
 template: blog-post.html
 comments:

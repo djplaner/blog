@@ -1,7 +1,21 @@
 ---
-title: Dimensions delimiting conceptions of online teaching - something to guide the indicators and the evaluation of LMS data?
+categories:
+- blackboardindicators
+- chapter-2
+- chapter-3
+- design-theory
+- elearning
+- indicators
+- thesis
 date: 2009-02-28 22:29:43+10:00
-categories: ['blackboardindicators', 'chapter-2', 'chapter-3', 'design-theory', 'elearning', 'indicators', 'thesis']
+next:
+  text: Another spectrum for using indicators to place course websites
+  url: /blog2/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/
+previous:
+  text: Featured on slideshare - the give and take of social computing
+  url: /blog2/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
+title: Dimensions delimiting conceptions of online teaching - something to guide the
+  indicators and the evaluation of LMS data?
 type: post
 template: blog-post.html
 comments:

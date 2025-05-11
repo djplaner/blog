@@ -1,7 +1,15 @@
 ---
-title: Strategies for curriculum mapping and data collection for assuring learning
+categories:
+- curriculummapping-cddu
+- elearning
 date: 2013-10-10 15:39:39+10:00
-categories: ['curriculummapping-cddu', 'elearning']
+next:
+  text: Supporting Action Research with Learning Analytics
+  url: /blog2/2013/10/13/supporting-action-research-with-learning-analytics/
+previous:
+  text: Technology-enhanced learning - workloads and costs
+  url: /blog2/2013/10/09/technology-enhanced-learning-workloads-and-costs/
+title: Strategies for curriculum mapping and data collection for assuring learning
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: "ICTs for Learning Design: Week 2"
+categories:
+- eded20491
+- teaching
 date: 2011-03-08 10:05:38+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Reflection on the mobile phones wiki
+  url: /blog2/2011/03/08/reflection-on-the-mobile-phones-wiki/
+previous:
+  text: Reflection on the learning theories wiki
+  url: /blog2/2011/03/07/reflection-on-the-learning-theories-wiki/
+title: '"ICTs for Learning Design: Week 2"'
 type: post
 template: blog-post.html
 ---

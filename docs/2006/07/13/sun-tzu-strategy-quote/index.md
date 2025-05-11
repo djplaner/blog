@@ -1,7 +1,14 @@
 ---
-title: Sun Tzu Strategy Quote
+categories:
+- quotes
 date: 2006-07-13 10:16:12+10:00
-categories: ['quotes']
+next:
+  text: Drucker on Adaptive vs Plan-driven
+  url: /blog2/2006/07/14/drucker-on-adaptive-vs-plan-driven/
+previous:
+  text: Hello World
+  url: /blog2/2006/07/12/hello-world-2/
+title: Sun Tzu Strategy Quote
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,18 @@
 ---
-title: The CSCW view of Knowledge Management
+categories:
+- bad
+- dlrn
+- elearning
+- tpack
 date: 2015-10-30 16:19:40+10:00
-categories: ['bad', 'dlrn', 'elearning', 'tpack']
+next:
+  text: Anyone capturing users' post-adoptive behaviours for the LMS? Implications?
+  url: /blog2/2015/10/31/anyone-capturing-users-post-adoptive-behaviours-for-the-lms-implications/
+previous:
+  text: Re-purposing V&#038;R mapping to explore modification of digital learning
+    spaces
+  url: /blog2/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
+title: The CSCW view of Knowledge Management
 type: post
 template: blog-post.html
 ---

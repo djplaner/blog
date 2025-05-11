@@ -1,7 +1,14 @@
 ---
-title: What should be covered in EDC3100?
+categories:
+- edc3100
 date: 2014-01-22 15:46:34+10:00
-categories: ['edc3100']
+next:
+  text: '"#moodle Activity Viewer (MAV) and the promise for bricolage"'
+  url: /blog2/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/
+previous:
+  text: 'A #moodle course site wide &quot;macro&quot; facility?'
+  url: /blog2/2014/01/22/a-moodle-course-site-wide-macro-facility/
+title: What should be covered in EDC3100?
 type: post
 template: blog-post.html
 comments:

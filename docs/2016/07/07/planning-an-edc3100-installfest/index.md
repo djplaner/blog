@@ -1,7 +1,14 @@
 ---
-title: Planning an EDC3100 \"installfest\"
+categories:
+- edc3100
 date: 2016-07-07 14:42:48+10:00
-categories: ['edc3100']
+next:
+  text: Planning changes to EDC3100 assignment 1
+  url: /blog2/2016/07/13/planning-changes-to-edc3100-assignment-1/
+previous:
+  text: Any pointers to an old, ancient game?
+  url: /blog2/2016/06/29/any-pointers-to-an-old-ancient-game/
+title: Planning an EDC3100 "installfest"
 type: post
 template: blog-post.html
 ---

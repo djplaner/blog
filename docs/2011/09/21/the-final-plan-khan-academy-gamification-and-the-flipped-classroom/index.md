@@ -1,7 +1,14 @@
 ---
-title: "The final plan: Khan Academy, gamification and the flipped classroom"
+categories:
+- teaching
 date: 2011-09-21 10:54:55+10:00
-categories: ['teaching']
+next:
+  text: BIM and BIM2 - Who needs it? What do you need?
+  url: /blog2/2011/09/22/bim-and-bim2-who-needs-it-what-do-you-need/
+previous:
+  text: A summary of one perspective on the Digital Education Revolution
+  url: /blog2/2011/09/19/a-summary-of-one-perspective-on-the-digital-education-revolution/
+title: '"The final plan: Khan Academy, gamification and the flipped classroom"'
 type: post
 template: blog-post.html
 comments:

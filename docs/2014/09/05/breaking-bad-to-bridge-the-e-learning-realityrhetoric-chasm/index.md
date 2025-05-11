@@ -1,7 +1,16 @@
 ---
-title: Breaking BAD to bridge the e-learning reality/rhetoric chasm
+categories:
+- bad
+- bricolage
+- connectedcourses
 date: 2014-09-05 14:51:13+10:00
-categories: ['bad', 'bricolage', 'connectedcourses']
+next:
+  text: '"Three paths for learning analytics and beyond: Moving from rhetoric to reality"'
+  url: /blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/
+previous:
+  text: The balkanisation threat to network learning
+  url: /blog2/2014/09/04/the-balkanisation-threat-to-network-learning/
+title: Breaking BAD to bridge the e-learning reality/rhetoric chasm
 type: post
 template: blog-post.html
 comments:

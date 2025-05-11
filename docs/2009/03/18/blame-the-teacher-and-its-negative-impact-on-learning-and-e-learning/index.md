@@ -1,7 +1,20 @@
 ---
-title: \"Blame the teacher\" and its negative impact on learning and e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- innovation
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-03-18 09:38:34+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'innovation', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: The Ps framework
+  url: /blog2/2009/03/18/the-ps-framework/
+previous:
+  text: 'Comparing VLEs/LMS to the past: flaws and implications for development models'
+  url: /blog2/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+title: '"Blame the teacher" and its negative impact on learning and e-learning'
 type: post
 template: blog-post.html
 comments:

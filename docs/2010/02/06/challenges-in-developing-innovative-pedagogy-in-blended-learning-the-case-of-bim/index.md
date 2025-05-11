@@ -1,7 +1,16 @@
 ---
-title: "Challenges in developing innovative pedagogy in blended learning: The case of BIM"
+categories:
+- bim
+- paperideas
 date: 2010-02-06 10:46:14+10:00
-categories: ['bim', 'paperideas']
+next:
+  text: BIM - backup and restore
+  url: /blog2/2010/02/07/bim-backup-and-restore/
+previous:
+  text: 'BIM - Tidy up #4 - Getting ready for user testing'
+  url: /blog2/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
+title: '"Challenges in developing innovative pedagogy in blended learning: The case
+  of BIM"'
 type: post
 template: blog-post.html
 comments:

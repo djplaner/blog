@@ -1,7 +1,15 @@
 ---
-title: One potential approach to provide a Moodle email merge facility
+categories:
+- bim
+- moodle
 date: 2010-05-28 10:22:31+10:00
-categories: ['bim', 'moodle']
+next:
+  text: Focusing on integration - chapter 5
+  url: /blog2/2010/05/30/focusing-on-integration-chapter-5/
+previous:
+  text: Fixing BIM&#039;s back up and restore
+  url: /blog2/2010/05/27/fixing-bims-back-up-and-restore/
+title: One potential approach to provide a Moodle email merge facility
 type: post
 template: blog-post.html
 comments:

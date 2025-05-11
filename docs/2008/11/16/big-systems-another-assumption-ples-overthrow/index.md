@@ -1,7 +1,18 @@
 ---
-title: \"Big\" systems - another assumption \"PLEs\" overthrow
+categories:
+- design-theory
+- elearning
+- ple
+- thesis
+- webfuse
 date: 2008-11-16 09:53:58+10:00
-categories: ['design-theory', 'elearning', 'ple', 'thesis', 'webfuse']
+next:
+  text: The dissonance gap in systems and LMS evaluations
+  url: /blog2/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/
+previous:
+  text: 'Expert designer: Another assumption PLEs question'
+  url: /blog2/2008/11/15/expert-designer-another-assumption-ples-question/
+title: '"Big" systems - another assumption "PLEs" overthrow'
 type: post
 template: blog-post.html
 ---

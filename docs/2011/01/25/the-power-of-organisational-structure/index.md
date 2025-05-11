@@ -1,7 +1,16 @@
 ---
-title: The power of organisational structure
+categories:
+- journey
+- lak11
+- teaching
 date: 2011-01-25 10:37:51+10:00
-categories: ['journey', 'lak11', 'teaching']
+next:
+  text: Analytics, semantic web and cognitive science
+  url: /blog2/2011/01/26/analytics-semantic-web-and-cognitive-science/
+previous:
+  text: The difference between utopian and dystopian visions
+  url: /blog2/2011/01/19/the-difference-between-utopian-and-dystopian-visions/
+title: The power of organisational structure
 type: post
 template: blog-post.html
 comments:

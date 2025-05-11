@@ -1,8 +1,20 @@
 ---
-title: Problems for teaching scholars
+categories:
+- thesis
 date: 2011-03-30 08:01:22+10:00
-categories: ['thesis']
-tags: ['amy-bruckman', 'beyond', 'ce21-advice', 'classroom', 'human-subjects-review-board']
+next:
+  text: '"Supportive Learning Environments: Week 3, 4, 5 and 6"'
+  url: /blog2/2011/03/30/supportive-learning-environments-week-3-4-5-and-6/
+previous:
+  text: 'Literacy and Numeracy: Week 4'
+  url: /blog2/2011/03/21/literacy-and-numeracy-week-4/
+tags:
+- amy-bruckman
+- beyond
+- ce21-advice
+- classroom
+- human-subjects-review-board
+title: Problems for teaching scholars
 type: post
 template: blog-post.html
 ---

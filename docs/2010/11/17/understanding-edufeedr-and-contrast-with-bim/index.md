@@ -1,7 +1,14 @@
 ---
-title: Understanding EduFeedr and contrast with BIM
+categories:
+- bim
 date: 2010-11-17 22:43:16+10:00
-categories: ['bim']
+next:
+  text: Installing and starting with Moodle 2.0
+  url: /blog2/2010/11/18/installing-and-starting-with-moodle-2-0/
+previous:
+  text: EduFeedr is live. BIM for open blog courses
+  url: /blog2/2010/11/16/edufeedr-is-live-bim-for-open-blog-courses/
+title: Understanding EduFeedr and contrast with BIM
 type: post
 template: blog-post.html
 ---

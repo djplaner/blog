@@ -1,7 +1,17 @@
 ---
-title: What do \"scale\" and \"mainstreaming\" mean in higher education?
+categories:
+- 4paths
+- bad
+- elearning
+- tam
 date: 2015-07-29 15:29:36+10:00
-categories: ['4paths', 'bad', 'elearning', 'tam']
+next:
+  text: An experiment with the oerpub editor
+  url: /blog2/2015/08/03/an-experiment-with-the-oerpub-editor/
+previous:
+  text: '&quot;Me as teacher&quot; - the 2015 focus for NGL'
+  url: /blog2/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
+title: What do "scale" and "mainstreaming" mean in higher education?
 type: post
 template: blog-post.html
 ---

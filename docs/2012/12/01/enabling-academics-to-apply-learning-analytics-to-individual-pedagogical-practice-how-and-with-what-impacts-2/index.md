@@ -1,7 +1,15 @@
 ---
-title: "Enabling academics to apply learning analytics to individual pedagogical practice: how and with what impacts?"
+categories:
+- thesis
 date: 2012-12-01 06:40:36+10:00
-categories: ['thesis']
+next:
+  text: '"#ascilite2012 technical support and the tail wagging the dog"'
+  url: /blog2/2012/12/02/tail-wagging-the-dog/
+previous:
+  text: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics'
+  url: /blog2/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
+title: '"Enabling academics to apply learning analytics to individual pedagogical
+  practice: how and with what impacts?"'
 type: post
 template: blog-post.html
 comments:

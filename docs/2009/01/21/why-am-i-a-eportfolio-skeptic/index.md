@@ -1,8 +1,20 @@
 ---
-title: Why am I a ePortfolio skeptic?
+categories:
+- chapter-2
+- elearning
+- missingps
+- paperideas
+- thesis
 date: 2009-01-21 09:16:34+10:00
-categories: ['chapter-2', 'elearning', 'missingps', 'paperideas', 'thesis']
-tags: ['eportfolio-e-portfolio-psframework-elearning-e-learning']
+next:
+  text: Open source learning management systems - the latest fad in e-learning
+  url: /blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/
+previous:
+  text: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
+  url: /blog2/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
+tags:
+- eportfolio-e-portfolio-psframework-elearning-e-learning
+title: Why am I a ePortfolio skeptic?
 type: post
 template: blog-post.html
 comments:

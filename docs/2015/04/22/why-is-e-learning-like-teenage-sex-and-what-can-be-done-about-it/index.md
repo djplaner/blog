@@ -1,8 +1,16 @@
 ---
-title: Why is e-learning like teenage sex and what can be done about it?
+categories:
+- thesis
 date: 2015-04-22 09:13:18+10:00
-categories: ['thesis']
-tags: ['bad']
+next:
+  text: What does this say about learning analytics?
+  url: /blog2/2015/04/22/what-does-this-say-about-learning-analytics/
+previous:
+  text: Where does the LMS sit in the reusability paradox
+  url: /blog2/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
+tags:
+- bad
+title: Why is e-learning like teenage sex and what can be done about it?
 type: post
 template: blog-post.html
 comments:

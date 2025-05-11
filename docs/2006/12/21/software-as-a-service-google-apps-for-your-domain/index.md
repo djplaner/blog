@@ -1,7 +1,16 @@
 ---
-title: Software as a service - Google apps for your domain
+categories:
+- elearning
+- missingps
+- web-20-course-sites
 date: 2006-12-21 09:17:32+10:00
-categories: ['elearning', 'missingps', 'web-20-course-sites']
+next:
+  text: Prototyping a Web 2.0 Course site
+  url: /blog2/2006/12/21/prototyping-a-web-20-course-site/
+previous:
+  text: Social capital, REACT, Trust - misc resources
+  url: /blog2/2006/12/19/social-capital-react-trust-misc-resources/
+title: Software as a service - Google apps for your domain
 type: post
 template: blog-post.html
 ---

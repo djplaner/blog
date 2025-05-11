@@ -1,8 +1,16 @@
 ---
-title: Minimalism, constructivism and use of Moodle or any other e-learning tool
+categories:
+- bad
 date: 2016-02-11 11:36:32+10:00
-categories: ['bad']
-tags: ['elearning']
+next:
+  text: Sentiment analysis of student blog posts
+  url: /blog2/2016/02/14/sentiment-analysis-of-student-blog-posts/
+previous:
+  text: Exploring the relationship between learning design and OEP
+  url: /blog2/2016/02/09/on-the-relationship-between-learning-design-and-oep/
+tags:
+- elearning
+title: Minimalism, constructivism and use of Moodle or any other e-learning tool
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: Some notes on behaviour change and improving L&T
+categories:
+- herding-cats
 date: 2018-04-05 10:23:32+10:00
-categories: ['herding-cats']
+next:
+  text: Repository - differences between Open Source and OER and implications
+  url: /blog2/2018/04/19/repository-differences-between-open-source-and-oer-and-implications/
+previous:
+  text: 'Context-Appropriate Scaffolding Assemblages: A generative learning analytics
+    platform for end-user development and participatory design'
+  url: /blog2/2018/02/02/context-appropriate-scaffolding-assemblages-a-generative-learning-analytics-platform-for-end-user-development-and-participatory-design/
+title: Some notes on behaviour change and improving L&T
 type: post
 template: blog-post.html
 ---

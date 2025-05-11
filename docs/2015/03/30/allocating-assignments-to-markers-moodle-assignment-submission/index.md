@@ -1,8 +1,20 @@
 ---
-title: Concrete lounges and why basketball players aren't better hockey players
+categories:
+- concretelounge
+- elearning
+- moodle
+- oasm
 date: 2015-03-30 17:45:51+10:00
-categories: ['concretelounge', 'elearning', 'moodle', 'oasm']
-tags: ['moodle', 'oasm']
+next:
+  text: '"Designing a Secondary Computing curriuclum &#038; pedagogy course"'
+  url: /blog2/2015/04/02/designing-a-secondary-computing-curriuclum-pedagogy-course/
+previous:
+  text: Framing some project ideas around support and services for learning and teaching
+  url: /blog2/2015/03/25/framing-some-project-ideas-around-support-and-services-for-learning-and-teaching/
+tags:
+- moodle
+- oasm
+title: Concrete lounges and why basketball players aren't better hockey players
 type: post
 template: blog-post.html
 comments:

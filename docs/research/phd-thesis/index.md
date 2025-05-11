@@ -1,6 +1,6 @@
 ---
-title: PhD Thesis
 date: 2008-10-22 14:02:58+10:00
+title: PhD Thesis
 type: page
 template: blog-post.html
 comments:

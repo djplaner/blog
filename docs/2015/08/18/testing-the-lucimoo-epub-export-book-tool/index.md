@@ -1,7 +1,15 @@
 ---
-title: Testing the Lucimoo epub export book tool
+categories:
+- moodle
+- moodleopenbook
 date: 2015-08-18 10:22:30+10:00
-categories: ['moodle', 'moodleopenbook']
+next:
+  text: Understanding learning as network formation
+  url: /blog2/2015/08/18/understanding-learning-as-network-formation/
+previous:
+  text: There&#039;s more to it than the Internet and social software
+  url: /blog2/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/
+title: Testing the Lucimoo epub export book tool
 type: post
 template: blog-post.html
 comments:

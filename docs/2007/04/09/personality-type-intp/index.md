@@ -1,6 +1,12 @@
 ---
-title: Personality type - INTP
 date: 2007-04-09 20:27:05+10:00
+next:
+  text: A model for evaluating teaching - a useful lens?
+  url: /blog2/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/
+previous:
+  text: Does ICT provide choices of learners and learning in higher education
+  url: /blog2/2007/04/06/does-ict-provide-choices-of-learners-and-learning-in-higher-education/
+title: Personality type - INTP
 type: post
 template: blog-post.html
 ---

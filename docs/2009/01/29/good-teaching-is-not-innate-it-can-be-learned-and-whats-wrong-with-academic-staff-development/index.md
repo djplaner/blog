@@ -1,8 +1,24 @@
 ---
-title: Good teaching is not innate, it can be \"learned\" - and what's wrong with academic staff development
+categories:
+- addie
+- c2d2
+- chapter-2
+- design-theory
+- elearning
+- foult
+- missingps
+- thesis
 date: 2009-01-29 14:47:27+10:00
-categories: ['addie', 'c2d2', 'chapter-2', 'design-theory', 'elearning', 'foult', 'missingps', 'thesis']
-tags: ['staffdevelopment-learning-teaching-university-highereducation-academicstaffdevelopment']
+next:
+  text: Using a blog for course design foult sessions
+  url: /blog2/2009/01/30/using-a-blog-for-course-design-foult-sessions/
+previous:
+  text: The design of a 6 hour orientation to course analysis and design
+  url: /blog2/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/
+tags:
+- staffdevelopment-learning-teaching-university-highereducation-academicstaffdevelopment
+title: Good teaching is not innate, it can be "learned" - and what's wrong with academic
+  staff development
 type: post
 template: blog-post.html
 comments:

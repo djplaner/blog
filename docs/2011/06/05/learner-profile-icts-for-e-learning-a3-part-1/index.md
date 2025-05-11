@@ -1,7 +1,16 @@
 ---
-title: Learner profile - ICTs for E-Learning A3 - Part 1
+categories:
+- eded20491
+- ipt
+- teaching
 date: 2011-06-05 22:24:40+10:00
-categories: ['eded20491', 'ipt', 'teaching']
+next:
+  text: Design Rationale - ICTs for E-Learning A3
+  url: /blog2/2011/06/05/design-rationale-icts-for-e-learning-a3-part-2/
+previous:
+  text: A profile of learners in an IPT class
+  url: /blog2/2011/06/02/a-profile-of-learners-in-an-ipt-class/
+title: Learner profile - ICTs for E-Learning A3 - Part 1
 type: post
 template: blog-post.html
 ---

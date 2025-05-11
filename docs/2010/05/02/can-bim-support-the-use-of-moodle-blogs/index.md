@@ -1,7 +1,14 @@
 ---
-title: Can BIM support the use of Moodle blogs?
+categories:
+- bim
 date: 2010-05-02 16:56:18+10:00
-categories: ['bim']
+next:
+  text: Leadership as appreciating resistance
+  url: /blog2/2010/05/03/leadership-as-appreciating-resistance/
+previous:
+  text: Adding &quot;deleted&quot; to BIM
+  url: /blog2/2010/04/30/adding-deleted-to-bim/
+title: Can BIM support the use of Moodle blogs?
 type: post
 template: blog-post.html
 comments:

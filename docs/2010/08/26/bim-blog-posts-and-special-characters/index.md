@@ -1,7 +1,15 @@
 ---
-title: BIM, blog posts and special characters
+categories:
+- bim
+- bimerrors
 date: 2010-08-26 10:32:49+10:00
-categories: ['bim', 'bimerrors']
+next:
+  text: Possible uses of academic analytics
+  url: /blog2/2010/08/27/possible-uses-of-academic-analytics/
+previous:
+  text: Nobody likes a do-gooder - another reason for e-learning not mainstreaming?
+  url: /blog2/2010/08/25/nobody-likes-a-do-gooder-another-reason-for-lt/
+title: BIM, blog posts and special characters
 type: post
 template: blog-post.html
 ---

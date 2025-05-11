@@ -1,7 +1,14 @@
 ---
-title: WTF(udge) does EEI do?
+categories:
+- eei
 date: 2017-03-24 03:41:05+10:00
-categories: ['eei']
+next:
+  text: Understanding systems conditions for sustainable uptake of learning analytics
+  url: /blog2/2017/04/02/understanding-systems-conditions-for-sustainable-uptake-of-learning-analytics/
+previous:
+  text: Observations on university L&T portals
+  url: /blog2/2017/03/17/observations-on-university-lt-portals/
+title: WTF(udge) does EEI do?
 type: post
 template: blog-post.html
 ---

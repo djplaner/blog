@@ -1,7 +1,14 @@
 ---
-title: Needed updates to cc_attrib.pl
+categories:
+- bricolage
 date: 2014-02-15 08:23:02+10:00
-categories: ['bricolage']
+next:
+  text: It's making us stupid
+  url: /blog2/2014/02/17/making-us-stupid/
+previous:
+  text: BIM testing and fixes
+  url: /blog2/2014/02/07/bim-testing-and-fixes/
+title: Needed updates to cc_attrib.pl
 type: post
 template: blog-post.html
 ---

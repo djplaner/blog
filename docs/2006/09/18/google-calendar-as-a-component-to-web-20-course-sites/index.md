@@ -1,7 +1,16 @@
 ---
-title: Google calendar as a component to Web 2.0 course sites
+categories:
+- bam
+- web-20-course-sites
+- webfuse
 date: 2006-09-18 18:12:17+10:00
-categories: ['bam', 'web-20-course-sites', 'webfuse']
+next:
+  text: Web 2.0 Course Sites and the organisational challenge
+  url: /blog2/2006/09/18/web-20-course-sites-and-the-organisational-challenge/
+previous:
+  text: The host your own preference argument against Web 2.0 course sites
+  url: /blog2/2006/09/18/the-host-your-own-preference-argument-against-web-20-course-sites/
+title: Google calendar as a component to Web 2.0 course sites
 type: post
 template: blog-post.html
 ---

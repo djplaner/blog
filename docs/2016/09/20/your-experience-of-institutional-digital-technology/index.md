@@ -1,7 +1,14 @@
 ---
-title: Your experience of organisational digital technology?
+categories:
+- bad
 date: 2016-09-20 10:19:52+10:00
-categories: ['bad']
+next:
+  text: Exploring Moodle Book usage - Part 7a) - when are they modified
+  url: /blog2/2016/09/20/exploring-moodle-book-usage-part-7a-when-are-they-modified/
+previous:
+  text: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used?"
+  url: /blog2/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/
+title: Your experience of organisational digital technology?
 type: post
 template: blog-post.html
 comments:

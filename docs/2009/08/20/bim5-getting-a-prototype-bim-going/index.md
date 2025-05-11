@@ -1,7 +1,16 @@
 ---
-title: "BIM#5: Getting a prototype BIM going"
+categories:
+- bam
+- bim
+- moodle
 date: 2009-08-20 11:43:15+10:00
-categories: ['bam', 'bim', 'moodle']
+next:
+  text: '"PhD Update #21 - End in sight for chapter 2"'
+  url: /blog2/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/
+previous:
+  text: 'eLearning and Innovation Specialist report #1: 4-20 August'
+  url: /blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/
+title: '"BIM#5: Getting a prototype BIM going"'
 type: post
 template: blog-post.html
 comments:

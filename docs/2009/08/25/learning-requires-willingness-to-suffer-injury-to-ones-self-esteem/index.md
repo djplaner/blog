@@ -1,7 +1,18 @@
 ---
-title: Learning requires willingness to suffer injury to one's self-esteem
+categories:
+- chapter-2
+- design-theory
+- elearning
+- psframework
+- thesis
 date: 2009-08-25 09:15:45+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'psframework', 'thesis']
+next:
+  text: E-Learning 2.0 and reliability of external services
+  url: /blog2/2009/08/26/e-learning-2-0-and-reliability-of-external-services/
+previous:
+  text: Identifying file distribution on Webfuse course sites
+  url: /blog2/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/
+title: Learning requires willingness to suffer injury to one's self-esteem
 type: post
 template: blog-post.html
 comments:

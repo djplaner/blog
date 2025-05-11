@@ -1,6 +1,6 @@
 ---
-title: How do you teach Systems Administration?
 date: 2008-12-08 12:30:55+10:00
+title: How do you teach Systems Administration?
 type: page
 template: blog-post.html
 comments:

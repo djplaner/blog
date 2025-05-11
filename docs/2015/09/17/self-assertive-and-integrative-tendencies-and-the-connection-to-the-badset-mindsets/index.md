@@ -1,7 +1,17 @@
 ---
-title: Self-assertive and integrative tendencies and the connection to the BAD/SET mindsets
+categories:
+- bad
+- set
 date: 2015-09-17 10:16:06+10:00
-categories: ['bad', 'set']
+next:
+  text: '"University e-learning: Removing context and adding sediment"'
+  url: /blog2/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+previous:
+  text: Computers &#039;do not improve&#039; pupil results, just like wood &#039;does
+    not improve&#039; houses
+  url: /blog2/2015/09/16/computers-do-not-improve-pupil-results-just-like-wood-does-not-improve-houses/
+title: Self-assertive and integrative tendencies and the connection to the BAD/SET
+  mindsets
 type: post
 template: blog-post.html
 comments:

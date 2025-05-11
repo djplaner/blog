@@ -1,7 +1,14 @@
 ---
-title: BIM 1.0alpha is released
+categories:
+- bim
 date: 2010-02-15 15:13:15+10:00
-categories: ['bim']
+next:
+  text: How to make curriculum mapping useful to university academics
+  url: /blog2/2010/02/17/how-to-make-curriculum-mapping-useful-to-university-academics/
+previous:
+  text: BIM - Final Tidy up
+  url: /blog2/2010/02/15/bim-final-tidy-up/
+title: BIM 1.0alpha is released
 type: post
 template: blog-post.html
 ---

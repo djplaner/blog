@@ -1,7 +1,15 @@
 ---
-title: Interesting times ahead
+categories:
+- journey
+- teaching
 date: 2010-11-20 08:23:32+10:00
-categories: ['journey', 'teaching']
+next:
+  text: Changing times and connectivism
+  url: /blog2/2010/11/21/changing-times-and-connectivism/
+previous:
+  text: Installing and starting with Moodle 2.0
+  url: /blog2/2010/11/18/installing-and-starting-with-moodle-2-0/
+title: Interesting times ahead
 type: post
 template: blog-post.html
 ---

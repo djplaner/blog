@@ -1,8 +1,16 @@
 ---
-title: Ways to raise visiblity of unit planning
+categories:
+- thesis
 date: 2015-03-23 10:07:14+10:00
-categories: ['thesis']
-tags: ['edc3100']
+next:
+  text: Embedding prezi - some tests
+  url: /blog2/2015/03/24/embedding-prezi-some-tests/
+previous:
+  text: What do you do with Twitter?
+  url: /blog2/2015/03/04/what-do-you-do-with-twitter/
+tags:
+- edc3100
+title: Ways to raise visiblity of unit planning
 type: post
 template: blog-post.html
 ---

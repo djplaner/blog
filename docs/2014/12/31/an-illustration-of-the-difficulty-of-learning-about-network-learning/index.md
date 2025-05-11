@@ -1,7 +1,14 @@
 ---
-title: An illustration of the difficulty of learning about network learning
+categories:
+- thesis
 date: 2014-12-31 15:27:27+10:00
-categories: ['thesis']
+next:
+  text: '"TPACK as shared practice: Toward a research agenda"'
+  url: /blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/
+previous:
+  text: 'Random #fedwikihappening ramblings'
+  url: /blog2/2014/12/29/random-fedwikihappening-ramblings/
+title: An illustration of the difficulty of learning about network learning
 type: post
 template: blog-post.html
 comments:

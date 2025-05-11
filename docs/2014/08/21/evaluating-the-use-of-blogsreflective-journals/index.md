@@ -1,7 +1,18 @@
 ---
-title: Evaluating the use of blogs/reflective journals
+categories:
+- bim
+- edc3100
+- elearning
+- paperideas
+- research
 date: 2014-08-21 09:09:10+10:00
-categories: ['bim', 'edc3100', 'elearning', 'paperideas', 'research']
+next:
+  text: A bit more NGL catchup
+  url: /blog2/2014/08/21/a-bit-more-ngl-catchup/
+previous:
+  text: Reclaim, identity, and bricolage
+  url: /blog2/2014/08/20/reclaim-identity-and-bricolage/
+title: Evaluating the use of blogs/reflective journals
 type: post
 template: blog-post.html
 ---

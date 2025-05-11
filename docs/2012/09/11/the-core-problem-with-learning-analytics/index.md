@@ -1,7 +1,17 @@
 ---
-title: The core problem with learning analytics?
+categories:
+- indicators
+- learninganalytics-elearning
 date: 2012-09-11 12:30:22+10:00
-categories: ['indicators', 'learninganalytics-elearning']
+next:
+  text: The illusion we understand the past fosters overconfidence in our ability
+    to predict the future
+  url: /blog2/2012/09/13/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future/
+previous:
+  text: One example of industrial e-learning as &quot;on the web&quot; not &quot;of
+    the web&quot;
+  url: /blog2/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/
+title: The core problem with learning analytics?
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,20 @@
 ---
-title: "Barriers to innovation in organisations: teleological processes, organisational structures and stepwise refinement"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- information-systems
+- missingps
+- thesis
 date: 2009-02-11 16:02:29+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'information-systems', 'missingps', 'thesis']
+next:
+  text: It's always easier to say sorry than to ask for permission
+  url: /blog2/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
+previous:
+  text: One reason people don&#039;t take to new e-learning technology
+  url: /blog2/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
+title: '"Barriers to innovation in organisations: teleological processes, organisational
+  structures and stepwise refinement"'
 type: post
 template: blog-post.html
 comments:

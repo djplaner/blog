@@ -1,7 +1,15 @@
 ---
-title: Why is University/LMS e-learning so ugly?
+categories:
+- chapter-2
+- elearning
 date: 2010-03-23 09:43:32+10:00
-categories: ['chapter-2', 'elearning']
+next:
+  text: First step in "Moodle curriculum mapping"
+  url: /blog2/2010/03/23/first-step-in-moodle-curriculum-mapping/
+previous:
+  text: 'Limits in developing innovative pedagogy with Moodle: The story of BIM'
+  url: /blog2/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+title: Why is University/LMS e-learning so ugly?
 type: post
 template: blog-post.html
 comments:

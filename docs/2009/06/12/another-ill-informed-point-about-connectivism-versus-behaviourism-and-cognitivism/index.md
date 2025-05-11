@@ -1,6 +1,12 @@
 ---
-title: Another ill-informed point about connectivism versus behaviourism and cognitivism
 date: 2009-06-12 08:23:47+10:00
+next:
+  text: To all my friends and colleagues out there - PhD etiquette
+  url: /blog2/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
+previous:
+  text: Institutional learning and teaching strategies
+  url: /blog2/2009/06/11/institutional-learning-and-teaching-strategies/
+title: Another ill-informed point about connectivism versus behaviourism and cognitivism
 type: post
 template: blog-post.html
 ---

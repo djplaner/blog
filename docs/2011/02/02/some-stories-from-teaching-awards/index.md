@@ -1,7 +1,15 @@
 ---
-title: Some stories from teaching awards
+categories:
+- academicdevelopment
+- highereducation
 date: 2011-02-02 11:21:28+10:00
-categories: ['academicdevelopment', 'highereducation']
+next:
+  text: '"bim2: registering a new blog"'
+  url: /blog2/2011/02/06/bim2-registering-a-new-blog/
+previous:
+  text: Is there a need for research focii?
+  url: /blog2/2011/02/01/is-there-a-need-for-research-focii/
+title: Some stories from teaching awards
 type: post
 template: blog-post.html
 ---

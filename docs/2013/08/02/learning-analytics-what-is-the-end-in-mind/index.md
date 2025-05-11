@@ -1,7 +1,15 @@
 ---
-title: Learning analytics - What is the \"end in mind\"?
+categories:
+- indicators
+- irac
 date: 2013-08-02 13:19:56+10:00
-categories: ['indicators', 'irac']
+next:
+  text: Statistics in Education - Week 1
+  url: /blog2/2013/08/10/statistics-in-education-week-1/
+previous:
+  text: BIM, Moodle, Simplepie, curl and HTTP proxy issue
+  url: /blog2/2013/07/26/bim-moodle-simplepie-curl-and-http-proxy-issue/
+title: Learning analytics - What is the "end in mind"?
 type: post
 template: blog-post.html
 comments:

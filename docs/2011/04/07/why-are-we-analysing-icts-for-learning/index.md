@@ -1,7 +1,15 @@
 ---
-title: Why are we analysing ICTs for learning?
+categories:
+- eded20491
+- teaching
 date: 2011-04-07 21:08:54+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Group 3 Technologies - The readings
+  url: /blog2/2011/04/08/group-3-technologies-the-readings/
+previous:
+  text: 'Group 2 Technologies: Images, Audio and Video'
+  url: /blog2/2011/04/07/group-2-technologies-images-audio-and-video/
+title: Why are we analysing ICTs for learning?
 type: post
 template: blog-post.html
 ---

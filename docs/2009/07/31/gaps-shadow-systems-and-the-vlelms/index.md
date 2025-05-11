@@ -1,8 +1,19 @@
 ---
-title: Gaps, shadow systems and the VLE/LMS
+categories:
+- chapter-2
+- elearning
+- moodle
+- shadowsystems
 date: 2009-07-31 11:51:19+10:00
-categories: ['chapter-2', 'elearning', 'moodle', 'shadowsystems']
-tags: ['vle']
+next:
+  text: Thinking about evaluating Webfuse (1996 through 1999) - evaluation of an LMS?
+  url: /blog2/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/
+previous:
+  text: 'BAM into Moodle #9 - a working eStudyGuide block?'
+  url: /blog2/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/
+tags:
+- vle
+title: Gaps, shadow systems and the VLE/LMS
 type: post
 template: blog-post.html
 ---

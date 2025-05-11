@@ -1,7 +1,17 @@
 ---
-title: Sentiment analysis of student blog posts
+categories:
+- bad
+- edc3100
+- learninganalytics-elearning
+- pirac
 date: 2016-02-14 11:17:00+10:00
-categories: ['bad', 'edc3100', 'learninganalytics-elearning', 'pirac']
+next:
+  text: '"Can video be emedded in ePub exported from #moodle book?"'
+  url: /blog2/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
+previous:
+  text: Minimalism, constructivism and use of Moodle or any other e-learning tool
+  url: /blog2/2016/02/11/minimalism-constructivism-and-use-of-moodle-or-anyother-e-learning-tool/
+title: Sentiment analysis of student blog posts
 type: post
 template: blog-post.html
 comments:

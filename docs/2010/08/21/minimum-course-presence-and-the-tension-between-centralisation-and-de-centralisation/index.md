@@ -1,8 +1,20 @@
 ---
-title: Minimum course presence and the tension between centralisation and de-centralisation
+categories:
+- thesis
 date: 2010-08-21 14:45:31+10:00
-categories: ['thesis']
-tags: ['amar-bhid', 'big-idea', 'harvard-business-review', 'individual-judgment', 'judgment-deficit']
+next:
+  text: '"PhD Update #28 - minimal work, feedback arrived"'
+  url: /blog2/2010/08/22/phd-update-28-minimal-work-feedback-arrived/
+previous:
+  text: Off to see the dinosaurs
+  url: /blog2/2010/08/20/off-to-see-the-dinosaurs/
+tags:
+- amar-bhid
+- big-idea
+- harvard-business-review
+- individual-judgment
+- judgment-deficit
+title: Minimum course presence and the tension between centralisation and de-centralisation
 type: post
 template: blog-post.html
 ---

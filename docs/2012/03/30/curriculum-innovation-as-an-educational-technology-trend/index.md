@@ -1,7 +1,17 @@
 ---
-title: Curriculum innovation as an educational technology trend
+categories:
+- edc3100
+- elearning
+- ict
+- teaching
 date: 2012-03-30 14:04:21+10:00
-categories: ['edc3100', 'elearning', 'ict', 'teaching']
+next:
+  text: bim2 - status check and what's next
+  url: /blog2/2012/03/30/bim2-status-check-and-whats-next/
+previous:
+  text: What are the really useful analytics?
+  url: /blog2/2012/03/29/what-are-the-really-useful-analytics/
+title: Curriculum innovation as an educational technology trend
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Organising a change in session time
+categories:
+- edc3100
 date: 2015-02-19 07:19:03+10:00
-categories: ['edc3100']
+next:
+  text: '"Contradictions in adjectives: You can''t be consistent and optimal"'
+  url: /blog2/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/
+previous:
+  text: Initial rationale and ideas for &quot;continuous improvement&quot; of learning
+    and teaching
+  url: /blog2/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
+title: Organising a change in session time
 type: post
 template: blog-post.html
 comments:

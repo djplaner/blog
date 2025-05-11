@@ -1,7 +1,14 @@
 ---
-title: What's changed in academic staff development?
+categories:
+- edu8702
 date: 2017-07-16 14:14:36+10:00
-categories: ['edu8702']
+next:
+  text: Further developing research workflow
+  url: /blog2/2017/09/23/further-developing-research-workflow/
+previous:
+  text: My current context and some initial issues
+  url: /blog2/2017/07/09/my-current-context-and-some-initial-issues/
+title: What's changed in academic staff development?
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: An overview of the Moodle \"open\" book project
+categories:
+- moodle
+- moodleopenbook
 date: 2015-04-27 12:57:22+10:00
-categories: ['moodle', 'moodleopenbook']
+next:
+  text: The four paths for implementing learning analytics and enhancing the quality
+    of learning and teaching
+  url: /blog2/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
+previous:
+  text: What does this say about learning analytics?
+  url: /blog2/2015/04/22/what-does-this-say-about-learning-analytics/
+title: An overview of the Moodle "open" book project
 type: post
 template: blog-post.html
 comments:

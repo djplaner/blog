@@ -1,6 +1,12 @@
 ---
-title: What research groups are looking at the future of education
 date: 2009-12-01 15:57:50+10:00
+next:
+  text: Barriers to harnessing academic analytics
+  url: /blog2/2009/12/02/barriers-to-harnessing-academic-analytics/
+previous:
+  text: What am I doing?
+  url: /blog2/2009/12/01/what-am-i-doing/
+title: What research groups are looking at the future of education
 type: post
 template: blog-post.html
 ---

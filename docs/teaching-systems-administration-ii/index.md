@@ -1,6 +1,6 @@
 ---
-title: Teaching Systems Administration II
 date: 2009-01-02 02:04:52+10:00
+title: Teaching Systems Administration II
 type: page
 template: blog-post.html
 ---

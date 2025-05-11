@@ -1,7 +1,19 @@
 ---
-title: The LMS/VLE as a one word language - metaphor and e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- information-systems
+- phd
+- thesis
 date: 2009-06-02 09:41:18+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'information-systems', 'phd', 'thesis']
+next:
+  text: Attending lectures is 'old school' - what else is?
+  url: /blog2/2009/06/02/attending-lectures-is-old-school-what-else-is/
+previous:
+  text: A night at Ezard
+  url: /blog2/2009/05/27/a-night-at-ezard/
+title: The LMS/VLE as a one word language - metaphor and e-learning
 type: post
 template: blog-post.html
 comments:

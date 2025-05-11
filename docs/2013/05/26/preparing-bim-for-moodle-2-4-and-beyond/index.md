@@ -1,7 +1,14 @@
 ---
-title: Preparing BIM for Moodle 2.4 (and beyond?)
+categories:
+- bim2
 date: 2013-05-26 09:55:43+10:00
-categories: ['bim2']
+next:
+  text: One-size-fits-all formulas
+  url: /blog2/2013/05/29/one-size-fits-all-formulas/
+previous:
+  text: Which Moodle (or other LMS) tool is best at support and training?
+  url: /blog2/2013/05/23/which-moodle-or-other-lms-tool-is-best-at-support-and-training/
+title: Preparing BIM for Moodle 2.4 (and beyond?)
 type: post
 template: blog-post.html
 comments:

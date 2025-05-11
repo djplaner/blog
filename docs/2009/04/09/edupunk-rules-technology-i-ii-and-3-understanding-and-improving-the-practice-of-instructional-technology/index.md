@@ -1,7 +1,19 @@
 ---
-title: "Edupunk rules: Technology I, II and 3 - understanding and improving the practice of instructional technology"
+categories:
+- elearning
+- phd
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-04-09 13:14:10+10:00
-categories: ['elearning', 'phd', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: Post to fix the feed
+  url: /blog2/2009/04/09/post-to-fix-the-feed/
+previous:
+  text: Early indications of &quot;blame the student&quot; that continues today
+  url: /blog2/2009/04/06/early-indications-of-blame-the-student-that-continues-today/
+title: '"Edupunk rules: Technology I, II and 3 - understanding and improving the practice
+  of instructional technology"'
 type: post
 template: blog-post.html
 comments:

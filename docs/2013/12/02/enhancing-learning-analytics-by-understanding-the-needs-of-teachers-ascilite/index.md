@@ -1,7 +1,14 @@
 ---
-title: "Enhancing learning analytics by understanding the needs of teachers #ascilite"
+categories:
+- ascilite
 date: 2013-12-02 14:33:04+10:00
-categories: ['ascilite']
+next:
+  text: '"Reviewing the past to imagine the future of elearning #ascilite"'
+  url: /blog2/2013/12/03/reviewing-the-past-to-imagine-the-future-of-elearning-ascilite/
+previous:
+  text: 'A window into lecturers&#039; conversations #ascilite'
+  url: /blog2/2013/12/02/a-window-into-lecturers-conversations-ascilite/
+title: '"Enhancing learning analytics by understanding the needs of teachers #ascilite"'
 type: post
 template: blog-post.html
 ---

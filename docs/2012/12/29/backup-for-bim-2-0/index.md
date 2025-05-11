@@ -1,7 +1,15 @@
 ---
-title: Backup for BIM 2.0
+categories:
+- bim
+- bim2
 date: 2012-12-29 17:46:05+10:00
-categories: ['bim', 'bim2']
+next:
+  text: Adding restore to BIM
+  url: /blog2/2013/01/01/adding-restore-to-bim/
+previous:
+  text: Major (Moodle) requirements for BIM 2.0
+  url: /blog2/2012/12/29/major-moodle-requirements-for-bim-2-0/
+title: Backup for BIM 2.0
 type: post
 template: blog-post.html
 ---

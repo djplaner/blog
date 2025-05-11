@@ -1,7 +1,14 @@
 ---
-title: Web 2.0 - change in people and society
+categories:
+- web-20-course-sites
 date: 2006-09-28 08:09:45+10:00
-categories: ['web-20-course-sites']
+next:
+  text: Social computing
+  url: /blog2/2006/09/28/social-computering/
+previous:
+  text: Adoption of Web 2.0
+  url: /blog2/2006/09/27/adoption-of-web-20/
+title: Web 2.0 - change in people and society
 type: post
 template: blog-post.html
 ---

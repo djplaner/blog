@@ -1,7 +1,14 @@
 ---
-title: Exploring more frameworks to understand OER/OEP
+categories:
+- oep
 date: 2016-10-10 15:18:54+10:00
-categories: ['oep']
+next:
+  text: Some MAV tasters
+  url: /blog2/2016/10/28/some-mav-tasters/
+previous:
+  text: Some findings from initial exploration of Moodle Book usage
+  url: /blog2/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
+title: Exploring more frameworks to understand OER/OEP
 type: post
 template: blog-post.html
 comments:

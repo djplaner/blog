@@ -1,7 +1,15 @@
 ---
-title: Scavenger hunt and other methods for getting into systems
+categories:
+- c2d2
+- elearning
 date: 2008-07-15 06:16:10+10:00
-categories: ['c2d2', 'elearning']
+next:
+  text: Encouraging use of learning networks - and dealing with me
+  url: /blog2/2008/07/15/encouraging-use-of-learning-networks-and-dealing-with-me/
+previous:
+  text: '&quot;Taxonomies&quot; for understanding applications of educational technology'
+  url: /blog2/2008/07/14/taxonomies-for-understanding-applications-of-educational-technology/
+title: Scavenger hunt and other methods for getting into systems
 type: post
 template: blog-post.html
 ---

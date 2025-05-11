@@ -1,7 +1,14 @@
 ---
-title: Ahh Mendeley and freemium tools
+categories:
+- edu8117
 date: 2014-08-23 14:09:49+10:00
-categories: ['edu8117']
+next:
+  text: One process for the NGL course
+  url: /blog2/2014/08/25/one-process-for-the-ngl-course/
+previous:
+  text: And more NGL catch up
+  url: /blog2/2014/08/22/and-more-ngl-catch-up/
+title: Ahh Mendeley and freemium tools
 type: post
 template: blog-post.html
 comments:

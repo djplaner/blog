@@ -1,7 +1,14 @@
 ---
-title: Do not fear perfection, you'll never achieve it
+categories:
+- edu8117
 date: 2014-08-17 12:48:19+10:00
-categories: ['edu8117']
+next:
+  text: '"Supported" versus "unsupported" ICTs in a network age'
+  url: /blog2/2014/08/18/supported-versus-unsupported-icts-in-a-network-age/
+previous:
+  text: Catching up on the NGL participation - part B
+  url: /blog2/2014/08/15/catching-up-on-the-ngl-participation-part-b/
+title: Do not fear perfection, you'll never achieve it
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Technology scan - CQU and e-learning
+categories:
+- elearning
 date: 2007-08-31 09:43:20+10:00
-categories: ['elearning']
+next:
+  text: Why "modeller-broker" orientation is inherently limited - bridging the gap
+  url: /blog2/2007/09/03/why-modeller-broker-orientation-is-inherently-limited-bridging-the-gap/
+previous:
+  text: The role for institutions with PLEs
+  url: /blog2/2007/08/31/the-role-for-institutions-with-ples/
+title: Technology scan - CQU and e-learning
 type: post
 template: blog-post.html
 ---

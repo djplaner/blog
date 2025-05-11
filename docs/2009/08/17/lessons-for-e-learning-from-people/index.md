@@ -1,7 +1,19 @@
 ---
-title: Lessons for e-learning from people
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-08-17 13:23:34+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Herding cats, losing weight and how to improve learning and teaching
+  url: /blog2/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/
+previous:
+  text: Moodle, curriculum mapping, task fit and task corruption
+  url: /blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
+title: Lessons for e-learning from people
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Alternate ways to get the real story in organisations
+categories:
+- cognitiveedge
 date: 2009-10-21 13:50:51+10:00
-categories: ['cognitiveedge']
+next:
+  text: Participation, impact, collecting data and connecting people
+  url: /blog2/2009/10/24/participation-impact-collecting-data-and-connecting-people/
+previous:
+  text: Choosing a research publication outlet
+  url: /blog2/2009/10/19/choosing-a-publication-outlet/
+title: Alternate ways to get the real story in organisations
 type: post
 template: blog-post.html
 ---

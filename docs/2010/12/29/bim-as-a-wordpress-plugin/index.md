@@ -1,7 +1,15 @@
 ---
-title: BIM as a Wordpress plugin?
+categories:
+- bim
+- bim2
 date: 2010-12-29 18:44:05+10:00
-categories: ['bim', 'bim2']
+next:
+  text: Progressing the student interface for bim2
+  url: /blog2/2010/12/30/progressing-the-student-interface-for-bim2/
+previous:
+  text: The student controller for bim2 - models and view
+  url: /blog2/2010/12/28/the-student-controller-for-bim2-models-and-view/
+title: BIM as a Wordpress plugin?
 type: post
 template: blog-post.html
 comments:

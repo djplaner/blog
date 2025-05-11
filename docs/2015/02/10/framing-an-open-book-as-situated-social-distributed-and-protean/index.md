@@ -1,7 +1,15 @@
 ---
-title: Framing an open book as situated, social, distributed and protean
+categories:
+- bad
+- oer
 date: 2015-02-10 13:29:01+10:00
-categories: ['bad', 'oer']
+next:
+  text: How to help improve the Moodle book module
+  url: /blog2/2015/02/10/how-to-help-improve-the-moodle-book-module/
+previous:
+  text: Kludging an authoring process with Moodle books (almost)
+  url: /blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
+title: Framing an open book as situated, social, distributed and protean
 type: post
 template: blog-post.html
 comments:

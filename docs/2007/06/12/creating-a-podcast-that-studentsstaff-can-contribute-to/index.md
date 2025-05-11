@@ -1,7 +1,14 @@
 ---
-title: Creating a podcast that students/staff can contribute to
+categories:
+- web-20-course-sites
 date: 2007-06-12 20:34:17+10:00
-categories: ['web-20-course-sites']
+next:
+  text: Thoughts on Carrick Awards Forum
+  url: /blog2/2007/06/13/thoughts-on-carrick-awards-forum/
+previous:
+  text: CQU&#039;s first Web 2.0 course site?
+  url: /blog2/2007/06/12/cqus-first-web-20-course-site/
+title: Creating a podcast that students/staff can contribute to
 type: post
 template: blog-post.html
 ---

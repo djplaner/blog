@@ -1,7 +1,19 @@
 ---
-title: Scaffolding, context-sensitive conglomerations in e-learning systems
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-09-03 12:48:16+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Misc. reflections on reading about situated cognition
+  url: /blog2/2010/09/03/misc-reflections-on-reading-about-situated-cognition/
+previous:
+  text: Situated shared practice, curriculum design and academic development
+  url: /blog2/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/
+title: Scaffolding, context-sensitive conglomerations in e-learning systems
 type: post
 template: blog-post.html
 ---

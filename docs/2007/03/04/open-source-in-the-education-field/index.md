@@ -1,7 +1,14 @@
 ---
-title: Open source in the education field
+categories:
+- elearning
 date: 2007-03-04 20:13:17+10:00
-categories: ['elearning']
+next:
+  text: Aims of a curriculum design group at a university
+  url: /blog2/2007/03/05/aims-of-a-curriculum-design-group-at-a-university/
+previous:
+  text: Universities as a business - but which business
+  url: /blog2/2007/03/04/universities-as-a-business-but-which-business/
+title: Open source in the education field
 type: post
 template: blog-post.html
 ---

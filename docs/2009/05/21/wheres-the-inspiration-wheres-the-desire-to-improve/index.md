@@ -1,7 +1,16 @@
 ---
-title: Where's the inspiration? Where's the desire to improve?
+categories:
+- elearning
+- innovation
+- reflectivealignment
 date: 2009-05-21 10:27:45+10:00
-categories: ['elearning', 'innovation', 'reflectivealignment']
+next:
+  text: '"Learning spaces: expenditure and time spent learning"'
+  url: /blog2/2009/05/21/learning-spaces-expenditure-and-time-spent-learning/
+previous:
+  text: Purpose - a component of the Ps Framework
+  url: /blog2/2009/05/20/purpose-a-component-of-the-ps-framework/
+title: Where's the inspiration? Where's the desire to improve?
 type: post
 template: blog-post.html
 comments:

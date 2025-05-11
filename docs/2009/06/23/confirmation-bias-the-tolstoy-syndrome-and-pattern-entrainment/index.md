@@ -1,7 +1,16 @@
 ---
-title: Confirmation bias, the Tolstoy Syndrome and pattern entrainment
+categories:
+- chapter-2
+- design-theory
+- thesis
 date: 2009-06-23 09:59:29+10:00
-categories: ['chapter-2', 'design-theory', 'thesis']
+next:
+  text: Students and e-learning - a start to the People section
+  url: /blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/
+previous:
+  text: 'PhD Update #15 - Some progress and an absence'
+  url: /blog2/2009/06/21/phd-update-15-some-progress-and-an-absence/
+title: Confirmation bias, the Tolstoy Syndrome and pattern entrainment
 type: post
 template: blog-post.html
 comments:

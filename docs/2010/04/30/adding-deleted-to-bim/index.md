@@ -1,7 +1,15 @@
 ---
-title: Adding \"deleted\" to BIM
+categories:
+- bim
+- moodle
 date: 2010-04-30 13:37:36+10:00
-categories: ['bim', 'moodle']
+next:
+  text: Can BIM support the use of Moodle blogs?
+  url: /blog2/2010/05/02/can-bim-support-the-use-of-moodle-blogs/
+previous:
+  text: The alignment project as leadership
+  url: /blog2/2010/04/29/the-alignment-project-as-leadership/
+title: Adding "deleted" to BIM
 type: post
 template: blog-post.html
 ---

@@ -1,8 +1,19 @@
 ---
-title: Some reasons why business intelligence tools aren't the right fit
+categories:
+- indicators
+- information-systems
 date: 2010-01-27 13:24:20+10:00
-categories: ['indicators', 'information-systems']
-tags: ['academicanalytics', 'analytics', 'knowledgemanagement']
+next:
+  text: '"BIM - tidy up #2"'
+  url: /blog2/2010/01/27/bim-tidy-up-2/
+previous:
+  text: BIM - Tidying up - Part 1
+  url: /blog2/2010/01/26/bim-tidying-up-part-1/
+tags:
+- academicanalytics
+- analytics
+- knowledgemanagement
+title: Some reasons why business intelligence tools aren't the right fit
 type: post
 template: blog-post.html
 ---

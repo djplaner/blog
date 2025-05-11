@@ -1,6 +1,12 @@
 ---
-title: "e&#038;i report #2 - 20th August - 1st September"
 date: 2009-09-01 09:41:56+10:00
+next:
+  text: Curriculum mapping, process, technology and higher education - some questions
+  url: /blog2/2009/09/01/curriculum-mapping-process-technology-and-higher-education/
+previous:
+  text: Product models - LMS, BoB and alternatives
+  url: /blog2/2009/08/31/product-models-lms-bob-and-alternatives/
+title: '"e&#038;i report #2 - 20th August - 1st September"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: Adoption of innovations and the \"not invented here\" syndrome
+categories:
+- elearning
+- herding-cats
+- react
 date: 2006-12-16 12:46:34+10:00
-categories: ['elearning', 'herding-cats', 'react']
+next:
+  text: Social capital - outcome and aim
+  url: /blog2/2006/12/16/social-capital-outcome-and-aim/
+previous:
+  text: Underpinnings for the REACT approach
+  url: /blog2/2006/12/16/underpinnings-for-the-react-approach/
+title: Adoption of innovations and the "not invented here" syndrome
 type: post
 template: blog-post.html
 ---

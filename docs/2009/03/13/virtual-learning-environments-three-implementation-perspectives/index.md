@@ -1,7 +1,18 @@
 ---
-title: "Virtual learning environments: three implementation perspectives"
+categories:
+- chapter-2
+- design-theory
+- elearning
+- psframework
+- thesis
 date: 2009-03-13 21:34:03+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'psframework', 'thesis']
+next:
+  text: '"Comparing VLEs/LMS to the past: flaws and implications for development models"'
+  url: /blog2/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+previous:
+  text: 'PhD update - week #3'
+  url: /blog2/2009/03/13/phd-update-week-3/
+title: '"Virtual learning environments: three implementation perspectives"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Learning brief - Reflections and conclusions - version 2.0
+categories:
+- eded20491
+- teaching
 date: 2011-03-18 10:21:07+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: '"Literacy and Numeracy: Week 3"'
+  url: /blog2/2011/03/20/literacy-and-numeracy-week-3/
+previous:
+  text: 'Reflection and conclusions: Learning brief'
+  url: /blog2/2011/03/15/reflection-and-conclusions-learning-brief/
+title: Learning brief - Reflections and conclusions - version 2.0
 type: post
 template: blog-post.html
 ---

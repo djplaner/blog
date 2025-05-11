@@ -1,8 +1,18 @@
 ---
-title: "Moodle book and GitHub: working together"
+categories:
+- moodle
+- moodleopenbook
+- thesis
 date: 2015-12-03 14:28:08+10:00
-categories: ['moodle', 'moodleopenbook', 'thesis']
-tags: ['oer']
+next:
+  text: '"Moodle book to a single file: which format?"'
+  url: /blog2/2015/12/11/moodle-book-to-a-single-file-which-format/
+previous:
+  text: 'Opening up and enhancing #moodle books with GitHub, ePub, etc.'
+  url: /blog2/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/
+tags:
+- oer
+title: '"Moodle book and GitHub: working together"'
 type: post
 template: blog-post.html
 comments:

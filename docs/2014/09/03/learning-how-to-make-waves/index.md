@@ -1,7 +1,15 @@
 ---
-title: Learning how to make waves
+categories:
+- connectedcourses
+- edu8117
 date: 2014-09-03 12:33:26+10:00
-categories: ['connectedcourses', 'edu8117']
+next:
+  text: The balkanisation threat to network learning
+  url: /blog2/2014/09/04/the-balkanisation-threat-to-network-learning/
+previous:
+  text: Too much stuff, not enough time
+  url: /blog2/2014/09/02/too-much-stuff-not-enough-time/
+title: Learning how to make waves
 type: post
 template: blog-post.html
 comments:

@@ -1,6 +1,6 @@
 ---
-title: Emergent Development and the Virtual University
 date: 2008-11-16 10:08:29+10:00
+title: Emergent Development and the Virtual University
 type: page
 template: blog-post.html
 comments:

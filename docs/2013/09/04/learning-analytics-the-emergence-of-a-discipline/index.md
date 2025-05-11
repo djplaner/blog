@@ -1,7 +1,14 @@
 ---
-title: "Learning Analytics: The Emergence of a Discipline"
+categories:
+- learninganalytics-elearning
 date: 2013-09-04 09:09:56+10:00
-categories: ['learninganalytics-elearning']
+next:
+  text: The importance of "We don't know what we're doing"
+  url: /blog2/2013/09/04/the-importance-of-we-dont-know-what-were-doing/
+previous:
+  text: An overview of learning analytics
+  url: /blog2/2013/08/31/an-overview-of-learning-analytics/
+title: '"Learning Analytics: The Emergence of a Discipline"'
 type: post
 template: blog-post.html
 comments:

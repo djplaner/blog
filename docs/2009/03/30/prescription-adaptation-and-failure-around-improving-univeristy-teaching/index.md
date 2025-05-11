@@ -1,7 +1,22 @@
 ---
-title: Prescription, adaptation and failure around improving univeristy teaching
+categories:
+- chapter-2
+- cqulearninghistory
+- design-theory
+- elearning
+- phd
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-03-30 12:26:22+10:00
-categories: ['chapter-2', 'cqulearninghistory', 'design-theory', 'elearning', 'phd', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: '"Implementing an institution-wide learning and teaching strategy: lessons
+    in managing change"'
+  url: /blog2/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/
+previous:
+  text: 'PhD Update #5 - a new low'
+  url: /blog2/2009/03/27/phd-update-5-a-new-low/
+title: Prescription, adaptation and failure around improving univeristy teaching
 type: post
 template: blog-post.html
 comments:

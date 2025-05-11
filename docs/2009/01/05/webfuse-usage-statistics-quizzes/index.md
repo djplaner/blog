@@ -1,7 +1,15 @@
 ---
-title: Webfuse usage statistics - Quizzes
+categories:
+- thesis
+- webfuse
 date: 2009-01-05 11:52:42+10:00
-categories: ['thesis', 'webfuse']
+next:
+  text: Webfuse statistics - Staff Portal
+  url: /blog2/2009/01/05/webfuse-statistics-staff-portal/
+previous:
+  text: Operating Systems animations and other resources
+  url: /blog2/2008/12/30/operating-systems-animations-and-other-resources/
+title: Webfuse usage statistics - Quizzes
 type: post
 template: blog-post.html
 ---

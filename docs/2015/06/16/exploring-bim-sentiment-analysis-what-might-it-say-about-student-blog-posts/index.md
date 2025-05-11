@@ -1,7 +1,17 @@
 ---
-title: Exploring BIM + sentiment analysis - what might it say about student blog posts
+categories:
+- 4paths
+- bad
+- bim
+- indicators
 date: 2015-06-16 22:35:51+10:00
-categories: ['4paths', 'bad', 'bim', 'indicators']
+next:
+  text: Revisiting the IRAC framework and looking for insights
+  url: /blog2/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/
+previous:
+  text: Types of e-learning projects and the problem of starvation
+  url: /blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
+title: Exploring BIM + sentiment analysis - what might it say about student blog posts
 type: post
 template: blog-post.html
 comments:

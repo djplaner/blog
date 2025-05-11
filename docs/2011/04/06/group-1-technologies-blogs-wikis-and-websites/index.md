@@ -1,7 +1,15 @@
 ---
-title: "Group 1 Technologies: Blogs, Wikis and Websites"
+categories:
+- eded20491
+- teaching
 date: 2011-04-06 11:45:29+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: BIM on the back burner
+  url: /blog2/2011/04/07/bim-on-the-back-burner/
+previous:
+  text: Building a collaborative CV09 podcast
+  url: /blog2/2011/04/06/building-a-collaborative-cv09-podcast/
+title: '"Group 1 Technologies: Blogs, Wikis and Websites"'
 type: post
 template: blog-post.html
 ---

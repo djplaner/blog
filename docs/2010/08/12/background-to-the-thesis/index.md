@@ -1,7 +1,19 @@
 ---
-title: Background to the thesis
+categories:
+- chapter-1
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-08-12 12:12:17+10:00
-categories: ['chapter-1', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Situated/distributed cognition and e-learning
+  url: /blog2/2010/08/13/situateddistributed-cognition-and-e-learning/
+previous:
+  text: The McNamara Fallacy and pass rates, academic analytics, and engagement
+  url: /blog2/2010/08/09/the-mcnamara-fallacy-and-pass-rates-academic-analytics-and-engagement/
+title: Background to the thesis
 type: post
 template: blog-post.html
 ---

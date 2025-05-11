@@ -1,7 +1,14 @@
 ---
-title: BIM - manage marking - view and release
+categories:
+- bim
 date: 2010-01-17 22:20:26+10:00
-categories: ['bim']
+next:
+  text: Questions about alternatives to curriculum mapping
+  url: /blog2/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
+previous:
+  text: BIM - Manage Marking
+  url: /blog2/2010/01/17/bim-manage-marking/
+title: BIM - manage marking - view and release
 type: post
 template: blog-post.html
 ---

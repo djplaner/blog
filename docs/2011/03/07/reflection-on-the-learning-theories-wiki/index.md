@@ -1,7 +1,15 @@
 ---
-title: Reflection on the learning theories wiki
+categories:
+- eded20491
+- teaching
 date: 2011-03-07 14:44:37+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: '"ICTs for Learning Design: Week 2"'
+  url: /blog2/2011/03/08/icts-for-learning-design-week-2/
+previous:
+  text: 'Reflection on the profile Wiki: ICTs for Learning Design'
+  url: /blog2/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/
+title: Reflection on the learning theories wiki
 type: post
 template: blog-post.html
 comments:

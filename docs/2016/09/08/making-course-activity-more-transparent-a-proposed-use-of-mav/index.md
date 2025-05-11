@@ -1,7 +1,15 @@
 ---
-title: "Making course activity more transparent: A proposed use of MAV"
+categories:
+- bad
+- pirac
 date: 2016-09-08 13:04:01+10:00
-categories: ['bad', 'pirac']
+next:
+  text: Which comes first? Pedagogy or technology?
+  url: /blog2/2016/09/11/which-comes-first-pedagogy-or-technology/
+previous:
+  text: 'University digital technology: problems, causes, and suggested solutions'
+  url: /blog2/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+title: '"Making course activity more transparent: A proposed use of MAV"'
 type: post
 template: blog-post.html
 comments:

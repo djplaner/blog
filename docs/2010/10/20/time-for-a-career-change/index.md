@@ -1,7 +1,14 @@
 ---
-title: Time for a career change?
+categories:
+- thesis
 date: 2010-10-20 17:26:45+10:00
-categories: ['thesis']
+next:
+  text: Ideas for extending the flexibility of BIM
+  url: /blog2/2010/10/21/ideas-for-extending-the-flexibility-of-bim/
+previous:
+  text: Change in education, failure to learn and the commodification of university
+  url: /blog2/2010/10/19/change-in-education-failure-to-learn-and-the-commodification-of-university/
+title: Time for a career change?
 type: post
 template: blog-post.html
 comments:

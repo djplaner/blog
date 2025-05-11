@@ -1,7 +1,20 @@
 ---
-title: "Evaluation of Webfuse course site feature usage: 2006 through 2009"
+categories:
+- chapter-5
+- cqulearninghistory
+- design-theory
+- elearning
+- indicators
+- thesis
+- webfuse
 date: 2009-08-02 13:09:04+10:00
-categories: ['chapter-5', 'cqulearninghistory', 'design-theory', 'elearning', 'indicators', 'thesis', 'webfuse']
+next:
+  text: '"PhD Update #19 - Falling just a little short"'
+  url: /blog2/2009/08/02/phd-update-19-falling-just-a-little-short/
+previous:
+  text: How the LMS - as enterprise system - warps the practice of L&#038;T
+  url: /blog2/2009/08/02/how-the-lms-as-enterprise-system-warps-the-practice-of-lt/
+title: '"Evaluation of Webfuse course site feature usage: 2006 through 2009"'
 type: post
 template: blog-post.html
 comments:

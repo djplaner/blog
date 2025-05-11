@@ -1,7 +1,15 @@
 ---
-title: Early steps in developing a design system/model for Professional Learning Opportunities
+categories:
+- eei
+- plos
 date: 2017-04-26 15:10:02+10:00
-categories: ['eei', 'plos']
+next:
+  text: Bye, Bye Mendeley?
+  url: /blog2/2017/05/20/bye-bye-mendeley/
+previous:
+  text: Understanding systems conditions for sustainable uptake of learning analytics
+  url: /blog2/2017/04/02/understanding-systems-conditions-for-sustainable-uptake-of-learning-analytics/
+title: Early steps in developing a design system/model for Professional Learning Opportunities
 type: post
 template: blog-post.html
 ---

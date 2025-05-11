@@ -1,7 +1,20 @@
 ---
-title: The VLE model and the wrong level of abstraction
+categories:
+- chapter-5
+- design-theory
+- elearning
+- moodle
+- phd
+- thesis
+- webfuse
 date: 2010-07-04 10:24:05+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'moodle', 'phd', 'thesis', 'webfuse']
+next:
+  text: McGuffins, learning, teaching and universities
+  url: /blog2/2010/07/04/mcguffins-learning-teaching-and-universities/
+previous:
+  text: Webfuse feature adoption - 1997 through 2009
+  url: /blog2/2010/07/01/webfuse-feature-adoption-1997-through-2009/
+title: The VLE model and the wrong level of abstraction
 type: post
 template: blog-post.html
 comments:

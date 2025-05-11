@@ -1,6 +1,6 @@
 ---
-title: An Information Systems Design Theory for e-Learning
 date: 2008-12-29 14:33:01+10:00
+title: An Information Systems Design Theory for e-Learning
 type: page
 template: blog-post.html
 comments:

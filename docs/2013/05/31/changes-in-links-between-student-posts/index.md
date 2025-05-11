@@ -1,7 +1,15 @@
 ---
-title: Changes in links between student posts
+categories:
+- bim2
+- edc3100
 date: 2013-05-31 10:16:10+10:00
-categories: ['bim2', 'edc3100']
+next:
+  text: '"Schools and computers: Tales of a digital romance"'
+  url: /blog2/2013/06/03/schools-and-computers-tales-of-a-digital-romance/
+previous:
+  text: One-size-fits-all formulas
+  url: /blog2/2013/05/29/one-size-fits-all-formulas/
+title: Changes in links between student posts
 type: post
 template: blog-post.html
 comments:

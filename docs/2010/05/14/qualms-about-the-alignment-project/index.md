@@ -1,7 +1,14 @@
 ---
-title: Qualms about the alignment project
+categories:
+- alignment
 date: 2010-05-14 14:13:53+10:00
-categories: ['alignment']
+next:
+  text: Some tweaks to the indicators block
+  url: /blog2/2010/05/14/some-tweaks-to-the-indicators-block/
+previous:
+  text: Getting started with Col&#039;s indicators block
+  url: /blog2/2010/05/13/getting-started-with-cols-indicators-block/
+title: Qualms about the alignment project
 type: post
 template: blog-post.html
 comments:

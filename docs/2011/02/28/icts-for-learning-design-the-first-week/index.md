@@ -1,7 +1,16 @@
 ---
-title: ICTs for learning design - the first week
+categories:
+- eded20491
+- teaching
 date: 2011-02-28 10:40:22+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: The dissonance between the constructivist paradigm and the implementation
+    of institutional e-learning
+  url: /blog2/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
+previous:
+  text: Thoughts and applications of connectivism
+  url: /blog2/2011/02/28/thoughts-and-applications-of-connectivism/
+title: ICTs for learning design - the first week
 type: post
 template: blog-post.html
 comments:

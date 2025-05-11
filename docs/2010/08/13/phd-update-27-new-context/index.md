@@ -1,7 +1,15 @@
 ---
-title: "PhD Update #27 - New context"
+categories:
+- phd
+- thesis
 date: 2010-08-13 13:08:53+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Analysing the business model for higher education and why they can't
+  url: /blog2/2010/08/15/analysing-the-business-model-for-higher-education-and-why-they-cant/
+previous:
+  text: Situated/distributed cognition and e-learning
+  url: /blog2/2010/08/13/situateddistributed-cognition-and-e-learning/
+title: '"PhD Update #27 - New context"'
 type: post
 template: blog-post.html
 ---

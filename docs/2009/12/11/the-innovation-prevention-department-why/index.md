@@ -1,8 +1,17 @@
 ---
-title: "The Innovation Prevention Department: Why?"
+categories:
+- elearning
+- innovation
 date: 2009-12-11 11:42:08+10:00
-categories: ['elearning', 'innovation']
-tags: ['ascilite09']
+next:
+  text: '"Getting back into BIM: Summary and way forward"'
+  url: /blog2/2009/12/14/getting-back-into-bim-summary-and-way-forward/
+previous:
+  text: Change the environment, not the culture
+  url: /blog2/2009/12/09/change-the-environment-not-the-culture/
+tags:
+- ascilite09
+title: '"The Innovation Prevention Department: Why?"'
 type: post
 template: blog-post.html
 comments:

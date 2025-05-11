@@ -1,7 +1,16 @@
 ---
-title: "Phd Update #11 - very short week"
+categories:
+- design-theory
+- phd
+- thesis
 date: 2009-05-15 15:38:16+10:00
-categories: ['design-theory', 'phd', 'thesis']
+next:
+  text: Lessons from place
+  url: /blog2/2009/05/17/lessons-from-place/
+previous:
+  text: Institution - another part of place
+  url: /blog2/2009/05/15/institution-another-part-of-place/
+title: '"Phd Update #11 - very short week"'
 type: post
 template: blog-post.html
 comments:

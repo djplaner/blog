@@ -1,8 +1,17 @@
 ---
-title: Finishing tweaks to Moodle book search block
+categories:
+- thesis
 date: 2016-01-17 14:31:10+10:00
-categories: ['thesis']
-tags: ['moodleopenbook']
+next:
+  text: '"Mapping the digital practices of teacher educators: Implications for teacher
+    education in changing digital landscapes"'
+  url: /blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/
+previous:
+  text: Tweaking Moodle book search
+  url: /blog2/2015/12/15/tweaking-moodle-book-search/
+tags:
+- moodleopenbook
+title: Finishing tweaks to Moodle book search block
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: ICT knowledge and quizzes
+categories:
+- edc3100
 date: 2015-08-13 13:02:39+10:00
-categories: ['edc3100']
+next:
+  text: How might github and the Moodle book module work together
+  url: /blog2/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/
+previous:
+  text: Possible sources of an institution&#039;s e-learning content problems
+  url: /blog2/2015/08/13/possible-sources-of-an-institutions-e-learning-content-problems/
+title: ICT knowledge and quizzes
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: The role of experience
+categories:
+- herding-cats
+- reflectivealignment
 date: 2010-06-02 10:20:34+10:00
-categories: ['herding-cats', 'reflectivealignment']
+next:
+  text: The design of a Moodle course site
+  url: /blog2/2010/06/02/the-design-of-a-moodle-course-site/
+previous:
+  text: Adding OPML feeds to BIM
+  url: /blog2/2010/06/01/adding-opml-feeds-to-bim/
+title: The role of experience
 type: post
 template: blog-post.html
 comments:

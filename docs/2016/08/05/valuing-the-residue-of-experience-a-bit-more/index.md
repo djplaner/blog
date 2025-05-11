@@ -1,7 +1,15 @@
 ---
-title: Valuing the \"residue of experience\" a bit more
+categories:
+- edc3100
+- edu8117
 date: 2016-08-05 10:46:29+10:00
-categories: ['edc3100', 'edu8117']
+next:
+  text: How and why do people use the Moodle Book module?
+  url: /blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/
+previous:
+  text: Planning changes to EDC3100 assignment 1
+  url: /blog2/2016/07/13/planning-changes-to-edc3100-assignment-1/
+title: Valuing the "residue of experience" a bit more
 type: post
 template: blog-post.html
 ---

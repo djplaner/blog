@@ -1,7 +1,14 @@
 ---
-title: Some readings on networked learning
+categories:
+- edu8117
 date: 2014-07-29 14:19:32+10:00
-categories: ['edu8117']
+next:
+  text: A bit more exploration of identity
+  url: /blog2/2014/07/29/a-bit-more-exploration-of-identity/
+previous:
+  text: Creating the EDC3100 OPML files
+  url: /blog2/2014/07/28/creating-the-edc3100-opml-files/
+title: Some readings on networked learning
 type: post
 template: blog-post.html
 comments:

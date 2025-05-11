@@ -1,7 +1,19 @@
 ---
-title: The Ps framework
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- thesis
 date: 2009-03-18 21:18:23+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'thesis']
+next:
+  text: Coordination, support and knowledge sharing associated with e-learning - where
+    does your organisation fit?
+  url: /blog2/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/
+previous:
+  text: '&quot;Blame the teacher&quot; and its negative impact on learning and e-learning'
+  url: /blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
+title: The Ps framework
 type: post
 template: blog-post.html
 comments:

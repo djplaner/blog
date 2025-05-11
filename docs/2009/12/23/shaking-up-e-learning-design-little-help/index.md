@@ -1,7 +1,15 @@
 ---
-title: Shaking up e-learning \"design\" - little help?
+categories:
+- bim
+- elearning
 date: 2009-12-23 09:28:50+10:00
-categories: ['bim', 'elearning']
+next:
+  text: '"Herding cats and losing weight: the vimeo video"'
+  url: /blog2/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/
+previous:
+  text: BIM - cron and view student details screen
+  url: /blog2/2009/12/22/bim-cron-and-view-student-details-screen/
+title: Shaking up e-learning "design" - little help?
 type: post
 template: blog-post.html
 comments:

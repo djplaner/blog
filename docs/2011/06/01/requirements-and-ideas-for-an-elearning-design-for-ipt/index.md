@@ -1,7 +1,16 @@
 ---
-title: Requirements and ideas for an eLearning design for IPT
+categories:
+- eded20491
+- ipt
+- teaching
 date: 2011-06-01 08:22:23+10:00
-categories: ['eded20491', 'ipt', 'teaching']
+next:
+  text: A profile of learners in an IPT class
+  url: /blog2/2011/06/02/a-profile-of-learners-in-an-ipt-class/
+previous:
+  text: And the thesis is complete, what&#039;s next?
+  url: /blog2/2011/05/27/and-the-thesis-is-complete-whats-next/
+title: Requirements and ideas for an eLearning design for IPT
 type: post
 template: blog-post.html
 comments:

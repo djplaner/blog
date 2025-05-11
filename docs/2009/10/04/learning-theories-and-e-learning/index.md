@@ -1,7 +1,19 @@
 ---
-title: Learning theories and e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-10-04 13:46:49+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Lessons from Pedagogy for e-learning
+  url: /blog2/2009/10/04/lessons-from-pedagogy-for-e-learning/
+previous:
+  text: Online learning better than blended learning?
+  url: /blog2/2009/10/04/online-learning-better-than-blended-learning/
+title: Learning theories and e-learning
 type: post
 template: blog-post.html
 comments:

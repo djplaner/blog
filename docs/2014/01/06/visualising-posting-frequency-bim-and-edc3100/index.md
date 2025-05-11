@@ -1,7 +1,16 @@
 ---
-title: "Visualising posting frequency: BIM and EDC3100"
+categories:
+- bim2
 date: 2014-01-06 11:37:00+10:00
-categories: ['bim2']
+next:
+  text: '"Missing affordances - A partial explanation for the quality of University
+    L&#038;T"'
+  url: /blog2/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/
+previous:
+  text: Reflective Blogging as part of ICT Professional Development to Support Pedagogical
+    Change
+  url: /blog2/2014/01/03/reflective-blogging-as-part-of-ict-professional-development-to-support-pedagogical-change/
+title: '"Visualising posting frequency: BIM and EDC3100"'
 type: post
 template: blog-post.html
 comments:

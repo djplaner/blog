@@ -1,6 +1,6 @@
 ---
-title: BIM to do list
 date: 2009-09-08 15:19:57+10:00
+title: BIM to do list
 type: page
 template: blog-post.html
 comments:

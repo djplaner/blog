@@ -1,7 +1,17 @@
 ---
-title: Why formulaic guidance annoys experts and why they ignore the needs of the novice
+categories:
+- anu
+- design-theory
+- phd
 date: 2009-02-27 15:29:33+10:00
-categories: ['anu', 'design-theory', 'phd']
+next:
+  text: '"PhD update #1 - the start of a tradition?"'
+  url: /blog2/2009/02/27/phd-update-1-the-start-of-a-tradition/
+previous:
+  text: Minute papers - encouraging reflection?
+  url: /blog2/2009/02/27/minute-papers-encouraging-relection/
+title: Why formulaic guidance annoys experts and why they ignore the needs of the
+  novice
 type: post
 template: blog-post.html
 comments:

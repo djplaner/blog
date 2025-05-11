@@ -1,8 +1,17 @@
 ---
-title: "Learning analytics is about learning - #ascilite"
+categories:
+- elearning
+- learninganalytics-elearning
 date: 2013-12-01 09:15:11+10:00
-categories: ['elearning', 'learninganalytics-elearning']
-tags: ['ascilite']
+next:
+  text: '"Interfaces for learning data visualisations - #ascilite."'
+  url: /blog2/2013/12/01/interfaces-for-learning-data-visualisations-ascilite/
+previous:
+  text: The external validity problem
+  url: /blog2/2013/11/22/the-external-validity-problem/
+tags:
+- ascilite
+title: '"Learning analytics is about learning - #ascilite"'
 type: post
 template: blog-post.html
 comments:

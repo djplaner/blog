@@ -1,7 +1,15 @@
 ---
-title: Post to fix the feed
+categories:
+- thesis
 date: 2009-04-09 15:16:00+10:00
-categories: ['thesis']
+next:
+  text: Wordpress eating posts
+  url: /blog2/2009/04/11/wordpress-eating-posts/
+previous:
+  text: 'Edupunk rules: Technology I, II and 3 - understanding and improving the practice
+    of instructional technology'
+  url: /blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/
+title: Post to fix the feed
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,18 @@
 ---
-title: Patterns for e-learning - a lost opportunity or destined to fail
+categories:
+- cognitiveedge
+- cqulearninghistory
+- elearning
+- patterns
+- react
 date: 2009-02-22 21:49:31+10:00
-categories: ['cognitiveedge', 'cqulearninghistory', 'elearning', 'patterns', 'react']
+next:
+  text: When was this - past experience of e-learning
+  url: /blog2/2009/02/23/when-was-this-past-experience-of-e-learning/
+previous:
+  text: '&quot;An ISDT for e-learning&quot; - Audio is now synchronized'
+  url: /blog2/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
+title: Patterns for e-learning - a lost opportunity or destined to fail
 type: post
 template: blog-post.html
 comments:

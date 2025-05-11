@@ -1,8 +1,18 @@
 ---
-title: "Does GPA make any difference to #moodle course usage?"
+categories:
+- elearning
+- indicators
+- learninganalytics-elearning
 date: 2014-02-20 13:48:53+10:00
-categories: ['elearning', 'indicators', 'learninganalytics-elearning']
-tags: ['mav']
+next:
+  text: An ateleological quote
+  url: /blog2/2014/02/22/an-ateleological-quote/
+previous:
+  text: 'Looking for a new &quot;icebreaker&quot; for #edc3100'
+  url: /blog2/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/
+tags:
+- mav
+title: '"Does GPA make any difference to #moodle course usage?"'
 type: post
 template: blog-post.html
 comments:

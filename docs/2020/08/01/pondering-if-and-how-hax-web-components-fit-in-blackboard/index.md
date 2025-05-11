@@ -1,8 +1,15 @@
 ---
-title: Pondering if and how Hax & web components fit in Blackboard
+categories:
+- casa
+coverImage: house.jpg
 date: 2020-08-01 18:10:57+10:00
-categories: ['casa']
-coverImage: 3135763571_5fe11a2e37_o-scaled-e1596438098521.jpg
+next:
+  text: Visualising and pruning my Memex
+  url: /blog2/2020/08/09/visualising-and-pruning-my-memex/
+previous:
+  text: Getting started with memex
+  url: /blog2/2020/07/07/getting-started-with-memex/
+title: Pondering if and how Hax & web components fit in Blackboard
 type: post
 template: blog-post.html
 comments:
@@ -104,7 +111,9 @@ Instead - like all web components - I used a specially created HTML tag. Just li
 To do this I would (and did) add the following HTML to my Blackboard page.
 
 ```html 
+
 <p><meme-maker alt="happy dance GIF by SpongeBob SquarePants" image-url="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" top-text="Hello" bottom-text="World" imageurl="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" toptext="happy dance GIF by SpongeBob SquarePants"></p>
+
 ``` 
 
 Which produces the following (all on the same Blackboard page).

@@ -1,7 +1,15 @@
 ---
-title: "Engaging with #etmooc - how and what perspective"
+categories:
+- etmooc
 date: 2013-01-15 09:32:56+10:00
-categories: ['etmooc']
+next:
+  text: A sign of limitations of institution hosted e-portfolios? And cost as the
+    ultimate driver
+  url: /blog2/2013/01/21/a-sign-of-limitations-of-institution-hosted-e-portfolios-and-cost-as-the-ultimate-driver/
+previous:
+  text: Making some &quot;3100&quot; thinking explicit
+  url: /blog2/2013/01/11/making-some-3100-thinking-explicit/
+title: '"Engaging with #etmooc - how and what perspective"'
 type: post
 template: blog-post.html
 comments:

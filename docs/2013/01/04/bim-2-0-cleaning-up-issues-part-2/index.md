@@ -1,7 +1,15 @@
 ---
-title: BIM 2.0 - Cleaning up issues - Part 2
+categories:
+- bim
+- bim2
 date: 2013-01-04 20:09:44+10:00
-categories: ['bim', 'bim2']
+next:
+  text: BIM 2.0 - cleaning up part 3
+  url: /blog2/2013/01/06/bim-2-0-cleaning-up-part-3/
+previous:
+  text: When will we no longer teach ICTs to pre-service teachers?
+  url: /blog2/2013/01/02/when-will-we-no-longer-teach-icts-to-pre-service-teachers/
+title: BIM 2.0 - Cleaning up issues - Part 2
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,20 @@
 ---
-title: The reason *insert label* talk about gurus is because they can’t spell the word charlatan
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-06-21 10:42:49+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Lessons from process for university e-learning
+  url: /blog2/2009/06/21/lessons-from-process-for-university-e-learning/
+previous:
+  text: Learning and teaching processes
+  url: /blog2/2009/06/19/learning-and-teaching-processes/
+title: "The reason *insert label* talk about gurus is because they can\u2019t spell\
+  \ the word charlatan"
 type: post
 template: blog-post.html
 ---

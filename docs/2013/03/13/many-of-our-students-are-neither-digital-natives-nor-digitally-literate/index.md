@@ -1,7 +1,16 @@
 ---
-title: Many of our students are neither digital natives nor digitally literate
+categories:
+- edc3100
+- elearning
+- teaching
 date: 2013-03-13 11:35:03+10:00
-categories: ['edc3100', 'elearning', 'teaching']
+next:
+  text: '"Visualising the blog network of #edc3100 students"'
+  url: /blog2/2013/03/18/visualising-the-blog-network-of-edc3100-students/
+previous:
+  text: The absence of a search function - my current big problem with a Moodle installation
+  url: /blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/
+title: Many of our students are neither digital natives nor digitally literate
 type: post
 template: blog-post.html
 comments:

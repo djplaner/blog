@@ -1,7 +1,17 @@
 ---
-title: Minute papers - encouraging reflection?
+categories:
+- bam
+- elearning
 date: 2009-02-27 09:20:03+10:00
-categories: ['bam', 'elearning']
+next:
+  text: Why formulaic guidance annoys experts and why they ignore the needs of the
+    novice
+  url: /blog2/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
+previous:
+  text: Improving university teaching - learning from constructive alignment by *NOT*
+    mandating it
+  url: /blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
+title: Minute papers - encouraging reflection?
 type: post
 template: blog-post.html
 comments:

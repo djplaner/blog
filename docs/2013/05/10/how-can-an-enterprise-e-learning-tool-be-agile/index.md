@@ -1,7 +1,15 @@
 ---
-title: How can an \"enterprise\" e-learning tool be agile?
+categories:
+- bim
+- elearning
 date: 2013-05-10 16:05:53+10:00
-categories: ['bim', 'elearning']
+next:
+  text: '"Moodle, BIM, reflective journals and TPACK: Suggestions for moving beyond"'
+  url: /blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/
+previous:
+  text: Everything old is new again
+  url: /blog2/2013/05/04/everything-old-is-new-again/
+title: How can an "enterprise" e-learning tool be agile?
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: Schools, systems and change done to me
+categories:
+- teaching
 date: 2010-11-29 11:02:25+10:00
-categories: ['teaching']
+next:
+  text: More testing for Moodle and BIM versions 2.0
+  url: /blog2/2010/12/02/more-testing-for-moodle-and-bim-versions-2-0/
+previous:
+  text: Charity begins at home, doesn&#039;t it?
+  url: /blog2/2010/11/28/charity-begins-at-home-doesnt-it/
+title: Schools, systems and change done to me
 type: post
 template: blog-post.html
 ---

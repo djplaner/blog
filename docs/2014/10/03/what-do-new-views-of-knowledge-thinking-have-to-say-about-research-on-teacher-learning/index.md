@@ -1,7 +1,15 @@
 ---
-title: "What do new views of knowledge &#038; thinking have to say about research on teacher learning?"
+categories:
+- bad
 date: 2014-10-03 10:20:06+10:00
-categories: ['bad']
+next:
+  text: On the difference between "rational", "possible" and "desirable"
+  url: /blog2/2014/10/09/on-the-difference-between-rational-possible-and-desirable/
+previous:
+  text: Unintended consequences of technology in education
+  url: /blog2/2014/10/02/unintended-consequences-of-technology-in-education/
+title: '"What do new views of knowledge &#038; thinking have to say about research
+  on teacher learning?"'
 type: post
 template: blog-post.html
 ---

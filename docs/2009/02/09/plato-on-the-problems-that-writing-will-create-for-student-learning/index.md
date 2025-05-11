@@ -1,7 +1,19 @@
 ---
-title: Plato on the problems that writing will create for student learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- quotes
+- thesis
 date: 2009-02-09 09:15:53+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'quotes', 'thesis']
+next:
+  text: On the silliness of "best practice" - or why you shouldn't (just) copy successful
+    organisations
+  url: /blog2/2009/02/09/on-the-silliness-of-best-practice-or-why-you-shouldnt-just-copy-successful-organisations/
+previous:
+  text: VoiceThread as a mechanism for feedback to students
+  url: /blog2/2009/02/08/voicethread-as-a-mechanism-for-feedback-to-students/
+title: Plato on the problems that writing will create for student learning
 type: post
 template: blog-post.html
 comments:

@@ -1,8 +1,16 @@
 ---
-title: Choosing a research publication outlet
+categories:
+- publication
 date: 2009-10-19 09:12:19+10:00
-categories: ['publication']
-tags: ['era']
+next:
+  text: Alternate ways to get the real story in organisations
+  url: /blog2/2009/10/21/alternate-ways-to-get-the-real-story-in-organisations/
+previous:
+  text: Podcast for presentations at the PLEs &#038; PLNs symposium
+  url: /blog2/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/
+tags:
+- era
+title: Choosing a research publication outlet
 type: post
 template: blog-post.html
 comments:

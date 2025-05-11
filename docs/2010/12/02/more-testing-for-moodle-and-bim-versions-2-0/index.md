@@ -1,7 +1,14 @@
 ---
-title: More testing for Moodle and BIM versions 2.0
+categories:
+- bim
 date: 2010-12-02 11:25:19+10:00
-categories: ['bim']
+next:
+  text: A new theme for Moodle 2
+  url: /blog2/2010/12/06/a-new-theme-for-moodle-2/
+previous:
+  text: Schools, systems and change done to me
+  url: /blog2/2010/11/29/schools-systems-and-change-done-to-me/
+title: More testing for Moodle and BIM versions 2.0
 type: post
 template: blog-post.html
 ---

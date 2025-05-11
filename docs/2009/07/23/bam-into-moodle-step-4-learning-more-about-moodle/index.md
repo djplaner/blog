@@ -1,7 +1,14 @@
 ---
-title: "BAM into Moodle Step #4 - Learning more about Moodle"
+categories:
+- bam
 date: 2009-07-23 13:12:14+10:00
-categories: ['bam']
+next:
+  text: '"BAM into Moodle #5 - Coding a block?"'
+  url: /blog2/2009/07/23/bam-into-moodle-5-coding-a-block/
+previous:
+  text: Improving CEQ Outcomes
+  url: /blog2/2009/07/23/improving-ceq-outcomes/
+title: '"BAM into Moodle Step #4 - Learning more about Moodle"'
 type: post
 template: blog-post.html
 ---

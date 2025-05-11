@@ -1,7 +1,15 @@
 ---
-title: And the little one said, \"roll over, roll over\"
+categories:
+- edc3100
+- moodle
 date: 2015-06-26 14:12:49+10:00
-categories: ['edc3100', 'moodle']
+next:
+  text: Re-building results processing
+  url: /blog2/2015/07/01/re-building-results-processing/
+previous:
+  text: 'Dashboards suck: learning analytics&#039; broken metaphor'
+  url: /blog2/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/
+title: And the little one said, "roll over, roll over"
 type: post
 template: blog-post.html
 comments:

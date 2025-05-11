@@ -1,7 +1,15 @@
 ---
-title: Thesis 1.2 - Background to the research
+categories:
+- chapter-1
+- thesis
 date: 2007-03-10 20:05:53+10:00
-categories: ['chapter-1', 'thesis']
+next:
+  text: CAUDIT CIO's top 10 issues list - and what it says about them (to me)
+  url: /blog2/2007/03/10/caudit-cios-top-10-issues-list-and-what-it-says-about-them-to-me/
+previous:
+  text: Thesis 1.1 - Introduction
+  url: /blog2/2007/03/10/thesis-11-introduction/
+title: Thesis 1.2 - Background to the research
 type: post
 template: blog-post.html
 ---

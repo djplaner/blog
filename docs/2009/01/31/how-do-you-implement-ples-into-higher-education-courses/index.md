@@ -1,8 +1,18 @@
 ---
-title: How do you implement PLEs into higher education courses?
+categories:
+- elearning
+- ple
+- plescquni
 date: 2009-01-31 10:18:35+10:00
-categories: ['elearning', 'ple', 'plescquni']
-tags: ['ple-elearning20']
+next:
+  text: EasyCrop - preparing photos for the rotating banner
+  url: /blog2/2009/02/01/easycrop-preparing-photos-for-the-rotating-banner/
+previous:
+  text: Using a blog for course design foult sessions
+  url: /blog2/2009/01/30/using-a-blog-for-course-design-foult-sessions/
+tags:
+- ple-elearning20
+title: How do you implement PLEs into higher education courses?
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: BIM 2.0 - cleaning up part 3
+categories:
+- bim
+- bim2
 date: 2013-01-06 22:02:57+10:00
-categories: ['bim', 'bim2']
+next:
+  text: Analytics for Learning and Teaching
+  url: /blog2/2013/01/08/analytics-for-learning-and-teaching/
+previous:
+  text: BIM 2.0 - Cleaning up issues - Part 2
+  url: /blog2/2013/01/04/bim-2-0-cleaning-up-issues-part-2/
+title: BIM 2.0 - cleaning up part 3
 type: post
 template: blog-post.html
 ---

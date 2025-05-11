@@ -1,7 +1,14 @@
 ---
-title: Revising week 1 of EDU8117 - Networked and Global Learning
+categories:
+- thesis
 date: 2015-07-15 10:30:36+10:00
-categories: ['thesis']
+next:
+  text: '"Me as learner: 2015 and learning analytics"'
+  url: /blog2/2015/07/16/me-as-learner-2015-and-learning-analytics/
+previous:
+  text: "Digital learning: It&#039;s d\xE9j\xE0 vu all over again"
+  url: /blog2/2015/07/12/digital-learning-its-like-deja-vu-all-over-again/
+title: Revising week 1 of EDU8117 - Networked and Global Learning
 type: post
 template: blog-post.html
 ---

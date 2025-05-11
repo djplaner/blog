@@ -1,8 +1,17 @@
 ---
-title: "Moving beyond a fashion: likely paths and pitfalls for learning analytics"
+categories:
+- elearning
+- learninganalytics-elearning
 date: 2012-11-01 16:05:31+10:00
-categories: ['elearning', 'learninganalytics-elearning']
-tags: ['chfe12']
+next:
+  text: A triumph of the explicit over the tacit and the subsequent loss of learning
+  url: /blog2/2012/11/08/a-triumph-of-the-explicit-over-the-tacit-and-the-subsequent-loss-of-learning/
+previous:
+  text: 'Technology in education: The track record'
+  url: /blog2/2012/10/29/technology-in-education-the-track-record/
+tags:
+- chfe12
+title: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
 type: post
 template: blog-post.html
 comments:

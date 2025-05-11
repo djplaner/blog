@@ -1,7 +1,17 @@
 ---
-title: Making the LMS/VLE \"mythic\"
+categories:
+- chapter-2
+- elearning
+- phd
+- thesis
 date: 2009-03-23 13:50:46+10:00
-categories: ['chapter-2', 'elearning', 'phd', 'thesis']
+next:
+  text: Poor craftsman - or the "blame the teachers" excuse
+  url: /blog2/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/
+previous:
+  text: Postman's - 5 things to know about technological change and e-learning
+  url: /blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/
+title: Making the LMS/VLE "mythic"
 type: post
 template: blog-post.html
 comments:

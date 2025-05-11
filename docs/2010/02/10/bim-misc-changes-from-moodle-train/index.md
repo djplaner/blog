@@ -1,7 +1,14 @@
 ---
-title: BIM - misc changes from moodle-train
+categories:
+- bim
 date: 2010-02-10 14:36:35+10:00
-categories: ['bim']
+next:
+  text: Implications arising from the absence of the "sameness of meaning"
+  url: /blog2/2010/02/11/implications-arising-from-the-absence-of-the-sameness-of-meaning/
+previous:
+  text: BIM - Allowing staff to change student registrations
+  url: /blog2/2010/02/09/bim-allowing-staff-to-change-student-registrations/
+title: BIM - misc changes from moodle-train
 type: post
 template: blog-post.html
 ---

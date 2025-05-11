@@ -1,8 +1,17 @@
 ---
-title: Me as learner - WoW, MMPORGs and learning
+categories:
+- edu8117
 date: 2014-07-23 12:47:53+10:00
-categories: ['edu8117']
-tags: ['learner', 'mmporg']
+next:
+  text: '"Who are some good folk to follow re: network learning"'
+  url: /blog2/2014/07/25/who-are-some-good-folk-to-follow-re-network-learning/
+previous:
+  text: Next step for NGL
+  url: /blog2/2014/07/19/next-step-for-ngl/
+tags:
+- learner
+- mmporg
+title: Me as learner - WoW, MMPORGs and learning
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,21 @@
 ---
-title: On the silliness of \"best practice\" - or why you shouldn't (just) copy successful organisations
+categories:
+- chapter-2
+- cognitiveedge
+- design-theory
+- elearning
+- missingps
+- thesis
 date: 2009-02-09 11:18:54+10:00
-categories: ['chapter-2', 'cognitiveedge', 'design-theory', 'elearning', 'missingps', 'thesis']
+next:
+  text: The protean nature of modern technology - another limitation of most views
+    of e-learning
+  url: /blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+previous:
+  text: Plato on the problems that writing will create for student learning
+  url: /blog2/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/
+title: On the silliness of "best practice" - or why you shouldn't (just) copy successful
+  organisations
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,19 @@
 ---
-title: "Focusing on the wrong time frame - a core problem of university L&#038;T?"
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-03-11 10:04:21+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Different perspectives on the purpose of the LMS
+  url: /blog2/2010/03/12/different-perspectives-on-the-purpose-of-the-lms/
+previous:
+  text: Webfuse is dead! Long live Webfuse!
+  url: /blog2/2010/03/10/webfuse-is-dead-long-live-webfuse/
+title: '"Focusing on the wrong time frame - a core problem of university L&#038;T?"'
 type: post
 template: blog-post.html
 comments:

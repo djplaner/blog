@@ -1,7 +1,14 @@
 ---
-title: A bit more exploration of identity
+categories:
+- thesis
 date: 2014-07-29 16:46:12+10:00
-categories: ['thesis']
+next:
+  text: Learning journal, activity completion and nudge analytics
+  url: /blog2/2014/07/31/learning-journal-activity-completion-and-nudge-analytics/
+previous:
+  text: Some readings on networked learning
+  url: /blog2/2014/07/29/some-readings-on-networked-learning/
+title: A bit more exploration of identity
 type: post
 template: blog-post.html
 ---

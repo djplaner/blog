@@ -1,8 +1,17 @@
 ---
-title: Analytics for Learning and Teaching
+categories:
+- indicators
+- learninganalytics-elearning
 date: 2013-01-08 15:05:10+10:00
-categories: ['indicators', 'learninganalytics-elearning']
-tags: ['analytics']
+next:
+  text: '"Translating Learning into Numbers: A Generic Framework for Learning Analytics"'
+  url: /blog2/2013/01/09/translating-learning-into-numbers-a-generic-framework-for-learning-analytics/
+previous:
+  text: BIM 2.0 - cleaning up part 3
+  url: /blog2/2013/01/06/bim-2-0-cleaning-up-part-3/
+tags:
+- analytics
+title: Analytics for Learning and Teaching
 type: post
 template: blog-post.html
 comments:

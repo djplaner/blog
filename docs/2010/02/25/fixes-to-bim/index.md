@@ -1,7 +1,14 @@
 ---
-title: Fixes to BIM
+categories:
+- bim
 date: 2010-02-25 10:20:48+10:00
-categories: ['bim']
+next:
+  text: Reservations about instructional design
+  url: /blog2/2010/02/27/reservations-about-instructional-design/
+previous:
+  text: The current state of curriculum mapping in/with Moodle
+  url: /blog2/2010/02/20/the-current-state-of-curriculum-mapping-inwith-moodle/
+title: Fixes to BIM
 type: post
 template: blog-post.html
 ---

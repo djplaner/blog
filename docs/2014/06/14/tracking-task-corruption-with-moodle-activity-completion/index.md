@@ -1,7 +1,17 @@
 ---
-title: Tracking task corruption with Moodle activity completion
+categories:
+- bad
+- edc3100
+- teaching
 date: 2014-06-14 10:39:46+10:00
-categories: ['bad', 'edc3100', 'teaching']
+next:
+  text: Designing a course on "Networked and Global Learning" - scope, thoughts and
+    call for suggestions
+  url: /blog2/2014/07/07/designing-a-course-on-networked-and-global-learning-scope-thoughts-and-call-for-suggestions/
+previous:
+  text: Making BIM ready for Moodle 2.6
+  url: /blog2/2014/05/19/making-bim-ready-for-moodle-2-6/
+title: Tracking task corruption with Moodle activity completion
 type: post
 template: blog-post.html
 ---

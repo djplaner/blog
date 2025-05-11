@@ -1,7 +1,14 @@
 ---
-title: Installing Moodle - first step in BAM/MoodleAM
+categories:
+- bam
 date: 2009-07-16 12:10:56+10:00
-categories: ['bam']
+next:
+  text: When senior management lose the plot
+  url: /blog2/2009/07/17/when-senior-management-lose-the-plot/
+previous:
+  text: BAM into Moodle approved - starting the process
+  url: /blog2/2009/07/16/bam-into-moodle-approved-starting-the-process/
+title: Installing Moodle - first step in BAM/MoodleAM
 type: post
 template: blog-post.html
 comments:

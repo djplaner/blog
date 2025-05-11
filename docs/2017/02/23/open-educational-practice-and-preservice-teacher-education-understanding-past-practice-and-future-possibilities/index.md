@@ -1,8 +1,19 @@
 ---
-title: "Open Educational Practice and Preservice Teacher Education: Understanding past practice and future possibilities"
+categories:
+- eei
 date: 2017-02-23 13:53:06+10:00
-categories: ['eei']
-tags: ['oep', 'oer', 'papers']
+next:
+  text: L&T Orientation for new Academic staff (S1, 2017)
+  url: /blog2/2017/02/24/lt-orientation-for-new-academic-staff-s1-2017/
+previous:
+  text: Am I (or my team) ready to apply for an AAUT?
+  url: /blog2/2017/02/16/am-i-or-my-team-ready-to-apply-for-an-aaut/
+tags:
+- oep
+- oer
+- papers
+title: '"Open Educational Practice and Preservice Teacher Education: Understanding
+  past practice and future possibilities"'
 type: post
 template: blog-post.html
 ---

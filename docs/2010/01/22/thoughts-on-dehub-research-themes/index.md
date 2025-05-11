@@ -1,8 +1,16 @@
 ---
-title: Thoughts on DEHub research themes
+categories:
+- curriculumdesign
 date: 2010-01-22 10:43:03+10:00
-categories: ['curriculumdesign']
-tags: ['dehub']
+next:
+  text: BIM - Allocating markers
+  url: /blog2/2010/01/24/bim-allocating-markers/
+previous:
+  text: Plans for a AJET paper around the indicators project
+  url: /blog2/2010/01/20/plans-for-a-ajet-paper-around-the-indicators-project/
+tags:
+- dehub
+title: Thoughts on DEHub research themes
 type: post
 template: blog-post.html
 ---

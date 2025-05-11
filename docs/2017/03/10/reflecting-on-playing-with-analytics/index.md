@@ -1,7 +1,14 @@
 ---
-title: Reflecting on playing with learning analytics
+categories:
+- indicators
 date: 2017-03-10 15:31:23+10:00
-categories: ['indicators']
+next:
+  text: Playing with Python and Jupyter notebooks for analytics
+  url: /blog2/2017/03/12/playing-with-python-and-jupyter-notebooks-for-analytics/
+previous:
+  text: How we are rethinking L&T grants, awards and professional learning
+  url: /blog2/2017/03/09/how-we-are-rethinking-lt-grants-awards-and-professional-learning/
+title: Reflecting on playing with learning analytics
 type: post
 template: blog-post.html
 ---

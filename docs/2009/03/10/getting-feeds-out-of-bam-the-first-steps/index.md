@@ -1,7 +1,20 @@
 ---
-title: Getting feeds out of BAM - the first steps
+categories:
+- bam
+- chapter-5
+- design-theory
+- elearning
+- plescquni
+- thesis
 date: 2009-03-10 15:37:10+10:00
-categories: ['bam', 'chapter-5', 'design-theory', 'elearning', 'plescquni', 'thesis']
+next:
+  text: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
+    projects together?
+  url: /blog2/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/
+previous:
+  text: How to improve L&#038;T and e-learning at universities
+  url: /blog2/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/
+title: Getting feeds out of BAM - the first steps
 type: post
 template: blog-post.html
 ---

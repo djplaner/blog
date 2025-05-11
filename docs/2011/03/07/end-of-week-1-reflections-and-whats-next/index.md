@@ -1,7 +1,15 @@
 ---
-title: "End of week 1: reflections and what's next"
+categories:
+- journey
+- teaching
 date: 2011-03-07 10:25:34+10:00
-categories: ['journey', 'teaching']
+next:
+  text: '"Reflection on the profile Wiki: ICTs for Learning Design"'
+  url: /blog2/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/
+previous:
+  text: Multiliteracies and why weak students become teachers
+  url: /blog2/2011/03/07/multiliteracies-and-why-weak-students-become-teachers/
+title: '"End of week 1: reflections and what''s next"'
 type: post
 template: blog-post.html
 comments:

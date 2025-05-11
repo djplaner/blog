@@ -1,8 +1,24 @@
 ---
-title: Is high school the next challenge for CS
+categories:
+- thesis
 date: 2011-03-21 08:26:28+10:00
-categories: ['thesis']
-tags: ['computer', 'cs', 'ipt', 'is', 'mobile', 'programs', 'science', 'teaching', 'virginia-tech']
+next:
+  text: '"Literacy and Numeracy: Week 4"'
+  url: /blog2/2011/03/21/literacy-and-numeracy-week-4/
+previous:
+  text: 'Literacy and Numeracy: Week 3'
+  url: /blog2/2011/03/20/literacy-and-numeracy-week-3/
+tags:
+- computer
+- cs
+- ipt
+- is
+- mobile
+- programs
+- science
+- teaching
+- virginia-tech
+title: Is high school the next challenge for CS
 type: post
 template: blog-post.html
 ---

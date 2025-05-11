@@ -1,7 +1,15 @@
 ---
-title: What if our digital technologies were protean?
+categories:
+- bad
+- digitalignorance
 date: 2016-09-21 12:12:34+10:00
-categories: ['bad', 'digitalignorance']
+next:
+  text: OEP, institutions and culture
+  url: /blog2/2016/09/21/oep-institutions-and-culture/
+previous:
+  text: Exploring Moodle Book usage - Part 7a) - when are they modified
+  url: /blog2/2016/09/20/exploring-moodle-book-usage-part-7a-when-are-they-modified/
+title: What if our digital technologies were protean?
 type: post
 template: blog-post.html
 comments:

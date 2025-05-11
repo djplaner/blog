@@ -1,8 +1,18 @@
 ---
-title: "The IRAC framework: Locating the performance zone for learning analytics"
+categories:
+- elearning
+- indicators
+- learninganalytics-elearning
 date: 2013-10-03 11:27:20+10:00
-categories: ['elearning', 'indicators', 'learninganalytics-elearning']
-tags: ['learning-analytics']
+next:
+  text: Planning an analysis of the learning analytics literature
+  url: /blog2/2013/10/03/planning-an-analysis-of-the-learning-analytics-literature/
+previous:
+  text: Data mining with Weka - Class 2 - Evaluation
+  url: /blog2/2013/09/22/data-mining-with-weka-class-2-evaluation/
+tags:
+- learning-analytics
+title: '"The IRAC framework: Locating the performance zone for learning analytics"'
 type: post
 template: blog-post.html
 comments:

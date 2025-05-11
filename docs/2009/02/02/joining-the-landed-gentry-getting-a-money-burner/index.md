@@ -1,7 +1,14 @@
 ---
-title: Joining the landed gentry - getting a money burner
+categories:
+- moneyburner
 date: 2009-02-02 07:57:59+10:00
-categories: ['moneyburner']
+next:
+  text: What is a PLE? More than a suite of tools? More than social media?
+  url: /blog2/2009/02/02/what-is-a-ple-more-than-a-suite-of-tools-more-than-social-media/
+previous:
+  text: EasyCrop - preparing photos for the rotating banner
+  url: /blog2/2009/02/01/easycrop-preparing-photos-for-the-rotating-banner/
+title: Joining the landed gentry - getting a money burner
 type: post
 template: blog-post.html
 comments:

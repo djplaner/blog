@@ -1,7 +1,19 @@
 ---
-title: The design and implementation of Webfuse - Part 2
+categories:
+- chapter-4
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2009-07-29 16:52:02+10:00
-categories: ['chapter-4', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: The design and implementation of Webfuse - Part 3
+  url: /blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-3/
+previous:
+  text: The design and implementation of Webfuse - Part 1
+  url: /blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/
+title: The design and implementation of Webfuse - Part 2
 type: post
 template: blog-post.html
 ---

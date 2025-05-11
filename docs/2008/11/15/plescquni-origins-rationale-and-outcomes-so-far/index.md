@@ -1,7 +1,15 @@
 ---
-title: "PLEs@CQUni: Origins, rationale and outcomes so far"
+categories:
+- ple
+- plescquni
 date: 2008-11-15 08:34:34+10:00
-categories: ['ple', 'plescquni']
+next:
+  text: '"Expert designer: Another assumption PLEs question"'
+  url: /blog2/2008/11/15/expert-designer-another-assumption-ples-question/
+previous:
+  text: PLEs@CQUni - VoiceThread for Research Posters
+  url: /blog2/2008/11/14/plescquni-voicethread-for-research-posters/
+title: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
 type: post
 template: blog-post.html
 ---

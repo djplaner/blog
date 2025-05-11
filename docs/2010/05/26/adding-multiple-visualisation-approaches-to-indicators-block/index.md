@@ -1,7 +1,16 @@
 ---
-title: Adding multiple visualisation approaches to Indicators block
+categories:
+- elearning
+- indicators
+- moodle
 date: 2010-05-26 14:41:56+10:00
-categories: ['elearning', 'indicators', 'moodle']
+next:
+  text: Fixing BIM's back up and restore
+  url: /blog2/2010/05/27/fixing-bims-back-up-and-restore/
+previous:
+  text: 'Understanding what teachers do: First step in improving L&#038;T'
+  url: /blog2/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
+title: Adding multiple visualisation approaches to Indicators block
 type: post
 template: blog-post.html
 comments:

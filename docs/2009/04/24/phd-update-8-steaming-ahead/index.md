@@ -1,7 +1,15 @@
 ---
-title: "Phd Update #8 - steaming ahead"
+categories:
+- phd
+- thesis
 date: 2009-04-24 15:01:03+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Lessons for from past experience
+  url: /blog2/2009/04/25/lessons-for-e-learning/
+previous:
+  text: Models of growth - responding to the grammar of school
+  url: /blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
+title: '"Phd Update #8 - steaming ahead"'
 type: post
 template: blog-post.html
 comments:

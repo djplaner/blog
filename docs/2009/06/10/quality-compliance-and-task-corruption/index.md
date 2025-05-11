@@ -1,7 +1,14 @@
 ---
-title: Quality, compliance and task corruption
+categories:
+- reflectivealignment
 date: 2009-06-10 10:05:19+10:00
-categories: ['reflectivealignment']
+next:
+  text: Institutional learning and teaching strategies
+  url: /blog2/2009/06/11/institutional-learning-and-teaching-strategies/
+previous:
+  text: An ill-informed observation on connectivism and other learning theories
+  url: /blog2/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
+title: Quality, compliance and task corruption
 type: post
 template: blog-post.html
 comments:

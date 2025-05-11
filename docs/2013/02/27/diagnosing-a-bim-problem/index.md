@@ -1,7 +1,14 @@
 ---
-title: Diagnosing a BIM problem
+categories:
+- bim2
 date: 2013-02-27 18:11:24+10:00
-categories: ['bim2']
+next:
+  text: BIM2 and disable_form_change_checker
+  url: /blog2/2013/03/03/bim2-and-disable_form_change_checker/
+previous:
+  text: And it starts again, edc3100 in 2013
+  url: /blog2/2013/02/26/and-it-starts-again-edc3100-in-2013/
+title: Diagnosing a BIM problem
 type: post
 template: blog-post.html
 comments:

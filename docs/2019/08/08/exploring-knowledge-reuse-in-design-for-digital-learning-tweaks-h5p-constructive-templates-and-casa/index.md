@@ -1,7 +1,19 @@
 ---
-title: "Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive templates and CASA"
+categories:
+- bad
+- casa
+- design-theory
+- highereducation
+- innovation
 date: 2019-08-08 07:43:21+10:00
-categories: ['bad', 'casa', 'design-theory', 'highereducation', 'innovation']
+next:
+  text: How to share design knowledge in design for digital learning?
+  url: /blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/
+previous:
+  text: Testing out h5p interactives and tracking
+  url: /blog2/2019/05/30/testing-out-h5p-interactives-and-tracking/
+title: '"Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive
+  templates and CASA"'
 type: post
 template: blog-post.html
 ---

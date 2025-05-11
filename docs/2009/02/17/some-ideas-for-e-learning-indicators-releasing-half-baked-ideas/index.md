@@ -1,7 +1,17 @@
 ---
-title: Some ideas for e-learning indicators - releasing half-baked ideas
+categories:
+- elearning
+- indicators
+- innovation
+- lmsevaluation
 date: 2009-02-17 15:00:08+10:00
-categories: ['elearning', 'indicators', 'innovation', 'lmsevaluation']
+next:
+  text: Down with facebook - why I'm going to minimise my use
+  url: /blog2/2009/02/17/down-with-facebook-why-im-going-to-minimise-my-use/
+previous:
+  text: Common sense (the things we take for granted) is the big obstacle for innovation
+  url: /blog2/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
+title: Some ideas for e-learning indicators - releasing half-baked ideas
 type: post
 template: blog-post.html
 ---

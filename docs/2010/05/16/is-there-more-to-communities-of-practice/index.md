@@ -1,6 +1,12 @@
 ---
-title: Is there more to communities of practice?
 date: 2010-05-16 12:39:50+10:00
+next:
+  text: Moving the indicators Moodle block to a factory class
+  url: /blog2/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
+previous:
+  text: Some tweaks to the indicators block
+  url: /blog2/2010/05/14/some-tweaks-to-the-indicators-block/
+title: Is there more to communities of practice?
 type: post
 template: blog-post.html
 ---

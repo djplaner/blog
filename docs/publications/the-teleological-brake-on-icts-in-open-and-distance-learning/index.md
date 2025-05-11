@@ -1,6 +1,6 @@
 ---
-title: The teleological brake on ICTs in open and distance learning
 date: 2008-10-16 22:07:34+10:00
+title: The teleological brake on ICTs in open and distance learning
 type: page
 template: blog-post.html
 comments:

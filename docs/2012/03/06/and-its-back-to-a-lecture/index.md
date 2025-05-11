@@ -1,7 +1,15 @@
 ---
-title: And it's back to a lecture
+categories:
+- edc3100
+- teaching
 date: 2012-03-06 14:24:15+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: '"Some challenges for #pstn"'
+  url: /blog2/2012/03/09/some-challenges-for-pstn/
+previous:
+  text: 'Implementing a course barometer in Moodle: A kludge'
+  url: /blog2/2012/03/05/implementing-a-course-barometer-in-moodle-a-kludge/
+title: And it's back to a lecture
 type: post
 template: blog-post.html
 comments:

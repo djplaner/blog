@@ -1,8 +1,19 @@
 ---
-title: "MAV, #moodle, process analytics and how I'm an idiot"
+categories:
+- edc3100
+- elearning
+- indicators
+- irac
 date: 2014-02-03 13:24:40+10:00
-categories: ['edc3100', 'elearning', 'indicators', 'irac']
-tags: ['mav']
+next:
+  text: Analysing EDC3100 using MAV
+  url: /blog2/2014/02/03/analysing-edc3100-using-mav/
+previous:
+  text: '#moodle Activity Viewer (MAV) and the promise for bricolage'
+  url: /blog2/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/
+tags:
+- mav
+title: '"MAV, #moodle, process analytics and how I''m an idiot"'
 type: post
 template: blog-post.html
 comments:

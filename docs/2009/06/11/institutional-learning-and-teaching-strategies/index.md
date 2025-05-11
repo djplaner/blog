@@ -1,7 +1,18 @@
 ---
-title: Institutional learning and teaching strategies
+categories:
+- chapter-2
+- design-theory
+- phd
+- psframework
+- thesis
 date: 2009-06-11 11:35:26+10:00
-categories: ['chapter-2', 'design-theory', 'phd', 'psframework', 'thesis']
+next:
+  text: Another ill-informed point about connectivism versus behaviourism and cognitivism
+  url: /blog2/2009/06/12/another-ill-informed-point-about-connectivism-versus-behaviourism-and-cognitivism/
+previous:
+  text: Quality, compliance and task corruption
+  url: /blog2/2009/06/10/quality-compliance-and-task-corruption/
+title: Institutional learning and teaching strategies
 type: post
 template: blog-post.html
 comments:

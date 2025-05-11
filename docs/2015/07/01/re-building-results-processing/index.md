@@ -1,7 +1,16 @@
 ---
-title: Re-building results processing
+categories:
+- bad
+- concretelounge
+- edc3100
 date: 2015-07-01 13:33:26+10:00
-categories: ['bad', 'concretelounge', 'edc3100']
+next:
+  text: Can the Moodle book module be made open and other enhancements
+  url: /blog2/2015/07/03/can-the-moodle-book-module-be-made-open-and-other-enhancements/
+previous:
+  text: And the little one said, &quot;roll over, roll over&quot;
+  url: /blog2/2015/06/26/and-the-little-one-said-roll-over-roll-over/
+title: Re-building results processing
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: The problem with blended learning
+categories:
+- bim
+- elearning
 date: 2010-10-13 11:29:46+10:00
-categories: ['bim', 'elearning']
+next:
+  text: Change in education, failure to learn and the commodification of university
+  url: /blog2/2010/10/19/change-in-education-failure-to-learn-and-the-commodification-of-university/
+previous:
+  text: 'Making the LMS more like the Globe Theatre: distributed cognition, the extended
+    mind and Moodle'
+  url: /blog2/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/
+title: The problem with blended learning
 type: post
 template: blog-post.html
 ---

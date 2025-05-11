@@ -1,7 +1,14 @@
 ---
-title: "The conceptualisation of e-learning: Lessons and implications"
+categories:
+- eei
 date: 2019-12-19 08:47:34+10:00
-categories: ['eei']
+next:
+  text: Theory of workarounds
+  url: /blog2/2019/12/20/theory-of-workarounds/
+previous:
+  text: It's more than how you use the technology - authoring online content
+  url: /blog2/2019/12/10/its-more-than-how-you-use-the-technology-authoring-online-content/
+title: '"The conceptualisation of e-learning: Lessons and implications"'
 type: post
 template: blog-post.html
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Limits in developing innovative pedagogy with Moodle: The story of BIM"
 date: 2010-06-21 14:10:13+10:00
+title: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
 type: page
 template: blog-post.html
 comments:

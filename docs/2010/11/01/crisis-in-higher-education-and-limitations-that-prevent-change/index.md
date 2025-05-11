@@ -1,7 +1,14 @@
 ---
-title: Crisis in higher education and limitations that prevent change
+categories:
+- thesis
 date: 2010-11-01 10:58:06+10:00
-categories: ['thesis']
+next:
+  text: A story of the power of intrinsic motivation
+  url: /blog2/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/
+previous:
+  text: Thesis abstract v1.0b
+  url: /blog2/2010/10/28/thesis-abstract-v1-0/
+title: Crisis in higher education and limitations that prevent change
 type: post
 template: blog-post.html
 comments:

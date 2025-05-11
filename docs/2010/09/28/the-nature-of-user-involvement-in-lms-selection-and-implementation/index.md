@@ -1,7 +1,18 @@
 ---
-title: The nature of user involvement in LMS selection and implementation
+categories:
+- chapter-2
+- design-theory
+- elearning
+- thesis
 date: 2010-09-28 16:48:21+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'thesis']
+next:
+  text: '"Making the LMS more like the Globe Theatre: distributed cognition, the extended
+    mind and Moodle"'
+  url: /blog2/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/
+previous:
+  text: BIM, missing students and Moodle groups
+  url: /blog2/2010/09/19/bim-missing-students-and-moodle-groups/
+title: The nature of user involvement in LMS selection and implementation
 type: post
 template: blog-post.html
 comments:

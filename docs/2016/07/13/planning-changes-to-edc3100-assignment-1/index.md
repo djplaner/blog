@@ -1,7 +1,15 @@
 ---
-title: Planning changes to EDC3100 assignment 1
+categories:
+- bad
+- edc3100
 date: 2016-07-13 13:19:24+10:00
-categories: ['bad', 'edc3100']
+next:
+  text: Valuing the "residue of experience" a bit more
+  url: /blog2/2016/08/05/valuing-the-residue-of-experience-a-bit-more/
+previous:
+  text: Planning an EDC3100 &quot;installfest&quot;
+  url: /blog2/2016/07/07/planning-an-edc3100-installfest/
+title: Planning changes to EDC3100 assignment 1
 type: post
 template: blog-post.html
 ---

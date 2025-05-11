@@ -1,7 +1,19 @@
 ---
-title: The Wf Framework
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-06-07 10:04:23+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: The confusion of small and big changes
+  url: /blog2/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
+previous:
+  text: Object orientation and design patterns
+  url: /blog2/2010/06/07/object-orientation-and-design-patterns/
+title: The Wf Framework
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Resilience and other implications of technological changes
+categories:
+- edu8117
 date: 2014-08-12 10:30:05+10:00
-categories: ['edu8117']
+next:
+  text: Catching up on the NGL participation
+  url: /blog2/2014/08/12/catching-up-on-the-ngl-participation/
+previous:
+  text: 'Bringing the LMS into the network - Experiment # 1 - Activity completion'
+  url: /blog2/2014/08/03/bringing-the-lms-into-the-network-experiment-1-activity-completion/
+title: Resilience and other implications of technological changes
 type: post
 template: blog-post.html
 comments:

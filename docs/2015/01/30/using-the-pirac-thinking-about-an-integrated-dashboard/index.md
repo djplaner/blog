@@ -1,7 +1,15 @@
 ---
-title: Using the PIRAC - Thinking about an \"integrated dashboard\"
+categories:
+- irac
+- pirac
 date: 2015-01-30 15:49:11+10:00
-categories: ['irac', 'pirac']
+next:
+  text: Learning analytics is better when.....?
+  url: /blog2/2015/02/02/learning-analytics-is-better-when/
+previous:
+  text: Adding some learning process analytics to EDC3100
+  url: /blog2/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
+title: Using the PIRAC - Thinking about an "integrated dashboard"
 type: post
 template: blog-post.html
 comments:

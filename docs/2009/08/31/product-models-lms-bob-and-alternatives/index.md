@@ -1,8 +1,20 @@
 ---
-title: Product models - LMS, BoB and alternatives
-date: 2009-08-31 14:32:56+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 coverImage: 3819172601_39a5a27300_o-scaled-e1590632325204.jpg
+date: 2009-08-31 14:32:56+10:00
+next:
+  text: '"e&#038;i report #2 - 20th August - 1st September"'
+  url: /blog2/2009/09/01/ei-report-2-20-25th-august/
+previous:
+  text: 'Procurement and software: alternate models for e-learning'
+  url: /blog2/2009/08/31/procurement-and-software-alternate-models-for-e-learning/
+title: Product models - LMS, BoB and alternatives
 type: post
 template: blog-post.html
 comments:

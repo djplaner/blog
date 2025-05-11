@@ -1,7 +1,18 @@
 ---
-title: People and e-learning - limitations and an alternative
+categories:
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2012-06-29 12:13:09+10:00
-categories: ['design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Reducing meaningless freedom and a Mahara feature request
+  url: /blog2/2012/06/30/reducing-meaningless-freedom-and-a-mahara-feature-request/
+previous:
+  text: Introducing the alternative
+  url: /blog2/2012/06/29/introducing-the-alternative/
+title: People and e-learning - limitations and an alternative
 type: post
 template: blog-post.html
 comments:

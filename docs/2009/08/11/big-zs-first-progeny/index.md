@@ -1,7 +1,14 @@
 ---
-title: Big Z's first progeny
+categories:
+- thesis
 date: 2009-08-11 08:54:50+10:00
-categories: ['thesis']
+next:
+  text: '"BIM #1: Working on the prototype"'
+  url: /blog2/2009/08/11/bim-1-working-on-the-prototype/
+previous:
+  text: The chasm
+  url: /blog2/2009/08/09/the-chasm/
+title: Big Z's first progeny
 type: post
 template: blog-post.html
 ---

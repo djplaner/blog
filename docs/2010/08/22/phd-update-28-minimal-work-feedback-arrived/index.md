@@ -1,7 +1,15 @@
 ---
-title: "PhD Update #28 - minimal work, feedback arrived"
+categories:
+- phd
+- thesis
 date: 2010-08-22 10:31:06+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Extracting case study research and multiple contexts?
+  url: /blog2/2010/08/22/extracting-case-study-research-and-multiple-contexts/
+previous:
+  text: Minimum course presence and the tension between centralisation and de-centralisation
+  url: /blog2/2010/08/21/minimum-course-presence-and-the-tension-between-centralisation-and-de-centralisation/
+title: '"PhD Update #28 - minimal work, feedback arrived"'
 type: post
 template: blog-post.html
 ---

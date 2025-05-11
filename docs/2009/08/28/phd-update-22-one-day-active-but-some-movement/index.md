@@ -1,7 +1,14 @@
 ---
-title: "PhD Update #22 - one day active, but some movement"
+categories:
+- phd
 date: 2009-08-28 13:37:50+10:00
-categories: ['phd']
+next:
+  text: Comparisons between LMS - the need for system independence
+  url: /blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
+previous:
+  text: E-Learning 2.0 and reliability of external services
+  url: /blog2/2009/08/26/e-learning-2-0-and-reliability-of-external-services/
+title: '"PhD Update #22 - one day active, but some movement"'
 type: post
 template: blog-post.html
 ---

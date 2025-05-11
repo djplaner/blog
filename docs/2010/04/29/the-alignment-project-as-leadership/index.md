@@ -1,7 +1,16 @@
 ---
-title: The alignment project as leadership
+categories:
+- addie
+- alignment
+- curriculummapping-cddu
 date: 2010-04-29 14:43:05+10:00
-categories: ['addie', 'alignment', 'curriculummapping-cddu']
+next:
+  text: Adding "deleted" to BIM
+  url: /blog2/2010/04/30/adding-deleted-to-bim/
+previous:
+  text: The realities of the ERA and L&#038;T support services
+  url: /blog2/2010/04/28/the-realities-of-the-era-and-lt-support-services/
+title: The alignment project as leadership
 type: post
 template: blog-post.html
 comments:

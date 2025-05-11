@@ -1,7 +1,15 @@
 ---
-title: Import/export ePubs into the Moodle book module
+categories:
+- moodleopenbook
 date: 2015-06-15 09:48:05+10:00
-categories: ['moodleopenbook']
+next:
+  text: Types of e-learning projects and the problem of starvation
+  url: /blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
+previous:
+  text: 'Reading - Embracing Big Data in Complex Educational Systems: The Learning
+    Analytics Imperative and the Policy Challenge'
+  url: /blog2/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
+title: Import/export ePubs into the Moodle book module
 type: post
 template: blog-post.html
 comments:

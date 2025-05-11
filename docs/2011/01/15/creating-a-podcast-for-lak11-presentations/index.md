@@ -1,8 +1,17 @@
 ---
-title: Creating a podcast for LAK11 presentations
+categories:
+- indicators
+- lak11
 date: 2011-01-15 14:42:11+10:00
-categories: ['indicators', 'lak11']
-tags: ['lak11']
+next:
+  text: Analytics creating too much transparency? A two-edged sword?
+  url: /blog2/2011/01/18/analytics-creating-too-much-transparency-a-two-edged-sword/
+previous:
+  text: Introducing Hunch
+  url: /blog2/2011/01/13/introducing-hunch/
+tags:
+- lak11
+title: Creating a podcast for LAK11 presentations
 type: post
 template: blog-post.html
 comments:

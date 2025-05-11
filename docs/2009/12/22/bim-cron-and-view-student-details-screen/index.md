@@ -1,7 +1,14 @@
 ---
-title: BIM - cron and view student details screen
+categories:
+- bim
 date: 2009-12-22 15:42:01+10:00
-categories: ['bim']
+next:
+  text: Shaking up e-learning "design" - little help?
+  url: /blog2/2009/12/23/shaking-up-e-learning-design-little-help/
+previous:
+  text: BIM - Creating the test data, completing dbase design
+  url: /blog2/2009/12/22/bim-creating-the-test-data-completing-dbase-design/
+title: BIM - cron and view student details screen
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: "One Moodle course design: approach and trade-offs"
+categories:
+- edc3100
+- teaching
 date: 2012-02-22 23:10:36+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Does school ruin learning?
+  url: /blog2/2012/02/25/does-school-ruin-learning/
+previous:
+  text: Faculty-centered, peer-reviewed online course development models
+  url: /blog2/2012/02/19/faculty-centered-peer-reviewed-online-course-development-models/
+title: '"One Moodle course design: approach and trade-offs"'
 type: post
 template: blog-post.html
 comments:

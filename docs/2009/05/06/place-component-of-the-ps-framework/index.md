@@ -1,7 +1,19 @@
 ---
-title: Place - component of the Ps Framework
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-06 08:06:32+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"University - change or die: and another problem with the LMS model"'
+  url: /blog2/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
+previous:
+  text: 'PhD Update #9 - spluttering out of steam'
+  url: /blog2/2009/05/01/phd-update-9-spluttering-out-of-steam/
+title: Place - component of the Ps Framework
 type: post
 template: blog-post.html
 comments:

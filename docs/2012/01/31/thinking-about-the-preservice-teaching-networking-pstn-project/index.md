@@ -1,7 +1,16 @@
 ---
-title: "Thinking about the Preservice teaching networking (#pstn) project"
+categories:
+- edc3100
+- pstn
+- teaching
 date: 2012-01-31 14:07:55+10:00
-categories: ['edc3100', 'pstn', 'teaching']
+next:
+  text: Thinking about Moodle course design
+  url: /blog2/2012/02/03/thinking-about-moodle-course-design/
+previous:
+  text: Models of Teacher PD  for ICT integration
+  url: /blog2/2012/01/30/models-of-teacher-pd-for-ict-integration/
+title: '"Thinking about the Preservice teaching networking (#pstn) project"'
 type: post
 template: blog-post.html
 comments:

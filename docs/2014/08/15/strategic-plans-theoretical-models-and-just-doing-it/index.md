@@ -1,7 +1,15 @@
 ---
-title: Strategic plans, theoretical models and just doing it
+categories:
+- edu8117
+- psframework
 date: 2014-08-15 10:39:50+10:00
-categories: ['edu8117', 'psframework']
+next:
+  text: '"Joining the "swarm": what a course might be?"'
+  url: /blog2/2014/08/15/joining-the-swarm-what-a-course-might-be/
+previous:
+  text: Feeling left out of the conversation
+  url: /blog2/2014/08/14/feeling-left-out-of-the-conversation/
+title: Strategic plans, theoretical models and just doing it
 type: post
 template: blog-post.html
 ---

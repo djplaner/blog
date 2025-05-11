@@ -1,7 +1,15 @@
 ---
-title: "Pedagogical Content Knowledge: Week 1"
+categories:
+- eded20456
+- teaching
 date: 2011-03-03 16:31:16+10:00
-categories: ['eded20456', 'teaching']
+next:
+  text: A question (or two) on the similarity of "neuronal" and "networked" knowledge
+  url: /blog2/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/
+previous:
+  text: A PMI of constructivism
+  url: /blog2/2011/03/03/a-pmi-of-constructivism/
+title: '"Pedagogical Content Knowledge: Week 1"'
 type: post
 template: blog-post.html
 comments:

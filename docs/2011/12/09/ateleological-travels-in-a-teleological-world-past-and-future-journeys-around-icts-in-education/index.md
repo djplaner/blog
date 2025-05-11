@@ -1,7 +1,20 @@
 ---
-title: "Ateleological travels in a teleological world: Past and future journeys around ICTs in education"
+categories:
+- elearning
+- herding-cats
+- missingps
+- paperideas
+- phd
+- thesis
 date: 2011-12-09 08:11:06+10:00
-categories: ['elearning', 'herding-cats', 'missingps', 'paperideas', 'phd', 'thesis']
+next:
+  text: Teaching computer science considered harmful?
+  url: /blog2/2012/01/11/teaching-computer-science-considered-harmful/
+previous:
+  text: '&quot;Scaling&quot; educational innovations'
+  url: /blog2/2011/12/07/scaling-educational-innovations/
+title: '"Ateleological travels in a teleological world: Past and future journeys around
+  ICTs in education"'
 type: post
 template: blog-post.html
 comments:

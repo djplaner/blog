@@ -1,8 +1,15 @@
 ---
-title: On formal qualifications and improving learning and teaching
-date: 2021-03-30 09:03:39+10:00
-categories: ['casa']
+categories:
+- casa
 coverImage: 30189914217_65178b31dd_k-e1617058296261.jpg
+date: 2021-03-30 09:03:39+10:00
+next:
+  text: Exploring Dron's definition of educational technology
+  url: /blog2/2021/06/04/exploring-drons-definition-of-educational-technology/
+previous:
+  text: What are the symbols in digital education/design for learning?
+  url: /blog2/2021/03/24/what-are-the-symbols-in-digital-education-design-for-learning/
+title: On formal qualifications and improving learning and teaching
 type: post
 template: blog-post.html
 ---

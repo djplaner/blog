@@ -1,7 +1,15 @@
 ---
-title: Learning analytics is better when.....?
+categories:
+- irac
+- learninganalytics-elearning
 date: 2015-02-02 12:37:18+10:00
-categories: ['irac', 'learninganalytics-elearning']
+next:
+  text: '"Concrete lounge #1 - Helping learners find correct, up-to-date course information"'
+  url: /blog2/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
+previous:
+  text: Using the PIRAC - Thinking about an &quot;integrated dashboard&quot;
+  url: /blog2/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
+title: Learning analytics is better when.....?
 type: post
 template: blog-post.html
 comments:

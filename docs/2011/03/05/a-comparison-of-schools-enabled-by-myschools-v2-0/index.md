@@ -1,7 +1,15 @@
 ---
-title: A comparison of schools - enabled by MySchools v2.0
+categories:
+- teaching
 date: 2011-03-05 18:01:49+10:00
-categories: ['teaching']
+next:
+  text: '"Supportive Learning Environments: Week 1"'
+  url: /blog2/2011/03/06/supportive-learning-environments-week-1/
+previous:
+  text: A question (or two) on the similarity of &quot;neuronal&quot; and &quot;networked&quot;
+    knowledge
+  url: /blog2/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/
+title: A comparison of schools - enabled by MySchools v2.0
 type: post
 template: blog-post.html
 ---

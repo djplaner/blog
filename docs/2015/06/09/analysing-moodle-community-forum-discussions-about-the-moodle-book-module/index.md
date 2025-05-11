@@ -1,7 +1,19 @@
 ---
-title: Analysing Moodle community forum discussions about the Moodle book module
+categories:
+- bad
+- elearning
+- moodle
+- moodleopenbook
 date: 2015-06-09 11:52:25+10:00
-categories: ['bad', 'elearning', 'moodle', 'moodleopenbook']
+next:
+  text: '"Reading - Embracing Big Data in Complex Educational Systems: The Learning
+    Analytics Imperative and the Policy Challenge"'
+  url: /blog2/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
+previous:
+  text: The four paths for implementing learning analytics and enhancing the quality
+    of learning and teaching
+  url: /blog2/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
+title: Analysing Moodle community forum discussions about the Moodle book module
 type: post
 template: blog-post.html
 comments:

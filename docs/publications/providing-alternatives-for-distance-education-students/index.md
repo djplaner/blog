@@ -1,6 +1,6 @@
 ---
-title: Providing alternatives for distance education students
 date: 2009-01-01 14:10:16+10:00
+title: Providing alternatives for distance education students
 type: page
 template: blog-post.html
 comments:

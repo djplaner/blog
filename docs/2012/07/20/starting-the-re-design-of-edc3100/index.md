@@ -1,7 +1,15 @@
 ---
-title: Starting the re-design of EDC3100
+categories:
+- edc3100
 date: 2012-07-20 11:29:29+10:00
-categories: ['edc3100']
+next:
+  text: '"Enabling academics to apply learning analytics to individual pedagogical
+    practice: how and with what impacts?"'
+  url: /blog2/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
+previous:
+  text: Is there a link between managerialisation and learning analytics?
+  url: /blog2/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
+title: Starting the re-design of EDC3100
 type: post
 template: blog-post.html
 comments:

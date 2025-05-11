@@ -1,7 +1,16 @@
 ---
-title: A solution for BIM and special characters?
+categories:
+- bim
+- bim2
+- bimerrors
 date: 2010-12-10 20:12:18+10:00
-categories: ['bim', 'bim2', 'bimerrors']
+next:
+  text: First coding steps for bim2
+  url: /blog2/2010/12/19/first-coding-steps-for-bim2/
+previous:
+  text: Becoming aware of the existence of different perceptions
+  url: /blog2/2010/12/06/becoming-aware-of-the-existence-of-different-perceptions/
+title: A solution for BIM and special characters?
 type: post
 template: blog-post.html
 ---

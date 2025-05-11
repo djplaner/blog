@@ -1,8 +1,16 @@
 ---
-title: "Starting to write for Fedwiki - Daily #4 (and 5)"
+categories:
+- thesis
 date: 2014-12-18 17:45:37+10:00
-categories: ['thesis']
-tags: ['federatedwikihappening']
+next:
+  text: Concrete Lounge
+  url: /blog2/2014/12/18/concrete-lounge/
+previous:
+  text: Can I roll my own federated wiki? (not yet)
+  url: /blog2/2014/12/18/can-i-roll-my-own-federated-wiki-not-yet/
+tags:
+- federatedwikihappening
+title: '"Starting to write for Fedwiki - Daily #4 (and 5)"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Getting started with CCK09
+categories:
+- cck09
 date: 2009-09-14 13:50:54+10:00
-categories: ['cck09']
+next:
+  text: Herding cats, losing weight and how to improve learning and teaching
+  url: /blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/
+previous:
+  text: Dede&#039;s &quot;sleeping, eating and bonding&quot; metaphor and the diversity
+    of learning and its impacts for e-learning
+  url: /blog2/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/
+title: Getting started with CCK09
 type: post
 template: blog-post.html
 comments:

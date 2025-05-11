@@ -1,7 +1,14 @@
 ---
-title: BIM - getting student registration working
+categories:
+- bim
 date: 2009-12-17 10:02:31+10:00
-categories: ['bim']
+next:
+  text: BIM - Getting "show student details" working
+  url: /blog2/2009/12/17/bim-getting-show-student-details-working/
+previous:
+  text: BIM and Moodle development - a more coherent overview found?
+  url: /blog2/2009/12/15/bim-and-moodle-a-more-coherent-overview/
+title: BIM - getting student registration working
 type: post
 template: blog-post.html
 ---

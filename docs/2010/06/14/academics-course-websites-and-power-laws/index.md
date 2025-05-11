@@ -1,7 +1,22 @@
 ---
-title: Academics, course websites and power laws
+categories:
+- chapter-5
+- coursesites
+- design-theory
+- elearning
+- indicators
+- moodle
+- phd
+- thesis
+- webfuse
 date: 2010-06-14 21:42:27+10:00
-categories: ['chapter-5', 'coursesites', 'design-theory', 'elearning', 'indicators', 'moodle', 'phd', 'thesis', 'webfuse']
+next:
+  text: Some rough Webfuse usage statistics - 2001 through 2009
+  url: /blog2/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/
+previous:
+  text: Workarounds
+  url: /blog2/2010/06/13/workarounds/
+title: Academics, course websites and power laws
 type: post
 template: blog-post.html
 comments:

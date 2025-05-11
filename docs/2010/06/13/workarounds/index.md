@@ -1,7 +1,19 @@
 ---
-title: Workarounds
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-06-13 09:21:39+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Academics, course websites and power laws
+  url: /blog2/2010/06/14/academics-course-websites-and-power-laws/
+previous:
+  text: Functional fixedness, analytics, and the LMS
+  url: /blog2/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
+title: Workarounds
 type: post
 template: blog-post.html
 ---

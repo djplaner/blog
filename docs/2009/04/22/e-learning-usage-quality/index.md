@@ -1,7 +1,19 @@
 ---
-title: E-learning usage - quality
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-04-22 12:36:39+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Usage of e-learning - quantity
+  url: /blog2/2009/04/23/usage-of-e-learning-quantity/
+previous:
+  text: Pedagogy of the impressed - how teachers become victims of technology vision
+  url: /blog2/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
+title: E-learning usage - quality
 type: post
 template: blog-post.html
 comments:

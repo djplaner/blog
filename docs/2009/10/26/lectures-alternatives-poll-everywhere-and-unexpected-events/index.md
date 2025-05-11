@@ -1,7 +1,16 @@
 ---
-title: Lectures, alternatives, poll everywhere and unexpected events
+categories:
+- elearning
+- ilecture
+- presentations
 date: 2009-10-26 14:15:21+10:00
-categories: ['elearning', 'ilecture', 'presentations']
+next:
+  text: Future of universities - an age old problem
+  url: /blog2/2009/11/09/future-of-universities-an-age-old-problem/
+previous:
+  text: The bureaucratic model and the grammar and future of universities
+  url: /blog2/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
+title: Lectures, alternatives, poll everywhere and unexpected events
 type: post
 template: blog-post.html
 comments:

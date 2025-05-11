@@ -1,7 +1,15 @@
 ---
-title: bim2 - Registering a new student feed
+categories:
+- bim
+- bim2
 date: 2011-01-31 16:57:55+10:00
-categories: ['bim', 'bim2']
+next:
+  text: NAPLAN tests, task corruption and teaching to the test
+  url: /blog2/2011/02/01/naplan-tests-task-corruption-and-teaching-to-the-test/
+previous:
+  text: My god, is it done?
+  url: /blog2/2011/01/31/my-god-is-it-done/
+title: bim2 - Registering a new student feed
 type: post
 template: blog-post.html
 ---

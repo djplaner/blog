@@ -1,7 +1,17 @@
 ---
-title: The Ps Framework - using it to think about PLE implementation at CQU
+categories:
+- design-theory
+- elearning
+- missingps
+- plescquni
 date: 2008-07-26 22:34:52+10:00
-categories: ['design-theory', 'elearning', 'missingps', 'plescquni']
+next:
+  text: How to lead your life and fulfill your childhood dreams
+  url: /blog2/2008/07/29/how-to-lead-your-life-and-fulfill-your-childhood-dreams/
+previous:
+  text: 'PLEs@CQUni: Why, What and How'
+  url: /blog2/2008/07/15/plescquni-why-what-and-how/
+title: The Ps Framework - using it to think about PLE implementation at CQU
 type: post
 template: blog-post.html
 ---

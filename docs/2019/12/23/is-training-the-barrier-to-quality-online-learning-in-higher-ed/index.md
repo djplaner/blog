@@ -1,8 +1,16 @@
 ---
-title: Is training the barrier to quality online learning in higher ed?
+categories:
+- bad
+- casa
+coverImage: race.jpg
 date: 2019-12-23 10:58:01+10:00
-categories: ['bad', 'casa']
-coverImage: theRace.jpg
+next:
+  text: Office365, charismatic technologies, and the ecological perspective
+  url: /blog2/2020/01/13/office365-charismatic-technologies-and-the-ecological-perspective/
+previous:
+  text: Theory of workarounds
+  url: /blog2/2019/12/20/theory-of-workarounds/
+title: Is training the barrier to quality online learning in higher ed?
 type: post
 template: blog-post.html
 ---

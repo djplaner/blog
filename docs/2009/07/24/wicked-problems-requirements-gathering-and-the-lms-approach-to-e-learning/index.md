@@ -1,7 +1,20 @@
 ---
-title: Wicked problems, requirements gathering and the LMS approach to e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- quotes
+- thesis
 date: 2009-07-24 15:06:39+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'quotes', 'thesis']
+next:
+  text: ePortfolios in universities - forget it?
+  url: /blog2/2009/07/26/eportfolios-in-universities-forget-it/
+previous:
+  text: 'BAM into Moodle #5 - Coding a block?'
+  url: /blog2/2009/07/23/bam-into-moodle-5-coding-a-block/
+title: Wicked problems, requirements gathering and the LMS approach to e-learning
 type: post
 template: blog-post.html
 comments:

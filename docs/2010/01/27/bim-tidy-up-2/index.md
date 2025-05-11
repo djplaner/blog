@@ -1,7 +1,14 @@
 ---
-title: "BIM - tidy up #2"
+categories:
+- bim
 date: 2010-01-27 15:19:51+10:00
-categories: ['bim']
+next:
+  text: Week 12 - Experiencing and sustaining innovation and change - simple test
+  url: /blog2/2010/01/31/experiencing-and-sustaining-innovation-and-change-simple-test/
+previous:
+  text: Some reasons why business intelligence tools aren&#039;t the right fit
+  url: /blog2/2010/01/27/some-reasons-why-business-intelligence-tools-arent-the-right-fit/
+title: '"BIM - tidy up #2"'
 type: post
 template: blog-post.html
 ---

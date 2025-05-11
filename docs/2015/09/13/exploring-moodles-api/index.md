@@ -1,7 +1,16 @@
 ---
-title: Exploring Moodle's API
+categories:
+- bad
+- e-learning
+- elearning
 date: 2015-09-13 16:24:59+10:00
-categories: ['bad', 'e-learning', 'elearning']
+next:
+  text: What might a project combining LX Design and Analaytics look like?
+  url: /blog2/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+previous:
+  text: What type of &quot;digital knowledge&quot; does a teacher need?
+  url: /blog2/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
+title: Exploring Moodle's API
 type: post
 template: blog-post.html
 comments:

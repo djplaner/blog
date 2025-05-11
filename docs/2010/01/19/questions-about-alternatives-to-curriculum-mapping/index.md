@@ -1,7 +1,14 @@
 ---
-title: Questions about alternatives to curriculum mapping
 date: 2010-01-19 13:19:30+10:00
-tags: ['curriculummapping']
+next:
+  text: Plans for a AJET paper around the indicators project
+  url: /blog2/2010/01/20/plans-for-a-ajet-paper-around-the-indicators-project/
+previous:
+  text: BIM - manage marking - view and release
+  url: /blog2/2010/01/17/bim-manage-marking-view-and-release/
+tags:
+- curriculummapping
+title: Questions about alternatives to curriculum mapping
 type: post
 template: blog-post.html
 comments:

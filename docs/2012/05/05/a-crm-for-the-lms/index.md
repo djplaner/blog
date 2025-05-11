@@ -1,7 +1,14 @@
 ---
-title: A CRM for the LMS?
+categories:
+- thesis
 date: 2012-05-05 10:10:32+10:00
-categories: ['thesis']
+next:
+  text: Can learning analytics make a Golf GTI
+  url: /blog2/2012/05/15/can-learning-analytics-make-a-golf-gti/
+previous:
+  text: On the inertia of systems
+  url: /blog2/2012/05/05/on-the-inertia-of-systems/
+title: A CRM for the LMS?
 type: post
 template: blog-post.html
 comments:

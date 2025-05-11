@@ -1,7 +1,20 @@
 ---
-title: Dede's \"sleeping, eating and bonding\" metaphor and the diversity of learning and its impacts for e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-09-12 11:35:59+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Getting started with CCK09
+  url: /blog2/2009/09/14/getting-started-with-cck09/
+previous:
+  text: 'PhD Update #24: off to the crocodile form'
+  url: /blog2/2009/09/11/phd-update-24-off-to-the-crocodile-form/
+title: Dede's "sleeping, eating and bonding" metaphor and the diversity of learning
+  and its impacts for e-learning
 type: post
 template: blog-post.html
 comments:

@@ -1,8 +1,16 @@
 ---
-title: Analysing EDC3100 using MAV
+categories:
+- edc3100
 date: 2014-02-03 15:22:35+10:00
-categories: ['edc3100']
-tags: ['mav']
+next:
+  text: Identifying some immediate changes to BIM
+  url: /blog2/2014/02/05/identifying-some-immediate-changes-to-bim/
+previous:
+  text: 'MAV, #moodle, process analytics and how I&#039;m an idiot'
+  url: /blog2/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/
+tags:
+- mav
+title: Analysing EDC3100 using MAV
 type: post
 template: blog-post.html
 ---

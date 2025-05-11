@@ -1,7 +1,15 @@
 ---
-title: Group 4 Technologies - Activities
+categories:
+- eded20491
+- teaching
 date: 2011-04-12 15:16:56+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Exploring minecraft
+  url: /blog2/2011/04/12/exploring-minecraft/
+previous:
+  text: What shapes how we think?
+  url: /blog2/2011/04/12/what-shapes-how-we-think/
+title: Group 4 Technologies - Activities
 type: post
 template: blog-post.html
 ---

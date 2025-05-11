@@ -1,7 +1,15 @@
 ---
-title: Exploring Moodle book usage - part 4 - students and initial use
+categories:
+- exploring
+- moodleopenbook
 date: 2016-08-23 15:35:02+10:00
-categories: ['exploring', 'moodleopenbook']
+next:
+  text: Exploring frameworks to understand OER/OEP
+  url: /blog2/2016/09/01/exploring-frameworks-to-understand-oeroep/
+previous:
+  text: On the value or otherwise of SAMR, RAT etc.
+  url: /blog2/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
+title: Exploring Moodle book usage - part 4 - students and initial use
 type: post
 template: blog-post.html
 comments:

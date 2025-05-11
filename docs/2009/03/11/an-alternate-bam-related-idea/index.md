@@ -1,7 +1,16 @@
 ---
-title: Initial steps toward an education aggregation taxonomy - community versus individual?
+categories:
+- bam
+- elearning
 date: 2009-03-11 10:49:13+10:00
-categories: ['bam', 'elearning']
+next:
+  text: Validity is subjective
+  url: /blog2/2009/03/11/validity-is-subjective/
+previous:
+  text: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
+    projects together?
+  url: /blog2/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/
+title: Initial steps toward an education aggregation taxonomy - community versus individual?
 type: post
 template: blog-post.html
 ---

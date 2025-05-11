@@ -1,7 +1,14 @@
 ---
-title: On the limitations of learning design for improving learning and teaching
+categories:
+- elearning
 date: 2013-11-13 14:38:53+10:00
-categories: ['elearning']
+next:
+  text: Evaluations of online learning activities based on LMS logs
+  url: /blog2/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/
+previous:
+  text: Exploring current institutional e-learning usage
+  url: /blog2/2013/11/12/exploring-current-institutional-e-learning-usage/
+title: On the limitations of learning design for improving learning and teaching
 type: post
 template: blog-post.html
 comments:

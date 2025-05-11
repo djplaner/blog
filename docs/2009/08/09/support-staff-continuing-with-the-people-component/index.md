@@ -1,7 +1,18 @@
 ---
-title: Support staff - continuing with the People component
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- thesis
 date: 2009-08-09 11:40:27+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'thesis']
+next:
+  text: The chasm
+  url: /blog2/2009/08/09/the-chasm/
+previous:
+  text: The limiting impacts of a PhD and the writing up phase
+  url: /blog2/2009/08/09/the-limiting-impacts-of-a-phd-and-the-writing-up-phase/
+title: Support staff - continuing with the People component
 type: post
 template: blog-post.html
 comments:

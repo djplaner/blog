@@ -1,7 +1,19 @@
 ---
-title: Default course sites and wizards
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-06-07 16:29:19+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: Should academics manually create course websites?
+  url: /blog2/2010/06/07/should-academics-manually-create-course-websites/
+previous:
+  text: The confusion of small and big changes
+  url: /blog2/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
+title: Default course sites and wizards
 type: post
 template: blog-post.html
 comments:

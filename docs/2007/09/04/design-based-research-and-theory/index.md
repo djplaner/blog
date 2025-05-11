@@ -1,7 +1,15 @@
 ---
-title: Design-based research and theory
+categories:
+- design-theory
+- thesis
 date: 2007-09-04 22:32:49+10:00
-categories: ['design-theory', 'thesis']
+next:
+  text: E-learning and information systems - a connection?
+  url: /blog2/2007/09/09/e-learning-and-information-systems-a-connection/
+previous:
+  text: Carrick, Web3D and Sustainability
+  url: /blog2/2007/09/04/carrick-web3d-and-sustainability/
+title: Design-based research and theory
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,18 @@
 ---
-title: First steps in integrating LATs OER into Moodle open book
+categories:
+- bad
+- moodleopenbook
+- oep
+- oer
 date: 2016-04-02 11:47:59+10:00
-categories: ['bad', 'moodleopenbook', 'oep', 'oer']
+next:
+  text: '"Learning analytics should not promote one size fits all: The effects of
+    instructional conditions in predicting academic success"'
+  url: /blog2/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/
+previous:
+  text: 'Competence with digital technology: Teacher or environment?'
+  url: /blog2/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
+title: First steps in integrating LATs OER into Moodle open book
 type: post
 template: blog-post.html
 comments:

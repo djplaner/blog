@@ -1,7 +1,15 @@
 ---
-title: "Week 2: Literacy and Numeracy"
+categories:
+- eded20458
+- teaching
 date: 2011-03-10 15:08:44+10:00
-categories: ['eded20458', 'teaching']
+next:
+  text: '"Week 3: ICTs for Learning Design"'
+  url: /blog2/2011/03/13/week-3-icts-for-learning-design/
+previous:
+  text: 'Week 2: Supportive Learning Environments'
+  url: /blog2/2011/03/09/week-2-supportive-learning-environments/
+title: '"Week 2: Literacy and Numeracy"'
 type: post
 template: blog-post.html
 ---

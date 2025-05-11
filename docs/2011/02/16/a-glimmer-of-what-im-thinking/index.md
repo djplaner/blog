@@ -1,7 +1,15 @@
 ---
-title: A glimmer of what I'm thinking
+categories:
+- journey
+- teaching
 date: 2011-02-16 16:29:54+10:00
-categories: ['journey', 'teaching']
+next:
+  text: '"bim2: Coordinator''s manage marking tab"'
+  url: /blog2/2011/02/16/bim2-coordinators-manage-marking-tab/
+previous:
+  text: How hard is it to get a personalised class timetable?
+  url: /blog2/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
+title: A glimmer of what I'm thinking
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: An overview of BIM
+categories:
+- bim
 date: 2010-07-20 09:48:58+10:00
-categories: ['bim']
+next:
+  text: Features used in Webfuse course sites
+  url: /blog2/2010/07/21/features-used-in-webfuse-course-sites/
+previous:
+  text: 'The ethics of learning analytics: initial steps'
+  url: /blog2/2010/07/19/the-ethics-of-learning-analytics-initial-steps/
+title: An overview of BIM
 type: post
 template: blog-post.html
 comments:

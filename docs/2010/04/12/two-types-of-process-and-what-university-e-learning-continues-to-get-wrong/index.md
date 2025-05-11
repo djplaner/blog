@@ -1,7 +1,21 @@
 ---
-title: Two types of process and what university e-learning continues to get wrong
+categories:
+- chapter-2
+- elearning
+- herding-cats
+- phd
+- psframework
+- thesis
+- webfuse
 date: 2010-04-12 09:38:37+10:00
-categories: ['chapter-2', 'elearning', 'herding-cats', 'phd', 'psframework', 'thesis', 'webfuse']
+next:
+  text: '"Identifying and designing interventions to improve L&#038;T - a behaviour
+    change framework?"'
+  url: /blog2/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+previous:
+  text: 'Phd Update #26 - Getting to first draft stage'
+  url: /blog2/2010/04/09/phd-update-26-getting-to-first-draft-stage/
+title: Two types of process and what university e-learning continues to get wrong
 type: post
 template: blog-post.html
 comments:

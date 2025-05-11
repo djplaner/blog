@@ -1,7 +1,15 @@
 ---
-title: The network challenge to the LMS mindset
+categories:
+- design-theory
+- elearning
 date: 2013-08-29 06:30:00+10:00
-categories: ['design-theory', 'elearning']
+next:
+  text: An overview of learning analytics
+  url: /blog2/2013/08/31/an-overview-of-learning-analytics/
+previous:
+  text: Neither strategy nor &quot;space&quot; to innovate is enough
+  url: /blog2/2013/08/16/neither-strategy-nor-space-to-innovate-is-enough/
+title: The network challenge to the LMS mindset
 type: post
 template: blog-post.html
 comments:

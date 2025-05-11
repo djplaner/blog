@@ -1,7 +1,15 @@
 ---
-title: Why should a teacher know how to code?
+categories:
+- bad
+- netgl
 date: 2015-08-18 15:54:14+10:00
-categories: ['bad', 'netgl']
+next:
+  text: Visualising locations of students etc
+  url: /blog2/2015/08/18/visualising-locations-of-students-etc/
+previous:
+  text: Understanding learning as network formation
+  url: /blog2/2015/08/18/understanding-learning-as-network-formation/
+title: Why should a teacher know how to code?
 type: post
 template: blog-post.html
 comments:

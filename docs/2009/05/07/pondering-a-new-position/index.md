@@ -1,7 +1,15 @@
 ---
-title: Pondering a new position - request for help
+categories:
+- elearning
+- innovation
 date: 2009-05-07 10:21:41+10:00
-categories: ['elearning', 'innovation']
+next:
+  text: Society - an aspect of Place impacting on e-learning
+  url: /blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
+previous:
+  text: 'University - change or die: and another problem with the LMS model'
+  url: /blog2/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
+title: Pondering a new position - request for help
 type: post
 template: blog-post.html
 comments:

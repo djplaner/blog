@@ -1,7 +1,16 @@
 ---
-title: My god, is it done?
+categories:
+- phd
+- thesis
 date: 2011-01-31 13:42:40+10:00
-categories: ['phd', 'thesis']
+next:
+  text: bim2 - Registering a new student feed
+  url: /blog2/2011/01/31/bim2-registering-a-new-student-feed/
+previous:
+  text: Problems of service provision and why can&#039;t I have a personalised class
+    timetable?
+  url: /blog2/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/
+title: My god, is it done?
 type: post
 template: blog-post.html
 comments:

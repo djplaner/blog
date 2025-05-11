@@ -1,7 +1,17 @@
 ---
-title: Evaluations of online learning activities based on LMS logs
+categories:
+- elearning
+- indicators
+- irac
+- learninganalytics-elearning
 date: 2013-11-15 09:12:47+10:00
-categories: ['elearning', 'indicators', 'irac', 'learninganalytics-elearning']
+next:
+  text: Approaches for literature analysis
+  url: /blog2/2013/11/15/approaches-for-literature-analysis/
+previous:
+  text: On the limitations of learning design for improving learning and teaching
+  url: /blog2/2013/11/13/on-the-limitations-of-learning-design-for-improving-learning-and-teaching/
+title: Evaluations of online learning activities based on LMS logs
 type: post
 template: blog-post.html
 comments:

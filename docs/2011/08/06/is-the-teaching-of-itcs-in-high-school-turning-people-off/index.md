@@ -1,7 +1,14 @@
 ---
-title: Is the teaching of IT/CS in high school turning people off?
+categories:
+- thesis
 date: 2011-08-06 11:27:12+10:00
-categories: ['thesis']
+next:
+  text: What is important when testing students?
+  url: /blog2/2011/08/08/what-is-important-when-testing-students/
+previous:
+  text: One analysis of the Digital Education Revolution
+  url: /blog2/2011/08/01/one-analysis-of-the-digital-education-revolution/
+title: Is the teaching of IT/CS in high school turning people off?
 type: post
 template: blog-post.html
 comments:

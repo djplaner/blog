@@ -1,7 +1,15 @@
 ---
-title: NAPLAN tests, task corruption and teaching to the test
+categories:
+- journey
+- teaching
 date: 2011-02-01 05:50:19+10:00
-categories: ['journey', 'teaching']
+next:
+  text: Is there a need for research focii?
+  url: /blog2/2011/02/01/is-there-a-need-for-research-focii/
+previous:
+  text: bim2 - Registering a new student feed
+  url: /blog2/2011/01/31/bim2-registering-a-new-student-feed/
+title: NAPLAN tests, task corruption and teaching to the test
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Exploring Moodle Book usage - part 9 - Strange courses
+categories:
+- exploring
+- moodleopenbook
 date: 2016-09-26 06:49:39+10:00
-categories: ['exploring', 'moodleopenbook']
+next:
+  text: Some findings from initial exploration of Moodle Book usage
+  url: /blog2/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
+previous:
+  text: Exploring Moodle Book usage - Part 8 - linking to and from
+  url: /blog2/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/
+title: Exploring Moodle Book usage - part 9 - Strange courses
 type: post
 template: blog-post.html
 ---

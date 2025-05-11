@@ -1,7 +1,18 @@
 ---
-title: Trip report - Moodlemoot'AU 2010
+categories:
+- alignment
+- elearning
+- indicators
+- moodle
 date: 2010-07-16 13:40:09+10:00
-categories: ['alignment', 'elearning', 'indicators', 'moodle']
+next:
+  text: '"The ethics of learning analytics: initial steps"'
+  url: /blog2/2010/07/19/the-ethics-of-learning-analytics-initial-steps/
+previous:
+  text: 'Integrating alignment into Moodle and academic practice: A proposal and a
+    RFI'
+  url: /blog2/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
+title: Trip report - Moodlemoot'AU 2010
 type: post
 template: blog-post.html
 comments:
@@ -97,7 +108,7 @@ Though I wasn't too sure about the naming scheme Alan adopted - "CQU BIM". Accor
 
 At least for me, there seemed to be a fairly visible division between the teaching academics, the teaching support folk and the information technology folk. There didn't seem to be a lot of really strong cross-fertilization between the different groups. And that's before we start talking about management.
 
-The TPACK folk](http://tpack.org) argue that it's the effective combination of the knowledge that each of these groups hold that is needed to make really innovative and high quality use of IT for learning and teaching. And at least for me, the moot experience bears this out. Most of the really interesting presentations were those that drew on effective combinations of the various different types of knowledge. [An example is given below of Michael de Raadt's presentation.
+The [TPACK folk](http://tpack.org) argue that it's the effective combination of the knowledge that each of these groups hold that is needed to make really innovative and high quality use of IT for learning and teaching. And at least for me, the moot experience bears this out. Most of the really interesting presentations were those that drew on effective combinations of the various different types of knowledge. An example is given below of Michael de Raadt's presentation.
 
 #### Marnie Hughes-Warrington
 

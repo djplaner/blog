@@ -1,6 +1,6 @@
 ---
-title: The teleological reason why ICTs limit choice for university learners and learning
 date: 2008-10-22 13:15:54+10:00
+title: The teleological reason why ICTs limit choice for university learners and learning
 type: page
 template: blog-post.html
 comments:

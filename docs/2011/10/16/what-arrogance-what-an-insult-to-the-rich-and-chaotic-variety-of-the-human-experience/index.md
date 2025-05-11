@@ -1,8 +1,18 @@
 ---
-title: What arrogance! What an insult to the rich and chaotic variety of the human experience
+categories:
+- teaching
 date: 2011-10-16 08:05:37+10:00
-categories: ['teaching']
-tags: ['acara', 'national-curriculum']
+next:
+  text: Turning point 2.0
+  url: /blog2/2011/11/10/turning-point-2-0/
+previous:
+  text: '&quot;Clickers&quot;, success, and why do I feel dirty?'
+  url: /blog2/2011/10/09/clickers-success-and-why-do-i-feel-dirty/
+tags:
+- acara
+- national-curriculum
+title: What arrogance! What an insult to the rich and chaotic variety of the human
+  experience
 type: post
 template: blog-post.html
 comments:

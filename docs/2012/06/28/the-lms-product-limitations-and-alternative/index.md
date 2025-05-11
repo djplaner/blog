@@ -1,7 +1,17 @@
 ---
-title: The LMS Product - limitations and an alternative
+categories:
+- design-theory
+- elearning
+- thesis
+- webfuse
 date: 2012-06-28 12:12:59+10:00
-categories: ['design-theory', 'elearning', 'thesis', 'webfuse']
+next:
+  text: The e-learning process - limitations and an alternative
+  url: /blog2/2012/06/28/the-e-learning-process-limitations-and-an-alternative/
+previous:
+  text: Learning analytics and complexity
+  url: /blog2/2012/06/24/learning-analytics-and-complexity/
+title: The LMS Product - limitations and an alternative
 type: post
 template: blog-post.html
 comments:

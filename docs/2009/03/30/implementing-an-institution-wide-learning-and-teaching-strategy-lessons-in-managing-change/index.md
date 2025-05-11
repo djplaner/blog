@@ -1,7 +1,20 @@
 ---
-title: "Implementing an institution-wide learning and teaching strategy: lessons in managing change"
+categories:
+- chapter-2
+- design-theory
+- psframework
+- reading
+- reflectivealignment
+- thesis
 date: 2009-03-30 21:41:59+10:00
-categories: ['chapter-2', 'design-theory', 'psframework', 'reading', 'reflectivealignment', 'thesis']
+next:
+  text: '"PhD Update #6 - start of shortened weeks"'
+  url: /blog2/2009/04/02/phd-update-6-start-of-shortened-weeks/
+previous:
+  text: Prescription, adaptation and failure around improving univeristy teaching
+  url: /blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
+title: '"Implementing an institution-wide learning and teaching strategy: lessons
+  in managing change"'
 type: post
 template: blog-post.html
 comments:

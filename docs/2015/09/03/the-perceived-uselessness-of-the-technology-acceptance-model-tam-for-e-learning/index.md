@@ -1,7 +1,17 @@
 ---
-title: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
+categories:
+- 4paths
+- bad
+- elearning
+- set
 date: 2015-09-03 15:37:51+10:00
-categories: ['4paths', 'bad', 'elearning', 'set']
+next:
+  text: '"Educational technology: deja vu all over again"'
+  url: /blog2/2015/09/03/educational-technology-deja-vu-all-over-again/
+previous:
+  text: It's not how bad you start, but how quickly you get better
+  url: /blog2/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
+title: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
 type: post
 template: blog-post.html
 comments:

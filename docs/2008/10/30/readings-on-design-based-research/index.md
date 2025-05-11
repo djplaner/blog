@@ -1,7 +1,16 @@
 ---
-title: Readings on Design-based research
+categories:
+- design-theory
+- elearning
+- thesis
 date: 2008-10-30 08:50:25+10:00
-categories: ['design-theory', 'elearning', 'thesis']
+next:
+  text: Between the idea and the reality,.... falls the shadow
+  url: /blog2/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/
+previous:
+  text: How do we transform institutions? Learning 2.0 and PLEs@CQUni
+  url: /blog2/2008/10/30/how-do-we-transform-institutions-learning-20-and-plescquni/
+title: Readings on Design-based research
 type: post
 template: blog-post.html
 ---

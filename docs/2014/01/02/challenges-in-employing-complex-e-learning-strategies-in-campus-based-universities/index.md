@@ -1,7 +1,17 @@
 ---
-title: Challenges in employing complex e-learning strategies in campus-based universities
+categories:
+- elearning
+- indicators
+- learninganalytics-elearning
 date: 2014-01-02 11:40:12+10:00
-categories: ['elearning', 'indicators', 'learninganalytics-elearning']
+next:
+  text: Reflective Blogging as part of ICT Professional Development to Support Pedagogical
+    Change
+  url: /blog2/2014/01/03/reflective-blogging-as-part-of-ict-professional-development-to-support-pedagogical-change/
+previous:
+  text: 'TAM, #moodle, online assignment submission and strategic implementation'
+  url: /blog2/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
+title: Challenges in employing complex e-learning strategies in campus-based universities
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: "Enterprise systems and shadow systems: What can the miner's canary tell us?"
+categories:
+- paperideas
+- web-20-course-sites
 date: 2007-01-16 11:04:58+10:00
-categories: ['paperideas', 'web-20-course-sites']
+next:
+  text: Decision making, problem solving traps and course management systems
+  url: /blog2/2007/01/24/decision-making-problem-solving-traps-and-course-management-systems/
+previous:
+  text: LMS Governance Report - a summary and reflection
+  url: /blog2/2007/01/15/lms-governance-report-a-summary-and-reflection/
+title: '"Enterprise systems and shadow systems: What can the miner''s canary tell
+  us?"'
 type: post
 template: blog-post.html
 ---

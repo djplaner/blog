@@ -1,7 +1,20 @@
 ---
-title: Usage of Webfuse course sites
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-08-01 21:54:50+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: CQU problem with BIM and RSS feeds
+  url: /blog2/2010/08/02/cqu-problem-with-bim-and-rss-feeds/
+previous:
+  text: The grammar of school, psychological dissonance and all professors are rather
+    ludditical
+  url: /blog2/2010/07/30/the-grammar-of-school-psychological-dissonance-and-all-professors-are-rather-ludditical/
+title: Usage of Webfuse course sites
 type: post
 template: blog-post.html
 ---

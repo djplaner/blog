@@ -1,8 +1,20 @@
 ---
-title: The dissonance gap in systems and LMS evaluations
+categories:
+- chapter-2
+- elearning
+- lmsevaluation
+- lmsreview
+- thesis
 date: 2008-11-17 11:29:28+10:00
-categories: ['chapter-2', 'elearning', 'lmsevaluation', 'lmsreview', 'thesis']
-tags: ['lms']
+next:
+  text: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
+  url: /blog2/2008/11/17/plescquni-origins-rationale-and-outcomes-so-far-2/
+previous:
+  text: '&quot;Big&quot; systems - another assumption &quot;PLEs&quot; overthrow'
+  url: /blog2/2008/11/16/big-systems-another-assumption-ples-overthrow/
+tags:
+- lms
+title: The dissonance gap in systems and LMS evaluations
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Three likely paths for learning analytics and academics
+categories:
+- thesis
 date: 2012-10-11 15:32:46+10:00
-categories: ['thesis']
+next:
+  text: The Texas sharpshooter fallacy and other issues for learning analytics
+  url: /blog2/2012/10/18/the-texas-sharpshooter-fallacy-and-other-issues-for-learning-analytics/
+previous:
+  text: Compliance cultures and transforming the quality of e-learning
+  url: /blog2/2012/09/29/compliance-cultures-and-transforming-the-quality-of-e-learning/
+title: Three likely paths for learning analytics and academics
 type: post
 template: blog-post.html
 comments:

@@ -1,6 +1,6 @@
 ---
-title: Current version of BIM
 date: 2010-02-15 11:37:25+10:00
+title: Current version of BIM
 type: page
 template: blog-post.html
 comments:

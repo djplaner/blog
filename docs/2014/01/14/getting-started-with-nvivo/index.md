@@ -1,7 +1,15 @@
 ---
-title: Getting started with NVivo
+categories:
+- edc3100
+- nvivo
 date: 2014-01-14 15:39:07+10:00
-categories: ['edc3100', 'nvivo']
+next:
+  text: Analysing some course evaluation comments
+  url: /blog2/2014/01/15/analysing-some-course-evaluation-comments/
+previous:
+  text: Evaluating EDC3100 in 2013 - step 1
+  url: /blog2/2014/01/13/evaluating-edc3100-in-2013-step-1/
+title: Getting started with NVivo
 type: post
 template: blog-post.html
 comments:

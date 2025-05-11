@@ -1,8 +1,16 @@
 ---
-title: Supporting the design of discipline-specific digital learning activities
-date: 2020-08-15 11:10:05+10:00
-categories: ['casa']
+categories:
+- casa
 coverImage: 24322587491_400a8daf6d_o-scaled-e1597452063212.jpg
+date: 2020-08-15 11:10:05+10:00
+next:
+  text: Reflections on "How learning design systems can help scale and accelerate
+    learning design"
+  url: /blog2/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/
+previous:
+  text: Visualising and pruning my Memex
+  url: /blog2/2020/08/09/visualising-and-pruning-my-memex/
+title: Supporting the design of discipline-specific digital learning activities
 type: post
 template: blog-post.html
 ---

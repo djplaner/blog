@@ -1,7 +1,14 @@
 ---
-title: What tree is this?
+categories:
+- thesis
 date: 2008-12-23 10:51:59+10:00
-categories: ['thesis']
+next:
+  text: Update on the website move - google rankings
+  url: /blog2/2008/12/28/update-on-the-website-move-google-rankings/
+previous:
+  text: An introduction to Linux Systems administration - 1st and 4th editions
+  url: /blog2/2008/12/22/an-introduction-to-linux-systems-administration-4th-edition/
+title: What tree is this?
 type: post
 template: blog-post.html
 comments:

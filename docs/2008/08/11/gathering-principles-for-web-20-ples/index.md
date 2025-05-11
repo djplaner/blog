@@ -1,7 +1,19 @@
 ---
-title: Gathering principles for Web 2.0 - PLEs
+categories:
+- design-theory
+- elearning
+- missingps
+- ple
+- plescquni
+- web-20-course-sites
 date: 2008-08-11 12:01:09+10:00
-categories: ['design-theory', 'elearning', 'missingps', 'ple', 'plescquni', 'web-20-course-sites']
+next:
+  text: Voice Thread for Research Posters
+  url: /blog2/2008/08/11/voice-thread-for-research-posters/
+previous:
+  text: Creating slidecasts on Slideshare - e-learning support?
+  url: /blog2/2008/08/07/creating-slidecasts-on-slideshare-e-learning-support/
+title: Gathering principles for Web 2.0 - PLEs
 type: post
 template: blog-post.html
 comments:

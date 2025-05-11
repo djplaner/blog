@@ -1,7 +1,14 @@
 ---
-title: The teaching/research nexus - an example?
+categories:
+- bam
 date: 2009-06-05 09:47:20+10:00
-categories: ['bam']
+next:
+  text: '"PhD Update #13 - back after a week off"'
+  url: /blog2/2009/06/05/phd-update-13-back-after-a-week-off/
+previous:
+  text: Ateleological processes - definition and weaknesses
+  url: /blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/
+title: The teaching/research nexus - an example?
 type: post
 template: blog-post.html
 ---

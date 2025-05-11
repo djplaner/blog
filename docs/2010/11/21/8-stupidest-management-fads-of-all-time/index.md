@@ -1,7 +1,14 @@
 ---
-title: 8 stupidest management fads of all time
+categories:
+- thesis
 date: 2010-11-21 08:21:15+10:00
-categories: ['thesis']
+next:
+  text: Charity begins at home, doesn't it?
+  url: /blog2/2010/11/28/charity-begins-at-home-doesnt-it/
+previous:
+  text: Changing times and connectivism
+  url: /blog2/2010/11/21/changing-times-and-connectivism/
+title: 8 stupidest management fads of all time
 type: post
 template: blog-post.html
 ---

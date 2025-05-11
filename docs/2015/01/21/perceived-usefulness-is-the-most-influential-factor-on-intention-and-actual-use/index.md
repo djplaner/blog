@@ -1,7 +1,15 @@
 ---
-title: "Barriers to higher education technology adoption: Digital fluency or usefulness?"
+categories:
+- bad
+- bambimbad
 date: 2015-01-21 15:18:15+10:00
-categories: ['bad', 'bambimbad']
+next:
+  text: Trying out a new writing process
+  url: /blog2/2015/01/21/trying-out-a-new-writing-process/
+previous:
+  text: Learning to live with a standard look and feel
+  url: /blog2/2015/01/21/learning-to-live-with-a-standard-look-and-feel/
+title: '"Barriers to higher education technology adoption: Digital fluency or usefulness?"'
 type: post
 template: blog-post.html
 comments:

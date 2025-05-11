@@ -1,7 +1,17 @@
 ---
-title: The rider, elephant, and shaping the path
+categories:
+- academicdevelopment
+- c2d2
+- elearning
+- highereducation
 date: 2010-08-30 09:53:10+10:00
-categories: ['academicdevelopment', 'c2d2', 'elearning', 'highereducation']
+next:
+  text: Situated shared practice, curriculum design and academic development
+  url: /blog2/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/
+previous:
+  text: Possible uses of academic analytics
+  url: /blog2/2010/08/27/possible-uses-of-academic-analytics/
+title: The rider, elephant, and shaping the path
 type: post
 template: blog-post.html
 ---

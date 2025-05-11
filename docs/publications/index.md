@@ -1,6 +1,6 @@
 ---
-title: Publications
 date: 2008-10-15 16:30:27+10:00
+title: Publications
 type: page
 template: blog-post.html
 comments:

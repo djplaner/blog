@@ -1,6 +1,6 @@
 ---
-title: "Analytics and complexity: Learning and leading for the future"
 date: 2012-08-30 13:39:40+10:00
+title: '"Analytics and complexity: Learning and leading for the future"'
 type: page
 template: blog-post.html
 comments:

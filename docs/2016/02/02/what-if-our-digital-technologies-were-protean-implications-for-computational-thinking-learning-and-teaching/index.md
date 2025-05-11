@@ -1,7 +1,18 @@
 ---
-title: What if our digital technologies were protean? Implications for computational thinking, learning, and teaching
+categories:
+- bad
+- elearning
+- thesis
 date: 2016-02-02 08:49:13+10:00
-categories: ['bad', 'elearning', 'thesis']
+next:
+  text: Blog for learning. Why? What? How?
+  url: /blog2/2016/02/02/blog-for-learning-why-what-how/
+previous:
+  text: 'Mapping the digital practices of teacher educators: Implications for teacher
+    education in changing digital landscapes'
+  url: /blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/
+title: What if our digital technologies were protean? Implications for computational
+  thinking, learning, and teaching
 type: post
 template: blog-post.html
 comments:

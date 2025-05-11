@@ -1,7 +1,16 @@
 ---
-title: "University e-learning: Removing context and adding sediment"
+categories:
+- bad
+- elearning
 date: 2015-10-01 12:50:10+10:00
-categories: ['bad', 'elearning']
+next:
+  text: Teachers as designers of technology enhance learning?
+  url: /blog2/2015/10/06/teachers-as-digital-renovators/
+previous:
+  text: Self-assertive and integrative tendencies and the connection to the BAD/SET
+    mindsets
+  url: /blog2/2015/09/17/self-assertive-and-integrative-tendencies-and-the-connection-to-the-badset-mindsets/
+title: '"University e-learning: Removing context and adding sediment"'
 type: post
 template: blog-post.html
 comments:

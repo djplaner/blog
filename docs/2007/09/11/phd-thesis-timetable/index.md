@@ -1,7 +1,14 @@
 ---
-title: PhD Thesis Timetable
+categories:
+- thesis
 date: 2007-09-11 13:00:15+10:00
-categories: ['thesis']
+next:
+  text: '"It''s all over: no need to select an LMS"'
+  url: /blog2/2007/09/30/its-all-over-no-need-to-select-an-lms/
+previous:
+  text: I&#039;m a &quot;uber cool high nerd&quot;
+  url: /blog2/2007/09/09/im-a-uber-cool-high-nerd/
+title: PhD Thesis Timetable
 type: post
 template: blog-post.html
 comments:

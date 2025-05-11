@@ -1,7 +1,17 @@
 ---
-title: Scaffolding, context-sensitive conglomerations - v2.0
+categories:
+- design-theory
+- elearning
+- phd
+- thesis
 date: 2010-11-09 10:27:42+10:00
-categories: ['design-theory', 'elearning', 'phd', 'thesis']
+next:
+  text: Initial plans for BIM 2.0
+  url: /blog2/2010/11/09/initial-plans-for-bim-2-0/
+previous:
+  text: A story of the power of intrinsic motivation
+  url: /blog2/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/
+title: Scaffolding, context-sensitive conglomerations - v2.0
 type: post
 template: blog-post.html
 comments:

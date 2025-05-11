@@ -1,7 +1,15 @@
 ---
-title: "Group 2 Technologies: Images, Audio and Video"
+categories:
+- eded20491
+- teaching
 date: 2011-04-07 16:08:43+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Why are we analysing ICTs for learning?
+  url: /blog2/2011/04/07/why-are-we-analysing-icts-for-learning/
+previous:
+  text: 'ICTs for learning design: Group 2 Technologies - The readings'
+  url: /blog2/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/
+title: '"Group 2 Technologies: Images, Audio and Video"'
 type: post
 template: blog-post.html
 comments:

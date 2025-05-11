@@ -1,7 +1,14 @@
 ---
-title: To all my friends and colleagues out there - PhD etiquette
+categories:
+- phd
 date: 2009-06-14 11:30:01+10:00
-categories: ['phd']
+next:
+  text: '"PhD Update #14 - Moving to a new day"'
+  url: /blog2/2009/06/14/phd-update-14-moving-to-a-new-day/
+previous:
+  text: Another ill-informed point about connectivism versus behaviourism and cognitivism
+  url: /blog2/2009/06/12/another-ill-informed-point-about-connectivism-versus-behaviourism-and-cognitivism/
+title: To all my friends and colleagues out there - PhD etiquette
 type: post
 template: blog-post.html
 comments:

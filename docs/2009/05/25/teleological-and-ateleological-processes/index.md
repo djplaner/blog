@@ -1,7 +1,20 @@
 ---
-title: Teleological and ateleological processes
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-25 10:10:23+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: What are the conditions that are conducive to the creation of a variety of
+    new ideas?
+  url: /blog2/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
+previous:
+  text: Continuing to bash the consultant model
+  url: /blog2/2009/05/24/continuing-to-bash-the-consultant-model/
+title: Teleological and ateleological processes
 type: post
 template: blog-post.html
 comments:

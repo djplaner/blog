@@ -1,7 +1,17 @@
 ---
-title: "Improving L&#038;T at Universities - The emperor has no clothes"
 date: 2010-03-14 07:53:21+10:00
-tags: ['learning', 'staffdevelopment', 'teaching', 'university']
+next:
+  text: The story of BIM - Origins - blogs and minute papers
+  url: /blog2/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
+previous:
+  text: The conditions for Anna&#039;s phone
+  url: /blog2/2010/03/13/the-conditions-for-annas-phone/
+tags:
+- learning
+- staffdevelopment
+- teaching
+- university
+title: '"Improving L&#038;T at Universities - The emperor has no clothes"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: \"Clickers\", success, and why do I feel dirty?
+categories:
+- mathematics
+- teaching
 date: 2011-10-09 14:54:09+10:00
-categories: ['mathematics', 'teaching']
+next:
+  text: What arrogance! What an insult to the rich and chaotic variety of the human
+    experience
+  url: /blog2/2011/10/16/what-arrogance-what-an-insult-to-the-rich-and-chaotic-variety-of-the-human-experience/
+previous:
+  text: Results of the Year 10 math hassle map
+  url: /blog2/2011/10/09/results-of-the-year-10-math-hassle-map/
+title: '"Clickers", success, and why do I feel dirty?'
 type: post
 template: blog-post.html
 comments:

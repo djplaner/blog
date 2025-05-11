@@ -1,7 +1,14 @@
 ---
-title: Diagnosing and recording a problem with BAM
+categories:
+- bam
 date: 2009-05-19 13:14:31+10:00
-categories: ['bam']
+next:
+  text: Innovation role as Trickster
+  url: /blog2/2009/05/19/innovation-role-as-trickster/
+previous:
+  text: Quality assurance of learning and teaching
+  url: /blog2/2009/05/18/quality-assurance-of-learning-and-teaching/
+title: Diagnosing and recording a problem with BAM
 type: post
 template: blog-post.html
 comments:

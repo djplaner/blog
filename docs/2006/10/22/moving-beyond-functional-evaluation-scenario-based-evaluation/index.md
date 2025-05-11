@@ -1,7 +1,14 @@
 ---
-title: Moving beyond functional evaluation - scenario-based evaluation
+categories:
+- elearning
 date: 2006-10-22 22:14:38+10:00
-categories: ['elearning']
+next:
+  text: The missing Ps - Past Experience
+  url: /blog2/2006/10/25/the-missing-ps-past-experience/
+previous:
+  text: The missing Ps - Purpose and place
+  url: /blog2/2006/10/22/purpose-and-place/
+title: Moving beyond functional evaluation - scenario-based evaluation
 type: post
 template: blog-post.html
 ---

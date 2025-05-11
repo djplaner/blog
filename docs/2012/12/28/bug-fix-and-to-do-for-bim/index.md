@@ -1,7 +1,14 @@
 ---
-title: Bug fix and to do for BIM
+categories:
+- bim
 date: 2012-12-28 11:20:43+10:00
-categories: ['bim']
+next:
+  text: Major (Moodle) requirements for BIM 2.0
+  url: /blog2/2012/12/29/major-moodle-requirements-for-bim-2-0/
+previous:
+  text: 'BIM: another restart?'
+  url: /blog2/2012/12/19/bim-another-restart/
+title: Bug fix and to do for BIM
 type: post
 template: blog-post.html
 ---

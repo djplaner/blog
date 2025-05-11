@@ -1,8 +1,18 @@
 ---
-title: Design of a BAD approach to developing TPACK
+categories:
+- bad
+- dejavu
+- e-learning
 date: 2015-09-05 16:30:42+10:00
-categories: ['bad', 'dejavu', 'e-learning']
-tags: ['netgl']
+next:
+  text: How NGL can inform my role as teacher
+  url: /blog2/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
+previous:
+  text: 'Educational technology: deja vu all over again'
+  url: /blog2/2015/09/03/educational-technology-deja-vu-all-over-again/
+tags:
+- netgl
+title: Design of a BAD approach to developing TPACK
 type: post
 template: blog-post.html
 comments:

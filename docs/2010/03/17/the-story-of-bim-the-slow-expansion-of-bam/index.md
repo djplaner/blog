@@ -1,7 +1,14 @@
 ---
-title: The story of BIM - the slow expansion of BAM
+categories:
+- bim
 date: 2010-03-17 15:44:52+10:00
-categories: ['bim']
+next:
+  text: Embedding behaviour modification - paper summary
+  url: /blog2/2010/03/17/embedding-behaviour-modification-paper-summary/
+previous:
+  text: Late enrolling students and student signatures - Indicators project?
+  url: /blog2/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
+title: The story of BIM - the slow expansion of BAM
 type: post
 template: blog-post.html
 ---

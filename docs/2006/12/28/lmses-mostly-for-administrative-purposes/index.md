@@ -1,7 +1,15 @@
 ---
-title: LMSes mostly for administrative purposes
+categories:
+- elearning
+- paperideas
 date: 2006-12-28 10:12:02+10:00
-categories: ['elearning', 'paperideas']
+next:
+  text: Is pedagogical the only lens
+  url: /blog2/2006/12/28/is-pedagogical-the-only-lens/
+previous:
+  text: Rationale for the Web 2.0 Course Site approach
+  url: /blog2/2006/12/23/rationale-for-the-web-20-course-site-approach-2/
+title: LMSes mostly for administrative purposes
 type: post
 template: blog-post.html
 ---

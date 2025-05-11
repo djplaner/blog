@@ -1,6 +1,6 @@
 ---
-title: The design of an integrated online learning environment
 date: 2008-10-22 13:40:09+10:00
+title: The design of an integrated online learning environment
 type: page
 template: blog-post.html
 comments:

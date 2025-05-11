@@ -1,6 +1,12 @@
 ---
-title: "eLearning and Innovation Specialist report #1: 4-20 August"
 date: 2009-08-20 09:18:07+10:00
+next:
+  text: '"BIM#5: Getting a prototype BIM going"'
+  url: /blog2/2009/08/20/bim5-getting-a-prototype-bim-going/
+previous:
+  text: The product component of the Ps Framework
+  url: /blog2/2009/08/19/the-product-component-of-the-ps-framework/
+title: '"eLearning and Innovation Specialist report #1: 4-20 August"'
 type: post
 template: blog-post.html
 comments:

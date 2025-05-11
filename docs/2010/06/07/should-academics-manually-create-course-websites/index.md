@@ -1,7 +1,17 @@
 ---
-title: Should academics manually create course websites?
+categories:
+- elearning
+- moodle
+- thesis
+- webfuse
 date: 2010-06-07 20:36:24+10:00
-categories: ['elearning', 'moodle', 'thesis', 'webfuse']
+next:
+  text: Course websites and "libertarian paternalism"
+  url: /blog2/2010/06/08/course-websites-and-libertarian-paternalism/
+previous:
+  text: Default course sites and wizards
+  url: /blog2/2010/06/07/default-course-sites-and-wizards/
+title: Should academics manually create course websites?
 type: post
 template: blog-post.html
 comments:

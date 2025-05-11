@@ -1,7 +1,14 @@
 ---
-title: Understanding and using the idea of \"network learning\"
+categories:
+- edu8117
 date: 2016-08-17 15:37:05+10:00
-categories: ['edu8117']
+next:
+  text: On the value or otherwise of SAMR, RAT etc.
+  url: /blog2/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
+previous:
+  text: Exploring Moodle book usage - part 3 - who and how much
+  url: /blog2/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/
+title: Understanding and using the idea of "network learning"
 type: post
 template: blog-post.html
 comments:

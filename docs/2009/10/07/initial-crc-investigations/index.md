@@ -1,7 +1,14 @@
 ---
-title: Initial CRC investigations
+categories:
+- thesis
 date: 2009-10-07 09:37:01+10:00
-categories: ['thesis']
+next:
+  text: LTERC, finally a research centre - shamless plug
+  url: /blog2/2009/10/07/lterc-finally-a-research-centre-shamless-plug/
+previous:
+  text: Using Votapedia
+  url: /blog2/2009/10/06/using-votapedia/
+title: Initial CRC investigations
 type: post
 template: blog-post.html
 ---

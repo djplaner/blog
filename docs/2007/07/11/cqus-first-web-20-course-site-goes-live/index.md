@@ -1,7 +1,16 @@
 ---
-title: CQU's first \"web 2.0 course site\" goes live
+categories:
+- bam
+- web-20-course-sites
+- webfuse
 date: 2007-07-11 20:34:17+10:00
-categories: ['bam', 'web-20-course-sites', 'webfuse']
+next:
+  text: Some short-term futures for learning @ CQU
+  url: /blog2/2007/07/11/some-short-term-futures-for-learning-cqu/
+previous:
+  text: Possible Futures v2.0
+  url: /blog2/2007/06/27/possible-futures-v20/
+title: CQU's first "web 2.0 course site" goes live
 type: post
 template: blog-post.html
 comments:

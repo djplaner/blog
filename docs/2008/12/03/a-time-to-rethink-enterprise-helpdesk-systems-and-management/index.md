@@ -1,8 +1,17 @@
 ---
-title: A time to rethink enterprise helpdesk systems and management
+categories:
+- design-theory
 date: 2008-12-03 02:17:53+10:00
-categories: ['design-theory']
-tags: ['helpdesk']
+next:
+  text: Accept the fact that we have to treat almost anybody as a volunteer - implications
+    for learning and teaching
+  url: /blog2/2008/12/05/accept-the-fact-that-we-have-to-treat-almost-anybody-as-a-volunteer-implications-for-learning-and-teaching/
+previous:
+  text: Selecting a tripod
+  url: /blog2/2008/11/29/selecting-a-tripod/
+tags:
+- helpdesk
+title: A time to rethink enterprise helpdesk systems and management
 type: post
 template: blog-post.html
 ---

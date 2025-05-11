@@ -1,8 +1,16 @@
 ---
-title: Saturday (13th Dec) - Must be the Musee D'Orsay
+categories:
+- paris2008
 date: 2008-12-16 22:46:39+10:00
-categories: ['paris2008']
-tags: ['paris']
+next:
+  text: Sunday (Dec 14) - Welcoming guests and Notre Dame
+  url: /blog2/2008/12/16/sunday-dec-14-welcoming-guests-and-notre-dame/
+previous:
+  text: A night at Lassere
+  url: /blog2/2008/12/16/a-night-at-lassere/
+tags:
+- paris
+title: Saturday (13th Dec) - Must be the Musee D'Orsay
 type: post
 template: blog-post.html
 ---

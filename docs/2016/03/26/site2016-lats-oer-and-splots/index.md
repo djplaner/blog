@@ -1,7 +1,17 @@
 ---
-title: "SITE'2016: LATs, OER, and SPLOTs?"
+categories:
+- bad
+- oep
+- site2016
 date: 2016-03-26 02:40:52+10:00
-categories: ['bad', 'oep', 'site2016']
+next:
+  text: LATs, OER, TPACK, and GitHub
+  url: /blog2/2016/03/26/lats-oer-tpack-and-github/
+previous:
+  text: 'Mapping the digital practices of teacher educators: Implications for teacher
+    education in changing digital landscapes'
+  url: /blog2/2016/03/24/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes-2/
+title: '"SITE''2016: LATs, OER, and SPLOTs?"'
 type: post
 template: blog-post.html
 ---

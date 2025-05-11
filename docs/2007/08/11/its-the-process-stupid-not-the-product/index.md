@@ -1,7 +1,14 @@
 ---
-title: It's the process, stupid (not the product)
+categories:
+- missingps
 date: 2007-08-11 22:27:51+10:00
-categories: ['missingps']
+next:
+  text: Mediawiki, organisational websites and emergence
+  url: /blog2/2007/08/15/mediawiki-organisational-websites-and-emergence/
+previous:
+  text: Claiming my blog on technorati
+  url: /blog2/2007/08/01/claiming-my-blog-on-technorati/
+title: It's the process, stupid (not the product)
 type: post
 template: blog-post.html
 ---

@@ -1,6 +1,6 @@
 ---
-title: Current practice in web-based delivery of IT courses
 date: 2008-12-31 13:49:44+10:00
+title: Current practice in web-based delivery of IT courses
 type: page
 template: blog-post.html
 ---

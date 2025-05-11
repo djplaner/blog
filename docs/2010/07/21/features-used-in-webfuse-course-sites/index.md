@@ -1,7 +1,19 @@
 ---
-title: Features used in Webfuse course sites
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-07-21 10:59:51+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: How to handle the marriage of PLEs and institutions
+  url: /blog2/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
+previous:
+  text: An overview of BIM
+  url: /blog2/2010/07/20/an-overview-of-bim/
+title: Features used in Webfuse course sites
 type: post
 template: blog-post.html
 ---

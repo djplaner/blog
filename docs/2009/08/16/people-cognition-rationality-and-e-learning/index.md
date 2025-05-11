@@ -1,7 +1,19 @@
 ---
-title: People, cognition, rationality and e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-08-16 15:11:32+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"BIM #4: Re-jigging how BIM works"'
+  url: /blog2/2009/08/17/bim-4-re-jigging-how-bim-works/
+previous:
+  text: 'PhD Update #20 - Progress, slowness and techno-rationality'
+  url: /blog2/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
+title: People, cognition, rationality and e-learning
 type: post
 template: blog-post.html
 comments:

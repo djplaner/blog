@@ -1,7 +1,14 @@
 ---
-title: "BIM #6 - Learning weblib.php"
+categories:
+- bim
 date: 2009-09-03 15:56:04+10:00
-categories: ['bim']
+next:
+  text: '"Phd Update #23 - Getting closer to the end of chapter 2"'
+  url: /blog2/2009/09/03/phd-update-23-getting-closer-to-the-end-of-chapter-2/
+previous:
+  text: Lessons from product for e-learning
+  url: /blog2/2009/09/02/lessons-from-product-for-e-learning/
+title: '"BIM #6 - Learning weblib.php"'
 type: post
 template: blog-post.html
 ---

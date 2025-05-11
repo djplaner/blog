@@ -1,7 +1,15 @@
 ---
-title: How are they feeling - Semester 2 - Part 1
+categories:
+- edc3100
+- teaching
 date: 2013-07-18 10:55:30+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: BIM, Moodle, Simplepie, curl and HTTP proxy issue
+  url: /blog2/2013/07/26/bim-moodle-simplepie-curl-and-http-proxy-issue/
+previous:
+  text: IRAC - Four questions for learning analytics interventions
+  url: /blog2/2013/07/14/irac-four-questions-for-learning-analytics-interventions/
+title: How are they feeling - Semester 2 - Part 1
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: "Some areas of improvement for #edc3100"
+categories:
+- edc3100
 date: 2014-03-28 15:23:46+10:00
-categories: ['edc3100']
+next:
+  text: BIM and BAD
+  url: /blog2/2014/03/31/bim-and-bad/
+previous:
+  text: A story about the failure of institutional eportfolios
+  url: /blog2/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/
+title: '"Some areas of improvement for #edc3100"'
 type: post
 template: blog-post.html
 comments:

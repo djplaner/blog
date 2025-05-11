@@ -1,7 +1,15 @@
 ---
-title: Redesigning the weekly ramble
+categories:
+- edc3100
+- teaching
 date: 2012-07-15 11:26:42+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: Is there a link between managerialisation and learning analytics?
+  url: /blog2/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
+previous:
+  text: Why do (social) networks matter in teaching &#038; learning?
+  url: /blog2/2012/07/07/why-do-social-networks-matter-in-teaching-learning/
+title: Redesigning the weekly ramble
 type: post
 template: blog-post.html
 comments:

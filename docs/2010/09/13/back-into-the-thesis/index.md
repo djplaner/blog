@@ -1,7 +1,15 @@
 ---
-title: Back into the thesis
+categories:
+- phd
+- thesis
 date: 2010-09-13 13:50:18+10:00
-categories: ['phd', 'thesis']
+next:
+  text: How strict a blueprint do ISDTs provide?
+  url: /blog2/2010/09/13/how-strict-a-blueprint-do-isdts-provide/
+previous:
+  text: More problems with BIM and special characters
+  url: /blog2/2010/09/05/more-problems-with-bim-and-special-characters/
+title: Back into the thesis
 type: post
 template: blog-post.html
 ---

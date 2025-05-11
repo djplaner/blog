@@ -1,7 +1,17 @@
 ---
-title: Pedagogy of the impressed - how teachers become victims of technology vision
+categories:
+- chapter-2
+- design-theory
+- elearning
+- thesis
 date: 2009-04-22 11:14:12+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'thesis']
+next:
+  text: E-learning usage - quality
+  url: /blog2/2009/04/22/e-learning-usage-quality/
+previous:
+  text: The paradigms of e-learning
+  url: /blog2/2009/04/20/the-paradigms-of-e-learning/
+title: Pedagogy of the impressed - how teachers become victims of technology vision
 type: post
 template: blog-post.html
 comments:

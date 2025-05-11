@@ -1,7 +1,14 @@
 ---
-title: A bit more NGL catchup
+categories:
+- edu8117
 date: 2014-08-21 15:11:38+10:00
-categories: ['edu8117']
+next:
+  text: And more NGL catch up
+  url: /blog2/2014/08/22/and-more-ngl-catch-up/
+previous:
+  text: Evaluating the use of blogs/reflective journals
+  url: /blog2/2014/08/21/evaluating-the-use-of-blogsreflective-journals/
+title: A bit more NGL catchup
 type: post
 template: blog-post.html
 comments:

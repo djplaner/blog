@@ -1,7 +1,14 @@
 ---
-title: FedWiki 7, 8 and 9 - Moving, catching up and engaging
+categories:
+- thesis
 date: 2014-12-26 11:29:22+10:00
-categories: ['thesis']
+next:
+  text: '"Random #fedwikihappening ramblings"'
+  url: /blog2/2014/12/29/random-fedwikihappening-ramblings/
+previous:
+  text: 'FedWiki Daily #6 - Mining, fracking and exploring the process'
+  url: /blog2/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/
+title: FedWiki 7, 8 and 9 - Moving, catching up and engaging
 type: post
 template: blog-post.html
 ---

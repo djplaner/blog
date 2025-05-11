@@ -1,7 +1,18 @@
 ---
-title: Branding and universities - a mismatch of purpose and place?
+categories:
+- chapter-2
+- design-theory
+- psframework
+- thesis
 date: 2009-02-24 00:34:30+10:00
-categories: ['chapter-2', 'design-theory', 'psframework', 'thesis']
+next:
+  text: '"Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
+    projects?"'
+  url: /blog2/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/
+previous:
+  text: When was this - past experience of e-learning
+  url: /blog2/2009/02/23/when-was-this-past-experience-of-e-learning/
+title: Branding and universities - a mismatch of purpose and place?
 type: post
 template: blog-post.html
 ---

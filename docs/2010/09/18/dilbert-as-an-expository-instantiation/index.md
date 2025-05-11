@@ -1,7 +1,20 @@
 ---
-title: Dilbert as an expository instantiation
+categories:
+- chapter-5
+- design-theory
+- elearning
+- information-systems
+- phd
+- thesis
+- webfuse
 date: 2010-09-18 16:05:13+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'information-systems', 'phd', 'thesis', 'webfuse']
+next:
+  text: BIM, missing students and Moodle groups
+  url: /blog2/2010/09/19/bim-missing-students-and-moodle-groups/
+previous:
+  text: The office and more procrastination
+  url: /blog2/2010/09/17/the-office-and-more-procrastination/
+title: Dilbert as an expository instantiation
 type: post
 template: blog-post.html
 ---

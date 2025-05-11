@@ -1,7 +1,17 @@
 ---
-title: The grammar of school, psychological dissonance and all professors are rather ludditical
+categories:
+- elearning
+- herding-cats
+- reflectivealignment
 date: 2010-07-30 10:49:27+10:00
-categories: ['elearning', 'herding-cats', 'reflectivealignment']
+next:
+  text: Usage of Webfuse course sites
+  url: /blog2/2010/08/01/usage-of-webfuse-course-sites/
+previous:
+  text: First the fridge dies, and then...
+  url: /blog2/2010/07/28/first-the-fridge-dies-and-then/
+title: The grammar of school, psychological dissonance and all professors are rather
+  ludditical
 type: post
 template: blog-post.html
 comments:

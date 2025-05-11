@@ -1,7 +1,20 @@
 ---
-title: Light-weight analytics tools as part of scaffolding, context-sensitive conglomerations
+categories:
+- chapter-5
+- design-theory
+- distributedcognition
+- elearning
+- indicators
+- phd
+- thesis
 date: 2010-09-04 22:39:57+10:00
-categories: ['chapter-5', 'design-theory', 'distributedcognition', 'elearning', 'indicators', 'phd', 'thesis']
+next:
+  text: More problems with BIM and special characters
+  url: /blog2/2010/09/05/more-problems-with-bim-and-special-characters/
+previous:
+  text: Misc. reflections on reading about situated cognition
+  url: /blog2/2010/09/03/misc-reflections-on-reading-about-situated-cognition/
+title: Light-weight analytics tools as part of scaffolding, context-sensitive conglomerations
 type: post
 template: blog-post.html
 ---

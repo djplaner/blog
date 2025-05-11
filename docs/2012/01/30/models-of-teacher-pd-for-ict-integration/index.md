@@ -1,7 +1,16 @@
 ---
-title: Models of Teacher PD  for ICT integration
+categories:
+- edc3100
+- pstn
+- teaching
 date: 2012-01-30 15:29:12+10:00
-categories: ['edc3100', 'pstn', 'teaching']
+next:
+  text: '"Thinking about the Preservice teaching networking (#pstn) project"'
+  url: /blog2/2012/01/31/thinking-about-the-preservice-teaching-networking-pstn-project/
+previous:
+  text: Understanding trends around ICTs
+  url: /blog2/2012/01/26/understanding-trends-around-icts/
+title: Models of Teacher PD  for ICT integration
 type: post
 template: blog-post.html
 ---

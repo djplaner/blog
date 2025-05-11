@@ -1,7 +1,15 @@
 ---
-title: "Phd Update #12 - some progress, but late"
+categories:
+- phd
+- thesis
 date: 2009-05-23 07:20:03+10:00
-categories: ['phd', 'thesis']
+next:
+  text: The problem with consultants/MBAs - Dilbert's view
+  url: /blog2/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/
+previous:
+  text: The perils of re-organisation - Gaius Petronius
+  url: /blog2/2009/05/21/the-perils-of-re-organisation-gaius-petronius/
+title: '"Phd Update #12 - some progress, but late"'
 type: post
 template: blog-post.html
 comments:

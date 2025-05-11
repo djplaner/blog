@@ -1,7 +1,19 @@
 ---
-title: The end of management - lessons for universities?
+categories:
+- chapter-2
+- distributedcognition
+- elearning
+- phd
+- thesis
 date: 2010-08-24 17:22:41+10:00
-categories: ['chapter-2', 'distributedcognition', 'elearning', 'phd', 'thesis']
+next:
+  text: Nobody likes a do-gooder - another reason for e-learning not mainstreaming?
+  url: /blog2/2010/08/25/nobody-likes-a-do-gooder-another-reason-for-lt/
+previous:
+  text: 'University e-learning systems: the need for new product and process models
+    and some examples'
+  url: /blog2/2010/08/24/university-e-learning-systems-the-need-for-new-product-and-process-models-and-some-examples/
+title: The end of management - lessons for universities?
 type: post
 template: blog-post.html
 ---

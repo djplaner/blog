@@ -1,7 +1,14 @@
 ---
-title: Social computing
+categories:
+- web-20-course-sites
 date: 2006-09-28 09:11:19+10:00
-categories: ['web-20-course-sites']
+next:
+  text: UC Berkeley already using Google Video
+  url: /blog2/2006/09/28/uc-berkeley-already-using-google-video/
+previous:
+  text: Web 2.0 - change in people and society
+  url: /blog2/2006/09/28/web-20-change-in-people-and-society/
+title: Social computing
 type: post
 template: blog-post.html
 ---

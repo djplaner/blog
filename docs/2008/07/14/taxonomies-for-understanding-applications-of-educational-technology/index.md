@@ -1,7 +1,15 @@
 ---
-title: \"Taxonomies\" for understanding applications of educational technology
+categories:
+- secondlife
+- web3dx
 date: 2008-07-14 21:39:49+10:00
-categories: ['secondlife', 'web3dx']
+next:
+  text: Scavenger hunt and other methods for getting into systems
+  url: /blog2/2008/07/15/scavenger-hunt-and-other-methods-for-getting-into-systems/
+previous:
+  text: What do students find useful?
+  url: /blog2/2008/07/12/what-do-students-find-useful/
+title: '"Taxonomies" for understanding applications of educational technology'
 type: post
 template: blog-post.html
 comments:

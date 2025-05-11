@@ -1,7 +1,15 @@
 ---
-title: "PhD Update #16 - return from a break"
+categories:
+- phd
+- thesis
 date: 2009-07-05 14:03:35+10:00
-categories: ['phd', 'thesis']
+next:
+  text: Academics - the next part of the People section
+  url: /blog2/2009/07/07/academics-the-next-part-of-the-people-section/
+previous:
+  text: How do you &quot;apprehend the future&quot;
+  url: /blog2/2009/07/01/how-do-you-apprehend-the-future/
+title: '"PhD Update #16 - return from a break"'
 type: post
 template: blog-post.html
 comments:

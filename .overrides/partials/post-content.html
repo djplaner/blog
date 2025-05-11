@@ -1,10 +1,8 @@
-{% include "partials/tags.html" %}
-{% include "partials/actions.html" %}
+<!-- {% include "partials/tags.html" %}
+{% include "partials/actions.html" %}  -->
 
 
-{% if "\x3ch1" not in page.content %}
-  <h1>{{ page.title | d(config.site_name, true)}}</h1>
-{% endif %}
+  <h1>{{ page.meta.title }}</h1>
 <style>
   .pre-amble {
     font-size: 0.64rem;

@@ -1,7 +1,17 @@
 ---
-title: VoiceThread as a mechanism for feedback to students
+categories:
+- elearning
+- ple
+- plescquni
+- voicethreadresearchposters
 date: 2009-02-08 22:22:06+10:00
-categories: ['elearning', 'ple', 'plescquni', 'voicethreadresearchposters']
+next:
+  text: Plato on the problems that writing will create for student learning
+  url: /blog2/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/
+previous:
+  text: The ritual dissent method shows great promise
+  url: /blog2/2009/02/08/the-ritual-dissent-method-shows-great-promise/
+title: VoiceThread as a mechanism for feedback to students
 type: post
 template: blog-post.html
 ---

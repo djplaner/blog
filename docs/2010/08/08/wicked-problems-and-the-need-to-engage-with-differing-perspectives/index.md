@@ -1,7 +1,18 @@
 ---
-title: Wicked problems and the need to engage with differing perspectives
+categories:
+- bim
+- chapter-2
+- design-theory
+- elearning
+- thesis
 date: 2010-08-08 20:47:51+10:00
-categories: ['bim', 'chapter-2', 'design-theory', 'elearning', 'thesis']
+next:
+  text: The McNamara Fallacy and pass rates, academic analytics, and engagement
+  url: /blog2/2010/08/09/the-mcnamara-fallacy-and-pass-rates-academic-analytics-and-engagement/
+previous:
+  text: 30% of information about task performance
+  url: /blog2/2010/08/08/30-of-information-about-task-performance/
+title: Wicked problems and the need to engage with differing perspectives
 type: post
 template: blog-post.html
 comments:

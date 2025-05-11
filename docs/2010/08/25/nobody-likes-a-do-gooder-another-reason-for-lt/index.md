@@ -1,7 +1,19 @@
 ---
-title: Nobody likes a do-gooder - another reason for e-learning not mainstreaming?
+categories:
+- academicdevelopment
+- chapter-2
+- elearning
+- herding-cats
+- highereducation
+- thesis
 date: 2010-08-25 17:02:31+10:00
-categories: ['academicdevelopment', 'chapter-2', 'elearning', 'herding-cats', 'highereducation', 'thesis']
+next:
+  text: BIM, blog posts and special characters
+  url: /blog2/2010/08/26/bim-blog-posts-and-special-characters/
+previous:
+  text: The end of management - lessons for universities?
+  url: /blog2/2010/08/24/the-end-of-management-lessons-for-universities/
+title: Nobody likes a do-gooder - another reason for e-learning not mainstreaming?
 type: post
 template: blog-post.html
 ---

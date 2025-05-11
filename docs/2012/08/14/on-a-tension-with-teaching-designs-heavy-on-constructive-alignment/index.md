@@ -1,7 +1,14 @@
 ---
-title: On a tension with teaching designs heavy on constructive alignment
+categories:
+- thesis
 date: 2012-08-14 12:51:06+10:00
-categories: ['thesis']
+next:
+  text: The dilemma of open courses in an Australian university
+  url: /blog2/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/
+previous:
+  text: Lessons for the meta-level of networked learning?
+  url: /blog2/2012/08/13/lessons-for-the-meta-level-of-networked-learning/
+title: On a tension with teaching designs heavy on constructive alignment
 type: post
 template: blog-post.html
 comments:

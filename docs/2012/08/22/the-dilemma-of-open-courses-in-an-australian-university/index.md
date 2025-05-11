@@ -1,7 +1,16 @@
 ---
-title: The dilemma of open courses in an Australian university
+categories:
+- edc3100
+- edu8117
+- teaching
 date: 2012-08-22 16:01:36+10:00
-categories: ['edc3100', 'edu8117', 'teaching']
+next:
+  text: One example of industrial e-learning as "on the web" not "of the web"
+  url: /blog2/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/
+previous:
+  text: On a tension with teaching designs heavy on constructive alignment
+  url: /blog2/2012/08/14/on-a-tension-with-teaching-designs-heavy-on-constructive-alignment/
+title: The dilemma of open courses in an Australian university
 type: post
 template: blog-post.html
 comments:

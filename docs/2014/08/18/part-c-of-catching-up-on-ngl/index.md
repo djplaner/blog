@@ -1,7 +1,14 @@
 ---
-title: Part C of catching up on NGL
+categories:
+- edu8117
 date: 2014-08-18 16:41:26+10:00
-categories: ['edu8117']
+next:
+  text: Reclaim, identity, and bricolage
+  url: /blog2/2014/08/20/reclaim-identity-and-bricolage/
+previous:
+  text: '&quot;Supported&quot; versus &quot;unsupported&quot; ICTs in a network age'
+  url: /blog2/2014/08/18/supported-versus-unsupported-icts-in-a-network-age/
+title: Part C of catching up on NGL
 type: post
 template: blog-post.html
 ---

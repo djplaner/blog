@@ -1,7 +1,14 @@
 ---
-title: My on-going concerns with ePortfolios
+categories:
+- elearning
 date: 2012-03-21 16:35:59+10:00
-categories: ['elearning']
+next:
+  text: '"Learning analytics and study behaviour: A pilot study"'
+  url: /blog2/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/
+previous:
+  text: Eduhacking - a better use for (part of) academic conferences?
+  url: /blog2/2012/03/16/eduhacking-a-better-use-for-part-of-academic-conferences/
+title: My on-going concerns with ePortfolios
 type: post
 template: blog-post.html
 comments:

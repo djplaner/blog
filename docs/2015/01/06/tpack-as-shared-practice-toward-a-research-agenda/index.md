@@ -1,7 +1,14 @@
 ---
-title: "TPACK as shared practice: Toward a research agenda"
+categories:
+- bad
 date: 2015-01-06 08:37:21+10:00
-categories: ['bad']
+next:
+  text: '"Do it with" teachers or students?'
+  url: /blog2/2015/01/12/do-it-with-teachers-or-students/
+previous:
+  text: An illustration of the difficulty of learning about network learning
+  url: /blog2/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
+title: '"TPACK as shared practice: Toward a research agenda"'
 type: post
 template: blog-post.html
 comments:

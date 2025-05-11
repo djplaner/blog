@@ -1,7 +1,15 @@
 ---
-title: Too much stuff, not enough time
+categories:
+- connectedcourses
+- edu8117
 date: 2014-09-02 10:36:37+10:00
-categories: ['connectedcourses', 'edu8117']
+next:
+  text: Learning how to make waves
+  url: /blog2/2014/09/03/learning-how-to-make-waves/
+previous:
+  text: Signing up for Connected Courses
+  url: /blog2/2014/09/02/signing-up-for-connected-courses/
+title: Too much stuff, not enough time
 type: post
 template: blog-post.html
 comments:

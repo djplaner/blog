@@ -1,7 +1,16 @@
 ---
-title: Myself as teacher and learner
+categories:
+- eded20487
+- teaching
 date: 2011-07-03 10:55:20+10:00
-categories: ['eded20487', 'teaching']
+next:
+  text: '"The freedom of academia: strategised, KPI''d, and quality assured away"'
+  url: /blog2/2011/07/04/the-freedom-of-academia-strategised-kpid-and-quality-assured-away/
+previous:
+  text: 'Death of learning in universities: Part II. Explanation, origins, rampaging
+    researchers and catastrophic consultants'
+  url: /blog2/2011/06/21/death-of-learning-in-universities-part-ii-explanation-origins-rampaging-researchers-and-catastrophic-consultants/
+title: Myself as teacher and learner
 type: post
 template: blog-post.html
 ---

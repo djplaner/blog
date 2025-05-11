@@ -1,7 +1,14 @@
 ---
-title: BAM and the Chinese \"firewall\"
+categories:
+- bam
 date: 2009-07-15 11:05:15+10:00
-categories: ['bam']
+next:
+  text: '"Predictably irrational - implications for L&#038;T at Universities"'
+  url: /blog2/2009/07/15/predictably-irrational-implications-for-lt-at-universities/
+previous:
+  text: Integrating BAM into Moodle - Can it be done?
+  url: /blog2/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
+title: BAM and the Chinese "firewall"
 type: post
 template: blog-post.html
 comments:

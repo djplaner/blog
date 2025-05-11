@@ -1,7 +1,14 @@
 ---
-title: What is there to know about clickers?
+categories:
+- ilecture
 date: 2009-09-30 14:48:17+10:00
-categories: ['ilecture']
+next:
+  text: Alternative audience response systems - web, twitter and mobile phone
+  url: /blog2/2009/10/01/alternative-audience-response-systems-web-twitter-and-mobile-phone/
+previous:
+  text: Teaching, academic staff development, mastery and separation
+  url: /blog2/2009/09/30/teaching-academic-staff-development-mastery-and-separation/
+title: What is there to know about clickers?
 type: post
 template: blog-post.html
 ---

@@ -1,6 +1,6 @@
 ---
-title: Curriculum mapping
 date: 2010-02-20 10:57:03+10:00
+title: Curriculum mapping
 type: page
 template: blog-post.html
 comments:

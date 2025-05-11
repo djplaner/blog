@@ -1,7 +1,16 @@
 ---
-title: Planning an analysis of the learning analytics literature
+categories:
+- indicators
+- irac
+- learninganalytics-elearning
 date: 2013-10-03 13:50:09+10:00
-categories: ['indicators', 'irac', 'learninganalytics-elearning']
+next:
+  text: Dissenting views of institutional e-learning
+  url: /blog2/2013/10/09/dissenting-views-of-institutional-e-learning/
+previous:
+  text: 'The IRAC framework: Locating the performance zone for learning analytics'
+  url: /blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/
+title: Planning an analysis of the learning analytics literature
 type: post
 template: blog-post.html
 comments:

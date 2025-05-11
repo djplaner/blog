@@ -1,7 +1,14 @@
 ---
-title: New job, new start, new challenges
+categories:
+- emd
 date: 2007-02-03 20:51:59+10:00
-categories: ['emd']
+next:
+  text: Should the learner always be the focus?
+  url: /blog2/2007/02/09/should-the-learner-always-be-the-focus/
+previous:
+  text: Decision making, problem solving traps and course management systems
+  url: /blog2/2007/01/24/decision-making-problem-solving-traps-and-course-management-systems/
+title: New job, new start, new challenges
 type: post
 template: blog-post.html
 comments:

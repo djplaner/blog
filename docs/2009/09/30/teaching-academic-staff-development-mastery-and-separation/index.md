@@ -1,7 +1,16 @@
 ---
-title: Teaching, academic staff development, mastery and separation
+categories:
+- elearning
+- herding-cats
+- reflectivealignment
 date: 2009-09-30 10:21:48+10:00
-categories: ['elearning', 'herding-cats', 'reflectivealignment']
+next:
+  text: What is there to know about clickers?
+  url: /blog2/2009/09/30/what-is-there-to-know-about-clickers/
+previous:
+  text: What&#039;s the best route for improving your teaching (post-thesis)?
+  url: /blog2/2009/09/29/whats-the-best-route-for-improving-your-teaching-post-thesis/
+title: Teaching, academic staff development, mastery and separation
 type: post
 template: blog-post.html
 comments:

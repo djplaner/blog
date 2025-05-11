@@ -1,7 +1,19 @@
 ---
-title: Webfuse feature adoption - 1997 through 2009
+categories:
+- chapter-5
+- elearning
+- indicators
+- phd
+- thesis
+- webfuse
 date: 2010-07-01 13:19:57+10:00
-categories: ['chapter-5', 'elearning', 'indicators', 'phd', 'thesis', 'webfuse']
+next:
+  text: The VLE model and the wrong level of abstraction
+  url: /blog2/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/
+previous:
+  text: Examining feature adoption - slightly better approach
+  url: /blog2/2010/07/01/examining-feature-adoption-slightly-better-approach/
+title: Webfuse feature adoption - 1997 through 2009
 type: post
 template: blog-post.html
 ---

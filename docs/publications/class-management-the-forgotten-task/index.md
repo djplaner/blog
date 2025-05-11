@@ -1,6 +1,6 @@
 ---
-title: "Class management: The forgotten task"
 date: 2009-01-01 14:57:09+10:00
+title: '"Class management: The forgotten task"'
 type: page
 template: blog-post.html
 comments:

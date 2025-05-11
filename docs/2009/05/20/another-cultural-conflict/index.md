@@ -1,7 +1,19 @@
 ---
-title: Another cultural conflict
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-05-20 17:03:12+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Purpose - a component of the Ps Framework
+  url: /blog2/2009/05/20/purpose-a-component-of-the-ps-framework/
+previous:
+  text: Another BAM problem - awarding mark of 0
+  url: /blog2/2009/05/20/another-bam-problem-awarding-mark-of-0/
+title: Another cultural conflict
 type: post
 template: blog-post.html
 ---

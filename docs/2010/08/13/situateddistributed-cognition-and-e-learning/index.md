@@ -1,8 +1,20 @@
 ---
-title: Situated/distributed cognition and e-learning
+categories:
+- thesis
 date: 2010-08-13 10:32:19+10:00
-categories: ['thesis']
-tags: ['e-learning', 'learning', 'magazine', 'rethinking', 'solutions']
+next:
+  text: '"PhD Update #27 - New context"'
+  url: /blog2/2010/08/13/phd-update-27-new-context/
+previous:
+  text: Background to the thesis
+  url: /blog2/2010/08/12/background-to-the-thesis/
+tags:
+- e-learning
+- learning
+- magazine
+- rethinking
+- solutions
+title: Situated/distributed cognition and e-learning
 type: post
 template: blog-post.html
 ---

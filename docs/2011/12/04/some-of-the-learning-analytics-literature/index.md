@@ -1,8 +1,16 @@
 ---
-title: Some of the learning analytics literature
+categories:
+- indicators
 date: 2011-12-04 15:19:57+10:00
-categories: ['indicators']
-tags: ['analytics']
+next:
+  text: The failures of intuition in education
+  url: /blog2/2011/12/05/the-failures-of-intuition-in-education/
+previous:
+  text: Twitter, pre-service teachers and creating networks
+  url: /blog2/2011/11/21/twitter-pre-service-teachers-and-creating-networks/
+tags:
+- analytics
+title: Some of the learning analytics literature
 type: post
 template: blog-post.html
 comments:

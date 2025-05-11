@@ -32,26 +32,48 @@ BLOG_FOLDER = ""
 # Full path to where the markdown files are there
 BLOG_HOME="/Users/davidjones/blog/docs/"
 BLOG_URL="https://djon.es/blog2/"
+#BLOG_URL="https://localhost:8080/blog2/"
 
 NUM_POSTS_HOME_PAGE = 20
 
-def generateCategoryPage(categoryName, items):
+def generateCategoryPage(categoryName, items, next, previous):
     """
+    Write out a category Markdown page, including frontmatter
+
+    Parameters
+    categoryName : str name of the category
+    items : list of items in the category
+    next : dict containing the next page { text: <text>, url: <url> }
+    previous : dict containing the previous page 
     """
 
 #    pprint(items)
 
+    yamlData = {
+        'title': f"Items for {categoryName}",
+        'type': 'blog_category',
+        'template': 'blog-category.html',
+        'item_count': len(items),
+        'previous': previous,
+        'next': next
+    }
+
     #with mkdocs_gen_files.open(f"blog/category/{categoryName}.md", "w") as f:
     with mkdocs_gen_files.open(f"{BLOG_FOLDER}category/{categoryName}.md", "w") as f:
         #print(f"#### Generating category page for {categoryName} at blog/category/{categoryName}.md")
-        f.write(f"""---
-type: blog_category
-template: blog-category.html
-title: Items for {categoryName}
-item_count: {len(items)}
----
 
-""")
+        f.write("---\n")
+        yaml.dump(yamlData, f )
+        f.write("---\n")
+        
+#        f.write(f"""---
+#type: blog_category
+#template: blog-category.html
+#title: Items for {categoryName}
+#item_count: {len(items)}
+#---
+#
+#""")
 
         #-- sort items from most recent to oldest by date
 #        items = sorted(items, key=lambda x: x['yaml']['date'], reverse=True)
@@ -79,8 +101,29 @@ def generateCategories(blogItems):
                     categoryNames[category] = []
                 categoryNames[category].append(item)
 
-    for name in categoryNames.keys():
-        generateCategoryPage(name, categoryNames[name]) 
+    print(f"================ Generating {len(categoryNames)} category pages")
+    categories = sorted(categoryNames.keys())
+    count = 0
+    numCategories = len(categories)
+
+    #for name in categoryNames.keys():
+    for name in categories:
+        #http://127.0.0.1:8000/blog2/category/casa.html
+        previous = { 'text': 'Home', 'url': '/blog2/index.html' }
+        next = { 'text': 'Home', 'url': '/blog2/index.html' }
+        if count > 0:
+            next = { 
+                    'text': categories[count-1],
+                    'url': f"/blog2/category/{categories[count-1]}.html"
+                       }
+        if count < numCategories - 1:
+#            pprint(orderedPosts[count+1])
+            previous = { 
+                    'text': categories[count+1],
+                    'url': f"/blog2/category/{categories[count+1]}.html"
+                   }
+        count += 1
+        generateCategoryPage(name, categoryNames[name], next, previous) 
 
 def retrieveBlogItems(blogFolder=BLOG_FOLDER):
     """
@@ -267,12 +310,12 @@ def generateArchives(archives):
         previous = { 'text': 'Home', 'url': '/blog2/index.html' }
         next = { 'text': 'Home', 'url': '/blog2/index.html' }
         if count > 0:
-            previous = { 
+            next = { 
                         'text': f'{archives[count-1]["month"]} {archives[count-1]["year"]}', 
                         'url': f"/blog2/archives/{archives[count-1]['month']}-{archives[count-1]['year']}.html" 
                        }
         if count < numItems - 1:
-            next = { 
+            previous = { 
                     'text': f'{archives[count+1]["month"]} {archives[count+1]["year"]}',
                     'url': f"/blog2/archives/{archives[count+1]['month']}-{archives[count+1]['year']}.html" 
                    }
@@ -371,9 +414,9 @@ def generateItemContent(item, homePage=False):
     coverImage= ""
     if 'coverImage' in item['yaml']:
         coverImage = f"""
-    <figure class="md-cover-image" style="margin: 0px; background-image: url('{relPath}{path}/images/{ item['yaml']['coverImage'] }');">
+    <div class="cover-image">
         <img src="{relPath}{path}images/{ item['yaml']['coverImage'] }" alt="{ item['yaml']['title'] }" width="100%" height="auto">
-    </figure>
+    </div>
 """
 
     categories = ""
@@ -386,9 +429,9 @@ def generateItemContent(item, homePage=False):
 
     itemContent = f"""
 <div class="blog-item">
+    {coverImage}
   <div class="blog-item-title"><a href="{relPath}{path}">{item['yaml']['title']}</a></div>
   <div class="blog-item-date">📅 {date} {categories}</div>
-    {coverImage}
   <div class="blog-item-content-preview">
     {content}
   </div>
@@ -432,13 +475,37 @@ def generateHome(posts):
 
 """)
 
-        for item in posts[:10]: 
+        for item in posts[:NUM_POSTS_HOME_PAGE]: 
             itemContent = generateItemContent(item, True)
             f.write(itemContent)
 
     mkdocs_gen_files.set_edit_path( f"{BLOG_FOLDER}index.md", "blog.py")
 
 
+def writeBlogStats(blogItems):
+    """
+    Write out the blog stats to a file in the docs folder
+    """
+
+    STATS_FILE = f"{BLOG_HOME}stats.yaml"
+
+    #-- get the number of posts
+    numPosts = len(list(filter(lambda x: x['yaml']['type'] == 'post', blogItems)))
+    numPages = len(list(filter(lambda x: x['yaml']['type'] == 'page', blogItems)))
+
+    #-- get the first and last post dates
+    firstPost = blogItems[-1]['yaml']['date']
+    lastPost = blogItems[0]['yaml']['date']
+
+    stats = {
+        'numPosts': numPosts,
+        'numPages': numPages,
+        'firstPost': str(firstPost),
+        'lastPost': str(lastPost)
+    }
+
+    with open(STATS_FILE, 'w') as stream:
+        yaml.dump(stats, stream)
     
 
 def generator():
@@ -461,6 +528,7 @@ def generator():
     # Generate home page
     generateHome(blogItems)
 
+    writeBlogStats(blogItems)
 
 
 generator()

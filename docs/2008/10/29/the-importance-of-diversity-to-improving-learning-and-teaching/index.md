@@ -1,7 +1,18 @@
 ---
-title: The importance of diversity to improving learning and teaching
+categories:
+- elearning
+- ple
+- plescquni
+- react
+- react2008
 date: 2008-10-29 11:27:17+10:00
-categories: ['elearning', 'ple', 'plescquni', 'react', 'react2008']
+next:
+  text: How do we transform institutions? Learning 2.0 and PLEs@CQUni
+  url: /blog2/2008/10/30/how-do-we-transform-institutions-learning-20-and-plescquni/
+previous:
+  text: The gulf between users and IT departments
+  url: /blog2/2008/10/26/the-gulf-between-users-and-it-departments/
+title: The importance of diversity to improving learning and teaching
 type: post
 template: blog-post.html
 comments:

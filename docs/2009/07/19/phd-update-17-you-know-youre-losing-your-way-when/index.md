@@ -1,7 +1,16 @@
 ---
-title: "PhD update #17 - You know you're losing your way when...."
+categories:
+- design-theory
+- phd
+- thesis
 date: 2009-07-19 14:32:50+10:00
-categories: ['design-theory', 'phd', 'thesis']
+next:
+  text: '"BAM into Moodle - Step #2: configuration and questions"'
+  url: /blog2/2009/07/21/bam-into-moodle-step-2-configuration-and-questions/
+previous:
+  text: Leaders and managers - the next bit of People
+  url: /blog2/2009/07/17/leaders-and-managers-the-next-bit-of-people/
+title: '"PhD update #17 - You know you''re losing your way when...."'
 type: post
 template: blog-post.html
 comments:

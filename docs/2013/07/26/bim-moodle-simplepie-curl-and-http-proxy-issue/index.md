@@ -1,7 +1,14 @@
 ---
-title: BIM, Moodle, Simplepie, curl and HTTP proxy issue
+categories:
+- bim2
 date: 2013-07-26 10:44:02+10:00
-categories: ['bim2']
+next:
+  text: Learning analytics - What is the "end in mind"?
+  url: /blog2/2013/08/02/learning-analytics-what-is-the-end-in-mind/
+previous:
+  text: How are they feeling - Semester 2 - Part 1
+  url: /blog2/2013/07/18/how-are-they-feeling-semester-2-part-1/
+title: BIM, Moodle, Simplepie, curl and HTTP proxy issue
 type: post
 template: blog-post.html
 comments:

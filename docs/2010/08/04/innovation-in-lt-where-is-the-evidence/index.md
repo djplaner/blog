@@ -1,8 +1,20 @@
 ---
-title: "Innovation in L&#038;T - where is the evidence"
+categories:
+- thesis
 date: 2010-08-04 08:00:51+10:00
-categories: ['thesis']
-tags: ['educause', 'evidence', 'impact', 'seeking', 'seeking-evidence']
+next:
+  text: Usage of Wf applications
+  url: /blog2/2010/08/04/usage-of-wf-applications/
+previous:
+  text: Can you cancerize your research - task corruption at work
+  url: /blog2/2010/08/03/can-you-cancerize-your-research-task-corruption-at-work/
+tags:
+- educause
+- evidence
+- impact
+- seeking
+- seeking-evidence
+title: '"Innovation in L&#038;T - where is the evidence"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,14 @@
 ---
-title: Further issues with BamRegistration
+categories:
+- bam
 date: 2006-07-31 08:41:51+10:00
-categories: ['bam']
+next:
+  text: Information literacy skills causing problems with BAM
+  url: /blog2/2006/07/31/information-literacy-skills-causing-problems-with-bam/
+previous:
+  text: Limitations of incoming students and Gantt charts
+  url: /blog2/2006/07/25/limitations-of-incoming-students-and-gantt-charts/
+title: Further issues with BamRegistration
 type: post
 template: blog-post.html
 ---

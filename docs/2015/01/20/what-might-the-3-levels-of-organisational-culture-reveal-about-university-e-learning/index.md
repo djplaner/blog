@@ -1,7 +1,14 @@
 ---
-title: What might the 3 levels of organisational culture reveal about university e-learning
+categories:
+- bad
 date: 2015-01-20 10:53:58+10:00
-categories: ['bad']
+next:
+  text: Learning to live with a standard look and feel
+  url: /blog2/2015/01/21/learning-to-live-with-a-standard-look-and-feel/
+previous:
+  text: Learning about case study methodology to research higher education
+  url: /blog2/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/
+title: What might the 3 levels of organisational culture reveal about university e-learning
 type: post
 template: blog-post.html
 comments:
@@ -105,7 +112,7 @@ The support video for the assessment tab also proposes that the assessment tab "
 Obviously I do not know what assumptions these beliefs are based upon, but the following perhaps are not a million miles away
 
 - Consistency is generally a good thing for learning. Given the institutional strategic plan putting some significant weight to personalisation, creativity and innovation, having everything the same doesn't seem appropriate. Insights from research around learning, teaching, and educational technology would seem to support that. e.g. some of the points from Chris Dede (Harvard Professor of Education) mentioned in [this post](/blog2/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/).
-- A consistent look and feel will make information more findable. Wikipedia suggests](http://en.wikipedia.org/wiki/Findability) that findability involves a bit more than just user interface design. Especially when the user interface design is only really helping users locate very specific bits of information. i.e. The new look and feel does make it easy for students to find the forums, assessment, study schedule, and teaching team for a course. Good. But what about the content included in the resources? More on this below in ["What about the resources".In short, if findability is a concern, install a search engine!
+- A consistent look and feel will make information more findable. [Wikipedia suggests](http://en.wikipedia.org/wiki/Findability) that findability involves a bit more than just user interface design. Especially when the user interface design is only really helping users locate very specific bits of information. i.e. The new look and feel does make it easy for students to find the forums, assessment, study schedule, and teaching team for a course. Good. But what about the content included in the resources? More on this below in "What about the resources".In short, if findability is a concern, install a search engine!
 - That it's possible to have a consistent look and feel across the diversity of courses in an institution. The new look and feel does have some features that allow for flexibility. Even though this does raise questions about the consistency espoused belief. If no information is entered for assessment or study schedule the students won't see those options in the menu. In addition, the study schedule page provides some flexibility in terms of how many columns form the study schedule and the column titles. Allowing individual courses to substitute in the language they use. However, there's a limit to how far this goes. More on this below in "Grouping the weeks".
 
 An assumption that appears to underpin this new look and feel is that the focus is student centered. The aim is to enhance the student experience. Now that's a good aim, perhaps the best aim. But the follow on assumption in this case is that teaching staff aren't capable of using the online environment to enhance the student experience and that the institution needs to do something.

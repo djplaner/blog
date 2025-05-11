@@ -1,7 +1,21 @@
 ---
-title: "How to improve L&#038;T and e-learning at universities"
+categories:
+- cognitiveedge
+- design-theory
+- elearning
+- indicators
+- innovation
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-03-09 23:00:44+10:00
-categories: ['cognitiveedge', 'design-theory', 'elearning', 'indicators', 'innovation', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: Getting feeds out of BAM - the first steps
+  url: /blog2/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
+previous:
+  text: The biggest flaw in university L&#038;T/e-learning?
+  url: /blog2/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/
+title: '"How to improve L&#038;T and e-learning at universities"'
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: How to lead your life and fulfill your childhood dreams
+categories:
+- design-theory
 date: 2008-07-29 09:39:42+10:00
-categories: ['design-theory']
+next:
+  text: The dimensions of design research
+  url: /blog2/2008/08/06/the-dimensions-of-design-research/
+previous:
+  text: The Ps Framework - using it to think about PLE implementation at CQU
+  url: /blog2/2008/07/26/the-ps-framework-using-it-to-think-about-ple-implementation-at-cqu/
+title: How to lead your life and fulfill your childhood dreams
 type: post
 template: blog-post.html
 ---

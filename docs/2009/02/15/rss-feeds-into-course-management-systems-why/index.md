@@ -1,7 +1,16 @@
 ---
-title: RSS feeds into course management systems - why?
+categories:
+- elearning
+- plescquni
+- web-20-course-sites
 date: 2009-02-15 21:36:32+10:00
-categories: ['elearning', 'plescquni', 'web-20-course-sites']
+next:
+  text: New ways of thinking - quote
+  url: /blog2/2009/02/15/new-ways-of-thinking-quote/
+previous:
+  text: 'Getting half-baked ideas out there: improving research and the academy'
+  url: /blog2/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
+title: RSS feeds into course management systems - why?
 type: post
 template: blog-post.html
 ---

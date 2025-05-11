@@ -1,6 +1,12 @@
 ---
-title: LTERC, finally a research centre - shamless plug
 date: 2009-10-07 10:06:49+10:00
+next:
+  text: '"Call for participation: Getting the real stories of LMS evaluations?"'
+  url: /blog2/2009/10/07/call-for-participation-getting-the-real-stories-of-lms-evaluations/
+previous:
+  text: Initial CRC investigations
+  url: /blog2/2009/10/07/initial-crc-investigations/
+title: LTERC, finally a research centre - shamless plug
 type: post
 template: blog-post.html
 comments:

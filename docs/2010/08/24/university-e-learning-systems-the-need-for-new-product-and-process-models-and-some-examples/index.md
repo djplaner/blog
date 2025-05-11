@@ -1,7 +1,22 @@
 ---
-title: "University e-learning systems: the need for new product and process models and some examples"
+categories:
+- chapter-5
+- design-theory
+- elearning
+- highereducation
+- phd
+- psframework
+- thesis
+- webfuse
 date: 2010-08-24 15:09:22+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'highereducation', 'phd', 'psframework', 'thesis', 'webfuse']
+next:
+  text: The end of management - lessons for universities?
+  url: /blog2/2010/08/24/the-end-of-management-lessons-for-universities/
+previous:
+  text: Oil sheiks, Lucifer and university learning and teaching
+  url: /blog2/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/
+title: '"University e-learning systems: the need for new product and process models
+  and some examples"'
 type: post
 template: blog-post.html
 ---

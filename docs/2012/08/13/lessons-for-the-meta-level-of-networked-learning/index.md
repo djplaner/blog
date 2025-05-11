@@ -1,7 +1,17 @@
 ---
-title: Lessons for the meta-level of networked learning?
+categories:
+- design-theory
+- edu8117
+- elearning
+- highereducation
 date: 2012-08-13 09:04:08+10:00
-categories: ['design-theory', 'edu8117', 'elearning', 'highereducation']
+next:
+  text: On a tension with teaching designs heavy on constructive alignment
+  url: /blog2/2012/08/14/on-a-tension-with-teaching-designs-heavy-on-constructive-alignment/
+previous:
+  text: Using the NetSpot Innovation fund to enhance bim
+  url: /blog2/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
+title: Lessons for the meta-level of networked learning?
 type: post
 template: blog-post.html
 comments:

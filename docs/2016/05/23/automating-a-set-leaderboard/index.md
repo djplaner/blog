@@ -1,7 +1,15 @@
 ---
-title: Automating a SET leaderboard
+categories:
+- bad
+- casa
 date: 2016-05-23 12:29:55+10:00
-categories: ['bad', 'casa']
+next:
+  text: Early thoughts on S1, 2016 offering of EDC3100
+  url: /blog2/2016/05/30/early-thoughts-on-s1-2016-offering-of-edc3100/
+previous:
+  text: Building a CASA for student evaluation of teaching results
+  url: /blog2/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
+title: Automating a SET leaderboard
 type: post
 template: blog-post.html
 ---

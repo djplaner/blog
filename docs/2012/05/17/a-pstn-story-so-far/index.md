@@ -1,7 +1,15 @@
 ---
-title: "A #pstn story, so far"
+categories:
+- elearning
+- pstn
 date: 2012-05-17 10:51:37+10:00
-categories: ['elearning', 'pstn']
+next:
+  text: Harnessing learning analytics to inform/improve learning and teaching
+  url: /blog2/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+previous:
+  text: Can learning analytics make a Golf GTI
+  url: /blog2/2012/05/15/can-learning-analytics-make-a-golf-gti/
+title: '"A #pstn story, so far"'
 type: post
 template: blog-post.html
 comments:

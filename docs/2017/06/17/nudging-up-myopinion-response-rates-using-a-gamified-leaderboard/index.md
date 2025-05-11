@@ -1,7 +1,16 @@
 ---
-title: Nudging up MyOpinion response rates using a gamified leaderboard
+categories:
+- bad
+- bricolage
+- casa
 date: 2017-06-17 13:55:04+10:00
-categories: ['bad', 'bricolage', 'casa']
+next:
+  text: Learning analytics, quality indicators and meso-level practitioners
+  url: /blog2/2017/07/07/learning-analytics-quality-indicators-and-meso-level-practitioners/
+previous:
+  text: Emedding plotly graphs in Wordpress posts
+  url: /blog2/2017/06/17/emedding-plotly-graphs-in-wordpress-posts/
+title: Nudging up MyOpinion response rates using a gamified leaderboard
 type: post
 template: blog-post.html
 ---

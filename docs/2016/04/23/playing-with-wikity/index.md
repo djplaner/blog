@@ -1,7 +1,14 @@
 ---
-title: Playing with Wikity
+categories:
+- bad
 date: 2016-04-23 16:28:48+10:00
-categories: ['bad']
+next:
+  text: The need for technopedagogues and will it ever go away?
+  url: /blog2/2016/04/25/the-need-for-technopedagogues-and-will-it-ever-go-away/
+previous:
+  text: Designing a collection of analytics to explore &quot;engagement&quot;
+  url: /blog2/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/
+title: Playing with Wikity
 type: post
 template: blog-post.html
 comments:
@@ -94,7 +101,7 @@ comments:
       type: comment
       user_id: '0'
     - approved: '1'
-      author: admin
+      author: David Jones
       author_email: davidthomjones@gmail.com
       author_ip: 139.86.69.45
       author_url: null
@@ -132,7 +139,7 @@ comments:
       type: comment
       user_id: '0'
     - approved: '1'
-      author: admin
+      author: David Jones
       author_email: davidthomjones@gmail.com
       author_ip: 124.183.113.131
       author_url: null

@@ -1,7 +1,14 @@
 ---
-title: "BAM into Moodle #7 - an eStudyGuide block"
+categories:
+- bam
 date: 2009-07-28 15:48:14+10:00
-categories: ['bam']
+next:
+  text: The design and implementation of Webfuse - Part 1
+  url: /blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/
+previous:
+  text: 'BAM into Moodle #6 - Planning and some real coding'
+  url: /blog2/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/
+title: '"BAM into Moodle #7 - an eStudyGuide block"'
 type: post
 template: blog-post.html
 comments:

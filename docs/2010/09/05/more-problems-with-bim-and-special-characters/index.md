@@ -1,7 +1,15 @@
 ---
-title: More problems with BIM and special characters
+categories:
+- bim
+- bimerrors
 date: 2010-09-05 18:04:00+10:00
-categories: ['bim', 'bimerrors']
+next:
+  text: Back into the thesis
+  url: /blog2/2010/09/13/back-into-the-thesis/
+previous:
+  text: Light-weight analytics tools as part of scaffolding, context-sensitive conglomerations
+  url: /blog2/2010/09/04/light-weight-analytics-tools-as-part-of-scaffolding-context-sensitive-conglomerations/
+title: More problems with BIM and special characters
 type: post
 template: blog-post.html
 ---

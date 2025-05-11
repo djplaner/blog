@@ -1,7 +1,15 @@
 ---
-title: Alternative audience response systems - web, twitter and mobile phone
+categories:
+- ilecture
+- votapedia
 date: 2009-10-01 16:06:01+10:00
-categories: ['ilecture', 'votapedia']
+next:
+  text: Herding cats and behaviour change
+  url: /blog2/2009/10/02/herding-cats-and-behaviour-change/
+previous:
+  text: What is there to know about clickers?
+  url: /blog2/2009/09/30/what-is-there-to-know-about-clickers/
+title: Alternative audience response systems - web, twitter and mobile phone
 type: post
 template: blog-post.html
 ---

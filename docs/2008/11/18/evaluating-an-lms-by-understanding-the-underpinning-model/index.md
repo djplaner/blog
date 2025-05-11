@@ -1,8 +1,19 @@
 ---
-title: Evaluating an LMS by understanding the underpinning \"model\"
+categories:
+- chapter-2
+- elearning
+- lmsevaluation
+- lmsreview
 date: 2008-11-18 10:32:26+10:00
-categories: ['chapter-2', 'elearning', 'lmsevaluation', 'lmsreview']
-tags: ['lms']
+next:
+  text: The model underpinning blackboard and how ACCT19064 uses it
+  url: /blog2/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/
+previous:
+  text: 'PLEs@CQUni: Origins, rationale and outcomes so far'
+  url: /blog2/2008/11/17/plescquni-origins-rationale-and-outcomes-so-far-2/
+tags:
+- lms
+title: Evaluating an LMS by understanding the underpinning "model"
 type: post
 template: blog-post.html
 comments:

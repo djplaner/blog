@@ -1,7 +1,15 @@
 ---
-title: Some simple analysis of student submissions
+categories:
+- bad
+- edc3100
 date: 2016-03-30 11:16:45+10:00
-categories: ['bad', 'edc3100']
+next:
+  text: '"Competence with digital technology: Teacher or environment?"'
+  url: /blog2/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
+previous:
+  text: Setting up the analysis of student submissions
+  url: /blog2/2016/03/29/setting-up-the-analysis-of-student-submissions/
+title: Some simple analysis of student submissions
 type: post
 template: blog-post.html
 ---

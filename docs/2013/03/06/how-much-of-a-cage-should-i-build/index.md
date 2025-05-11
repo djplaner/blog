@@ -1,7 +1,15 @@
 ---
-title: How much of a cage should I build?
+categories:
+- edc3100
+- teaching
 date: 2013-03-06 11:35:20+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: The absence of a search function - my current big problem with a Moodle installation
+  url: /blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/
+previous:
+  text: How are they going?
+  url: /blog2/2013/03/04/how-are-they-going/
+title: How much of a cage should I build?
 type: post
 template: blog-post.html
 comments:

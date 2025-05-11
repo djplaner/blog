@@ -1,7 +1,14 @@
 ---
-title: BIM - Creating the test data, completing dbase design
+categories:
+- bim
 date: 2009-12-22 11:29:59+10:00
-categories: ['bim']
+next:
+  text: BIM - cron and view student details screen
+  url: /blog2/2009/12/22/bim-cron-and-view-student-details-screen/
+previous:
+  text: Supporting curriculum mapping?
+  url: /blog2/2009/12/21/supporting-curriculum-mapping/
+title: BIM - Creating the test data, completing dbase design
 type: post
 template: blog-post.html
 comments:

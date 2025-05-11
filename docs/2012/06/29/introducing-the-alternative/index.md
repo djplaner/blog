@@ -1,7 +1,18 @@
 ---
-title: Introducing the alternative
+categories:
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2012-06-29 12:03:15+10:00
-categories: ['design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: People and e-learning - limitations and an alternative
+  url: /blog2/2012/06/29/people-and-e-learning-limitations-and-an-alternative/
+previous:
+  text: The e-learning process - limitations and an alternative
+  url: /blog2/2012/06/28/the-e-learning-process-limitations-and-an-alternative/
+title: Introducing the alternative
 type: post
 template: blog-post.html
 ---

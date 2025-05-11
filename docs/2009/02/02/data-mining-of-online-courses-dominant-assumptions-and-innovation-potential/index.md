@@ -1,7 +1,15 @@
 ---
-title: Data mining of online courses - dominant assumptions and innovation potential
+categories:
+- addie
+- elearning
 date: 2009-02-02 15:22:10+10:00
-categories: ['addie', 'elearning']
+next:
+  text: More detail on the money burner
+  url: /blog2/2009/02/03/more-detail-on-the-money-burner/
+previous:
+  text: What is a PLE? More than a suite of tools? More than social media?
+  url: /blog2/2009/02/02/what-is-a-ple-more-than-a-suite-of-tools-more-than-social-media/
+title: Data mining of online courses - dominant assumptions and innovation potential
 type: post
 template: blog-post.html
 comments:

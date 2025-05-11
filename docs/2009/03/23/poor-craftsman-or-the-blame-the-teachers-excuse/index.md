@@ -1,7 +1,20 @@
 ---
-title: Poor craftsman - or the \"blame the teachers\" excuse
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-03-23 17:07:33+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: '"Blame the teacher" isn''t new to technology-mediated learning'
+  url: /blog2/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/
+previous:
+  text: Making the LMS/VLE &quot;mythic&quot;
+  url: /blog2/2009/03/23/making-the-lmsvle-mythic/
+title: Poor craftsman - or the "blame the teachers" excuse
 type: post
 template: blog-post.html
 comments:

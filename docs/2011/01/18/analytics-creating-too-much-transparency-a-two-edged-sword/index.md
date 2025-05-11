@@ -1,8 +1,17 @@
 ---
-title: Analytics creating too much transparency? A two-edged sword?
+categories:
+- indicators
+- lak11
 date: 2011-01-18 10:16:27+10:00
-categories: ['indicators', 'lak11']
-tags: ['lak11']
+next:
+  text: The difference between utopian and dystopian visions
+  url: /blog2/2011/01/19/the-difference-between-utopian-and-dystopian-visions/
+previous:
+  text: Creating a podcast for LAK11 presentations
+  url: /blog2/2011/01/15/creating-a-podcast-for-lak11-presentations/
+tags:
+- lak11
+title: Analytics creating too much transparency? A two-edged sword?
 type: post
 template: blog-post.html
 comments:

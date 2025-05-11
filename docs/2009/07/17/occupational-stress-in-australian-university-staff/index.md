@@ -1,7 +1,19 @@
 ---
-title: Occupational stress in Australian University Staff
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-07-17 14:03:09+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: Leaders and managers - the next bit of People
+  url: /blog2/2009/07/17/leaders-and-managers-the-next-bit-of-people/
+previous:
+  text: When senior management lose the plot
+  url: /blog2/2009/07/17/when-senior-management-lose-the-plot/
+title: Occupational stress in Australian University Staff
 type: post
 template: blog-post.html
 ---

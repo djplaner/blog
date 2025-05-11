@@ -1,6 +1,6 @@
 ---
-title: Creating a SET leaderboard
 date: 2016-05-26 09:47:34+10:00
+title: Creating a SET leaderboard
 type: page
 template: blog-post.html
 ---

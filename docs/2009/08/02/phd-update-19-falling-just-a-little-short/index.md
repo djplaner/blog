@@ -1,7 +1,18 @@
 ---
-title: "PhD Update #19 - Falling just a little short"
+categories:
+- chapter-4
+- design-theory
+- phd
+- psframework
+- thesis
 date: 2009-08-02 13:44:37+10:00
-categories: ['chapter-4', 'design-theory', 'phd', 'psframework', 'thesis']
+next:
+  text: How will universities change over ten years?
+  url: /blog2/2009/08/04/how-will-universities-change-over-ten-years/
+previous:
+  text: 'Evaluation of Webfuse course site feature usage: 2006 through 2009'
+  url: /blog2/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
+title: '"PhD Update #19 - Falling just a little short"'
 type: post
 template: blog-post.html
 comments:

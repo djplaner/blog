@@ -1,7 +1,17 @@
 ---
-title: How to make curriculum mapping useful to university academics
+categories:
+- curriculumdesign
+- curriculummapping-cddu
+- elearning
+- moodle
 date: 2010-02-17 11:19:54+10:00
-categories: ['curriculumdesign', 'curriculummapping-cddu', 'elearning', 'moodle']
+next:
+  text: The current state of curriculum mapping in/with Moodle
+  url: /blog2/2010/02/20/the-current-state-of-curriculum-mapping-inwith-moodle/
+previous:
+  text: BIM 1.0alpha is released
+  url: /blog2/2010/02/15/bim-1-0alpha-is-released/
+title: How to make curriculum mapping useful to university academics
 type: post
 template: blog-post.html
 comments:

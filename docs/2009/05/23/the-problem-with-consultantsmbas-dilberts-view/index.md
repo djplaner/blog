@@ -1,7 +1,14 @@
 ---
-title: The problem with consultants/MBAs - Dilbert's view
+categories:
+- elearning
 date: 2009-05-23 07:34:26+10:00
-categories: ['elearning']
+next:
+  text: Continuing to bash the consultant model
+  url: /blog2/2009/05/24/continuing-to-bash-the-consultant-model/
+previous:
+  text: 'Phd Update #12 - some progress, but late'
+  url: /blog2/2009/05/23/phd-update-12-some-progress-but-late/
+title: The problem with consultants/MBAs - Dilbert's view
 type: post
 template: blog-post.html
 comments:

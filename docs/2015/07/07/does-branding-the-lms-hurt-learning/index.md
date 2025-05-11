@@ -1,8 +1,18 @@
 ---
-title: Does branding the LMS hurt learning
+categories:
+- thesis
 date: 2015-07-07 10:27:26+10:00
-categories: ['thesis']
-tags: ['edc3100', 'elearning', 'moodle']
+next:
+  text: '"Female/male participation rates in IT: an example of what''s easy to log??"'
+  url: /blog2/2015/07/09/femalemale-participation-rates-in-it-an-example-of-whats-easy-to-log/
+previous:
+  text: 'Re-using a #moodle course design'
+  url: /blog2/2015/07/04/re-using-a-moodle-course-design/
+tags:
+- edc3100
+- elearning
+- moodle
+title: Does branding the LMS hurt learning
 type: post
 template: blog-post.html
 comments:

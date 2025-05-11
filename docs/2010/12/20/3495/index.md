@@ -1,7 +1,14 @@
 ---
-title: A Theory-Driven Design Framework for Social Recommender Systems
+categories:
+- thesis
 date: 2010-12-20 17:22:33+10:00
-categories: ['thesis']
+next:
+  text: Adding a bim2 activity - development progress
+  url: /blog2/2010/12/20/adding-a-bim2-activity-development-progress/
+previous:
+  text: Problems with naming of bim2
+  url: /blog2/2010/12/19/problems-with-naming-of-bim2/
+title: A Theory-Driven Design Framework for Social Recommender Systems
 type: post
 template: blog-post.html
 comments:

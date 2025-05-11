@@ -1,7 +1,15 @@
 ---
-title: Learning styles, teaching and digital pedagogy
+categories:
+- eded20491
+- teaching
 date: 2011-02-25 15:29:23+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: Prensky, immigrants and old problems in new bottles
+  url: /blog2/2011/02/27/prensky-immigrants-and-old-problems-in-new-bottles/
+previous:
+  text: How many pages of a course profile are necessary?
+  url: /blog2/2011/02/20/how-many-pages-of-a-course-profile-are-necessary/
+title: Learning styles, teaching and digital pedagogy
 type: post
 template: blog-post.html
 comments:

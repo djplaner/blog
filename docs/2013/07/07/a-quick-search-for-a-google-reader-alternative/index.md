@@ -1,7 +1,15 @@
 ---
-title: A quick search for a Google reader alternative
+categories:
+- bim2
+- edc3100
 date: 2013-07-07 12:32:50+10:00
-categories: ['bim2', 'edc3100']
+next:
+  text: IRAC - Four questions for learning analytics interventions
+  url: /blog2/2013/07/14/irac-four-questions-for-learning-analytics-interventions/
+previous:
+  text: When is learning analytics not about the students?
+  url: /blog2/2013/07/02/when-is-learning-analytics-not-about-the-students/
+title: A quick search for a Google reader alternative
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: An ad hoc exploration ethnographic research
+categories:
+- elearning
+- narrative
+- research
 date: 2013-04-07 23:41:08+10:00
-categories: ['elearning', 'narrative', 'research']
+next:
+  text: More evidence of the limits of student technical knowledge
+  url: /blog2/2013/04/08/more-evidence-of-the-limits-of-student-technical-knowledge/
+previous:
+  text: Adding bim 2.0 to &quot;CONTRIB&quot;
+  url: /blog2/2013/04/05/adding-bim-2-0-to-contrib/
+title: An ad hoc exploration ethnographic research
 type: post
 template: blog-post.html
 comments:

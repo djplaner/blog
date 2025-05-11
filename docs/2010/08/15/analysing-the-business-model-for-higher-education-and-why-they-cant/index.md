@@ -1,8 +1,21 @@
 ---
-title: Analysing the business model for higher education and why they can't
+categories:
+- thesis
 date: 2010-08-15 13:35:06+10:00
-categories: ['thesis']
-tags: ['andrew-keen', 'business', 'highereducation', 'jeff-jarvis', 'which-part', 'your-business-model']
+next:
+  text: How people learn and implications for academic development
+  url: /blog2/2010/08/19/how-people-learn-and-implications-for-academic-development/
+previous:
+  text: 'PhD Update #27 - New context'
+  url: /blog2/2010/08/13/phd-update-27-new-context/
+tags:
+- andrew-keen
+- business
+- highereducation
+- jeff-jarvis
+- which-part
+- your-business-model
+title: Analysing the business model for higher education and why they can't
 type: post
 template: blog-post.html
 comments:

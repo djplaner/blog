@@ -1,7 +1,15 @@
 ---
-title: Everything old is new again
+categories:
+- elearning
 date: 2013-05-04 16:08:42+10:00
-categories: ['elearning']
+next:
+  text: How can an "enterprise" e-learning tool be agile?
+  url: /blog2/2013/05/10/how-can-an-enterprise-e-learning-tool-be-agile/
+previous:
+  text: How to capture the &quot;full benefits of the creative, original and imaginative
+    efforts of&quot; teaching staff
+  url: /blog2/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/
+title: Everything old is new again
 type: post
 template: blog-post.html
 comments:

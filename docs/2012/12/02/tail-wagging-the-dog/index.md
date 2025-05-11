@@ -1,8 +1,18 @@
 ---
-title: "#ascilite2012 technical support and the tail wagging the dog"
+categories:
+- elearning
+- thesis
 date: 2012-12-02 10:27:47+10:00
-categories: ['elearning', 'thesis']
-tags: ['flareaus']
+next:
+  text: Tertiary course design is very poor, and we solve it by "blame the teacher"
+  url: /blog2/2012/12/05/tertiary-course-design-is-very-poor-and-we-solve-it-by-blame-the-teacher/
+previous:
+  text: 'Enabling academics to apply learning analytics to individual pedagogical
+    practice: how and with what impacts?'
+  url: /blog2/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
+tags:
+- flareaus
+title: '"#ascilite2012 technical support and the tail wagging the dog"'
 type: post
 template: blog-post.html
 comments:

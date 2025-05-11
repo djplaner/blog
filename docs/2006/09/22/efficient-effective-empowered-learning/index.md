@@ -1,7 +1,15 @@
 ---
-title: Efficient, effective, empowered learning
+categories:
+- elearning
+- web-20-course-sites
 date: 2006-09-22 08:57:29+10:00
-categories: ['elearning', 'web-20-course-sites']
+next:
+  text: Web 2.0 tools
+  url: /blog2/2006/09/25/web-20-tools/
+previous:
+  text: Conversation, not content, is king
+  url: /blog2/2006/09/22/conversation-not-content-is-king/
+title: Efficient, effective, empowered learning
 type: post
 template: blog-post.html
 ---

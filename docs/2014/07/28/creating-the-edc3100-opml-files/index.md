@@ -1,7 +1,14 @@
 ---
-title: Creating the EDC3100 OPML files
+categories:
+- edc3100
 date: 2014-07-28 16:59:49+10:00
-categories: ['edc3100']
+next:
+  text: Some readings on networked learning
+  url: /blog2/2014/07/29/some-readings-on-networked-learning/
+previous:
+  text: Give them a fish, or teach them to fish?
+  url: /blog2/2014/07/27/give-them-a-fish-or-teach-them-to-fish/
+title: Creating the EDC3100 OPML files
 type: post
 template: blog-post.html
 ---

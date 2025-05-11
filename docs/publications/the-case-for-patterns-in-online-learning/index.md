@@ -1,6 +1,6 @@
 ---
-title: The case for patterns in online learning
 date: 2008-12-31 22:55:47+10:00
+title: The case for patterns in online learning
 type: page
 template: blog-post.html
 comments:

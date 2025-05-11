@@ -1,8 +1,19 @@
 ---
-title: ePortfolios in universities - forget it?
+categories:
+- bam
+- elearning
+- psframework
 date: 2009-07-26 09:26:53+10:00
-categories: ['bam', 'elearning', 'psframework']
-tags: ['eportfolio', 'vle-lms']
+next:
+  text: Build it and they will come - starting with the institution
+  url: /blog2/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/
+previous:
+  text: Wicked problems, requirements gathering and the LMS approach to e-learning
+  url: /blog2/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/
+tags:
+- eportfolio
+- vle-lms
+title: ePortfolios in universities - forget it?
 type: post
 template: blog-post.html
 comments:

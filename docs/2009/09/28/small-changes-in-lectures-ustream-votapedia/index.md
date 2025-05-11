@@ -1,7 +1,14 @@
 ---
-title: Small changes in \"Lectures\" - ustream, votapedia
+categories:
+- ilecture
 date: 2009-09-28 15:48:28+10:00
-categories: ['ilecture']
+next:
+  text: '"e&#038;i report #4 - 15th to 29th September, 2009"'
+  url: /blog2/2009/09/29/ei-report-4-15th-to-29th-september-2009/
+previous:
+  text: Reflection and moving on - herding cats and losing weight
+  url: /blog2/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/
+title: Small changes in "Lectures" - ustream, votapedia
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: "Interfaces for learning data visualisations - #ascilite."
+categories:
+- ascilite
 date: 2013-12-01 11:00:36+10:00
-categories: ['ascilite']
+next:
+  text: '"Sensemaking  - #ascilite"'
+  url: /blog2/2013/12/01/sensemaking-ascilite/
+previous:
+  text: 'Learning analytics is about learning - #ascilite'
+  url: /blog2/2013/12/01/learning-analytics-is-about-learning-ascilite/
+title: '"Interfaces for learning data visualisations - #ascilite."'
 type: post
 template: blog-post.html
 ---

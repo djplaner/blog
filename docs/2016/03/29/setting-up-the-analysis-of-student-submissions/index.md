@@ -1,7 +1,15 @@
 ---
-title: Setting up the analysis of student submissions
+categories:
+- bad
+- edc3100
 date: 2016-03-29 14:32:58+10:00
-categories: ['bad', 'edc3100']
+next:
+  text: Some simple analysis of student submissions
+  url: /blog2/2016/03/30/some-simple-analysis-of-student-submissions/
+previous:
+  text: LATs, OER, TPACK, and GitHub
+  url: /blog2/2016/03/26/lats-oer-tpack-and-github/
+title: Setting up the analysis of student submissions
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,20 @@
 ---
-title: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators projects together?
+categories:
+- bam
+- blackboardindicators
+- elearning
+- innovation
+- plescquni
 date: 2009-03-11 09:12:53+10:00
-categories: ['bam', 'blackboardindicators', 'elearning', 'innovation', 'plescquni']
+next:
+  text: Initial steps toward an education aggregation taxonomy - community versus
+    individual?
+  url: /blog2/2009/03/11/an-alternate-bam-related-idea/
+previous:
+  text: Getting feeds out of BAM - the first steps
+  url: /blog2/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
+title: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
+  projects together?
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,15 @@
 ---
-title: Learning to live with a standard look and feel
+categories:
+- edc3100
 date: 2015-01-21 08:42:39+10:00
-categories: ['edc3100']
+next:
+  text: '"Barriers to higher education technology adoption: Digital fluency or usefulness?"'
+  url: /blog2/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/
+previous:
+  text: What might the 3 levels of organisational culture reveal about university
+    e-learning
+  url: /blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+title: Learning to live with a standard look and feel
 type: post
 template: blog-post.html
 ---

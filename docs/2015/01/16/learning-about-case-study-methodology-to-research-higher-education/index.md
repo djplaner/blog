@@ -1,7 +1,17 @@
 ---
-title: Learning about case study methodology to research higher education
+categories:
+- bad
+- bambimbad
+- research
 date: 2015-01-16 14:51:07+10:00
-categories: ['bad', 'bambimbad', 'research']
+next:
+  text: What might the 3 levels of organisational culture reveal about university
+    e-learning
+  url: /blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+previous:
+  text: 'Choosing a research publication outlet: Part II'
+  url: /blog2/2015/01/14/choosing-a-research-publication-outlet-part-ii/
+title: Learning about case study methodology to research higher education
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,19 @@
 ---
-title: The four paths for implementing learning analytics and enhancing the quality of learning and teaching
+categories:
+- 4paths
+- indicators
+- irac
+- learninganalytics-elearning
+- pirac
 date: 2015-06-01 10:04:44+10:00
-categories: ['4paths', 'indicators', 'irac', 'learninganalytics-elearning', 'pirac']
+next:
+  text: Analysing Moodle community forum discussions about the Moodle book module
+  url: /blog2/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/
+previous:
+  text: An overview of the Moodle &quot;open&quot; book project
+  url: /blog2/2015/04/27/an-overview-of-the-moodle-open-book-project/
+title: The four paths for implementing learning analytics and enhancing the quality
+  of learning and teaching
 type: post
 template: blog-post.html
 comments:

@@ -1,6 +1,7 @@
 ---
-title: "The life and death of Webfuse: principles for learning and leading into the future"
 date: 2012-08-30 13:41:21+10:00
+title: '"The life and death of Webfuse: principles for learning and leading into the
+  future"'
 type: page
 template: blog-post.html
 comments:

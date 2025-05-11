@@ -1,7 +1,16 @@
 ---
-title: Reducing meaningless freedom and a Mahara feature request
+categories:
+- design-theory
+- elearning
+- webfuse
 date: 2012-06-30 11:11:05+10:00
-categories: ['design-theory', 'elearning', 'webfuse']
+next:
+  text: '"Why do (social) networks matter in teaching &#038; learning?"'
+  url: /blog2/2012/07/07/why-do-social-networks-matter-in-teaching-learning/
+previous:
+  text: People and e-learning - limitations and an alternative
+  url: /blog2/2012/06/29/people-and-e-learning-limitations-and-an-alternative/
+title: Reducing meaningless freedom and a Mahara feature request
 type: post
 template: blog-post.html
 comments:

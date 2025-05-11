@@ -1,7 +1,15 @@
 ---
-title: Future of universities - an age old problem
+categories:
+- elearning
+- futures
 date: 2009-11-09 10:04:34+10:00
-categories: ['elearning', 'futures']
+next:
+  text: Reflection on alternatives and experiments
+  url: /blog2/2009/11/11/reflection-on-alternatives-and-experiments/
+previous:
+  text: Lectures, alternatives, poll everywhere and unexpected events
+  url: /blog2/2009/10/26/lectures-alternatives-poll-everywhere-and-unexpected-events/
+title: Future of universities - an age old problem
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,15 @@
 ---
-title: Does ICT provide choices of learners and learning in higher education
+categories:
+- elearning
 date: 2007-04-06 20:36:58+10:00
-categories: ['elearning']
+next:
+  text: Personality type - INTP
+  url: /blog2/2007/04/09/personality-type-intp/
+previous:
+  text: Descriptive (network) versus normative (community) based development of e-learning
+    in organisations
+  url: /blog2/2007/03/15/109/
+title: Does ICT provide choices of learners and learning in higher education
 type: post
 template: blog-post.html
 ---

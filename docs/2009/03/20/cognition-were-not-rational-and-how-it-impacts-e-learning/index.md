@@ -1,7 +1,21 @@
 ---
-title: Cognition - we're not rational and how it impacts e-learning
+categories:
+- chapter-2
+- cognitiveedge
+- design-theory
+- elearning
+- phd
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-03-20 14:07:22+10:00
-categories: ['chapter-2', 'cognitiveedge', 'design-theory', 'elearning', 'phd', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: Postman's - 5 things to know about technological change and e-learning
+  url: /blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/
+previous:
+  text: 'PhD Update - Week #4 - Frustration and progress'
+  url: /blog2/2009/03/20/phd-update-week-4-frustration-and-progress/
+title: Cognition - we're not rational and how it impacts e-learning
 type: post
 template: blog-post.html
 comments:

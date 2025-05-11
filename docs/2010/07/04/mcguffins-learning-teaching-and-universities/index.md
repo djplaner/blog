@@ -1,7 +1,15 @@
 ---
-title: McGuffins, learning, teaching and universities
+categories:
+- herding-cats
 date: 2010-07-04 12:24:56+10:00
-categories: ['herding-cats']
+next:
+  text: '"Integrating alignment into Moodle and academic practice: A proposal and
+    a RFI"'
+  url: /blog2/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
+previous:
+  text: The VLE model and the wrong level of abstraction
+  url: /blog2/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/
+title: McGuffins, learning, teaching and universities
 type: post
 template: blog-post.html
 comments:

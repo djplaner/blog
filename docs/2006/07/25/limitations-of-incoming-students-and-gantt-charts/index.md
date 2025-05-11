@@ -1,7 +1,14 @@
 ---
-title: Limitations of incoming students and Gantt charts
+categories:
+- bam
 date: 2006-07-25 14:16:40+10:00
-categories: ['bam']
+next:
+  text: Further issues with BamRegistration
+  url: /blog2/2006/07/31/further-issues-with-bamregistration/
+previous:
+  text: 'Design research: IS or CS - importance of &quot;no overlap&quot;'
+  url: /blog2/2006/07/25/design-research-is-or-cs-importance-of-no-overlap/
+title: Limitations of incoming students and Gantt charts
 type: post
 template: blog-post.html
 ---

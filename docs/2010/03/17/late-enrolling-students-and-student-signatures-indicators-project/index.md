@@ -1,7 +1,15 @@
 ---
-title: Late enrolling students and student signatures - Indicators project?
+categories:
+- elearning
+- indicators
 date: 2010-03-17 11:56:34+10:00
-categories: ['elearning', 'indicators']
+next:
+  text: The story of BIM - the slow expansion of BAM
+  url: /blog2/2010/03/17/the-story-of-bim-the-slow-expansion-of-bam/
+previous:
+  text: The story of BIM - Development of BAM
+  url: /blog2/2010/03/17/the-story-of-bim-development-of-bam/
+title: Late enrolling students and student signatures - Indicators project?
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,17 @@
 ---
-title: Comparing Automatically Detected Reflective Texts with Human Judgements
+categories:
+- bim
+- bim2
+- elearning
+- indicators
 date: 2013-06-19 11:46:03+10:00
-categories: ['bim', 'bim2', 'elearning', 'indicators']
+next:
+  text: Documenting the gap between "start of art" and "state of the actual"
+  url: /blog2/2013/06/20/documenting-the-gap-between-start-of-art-and-state-of-the-actual/
+previous:
+  text: Mobile video to enhance the Work Integrated Learning of pre-service teachers
+  url: /blog2/2013/06/13/mobile-video-to-enhance-the-work-integrated-learning-of-pre-service-teachers/
+title: Comparing Automatically Detected Reflective Texts with Human Judgements
 type: post
 template: blog-post.html
 ---

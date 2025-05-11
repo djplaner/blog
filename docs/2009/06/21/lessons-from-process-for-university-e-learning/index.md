@@ -1,7 +1,20 @@
 ---
-title: Lessons from process for university e-learning
+categories:
+- chapter-2
+- design-theory
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-06-21 14:46:41+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"PhD Update #15 - Some progress and an absence"'
+  url: /blog2/2009/06/21/phd-update-15-some-progress-and-an-absence/
+previous:
+  text: "The reason *insert label* talk about gurus is because they can\u2019t spell\
+    \ the word charlatan"
+  url: /blog2/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-cant-spell-the-word-charlatan/
+title: Lessons from process for university e-learning
 type: post
 template: blog-post.html
 comments:

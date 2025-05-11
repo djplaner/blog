@@ -1,7 +1,19 @@
 ---
-title: "Lessons learned from Webfuse: 2000 onwards"
+categories:
+- chapter-5
+- design-theory
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-08-19 13:57:20+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: The curse of simple diagrams
+  url: /blog2/2010/08/20/the-curse-of-simple-diagrams/
+previous:
+  text: Learning with an open course - a case study?
+  url: /blog2/2010/08/19/learning-with-an-open-course-a-case-study/
+title: '"Lessons learned from Webfuse: 2000 onwards"'
 type: post
 template: blog-post.html
 ---

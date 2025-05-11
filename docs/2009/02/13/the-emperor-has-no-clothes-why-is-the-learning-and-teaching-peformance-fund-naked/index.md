@@ -1,7 +1,17 @@
 ---
-title: The emperor has no clothes - why is the learning and teaching peformance fund naked
+categories:
+- chapter-2
+- elearning
+- evaluation
 date: 2009-02-13 09:29:09+10:00
-categories: ['chapter-2', 'elearning', 'evaluation']
+next:
+  text: Innovation - rendering the hitherto non-existent blindingly obvious
+  url: /blog2/2009/02/13/innovation-rendering-the-hitherto-non-existent-blindingly-obvious/
+previous:
+  text: It&#039;s always easier to say sorry than to ask for permission
+  url: /blog2/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
+title: The emperor has no clothes - why is the learning and teaching peformance fund
+  naked
 type: post
 template: blog-post.html
 comments:

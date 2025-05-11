@@ -1,8 +1,19 @@
 ---
-title: Reflection on alternatives and experiments
+categories:
+- elearning
+- futures
+- ilecture
 date: 2009-11-11 09:34:41+10:00
-categories: ['elearning', 'futures', 'ilecture']
-tags: ['ustream-twitter', 'votapedia']
+next:
+  text: Twitter back channels, conferences, sessions and engaging the audience
+  url: /blog2/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
+previous:
+  text: Future of universities - an age old problem
+  url: /blog2/2009/11/09/future-of-universities-an-age-old-problem/
+tags:
+- ustream-twitter
+- votapedia
+title: Reflection on alternatives and experiments
 type: post
 template: blog-post.html
 comments:

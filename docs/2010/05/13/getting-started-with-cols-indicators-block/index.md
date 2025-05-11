@@ -1,7 +1,15 @@
 ---
-title: Getting started with Col's indicators block
+categories:
+- indicators
+- moodle
 date: 2010-05-13 11:04:25+10:00
-categories: ['indicators', 'moodle']
+next:
+  text: Qualms about the alignment project
+  url: /blog2/2010/05/14/qualms-about-the-alignment-project/
+previous:
+  text: More thinking about the alignment project
+  url: /blog2/2010/05/13/more-thinking-about-the-alignment-project/
+title: Getting started with Col's indicators block
 type: post
 template: blog-post.html
 comments:

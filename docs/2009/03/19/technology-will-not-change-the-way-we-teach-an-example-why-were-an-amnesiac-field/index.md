@@ -1,7 +1,20 @@
 ---
-title: Technology will *not* change the way we teach - an example why we're an amnesiac field
+categories:
+- chapter-2
+- elearning
+- phd
+- psframework
+- thesis
 date: 2009-03-19 16:26:13+10:00
-categories: ['chapter-2', 'elearning', 'phd', 'psframework', 'thesis']
+next:
+  text: '"PhD Update - Week #4 - Frustration and progress"'
+  url: /blog2/2009/03/20/phd-update-week-4-frustration-and-progress/
+previous:
+  text: Coordination, support and knowledge sharing associated with e-learning - where
+    does your organisation fit?
+  url: /blog2/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/
+title: Technology will *not* change the way we teach - an example why we're an amnesiac
+  field
 type: post
 template: blog-post.html
 comments:

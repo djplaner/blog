@@ -1,7 +1,17 @@
 ---
-title: Types of e-learning projects and the problem of starvation
+categories:
+- 4paths
+- bad
+- elearning
 date: 2015-06-16 10:55:59+10:00
-categories: ['4paths', 'bad', 'elearning']
+next:
+  text: Exploring BIM + sentiment analysis - what might it say about student blog
+    posts
+  url: /blog2/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
+previous:
+  text: Import/export ePubs into the Moodle book module
+  url: /blog2/2015/06/15/importexport-epubs-into-the-moodle-book-module/
+title: Types of e-learning projects and the problem of starvation
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Useful \"analytics\" - Faces as an example
+categories:
+- learninganalytics-elearning
 date: 2013-09-06 09:28:01+10:00
-categories: ['learninganalytics-elearning']
+next:
+  text: Is institutional e-learning a bit like teenage sex?
+  url: /blog2/2013/09/16/is-institutional-e-learning-like-teenage-sex/
+previous:
+  text: The importance of &quot;We don&#039;t know what we&#039;re doing&quot;
+  url: /blog2/2013/09/04/the-importance-of-we-dont-know-what-were-doing/
+title: Useful "analytics" - Faces as an example
 type: post
 template: blog-post.html
 comments:

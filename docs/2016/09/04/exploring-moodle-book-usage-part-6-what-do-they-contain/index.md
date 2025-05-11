@@ -1,7 +1,16 @@
 ---
-title: Exploring Moodle Book usage – Part 6 – What do they contain?
+categories:
+- bad
+- exploring
+- moodleopenbook
 date: 2016-09-04 22:09:18+10:00
-categories: ['bad', 'exploring', 'moodleopenbook']
+next:
+  text: '"University digital technology: problems, causes, and suggested solutions"'
+  url: /blog2/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+previous:
+  text: Exploring Moodle Book usage - Part 5 - more staff and student use
+  url: /blog2/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/
+title: "Exploring Moodle Book usage \u2013 Part 6 \u2013 What do they contain?"
 type: post
 template: blog-post.html
 comments:

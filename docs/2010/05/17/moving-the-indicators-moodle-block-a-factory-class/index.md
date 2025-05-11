@@ -1,7 +1,15 @@
 ---
-title: Moving the indicators Moodle block to a factory class
+categories:
+- indicators
+- moodle
 date: 2010-05-17 10:07:02+10:00
-categories: ['indicators', 'moodle']
+next:
+  text: How curriculum mapping in Moodle might work
+  url: /blog2/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
+previous:
+  text: Is there more to communities of practice?
+  url: /blog2/2010/05/16/is-there-more-to-communities-of-practice/
+title: Moving the indicators Moodle block to a factory class
 type: post
 template: blog-post.html
 comments:

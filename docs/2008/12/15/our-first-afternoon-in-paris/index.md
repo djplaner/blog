@@ -1,8 +1,16 @@
 ---
-title: Our first afternoon in Paris
+categories:
+- paris2008
 date: 2008-12-15 03:05:13+10:00
-categories: ['paris2008']
-tags: ['paris']
+next:
+  text: The Dreyfus Model - From Novice to Expert
+  url: /blog2/2008/12/16/the-dreyfus-model-from-novice-to-expert/
+previous:
+  text: Singapore to Paris
+  url: /blog2/2008/12/12/singapore-to-paris/
+tags:
+- paris
+title: Our first afternoon in Paris
 type: post
 template: blog-post.html
 ---

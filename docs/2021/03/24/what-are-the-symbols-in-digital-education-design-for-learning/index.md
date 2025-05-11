@@ -1,8 +1,15 @@
 ---
-title: What are the symbols in digital education/design for learning?
-date: 2021-03-24 09:27:53+10:00
-categories: ['eei']
+categories:
+- eei
 coverImage: 23776579774_bb775a0f1f_o-scaled.jpg
+date: 2021-03-24 09:27:53+10:00
+next:
+  text: On formal qualifications and improving learning and teaching
+  url: /blog2/2021/03/30/on-formal-qualifications-and-improving-learning-and-teaching/
+previous:
+  text: Reflecting on the spread of the Card Interface for Blackboard Learn
+  url: /blog2/2021/03/12/reflecting-on-the-spread-of-the-card-interface-for-blackboard-learn/
+title: What are the symbols in digital education/design for learning?
 type: post
 template: blog-post.html
 ---

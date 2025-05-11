@@ -1,7 +1,14 @@
 ---
-title: The Long Tail - aggregation and context and the role of a \"Web 2.0 course site\"
+categories:
+- web-20-course-sites
 date: 2006-11-29 16:25:51+10:00
-categories: ['web-20-course-sites']
+next:
+  text: Software as a Service (SaaS) and elearning
+  url: /blog2/2006/11/29/software-as-a-service-saas-and-elearning/
+previous:
+  text: The first missing Ps presentation
+  url: /blog2/2006/11/29/the-first-missing-ps-presentation/
+title: The Long Tail - aggregation and context and the role of a "Web 2.0 course site"
 type: post
 template: blog-post.html
 ---

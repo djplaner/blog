@@ -1,8 +1,17 @@
 ---
-title: When is learning analytics not about the students?
+categories:
+- elearning
+- indicators
 date: 2013-07-02 15:46:52+10:00
-categories: ['elearning', 'indicators']
-tags: ['lasi2013']
+next:
+  text: A quick search for a Google reader alternative
+  url: /blog2/2013/07/07/a-quick-search-for-a-google-reader-alternative/
+previous:
+  text: Identifying and filling some TPACK holes
+  url: /blog2/2013/07/02/identifying-and-filling-some-tpack-holes/
+tags:
+- lasi2013
+title: When is learning analytics not about the students?
 type: post
 template: blog-post.html
 ---

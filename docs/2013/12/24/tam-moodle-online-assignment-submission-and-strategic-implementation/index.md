@@ -1,7 +1,16 @@
 ---
-title: "TAM, #moodle, online assignment submission and strategic implementation"
+categories:
+- elearning
+- moodle
+- webfuse
 date: 2013-12-24 11:39:40+10:00
-categories: ['elearning', 'moodle', 'webfuse']
+next:
+  text: Challenges in employing complex e-learning strategies in campus-based universities
+  url: /blog2/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
+previous:
+  text: The adoption and acceptance of learning analytics
+  url: /blog2/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
+title: '"TAM, #moodle, online assignment submission and strategic implementation"'
 type: post
 template: blog-post.html
 comments:

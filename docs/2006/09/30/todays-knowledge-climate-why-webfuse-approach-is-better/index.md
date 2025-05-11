@@ -1,7 +1,14 @@
 ---
-title: Today's knowledge climate - why Webfuse approach is better
+categories:
+- webfuse
 date: 2006-09-30 22:50:50+10:00
-categories: ['webfuse']
+next:
+  text: Examples of free content (Universitites)
+  url: /blog2/2006/10/02/examples-of-free-content-universitites/
+previous:
+  text: What is online teaching
+  url: /blog2/2006/09/29/what-is-online-teaching/
+title: Today's knowledge climate - why Webfuse approach is better
 type: post
 template: blog-post.html
 ---

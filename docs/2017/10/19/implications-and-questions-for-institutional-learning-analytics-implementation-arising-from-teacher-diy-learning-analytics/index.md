@@ -1,7 +1,16 @@
 ---
-title: Implications and questions for institutional learning analytics implementation arising from teacher DIY learning analytics
+categories:
+- 4paths
+- learninganalytics-elearning
 date: 2017-10-19 13:54:03+10:00
-categories: ['4paths', 'learninganalytics-elearning']
+next:
+  text: Introducing the Moodle Activity Viewer (MAV) & digital reno
+  url: /blog2/2017/10/30/introducing-the-moodle-activity-viewer-mav-digital-reno/
+previous:
+  text: Exploring options for teacher DIY learning analytics
+  url: /blog2/2017/10/07/exploring-options-for-teacher-diy-learning-analytics/
+title: Implications and questions for institutional learning analytics implementation
+  arising from teacher DIY learning analytics
 type: post
 template: blog-post.html
 ---

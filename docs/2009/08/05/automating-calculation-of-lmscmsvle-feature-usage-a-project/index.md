@@ -1,7 +1,17 @@
 ---
-title: Automating calculation of LMS/CMS/VLE feature usage - a project?
+categories:
+- elearning
+- evaluation
+- indicators
+- lmsevaluation
 date: 2009-08-05 13:57:04+10:00
-categories: ['elearning', 'evaluation', 'indicators', 'lmsevaluation']
+next:
+  text: External factors associated with CMS adoption
+  url: /blog2/2009/08/05/external-factors-associated-with-cms-adoption/
+previous:
+  text: Factors related to the breadth of use of LMS/VLE features
+  url: /blog2/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/
+title: Automating calculation of LMS/CMS/VLE feature usage - a project?
 type: post
 template: blog-post.html
 ---

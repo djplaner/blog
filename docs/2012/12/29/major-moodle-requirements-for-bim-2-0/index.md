@@ -1,7 +1,14 @@
 ---
-title: Major (Moodle) requirements for BIM 2.0
+categories:
+- bim
 date: 2012-12-29 10:41:35+10:00
-categories: ['bim']
+next:
+  text: Backup for BIM 2.0
+  url: /blog2/2012/12/29/backup-for-bim-2-0/
+previous:
+  text: Bug fix and to do for BIM
+  url: /blog2/2012/12/28/bug-fix-and-to-do-for-bim/
+title: Major (Moodle) requirements for BIM 2.0
 type: post
 template: blog-post.html
 comments:

@@ -1,6 +1,6 @@
 ---
-title: BIM - Feed Aggregation Management and Marking
 date: 2008-10-20 16:00:53+10:00
+title: BIM - Feed Aggregation Management and Marking
 type: page
 template: blog-post.html
 comments:

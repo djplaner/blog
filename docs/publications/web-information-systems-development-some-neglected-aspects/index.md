@@ -1,6 +1,6 @@
 ---
-title: "Web Information Systems Development: Some neglected aspects"
 date: 2008-12-31 14:45:55+10:00
+title: '"Web Information Systems Development: Some neglected aspects"'
 type: page
 template: blog-post.html
 ---

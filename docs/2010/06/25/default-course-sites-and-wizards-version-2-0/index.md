@@ -1,7 +1,18 @@
 ---
-title: Default course sites and wizards - version 2.0
+categories:
+- chapter-5
+- elearning
+- phd
+- thesis
+- webfuse
 date: 2010-06-25 11:06:29+10:00
-categories: ['chapter-5', 'elearning', 'phd', 'thesis', 'webfuse']
+next:
+  text: An integrated OLE
+  url: /blog2/2010/06/26/an-integrated-ole/
+previous:
+  text: Webfuse as a web publishing tool - 2000 through 2004
+  url: /blog2/2010/06/22/webfuse-as-a-web-publishing-tool-2000-through-2004/
+title: Default course sites and wizards - version 2.0
 type: post
 template: blog-post.html
 comments:

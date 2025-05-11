@@ -1,7 +1,14 @@
 ---
-title: Selecting a tripod
+categories:
+- photography
 date: 2008-11-29 16:16:46+10:00
-categories: ['photography']
+next:
+  text: A time to rethink enterprise helpdesk systems and management
+  url: /blog2/2008/12/03/a-time-to-rethink-enterprise-helpdesk-systems-and-management/
+previous:
+  text: Indications of limitations - blog based discussions
+  url: /blog2/2008/11/27/indications-of-limitations-blog-based-discussions/
+title: Selecting a tripod
 type: post
 template: blog-post.html
 comments:

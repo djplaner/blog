@@ -1,7 +1,14 @@
 ---
-title: Jenny Anastasi' presentation
+categories:
+- bam
 date: 2006-08-28 13:53:05+10:00
-categories: ['bam']
+next:
+  text: Web 2.0 Course Sites
+  url: /blog2/2006/09/17/web-20-course-sites/
+previous:
+  text: Including Dojo in pages
+  url: /blog2/2006/08/01/including-dojo-in-pages/
+title: Jenny Anastasi' presentation
 type: post
 template: blog-post.html
 ---

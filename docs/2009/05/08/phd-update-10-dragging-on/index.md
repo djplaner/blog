@@ -1,7 +1,16 @@
 ---
-title: "PhD Update #10 - Dragging on"
+categories:
+- chapter-2
+- phd
+- thesis
 date: 2009-05-08 15:59:06+10:00
-categories: ['chapter-2', 'phd', 'thesis']
+next:
+  text: Why don't we (e-)learn - over emphasis on rationality and defensive routines
+  url: /blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
+previous:
+  text: Sector - another part of Place
+  url: /blog2/2009/05/08/sector-another-part-of-place/
+title: '"PhD Update #10 - Dragging on"'
 type: post
 template: blog-post.html
 comments:

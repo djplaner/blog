@@ -1,7 +1,15 @@
 ---
-title: Khan academy, gamification, the flipped classroom and mathematics
+categories:
+- eded20487
+- teaching
 date: 2011-08-14 20:27:16+10:00
-categories: ['eded20487', 'teaching']
+next:
+  text: Is IT a service industry, or is it "eating the world"?
+  url: /blog2/2011/08/23/is-it-a-service-industry-or-is-it-eating-the-world/
+previous:
+  text: Gamification by camouflage - fads and higher ed
+  url: /blog2/2011/08/09/gamification-by-camouflage-fads-and-higher-ed/
+title: Khan academy, gamification, the flipped classroom and mathematics
 type: post
 template: blog-post.html
 comments:

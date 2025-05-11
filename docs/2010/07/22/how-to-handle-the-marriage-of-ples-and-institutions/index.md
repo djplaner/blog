@@ -1,7 +1,15 @@
 ---
-title: How to handle the marriage of PLEs and institutions
+categories:
+- elearning
+- plescquni
 date: 2010-07-22 11:03:00+10:00
-categories: ['elearning', 'plescquni']
+next:
+  text: '"PLEs and the institution: the wrong problem"'
+  url: /blog2/2010/07/23/ples-and-the-institution-the-wrong-problem/
+previous:
+  text: Features used in Webfuse course sites
+  url: /blog2/2010/07/21/features-used-in-webfuse-course-sites/
+title: How to handle the marriage of PLEs and institutions
 type: post
 template: blog-post.html
 comments:

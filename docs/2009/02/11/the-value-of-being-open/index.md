@@ -1,7 +1,18 @@
 ---
-title: The value of being open
+categories:
+- chapter-2
+- design-theory
+- elearning
+- plescquni
+- thesis
 date: 2009-02-11 10:49:02+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'plescquni', 'thesis']
+next:
+  text: One reason people don't take to new e-learning technology
+  url: /blog2/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
+previous:
+  text: BAM - making e-learning technology more protean
+  url: /blog2/2009/02/11/bam-making-e-learning-technology-more-protean/
+title: The value of being open
 type: post
 template: blog-post.html
 comments:

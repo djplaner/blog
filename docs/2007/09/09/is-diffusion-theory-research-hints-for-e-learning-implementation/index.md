@@ -1,7 +1,16 @@
 ---
-title: IS diffusion theory research - hints for e-learning implementation
+categories:
+- design-theory
+- herding-cats
+- web3dx
 date: 2007-09-09 12:56:00+10:00
-categories: ['design-theory', 'herding-cats', 'web3dx']
+next:
+  text: I'm a "uber cool high nerd"
+  url: /blog2/2007/09/09/im-a-uber-cool-high-nerd/
+previous:
+  text: E-learning and information systems - a connection?
+  url: /blog2/2007/09/09/e-learning-and-information-systems-a-connection/
+title: IS diffusion theory research - hints for e-learning implementation
 type: post
 template: blog-post.html
 ---

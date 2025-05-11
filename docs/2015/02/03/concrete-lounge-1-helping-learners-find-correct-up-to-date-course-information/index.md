@@ -1,7 +1,16 @@
 ---
-title: "Concrete lounge #1 - Helping learners find correct, up-to-date course information"
+categories:
+- bad
+- concretelounges
+- edc3100
 date: 2015-02-03 12:26:43+10:00
-categories: ['bad', 'concretelounges', 'edc3100']
+next:
+  text: Metaphors and organisational change
+  url: /blog2/2015/02/06/metaphors-and-organisational-change/
+previous:
+  text: Learning analytics is better when.....?
+  url: /blog2/2015/02/02/learning-analytics-is-better-when/
+title: '"Concrete lounge #1 - Helping learners find correct, up-to-date course information"'
 type: post
 template: blog-post.html
 comments:

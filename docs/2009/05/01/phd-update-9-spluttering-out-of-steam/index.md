@@ -1,7 +1,17 @@
 ---
-title: "PhD Update #9 - spluttering out of steam"
+categories:
+- chapter-2
+- design-theory
+- phd
+- thesis
 date: 2009-05-01 16:08:08+10:00
-categories: ['chapter-2', 'design-theory', 'phd', 'thesis']
+next:
+  text: Place - component of the Ps Framework
+  url: /blog2/2009/05/06/place-component-of-the-ps-framework/
+previous:
+  text: First official BAM paper done
+  url: /blog2/2009/04/30/first-official-bam-paper-done/
+title: '"PhD Update #9 - spluttering out of steam"'
 type: post
 template: blog-post.html
 comments:

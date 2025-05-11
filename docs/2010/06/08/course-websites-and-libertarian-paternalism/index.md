@@ -1,7 +1,19 @@
 ---
-title: Course websites and \"libertarian paternalism\"
+categories:
+- chapter-5
+- design-theory
+- elearning
+- reflectivealignment
+- thesis
+- webfuse
 date: 2010-06-08 09:28:12+10:00
-categories: ['chapter-5', 'design-theory', 'elearning', 'reflectivealignment', 'thesis', 'webfuse']
+next:
+  text: Functional fixedness, analytics, and the LMS
+  url: /blog2/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
+previous:
+  text: Should academics manually create course websites?
+  url: /blog2/2010/06/07/should-academics-manually-create-course-websites/
+title: Course websites and "libertarian paternalism"
 type: post
 template: blog-post.html
 comments:

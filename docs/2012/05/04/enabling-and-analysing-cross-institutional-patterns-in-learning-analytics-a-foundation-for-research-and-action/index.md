@@ -1,7 +1,16 @@
 ---
-title: "Enabling and analysing cross-institutional patterns in learning analytics: A foundation for research and action"
+categories:
+- indicators
+- learninganalytics-elearning
 date: 2012-05-04 16:43:15+10:00
-categories: ['indicators', 'learninganalytics-elearning']
+next:
+  text: On the inertia of systems
+  url: /blog2/2012/05/05/on-the-inertia-of-systems/
+previous:
+  text: Questions and insights on (education) hack days/hackathons
+  url: /blog2/2012/04/25/questions-and-insights-on-edhackathons/
+title: '"Enabling and analysing cross-institutional patterns in learning analytics:
+  A foundation for research and action"'
 type: post
 template: blog-post.html
 comments:

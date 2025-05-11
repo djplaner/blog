@@ -1,8 +1,20 @@
 ---
-title: "Alternatives for the institutional implementation of e-learning: Lessons from 12 years of  Webfuse"
+categories:
+- design-theory
+- elearning
+- thesis
+- webfuse
 date: 2009-02-15 10:54:51+10:00
-categories: ['design-theory', 'elearning', 'thesis', 'webfuse']
-tags: ['educause09']
+next:
+  text: '"Getting half-baked ideas out there: improving research and the academy"'
+  url: /blog2/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
+previous:
+  text: Innovation - rendering the hitherto non-existent blindingly obvious
+  url: /blog2/2009/02/13/innovation-rendering-the-hitherto-non-existent-blindingly-obvious/
+tags:
+- educause09
+title: '"Alternatives for the institutional implementation of e-learning: Lessons
+  from 12 years of  Webfuse"'
 type: post
 template: blog-post.html
 comments:

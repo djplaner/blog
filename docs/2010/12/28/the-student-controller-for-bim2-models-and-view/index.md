@@ -1,7 +1,15 @@
 ---
-title: The student controller for bim2 - models and view
+categories:
+- bim
+- bim2
 date: 2010-12-28 16:07:14+10:00
-categories: ['bim', 'bim2']
+next:
+  text: BIM as a Wordpress plugin?
+  url: /blog2/2010/12/29/bim-as-a-wordpress-plugin/
+previous:
+  text: Putting the MVC structure for bim2 in place
+  url: /blog2/2010/12/24/putting-the-mvc-structure-for-bim2-in-place/
+title: The student controller for bim2 - models and view
 type: post
 template: blog-post.html
 ---

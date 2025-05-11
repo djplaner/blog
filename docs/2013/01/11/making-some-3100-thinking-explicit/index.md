@@ -1,7 +1,16 @@
 ---
-title: Making some \"3100\" thinking explicit
+categories:
+- edc3100
+- elearning
+- teaching
 date: 2013-01-11 15:20:13+10:00
-categories: ['edc3100', 'elearning', 'teaching']
+next:
+  text: '"Engaging with #etmooc - how and what perspective"'
+  url: /blog2/2013/01/15/engaging-with-etmooc-how-and-what-perspective/
+previous:
+  text: 'Translating Learning into Numbers: A Generic Framework for Learning Analytics'
+  url: /blog2/2013/01/09/translating-learning-into-numbers-a-generic-framework-for-learning-analytics/
+title: Making some "3100" thinking explicit
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,14 @@
 ---
-title: Initial plans for BIM 2.0
+categories:
+- bim
 date: 2010-11-09 11:14:29+10:00
-categories: ['bim']
+next:
+  text: A turning point
+  url: /blog2/2010/11/12/a-turning-point/
+previous:
+  text: Scaffolding, context-sensitive conglomerations - v2.0
+  url: /blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/
+title: Initial plans for BIM 2.0
 type: post
 template: blog-post.html
 comments:

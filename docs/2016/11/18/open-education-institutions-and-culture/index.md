@@ -1,7 +1,14 @@
 ---
-title: Open, education, institutions and culture
+categories:
+- open
 date: 2016-11-18 14:06:01+10:00
-categories: ['open']
+next:
+  text: Farewell wordpress.com, hello Reclaim Hosting
+  url: /blog2/2016/12/19/farewell-wordpress-com-hello-reclaim-hosting/
+previous:
+  text: Some MAV tasters
+  url: /blog2/2016/10/28/some-mav-tasters/
+title: Open, education, institutions and culture
 type: post
 template: blog-post.html
 ---

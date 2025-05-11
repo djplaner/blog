@@ -1,7 +1,21 @@
 ---
-title: Disruption and the \"mythic\" technologies of education
+categories:
+- chapter-2
+- design-theory
+- elearning
+- moodle
+- phd
+- psframework
+- reflectivealignment
+- thesis
 date: 2009-04-14 10:57:58+10:00
-categories: ['chapter-2', 'design-theory', 'elearning', 'moodle', 'phd', 'psframework', 'reflectivealignment', 'thesis']
+next:
+  text: Theory and practice - quote and connection with e-learning?
+  url: /blog2/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/
+previous:
+  text: Wordpress eating posts
+  url: /blog2/2009/04/11/wordpress-eating-posts/
+title: Disruption and the "mythic" technologies of education
 type: post
 template: blog-post.html
 comments:

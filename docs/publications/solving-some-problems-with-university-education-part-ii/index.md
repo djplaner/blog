@@ -1,6 +1,6 @@
 ---
-title: "Solving some problems with University Education: Part II"
 date: 2008-10-23 08:27:46+10:00
+title: '"Solving some problems with University Education: Part II"'
 type: page
 template: blog-post.html
 comments:
@@ -81,8 +81,8 @@ The developments discussed in this and the previous paper are examples of "lone 
 
 Since 1996 the context in which these developments have taken place has changed considerably. In particular, the variety and complexity of tasks involved in managing a unit has increased considerably due to a number of imposed, institutional changes. Table 1 summarises these changes.
 
-**Table 1  
-Changes in context for 85321**
+**Table 1  Changes in context for 85321**
+
 | Component | 1996   | 1999 |
 | --- | --- | --- |
 | "semesters" | 2 x 13 weeks | 4 per year: 2 x 12, 2 x 6, _or_   3 per year: 3 x 12   |
@@ -110,8 +110,8 @@ Other changes in context which have influenced recent approaches include
 - decreasing preparedness of students entering the unit  
     Decreasing entry requirements, broadening student backgrounds, the changing nature of computer interfaces and problems with pre-requisite units means that students entering advanced units have significantly different skills and knowledge.
 
-**Table 2  
-A comparison of Web sites: 1996 and 1999**
+**Table 2  A comparison of Web sites: 1996 and 1999**
+
 | Year | \# of Files | Size |
 | --- | --- | --- |
 | [1996 \[HREF3\]](http://www.infocom.cqu.edu.au/Units/aut98/85321//Old_Stuff/1996_Website/85321/)   | 5430 | 60Mb |
@@ -123,15 +123,15 @@ In four years of online learning a number of different online learning approache
 
 The quotes from students are taken from student evaluations from the 1996, 1997 and 1998 offerings of 85321 and have not been edited. All of the evaluations were administered as anonymous, Web-based forms. Table 3 summarises the percentage of students who responded for each year while Table 4 breaks those responses down by the student's mode of study. The overall response to the unit is demonstrated Table 5 which summarises student responses to the statement "The new approach in 85321 is better than the normal teaching method".
 
-**Table 3  
-Survey responses: 1996, 1997 and 1998**
+**Table 3  Survey responses: 1996, 1997 and 1998**
+
 |   | 1996 | 1997 | 1998 |
 | --- | --- | --- | --- |
 | Total # of students | 77 | 116 | 107 |
 | Survey Respondents   | 32 (41%) | 34 (29%) | 40 (37%) |
 
-**Table 4  
-Responses by study mode: 1996, 1997 and 1998**
+**Table 4  Responses by study mode: 1996, 1997 and 1998**
+
 | Student type | 1996 | 1997 | 1998 |
 | --- | --- | --- | --- |
 |   NO ANSWER |   | 6% |   |
@@ -141,8 +141,8 @@ Responses by study mode: 1996, 1997 and 1998**
 | Singapore | N/A | 3% | 2.5% |
 | Mackay | N/A | N/A | 5% |
 
-**Table 5  
-The new approach in 85321 is better than the normal teaching method.**
+**Table 5  The new approach in 85321 is better than the normal teaching method.**
+
 | Response | 1996 | 1997 | 1998   |
 | --- | --- | --- | --- |
 | Strongly Agree | 31.25% | 24% | 20% |
@@ -301,8 +301,8 @@ It also allows staff to concentrate on continual development of the Web site as 
 
 Table 6 summarises 1998 student responses to the statement "The mirror of the 85321 Web site on CD-ROM was very useful".
 
-**Table 6  
-The mirror of the 85321 web site on CD-ROM was very useful.**
+**Table 6  The mirror of the 85321 web site on CD-ROM was very useful.**
+
 | Response | Percentage |
 | --- | --- |
 | NO ANSWER   | 2.5% |
@@ -370,8 +370,8 @@ Student comments about the online assignment submission system have included
 
 Table 7 summarises students responses to the statement "Web-based assignment submission is better than paper based submission".
 
-**Table 7  
-Web-based assignment submission is better than paper based submission**
+**Table 7  Web-based assignment submission is better than paper based submission**
+
 | Response | 1997 | 1998 |
 | --- | --- | --- |
 | Strongly Agree |   48% | 55% |
@@ -448,18 +448,424 @@ Research studies confirm that an innovation which is perceived as having high co
 
 Table 8 summarises how teaching staff, on-campus students and distance students perceive the characteristics of some of the innovations discussed in this paper. It focuses on the most significant characteristics of relative advantage, compatibility and complexity. The perceptions of assigned to students in Table 8 are not based on specific research but on observations drawn from student evaluations and discussions.
 
-**Table 8  
-Perceived characteristics of innovations in 85321**
-| Innovations | Relative Advantage | Compatability | Complexity |
-| --- | --- | --- | --- |
-| Mistakes |   <table width="100%"><tbody><tr><th valign="TOP" width="33%" align="CENTER">Staff</th><th valign="TOP" width="33%" align="CENTER">campus students</th><th valign="TOP" width="33%" align="CENTER">Distance students</th></tr></tbody></table>   |   <table width="100%"><tbody><tr><th valign="TOP" width="33%" align="CENTER">Staff<div></div></th><th valign="TOP" width="33%" align="CENTER">campus students</th><th valign="TOP" width="33%" align="CENTER">Distance students</th></tr></tbody></table>   |   <table width="100%"><tbody><tr><th valign="TOP" width="33%" align="CENTER">Staff</th><th valign="TOP" width="33%" align="CENTER"><div></div>campus students</th><th valign="TOP" width="33%" align="CENTER">Distance students</th></tr></tbody></table>   |
-| Distributing print via Web |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER"><div></div>High</td><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">Low</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">High</td><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">Low</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">High<div></div></td><td valign="TOP" width="33%" align="CENTER">High</td></tr></tbody></table>   |
-| No on-campus lectures |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">High<div></div></td><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">No change</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">High</td><td valign="TOP" width="33%" align="CENTER"><div></div>Low</td><td valign="TOP" width="33%" align="CENTER">No change</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">Highish</td><td valign="TOP" width="33%" align="CENTER">No change</td></tr></tbody></table>   |
-| Group work |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">Low</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">Low<div></div></td><td valign="TOP" width="33%" align="CENTER">Low</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">High</td><td valign="TOP" width="33%" align="CENTER">High</td><td valign="TOP" width="33%" align="CENTER"><div></div>High</td></tr></tbody></table>   |
-| Successes |   <table width="100%"><tbody><tr><th valign="TOP" width="33%" align="CENTER">Staff</th><th valign="TOP" width="33%" align="CENTER"><div></div>campus students</th><th valign="TOP" width="33%" align="CENTER">Distance students</th></tr></tbody></table>   |   <table width="100%"><tbody><tr><th valign="TOP" width="33%" align="CENTER">Staff</th><th valign="TOP" width="33%" align="CENTER">campus students</th><th valign="TOP" width="33%" align="CENTER">Distance students</th></tr></tbody></table>   |   <table width="100%"><tbody><tr><th valign="TOP" width="33%" align="CENTER">Staff</th><th valign="TOP" width="33%" align="CENTER">campus students</th><th valign="TOP" width="33%" align="CENTER">Distance students<div></div></th></tr></tbody></table>   |
-| Online lectures |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Highish</td><td valign="TOP" width="33%" align="CENTER">Highish<div></div></td><td valign="TOP" width="33%" align="CENTER">High</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Highish</td><td valign="TOP" width="33%" align="CENTER">Highish</td><td valign="TOP" width="33%" align="CENTER"><div></div>Highish</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Highish</td><td valign="TOP" width="33%" align="CENTER">Lowish</td><td valign="TOP" width="33%" align="CENTER">Lowish</td></tr></tbody></table>   |
-| Online assignment submission |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">High</td><td valign="TOP" width="33%" align="CENTER">Highish</td><td valign="TOP" width="33%" align="CENTER">High</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">High</td><td valign="TOP" width="33%" align="CENTER">Highish</td><td valign="TOP" width="33%" align="CENTER">Highish<div></div></td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Low to High</td><td valign="TOP" width="33%" align="CENTER">Lowish</td><td valign="TOP" width="33%" align="CENTER">Lowish</td></tr></tbody></table>   |
-| Increased response |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Low/High</td><td valign="TOP" width="33%" align="CENTER">Highish</td><td valign="TOP" width="33%" align="CENTER"><div></div>High</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Highish</td><td valign="TOP" width="33%" align="CENTER">Low/High</td><td valign="TOP" width="33%" align="CENTER">Low</td></tr></tbody></table>   |   <table width="100%"><tbody><tr><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">Low</td><td valign="TOP" width="33%" align="CENTER">Low</td></tr></tbody></table>   |
+**Table 8  Perceived characteristics of innovations in 85321**
+
+<table border="5">
+<tbody><tr bgcolor="#888888">
+<th>
+Innovations
+</th>
+<th>
+Relative Advantage
+</th>
+<th valign="TOP">
+Compatability
+</th>
+<th valign="TOP">
+Complexity
+</th>
+</tr>
+<tr bgcolor="#aaaaaa">
+<th valign="TOP">
+Mistakes
+</th>
+<td>
+<table width="100%">
+<tbody><tr>
+<th valign="TOP" width="33%" align="CENTER">
+Staff
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+campus students
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+Distance students
+</th>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<th valign="TOP" width="33%" align="CENTER">
+Staff<p></p>
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+campus students
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+Distance students
+</th>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<th valign="TOP" width="33%" align="CENTER">
+Staff
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+<p>campus students
+</p></th>
+<th valign="TOP" width="33%" align="CENTER">
+Distance students
+</th>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="TOP">
+Distributing print via Web
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+<p>High
+</p></td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+High
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+High<p></p>
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+High
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="TOP">
+No on-campus lectures
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+High<p></p>
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+No change
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+High
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+<p>Low
+</p></td>
+<td valign="TOP" width="33%" align="CENTER">
+No change
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Highish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+No change
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="TOP">
+Group work
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low<p></p>
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+High
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+High
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+<p>High
+</p></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr bgcolor="#aaaaaa">
+<th valign="TOP">
+Successes
+</th>
+<td>
+<table width="100%">
+<tbody><tr>
+<th valign="TOP" width="33%" align="CENTER">
+Staff
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+<p>campus students
+</p></th>
+<th valign="TOP" width="33%" align="CENTER">
+Distance students
+</th>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<th valign="TOP" width="33%" align="CENTER">
+Staff
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+campus students
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+Distance students
+</th>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<th valign="TOP" width="33%" align="CENTER">
+Staff
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+campus students
+</th>
+<th valign="TOP" width="33%" align="CENTER">
+Distance students<p></p>
+</th>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="TOP">
+Online lectures
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Highish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Highish<p></p>
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+High
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Highish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Highish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+<p>Highish
+</p></td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Highish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Lowish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Lowish
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="TOP">
+Online assignment submission
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+High
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Highish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+High
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+High
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Highish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Highish<p></p>
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Low to High
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Lowish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Lowish
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="TOP">
+Increased response
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Low/High
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Highish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+<p>High
+</p></td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Highish
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low/High
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+</tr>
+</tbody></table>
+</td>
+<td valign="TOP">
+<table width="100%">
+<tbody><tr>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+<td valign="TOP" width="33%" align="CENTER">
+Low
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
 
 It should be noted that "bad scores" on these criteria does not mean that an innovation is by some measurement "bad" or destined to fail. A "bad score" indicates that an innovation is not likely to be adopted without significant effort on the part of a change agent.
 

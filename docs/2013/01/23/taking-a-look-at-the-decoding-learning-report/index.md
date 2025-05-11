@@ -1,7 +1,16 @@
 ---
-title: Taking a look at the \"Decoding Learning\" report
+categories:
+- edc3100
+- teaching
 date: 2013-01-23 13:07:08+10:00
-categories: ['edc3100', 'teaching']
+next:
+  text: 1000 blog posts - a time to look back
+  url: /blog2/2013/01/24/1000-blog-posts-a-time-to-look-back/
+previous:
+  text: A sign of limitations of institution hosted e-portfolios? And cost as the
+    ultimate driver
+  url: /blog2/2013/01/21/a-sign-of-limitations-of-institution-hosted-e-portfolios-and-cost-as-the-ultimate-driver/
+title: Taking a look at the "Decoding Learning" report
 type: post
 template: blog-post.html
 comments:

@@ -1,7 +1,16 @@
 ---
-title: Exploring current institutional e-learning usage
+categories:
+- elearning
+- indicators
+- learninganalytics-elearning
 date: 2013-11-12 14:26:26+10:00
-categories: ['elearning', 'indicators', 'learninganalytics-elearning']
+next:
+  text: On the limitations of learning design for improving learning and teaching
+  url: /blog2/2013/11/13/on-the-limitations-of-learning-design-for-improving-learning-and-teaching/
+previous:
+  text: BIM for Moodle 2.5
+  url: /blog2/2013/11/06/bim-for-moodle-2-5/
+title: Exploring current institutional e-learning usage
 type: post
 template: blog-post.html
 ---

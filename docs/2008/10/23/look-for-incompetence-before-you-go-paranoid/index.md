@@ -1,7 +1,17 @@
 ---
-title: Look for incompetence before you go paranoid
+categories:
+- elearning
+- ple
+- web-20-course-sites
+- webfuse
 date: 2008-10-23 09:10:20+10:00
-categories: ['elearning', 'ple', 'web-20-course-sites', 'webfuse']
+next:
+  text: The Ps Framework - avoiding perceptual blindness?
+  url: /blog2/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
+previous:
+  text: 'Design Based Research vs. Mixed Methods: The Differences and Commonalities'
+  url: /blog2/2008/10/22/design-based-research-vs-mixed-methods-the-differences-and-commonalities/
+title: Look for incompetence before you go paranoid
 type: post
 template: blog-post.html
 comments:

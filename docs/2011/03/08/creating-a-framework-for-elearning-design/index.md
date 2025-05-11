@@ -1,7 +1,15 @@
 ---
-title: Creating a framework for eLearning design
+categories:
+- eded20491
+- teaching
 date: 2011-03-08 11:42:50+10:00
-categories: ['eded20491', 'teaching']
+next:
+  text: '"Week 2: Pedagogical Content Knowledge"'
+  url: /blog2/2011/03/08/week-2-pedagogical-content-knowledge/
+previous:
+  text: Reflection on the mobile phones wiki
+  url: /blog2/2011/03/08/reflection-on-the-mobile-phones-wiki/
+title: Creating a framework for eLearning design
 type: post
 template: blog-post.html
 ---

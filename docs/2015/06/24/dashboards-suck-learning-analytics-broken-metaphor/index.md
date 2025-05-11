@@ -1,7 +1,16 @@
 ---
-title: "Dashboards suck: learning analytics' broken metaphor"
+categories:
+- indicators
+- irac
+- pirac
 date: 2015-06-24 17:49:54+10:00
-categories: ['indicators', 'irac', 'pirac']
+next:
+  text: And the little one said, "roll over, roll over"
+  url: /blog2/2015/06/26/and-the-little-one-said-roll-over-roll-over/
+previous:
+  text: Revisiting the IRAC framework and looking for insights
+  url: /blog2/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/
+title: '"Dashboards suck: learning analytics'' broken metaphor"'
 type: post
 template: blog-post.html
 comments:

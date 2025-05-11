@@ -1,7 +1,17 @@
 ---
-title: "Lectures and the LMS: Alternatives and experiments"
+categories:
+- elearning
+- ilecture
+- phd
+- thesis
 date: 2009-10-05 10:28:49+10:00
-categories: ['elearning', 'ilecture', 'phd', 'thesis']
+next:
+  text: Thoughts on "Insidious pedagogy"
+  url: /blog2/2009/10/06/thoughts-on-insidiuous-pedagogy/
+previous:
+  text: Lessons from Pedagogy for e-learning
+  url: /blog2/2009/10/04/lessons-from-pedagogy-for-e-learning/
+title: '"Lectures and the LMS: Alternatives and experiments"'
 type: post
 template: blog-post.html
 comments:

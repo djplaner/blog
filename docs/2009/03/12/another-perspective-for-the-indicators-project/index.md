@@ -1,7 +1,16 @@
 ---
-title: Another perspective for the indicators project
+categories:
+- blackboardindicators
+- elearning
 date: 2009-03-12 13:47:38+10:00
-categories: ['blackboardindicators', 'elearning']
+next:
+  text: Moving from scarcity to abundance changes things - music
+  url: /blog2/2009/03/12/moving-from-scarcity-to-abundance-changes-things-music/
+previous:
+  text: Messiness of information systems - another reason institutional e-learning
+    struggles
+  url: /blog2/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/
+title: Another perspective for the indicators project
 type: post
 template: blog-post.html
 ---

@@ -1,6 +1,6 @@
 ---
-title: ICT and teaching resources
 date: 2012-01-12 07:17:13+10:00
+title: ICT and teaching resources
 type: page
 template: blog-post.html
 ---

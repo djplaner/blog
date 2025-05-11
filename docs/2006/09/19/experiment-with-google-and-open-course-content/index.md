@@ -1,7 +1,15 @@
 ---
-title: Experiment with Google and open course content
+categories:
+- web-20-course-sites
+- webfuse
 date: 2006-09-19 12:05:28+10:00
-categories: ['web-20-course-sites', 'webfuse']
+next:
+  text: Enterprise Web 2.0
+  url: /blog2/2006/09/19/enterprise-web-20/
+previous:
+  text: 'Web 2.0: A New Wave of innovation for teaching and learning?'
+  url: /blog2/2006/09/18/web-20-a-new-wave-of-innovation-for-teaching-and-learning/
+title: Experiment with Google and open course content
 type: post
 template: blog-post.html
 ---

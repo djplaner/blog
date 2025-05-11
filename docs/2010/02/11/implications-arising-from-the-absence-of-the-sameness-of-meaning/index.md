@@ -1,7 +1,18 @@
 ---
-title: Implications arising from the absence of the \"sameness of meaning\"
+categories:
+- bim
+- chapter-2
+- elearning
+- reflectivealignment
+- thesis
 date: 2010-02-11 13:09:25+10:00
-categories: ['bim', 'chapter-2', 'elearning', 'reflectivealignment', 'thesis']
+next:
+  text: BIM - Ideas for changes arising from user testing
+  url: /blog2/2010/02/11/bim-ideas-for-changes-arising-from-user-testing/
+previous:
+  text: BIM - misc changes from moodle-train
+  url: /blog2/2010/02/10/bim-misc-changes-from-moodle-train/
+title: Implications arising from the absence of the "sameness of meaning"
 type: post
 template: blog-post.html
 comments:

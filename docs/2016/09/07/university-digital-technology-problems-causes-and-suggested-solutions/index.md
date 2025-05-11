@@ -1,7 +1,14 @@
 ---
-title: "University digital technology: problems, causes, and suggested solutions"
+categories:
+- bad
 date: 2016-09-07 13:08:23+10:00
-categories: ['bad']
+next:
+  text: '"Making course activity more transparent: A proposed use of MAV"'
+  url: /blog2/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
+previous:
+  text: "Exploring Moodle Book usage \u2013 Part 6 \u2013 What do they contain?"
+  url: /blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/
+title: '"University digital technology: problems, causes, and suggested solutions"'
 type: post
 template: blog-post.html
 ---

@@ -1,7 +1,16 @@
 ---
-title: Theory of workarounds
+categories:
+- 4paths
+- bad
+- casa
 date: 2019-12-20 09:44:53+10:00
-categories: ['4paths', 'bad', 'casa']
+next:
+  text: Is training the barrier to quality online learning in higher ed?
+  url: /blog2/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/
+previous:
+  text: 'The conceptualisation of e-learning: Lessons and implications'
+  url: /blog2/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/
+title: Theory of workarounds
 type: post
 template: blog-post.html
 ---

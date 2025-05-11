@@ -1,7 +1,17 @@
 ---
-title: Schemata and the source of dissonance?
+categories:
+- design-theory
+- elearning
+- highereducation
+- reflectivealignment
 date: 2011-03-09 09:01:43+10:00
-categories: ['design-theory', 'elearning', 'highereducation', 'reflectivealignment']
+next:
+  text: '"Week 2: Supportive Learning Environments"'
+  url: /blog2/2011/03/09/week-2-supportive-learning-environments/
+previous:
+  text: 'Week 2: Pedagogical Content Knowledge'
+  url: /blog2/2011/03/08/week-2-pedagogical-content-knowledge/
+title: Schemata and the source of dissonance?
 type: post
 template: blog-post.html
 comments:

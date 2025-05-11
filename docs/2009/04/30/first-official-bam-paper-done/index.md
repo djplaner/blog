@@ -1,7 +1,15 @@
 ---
-title: First official BAM paper done
+categories:
+- bam
 date: 2009-04-30 09:22:23+10:00
-categories: ['bam']
+next:
+  text: '"PhD Update #9 - spluttering out of steam"'
+  url: /blog2/2009/05/01/phd-update-9-spluttering-out-of-steam/
+previous:
+  text: Integration with professional lives of academics - why industrial e-learning
+    fails and why post-industrial might work
+  url: /blog2/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/
+title: First official BAM paper done
 type: post
 template: blog-post.html
 comments:
