@@ -35,9 +35,23 @@ background: linear-gradient(280deg, rgba(16, 7, 117, 1) 0%, rgba(10, 5, 79, 1) 5
   color: var(--md-search-fg-color); 
  }
 
- .md-search-result__item {
-  background-color: var(--md-search-bg-color);
+ @media screen and (max-width: 76.2344em) {
+.md-nav_list {
+      background-color: #000000;
+      color: #ffffff;
+      list-style-type: none;
+      margin-top: 0px;
+}
  }
+
+ @media screen and (min-width: 76.2344em) {
+ .md-nav_list {
+  list-style-type: none;
+  display: none;
+ }
+}
+
+
 
     .memex-image {
       max-width: 100%;
