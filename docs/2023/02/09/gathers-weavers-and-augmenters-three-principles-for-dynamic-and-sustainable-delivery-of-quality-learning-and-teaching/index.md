@@ -13,8 +13,8 @@ previous:
   text: 'Orchestrating entangled relations to stretch the iron triangle: Observations
     from an LMS migration'
   url: /blog2/2022/10/10/orchestrating-entangled-relations-to-stretch-the-iron-triangle-observations-from-an-lms-migration/
-title: '"Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
-  delivery of quality learning and teaching"'
+title: "Gatherers, Weavers and Augmenters: Three principles for dynamic and sustainable
+  delivery of quality learning and teaching"
 type: post
 template: blog-post.html
 ---

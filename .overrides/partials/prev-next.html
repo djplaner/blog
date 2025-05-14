@@ -1,21 +1,50 @@
-
-
 {% if "next" in page.meta %}
-<nav class="md-footer__inner md-grid" aria-label="Footer"> <a href="{{ page.meta.next.url }}"
-    class="md-footer__link md-footer__link--prev" aria-label="Previous: {{ page.meta.next.text }}">
-    <div class="md-footer__button md-icon">
-      {% include ".icons/material/arrow-left.svg" %}
-    </div>
-    <div class="md-footer__title"> <span class="md-footer__direction"> Next </span>
-      <div class="md-ellipsis"> {{ page.meta.next.text }} </div>
-    </div>
-  </a> <a href="{{ page.meta.previous.url }}" class="md-footer__link md-footer__link--next"
-    aria-label="Next: {{ page.meta.previous.text }}">
-    <div class="md-footer__title"> <span class="md-footer__direction"> Previous </span>
-      <div class="md-ellipsis"> {{ page.meta.previous.text }} </div>
-    </div>
-    <div class="md-footer__button md-icon">
-      {% include ".icons/material/arrow-right.svg" %}
-    </div>
-  </a> </nav>
+<style>
+  .next-prev-grid {
+    display: flex;
+  }
+
+  .dj-next-item {
+    max-width: 50%;
+    width: 50%;
+  }
+
+  .dj-prev-item {
+    max-width: 50%;
+    width: 50%;
+  }
+
+  @media screen and (max-width: 44.9844em) {
+    .md-footer__link--prev .md-footer__title {
+      display: block;
+    }
+  }
+</style>
+
+<nav class="next-prev-grid" aria-label="Footer">
+  <div class="dj-prev-item">
+    <a href="{{ page.meta.previous.url }}" class="md-footer__link md-footer__link--prev"
+      aria-label="Previous: {{ page.meta.previous.text }}">
+      <div class="md-footer__button md-icon">
+        {% include ".icons/material/arrow-left.svg" %}
+      </div>
+      <div class="md-footer__title"> <span class="md-footer__direction"> Previous </span>
+        <div class="md-ellipsis"> {{ page.meta.previous.text }} </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="dj-next-item">
+    <a href="{{ page.meta.next.url }}" class="md-footer__link md-footer__link--next"
+      aria-label="Next: {{ page.meta.next.text }}">
+      <div class="md-footer__title"> <span class="md-footer__direction"> Next </span>
+        <div class="md-ellipsis"> {{ page.meta.next.text }} </div>
+      </div>
+      <div class="md-footer__button md-icon">
+        {% include ".icons/material/arrow-right.svg" %}
+      </div>
+    </a>
+  </div>
+</nav>
+
 {% endif %}

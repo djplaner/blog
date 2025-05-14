@@ -15,11 +15,11 @@ theme:
   palette: 
     - scheme: memexdark
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Switch to light mode
     - scheme: memexlight
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Switch to dark mode
 
   #  favicon: attachment/portrait.png
