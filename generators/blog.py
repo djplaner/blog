@@ -210,37 +210,50 @@ def generateFeeds(blogItems):
     """
  
     mostRecent = blogItems[:NUM_POSTS_HOME_PAGE]
+    mostRecent.reverse()
+    
 
     #-- set up the feed
     fg=FeedGenerator()
     fg.id('http://lernfunk.de/media/654321')
     fg.title('Some assemblage required')
+    fg.subtitle('Life, technology, and lived environments')
     fg.author( {'name':'David Jones','email':'davidthomjones@gmail.com'} )
     fg.link( href='http://djon.es/blog', rel='self' )
     fg.language('en-AU')
-    fg.description('Some assemblage required - a blog about learning, teaching and technology')
+    fg.description('An old guy aiming to tinker with "technologies" for positive ends')
+    fg.updated(mostRecent[0]['yaml']['date'])
 
     #-- add each item to the feed
     for item in mostRecent:
         #-- convert date to RFC 2822 format
         date = item['yaml']['date'].strftime("%a, %d %b %Y %H:%M:%S +0000")
         fe = fg.add_entry()
-        fe.title(item['yaml']['title'])
+        fe.title(title=item['yaml']['title'])
         path = f'{BLOG_URL}{item["path"].replace( "docs/", "").replace("index.md", "")}'
+
+        #-- add post's categories
+        categories = []
+        for category in item['yaml']['categories']:
+            categories.append({"term":category})
+        fe.category(categories)
+
 #        print(f"Adding {path} to feed")
         #input("Press Enter to continue...")
         fe.id(path)
-        fe.title(item['yaml']['title'])
-#        fe.link(href=f"{BLOG_URL}feed/") # TODO is this the correct link?
-#        fe.pubDate(date)
+        fe.author({'name':'David Jones','email':'davidthomjones@gmail.com'})
+        fe.link(href=f"{path}", rel="alternate") # TODO is this the correct link?
+#        pprint(item)
+#        quit()
+        fe.published(published=date)
 #        fe.category(item['yaml']['categories']) # TODO category is meant to be one tag for each category
 
         #-- prepare the content, extract first paragraph as HTML
         content = item['content'].replace("See also: [[blog-home | Home]]", "")
         htmlContent = markdown.markdown(content)
         soup = BeautifulSoup(htmlContent, 'html.parser')
-        content = f"<p>{soup.find_all('p')[0].text}<a href=\"{path}\">...more...</a></p>"
-        fe.description(content) # TODO extract first collection of content
+        #content = f"<p>{soup.find_all('p')[0].text}<a href=\"{path}\">...more...</a></p>"
+        fe.description(htmlContent) # TODO extract first collection of content
 
     #-- write the feed to a file
 #    with mkdocs_gen_files.open(f"{BLOG_FOLDER}feed/index.md", "w") as f:
