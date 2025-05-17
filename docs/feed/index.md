@@ -1,6 +1,6 @@
 ---
 title: Feed
-type: feed
+type: note
 ---
 
-[Feed](./feed.rss)
+[RSS Feed available](./feed.rss)

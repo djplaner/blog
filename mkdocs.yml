@@ -2,7 +2,7 @@
 site_name: "Some Assemblage Required"
 site_url: https://djon.es/blog2/
 #site_url: http://localhost:8000/blog2/
-#repo_url: https://github.com/djplaner/blog
+repo_url: https://github.com/djplaner/blog
 site_author: "David Jones"
 site_dir: ../blog2 # stick HTML outside main repo
 use_directory_urls: false
@@ -114,6 +114,8 @@ extra:
 nav:
   - Home: index.md
   - About: about.md
+  - Categories: category/index.md
+  - Archives: archives/index.md
 #  - Pages: pages.md
 #  - Posts: posts.md
 

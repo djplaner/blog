@@ -27,8 +27,9 @@ def getBlogStats( ):
         #date = item['yaml']['date'].strftime("%a, %d %b %Y %H:%M:%S +0000")
     ## convert firstPost to DD MMM YYYY
     for day in ['firstPost', 'lastPost']:
-        dateStr = datetime.datetime.strptime(data[day], "%Y-%m-%d %H:%M:%S%z")
-        data[day] = dateStr.strftime("%A, %-d %B %Y %H:%M:%S")
+        if data[day]!="n/a":
+            dateStr = datetime.datetime.strptime(data[day], "%Y-%m-%d %H:%M:%S%z")
+            data[day] = dateStr.strftime("%A, %-d %B %Y %H:%M:%S")
     output = f"""
 | Statistic | Value |
 | ---- | ----- |

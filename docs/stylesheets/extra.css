@@ -1,4 +1,17 @@
 
+html {
+  font-size: calc(125% * 1.1); /* <- 1.1 equals + 10% – adjust to taste */
+}
+
+.md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {
+    border: .05rem solid var(--md-code-fg-color);
+    border-radius: .1rem;
+    display: block;
+    margin: 0;
+    padding: .8rem;
+    transition: border .25s,box-shadow .25s;
+}
+
  [data-md-color-scheme="memexdark"] .md-main {
   background: #100775;
 background: linear-gradient(280deg, rgba(16, 7, 117, 1) 0%, rgba(10, 5, 79, 1) 50%, rgba(4, 10, 46, 1) 100%);
