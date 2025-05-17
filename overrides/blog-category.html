@@ -3,7 +3,6 @@
 {% block extrahead %}
 <link rel="alternate" type="application/rss+xml" title="Some assemblage required &raquo; Feed"
   href="{{ config.site_url }}feed/feed.rss" />
-/>
 {% endblock %}
 
 
@@ -22,12 +21,20 @@
     font-weight: bold;
   }
 </style>
+{% if page.meta.item_value %}
+{% set item_value = page.meta.item_value %}
+{% else %}
+  {% if page.meta.item_count == 1 %}
+  {% set item_value = "item" %}
+  {% else %}
+  {% set item_value = "items" %}
+  {% endif %}
+{% endif %}
+
 <div class="md-content" data-md-component="content">
   {% include "partials/prev-next.html" %}
   <div class="category">
-    <h2>{{ page.meta.title }} ({{ page.meta.item_count }}
-      {% if page.meta.item_count == 1 %}item){% else %}items){% endif %}
-    </h2>
+    <h2>{{ page.meta.title }} ({{ page.meta.item_count }} {{ item_value }})</h2>
   </div>
 
   <article class="md-content__inner md-typeset">

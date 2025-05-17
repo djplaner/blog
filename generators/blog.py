@@ -51,7 +51,7 @@ def generateCategoryPage(categoryName, items, next, previous):
 #    pprint(items)
 
     yamlData = {
-        'title': f"Items for {categoryName}",
+        'title': f"Items for category <em>{categoryName}</em>",
         'type': 'blog_category',
         'template': 'blog-category.html',
         'item_count': len(items),
@@ -81,9 +81,9 @@ def generateCategoryPage(categoryName, items, next, previous):
 
         for item in items:
             itemContent = generateItemContent(item)
-            f.write("""See also: [Categories](./index.md) 
-<br />
-""")
+#            f.write("""See also: [Categories](./index.md) 
+#
+#""")
             f.write(itemContent)
 
     mkdocs_gen_files.set_edit_path( f"{BLOG_FOLDER}category/{categoryName}.md", "blog.py")
@@ -102,6 +102,7 @@ def generateCategoryHomePage(categoryNames : dict):
         'type': 'blog_category',
         'template': 'blog-category.html',
         'item_count': len(categories),
+        'item_value': 'categories',
     }
 
     pluralizer = Pluralizer()
@@ -356,9 +357,40 @@ def extractMonths(posts):
 
     return monthPosts
 
+def splitArchivesByYear(archives):
+    """
+    Given a list of dicts sorted by date with values
+        { 'month': 'January', 'year': 2023, 'count': 3, 'posts': [<list of posts>] }
+    Return a dict of dicts organising the archives by year
+    {
+        YYYY: {
+            MM: {
+                count: <number of posts in month>,
+                year: YYYY,
+                month: MM,
+                posts: [<list of posts>]
+            }
+    }
+
+    params: archives : list of dicts containing the months and years
+    returns a dict of dicts in the structure
+    """
+
+    yearArchives = {}
+    for item in archives:
+        month = item['month']
+        year = item['year']
+
+        if year not in yearArchives:
+            yearArchives[year] = []
+        yearArchives[year].append(item)
+
+    return yearArchives
+
 def generateArchivesHome(archives):
     """
     Generate the ~/archives/index.md page with a list of all the months with links
+    The list is divided up by year, with cards for the year's months following.
 
     params: archives : dict of months (keys) and their items (values) - sorted by date
         { 'month': 'January', 'year': 2023, 'count': 3, 'posts': [<list of posts>] }
@@ -369,7 +401,10 @@ def generateArchivesHome(archives):
         'type': 'blog_category',
         'template': 'blog-category.html',
         'item_count': len(archives),
+        'item_value': 'months'
     }
+
+    yearArchives = splitArchivesByYear(archives)
 
     pluralizer = Pluralizer()
 
@@ -379,14 +414,16 @@ def generateArchivesHome(archives):
         yaml.dump(yamlData, f )
         f.write("""---
 
-<div class="grid cards" markdown>
 """)
 
-        for archive in archives:
-            #-- convert date to YYYY-MM
-            f.write(f"- :material-view-list: [{archive['month']} {archive['year']}](./{archive['month']}-{archive['year']}.md) - {archive['count']} {pluralizer.pluralize('items', archive['count'], False)}\n")
+        #-- for each year, add a card for each month from that year with posts
+        for year in yearArchives.keys():
+            f.write(f"## {year}\n")
+            f.write('<div class="grid cards" markdown>')
+            for item in yearArchives[year]:
+                f.write(f"- :material-view-list: [{item['month']} {item['year']}](./{item['month']}-{item['year']}.md) - {item['count']} {pluralizer.pluralize('items', item['count'], False)}\n")
 
-        f.write("</div>\n")
+            f.write("</div>\n")
 
     mkdocs_gen_files.set_edit_path( f"{BLOG_FOLDER}archives/index.md", "blog.py")
 
