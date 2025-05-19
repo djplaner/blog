@@ -5,10 +5,10 @@ categories:
 date: 2011-03-08 11:42:50+10:00
 next:
   text: '"Week 2: Pedagogical Content Knowledge"'
-  url: /blog2/2011/03/08/week-2-pedagogical-content-knowledge/
+  url: /blog/2011/03/08/week-2-pedagogical-content-knowledge/
 previous:
   text: Reflection on the mobile phones wiki
-  url: /blog2/2011/03/08/reflection-on-the-mobile-phones-wiki/
+  url: /blog/2011/03/08/reflection-on-the-mobile-phones-wiki/
 title: Creating a framework for eLearning design
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ Being the type of person I am (generally described as "pain in the arse"), I hav
 - The missing instructional design theory/framework.  
     We're being asked to work with only two frameworks, which don't necessarily appear to provide complete coverage for all sets of learning design. Learning engagement theory describes a particular model for a learning process/design: Relate, Create, Donate. Bloom's taxonomy defines a set of cognitive levels we might want students to achieve while going through the learning process. But neither offer any guidance about how to design learning, i.e. it's missing an instructional design theory/framework.
 - What are we designing?  
-    Are we designing an activity like the [Mobile phone wiki](/blog2/2011/03/08/reflection-on-the-mobile-phones-wiki/), a complete lesson, a complete course/unit? It's possible that these frameworks could be applied at each of these levels, however, if I were working a complete course level, I'd probably be looking for some diversity, some additional frameworks/approaches.
+    Are we designing an activity like the [Mobile phone wiki](/blog/2011/03/08/reflection-on-the-mobile-phones-wiki/), a complete lesson, a complete course/unit? It's possible that these frameworks could be applied at each of these levels, however, if I were working a complete course level, I'd probably be looking for some diversity, some additional frameworks/approaches.
 
 In the end the assessment is set. We have to do it. So, it's time to work around those concerns and or get answers.
 

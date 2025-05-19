@@ -4,10 +4,10 @@ categories:
 date: 2006-09-28 08:09:45+10:00
 next:
   text: Social computing
-  url: /blog2/2006/09/28/social-computering/
+  url: /blog/2006/09/28/social-computering/
 previous:
   text: Adoption of Web 2.0
-  url: /blog2/2006/09/27/adoption-of-web-20/
+  url: /blog/2006/09/27/adoption-of-web-20/
 title: Web 2.0 - change in people and society
 type: post
 template: blog-post.html

@@ -6,10 +6,10 @@ categories:
 date: 2013-04-30 11:53:51+10:00
 next:
   text: Everything old is new again
-  url: /blog2/2013/05/04/everything-old-is-new-again/
+  url: /blog/2013/05/04/everything-old-is-new-again/
 previous:
   text: How Knowledge Workers like to learn and implications for BIM and LMS design
-  url: /blog2/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/
+  url: /blog/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/
 title: How to capture the "full benefits of the creative, original and imaginative
   efforts of" teaching staff
 type: post
@@ -248,7 +248,7 @@ I don't think anyone could claim that the institutional governance processes aro
 
 This is not to suggest there isn't some level of need for these processes to ensure the availability of institutional systems. It is to suggest that if you want "creative, original and imaginative" efforts then the processes need (I would argue) to be able to to support the ideas an challenges coming from individuals and small groups".
 
-For example, as [mentioned previously](/blog2/2013/03/18/bim-why-and-what/) as part of the case for getting BIM installed on the institutional version of Moodle I had to explain why others might use it. It seemed that the governance processes/bodies etc didn't know that there were 30 odd courses this year that were using learning journals of one type or another that might have benefited from BIM. There appears to be a lack of knowledge of the ideas and challenges of teaching staff and students with institutional e-learning systems within the priority setting mechanisms that "govern" them.
+For example, as [mentioned previously](/blog/2013/03/18/bim-why-and-what/) as part of the case for getting BIM installed on the institutional version of Moodle I had to explain why others might use it. It seemed that the governance processes/bodies etc didn't know that there were 30 odd courses this year that were using learning journals of one type or another that might have benefited from BIM. There appears to be a lack of knowledge of the ideas and challenges of teaching staff and students with institutional e-learning systems within the priority setting mechanisms that "govern" them.
 
 The trouble with this type of argument is that it's strange. Perhaps because of the lack of knowledge about the issues and challenges, it's impossible for those responsible to see a problem with the priority setting mechanisms. Or perhaps it's an example of the following.
 

@@ -4,10 +4,10 @@ categories:
 date: 2011-10-16 08:05:37+10:00
 next:
   text: Turning point 2.0
-  url: /blog2/2011/11/10/turning-point-2-0/
+  url: /blog/2011/11/10/turning-point-2-0/
 previous:
   text: '&quot;Clickers&quot;, success, and why do I feel dirty?'
-  url: /blog2/2011/10/09/clickers-success-and-why-do-i-feel-dirty/
+  url: /blog/2011/10/09/clickers-success-and-why-do-i-feel-dirty/
 tags:
 - acara
 - national-curriculum
@@ -129,7 +129,7 @@ But it also appears to be not the motive of the folk developing these plans. In 
 
 Apparently this aim fits with a goal of Education Queensland _one vision, one curriculum, one platform, different ways._
 
-Based on my ad hoc and limited observations, it appears more likely that there may not be a lot of difference (at least initially) in those different ways. In fact, on reflection, this seems to be unfolding in ways similar to the question about [whether minimum standards become maximum standards](/blog2/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/). It appears likely that this approach will suffer the problem identified by Cavallo (2004)
+Based on my ad hoc and limited observations, it appears more likely that there may not be a lot of difference (at least initially) in those different ways. In fact, on reflection, this seems to be unfolding in ways similar to the question about [whether minimum standards become maximum standards](/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/). It appears likely that this approach will suffer the problem identified by Cavallo (2004)
 
 > grafting a series of discrete treatments into a complex system and assuming they will be applied faithfully and uniformly and will fit into the existing local cultures.
 

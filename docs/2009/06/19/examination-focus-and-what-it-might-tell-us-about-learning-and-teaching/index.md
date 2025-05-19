@@ -7,10 +7,10 @@ date: 2009-06-19 10:19:52+10:00
 next:
   text: Why minimium standards (probably) won't work and will probably become maximum
     standards
-  url: /blog2/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
+  url: /blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
 previous:
   text: The planning fallacy, innovation and ateleological design
-  url: /blog2/2009/06/18/the-planning-fallacy-innovation-and-ateleological-design/
+  url: /blog/2009/06/18/the-planning-fallacy-innovation-and-ateleological-design/
 title: Examination focus and what it might tell us about learning and teaching
 type: post
 template: blog-post.html
@@ -19,7 +19,7 @@ Phillips (2005) includes the following quote
 
 > In most university subjects, the dominant mode of teaching consists of lectures, tutorials and laboratory practical sessions (Laurillard 2002: 81), with assessment strongly focussed on examinations.
 
-This has some connections with some work a colleague and I are doing around [what history can tell us about e-learning](/blog2/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/) and some ideas I have about experimenting with the [assumptions and/or mythic nature underlying lectures](/blog2/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/).
+This has some connections with some work a colleague and I are doing around [what history can tell us about e-learning](/blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/) and some ideas I have about experimenting with the [assumptions and/or mythic nature underlying lectures](/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/).
 
 ### History
 

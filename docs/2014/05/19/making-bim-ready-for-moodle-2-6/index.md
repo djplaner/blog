@@ -4,10 +4,10 @@ categories:
 date: 2014-05-19 13:39:10+10:00
 next:
   text: Tracking task corruption with Moodle activity completion
-  url: /blog2/2014/06/14/tracking-task-corruption-with-moodle-activity-completion/
+  url: /blog/2014/06/14/tracking-task-corruption-with-moodle-activity-completion/
 previous:
   text: Does my course suffer from semester droop?
-  url: /blog2/2014/05/09/does-my-course-suffer-from-semester-droop/
+  url: /blog/2014/05/09/does-my-course-suffer-from-semester-droop/
 title: Making BIM ready for Moodle 2.6
 type: post
 template: blog-post.html
@@ -16,7 +16,7 @@ The very nice folk from my institution's ICT group warned me back in March that
 
 > I have started work on the moodle 2.6 upgrade that will be happening midyear and have come across some deprecation warning from BIM. Just giving you plenty of notice that an updated version will be needed before release.
 
-That was just as my first use of [BIM](/blog2/research/bam-blog-aggregation-management/) on the institution's servers was getting underway. That's gone reasonably well and it will be continuing (and hopefully expanding as I learn more about what's required and possible with the approach) next semester, so I better get BIM playing nicely with 2.6. That's what this post is reporting on.
+That was just as my first use of [BIM](/blog/research/bam-blog-aggregation-management/) on the institution's servers was getting underway. That's gone reasonably well and it will be continuing (and hopefully expanding as I learn more about what's required and possible with the approach) next semester, so I better get BIM playing nicely with 2.6. That's what this post is reporting on.
 
 BIM for Moodle 2.6 (and also 2.5) is available from [the BIM plugin database entry](https://moodle.org/plugins/pluginversions.php?plugin=mod_bim) and also [from GitHub](https://github.com/djplaner/moodle-mod_bim).
 
@@ -28,7 +28,7 @@ So that's [the first change](http://docs.moodle.org/26/en/admin/environment/php_
 
 ### Get BIM installed
 
-I'm doing this so irregularly now it's good that I actually documented this [last time](/blog2/2014/02/07/bim-testing-and-fixes/).
+I'm doing this so irregularly now it's good that I actually documented this [last time](/blog/2014/02/07/bim-testing-and-fixes/).
 
 That all appears to be working. Ahh, but I haven't turned the debugging all the way up to annoying yet.
 

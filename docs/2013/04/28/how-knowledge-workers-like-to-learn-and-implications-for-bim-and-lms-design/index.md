@@ -5,11 +5,11 @@ date: 2013-04-28 09:45:20+10:00
 next:
   text: How to capture the "full benefits of the creative, original and imaginative
     efforts of" teaching staff
-  url: /blog2/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/
+  url: /blog/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/
 previous:
   text: Making e-learning tools that are more supportive - BIM, TPACK and truncated
     feeds
-  url: /blog2/2013/04/19/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds/
+  url: /blog/2013/04/19/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds/
 title: How Knowledge Workers like to learn and implications for BIM and LMS design
 type: post
 template: blog-post.html
@@ -155,7 +155,7 @@ I found out last week that [the abstract](http://moodlemoot.org.au/mod/book/view
 
 The focus on institutional e-learning tools is mainly one of self-interest. I have to work with these tools in my current position and I want better tools. If my research can help my teaching, then it's two birds and one stone.
 
-In [an earlier post](/blog2/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) I gave an initial idea of the "knowledge" problem that is one area with potential for improvement. i.e. most of the existing e-learning tools do less than a stellar job of helping teachers and students develop/access the sort of knowledge needed to get the most out of e-learning.
+In [an earlier post](/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) I gave an initial idea of the "knowledge" problem that is one area with potential for improvement. i.e. most of the existing e-learning tools do less than a stellar job of helping teachers and students develop/access the sort of knowledge needed to get the most out of e-learning.
 
 This morning, first [Stephen Downes](http://www.downes.ca/post/60349) and then [Steve Wheeler](http://steve-wheeler.blogspot.ca/2013/04/turning-over-new-leaf.html) took me over to Jane Hart's [5 characteristics of how Knowledge Workers like to learn at work](http://www.c4lpt.co.uk/blog/2013/04/25/5-characteristics/). A post that describes findings from [a 2013 "Learning in the Workplace" survey](http://www.c4lpt.co.uk/blog/2013/04/22/company-training-of-little-value/) with 600 respondents from 46 countries. The image below summarises the 5 characteristics.
 
@@ -169,7 +169,7 @@ The first characteristic is "**In the flow of work**" which Hart describes as
 
 > Workers don’t want to leave the workflow unless it is absolutely necessary for them to do. This means EITHER physically to go to a classroom OR virtually to work on an online course for an extended period of time (i.e more than about 10-15 mins) and/or which is more than a couple of mouseclicks away. (Taking a course at your desk, doesn’t mean it’s in the workflow!) Workers prefer to learn as an integral (NOT an extra) part of their daily job and not separately from it, either.
 
-This resonates with me. For better or for worse, when I'm currently teaching "in the flow of work" means within my Moodle course site. The Moodle course site is the learning environment I work most in. If I want to learn - be it something about the students in my course or some new pedagogical strategy or technological technique - I would prefer it to be in the flow of work. i.e. in the Moodle environment. When I'm using [BIM](/blog2/research/bam-blog-aggregation-management/) (or any other tool) I want it to be able to help me learn about my students, their learning and how I can improve it. I don't want to book a session with an instructional designer or attend a scheduled training session. Raising the questions of what shape might this take and how might you do it?
+This resonates with me. For better or for worse, when I'm currently teaching "in the flow of work" means within my Moodle course site. The Moodle course site is the learning environment I work most in. If I want to learn - be it something about the students in my course or some new pedagogical strategy or technological technique - I would prefer it to be in the flow of work. i.e. in the Moodle environment. When I'm using [BIM](/blog/research/bam-blog-aggregation-management/) (or any other tool) I want it to be able to help me learn about my students, their learning and how I can improve it. I don't want to book a session with an instructional designer or attend a scheduled training session. Raising the questions of what shape might this take and how might you do it?
 
 The remaining characteristics offer similar suggestions. In particular, **Immediately**
 

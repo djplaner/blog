@@ -4,15 +4,15 @@ categories:
 date: 2009-12-17 10:02:31+10:00
 next:
   text: BIM - Getting "show student details" working
-  url: /blog2/2009/12/17/bim-getting-show-student-details-working/
+  url: /blog/2009/12/17/bim-getting-show-student-details-working/
 previous:
   text: BIM and Moodle development - a more coherent overview found?
-  url: /blog2/2009/12/15/bim-and-moodle-a-more-coherent-overview/
+  url: /blog/2009/12/15/bim-and-moodle-a-more-coherent-overview/
 title: BIM - getting student registration working
 type: post
 template: blog-post.html
 ---
-So, getting back into BIM development. [The last post](/blog2/2009/12/14/getting-back-into-bim-summary-and-way-forward/) reminded me where I'm up to. The following is an attempt to plan, implement and document some code. Am starting where I left off, with the registration process for students. As part of this process I am finally starting to use the [to do list](/blog2/research/bam-blog-aggregation-management/bim-to-do-list/) for what it was meant to be used for.
+So, getting back into BIM development. [The last post](/blog/2009/12/14/getting-back-into-bim-summary-and-way-forward/) reminded me where I'm up to. The following is an attempt to plan, implement and document some code. Am starting where I left off, with the registration process for students. As part of this process I am finally starting to use the [to do list](/blog/research/bam-blog-aggregation-management/bim-to-do-list/) for what it was meant to be used for.
 
 ### Properly creating the form
 
@@ -43,7 +43,7 @@ At this stage, I'm again suffering my standard problem with Moodle. There seems 
 
 #### Moving forward
 
-It was at this stage that I discovered [a book](http://www.packtpub.com/moodle-1-9-extension-development/book) that promises to give a more coherent overview of the task of creating an activity module. [Initial impressions](/blog2/2009/12/15/bim-and-moodle-a-more-coherent-overview/) are okay. The true test will be in the work I describe below.
+It was at this stage that I discovered [a book](http://www.packtpub.com/moodle-1-9-extension-development/book) that promises to give a more coherent overview of the task of creating an activity module. [Initial impressions](/blog/2009/12/15/bim-and-moodle-a-more-coherent-overview/) are okay. The true test will be in the work I describe below.
 
 Using the moodleform class. I've been able to get the form being displayed. So, the next steps are:
 

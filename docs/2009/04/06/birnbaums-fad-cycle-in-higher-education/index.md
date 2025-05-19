@@ -8,11 +8,11 @@ categories:
 date: 2009-04-06 15:31:52+10:00
 next:
   text: Early indications of "blame the student" that continues today
-  url: /blog2/2009/04/06/early-indications-of-blame-the-student-that-continues-today/
+  url: /blog/2009/04/06/early-indications-of-blame-the-student-that-continues-today/
 previous:
   text: Quotes from Snowden and the mismatch between what univeristy e-learning does
     and what it needs
-  url: /blog2/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/
+  url: /blog/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/
 title: Birnbaum's fad cycle in higher education
 type: post
 template: blog-post.html
@@ -330,7 +330,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In [a previous post](/blog2/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/) I gave an early conceptualisation of a cycle I was seeing in the history of educational technology I've been working on as part of the "Past Experience" section of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) - chapter 2 of my [thesis](/blog2/research/phd-thesis/). In this post I try and give an overview of a similar cycle already well established: Birnbaum's (2000) Life Cycle of the Fads Process.
+In [a previous post](/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/) I gave an early conceptualisation of a cycle I was seeing in the history of educational technology I've been working on as part of the "Past Experience" section of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) - chapter 2 of my [thesis](/blog/research/phd-thesis/). In this post I try and give an overview of a similar cycle already well established: Birnbaum's (2000) Life Cycle of the Fads Process.
 
 As I near the end of this post, I recognise the overlap/connection with [Gartner's Hype Cycle](http://en.wikipedia.org/wiki/Hype_cycle), so I've added some discussion of that. Since it appears to pre-date Birnbaum's work.
 
@@ -409,7 +409,7 @@ The following image is an attempt to connect the two in someway. There remains t
 
 ### The next step?
 
-I believe it is possible to see evidence of these cycles, or at least something close to it - especially Birnbaum's - in the history of technology-mediated learning. My interest in this arises from the section of the PhD I'm working on - Past Experience. In a [previous post](/blog2/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/) I proposed a much simpler/simplistic cycle:
+I believe it is possible to see evidence of these cycles, or at least something close to it - especially Birnbaum's - in the history of technology-mediated learning. My interest in this arises from the section of the PhD I'm working on - Past Experience. In a [previous post](/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/) I proposed a much simpler/simplistic cycle:
 
 1. Recognition of the revolution.
 2. Creation of the technologists alliance.

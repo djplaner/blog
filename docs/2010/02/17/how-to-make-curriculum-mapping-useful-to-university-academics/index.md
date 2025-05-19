@@ -7,10 +7,10 @@ categories:
 date: 2010-02-17 11:19:54+10:00
 next:
   text: The current state of curriculum mapping in/with Moodle
-  url: /blog2/2010/02/20/the-current-state-of-curriculum-mapping-inwith-moodle/
+  url: /blog/2010/02/20/the-current-state-of-curriculum-mapping-inwith-moodle/
 previous:
   text: BIM 1.0alpha is released
-  url: /blog2/2010/02/15/bim-1-0alpha-is-released/
+  url: /blog/2010/02/15/bim-1-0alpha-is-released/
 title: How to make curriculum mapping useful to university academics
 type: post
 template: blog-post.html
@@ -96,7 +96,7 @@ Just to be sure that we're talking about the same thing, the following offers so
 
 > Curriculum mapping is a representation of the different components of the curriculum in order that the whole picture and the relationships between the components of the curriculum can be easily understood (Harden 2001). Curriculum mapping displays the essential features of the curriculum in a clear and succinct manner (Prideaux 2003) and provides a context for planning and discussing the curriculum (Holycross 2006).
 
-If you want more information, the above quote is taken [from this report](/blog2/2009/12/21/supporting-curriculum-mapping/).
+If you want more information, the above quote is taken [from this report](/blog/2009/12/21/supporting-curriculum-mapping/).
 
 ### Problems with current practice
 
@@ -115,7 +115,7 @@ The following list is based on my observations, the literature and anecdotal rep
 
 In order to implement curriculum mapping across a program or institution, you have to design how you are going to do this. How you understand or represent the problem significantly impacts upon how you design your solution. Representation has a profound impact on design work (Hevner et al., 2004), particularly on the way in which tasks and problems are conceived (Boland, 2002). The formulation of the initial state into an effective representation is crucial to finding an effective design solution (Weber, 2003).
 
-I suggest that the process widely used to implement curriculum mapping is similar to most projects within organisations and universities. It is a [teleological process](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/). Truex et al (2000) identify a shared assumption about teleological design processes involving a three-stage rational sequence: “(1) determine goals, (2) determine steps and events that lead to these, (3) follow the steps and generate the events”.
+I suggest that the process widely used to implement curriculum mapping is similar to most projects within organisations and universities. It is a [teleological process](/blog/2009/06/05/teleological-design-definition-and-weaknesses/). Truex et al (2000) identify a shared assumption about teleological design processes involving a three-stage rational sequence: “(1) determine goals, (2) determine steps and events that lead to these, (3) follow the steps and generate the events”.
 
 In curriculum mapping this means some group, typically not coal-face teaching academics, identify the need for curriculum mapping. Common groups include accreditation agencies, quality assurance groups and other business and government bodies. In response to this need another group, generally some sort of central learning and teaching group, decides on a process to perform the curriculum map and then engages with and encourages academics to complete the curriculum map.
 

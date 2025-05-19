@@ -5,10 +5,10 @@ categories:
 date: 2013-04-19 10:44:12+10:00
 next:
   text: How Knowledge Workers like to learn and implications for BIM and LMS design
-  url: /blog2/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/
+  url: /blog/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/
 previous:
   text: And they don&#039;t even know enough to expect better
-  url: /blog2/2013/04/16/and-they-dont-even-know-enough-to-expect-better/
+  url: /blog/2013/04/16/and-they-dont-even-know-enough-to-expect-better/
 title: Making e-learning tools that are more supportive - BIM, TPACK and truncated
   feeds
 type: post
@@ -103,11 +103,11 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a mini-argument for and example of how the e-learning tools should be made more supportive. i.e. actually help the staff and students using them actively address common problems in a pro-active way. It continues some more thinking about an earlier question I asked, [Does institutional e-learning have a TPACK problem?"](/blog2/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) and hopefully will inform the on-going research and development around [BIM](/blog2/research/bam-blog-aggregation-management/) (now [officially released](/blog2/research/bam-blog-aggregation-management/) to the Moodle community) and also inform the [Moodlemoot'AU 2013](http://moodlemoot.org.au/) presentation I proposed.
+The following is a mini-argument for and example of how the e-learning tools should be made more supportive. i.e. actually help the staff and students using them actively address common problems in a pro-active way. It continues some more thinking about an earlier question I asked, [Does institutional e-learning have a TPACK problem?"](/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) and hopefully will inform the on-going research and development around [BIM](/blog/research/bam-blog-aggregation-management/) (now [officially released](/blog/research/bam-blog-aggregation-management/) to the Moodle community) and also inform the [Moodlemoot'AU 2013](http://moodlemoot.org.au/) presentation I proposed.
 
 ### The problem
 
-[The last post](/blog2/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) mentioned the recent research around the increasing workload faced by academics dealing with the current practice of e-learning in Australian Universities. One of the premises of my thinking is that a contributing factor to this workload pressure is that the tools aren't provided sufficient help.
+[The last post](/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) mentioned the recent research around the increasing workload faced by academics dealing with the current practice of e-learning in Australian Universities. One of the premises of my thinking is that a contributing factor to this workload pressure is that the tools aren't provided sufficient help.
 
 Just recently @masmithers re-tweeted an "oldie but goodie" blog post of his from 2011 - [eLearning at Universities: A Quality Assurance Free Zone?](http://www.masmithers.com/2011/02/19/elearning-at-universities-a-quality-assurance-free-zone/) - in which he reports on a range of poorly designed online courses he had seen. He talks about the "secret communion with students in the classroom" as one of the contributing factors for this. The comments on the post point to a range of other factors: "no requirement to have any teaching experience or qualifications" and limited (if any) funding for the move from on-campus to online (or dual mode). There are also a couple of comments along the lines of "we are at the mercy of crappy tools....If we’re going to build decent sites, we need decent tools" and connecting back to the workload question "spend extra hours and time away from my family trying to remediate what is essentially a bad system".
 
@@ -119,7 +119,7 @@ The questions I'm keen to explore are along the lines of
 
 ### A solution
 
-In the [previous post](/blog2/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) and my current line of thinking is that the TPACK (Technological Pedagogical And Content Knowledge) framework can provide a useful lens for thinking about this problem. The basic idea is that
+In the [previous post](/blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/) and my current line of thinking is that the TPACK (Technological Pedagogical And Content Knowledge) framework can provide a useful lens for thinking about this problem. The basic idea is that
 
 - TPACK proposes that it "identifies the knowledge teachers need to teach effectively with technology” (Koehler, n.d.).
 - This knowledge does not need to reside in each individual academic, the tools they use can help provide this knowledge (either directly or by providing in context connections to others).
@@ -127,7 +127,7 @@ In the [previous post](/blog2/2013/03/22/does-institutional-e-learning-have-a-tp
 
 ### An example
 
-[BIM](/blog2/research/bam-blog-aggregation-management/) is the tool that I plan to use to explore these ideas. It's a tool I wrote and hope to increasingly use in my own teaching. The following illustrates one idea for how BIM could be re-designed to better contribute to the overal TPACK required to "teach effectively with technology" (Koehler, n.d.).
+[BIM](/blog/research/bam-blog-aggregation-management/) is the tool that I plan to use to explore these ideas. It's a tool I wrote and hope to increasingly use in my own teaching. The following illustrates one idea for how BIM could be re-designed to better contribute to the overal TPACK required to "teach effectively with technology" (Koehler, n.d.).
 
 BIM is all about aggregating the posts students make to their own individual blogs. These blogs are hosted on whatever blogging platform they decide. BIM provides ways to mark (both manually and eventually automatically) the student posts.
 

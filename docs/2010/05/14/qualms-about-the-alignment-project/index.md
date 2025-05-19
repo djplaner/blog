@@ -4,10 +4,10 @@ categories:
 date: 2010-05-14 14:13:53+10:00
 next:
   text: Some tweaks to the indicators block
-  url: /blog2/2010/05/14/some-tweaks-to-the-indicators-block/
+  url: /blog/2010/05/14/some-tweaks-to-the-indicators-block/
 previous:
   text: Getting started with Col&#039;s indicators block
-  url: /blog2/2010/05/13/getting-started-with-cols-indicators-block/
+  url: /blog/2010/05/13/getting-started-with-cols-indicators-block/
 title: Qualms about the alignment project
 type: post
 template: blog-post.html
@@ -18,7 +18,7 @@ pingbacks:
     []
     
 ---
-Yesterday, I posted a [draft of an application](/blog2/2010/05/13/more-thinking-about-the-alignment-project/) for what is currently being called, the alignment project. [Stephen Downes](http://downes.ca/) has [commented](http://downes.ca/post/52394) on the alignment project in is [OLDaily](http://www.downes.ca/news/OLDaily.htm). Stephen's comments are
+Yesterday, I posted a [draft of an application](/blog/2010/05/13/more-thinking-about-the-alignment-project/) for what is currently being called, the alignment project. [Stephen Downes](http://downes.ca/) has [commented](http://downes.ca/post/52394) on the alignment project in is [OLDaily](http://www.downes.ca/news/OLDaily.htm). Stephen's comments are
 
 > This is totally not my approach, but a careful and detailed articulation of an alternative. It should be considered.....I would criticize the duality the approach presupposes, between 'quality' (alignment) and the disorganized 'lone wolf' approach to teaching.
 
@@ -39,9 +39,9 @@ I also think it unlikely that this is what will happen.
 The alignment project as described draws heavily on [John Biggs work on constructive alignment](http://www.johnbiggs.com.au/constructive_alignment.html). I've always had to qualms about constructive alignment:
 
 - Assumption of plan-driven or teleological design.  
-    Constructive alignments is a [teleological design process](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/). It assumes you can identify the outcomes at the start and use that as a basis to identify/design the actions necessary to get students there. A number of aspects of learning, even in its limited form of university-based learning, make me doubt whether or not this is really all that possible. The next point picks up on human agency, but other aspects include the inherent diversity in learners backgrounds, capabilities and aims. Even in higher education the talk is of the increasing diversity of students. Given that diversity, how do you claim to identify a set of outcomes that is suitable for all, let alone develop activities and assessments that are suitable for all?
+    Constructive alignments is a [teleological design process](/blog/2009/06/05/teleological-design-definition-and-weaknesses/). It assumes you can identify the outcomes at the start and use that as a basis to identify/design the actions necessary to get students there. A number of aspects of learning, even in its limited form of university-based learning, make me doubt whether or not this is really all that possible. The next point picks up on human agency, but other aspects include the inherent diversity in learners backgrounds, capabilities and aims. Even in higher education the talk is of the increasing diversity of students. Given that diversity, how do you claim to identify a set of outcomes that is suitable for all, let alone develop activities and assessments that are suitable for all?
     
-    I have a long standing preference for [ateleological design processes](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/) and have a (potentially forlorn) hope that the alignment project might be more ateleological than teleological.
+    I have a long standing preference for [ateleological design processes](/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/) and have a (potentially forlorn) hope that the alignment project might be more ateleological than teleological.
     
 - Assumption that you can "force" students to learn.  
     Here's a quote from Biggs (2001) that illustrates the assumption that troubles me
@@ -55,7 +55,7 @@ The alignment project as described draws heavily on [John Biggs work on construc
 
 ### Qualms about the reflective institution
 
-The alignment project is essentially aimed at implementing something that approaches Biggs (2001) idea of a reflective institution. The application [gives a summary](/blog2/2010/05/13/more-thinking-about-the-alignment-project/#stages) of the stages involved in achieving Bigg's goal. I've actually written [about the idea previously](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) back in February last year I wrote
+The alignment project is essentially aimed at implementing something that approaches Biggs (2001) idea of a reflective institution. The application [gives a summary](/blog/2010/05/13/more-thinking-about-the-alignment-project/#stages) of the stages involved in achieving Bigg's goal. I've actually written [about the idea previously](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) back in February last year I wrote
 
 > However, the detail of his suggested solution is, I think, hideously unworkable to such an extent as likely to have a negative impact on the quality of teaching if any institution of a decent size tried to implement it. As Biggs (2001) says, but about a slightly different aspect, “the practical problems are enormous”.
 > 
@@ -85,7 +85,7 @@ _Response?_ If that happens, I'm hoping we can continue with the project on a sm
 
 #### Teleological design
 
-_Qualm:_ As I've stated above, I don't think teleological design works. In particular, I don't think this is the way most academics approach the design of the teaching. The draft alignment project application actually cites literature that shows academics are mostly making minor changes to existing courses. [This post](/blog2/2010/03/05/design-processes-for-teaching/) expands on this literature. When I've seen constructive alignment in action, it's typically been as part of a large redesign of a course. For all sorts of reasons I think this is a failing.
+_Qualm:_ As I've stated above, I don't think teleological design works. In particular, I don't think this is the way most academics approach the design of the teaching. The draft alignment project application actually cites literature that shows academics are mostly making minor changes to existing courses. [This post](/blog/2010/03/05/design-processes-for-teaching/) expands on this literature. When I've seen constructive alignment in action, it's typically been as part of a large redesign of a course. For all sorts of reasons I think this is a failing.
 
 _Response?_ The methodology expressed in the project proposal recognises this and seeks to introduce the question of alignment in a way which fits with the focus academics have on minor modifications to existing teaching. The hope is that by making alignment a visible part of the tools and support around making minor modifications, then staff may start thinking about alignment and be able to make minor modifications that improve alignment. The aim is not massive redesign to ensure alignment. It's about minor changes that improve alignment.
 
@@ -101,7 +101,7 @@ In the project, I think this can be addressed by having people on the project re
 
 #### Corruption
 
-_Qualm:_ In terms of a likely outcome, I can see - given my comments about human agency above - that some/most academics would employ task corruption once the alignment project was in place. [Task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) is where an group or individual, consciously or unconsciously, adopts an approach to a task that either avoids or destroys the task. White (2006) talks about two approaches
+_Qualm:_ In terms of a likely outcome, I can see - given my comments about human agency above - that some/most academics would employ task corruption once the alignment project was in place. [Task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) is where an group or individual, consciously or unconsciously, adopts an approach to a task that either avoids or destroys the task. White (2006) talks about two approaches
 
 - amputation - where parts of the task are no longer performed; and
 - simulation - the emphasis is on being seen to have done the task, not actually to have done it.
@@ -115,7 +115,7 @@ _Response?_ In the end, I don't think there's anything that can prevent this fro
 
 #### Technological gravity
 
-_Qualm:_ Related to the above is the conception of technological gravity that McDonald and Gibbons (2009) define and which I've [posted about](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/) (and linked to edupunk). This idea is based on the idea of three major assumptions around learning and teaching:
+_Qualm:_ Related to the above is the conception of technological gravity that McDonald and Gibbons (2009) define and which I've [posted about](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/) (and linked to edupunk). This idea is based on the idea of three major assumptions around learning and teaching:
 
 1. Technology I - different technologies automatically lead people to develop quality instruction.  
     i.e. Moodle is an LMS designed with social-constructivist principles and it's open source. If the institution adopts Moodle then the quality of instruction will improve.
@@ -147,7 +147,7 @@ _Qualm:_ Stephen's qualms include
 
 I think this is based on the idea that any disorganised "lone wolf" approach to teaching is by definition not aligned and consequently can't be thought of quality teaching.
 
-_Response:_ I don't think the project can respond to this. The [first stage](/blog2/2010/05/13/more-thinking-about-the-alignment-project/#stages) of Bigg's (2001) reflective institution (and consequently of this project) is to make the quality model clear. The model in this case is some sense of alignment. Being aligned is by definition quality.
+_Response:_ I don't think the project can respond to this. The [first stage](/blog/2010/05/13/more-thinking-about-the-alignment-project/#stages) of Bigg's (2001) reflective institution (and consequently of this project) is to make the quality model clear. The model in this case is some sense of alignment. Being aligned is by definition quality.
 
 If you strongly believe in constructive alignment, then this is probably not a problem. However, as I outlined above, I have qualms about constructive alignment. If you asked most people around here whether I am a lone-wolf or a quality-focused/aligned kind, most would answer lone-wolf. Given these how can I justify this project and my involvement with it?
 
@@ -170,7 +170,7 @@ All of the above has got me thinking about why I'm pushing this project. Here ar
 
 #### I have a job
 
-At the simplest and most pragmatic level, I have a [job](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/. The institution pays me to do certain things that it deems important and ALTC grants are pretty high on the list of importance. If I want to continue to have a job, I need to demonstrate I'm fulfilling their goals.
+At the simplest and most pragmatic level, I have a [job](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/. The institution pays me to do certain things that it deems important and ALTC grants are pretty high on the list of importance. If I want to continue to have a job, I need to demonstrate I'm fulfilling their goals.
 
 That's not sufficient though. I also think I could enjoy the job (eventually) and generate some benefit broader than my personal employment.
 
@@ -178,9 +178,9 @@ That's not sufficient though. I also think I could enjoy the job (eventually) an
 
 As it happens earlier this week I was listening to [this discussion](http://www.downes.ca/cgi-bin/page.cgi?presentation=248) Stephen had in Argentina. One of the topics covered was that, in his opinion, the current educational system in which his "audience" were working within, is broken. One point being that it is very difficult, if not impossible, to use a lot of his approaches within such a broken system.
 
-In terms of the higher education sector in Australia, I agree with Stephen, the system is broken. Even worse, for some time I have been [dismayed](/blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/) at the increasingly prevalent broken approaches that are being adopted in the quest for improving the quality of L&T within that broken system. It's a common theme on this blog. What is currently being done within Australian universities to improve L&T will, at best, offer slight improvements for the folk who were already improving, or at worst, significantly decrease the overall quality of L&T (while at the same time showing "evidence" of improvement).
+In terms of the higher education sector in Australia, I agree with Stephen, the system is broken. Even worse, for some time I have been [dismayed](/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/) at the increasingly prevalent broken approaches that are being adopted in the quest for improving the quality of L&T within that broken system. It's a common theme on this blog. What is currently being done within Australian universities to improve L&T will, at best, offer slight improvements for the folk who were already improving, or at worst, significantly decrease the overall quality of L&T (while at the same time showing "evidence" of improvement).
 
-At this stage I come back to [some thinking](/blog2/2010/04/25/inside-out-outside-in-or-both/) about inside-out versus outside-in that was sparked by questions from [Leigh Blackall](http://leighblackall.blogspot.com/). In my job I think I have to come up with approaches that can change the system from the inside-out. It's an aim likely to fail.
+At this stage I come back to [some thinking](/blog/2010/04/25/inside-out-outside-in-or-both/) about inside-out versus outside-in that was sparked by questions from [Leigh Blackall](http://leighblackall.blogspot.com/). In my job I think I have to come up with approaches that can change the system from the inside-out. It's an aim likely to fail.
 
 To do this, you have to have some connection with what is being done within the system. Alignment is broadly and generally unquestioningly accepted within higher education, especially amongst the leadership. This project will be attractive because of this acceptance. Most have accepted the value of alignment. More importantly, in my experience most people can, from a common sense perspective ("Common sense is the collection of prejudices acquired by age eighteen"), accept the idea of alignment as a good thing. It's also a fairly simple thing to understand (though difficult to implement).
 

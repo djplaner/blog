@@ -5,10 +5,10 @@ categories:
 date: 2014-09-03 12:33:26+10:00
 next:
   text: The balkanisation threat to network learning
-  url: /blog2/2014/09/04/the-balkanisation-threat-to-network-learning/
+  url: /blog/2014/09/04/the-balkanisation-threat-to-network-learning/
 previous:
   text: Too much stuff, not enough time
-  url: /blog2/2014/09/02/too-much-stuff-not-enough-time/
+  url: /blog/2014/09/02/too-much-stuff-not-enough-time/
 title: Learning how to make waves
 type: post
 template: blog-post.html
@@ -140,7 +140,7 @@ Groom, J., & Lamb, B. (2014). [Reclaiming innovation](http://www.educause.edu/vi
 
 Johnson, L., Adams Becker, S., Estrada, V., & Freeman, A. (2014). NMC Horizon Report: 2014 Higher Education Edition. Austin, Texas.
 
-Jones, D. (2003). [How to live with ERP systems and thrive](/blog2/publications/how-to-live-with-erp-systems-and-thrive/). In Tertiary Education Management Conference’2003. Adelaide.
+Jones, D. (2003). [How to live with ERP systems and thrive](/blog/publications/how-to-live-with-erp-systems-and-thrive/). In Tertiary Education Management Conference’2003. Adelaide.
 
 Robey, D., Ross, W., & Boudreau, M.-C. (2002). Learning to implement enterprise systems: An exploratory study of the dialectics of change. Journal of Management Information Systems, 19(1), 17–46.
 

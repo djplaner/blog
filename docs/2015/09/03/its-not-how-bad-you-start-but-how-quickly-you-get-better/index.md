@@ -5,10 +5,10 @@ categories:
 date: 2015-09-03 14:27:11+10:00
 next:
   text: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
-  url: /blog2/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
+  url: /blog/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
 previous:
   text: All models are wrong, but some are useful and its application to e-learning
-  url: /blog2/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  url: /blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
 title: It's not how bad you start, but how quickly you get better
 type: post
 template: blog-post.html
@@ -69,6 +69,6 @@ From this they suggest that
 > 
 > The core ideas of Cognitive Systems Engineering (CSE) shift the question from overcoming limits to supporting adaptability and control (p. 2)
 
-Which has obvious links to my last post, ["All models are wrong"](/blog2/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/).
+Which has obvious links to my last post, ["All models are wrong"](/blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/).
 
 This is why organisations annoy me with their fetish for developing the one correct model (or system) and requiring that everyone should and can follow that one correct model.

@@ -4,10 +4,10 @@ categories:
 date: 2009-07-23 09:56:43+10:00
 next:
   text: '"BAM into Moodle Step #4 - Learning more about Moodle"'
-  url: /blog2/2009/07/23/bam-into-moodle-step-4-learning-more-about-moodle/
+  url: /blog/2009/07/23/bam-into-moodle-step-4-learning-more-about-moodle/
 previous:
   text: 'BAM into Moodle - Step #3 - some initial development?'
-  url: /blog2/2009/07/21/bam-into-moodle-step-3-some-initial-development/
+  url: /blog/2009/07/21/bam-into-moodle-step-3-some-initial-development/
 title: Improving CEQ Outcomes
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-As part of [my new position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to identify opportunities, trends etc around learning and teaching and inform the local institutional community of them. The following is the first of those reports. I've attempted to keep the explanation as short as possible as I'm uncertain the type of folk I'm writing this for are likely to read long essays.
+As part of [my new position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to identify opportunities, trends etc around learning and teaching and inform the local institutional community of them. The following is the first of those reports. I've attempted to keep the explanation as short as possible as I'm uncertain the type of folk I'm writing this for are likely to read long essays.
 
 It could be interpreted as a fairly questionable approach. However, I have a few theoretically perspectives on how to create sustainable improvement in L&T within a University that suggests that this is a good way to do it. It's meant to be only the first step.
 

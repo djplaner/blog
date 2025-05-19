@@ -5,10 +5,10 @@ categories:
 date: 2010-09-16 12:15:28+10:00
 next:
   text: Principles of implementation
-  url: /blog2/2010/09/17/principles-of-implementation/
+  url: /blog/2010/09/17/principles-of-implementation/
 previous:
   text: Principles of form and function
-  url: /blog2/2010/09/15/principles-of-form-and-function/
+  url: /blog/2010/09/15/principles-of-form-and-function/
 title: Alan Kay and some reasons why the educational technology revolution hasn't
   happened
 type: post

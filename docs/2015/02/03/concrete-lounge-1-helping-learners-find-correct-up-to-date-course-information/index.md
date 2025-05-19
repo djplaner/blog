@@ -6,10 +6,10 @@ categories:
 date: 2015-02-03 12:26:43+10:00
 next:
   text: Metaphors and organisational change
-  url: /blog2/2015/02/06/metaphors-and-organisational-change/
+  url: /blog/2015/02/06/metaphors-and-organisational-change/
 previous:
   text: Learning analytics is better when.....?
-  url: /blog2/2015/02/02/learning-analytics-is-better-when/
+  url: /blog/2015/02/02/learning-analytics-is-better-when/
 title: '"Concrete lounge #1 - Helping learners find correct, up-to-date course information"'
 type: post
 template: blog-post.html
@@ -87,7 +87,7 @@ The task this post focuses on is
 
 Information such as what they should be doing each week, what is the assesment, when is it due etc. Both learning and administrative information. If students can't find this information it impacts their learning.
 
-There are suggestions that finding such information at my current institution is a concern that has driven [some institutional practices](/blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/).
+There are suggestions that finding such information at my current institution is a concern that has driven [some institutional practices](/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/).
 
 ## Context
 
@@ -129,7 +129,7 @@ This is information that the students will need multiple times throughout the se
 
 You may also see from the above image that there is also a quite prominent menu in the left-hand column. A menu that appears to point to some of the same information (e.g. study schedule, assessment). This is a new feature of the institutional theme for Moodle that has been rolled out by my university.
 
-It does help address this problem. But amongst other problems I've [discussed earlier](/blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/) this particular prominent menu provides no scope to add course specific general information. For example, I can't add a "Register blog - check posts" link.
+It does help address this problem. But amongst other problems I've [discussed earlier](/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/) this particular prominent menu provides no scope to add course specific general information. For example, I can't add a "Register blog - check posts" link.
 
 ### Scroll of death
 
@@ -156,7 +156,7 @@ Here's an overview of the various workarounds I've employed to address the limit
 
 ### No search engine
 
-In the past - as explained [in this post](/blog2/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/) - I have manually imported most of the course content into Evernote and made it [open to the public](https://www.evernote.com/pub/davidthomjones/edc3100ictandpedagogy-2014#st=p). This allows the use of the simple search engine provided by Evernote.
+In the past - as explained [in this post](/blog/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/) - I have manually imported most of the course content into Evernote and made it [open to the public](https://www.evernote.com/pub/davidthomjones/edc3100ictandpedagogy-2014#st=p). This allows the use of the simple search engine provided by Evernote.
 
 I won't be doing this in the future. It's too much work and difficult to keep the information in Evernote aligned with what's in the course site. I believe it's also somewhat difficult for students to connect this search result with what's in the course site.
 
@@ -184,7 +184,7 @@ The following shot of the next course site shows the addition of "skip navigatio
 
 The skip navigation in the previous screen shot, the study schedule shown above, and the week 1 learning path (also shown above) all display the title given to a week of semester and the dates for that week of semester. Traditionally, I've had to manually change all of this information. No longer.
 
-I've now implemented a [simple "macro" facility](/blog2/2014/01/22/a-moodle-course-site-wide-macro-facility/). This has been done by
+I've now implemented a [simple "macro" facility](/blog/2014/01/22/a-moodle-course-site-wide-macro-facility/). This has been done by
 
 1. Create a small jQuery/javascript file that
     1. Defines a range of variables and their values. 
@@ -218,7 +218,7 @@ Two interesting issues I'm waiting for
 
 This is just an initial stab. Needs more work.
 
-The argument we made in [this paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) was that the reason why this concrete lounge exists (and also the reason why I'm able to make these changes) is that university e-learning at the institutional level is informed by a [SET mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) whereas my practice is more informed by a [BAD mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset).
+The argument we made in [this paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) was that the reason why this concrete lounge exists (and also the reason why I'm able to make these changes) is that university e-learning at the institutional level is informed by a [SET mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) whereas my practice is more informed by a [BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset).
 
 The institutional practice is driven by strategic aims. Important institutional projects (such as the new institutional look and feel for Moodle) are the focus. It's what everyone is meant to work toward. Anything that doesn't fit within the strategic aims is seen as bad or below notice. A strategic project has to work at the level of the entire organisation, and not a the level of an individual course.
 

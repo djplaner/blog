@@ -5,10 +5,10 @@ categories:
 date: 2011-04-04 11:00:56+10:00
 next:
   text: How do you analyse and select an educational technology
-  url: /blog2/2011/04/04/how-do-you-analyse-and-select-an-educational-technology/
+  url: /blog/2011/04/04/how-do-you-analyse-and-select-an-educational-technology/
 previous:
   text: Reflections on a 12 year-old course site - It would be harder now
-  url: /blog2/2011/04/01/reflections-on-a-12-year-old-course-site-it-would-be-harder-now/
+  url: /blog/2011/04/01/reflections-on-a-12-year-old-course-site-it-would-be-harder-now/
 title: Making and using an OPML feed of student blogs
 type: post
 template: blog-post.html
@@ -92,7 +92,7 @@ So, the process was
 
 One of the blog URLs was password protected, so I've removed it from the final feed. I'll share a copy of the file on the course Moodle site.
 
-Of course, if the course had been designed so that students used [BIM](/blog2/research/bam-blog-aggregation-management/) to register their blogs, the academic staff could have just shared the OPML file that BIM generates.
+Of course, if the course had been designed so that students used [BIM](/blog/research/bam-blog-aggregation-management/) to register their blogs, the academic staff could have just shared the OPML file that BIM generates.
 
 ### Use the OPML file
 

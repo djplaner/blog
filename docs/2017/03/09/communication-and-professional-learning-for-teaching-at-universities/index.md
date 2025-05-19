@@ -4,10 +4,10 @@ categories:
 date: 2017-03-09 09:59:20+10:00
 next:
   text: How we are rethinking L&T grants, awards and professional learning
-  url: /blog2/2017/03/09/how-we-are-rethinking-lt-grants-awards-and-professional-learning/
+  url: /blog/2017/03/09/how-we-are-rethinking-lt-grants-awards-and-professional-learning/
 previous:
   text: Thinking about (more) reproducible research and learning analytics
-  url: /blog2/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/
+  url: /blog/2017/03/08/thinking-about-more-reproducible-research-and-learning-analytics/
 title: Communication and professional learning for teaching at Universities
 type: post
 template: blog-post.html

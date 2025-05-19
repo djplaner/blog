@@ -6,10 +6,10 @@ categories:
 date: 2010-02-03 11:45:56+10:00
 next:
   text: '"BIM - Tidy up #4 - Security checks"'
-  url: /blog2/2010/02/03/bim-tidy-up-4-security-checks/
+  url: /blog/2010/02/03/bim-tidy-up-4-security-checks/
 previous:
   text: 'BIM - Tidy up #3'
-  url: /blog2/2010/02/01/bim-tidy-up-3/
+  url: /blog/2010/02/01/bim-tidy-up-3/
 title: '"Loosing weight, nudging and changing the L&#038;T environment - early foundations
   of my work"'
 type: post
@@ -198,7 +198,7 @@ pingbacks:
       user_id: '0'
     
 ---
-What follows is an attempt to develop some of the foundations of what is driving the work I do [in my current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
+What follows is an attempt to develop some of the foundations of what is driving the work I do [in my current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 
 ### The main aim
 
@@ -206,7 +206,7 @@ My main aim is to help improve the quality of learning and teaching within the u
 
 ### The fundamental flaw
 
-It's my suggestion that almost all of the current institutional attempts to improve learning and teaching suffer the same fundamental flaw. They attempt to [herd cats](/blog2/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/), they focus on [what management does](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels), rather than focus on what the teachers and learners do every day and in particular the tremendous problems created by the systems within which they operate.
+It's my suggestion that almost all of the current institutional attempts to improve learning and teaching suffer the same fundamental flaw. They attempt to [herd cats](/blog/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/), they focus on [what management does](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels), rather than focus on what the teachers and learners do every day and in particular the tremendous problems created by the systems within which they operate.
 
 To be a little more concrete,
 
@@ -215,7 +215,7 @@ To be a little more concrete,
 - Institutions develop high-level policies about how courses/programs should be designed, but pay little attention to actually how these tasks are carried out leading to problems and compliance.
 - If everyone has a certificate in higher education, then they will be good teachers.
 
-At the same time, there is ignorance of (though it's probably a case of "don't mention the war") the complete and utter mismatch between the system/environment in which academic staff work and improving L&T. A few references/quotes from [this post](/blog2/2009/08/17/lessons-for-e-learning-from-people/)
+At the same time, there is ignorance of (though it's probably a case of "don't mention the war") the complete and utter mismatch between the system/environment in which academic staff work and improving L&T. A few references/quotes from [this post](/blog/2009/08/17/lessons-for-e-learning-from-people/)
 
 > Academic staff are trained, selected and evaluated on the discipline expertise and their ability to perform quality research. The experience and training of academic staff not only focuses on discipline and research expertise it can, and often does, socialise aspiring academics towards a vision of academic work that emphasises these tasks (Austin 2002). While universities promote the importance of teaching the create ambiguous, even contradictory expectations by rewarding academic staff primarily for research (Zellweger 2005) and creating environments where spending more time teaching is a negative influence on academic pay (Fairweather 2005).
 
@@ -255,7 +255,7 @@ The book talks about how "choice architecture" can be used to nudge people towar
 
 ### The centrality of the pedagogue
 
-When it comes to improving teaching and learning a, if not the, major role is played by the [individual pedagogue/teacher and what they believe](/blog2/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/). At some stage, the teacher makes a decision to improve or change their practice, or not. My argument is that the "choice architecture" inherent in universities is set up to actively discourage people to make the decision to improve their teaching and learning.
+When it comes to improving teaching and learning a, if not the, major role is played by the [individual pedagogue/teacher and what they believe](/blog/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/). At some stage, the teacher makes a decision to improve or change their practice, or not. My argument is that the "choice architecture" inherent in universities is set up to actively discourage people to make the decision to improve their teaching and learning.
 
 If you don't get them to make this decision, the outcome of whatever you do will be limited.
 
@@ -296,8 +296,8 @@ While not wishing to be exclusive about these principles, there would seem to be
 
 - [Indicators project](http://indicatorsproject.wordpress.com/) and;  
     I'm particularly interested in how this project can be used to **give feedback** to teaching staff about what is happening within their online courses and how this feedback can be used **expect error**, **structure complex choices**, **understand mappings** and develop **incentives** through a collaborative process of reflection.
-- [bottom up curriculum mapping](/blog2/2010/01/19/questions-about-alternatives-to-curriculum-mapping/)  
-    I've been thinking about a [bottom up approach](/blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/) to curriculum mapping. My main interest is how to modify slightly existing practice to develop curriculum maps within a program that can **give feedback** to participants about the problems in a course. In addition, there are possibilities that such an approach can be used to **structure complex choices** - be developing "wizards" that help guide the solution to identified problems - and perhaps help change some of the **defaults**.
+- [bottom up curriculum mapping](/blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/)  
+    I've been thinking about a [bottom up approach](/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/) to curriculum mapping. My main interest is how to modify slightly existing practice to develop curriculum maps within a program that can **give feedback** to participants about the problems in a course. In addition, there are possibilities that such an approach can be used to **structure complex choices** - be developing "wizards" that help guide the solution to identified problems - and perhaps help change some of the **defaults**.
 - The old [REACT](http://sleid.cqu.edu.au/REACT/) idea.  
     This was intended to **give feedback**, help **structure complex choices** and **understand mappings**, while at the same time attempting to provide some **incentive**.
 

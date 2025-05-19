@@ -4,10 +4,10 @@ categories:
 date: 2011-07-31 15:50:03+10:00
 next:
   text: One analysis of the Digital Education Revolution
-  url: /blog2/2011/08/01/one-analysis-of-the-digital-education-revolution/
+  url: /blog/2011/08/01/one-analysis-of-the-digital-education-revolution/
 previous:
   text: What story do the numbers tell?
-  url: /blog2/2011/07/24/what-story-do-the-numbers-tell/
+  url: /blog/2011/07/24/what-story-do-the-numbers-tell/
 title: Residents and visitors, are builders the forgotten category?
 type: post
 template: blog-post.html
@@ -228,7 +228,7 @@ pingbacks:
 ---
 Over the last few weeks I've been thinking about the Australian Federal Government's [Digital Education Revolution](http://www.digitaleducationrevolution.gov.au) (DER). The presentation arising from that thinking will be given later this week and am hoping the slides will be up soon. I'm currently thinking about the People aspect of the DER. In particular, I'm wondering if the [digital visitors and residents idea](http://tallblog.conted.ox.ac.uk/index.php/2009/10/14/visitors-residents-the-video/#) might need to be modified a bit in light of the protean nature of Information and Communication Technologies (ICTs) and ideas like [Douglas Rushkoff's Program or be Programmed](http://www.huffingtonpost.com/douglas-rushkoff/programming-literacy_b_745126.html).
 
-It's fairly common when thinking about people and technology to talk about Prensky's version of immigrants and natives. Though I think [Barlow](/blog2/2011/07/20/4033/) first coined the idea, Prensky appears to be [commonly thought as the originator](http://en.wikipedia.org/wiki/Digital_native#Origins). For Prensky, immigrants were born before ICTs and so have a digital accent. They don't really get the digital world, the immigrants do. This distinction is still introduced in some university ICT courses but there has been some criticisms of it (e.g. Bennet et al, 2008).
+It's fairly common when thinking about people and technology to talk about Prensky's version of immigrants and natives. Though I think [Barlow](/blog/2011/07/20/4033/) first coined the idea, Prensky appears to be [commonly thought as the originator](http://en.wikipedia.org/wiki/Digital_native#Origins). For Prensky, immigrants were born before ICTs and so have a digital accent. They don't really get the digital world, the immigrants do. This distinction is still introduced in some university ICT courses but there has been some criticisms of it (e.g. Bennet et al, 2008).
 
 [David White](http://www.conted.ox.ac.uk/staff/academicstaff/profile.php?a=alpha&id=8) shifted the focus away from immigrants/natives toward [residents and visitors](http://tallblog.conted.ox.ac.uk/index.php/2009/10/14/visitors-residents-the-video/#) a few years ago and has written and talked about it. Importantly, this shift moves from a focus on a person's age in relation to the advent of the "digital world" - a focus that never really worked because at 40+ I consider myself to be more of a digital native than many young whippersnappers - to how they use the digital world.
 
@@ -236,13 +236,13 @@ For White, a digital resident lives at least a percentage of their lives in the 
 
 ### Ever changing digital world
 
-In [an earlier post](/blog2/2011/07/20/4033/) I questioned whether you could be a native within a digital world that has continually change as one of its defining characteristics. White's resident description suggests yes when it refers to the resident always developing their online identity. A resident is engaged with the world and hence can keep up with the change. A visitor can't.
+In [an earlier post](/blog/2011/07/20/4033/) I questioned whether you could be a native within a digital world that has continually change as one of its defining characteristics. White's resident description suggests yes when it refers to the resident always developing their online identity. A resident is engaged with the world and hence can keep up with the change. A visitor can't.
 
 A bit like a friend who used to live in our nearest town. He returned recently - as a visitor - and was surprised by the advent of a new fast food franchise opening up in an unexpected spot. We residents weren't surprised, we'd seen the change happening.
 
 ### Protean technology and moving beyond resident to builder/manipulator?
 
-In another [post](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) I reflected on Mishra and Koelher's definition of the distinction between ICTs and previous technologies used in education (e.g. blackboards, pens etc). ICTs are protean. A quote from my earlier post
+In another [post](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) I reflected on Mishra and Koelher's definition of the distinction between ICTs and previous technologies used in education (e.g. blackboards, pens etc). ICTs are protean. A quote from my earlier post
 
 > Mishra and Koehler draw on the work of a number of folk in describing the digital computer as protean in nature – inherently flexible. For example Kay (1984) describing computers as a meta-medium that can dynamically simulate the details of any other medium (including non-physical media) and his suggestion that we have barely begun to investigate this freedom for representation and expression. A computer is a tool to manipulate symbol systems be they visual, acoustic, textual or numeric.
 

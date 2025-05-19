@@ -7,10 +7,10 @@ categories:
 date: 2011-05-27 16:04:27+10:00
 next:
   text: Requirements and ideas for an eLearning design for IPT
-  url: /blog2/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/
+  url: /blog/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/
 previous:
   text: Where are all the innovative high school IT/CS classes?
-  url: /blog2/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/
+  url: /blog/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/
 title: And the thesis is complete, what's next?
 type: post
 template: blog-post.html
@@ -119,7 +119,7 @@ So, while it's finished, is there still value in a PhD? Especially since I'm mov
 
 This was a question that struck me really quite hard early in my high school prac teaching experience. During the first mathematics class I'd taught with one group of students who are largely disengaged. One of the students said, "I've never passed a math class." She then proceeded to quite comfortably complete a set of fairly abstract algebra exercises with a minimum of assistance. It became obvious that there was a lot of room for value generation in this class. Value that could have some significant impact on the lives of students.
 
-What value is there in a PhD? Certainly I don't see mine ever having the same sort of impact as a good high school teacher. And that's with a thesis that [generated a journal paper](http://aisel.aisnet.org/jais/vol8/iss5/1/) that has a Google Scholar citation count of 197 and over 2000 visits to [the thesis page](/blog2/research/phd-thesis/) on my blog.
+What value is there in a PhD? Certainly I don't see mine ever having the same sort of impact as a good high school teacher. And that's with a thesis that [generated a journal paper](http://aisel.aisnet.org/jais/vol8/iss5/1/) that has a Google Scholar citation count of 197 and over 2000 visits to [the thesis page](/blog/research/phd-thesis/) on my blog.
 
 The common refrain I hear in Academia is that the PhD is just the entry ticket into Academia. That it's your on-going work that will make the contribution and have the impact. But frankly, my experiences and observations of academia and its recent trends are such that it is becoming harder and harder to have an impact beyond the pointless ticking of boxes, meeting of targets, mouthing of slogans, and the mounting of projects that are meant to look good at the time (i.e. in terms of fulfilling all of the previous important tasks of academia) while failing to have any lasting impact.
 

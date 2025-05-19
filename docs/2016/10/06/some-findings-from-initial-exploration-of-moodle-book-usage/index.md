@@ -5,17 +5,17 @@ categories:
 date: 2016-10-06 18:17:22+10:00
 next:
   text: Exploring more frameworks to understand OER/OEP
-  url: /blog2/2016/10/10/exploring-more-frameworks-to-understand-oeroep/
+  url: /blog/2016/10/10/exploring-more-frameworks-to-understand-oeroep/
 previous:
   text: Exploring Moodle Book usage - part 9 - Strange courses
-  url: /blog2/2016/09/26/exploring-moodle-book-usage-part-9-strange-courses/
+  url: /blog/2016/09/26/exploring-moodle-book-usage-part-9-strange-courses/
 title: Some findings from initial exploration of Moodle Book usage
 type: post
 template: blog-post.html
 ---
-I recently gave a talk at the [Moodlemoot’AU 2016 conference](https://mootau.moodlemoot.org/course/view.php?id=62) in Perth. The talk was titled [“How and why do people use the Moodle Book module?”](/blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/)  It reported on analysis of data from one University's Moodle isntances to explore how courses, learners, and teachers made use of the Moodle Book module (aka the Book) from 2012 through 2015. The slides, abstract, and links to various interactive graphs used in the presentation are available via [the presentation webpage](/blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/).
+I recently gave a talk at the [Moodlemoot’AU 2016 conference](https://mootau.moodlemoot.org/course/view.php?id=62) in Perth. The talk was titled [“How and why do people use the Moodle Book module?”](/blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/)  It reported on analysis of data from one University's Moodle isntances to explore how courses, learners, and teachers made use of the Moodle Book module (aka the Book) from 2012 through 2015. The slides, abstract, and links to various interactive graphs used in the presentation are available via [the presentation webpage](/blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/).
 
-This talk is part of a broader project that is looking more [into post-adoption usage of e-learning systems](/blog2/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/), with an initial focus on the Book module.
+This talk is part of a broader project that is looking more [into post-adoption usage of e-learning systems](/blog/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/), with an initial focus on the Book module.
 
 The following provides a summary of some of what was found.  The links are to web pages that contain relevant interactive graphs.
 

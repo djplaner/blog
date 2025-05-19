@@ -6,10 +6,10 @@ categories:
 date: 2007-01-12 11:18:20+10:00
 next:
   text: Metaphors and models considered harmful for e-learning
-  url: /blog2/2007/01/15/metaphors-and-models-considered-harmful-for-e-learning/
+  url: /blog/2007/01/15/metaphors-and-models-considered-harmful-for-e-learning/
 previous:
   text: Freeze and unfreeze - one problem with herding cats
-  url: /blog2/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/
+  url: /blog/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/
 title: Breakthrough learning - what lessons for staff development of academics?
 type: post
 template: blog-post.html

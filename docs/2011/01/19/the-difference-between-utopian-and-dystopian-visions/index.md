@@ -6,10 +6,10 @@ categories:
 date: 2011-01-19 10:35:52+10:00
 next:
   text: The power of organisational structure
-  url: /blog2/2011/01/25/the-power-of-organisational-structure/
+  url: /blog/2011/01/25/the-power-of-organisational-structure/
 previous:
   text: Analytics creating too much transparency? A two-edged sword?
-  url: /blog2/2011/01/18/analytics-creating-too-much-transparency-a-two-edged-sword/
+  url: /blog/2011/01/18/analytics-creating-too-much-transparency-a-two-edged-sword/
 tags:
 - lak11
 title: The difference between utopian and dystopian visions
@@ -55,19 +55,19 @@ I would like, however, to expand that to idea to the notion of the self-regulate
 2. The formal teacher learner charged with running the course/program.  
     These folk are/should be primarily interested in learning how they can improve the learning experience of the student.
 3. The institutional learner within which the course/program is offered.  
-    These "folk" are/should be primarily interested in learning how to improve the learning experience of the students and teachers within the institution. Similar to [Biggs' (2001) quality feasibility ideas](/blog2/2010/05/13/more-thinking-about-the-alignment-project/). Though they are more often primarily interested in defining the learning experience, rather than engaging with and improving existing practices.
+    These "folk" are/should be primarily interested in learning how to improve the learning experience of the students and teachers within the institution. Similar to [Biggs' (2001) quality feasibility ideas](/blog/2010/05/13/more-thinking-about-the-alignment-project/). Though they are more often primarily interested in defining the learning experience, rather than engaging with and improving existing practices.
 
 At this stage, I'm interested in how analytics can be used to help learner types 1 and 2. I'm keen on changing the learning/teaching environment for these learners in ways that help them improve their own practice (what I see as the task for learner type 3 and the task they aren't doing). For right or wrong, for most of the higher education institutions I'm associated with the learning environment means the LMS. At least in terms of the contributions I might be able to make.
 
 My small-scale utopian vision is the modification of the LMS environment to effectively bake in analytics informed services and modifications that can help student and teacher learners become more aware of possibly relevant improvements to their practice. Some examples include:
 
-- Some early, unfinished work on an [indicators block for Moodle](/blog2/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/).
+- Some early, unfinished work on an [indicators block for Moodle](/blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/).
 - Michael de Raadt's working [progress bar](http://www.sci.usq.edu.au/staff/deraadt/progressBar.html) for Moodle.
 - Shane Dawson's [SNAPP tool](http://research.uow.edu.au/learningnetworks/seeing/snapp/index.html).
 
-However, I don't think these examples go far enough. There's something missing. Additional thought needs to be given to the insights from the [behaviour change literature](/blog2/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) which suggests that simply knowing about something isn't sufficient to encourage change in behaviour.
+However, I don't think these examples go far enough. There's something missing. Additional thought needs to be given to the insights from the [behaviour change literature](/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) which suggests that simply knowing about something isn't sufficient to encourage change in behaviour.
 
-This comes to the idea of [scaffolding conglomerations](/blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/). One idea for such a conglomeration might be to:
+This comes to the idea of [scaffolding conglomerations](/blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/). One idea for such a conglomeration might be to:
 
 - Embed SNAPP into an LMS (e.g. Moodle).  
     At the moment, SNAPP is a browser based tool so it can only generate visualisations based on data in courses that the user has access to. For most people in most LMS this means you are limited by the inherent course division fundamental to LMS design. You can't see and act upon the social networks evident in other courses.

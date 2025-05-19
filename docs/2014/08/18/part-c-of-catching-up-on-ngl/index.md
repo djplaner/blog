@@ -4,10 +4,10 @@ categories:
 date: 2014-08-18 16:41:26+10:00
 next:
   text: Reclaim, identity, and bricolage
-  url: /blog2/2014/08/20/reclaim-identity-and-bricolage/
+  url: /blog/2014/08/20/reclaim-identity-and-bricolage/
 previous:
   text: '&quot;Supported&quot; versus &quot;unsupported&quot; ICTs in a network age'
-  url: /blog2/2014/08/18/supported-versus-unsupported-icts-in-a-network-age/
+  url: /blog/2014/08/18/supported-versus-unsupported-icts-in-a-network-age/
 title: Part C of catching up on NGL
 type: post
 template: blog-post.html
@@ -30,7 +30,7 @@ Interesting also to see her [diving into PKM](http://astrethewey.wordpress.com/2
 
 > that it is about the dialogue not a perfect finished product
 
-which is a nice complement to [a post from yesterday](/blog2/2014/08/17/do-not-fear-perfection-youll-never-achieve-it/)
+which is a nice complement to [a post from yesterday](/blog/2014/08/17/do-not-fear-perfection-youll-never-achieve-it/)
 
 ### Do you need a sense of community?
 

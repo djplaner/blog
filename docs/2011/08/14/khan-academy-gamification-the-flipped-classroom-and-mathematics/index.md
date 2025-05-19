@@ -5,10 +5,10 @@ categories:
 date: 2011-08-14 20:27:16+10:00
 next:
   text: Is IT a service industry, or is it "eating the world"?
-  url: /blog2/2011/08/23/is-it-a-service-industry-or-is-it-eating-the-world/
+  url: /blog/2011/08/23/is-it-a-service-industry-or-is-it-eating-the-world/
 previous:
   text: Gamification by camouflage - fads and higher ed
-  url: /blog2/2011/08/09/gamification-by-camouflage-fads-and-higher-ed/
+  url: /blog/2011/08/09/gamification-by-camouflage-fads-and-higher-ed/
 title: Khan academy, gamification, the flipped classroom and mathematics
 type: post
 template: blog-post.html
@@ -53,7 +53,7 @@ It should be noted, that there is no requirement for me to actual implement this
 
 ### Why?
 
-First, I want to push myself a bit. I could do a fairly standard unit of work and get a pass mark or a bit better. Adopt all the standard practices and assumptions but stick fairly tightly with the ["grammar of school"](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/).
+First, I want to push myself a bit. I could do a fairly standard unit of work and get a pass mark or a bit better. Adopt all the standard practices and assumptions but stick fairly tightly with the ["grammar of school"](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/).
 
 Second, I don't have the time to push myself too much. This assignment has to be finished in about a week (I've submitted two assignments in the preceding two weeks) and I have prac teaching and a family to consider. I'm aware of the some/many of the limitations of Khan Academy, the idea of "gamification" (e.g. [gamification is bullshit](http://bogost.com/blog/gamification_is_bullshit.shtml)), and the problems faced by flipped classrooms where students just don't do "the homework". And yes there is [the idea](http://venturebeat.com/2011/05/17/the-case-against-khan-academy/) that this type of use of Khan Academy is de-valuing the role of the teacher. i.e. turning them into "facilitators". There's always a chance of this, but in my mind there is still a need to connect this stuff to the real world and engage the learners. This is where I come in. Not delivering the same content and not just providing one-on-one assistance. But engaging the learners in the authentic, exciting stuff that provides the context for the Khan Academy stuff.
 

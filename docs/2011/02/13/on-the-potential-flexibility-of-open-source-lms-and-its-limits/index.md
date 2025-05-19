@@ -9,10 +9,10 @@ categories:
 date: 2011-02-13 17:24:50+10:00
 next:
   text: '"bim2: Some more coordinator tabs"'
-  url: /blog2/2011/02/13/bim2-some-more-coordinator-tabs/
+  url: /blog/2011/02/13/bim2-some-more-coordinator-tabs/
 previous:
   text: 'bim2: Starting on the coordinator models'
-  url: /blog2/2011/02/13/bim2-starting-on-the-coordinator-models/
+  url: /blog/2011/02/13/bim2-starting-on-the-coordinator-models/
 title: On the potential flexibility of open source LMS and its limits
 type: post
 template: blog-post.html
@@ -90,7 +90,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Today a mate [posted to his blog](http://beerc.wordpress.com/2011/02/13/start-of-a-small-project/) about a small project he's involved with. The context of this project seems to be a good opportunity to comment on the potential flexibility of open source LMS and the limits of that flexibility within an institutional context. It's also an attempt to link it back to the design theory described in [my thesis](/blog2/research/phd-thesis/) (if you want more of the theory behind the following, look at the thesis).
+Today a mate [posted to his blog](http://beerc.wordpress.com/2011/02/13/start-of-a-small-project/) about a small project he's involved with. The context of this project seems to be a good opportunity to comment on the potential flexibility of open source LMS and the limits of that flexibility within an institutional context. It's also an attempt to link it back to the design theory described in [my thesis](/blog/research/phd-thesis/) (if you want more of the theory behind the following, look at the thesis).
 
 The following uses Moodle as an example, but I believe that similar limitations exist regardless of the open source LMS. This is in part because a significant limit on the flexibility is not the LMS, but instead the institutional governance processes and associated factors..
 
@@ -100,7 +100,7 @@ In this case, the need is to send students an email with a link to a survey. The
 
 My initial thought would be that this sounds like something Moodle should be able to do. Given the increasing emphasis on group related work I doubt that this is a novel requirement. So, there might be something in Moodle that can do this, however, based on my limited knowledge of Moodle I can't think of anything off the top of my head.
 
-I believe that there might be the functionality within Moodle to do each of the components of this task. There is probably a way to send emails to members of a group. There might even be a way to customise that email to some extent (there is a [bulk email facility](/blog2/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/) in Moodle 1.9, but, from memory, it seems somewhat limited). There is also probably a way to do a group-based survey (a MCQ might be the obvious solution).
+I believe that there might be the functionality within Moodle to do each of the components of this task. There is probably a way to send emails to members of a group. There might even be a way to customise that email to some extent (there is a [bulk email facility](/blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/) in Moodle 1.9, but, from memory, it seems somewhat limited). There is also probably a way to do a group-based survey (a MCQ might be the obvious solution).
 
 But I doubt that there is an easy way to combine these separate functions so that the group email can automatically include the link to the group's MCQ/survey.
 
@@ -128,7 +128,7 @@ To address this difficulty and also to [CYA](http://en.wikipedia.org/wiki/Cover_
 The trouble is that the difficulty and expense involved means that it becomes difficult for such processes to effectively engage in "small" problems like this one. i.e. problems that don't actually require development of any significantly new functionality or large-scale modules. It just needs a few minor changes or wrappers around existing functionality. For example, the requirement above could possibly be solved (the following is an example description given off the top of my head without any investigation as to whether this would work) by
 
 - Modifying the Moodle quiz function to populate a database table linking groups to URLs for group specific quizzes.
-- Modifying the existing Moodle bulk-email facility (or perhaps adding a wrapper around it like [I did with bim](/blog2/2010/05/30/2933/)) to use this database table to send personalised emails to group members.
+- Modifying the existing Moodle bulk-email facility (or perhaps adding a wrapper around it like [I did with bim](/blog/2010/05/30/2933/)) to use this database table to send personalised emails to group members.
 - Perhaps add a new quiz report that allows viewing/comparing within/across groups.
 
 For a variety of reasons traditional institutional LMS policies and processes are too heavy-weight to respond to this sort of need. Instead, in order for something like this to be considered, it has to be blown up into some institutional priority. e.g. a system to support peer and group-based assessment for the entire institution. A project that will require a significant amount of time doing a needs analysis,........
@@ -141,7 +141,7 @@ So, I'm proposing that the institutional implementation of open source LMS end u
 
 #### The need for rapid development of scaffolding conglomerations
 
-The need in this case, at least to me, sounds like an example of what I termed [scaffolding, context-sensitive conglomerations](/blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/). Rather than necessarily requiring a brand new Moodle module or block, this problem sounds like something that actually needs to combine the functionality from a number of existing Moodle services. Something that conglomerates the lower-level functionality provided by Moodle into something that better meets this higher-level need.
+The need in this case, at least to me, sounds like an example of what I termed [scaffolding, context-sensitive conglomerations](/blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/). Rather than necessarily requiring a brand new Moodle module or block, this problem sounds like something that actually needs to combine the functionality from a number of existing Moodle services. Something that conglomerates the lower-level functionality provided by Moodle into something that better meets this higher-level need.
 
 A large part of the popularity of Moodle arises from its modularity. A feature that allows for the easy development of lots of new functionality. Something that increases the flexibility of Moodle.
 

@@ -4,10 +4,10 @@ categories:
 date: 2009-07-15 11:05:15+10:00
 next:
   text: '"Predictably irrational - implications for L&#038;T at Universities"'
-  url: /blog2/2009/07/15/predictably-irrational-implications-for-lt-at-universities/
+  url: /blog/2009/07/15/predictably-irrational-implications-for-lt-at-universities/
 previous:
   text: Integrating BAM into Moodle - Can it be done?
-  url: /blog2/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
+  url: /blog/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
 title: BAM and the Chinese "firewall"
 type: post
 template: blog-post.html
@@ -81,7 +81,7 @@ pingbacks:
     []
     
 ---
-[BAM (blog aggregation management)](/blog2/research/bam-blog-aggregation-management/) is a tool used by a number of [CQU](http://www.cqu.edu.au/) courses. It's mainly used to help staff observe and mark individual student reflective journals. The journals are hosted on freely available blogs that the students set up and then register with BAM. Normally, we advise students to use [Wordpress.com](http://wordpress.com/) for their blog, but there's now a small problem. Any suggestions?
+[BAM (blog aggregation management)](/blog/research/bam-blog-aggregation-management/) is a tool used by a number of [CQU](http://www.cqu.edu.au/) courses. It's mainly used to help staff observe and mark individual student reflective journals. The journals are hosted on freely available blogs that the students set up and then register with BAM. Normally, we advise students to use [Wordpress.com](http://wordpress.com/) for their blog, but there's now a small problem. Any suggestions?
 
 The problem is that one of the students in one of the courses is currently studying from China. China has restricted access to english blog websites as part of its [regulation of Internet access](http://en.wikipedia.org/wiki/Internet_censorship_in_the_People%27s_Republic_of_China). The student has asked if it's ok to submit reflections directly.
 

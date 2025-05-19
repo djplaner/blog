@@ -8,15 +8,15 @@ categories:
 date: 2013-12-12 09:50:18+10:00
 next:
   text: The adoption and acceptance of learning analytics
-  url: /blog2/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
+  url: /blog/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
 previous:
   text: '#moodle, blogs, Moodle blogs and #bim'
-  url: /blog2/2013/12/10/moodle-blogs-moodle-blogs-and-bim/
+  url: /blog/2013/12/10/moodle-blogs-moodle-blogs-and-bim/
 title: Blogs, learning analytics, IRAC and BIM
 type: post
 template: blog-post.html
 ---
-In 2014 I am hoping to make some changes to [BIM](/blog2/research/bam-blog-aggregation-management/) that will enhance [the course I'll be teaching](http://www.usq.edu.au/course/synopses/2014/EDC3100.html). The hope is to leverage various learning analytics to enhance student learning. The following is an attempt to use [the IRAC framework](/blog2/2013/12/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics-ascilite/) to think about what might be done. Essentially a bit of brainstorming about possible future development.
+In 2014 I am hoping to make some changes to [BIM](/blog/research/bam-blog-aggregation-management/) that will enhance [the course I'll be teaching](http://www.usq.edu.au/course/synopses/2014/EDC3100.html). The hope is to leverage various learning analytics to enhance student learning. The following is an attempt to use [the IRAC framework](/blog/2013/12/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics-ascilite/) to think about what might be done. Essentially a bit of brainstorming about possible future development.
 
 Each of the headings below link to the IRAC framework. First off the content and the purpose of this use of learning analytics is described. Then each of the four components of the IRAC framework - **I**nformation, **R**epresentation, **A**ffordances and **C**hange - are considered.
 
@@ -67,7 +67,7 @@ In this case, I can see there needing to be three types of change considered: go
 
 In short, thinking about, designing and implementing the type of changes to BIM and pedagogy outlined below is inherently a learning experience. I'm not smart enough to predict what is going to happen prior to implementation. I always gain insight when engaged in these activities that I want to leverage straight way into new approaches and new technological capabilities. i.e. I want to be able to make changes to BIM during the semester.
 
-Not something I can do with the standard processes used for supporting a Universities institutional LMS. Hence the need to look at how I can do changes to BIM outside of Moodle and the institutional installation. In 2013, I did this [via a kludge](/blog2/2013/06/10/the-kludge-for-marking-learning-journals/), essentially some Perl scripts and a version of Moodle/BIM running on my laptop.
+Not something I can do with the standard processes used for supporting a Universities institutional LMS. Hence the need to look at how I can do changes to BIM outside of Moodle and the institutional installation. In 2013, I did this [via a kludge](/blog/2013/06/10/the-kludge-for-marking-learning-journals/), essentially some Perl scripts and a version of Moodle/BIM running on my laptop.
 
 Beyond the constraints of the institutional LMS processes, there's the question of information and resources other than what is typically available to a Moodle module. Some examples include
 
@@ -90,7 +90,7 @@ Beyond the constraints of the institutional LMS processes, there's the question 
     It is likely that a range of natural language processing and other potentially computationally heavy algorithms could be used to analyse student posts. Most enterprise IT folk are not going to want to run these algorithms on the same server as the institutional LMS.
     
 
-All of this combined, means I'll likely explore the use of LTI mentioned in [this post](/blog2/2013/08/29/the-network-challenge-to-the-lms-mindset/) from earlier in the year. i.e. use LTI to enable the version of BIM used in the course to be hosted on another server. A server only used for BIM in this course so that change can happen more rapidly.
+All of this combined, means I'll likely explore the use of LTI mentioned in [this post](/blog/2013/08/29/the-network-challenge-to-the-lms-mindset/) from earlier in the year. i.e. use LTI to enable the version of BIM used in the course to be hosted on another server. A server only used for BIM in this course so that change can happen more rapidly.
 
 In addition, that other server is also likely to run a range of other software for the computationally heavy analytics - rather than try and shoe-horn it into a Moodle module.
 

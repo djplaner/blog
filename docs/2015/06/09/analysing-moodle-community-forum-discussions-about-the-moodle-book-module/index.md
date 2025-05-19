@@ -8,11 +8,11 @@ date: 2015-06-09 11:52:25+10:00
 next:
   text: '"Reading - Embracing Big Data in Complex Educational Systems: The Learning
     Analytics Imperative and the Policy Challenge"'
-  url: /blog2/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
+  url: /blog/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
 previous:
   text: The four paths for implementing learning analytics and enhancing the quality
     of learning and teaching
-  url: /blog2/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
+  url: /blog/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
 title: Analysing Moodle community forum discussions about the Moodle book module
 type: post
 template: blog-post.html
@@ -37,7 +37,7 @@ pingbacks:
       user_id: '0'
     
 ---
-As part of the ["Moodle open book" project](/blog2/the-moodle-open-book-module-project/) I'm hoping to increase my knowledge of what the Moodle community has already discussed about the [Book module](https://docs.moodle.org/28/en/Book_module). The following is a summary of the process I'm using to analyse those discussions.
+As part of the ["Moodle open book" project](/blog/the-moodle-open-book-module-project/) I'm hoping to increase my knowledge of what the Moodle community has already discussed about the [Book module](https://docs.moodle.org/28/en/Book_module). The following is a summary of the process I'm using to analyse those discussions.
 
 Not finished, but the story so far. Just over 2400 posts extracted from Moodle community forums that appear to mention "Book module". About 250 posts (very roughly) coded so far. The following is a very early summary of the features discussed in those posts is
 

@@ -5,10 +5,10 @@ date: 2010-07-28 10:43:25+10:00
 next:
   text: The grammar of school, psychological dissonance and all professors are rather
     ludditical
-  url: /blog2/2010/07/30/the-grammar-of-school-psychological-dissonance-and-all-professors-are-rather-ludditical/
+  url: /blog/2010/07/30/the-grammar-of-school-psychological-dissonance-and-all-professors-are-rather-ludditical/
 previous:
   text: 'PLEs and the institution: the wrong problem'
-  url: /blog2/2010/07/23/ples-and-the-institution-the-wrong-problem/
+  url: /blog/2010/07/23/ples-and-the-institution-the-wrong-problem/
 title: First the fridge dies, and then...
 type: post
 template: blog-post.html
@@ -221,7 +221,7 @@ Then what? Some of the possibilities include:
 - A return to information systems;  
     For most of my 20 years I've been a faculty academic teaching and doing research. The PhD is within the information systems field, I have some contacts and publications in the area. I could return there. Especially given that my real interest is in developing and understanding new ways of helping organisations harness information technologies - for me e-learning is an application of that. The positioning of IS in relation to IT and other business disciplines is a bit troubling. Also there are a lot of IS PhD graduates, and not many positions.
 - technical development.  
-    Software development is one of the activities I like a lot. Software like [BIM](/blog2/research/bam-blog-aggregation-management/) is an example of what I can do, though it's also an example of the above. There's a big move towards Moodle, BIM is Moodle...so perhaps a software development role. Perhaps not as intellectually rewarding, but more practically fulfilling.
+    Software development is one of the activities I like a lot. Software like [BIM](/blog/research/bam-blog-aggregation-management/) is an example of what I can do, though it's also an example of the above. There's a big move towards Moodle, BIM is Moodle...so perhaps a software development role. Perhaps not as intellectually rewarding, but more practically fulfilling.
 
 So no clear cut choices. So, what's the dream job? At the moment, a research and development job focused at helping a university harness information technology to effectively and innovatively improve the quality of its learning and teaching. Something that straddles information systems and e-learning and is focused on innovation. Especially one that involves being part of a team of talented folk, I've had enough of the lone-ranger stuff.
 

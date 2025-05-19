@@ -4,10 +4,10 @@ categories:
 date: 2014-09-16 16:48:45+10:00
 next:
   text: Breaking BAD to bridge the reality/rhetoric chasm
-  url: /blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/
+  url: /blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/
 previous:
   text: You want digitally fluent faculty?
-  url: /blog2/2014/09/12/you-want-digitally-fluent-faculty/
+  url: /blog/2014/09/12/you-want-digitally-fluent-faculty/
 title: Searching for a phrase and some research
 type: post
 template: blog-post.html

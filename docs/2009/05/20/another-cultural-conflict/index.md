@@ -9,10 +9,10 @@ categories:
 date: 2009-05-20 17:03:12+10:00
 next:
   text: Purpose - a component of the Ps Framework
-  url: /blog2/2009/05/20/purpose-a-component-of-the-ps-framework/
+  url: /blog/2009/05/20/purpose-a-component-of-the-ps-framework/
 previous:
   text: Another BAM problem - awarding mark of 0
-  url: /blog2/2009/05/20/another-bam-problem-awarding-mark-of-0/
+  url: /blog/2009/05/20/another-bam-problem-awarding-mark-of-0/
 title: Another cultural conflict
 type: post
 template: blog-post.html
@@ -21,7 +21,7 @@ The main point of this post is to save this quote. I'm about to delete it from t
 
 > (Zellweger 2005) the tasks assigned to each group bear a number of inherent conflicts. For example, the push of instructional designers for creative and flexible solutions matching a faculty member’s goals might impose a threat for well-rehearsed IT processes. The deviation of standard solutions implicates a certain risk that IT workers would rather avoid as they most of all feel responsible for the stability and security of the IT systems.
 
-It connects with a sentence or two from an [earlier post](/blog2/2009/05/15/institution-another-part-of-place/)
+It connects with a sentence or two from an [earlier post](/blog/2009/05/15/institution-another-part-of-place/)
 
 > Ayers (2004) observes that academic and information technology cultures, two of the main sub-cultures involved with e-learning within universities, do not mix together well. The differing viewpoints and subsequently the varying and competing priorities of the different sub-cultures within an organisation can lead to considerable internal tension (Luck, Jones et al. 2004).
 

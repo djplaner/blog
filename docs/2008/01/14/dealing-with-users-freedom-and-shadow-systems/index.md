@@ -8,10 +8,10 @@ categories:
 date: 2008-01-14 10:20:11+10:00
 next:
   text: Ideas for "spaces" in Second Life
-  url: /blog2/2008/01/18/ideas-for-spaces-in-second-life/
+  url: /blog/2008/01/18/ideas-for-spaces-in-second-life/
 previous:
   text: '&quot;CQU Learning&quot; - early days of a Second Life island'
-  url: /blog2/2008/01/13/cqu-learning-early-days-of-a-second-life-island/
+  url: /blog/2008/01/13/cqu-learning-early-days-of-a-second-life-island/
 tags:
 - shadowsystems-cddu-c2d2
 title: Dealing with "users", freedom and shadow systems

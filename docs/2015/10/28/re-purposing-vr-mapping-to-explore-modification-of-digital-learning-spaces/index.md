@@ -5,11 +5,11 @@ categories:
 date: 2015-10-28 12:30:49+10:00
 next:
   text: The CSCW view of Knowledge Management
-  url: /blog2/2015/10/30/the-cscw-view-of-knowledge-management/
+  url: /blog/2015/10/30/the-cscw-view-of-knowledge-management/
 previous:
   text: Are our institutions digital visitors?  What are the impacts on learning and
     teaching?
-  url: /blog2/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/
+  url: /blog/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/
 title: '"Re-purposing V&#038;R mapping to explore modification of digital learning
   spaces"'
 type: post
@@ -199,11 +199,11 @@ pingbacks:
 
 Apparently there is a digital literacy/fluency problem with teachers. The [2014 Horizon Report for Higher Education](http://www.nmc.org/publications/2014-horizon-report-higher-ed) identified the “Low Digital Fluency of Faculty” as the number 1 “significant challenge impeding higher education technology adoption”. In the [2015 Horizon Report for Higher Education](http://www.nmc.org/publication/nmc-horizon-report-2015-higher-education-edition/) this morphs into "Improving Digital Literacy" being the #2 significant challenge. While the [2015 K-12 Horizon Report](http://www.nmc.org/publication/nmc-horizon-report-2015-k-12-edition/) has "Integrating Technology in Teacher Education" as the #2 significant challenge.
 
-But focusing solely on the literacy of the teaching staff seems a bit short sighted. @palbion, @chalkhands and I are teacher educators working in a digitally rich learning environment (i.e. a large percentage of our students are online only students). We are also fairly digitally fluent/literate. In [a paper last year](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) we explored how a distributive view of knowledge sharing helped us "overcome the limitations of organisational practices and technologies that were not always well suited to our context and aims".
+But focusing solely on the literacy of the teaching staff seems a bit short sighted. @palbion, @chalkhands and I are teacher educators working in a digitally rich learning environment (i.e. a large percentage of our students are online only students). We are also fairly digitally fluent/literate. In [a paper last year](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) we explored how a distributive view of knowledge sharing helped us "overcome the limitations of organisational practices and technologies that were not always well suited to our context and aims".
 
 Our digital literacy isn't a problem, we're able and believe we have to overcome the limitations of the environment in which we teach. Increasingly the digital tools we are provided by the institution do not match the needs we have for our learning designs and consequently we make various types of changes.
 
-Often these changes are seen as bad. At best these changes are invisible to other people within our institution. At worst they are labelled as duplication, inefficient, unsafe, and feral. They are seen as [shadow systems](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/#shadow). Systems and changes that are undesirable and should be rooted out.
+Often these changes are seen as bad. At best these changes are invisible to other people within our institution. At worst they are labelled as duplication, inefficient, unsafe, and feral. They are seen as [shadow systems](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/#shadow). Systems and changes that are undesirable and should be rooted out.
 
 ### What?
 

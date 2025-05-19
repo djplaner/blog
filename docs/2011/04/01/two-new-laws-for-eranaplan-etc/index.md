@@ -4,10 +4,10 @@ categories:
 date: 2011-04-01 08:04:56+10:00
 next:
   text: Reflections on a 12 year-old course site - It would be harder now
-  url: /blog2/2011/04/01/reflections-on-a-12-year-old-course-site-it-would-be-harder-now/
+  url: /blog/2011/04/01/reflections-on-a-12-year-old-course-site-it-would-be-harder-now/
 previous:
   text: 'Pedagogical Content Knowledge: Weeks 5/6'
-  url: /blog2/2011/03/31/pedagogical-content-knowledge-weeks-56/
+  url: /blog/2011/03/31/pedagogical-content-knowledge-weeks-56/
 tags:
 - believe
 - computing

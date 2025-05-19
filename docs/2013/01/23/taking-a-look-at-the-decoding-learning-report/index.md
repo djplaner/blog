@@ -5,11 +5,11 @@ categories:
 date: 2013-01-23 13:07:08+10:00
 next:
   text: 1000 blog posts - a time to look back
-  url: /blog2/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  url: /blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
 previous:
   text: A sign of limitations of institution hosted e-portfolios? And cost as the
     ultimate driver
-  url: /blog2/2013/01/21/a-sign-of-limitations-of-institution-hosted-e-portfolios-and-cost-as-the-ultimate-driver/
+  url: /blog/2013/01/21/a-sign-of-limitations-of-institution-hosted-e-portfolios-and-cost-as-the-ultimate-driver/
 title: Taking a look at the "Decoding Learning" report
 type: post
 template: blog-post.html
@@ -68,7 +68,7 @@ pingbacks:
 ---
 Late last year Nesta - a UK-based charity - released the report [Decoding learning: The proof promise and potential of digital education](http://www.nesta.org.uk/about_us/assets/features/decoding_learning_report). Nesta commissioned the London Knowledge Lab and the Learning Sciences Research Institute at the University of Nottingham to "analyse how technology has been used in the UK education systems and lessons from around the world. Uniquely, we wanted this to be set within a clear framework for better understanding the impact on learning experiences".
 
-The following is a summary and some reflections on my reading of the report. I'm thinking of using it as a resource for [the course](/blog2/2012/07/20/starting-the-re-design-of-edc3100/) I'll be teaching soon.
+The following is a summary and some reflections on my reading of the report. I'm thinking of using it as a resource for [the course](/blog/2012/07/20/starting-the-re-design-of-edc3100/) I'll be teaching soon.
 
 If you're after a shorter summary, [the Nesta press release](http://www.nesta.org.uk/press_releases/assets/features/decoding_learning_the_proof_promise_and_potential_of_digital_education) might provide what you're looking for.
 

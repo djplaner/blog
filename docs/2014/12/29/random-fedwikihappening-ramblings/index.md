@@ -4,10 +4,10 @@ categories:
 date: 2014-12-29 15:18:45+10:00
 next:
   text: An illustration of the difficulty of learning about network learning
-  url: /blog2/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
+  url: /blog/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
 previous:
   text: FedWiki 7, 8 and 9 - Moving, catching up and engaging
-  url: /blog2/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
+  url: /blog/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
 tags:
 - fedwikihappening
 title: '"Random #fedwikihappening ramblings"'
@@ -42,7 +42,7 @@ These are also factors I see in my teaching (helping pre- and in-service teacher
 
 I'm still not listed on the [happening folks page](http://fedwiki.djon.es/view/welcome-visitors/view/happening-folks). Time to fix that. This was one of those little tasks that didn't work the first time and I couldn't immediately see what I was missing. Until I was reading through [this post](http://hapgood.us/2014/09/01/using-federated-wiki-in-the-classroom-getting-started/) titled "Using Federated Wiki in the Classroom: Getting Started" from @holden. The trick was to use the "icon" for the page as the thing you drag. Combine that with opening my profile page with shift-click to get it to appear at the end of the list of pages, and bob's your uncle.
 
-There are some other interesting points in Mike's post around the experience of using SFW in a class. I can't help comparing some of this to my experience [with BIM](/blog2/research/bam-blog-aggregation-management/) and individual student blogs. Some quick observations/comments
+There are some other interesting points in Mike's post around the experience of using SFW in a class. I can't help comparing some of this to my experience [with BIM](/blog/research/bam-blog-aggregation-management/) and individual student blogs. Some quick observations/comments
 
 - The difference size creates. I'm using BIM in a class of 300+. Mike's current experience is in a class of 20. I think the order of magnitude difference in numbers makes a significant difference in workload/issues. e.g. manually setting up the class circle. Something I currently do by creating OPML files.
 - Roll your own class circle SFW allows students to create their own circle. With my course the same outcome is achieved through a combination of feeds/feedreaders and Wordpress' follow feature. I do have a feeling that more students use the follow feature than feeds. That might be interesting to explore.
@@ -54,9 +54,9 @@ There are some other interesting points in Mike's post around the experience of 
 
 [![patterns in elearning](images/3152822497_7f0e2c3fb4_m.jpg)](https://www.flickr.com/photos/david_jones/3152822497 "patterns in elearning by David Jones, on Flickr")
 
-Back when I was reading about [idea mining](/blog2/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/) I had a vague sense of deja vu. This was quickly resolved as I explored some of SFW space and came across articles like [Positive Outdoor Space](http://fedwiki.djon.es/view/welcome-visitors/view/recent-changes/forage.ward.fed.wiki.org/positive-outdoor-space). Ahh, design patterns and pattern languages. Confirmed by discovering articles such as [Pattern language](http://fedwiki.djon.es/forage.ward.fed.wiki.org/invited-authors/wiki.sfw.c2.com/pattern-language) and the connection [Ward Cunningham](http://en.wikipedia.org/wiki/Ward_Cunningham) (originator of SFW) has with design patterns.
+Back when I was reading about [idea mining](/blog/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/) I had a vague sense of deja vu. This was quickly resolved as I explored some of SFW space and came across articles like [Positive Outdoor Space](http://fedwiki.djon.es/view/welcome-visitors/view/recent-changes/forage.ward.fed.wiki.org/positive-outdoor-space). Ahh, design patterns and pattern languages. Confirmed by discovering articles such as [Pattern language](http://fedwiki.djon.es/forage.ward.fed.wiki.org/invited-authors/wiki.sfw.c2.com/pattern-language) and the connection [Ward Cunningham](http://en.wikipedia.org/wiki/Ward_Cunningham) (originator of SFW) has with design patterns.
 
-As this [1999 paper](/blog2/publications/the-case-for-patterns-in-online-learning/) suggests, I have a lot of time for the design pattern idea. The paper even proposed a process for enhancing e-learning based around design patterns, constructive patterns and pattern mining (the ugly, obviously 1990s image to the right). A colleague and I started working on that, but nothing ever came of it. Ten years later I reflected on that experience in [this blog post](/blog2/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/) and proposed three reasons why design patterns didn't work in our context (the obvious other reason is that we weren't very good at doing this).
+As this [1999 paper](/blog/publications/the-case-for-patterns-in-online-learning/) suggests, I have a lot of time for the design pattern idea. The paper even proposed a process for enhancing e-learning based around design patterns, constructive patterns and pattern mining (the ugly, obviously 1990s image to the right). A colleague and I started working on that, but nothing ever came of it. Ten years later I reflected on that experience in [this blog post](/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/) and proposed three reasons why design patterns didn't work in our context (the obvious other reason is that we weren't very good at doing this).
 
 One point that doesn't come out strongly in that old post is the difficulty of abstraction. Pattern mining/writing requires some significant capability with abstraction. Both to identify a practical problem/solution and abstract that into a general pattern, but also to simply grasp the value of pattern languages in the first place. This is demonstrated in the observation that the object-oriented programming (OOP) community adopted the concept of design patterns much more readily than architects (the design pattern idea was developed by an architect). Really good OOP folk are very good at abstraction.
 

@@ -6,10 +6,10 @@ categories:
 date: 2010-04-15 11:21:31+10:00
 next:
   text: Clarification of the alignment project
-  url: /blog2/2010/04/22/clarification-of-the-alignment-project/
+  url: /blog/2010/04/22/clarification-of-the-alignment-project/
 previous:
   text: Further thinking - behaviour change and improving L&#038;T
-  url: /blog2/2010/04/15/further-thinking-behaviour-change-and-improving-lt/
+  url: /blog/2010/04/15/further-thinking-behaviour-change-and-improving-lt/
 title: Framing a body of research and innovation
 type: post
 template: blog-post.html
@@ -85,7 +85,7 @@ pingbacks:
     []
     
 ---
-Markus has finally [posted](http://mathehu.wordpress.com/2010/04/14/framing-a-research-proposal-idea/) the set of questions for framing a research proposal idea that he showed me weeks ago. This post is an attempt to use those questions to frame what I'm doing in my [current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
+Markus has finally [posted](http://mathehu.wordpress.com/2010/04/14/framing-a-research-proposal-idea/) the set of questions for framing a research proposal idea that he showed me weeks ago. This post is an attempt to use those questions to frame what I'm doing in my [current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 
 A simple test for BIM purposes, ignore
 

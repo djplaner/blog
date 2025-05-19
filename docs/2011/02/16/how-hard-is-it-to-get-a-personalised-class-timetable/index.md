@@ -6,10 +6,10 @@ categories:
 date: 2011-02-16 13:56:54+10:00
 next:
   text: A glimmer of what I'm thinking
-  url: /blog2/2011/02/16/a-glimmer-of-what-im-thinking/
+  url: /blog/2011/02/16/a-glimmer-of-what-im-thinking/
 previous:
   text: Getting an overview of the term ahead
-  url: /blog2/2011/02/15/getting-an-overview-of-the-term-ahead/
+  url: /blog/2011/02/15/getting-an-overview-of-the-term-ahead/
 title: How hard is it to get a personalised class timetable?
 type: post
 template: blog-post.html
@@ -92,7 +92,7 @@ pingbacks:
     []
     
 ---
-Apparently, it is [too complex](/blog2/2011/02/15/getting-an-overview-of-the-term-ahead/#comment-3835) to create a personalised class timetable for students at the institution I'm attending. I have [previously described](/blog2/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/) what I (as a student) have to currently do to create my class timetable as well as explaining that I helped implement a personalised class timetable system at the same institution about 10 years ago.
+Apparently, it is [too complex](/blog/2011/02/15/getting-an-overview-of-the-term-ahead/#comment-3835) to create a personalised class timetable for students at the institution I'm attending. I have [previously described](/blog/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/) what I (as a student) have to currently do to create my class timetable as well as explaining that I helped implement a personalised class timetable system at the same institution about 10 years ago.
 
 The purpose of this post is to find out just how difficult it would be to do it today.
 
@@ -105,7 +105,7 @@ The institutional context includes:
 
 ### The plan
 
-The [previous personalised timetable system](/blog2/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/) at this institution was a stand-alone web application. With some input it created a one week summary timetable as a single HTML page. Given the change in context, in particular the availability of Google calendar, the plan is to respond to this change. Rather than having a stand-alone institutional application, the plan is to integrate with what students are using.
+The [previous personalised timetable system](/blog/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/) at this institution was a stand-alone web application. With some input it created a one week summary timetable as a single HTML page. Given the change in context, in particular the availability of Google calendar, the plan is to respond to this change. Rather than having a stand-alone institutional application, the plan is to integrate with what students are using.
 
 That is, the plan is
 
@@ -175,4 +175,4 @@ It took me just over 3 hours to complete this. There was a break for lunch and m
 
 This is not an "enterprise" solution, not yet. But it wouldn't be that difficult to do. It's certainly not impossible.
 
-If you have followed some of [my previous work](http://www.slideshare.net/davidj/alternatives-for-the-institutional-implementation-of-elearning-lessons-from-12-years-of-webfuse) or [blog posts](/blog2/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/) it will not be a surprise that I believe there are significant barriers in the processes around institutional IT systems that limit the possibility of these types of innovations.
+If you have followed some of [my previous work](http://www.slideshare.net/davidj/alternatives-for-the-institutional-implementation-of-elearning-lessons-from-12-years-of-webfuse) or [blog posts](/blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/) it will not be a surprise that I believe there are significant barriers in the processes around institutional IT systems that limit the possibility of these types of innovations.

@@ -5,10 +5,10 @@ categories:
 date: 2013-03-06 11:35:20+10:00
 next:
   text: The absence of a search function - my current big problem with a Moodle installation
-  url: /blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/
+  url: /blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/
 previous:
   text: How are they going?
-  url: /blog2/2013/03/04/how-are-they-going/
+  url: /blog/2013/03/04/how-are-they-going/
 title: How much of a cage should I build?
 type: post
 template: blog-post.html
@@ -148,11 +148,11 @@ The course website is a Moodle site. Each week the students have a list (perhaps
 
 [![Week 1 learning path](images/8531981481_1f0719ef8b_n.jpg)](http://www.flickr.com/photos/david_jones/8531981481/ "Week 1 learning path by David T Jones, on Flickr")
 
-Building on this, part of the assessment of the course is tied to how many of these activities they complete. Activity completion is actually linked to keeping a [learning journal](/blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) and contributes 15% of the total course mark (5% for each of the 3 assignments).
+Building on this, part of the assessment of the course is tied to how many of these activities they complete. Activity completion is actually linked to keeping a [learning journal](/blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) and contributes 15% of the total course mark (5% for each of the 3 assignments).
 
 ### Task corruption
 
-Given the pragmatic nature of students today and especially given the perceived large amount of work in the first week. It was not surprising that a bit of [task corruption"](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) is creeping in. I assumed that some students would figure out that for the activities that are "web pages" with exercises, simply visiting the page would tick the box.
+Given the pragmatic nature of students today and especially given the perceived large amount of work in the first week. It was not surprising that a bit of [task corruption"](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) is creeping in. I assumed that some students would figure out that for the activities that are "web pages" with exercises, simply visiting the page would tick the box.
 
 But there are other activities that require students to post to a discussion forum with some form of artefact. For example, a description of a resource found on Scootle and a description of how it links to their curriculum. These are posts that I see and try to keep a track of. So a bit of a deterrent?
 
@@ -173,7 +173,7 @@ I don't want to set myself the task of being a policeman. But perhaps I need to 
 
 .
 
-A purely pragmatic reason against doing this is that it will take a lot of work to police this. For another, I've [already expressed some reservations](/blog2/2013/02/08/the-missing-perspectives-on-moocs/) about what it means to impose new learning strategies on a group of learners. That's certainly something the course is currently doing.
+A purely pragmatic reason against doing this is that it will take a lot of work to police this. For another, I've [already expressed some reservations](/blog/2013/02/08/the-missing-perspectives-on-moocs/) about what it means to impose new learning strategies on a group of learners. That's certainly something the course is currently doing.
 
 We're also talking about 3rd year University students, shouldn't they live with their choices? If the don't engage in these activities I do believe they will learn less and perform worse on the other assessment.
 

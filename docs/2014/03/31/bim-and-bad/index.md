@@ -6,10 +6,10 @@ categories:
 date: 2014-03-31 16:08:07+10:00
 next:
   text: Staff need to be using the same tools they use to teach to also learn
-  url: /blog2/2014/04/02/staff-need-to-be-using-the-same-tools-they-use-to-teach-to-also-learn/
+  url: /blog/2014/04/02/staff-need-to-be-using-the-same-tools-they-use-to-teach-to-also-learn/
 previous:
   text: 'Some areas of improvement for #edc3100'
-  url: /blog2/2014/03/28/some-areas-of-improvement-for-edc3100/
+  url: /blog/2014/03/28/some-areas-of-improvement-for-edc3100/
 title: BIM and BAD
 type: post
 template: blog-post.html
@@ -38,7 +38,7 @@ BAD is an acronym that captures what I think is missing from the institutional a
 
 The idea is if institutional e-learning is to get better, it needs to be BAD (more BAD?).
 
-The following is an example of how the reality of using [BIM](/blog2/research/bam-blog-aggregation-management/) in action supports the idea that it needs to be BAD. Or at least it's a very small step. It captures the messiness (the distribution) of e-learning in a typical university course. A messiness that isn't captured properly by PRINCE II and other methodologies, hierarchical organisational structures, appropriately total quality assured forms and processes and "theory" based abstractions like adopter categories.
+The following is an example of how the reality of using [BIM](/blog/research/bam-blog-aggregation-management/) in action supports the idea that it needs to be BAD. Or at least it's a very small step. It captures the messiness (the distribution) of e-learning in a typical university course. A messiness that isn't captured properly by PRINCE II and other methodologies, hierarchical organisational structures, appropriately total quality assured forms and processes and "theory" based abstractions like adopter categories.
 
 And yes, there is some strong connection (repetition) with earlier perspectives/frameworks of mine. If at first you don't succeed, try, try again.
 

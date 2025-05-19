@@ -4,10 +4,10 @@ categories:
 date: 2010-10-27 09:11:46+10:00
 next:
   text: Thesis abstract v1.0b
-  url: /blog2/2010/10/28/thesis-abstract-v1-0/
+  url: /blog/2010/10/28/thesis-abstract-v1-0/
 previous:
   text: Ideas for extending the flexibility of BIM
-  url: /blog2/2010/10/21/ideas-for-extending-the-flexibility-of-bim/
+  url: /blog/2010/10/21/ideas-for-extending-the-flexibility-of-bim/
 tags:
 - academic
 - australian-learning

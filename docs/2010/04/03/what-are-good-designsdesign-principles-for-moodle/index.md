@@ -6,19 +6,19 @@ categories:
 date: 2010-04-03 23:04:09+10:00
 next:
   text: '"Reducing the aggravation of student blogging: The story of BIM"'
-  url: /blog2/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/
+  url: /blog/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/
 previous:
   text: 'PhD Update #25: A return to discipline?'
-  url: /blog2/2010/04/02/phd-update-25-a-return-to-discipline/
+  url: /blog/2010/04/02/phd-update-25-a-return-to-discipline/
 title: What are good designs/design principles for Moodle
 type: post
 template: blog-post.html
 ---
-My [current institution](http://www.cqu.edu.au/) has adopted [Moodle](http://moodle.org/) as its institutional LMS as of 2010. Due to my role, I haven't really had to think about how you best go about designing a Moodle course. Now, however, due to the [curriculum mapping project](/blog2/research/curriculum-mapping/) it is likely that I am going to have to engage with this. Hence the question, what are the different principles, guidelines or approaches for designing a Moodle course site?
+My [current institution](http://www.cqu.edu.au/) has adopted [Moodle](http://moodle.org/) as its institutional LMS as of 2010. Due to my role, I haven't really had to think about how you best go about designing a Moodle course. Now, however, due to the [curriculum mapping project](/blog/research/curriculum-mapping/) it is likely that I am going to have to engage with this. Hence the question, what are the different principles, guidelines or approaches for designing a Moodle course site?
 
 ### Why do you ask?
 
-A part of the aim of the [curriculum mapping project](/blog2/research/curriculum-mapping/) is to map the alignment of course activities, resources and assessment against graduate attributes, learning outcomes etc. At the moment, the project is at the stage of experimenting with existing Moodle courses - course sites that are live now - and seeing how well (or not) Moodle's existing outcomes support can be used for this mapping purpose.
+A part of the aim of the [curriculum mapping project](/blog/research/curriculum-mapping/) is to map the alignment of course activities, resources and assessment against graduate attributes, learning outcomes etc. At the moment, the project is at the stage of experimenting with existing Moodle courses - course sites that are live now - and seeing how well (or not) Moodle's existing outcomes support can be used for this mapping purpose.
 
 I'm only looking at a very small number of courses, however, these are courses put together by academics who care about their teaching, who want to make an effort. From this small sample it appears that, as they stand, the design of these course sites will not easily enable the clear mapping of the activities, resources and assessments against outcomes. It's clear that the design of these courses is very different, and that's in spite of the the institution paying some lip service to consistency of experience for the students (which is misguided I think as in the end it only results in superficial consistency and more importantly fails to engage with a key characteristic of learning and teaching - it's diversity).
 

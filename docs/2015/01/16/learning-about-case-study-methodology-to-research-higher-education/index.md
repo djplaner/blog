@@ -7,10 +7,10 @@ date: 2015-01-16 14:51:07+10:00
 next:
   text: What might the 3 levels of organisational culture reveal about university
     e-learning
-  url: /blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  url: /blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
 previous:
   text: 'Choosing a research publication outlet: Part II'
-  url: /blog2/2015/01/14/choosing-a-research-publication-outlet-part-ii/
+  url: /blog/2015/01/14/choosing-a-research-publication-outlet-part-ii/
 title: Learning about case study methodology to research higher education
 type: post
 template: blog-post.html
@@ -53,7 +53,7 @@ The following is a summary and some thoughts on Harland (2014). The abstract for
 
 ## My interest
 
-As [outlined previously](/blog2/2015/01/14/choosing-a-research-publication-outlet-part-ii/), I have to write more journal articles. The current paper idea I have goes under the following working title "BAM, BIM, Blogs and Breaking BAD: What does it take to create quality e-learning?". It's currently conceptualised as a case study of the development and use of BAM and [BIM](/blog2/research/bam-blog-aggregation-management/) to support the use of individual student blogs from 2006 through 2015. The basic argument is that it's no surprise that most e-learning is not that great, given the difficulty of doing anything decent within the current institutional mindset around e-learning. The idea is to draw on the [Breaking BAD paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/), a [presentation to MoodleMoot](/blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) and various [other publications](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) round BIM/BAM over the years.
+As [outlined previously](/blog/2015/01/14/choosing-a-research-publication-outlet-part-ii/), I have to write more journal articles. The current paper idea I have goes under the following working title "BAM, BIM, Blogs and Breaking BAD: What does it take to create quality e-learning?". It's currently conceptualised as a case study of the development and use of BAM and [BIM](/blog/research/bam-blog-aggregation-management/) to support the use of individual student blogs from 2006 through 2015. The basic argument is that it's no surprise that most e-learning is not that great, given the difficulty of doing anything decent within the current institutional mindset around e-learning. The idea is to draw on the [Breaking BAD paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/), a [presentation to MoodleMoot](/blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) and various [other publications](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) round BIM/BAM over the years.
 
 Given it's a case study and they have limitations, it's probably a good idea to be able to write up the method in a way that ticks all the right boxes. Hence my interest in Harland (2014).
 

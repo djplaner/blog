@@ -5,10 +5,10 @@ categories:
 date: 2010-06-02 10:20:34+10:00
 next:
   text: The design of a Moodle course site
-  url: /blog2/2010/06/02/the-design-of-a-moodle-course-site/
+  url: /blog/2010/06/02/the-design-of-a-moodle-course-site/
 previous:
   text: Adding OPML feeds to BIM
-  url: /blog2/2010/06/01/adding-opml-feeds-to-bim/
+  url: /blog/2010/06/01/adding-opml-feeds-to-bim/
 title: The role of experience
 type: post
 template: blog-post.html
@@ -88,7 +88,7 @@ This morning I was listening [to this talk](http://fora.tv/2009/10/04/Baroness_S
 
 What is the current environment of compliance, command and control, and Theory X doing to the thoughts and brains of the academics that work within them?
 
-[Dan Pink](http://www.ted.com/talks/dan_pink_on_motivation.html) talks about motivation and suggests that it requires workers to have feelings of autonomy, mastery and purpose. When it comes to learning and teaching within universities, [I've argued previously](/blog2/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/#pink) that for some the current environment provides anything but that combination.
+[Dan Pink](http://www.ted.com/talks/dan_pink_on_motivation.html) talks about motivation and suggests that it requires workers to have feelings of autonomy, mastery and purpose. When it comes to learning and teaching within universities, [I've argued previously](/blog/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/#pink) that for some the current environment provides anything but that combination.
 
 As it happens, I'm also reading at the moment a book by James Zull called [The Art of Changing the Brain: Enriching the practice of teaching by exploring the biology of learning](http://www.amazon.com/gp/product/1579220541/ref=pd_luc_wl_04_02). I think this quote is interesting (emphasis in original)
 

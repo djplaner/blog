@@ -8,16 +8,16 @@ categories:
 date: 2010-08-24 17:22:41+10:00
 next:
   text: Nobody likes a do-gooder - another reason for e-learning not mainstreaming?
-  url: /blog2/2010/08/25/nobody-likes-a-do-gooder-another-reason-for-lt/
+  url: /blog/2010/08/25/nobody-likes-a-do-gooder-another-reason-for-lt/
 previous:
   text: 'University e-learning systems: the need for new product and process models
     and some examples'
-  url: /blog2/2010/08/24/university-e-learning-systems-the-need-for-new-product-and-process-models-and-some-examples/
+  url: /blog/2010/08/24/university-e-learning-systems-the-need-for-new-product-and-process-models-and-some-examples/
 title: The end of management - lessons for universities?
 type: post
 template: blog-post.html
 ---
-Yet another "death of X" article is the spark for this post. [This one](http://online.wsj.com/article/SB10001424052748704476104575439723695579664.html) comes from the Wall Street Journal and is titled [The end of management](http://online.wsj.com/article/SB10001424052748704476104575439723695579664.html). There's been a wave of these articles recently, but this one I like because it caters to my prejudice that most of the problems in organisations, especially in universities around learning and teaching, arise from an inappropriate management paradigm. The following has some connections to the [oil sheiks thread.](/blog2/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/)
+Yet another "death of X" article is the spark for this post. [This one](http://online.wsj.com/article/SB10001424052748704476104575439723695579664.html) comes from the Wall Street Journal and is titled [The end of management](http://online.wsj.com/article/SB10001424052748704476104575439723695579664.html). There's been a wave of these articles recently, but this one I like because it caters to my prejudice that most of the problems in organisations, especially in universities around learning and teaching, arise from an inappropriate management paradigm. The following has some connections to the [oil sheiks thread.](/blog/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/)
 
 Some choice quotes
 

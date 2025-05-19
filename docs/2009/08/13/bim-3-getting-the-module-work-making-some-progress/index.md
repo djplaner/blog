@@ -4,10 +4,10 @@ categories:
 date: 2009-08-13 11:31:16+10:00
 next:
   text: '"PhD Update #20 - Progress, slowness and techno-rationality"'
-  url: /blog2/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
+  url: /blog/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/
 previous:
   text: BIM#2 - Starting the module
-  url: /blog2/2009/08/11/bim2-starting-the-module/
+  url: /blog/2009/08/11/bim2-starting-the-module/
 title: '"BIM #3: Getting the module work, making some progress?"'
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The story of trying to get BAM into Moodle (BIM) continues, today's saga continues on from the [last post](/blog2/2009/08/11/bim2-starting-the-module/) which had progress stalled. The NEWMODULE template module was put in place, I had thought most of the necessary steps were being taken, however, the module name is not showing up as expected.
+The story of trying to get BAM into Moodle (BIM) continues, today's saga continues on from the [last post](/blog/2009/08/11/bim2-starting-the-module/) which had progress stalled. The NEWMODULE template module was put in place, I had thought most of the necessary steps were being taken, however, the module name is not showing up as expected.
 
 First, I'll try and solve that problem, then make some moves on starting to put in some initial functionality into the BIM module to get it working as a prototype.
 

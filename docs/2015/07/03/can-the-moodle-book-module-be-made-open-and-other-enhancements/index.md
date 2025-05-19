@@ -4,10 +4,10 @@ categories:
 date: 2015-07-03 15:44:31+10:00
 next:
   text: '"Re-using a #moodle course design"'
-  url: /blog2/2015/07/04/re-using-a-moodle-course-design/
+  url: /blog/2015/07/04/re-using-a-moodle-course-design/
 previous:
   text: Re-building results processing
-  url: /blog2/2015/07/01/re-building-results-processing/
+  url: /blog/2015/07/01/re-building-results-processing/
 title: Can the Moodle book module be made open and other enhancements
 type: post
 template: blog-post.html
@@ -197,7 +197,7 @@ pingbacks:
     []
     
 ---
-Next week I'm off to Melbourne to [Moodlemoot'AU 2015](https://mootau15.moodlemoot.org/). This post will hold the details and resources associated with [this talk](https://mootau15.moodlemoot.org/mod/data/view.php?d=1&rid=126) which is talking about how the Moodle book module might be enhanced, including by making it more open. It's the first public talk about the USQ funded [Moodle book project](/blog2/the-moodle-open-book-module-project/).
+Next week I'm off to Melbourne to [Moodlemoot'AU 2015](https://mootau15.moodlemoot.org/). This post will hold the details and resources associated with [this talk](https://mootau15.moodlemoot.org/mod/data/view.php?d=1&rid=126) which is talking about how the Moodle book module might be enhanced, including by making it more open. It's the first public talk about the USQ funded [Moodle book project](/blog/the-moodle-open-book-module-project/).
 
 There's a [Moodle site](https://mootau15.moodlemoot.org/course/view.php?id=7) associated with the Moot presentation.
 
@@ -223,6 +223,6 @@ As a spark for that conversation the session will outline a range of possible en
 
 ##### Background  
 
-Much of this work is being done as part of the [Moodle "open" book project](/blog2/the-moodle-open-book-module-project/) funded by a grant from [USQ's Open Textbook Initiative](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks). The project aims to enable Moodle books to be leveraged as OERs and implement more general enhancements to the module. The aim is to ensure that any and all work done is contributed back to the Moodle community.  
+Much of this work is being done as part of the [Moodle "open" book project](/blog/the-moodle-open-book-module-project/) funded by a grant from [USQ's Open Textbook Initiative](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks). The project aims to enable Moodle books to be leveraged as OERs and implement more general enhancements to the module. The aim is to ensure that any and all work done is contributed back to the Moodle community.  
 
 Initial pre- and post- session discussions will take place in a site associated with the Moot before migrating to a more appropriate location.

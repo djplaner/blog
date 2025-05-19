@@ -143,7 +143,7 @@ pingbacks:
 ---
 ### Update
 
-The project has had a small realignment in its aims to focus more on the question of [alignment](/blog2/2010/04/22/clarification-of-the-alignment-project/) rather than just curriculum mapping. Curriculum mapping is a part of the project, however, the broader aim is to investigate how to make changes to the L&T environment within universities to make consideration of alignment (curricula, instructional, constructive etc) a more visible part of the everyday practice of academics.
+The project has had a small realignment in its aims to focus more on the question of [alignment](/blog/2010/04/22/clarification-of-the-alignment-project/) rather than just curriculum mapping. Curriculum mapping is a part of the project, however, the broader aim is to investigate how to make changes to the L&T environment within universities to make consideration of alignment (curricula, instructional, constructive etc) a more visible part of the everyday practice of academics.
 
 ### Old introduction
 
@@ -159,7 +159,7 @@ Currently, this page is becoming the place holder for any and all information ab
 
 ### What's it about
 
-The most recent attempt to explain the project [is this post](/blog2/2010/02/17/how-to-make-curriculum-mapping-useful-to-university-academics/). A quick summary follows.
+The most recent attempt to explain the project [is this post](/blog/2010/02/17/how-to-make-curriculum-mapping-useful-to-university-academics/). A quick summary follows.
 
 The problems:
 
@@ -231,7 +231,7 @@ Increasingly students are being asked to maintain their own record/evidence of t
 
 ### Developer versus adopter focused methodologies
 
-Organisational implementation of curriculum mapping is usually developer-led (developers = curriculum designers, quality folk, graduate attributes etc.). Such approaches assume the better approach (curriculum mapping) will automatically replace traditional practice (ad hoc methods for creating and reviewing courses). The follow quote is from [Jones and Lynch](/blog2/publications/a-model-for-the-design-of-web-based-systems-that-supports-adoption-appropriation-and-evolution/) (1999) and draws heavily on the developer/adopter focused distinction described by Surry and Farquhar (1997)
+Organisational implementation of curriculum mapping is usually developer-led (developers = curriculum designers, quality folk, graduate attributes etc.). Such approaches assume the better approach (curriculum mapping) will automatically replace traditional practice (ad hoc methods for creating and reviewing courses). The follow quote is from [Jones and Lynch](/blog/publications/a-model-for-the-design-of-web-based-systems-that-supports-adoption-appropriation-and-evolution/) (1999) and draws heavily on the developer/adopter focused distinction described by Surry and Farquhar (1997)
 
 > In contrast to the developer-based approach, the adopter-based approach focuses on the human, social, and interpersonal aspects of innovation diffusion. Developers are interested in the individual who will ultimately implement the innovation in a practical setting as the primary force for change. The adopter-based theories reject the assumption that superior products will automatically be attractive to potential adopters. They ’seek to understand the social context in which the innovation will be used and the social function the innovation will serve’.  
 >   

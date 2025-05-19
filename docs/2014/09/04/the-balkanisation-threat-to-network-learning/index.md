@@ -5,10 +5,10 @@ categories:
 date: 2014-09-04 12:24:56+10:00
 next:
   text: Breaking BAD to bridge the e-learning reality/rhetoric chasm
-  url: /blog2/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/
+  url: /blog/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/
 previous:
   text: Learning how to make waves
-  url: /blog2/2014/09/03/learning-how-to-make-waves/
+  url: /blog/2014/09/03/learning-how-to-make-waves/
 title: The balkanisation threat to network learning
 type: post
 template: blog-post.html

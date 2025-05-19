@@ -5,10 +5,10 @@ categories:
 date: 2011-03-31 10:06:48+10:00
 next:
   text: '"Pedagogical Content Knowledge: Weeks 5/6"'
-  url: /blog2/2011/03/31/pedagogical-content-knowledge-weeks-56/
+  url: /blog/2011/03/31/pedagogical-content-knowledge-weeks-56/
 previous:
   text: The next step for the LMS?
-  url: /blog2/2011/03/31/the-next-step-for-the-lms/
+  url: /blog/2011/03/31/the-next-step-for-the-lms/
 title: '"Pedagogical Content Knowledge: Week 4"'
 type: post
 template: blog-post.html

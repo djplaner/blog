@@ -7,10 +7,10 @@ categories:
 date: 2015-06-16 22:35:51+10:00
 next:
   text: Revisiting the IRAC framework and looking for insights
-  url: /blog2/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/
+  url: /blog/2015/06/18/revisiting-the-irac-framework-and-looking-for-insights/
 previous:
   text: Types of e-learning projects and the problem of starvation
-  url: /blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
+  url: /blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
 title: Exploring BIM + sentiment analysis - what might it say about student blog posts
 type: post
 template: blog-post.html
@@ -47,7 +47,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following documents some initial exploration into why, if, and how sentiment analysis might be added to the [BIM module](/blog2/research/bam-blog-aggregation-management/) for Moodle. BIM is a tool that helps manage and mirror blog posts from individual student blogs. [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) is an application of algorithms to identify the sentiment/emotions/polarity of a person/author through their writing and other artefacts. The theory is that sentiment analysis can alert a teacher if a student has written something that is deemed sad, worried, or confused; but also happy, confident etc.
+The following documents some initial exploration into why, if, and how sentiment analysis might be added to the [BIM module](/blog/research/bam-blog-aggregation-management/) for Moodle. BIM is a tool that helps manage and mirror blog posts from individual student blogs. [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis) is an application of algorithms to identify the sentiment/emotions/polarity of a person/author through their writing and other artefacts. The theory is that sentiment analysis can alert a teacher if a student has written something that is deemed sad, worried, or confused; but also happy, confident etc.
 
 Of course, the promise of analytics-based approaches like this may be oversold. [There's a suggestion](http://www.slideshare.net/mcieliebak/deep-learning-for-sentiment-at-sgaico-2014-by-mark-cieliebak) that some approaches are wrong 4 out of 10 times. But I've seen other suggestions that human beings can be wrong at the same task 3 out of 10 times. So the questions are
 
@@ -83,4 +83,4 @@ With that very ill-informed testing, there are at least some glimmers of hope.
 
 Does it work on blog posts.......actually not that bad. Certainly good enough to play around with some more and as a proof of concept in my constrained circumstances. Of course, indico is by no means the only tool available (e.g. [meaningcloud](https://www.meaningcloud.com/developer/sentiment-analysis/doc/2.0/what-is-sentiment-analysis)).
 
-But for the purpose of the talk I have to give in a couple of weeks, I should be able to use this to knock up something that works with the [more student details script](/blog2/2014/11/13/adding-more-student-information-to-a-moodle-course/).
+But for the purpose of the talk I have to give in a couple of weeks, I should be able to use this to knock up something that works with the [more student details script](/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/).

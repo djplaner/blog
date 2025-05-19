@@ -10,15 +10,15 @@ categories:
 date: 2009-08-05 14:35:06+10:00
 next:
   text: Losing weight, improving learning and teaching and complex systems
-  url: /blog2/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
+  url: /blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
 previous:
   text: Automating calculation of LMS/CMS/VLE feature usage - a project?
-  url: /blog2/2009/08/05/automating-calculation-of-lmscmsvle-feature-usage-a-project/
+  url: /blog/2009/08/05/automating-calculation-of-lmscmsvle-feature-usage-a-project/
 title: External factors associated with CMS adoption
 type: post
 template: blog-post.html
 ---
-This post follows on from [a previous post](/blog2/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/) and continues an examination of some papers written by Malikowski and colleagues examining the adoption of features of an LMS/VLE/CMS. This one focuses on the 2006 paper.
+This post follows on from [a previous post](/blog/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/) and continues an examination of some papers written by Malikowski and colleagues examining the adoption of features of an LMS/VLE/CMS. This one focuses on the 2006 paper.
 
 ### External factors associated with CMS adoption
 
@@ -57,7 +57,7 @@ Interestingly, they have a spiel about causation and relationship
 
 > An important point to clarify is that the method applied in this study was not intended to determine if external factors caused the use of CMS features. Identifying causation is an important but particularly challenging research goal (Fraenkel &Wallen, 1990). Instead, the current method and study only sought to determine if significant relationships existed between external factors and the adoption of specific CMS features.
 
-Looks like basically the same methodology and perhaps same data set as the [2008 paper](/blog2/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/). They do note some problems with the manual checking of course sites
+Looks like basically the same methodology and perhaps same data set as the [2008 paper](/blog/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/). They do note some problems with the manual checking of course sites
 
 > This analysis was a labor intensive process of viewing a D2LWeb site for a particular course and completing a copy of the data collection form, by counting how often features in D2L were used. In some cases, members of the research team counted thousands of items.
 

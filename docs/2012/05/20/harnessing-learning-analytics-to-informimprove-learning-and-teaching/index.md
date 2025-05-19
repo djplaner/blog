@@ -4,10 +4,10 @@ categories:
 date: 2012-05-20 15:09:35+10:00
 next:
   text: '"Learning Analytics: engaging with and changing learning and teaching"'
-  url: /blog2/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
+  url: /blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
 previous:
   text: 'A #pstn story, so far'
-  url: /blog2/2012/05/17/a-pstn-story-so-far/
+  url: /blog/2012/05/17/a-pstn-story-so-far/
 title: Harnessing learning analytics to inform/improve learning and teaching
 type: post
 template: blog-post.html
@@ -60,7 +60,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is an early attempt to formulate a method by which learning analytics could be used [to make a "Golf GTI"](/blog2/2012/05/15/can-learning-analytics-make-a-golf-gti/). The context for this is an attempt to develop a grant application for [an OLT grant](http://www.olt.gov.au/grants-and-projects/programs-and-applications).
+The following is an early attempt to formulate a method by which learning analytics could be used [to make a "Golf GTI"](/blog/2012/05/15/can-learning-analytics-make-a-golf-gti/). The context for this is an attempt to develop a grant application for [an OLT grant](http://www.olt.gov.au/grants-and-projects/programs-and-applications).
 
 ### Standing on the shoulders of giants
 
@@ -78,7 +78,7 @@ The overall aim of this project is to further address the "lack of research rega
 In achieving this, the project will:
 
 - Explore and validate established indicators of student learning performance (Dawson and McWilliam, 2008).  
-    This project will be based on [work that is doing](/blog2/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/) exactly this (which is in turn based on the work of others). The nature of this project, however, will almost certainly help identify new and interesting indicators and further test established indicators.
+    This project will be based on [work that is doing](/blog/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/) exactly this (which is in turn based on the work of others). The nature of this project, however, will almost certainly help identify new and interesting indicators and further test established indicators.
 - Investigate and supply what data, indicators, tools, and knowledge are required to better assist teaching staff to inform the design, delivery, and evaluation of individual teaching practice (Dawson, Bakharia, Lockyer, & Heathcote, 2011).  
     "The transformation of user-data from analysis to informed pedagogical action is for the vast majority of academic teaching staff, a complex and potentially labour intensive process" (Dawson, Heathcote, & Poole, 2010). The project will draw heavily on existing work, but also seek to make new contributions.
 - Explore how and with what impact learning analytics tools and insights are used to inform pedagogical interventions.
@@ -118,7 +118,7 @@ After a year or two of these cycles, it is assumed that the outcomes of the proj
 
 The following is a mixed-bag of theories and references that give a vague idea of the perspectives informing this project. There is no narrative in the following.
 
-From [this post](/blog2/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/)
+From [this post](/blog/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/)
 
 > Key enabling factors for knowledge creation is knowledge sharing and integration \[36,54\]. Research in organizational learning has emphasized the value of practice; people acquire and share knowledge in socially situated work. Learning in the organization occurs in the interplay between tacit and explicit knowledge while it crosses boundaries of groups, departments, and organizations as people participate in work \[17,54\]. The process should be situated in shared practice with a joint, collective purpose \[12,14,15\].
 
@@ -146,13 +146,13 @@ Any approach to one technology and pedagogy for all is pretty much doomed to fla
 
 The above is influence by my perspectives on what works in terms of changing/improving learning and teaching within universities. I need to re-read some of my earlier writings, including the following
 
-- [Faculty centered, peer reviews online course development models](/blog2/2012/02/19/faculty-centered-peer-reviewed-online-course-development-models/)
-- [Oil Sheiks, Lucifer and university learning and teaching](/blog2/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/)
+- [Faculty centered, peer reviews online course development models](/blog/2012/02/19/faculty-centered-peer-reviewed-online-course-development-models/)
+- [Oil Sheiks, Lucifer and university learning and teaching](/blog/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/)
     
     > If you really wish to improve the majority of learning and teaching within a university, then you have to focus on changing the culture/system so that academics staff are encouraged and enabled to engage in learning about how to teach.
     
-- [Scaffolding, context-sensitive conglomerations](/blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/) - one of the related/underpinning ideas for the above.
-- [Situated, shared-practice in curriculum design and academic development](/blog2/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/)
+- [Scaffolding, context-sensitive conglomerations](/blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/) - one of the related/underpinning ideas for the above.
+- [Situated, shared-practice in curriculum design and academic development](/blog/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/)
 
 ### References
 

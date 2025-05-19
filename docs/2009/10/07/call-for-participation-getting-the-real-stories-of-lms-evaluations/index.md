@@ -5,10 +5,10 @@ categories:
 date: 2009-10-07 13:12:30+10:00
 next:
   text: Is there value in strategic plans for educational technology
-  url: /blog2/2009/10/09/is-there-value-in-strategic-plans-for-educational-technology/
+  url: /blog/2009/10/09/is-there-value-in-strategic-plans-for-educational-technology/
 previous:
   text: LTERC, finally a research centre - shamless plug
-  url: /blog2/2009/10/07/lterc-finally-a-research-centre-shamless-plug/
+  url: /blog/2009/10/07/lterc-finally-a-research-centre-shamless-plug/
 tags:
 - cms-vle-lms
 title: '"Call for participation: Getting the real stories of LMS evaluations?"'

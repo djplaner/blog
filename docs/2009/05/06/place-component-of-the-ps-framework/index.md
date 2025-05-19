@@ -9,10 +9,10 @@ categories:
 date: 2009-05-06 08:06:32+10:00
 next:
   text: '"University - change or die: and another problem with the LMS model"'
-  url: /blog2/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
+  url: /blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
 previous:
   text: 'PhD Update #9 - spluttering out of steam'
-  url: /blog2/2009/05/01/phd-update-9-spluttering-out-of-steam/
+  url: /blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
 title: Place - component of the Ps Framework
 type: post
 template: blog-post.html
@@ -135,7 +135,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the introduction to a section of Chapter 2 of my [thesis](/blog2/research/phd-thesis/). It introduces the examination of the Place component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). Hopefully, the remaining sections of the section will be posted over the coming day or so.
+The following is the introduction to a section of Chapter 2 of my [thesis](/blog/research/phd-thesis/). It introduces the examination of the Place component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). Hopefully, the remaining sections of the section will be posted over the coming day or so.
 
 This isn't much of a post on its own, but posting it does provide a small sense of achievement that is much needed in the frustration that has been the last week or so in trying to get this section completed.
 

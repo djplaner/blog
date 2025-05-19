@@ -5,10 +5,10 @@ categories:
 date: 2009-05-13 22:11:16+10:00
 next:
   text: Institution - another part of place
-  url: /blog2/2009/05/15/institution-another-part-of-place/
+  url: /blog/2009/05/15/institution-another-part-of-place/
 previous:
   text: Quotes about innovation and creativity
-  url: /blog2/2009/05/13/quotes-about-innovation-and-creativity/
+  url: /blog/2009/05/13/quotes-about-innovation-and-creativity/
 title: Some initial thoughts on e-learning and innovation
 type: post
 template: blog-post.html
@@ -88,7 +88,7 @@ pingbacks:
     []
     
 ---
-Theoretically, I'm in the process of starting [a new job](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ that is focused on encouraging e-learning and innovation within a university context. The following post is an early attempt to try and make sense of this job, what it might do and how it might do it. It's probably of little value to others, but I'm trying to be open about this.
+Theoretically, I'm in the process of starting [a new job](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ that is focused on encouraging e-learning and innovation within a university context. The following post is an early attempt to try and make sense of this job, what it might do and how it might do it. It's probably of little value to others, but I'm trying to be open about this.
 
 This is still early days and the understanding will continue to grow and change. Due to the nature of human beings as [pattern matching intelligences](http://www.cognitive-edge.com/blogs/dave/2008/08/imperium_cogito.php) this exploration will necessarily, as arising out of my own attempts to make sense of this job, illustrate my past experiences and patterns of action. Feel free to disagree and suggest alternative perspectives.
 
@@ -129,7 +129,7 @@ The model represents two extreme ends of a spectrum:
 
 #### How to do it
 
-Having decided what to do, it is now necessary to plan how to do it. This spectrum draws on a distinction made by Kurtz and Snowden (2007) and is [one I've used before](/blog2/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/). The following table compares the two approaches.
+Having decided what to do, it is now necessary to plan how to do it. This spectrum draws on a distinction made by Kurtz and Snowden (2007) and is [one I've used before](/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/). The following table compares the two approaches.
 
 | Idealistic | Naturalistic |
 | --- | --- |
@@ -143,7 +143,7 @@ Snowden's point - and I agree - is that idealistic approaches only work in conte
 
 ### Putting the model in context
 
-The rest of the post attempts to use the above model to begin understanding the context within which the [new job](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ takes place. The aim is to help me formulate plans for the position that I need to raise with the hierarchy to get approval. It covers
+The rest of the post attempts to use the above model to begin understanding the context within which the [new job](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ takes place. The aim is to help me formulate plans for the position that I need to raise with the hierarchy to get approval. It covers
 
 - the spark; and  
     An attempt to identify factors, both naturalistic and idealistic, that are creating a need for change or innovation within the institution.
@@ -167,16 +167,16 @@ The following aims to provide an initial list of potential sparks that might be 
 
 The new position comes with a list of accountabilities by which the incumbent will be judged. Not surprisingly, this focuses the attention. The following are drawn from those accountabilities.
 
-- [Teaching/Research nexus](/blog2/elearning-and-innovation/#SoTL).
-- [Scholarship of teaching and learning](/blog2/elearning-and-innovation/#SoTL).
-- [Industry development and trends](/blog2/elearning-and-innovation/#Trends).  
+- [Teaching/Research nexus](/blog/elearning-and-innovation/#SoTL).
+- [Scholarship of teaching and learning](/blog/elearning-and-innovation/#SoTL).
+- [Industry development and trends](/blog/elearning-and-innovation/#Trends).  
     [George Siemens](http://www.elearnspace.org/blog/2009/04/30/analysis-of-emerging-trends-affecting-the-use-of-technology-in-education/) points to some sources for emerging trends including [BECTA analysis of emerging trends](http://emergingtechnologies.becta.org.uk/index.php?section=etr&rid=14522), the [Horizon project](http://www.nmc.org/horizon) and [ideas about future thinking](http://www.icvet.tafensw.edu.au/resources/futures_thinking.htm). There's also [TrendWatching.com](http://trendwatching.com/trends/innovationjubilation/).
     
     Of course, I have some questions about how people and their pattern matching intelligences can be good at futures thinking. I tend to prefer the aproach embodied in Alan Kay's quote
     
     > The best way to predict the future is to invent it.
     
-- [Literature](/blog2/elearning-and-innovation/#CommunicateAndPublish).
+- [Literature](/blog/elearning-and-innovation/#CommunicateAndPublish).
 
 #### Organisational strategic plans
 
@@ -311,7 +311,7 @@ An early version of the model in this post was a traditional 2x2 model (with sli
 | Sector | Description | What can be done |
 | --- | --- | --- |
 | Idealistic-fads | The pre-dominant mode within organisations. | This position will probably have little influence on these projects as they are driven by senior management. The best that can be hoped is to provide evidence and insight to those making decisions. Focused on nature of the organisation and the experience of students and staff. Helping increase the quality and quantity of the feedback to these folk. Make them aware of the limitations of the chosen approaches. Make sure that the knowledge generated from these projects is available and used to inform subsequent projects. Be aware of the fads/trends that are rising and become familiar with them. Perhaps attempt. |
-| Idealistic-knowledge | Generally limited use at the organisational level, some use in isolated areas | The insights from the projects are likely to be useful. Ensure that the knowledge is disseminated and informs subsequent projects. Be aware of the types of knowledge that can help inform proejcts and their implementation.  This is probably where traditional university "innovation" grants sit. Probably have to engage with these but the cartoon below stikes me as saying a few things about these grants and there's also the [work of Findlow.](/blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/)   |
+| Idealistic-knowledge | Generally limited use at the organisational level, some use in isolated areas | The insights from the projects are likely to be useful. Ensure that the knowledge is disseminated and informs subsequent projects. Be aware of the types of knowledge that can help inform proejcts and their implementation.  This is probably where traditional university "innovation" grants sit. Probably have to engage with these but the cartoon below stikes me as saying a few things about these grants and there's also the [work of Findlow.](/blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/)   |
 | Naturalistic-fads | A common approach - often seen in lone rangers | No point, ability or benefit in stopping these. Better to help inform their implementation and learn their lessons. How to do this effectively is another question. There are some connections here or perhaps in the next sector with [incremental, cumulative improvement](http://tlt-swg.blogspot.com/2008/02/fostering-incremental-cumulative.html) arising out of the work of the [Teaching, Learning, Technology group](http://www.tltgroup.org/). |
 | Naturalistic-knowledge | Rarely used and the sector I feel most appropriate for innovation around learning and teaching. | Have talked previously about the idea of reflective alignment. Something I'd like to try. Perhaps there are others. |
 

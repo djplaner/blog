@@ -4,15 +4,15 @@ categories:
 date: 2019-02-10 16:38:10+10:00
 next:
   text: Exploring knowledge reuse in design for digital learning
-  url: /blog2/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/
+  url: /blog/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/
 previous:
   text: Improving reuse of design knowledge in a LMS
-  url: /blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/
+  url: /blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/
 title: "Digital learning templates \u2013 adding context and configuration"
 type: post
 template: blog-post.html
 ---
-[My last post](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) introduced some early steps in exploring how to increase the reuse of design knowledge in design for digital learning (i.e. designing course websites). That post outlined the specific problem, the solution and linked it to work on constructive templates and patterns from the Hypermedia Design literature (Nanard, Nanard and Kahn, 1998). It closed with observing how the current solution was limited. It only provided scaffolding for the act of creating/implementing the specific design. It didn’t offer any affordances for the local context or design for configuration. This post details some early work to address this.
+[My last post](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) introduced some early steps in exploring how to increase the reuse of design knowledge in design for digital learning (i.e. designing course websites). That post outlined the specific problem, the solution and linked it to work on constructive templates and patterns from the Hypermedia Design literature (Nanard, Nanard and Kahn, 1998). It closed with observing how the current solution was limited. It only provided scaffolding for the act of creating/implementing the specific design. It didn’t offer any affordances for the local context or design for configuration. This post details some early work to address this.
 
 ### Reminder of the card interface “template”
 

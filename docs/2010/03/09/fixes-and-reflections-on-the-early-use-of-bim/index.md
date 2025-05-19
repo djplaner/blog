@@ -4,16 +4,16 @@ categories:
 date: 2010-03-09 13:35:36+10:00
 next:
   text: Outcomes and Moodle
-  url: /blog2/2010/03/09/outcomes-and-moodle/
+  url: /blog/2010/03/09/outcomes-and-moodle/
 previous:
   text: The Ps Framework and the mismatch created by the product and process of industrial
     e-learning
-  url: /blog2/2010/03/09/the-ps-framework-and-the-mismatch-created-by-the-product-and-process-of-industrial-e-learning/
+  url: /blog/2010/03/09/the-ps-framework-and-the-mismatch-created-by-the-product-and-process-of-industrial-e-learning/
 title: Fixes and reflections on the early use of BIM
 type: post
 template: blog-post.html
 ---
-[BIM](/blog2/research/bam-blog-aggregation-management/) is into it's 2nd week of being used at CQU (about 3/4 courses approaching 500 students) and there's also talk of it being used at another Australian university. It's time for a couple of reflections on early experience and also time to identify the source of a common problem.
+[BIM](/blog/research/bam-blog-aggregation-management/) is into it's 2nd week of being used at CQU (about 3/4 courses approaching 500 students) and there's also talk of it being used at another Australian university. It's time for a couple of reflections on early experience and also time to identify the source of a common problem.
 
 ### Not enough pro-active support
 

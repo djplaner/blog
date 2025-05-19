@@ -6,10 +6,10 @@ date: 2013-04-16 12:44:53+10:00
 next:
   text: Making e-learning tools that are more supportive - BIM, TPACK and truncated
     feeds
-  url: /blog2/2013/04/19/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds/
+  url: /blog/2013/04/19/making-e-learning-tools-that-are-more-supportive-bim-tpack-and-truncated-feeds/
 previous:
   text: Application or targeted learning analytics - another scope?
-  url: /blog2/2013/04/10/application-or-targeted-learning-analytics-another-scope/
+  url: /blog/2013/04/10/application-or-targeted-learning-analytics-another-scope/
 title: And they don't even know enough to expect better
 type: post
 template: blog-post.html
@@ -112,6 +112,6 @@ All of the staff involved are having to bumble along with systems with inherent 
 
 The point of the title and Peter's point was that many of the staff struggling with these systems think this is how information systems work. In their experience there has always been problems like this, it's something you live with. They don't know it can be better.
 
-This particular discussion also arose out of some of my [earlier discussions about the limits of our students' technical knowledge](/blog2/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/). A reason, perhaps a significant reason, that these limitations became obvious was the poor design of the technical (perhaps socio-technical systems) within which the students had to operate.
+This particular discussion also arose out of some of my [earlier discussions about the limits of our students' technical knowledge](/blog/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/). A reason, perhaps a significant reason, that these limitations became obvious was the poor design of the technical (perhaps socio-technical systems) within which the students had to operate.
 
 Experience with the online assignment submission system suggests that it's not just the students that are struggling with these problems

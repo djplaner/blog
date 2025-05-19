@@ -6,10 +6,10 @@ categories:
 date: 2009-12-09 08:55:26+10:00
 next:
   text: '"The Innovation Prevention Department: Why?"'
-  url: /blog2/2009/12/11/the-innovation-prevention-department-why/
+  url: /blog/2009/12/11/the-innovation-prevention-department-why/
 previous:
   text: Self-reporting considered harmful?
-  url: /blog2/2009/12/08/self-reporting-considered-harmful/
+  url: /blog/2009/12/08/self-reporting-considered-harmful/
 tags:
 - ascilite09
 title: Change the environment, not the culture
@@ -70,7 +70,7 @@ This quote is from the book ["The effective executive"](http://books.google.com.
 
 I would describe the approaches being taken at my institution, and many others, as leaning much more towards the controlling/directing of the academic, rather than the helping. The increasing corporatisation of university are leading to policies, processes and systems that require standardised approaches across units and institutions, that move towards the controlling/directing rather than the helping.
 
-I've [argued before](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels) that there are 3 observable levels of improving learning and teaching (re-purposing Biggs work on learning)
+I've [argued before](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels) that there are 3 observable levels of improving learning and teaching (re-purposing Biggs work on learning)
 
 1. **What the teacher is.**  
     This is the old laissez faire approach to teaching in universities. There are some good teachers, there are some bad teachers. The institution isn't really worried about this. Won't try to do anything, except perhaps the really bad ones in out of the way courses.

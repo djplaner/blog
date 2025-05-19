@@ -4,10 +4,10 @@ categories:
 date: 2015-08-17 17:17:14+10:00
 next:
   text: Testing the Lucimoo epub export book tool
-  url: /blog2/2015/08/18/testing-the-lucimoo-epub-export-book-tool/
+  url: /blog/2015/08/18/testing-the-lucimoo-epub-export-book-tool/
 previous:
   text: github and the Moodle book - Step 2
-  url: /blog2/2015/08/16/github-and-the-moodle-book-step-2/
+  url: /blog/2015/08/16/github-and-the-moodle-book-step-2/
 title: There's more to it than the Internet and social software
 type: post
 template: blog-post.html

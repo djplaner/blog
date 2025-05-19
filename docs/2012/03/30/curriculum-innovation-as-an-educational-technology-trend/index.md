@@ -7,10 +7,10 @@ categories:
 date: 2012-03-30 14:04:21+10:00
 next:
   text: bim2 - status check and what's next
-  url: /blog2/2012/03/30/bim2-status-check-and-whats-next/
+  url: /blog/2012/03/30/bim2-status-check-and-whats-next/
 previous:
   text: What are the really useful analytics?
-  url: /blog2/2012/03/29/what-are-the-really-useful-analytics/
+  url: /blog/2012/03/29/what-are-the-really-useful-analytics/
 title: Curriculum innovation as an educational technology trend
 type: post
 template: blog-post.html
@@ -186,7 +186,7 @@ Current accepted practice within higher education courses is something along the
 
 Over recent years the Australian higher education sector - with its growing diversity of multiple campuses and alternate delivery modes - has faced requirements to demonstrate that all students are gaining an equivalent learning experience. The tendency has been for equivalence to be reduced to consistent learning experience. Further driving out any notion of a "more flexible and open" curriculum.
 
-A couple of days ago [I blogged](/blog2/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/) about a talk given by Gardner Campbell. In it he references Naughton's [From Gutenberg to Zuckerberg](http://www.amazon.com/From-Gutenberg-Zuckerberg-John-Naughton/dp/0857384252) and his discussion of "double-loop" learning
+A couple of days ago [I blogged](/blog/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/) about a talk given by Gardner Campbell. In it he references Naughton's [From Gutenberg to Zuckerberg](http://www.amazon.com/From-Gutenberg-Zuckerberg-John-Naughton/dp/0857384252) and his discussion of "double-loop" learning
 
 > it is not enough for managers to adjust their behaviour in response to feedback on the success of their actions relative to pre-established targets; they also need to reflect on the appropriateness, in the light of unfolding events, of the assumptions (the mental model) used to set up those actions and targets
 

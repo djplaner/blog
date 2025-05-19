@@ -9,10 +9,10 @@ categories:
 date: 2009-03-30 21:41:59+10:00
 next:
   text: '"PhD Update #6 - start of shortened weeks"'
-  url: /blog2/2009/04/02/phd-update-6-start-of-shortened-weeks/
+  url: /blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
 previous:
   text: Prescription, adaptation and failure around improving univeristy teaching
-  url: /blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
+  url: /blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
 title: '"Implementing an institution-wide learning and teaching strategy: lessons
   in managing change"'
 type: post
@@ -135,7 +135,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a summary and possibly some reflection on Newton (2003). I'm still trying to decide if, as I read literature associated with [the PhD](/blog2/research/phd-thesis/), if I should take the time to produce these summaries. I wonder if, instead, I should concentrate on writing the thesis....
+The following is a summary and possibly some reflection on Newton (2003). I'm still trying to decide if, as I read literature associated with [the PhD](/blog/research/phd-thesis/), if I should take the time to produce these summaries. I wonder if, instead, I should concentrate on writing the thesis....
 
 Essentially illustrates that academics have different perspectives of strategy than management - SNAFU principle perhaps. Suggests need for better understanding of change and policy implementation. Reinforces much of what I think, some nice references, but doesn't necessarily indicate an appreciation of or if ateleological approaches might be more appropriate.
 

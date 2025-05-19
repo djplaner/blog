@@ -5,10 +5,10 @@ date: 2016-01-17 14:31:10+10:00
 next:
   text: '"Mapping the digital practices of teacher educators: Implications for teacher
     education in changing digital landscapes"'
-  url: /blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/
+  url: /blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/
 previous:
   text: Tweaking Moodle book search
-  url: /blog2/2015/12/15/tweaking-moodle-book-search/
+  url: /blog/2015/12/15/tweaking-moodle-book-search/
 tags:
 - moodleopenbook
 title: Finishing tweaks to Moodle book search block
@@ -34,7 +34,7 @@ pingbacks:
       user_id: '0'
     
 ---
-A [previous post](/blog2/2015/12/15/tweaking-moodle-book-search/) recorded some early exploration of what tweaks might be necessary to be made to the Moodle book search block. The [original code](https://github.com/stronk7/moodle-block_search_books) for the block and the [tweaks I've made](https://github.com/djplaner/moodle-block_search_books) are available via GitHub.
+A [previous post](/blog/2015/12/15/tweaking-moodle-book-search/) recorded some early exploration of what tweaks might be necessary to be made to the Moodle book search block. The [original code](https://github.com/stronk7/moodle-block_search_books) for the block and the [tweaks I've made](https://github.com/djplaner/moodle-block_search_books) are available via GitHub.
 
 ### Current status
 

@@ -4,10 +4,10 @@ categories:
 date: 2013-02-27 18:11:24+10:00
 next:
   text: BIM2 and disable_form_change_checker
-  url: /blog2/2013/03/03/bim2-and-disable_form_change_checker/
+  url: /blog/2013/03/03/bim2-and-disable_form_change_checker/
 previous:
   text: And it starts again, edc3100 in 2013
-  url: /blog2/2013/02/26/and-it-starts-again-edc3100-in-2013/
+  url: /blog/2013/02/26/and-it-starts-again-edc3100-in-2013/
 title: Diagnosing a BIM problem
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following problem with using BIM has [been reported](/blog2/research/bam-blog-aggregation-management/#comment-6088) the following is a record of my attempt to recreate and fix the problem. The problem
+The following problem with using BIM has [been reported](/blog/research/bam-blog-aggregation-management/#comment-6088) the following is a record of my attempt to recreate and fix the problem. The problem
 
 > I installed BIM2 on my Moodle 2.3. The installation was successful and I even managed to create a BIM activity. There is only one problem — When I go to Mark posts and click on a post, the only thing that is shown on the screen is the Changing post allocation headline. The rest of the screen is empty.
 

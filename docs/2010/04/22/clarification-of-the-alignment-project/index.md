@@ -4,10 +4,10 @@ categories:
 date: 2010-04-22 13:55:48+10:00
 next:
   text: Inside out, Outside in or both?
-  url: /blog2/2010/04/25/inside-out-outside-in-or-both/
+  url: /blog/2010/04/25/inside-out-outside-in-or-both/
 previous:
   text: Framing a body of research and innovation
-  url: /blog2/2010/04/15/framing-a-body-of-research-and-innovation/
+  url: /blog/2010/04/15/framing-a-body-of-research-and-innovation/
 tags:
 - altc
 title: Clarification of the alignment project
@@ -60,7 +60,7 @@ pingbacks:
     []
     
 ---
-Am at [the University of Canberra](http://www.canberra.edu.au/) for a second day today talking about the possibility of an ALTC grant application around alignment/[curriculum mapping](/blog2/research/curriculum-mapping/). The aim today is to try and clarify where the project would go and this post is an attempt to make concrete some of **my** thinking. The final ideas for the project may be radically different.
+Am at [the University of Canberra](http://www.canberra.edu.au/) for a second day today talking about the possibility of an ALTC grant application around alignment/[curriculum mapping](/blog/research/curriculum-mapping/). The aim today is to try and clarify where the project would go and this post is an attempt to make concrete some of **my** thinking. The final ideas for the project may be radically different.
 
 I'm going to use the "project clarification" section of the ALTC's [Steps in developing an evaluation plan for an ALTC grant project](http://www.altc.edu.au/extras/altc-gsep/proj_clarification.html) as the structure for this post. Mainly because of a belief that getting into the "ALTC mindset" will increase the likelihood of success.
 
@@ -111,7 +111,7 @@ The particular approach being taken with this project is to use Moodle as the to
     2. Moodle features that use the mapping information.  
         This is the really interesting part. What applications make embedding alignment into every day practice useful and interesting for the broadest array of stakeholders.
 
-In the [elevator pitch](/blog2/2010/04/01/elevator-pitch-for-curriculum-mapping/) for this project I identified some of the following as propositions:
+In the [elevator pitch](/blog/2010/04/01/elevator-pitch-for-curriculum-mapping/) for this project I identified some of the following as propositions:
 
 - Curriculum maps that are generated, and continue to evolve, in the same time and space as everyday teaching and learning will have stronger validity in terms of capturing reality and consequently be of more value.
 - A learning environment that makes visible to all stakeholders the alignment (or not) of a course and then provides scaffolding necessary to improve that alignment will help improve teaching.
@@ -123,7 +123,7 @@ Each of these could be thought of as potential outcomes. Yes, they should be dev
 
 ### What are the operational processes developed to achieve the outcomes?
 
-The process to be used in this project should lean heavily towards being adopter-focused (Surry & Farquhar, 1997). The following description is taken from [Jones and Lynch](/blog2/publications/a-model-for-the-design-of-web-based-systems-that-supports-adoption-appropriation-and-evolution/) (1999)
+The process to be used in this project should lean heavily towards being adopter-focused (Surry & Farquhar, 1997). The following description is taken from [Jones and Lynch](/blog/publications/a-model-for-the-design-of-web-based-systems-that-supports-adoption-appropriation-and-evolution/) (1999)
 
 > In contrast to the developer-based approach, the adopter-based approach focuses on the human, social, and interpersonal aspects of innovation diffusion (Surry & Farquhar, 1997). Developers are interested in the individual who will ultimately implement the innovation in a practical setting as the primary force for change. The adopter-based theories reject the assumption that superior products will automatically be attractive to potential adopters. They ’seek to understand the social context in which the innovation will be used and the social function the innovation will serve’ (Surry & Farquhar, 1997).
 

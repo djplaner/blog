@@ -9,10 +9,10 @@ categories:
 date: 2009-03-27 11:20:36+10:00
 next:
   text: '"PhD Update #5 - a new low"'
-  url: /blog2/2009/03/27/phd-update-5-a-new-low/
+  url: /blog/2009/03/27/phd-update-5-a-new-low/
 previous:
   text: The myth of rationality in the selection of learning management systems/VLEs
-  url: /blog2/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
+  url: /blog/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
 title: '""One ring to rule them all": Limitations and implications of the LMS/VLE
   product model"'
 type: post
@@ -94,7 +94,7 @@ pingbacks:
       user_id: '0'
     
 ---
-As part of [the PhD](/blog2/research/phd-thesis/) I'm developing the [P Frameworks](/blog2/2009/03/18/the-ps-framework/) as a theory for analysing/understanding the factors the impact the organisational implementation of e-learning. Essentially, [I argued that](http://www.slideshare.net/davidj/an-information-systems-design-theory-for-elearning) that the current institutional practice of e-learning within universities demonstrates an orthodoxy. Further, I argue that this orthodoxy has a number of flaws that limit, some significantly, potential outcomes.
+As part of [the PhD](/blog/research/phd-thesis/) I'm developing the [P Frameworks](/blog/2009/03/18/the-ps-framework/) as a theory for analysing/understanding the factors the impact the organisational implementation of e-learning. Essentially, [I argued that](http://www.slideshare.net/davidj/an-information-systems-design-theory-for-elearning) that the current institutional practice of e-learning within universities demonstrates an orthodoxy. Further, I argue that this orthodoxy has a number of flaws that limit, some significantly, potential outcomes.
 
 In this post, and a few following, I'm going to develop a description of what I see as the orthodoxy associated with the "Product" component of the Ps Framework, what I see as the flaws associated with that orthodoxy, and the impacts it has on the institutional impact of e-learning. The "Product" component of the Ps Framework is concerned with
 
@@ -245,7 +245,7 @@ So, if the enterprise system approach has so many problems, is there an alternat
 
 Avgeriou, P., S. Retalis, et al. (2003). An Architecture for Open Learning Management Systems. Advances in Informatics. Berlin, Springer-Verlag. 2563: 183-200.
 
-Beer, C. and D. Jones (2008). [Learning networks: harnessing the power of online communities for discipline and lifelong learning](/blog2/publications/learning-networks-harnessing-the-power-of-online-communities-for-discipline-and-lifelong-learning/). Lifelong Learning: reflecting on successes and framing futures. Keynote and refereed papers from the 5th International Lifelong Learning Conference, Rockhampton, Central Queensland University Press.
+Beer, C. and D. Jones (2008). [Learning networks: harnessing the power of online communities for discipline and lifelong learning](/blog/publications/learning-networks-harnessing-the-power-of-online-communities-for-discipline-and-lifelong-learning/). Lifelong Learning: reflecting on successes and framing futures. Keynote and refereed papers from the 5th International Lifelong Learning Conference, Rockhampton, Central Queensland University Press.
 
 Black, E., D. Beck, et al. (2007). "The other side of the LMS: Considering implementation and use in the adoption of an LMS in online and blended learning environments." Tech Trends 51(2): 35-39.
 

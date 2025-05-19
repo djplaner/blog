@@ -12,10 +12,10 @@ date: 2010-03-07 14:21:41+10:00
 next:
   text: The Ps Framework and the mismatch created by the product and process of industrial
     e-learning
-  url: /blog2/2010/03/09/the-ps-framework-and-the-mismatch-created-by-the-product-and-process-of-industrial-e-learning/
+  url: /blog/2010/03/09/the-ps-framework-and-the-mismatch-created-by-the-product-and-process-of-industrial-e-learning/
 previous:
   text: Design processes for teaching
-  url: /blog2/2010/03/05/design-processes-for-teaching/
+  url: /blog/2010/03/05/design-processes-for-teaching/
 title: Some thinking on analysing Webfuse usage
 type: post
 template: blog-post.html
@@ -82,7 +82,7 @@ Currently, chapter 4 of the thesis has the following table for feature usage by 
 This seems to suggest a need to:
 
 1. Identify a way of categorising LMS features - such as Malikowski et al (2007) - and mapping the LMS functionality into that feature set.  
-    Malikowski doesn't include [class management](/blog2/publications/class-management-the-forgotten-task/). Also, in a Webfuse context, the idea of a page update usage would be useful. Implies some flexibility in the feature categorisation. e.g. page Update might be a new category, course design and updating - it would be interesting to track the amount of time academics have to spend creating a course site over time. I suspect the more times they teach a course, the less they edit it.
+    Malikowski doesn't include [class management](/blog/publications/class-management-the-forgotten-task/). Also, in a Webfuse context, the idea of a page update usage would be useful. Implies some flexibility in the feature categorisation. e.g. page Update might be a new category, course design and updating - it would be interesting to track the amount of time academics have to spend creating a course site over time. I suspect the more times they teach a course, the less they edit it.
 2. Calculating the percentage of a course site features which belong to each feature category.
 3. Calculating the number of times each feature is used by a student and staff member.
 4. Being able to examine some usage by date/time periods.

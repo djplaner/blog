@@ -4,10 +4,10 @@ categories:
 date: 2009-01-06 09:34:46+10:00
 next:
   text: Reflections and Implications from Webfuse - Domain languages
-  url: /blog2/2009/01/07/reflections-and-implications-from-webfuse-domain-languages/
+  url: /blog/2009/01/07/reflections-and-implications-from-webfuse-domain-languages/
 previous:
   text: Webfuse usage statistics - Online assignment submission
-  url: /blog2/2009/01/05/webfuse-usage-statistics-online-assignment-submission/
+  url: /blog/2009/01/05/webfuse-usage-statistics-online-assignment-submission/
 title: Implementing the rotating banner image
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I've [mentioned some plans](/blog2/2008/12/28/plans-for-implementing-rotating-banner-image/) to implement a rotating banner image on this blog. As you may have picked up from this post, if you're looking at the site, that such a rotating banner image has been implemented. Here's the story.
+I've [mentioned some plans](/blog/2008/12/28/plans-for-implementing-rotating-banner-image/) to implement a rotating banner image on this blog. As you may have picked up from this post, if you're looking at the site, that such a rotating banner image has been implemented. Here's the story.
 
 It's one of pragmatism. The plan of not using an external server, after a minimum of searching, was proving to be a little more difficult than I thought. So rather than waste time I've simply re-used the approach I used on my old site. i.e. this [script](http://cq-pan.cqu.edu.au/WF/object/ImageRotator/?header=image/jpg). At the moment the script simply does a loop through a list of images stored in the file system of the host web server.
 

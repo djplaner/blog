@@ -4,10 +4,10 @@ categories:
 date: 2013-03-04 13:33:55+10:00
 next:
   text: How much of a cage should I build?
-  url: /blog2/2013/03/06/how-much-of-a-cage-should-i-build/
+  url: /blog/2013/03/06/how-much-of-a-cage-should-i-build/
 previous:
   text: BIM2 and disable_form_change_checker
-  url: /blog2/2013/03/03/bim2-and-disable_form_change_checker/
+  url: /blog/2013/03/03/bim2-and-disable_form_change_checker/
 title: How are they going?
 type: post
 template: blog-post.html
@@ -169,7 +169,7 @@ A process similar to this has been widely used. This particular set of questions
 
 > The IMPACT procedure (Clarke, 1987 cited in Goos et al., 2007, p. 411) is one method for discovering the concerns and opinions of students. It involves the regular completion of the following simple questionnaire during class (for this unit during the Friday “Reality and Reflection” lessons) and the retention of responses over the period of the class. Goos et al (2007, p. 411) suggest that the success of this process “depends on respecting the confidentiality of student responses and acting on these responses where appropriate to improve students’ experiences of learning mathematics.”
 
-taken from [here](/blog2/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/#impact)
+taken from [here](/blog/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/#impact)
 
 Due to the point about "confidentiality" and the novelty of this approach, I've decided (for now) not to open up access to the Google spreadsheet with the data to anyone except the teaching staff in the course.
 

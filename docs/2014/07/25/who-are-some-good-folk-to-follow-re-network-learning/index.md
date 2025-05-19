@@ -4,10 +4,10 @@ categories:
 date: 2014-07-25 14:30:42+10:00
 next:
   text: Identity, community and trajectories - Jawitz (2009)
-  url: /blog2/2014/07/26/identity-community-and-trajectories-jawitz-2009/
+  url: /blog/2014/07/26/identity-community-and-trajectories-jawitz-2009/
 previous:
   text: Me as learner - WoW, MMPORGs and learning
-  url: /blog2/2014/07/23/me-as-learner-wow-mmporgs-and-learning/
+  url: /blog/2014/07/23/me-as-learner-wow-mmporgs-and-learning/
 title: '"Who are some good folk to follow re: network learning"'
 type: post
 template: blog-post.html

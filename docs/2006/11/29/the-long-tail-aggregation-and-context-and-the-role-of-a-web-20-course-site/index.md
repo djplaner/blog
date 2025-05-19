@@ -4,10 +4,10 @@ categories:
 date: 2006-11-29 16:25:51+10:00
 next:
   text: Software as a Service (SaaS) and elearning
-  url: /blog2/2006/11/29/software-as-a-service-saas-and-elearning/
+  url: /blog/2006/11/29/software-as-a-service-saas-and-elearning/
 previous:
   text: The first missing Ps presentation
-  url: /blog2/2006/11/29/the-first-missing-ps-presentation/
+  url: /blog/2006/11/29/the-first-missing-ps-presentation/
 title: The Long Tail - aggregation and context and the role of a "Web 2.0 course site"
 type: post
 template: blog-post.html

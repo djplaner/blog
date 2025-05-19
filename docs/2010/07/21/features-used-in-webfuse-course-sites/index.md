@@ -9,15 +9,15 @@ categories:
 date: 2010-07-21 10:59:51+10:00
 next:
   text: How to handle the marriage of PLEs and institutions
-  url: /blog2/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
+  url: /blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
 previous:
   text: An overview of BIM
-  url: /blog2/2010/07/20/an-overview-of-bim/
+  url: /blog/2010/07/20/an-overview-of-bim/
 title: Features used in Webfuse course sites
 type: post
 template: blog-post.html
 ---
-Time to get back into the thesis. The following is the next completed section from the evaluation part of chapter 5 of [my thesis](/blog2/research/phd-thesis/). A result of much data munging and some writing, still needs a bit more reflection and thought, but getting close.
+Time to get back into the thesis. The following is the next completed section from the evaluation part of chapter 5 of [my thesis](/blog/research/phd-thesis/). A result of much data munging and some writing, still needs a bit more reflection and thought, but getting close.
 
 ### Features used in course sites
 

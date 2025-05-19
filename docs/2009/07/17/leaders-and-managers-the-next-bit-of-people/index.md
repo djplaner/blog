@@ -9,10 +9,10 @@ categories:
 date: 2009-07-17 14:42:07+10:00
 next:
   text: '"PhD update #17 - You know you''re losing your way when...."'
-  url: /blog2/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
+  url: /blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/
 previous:
   text: Occupational stress in Australian University Staff
-  url: /blog2/2009/07/17/occupational-stress-in-australian-university-staff/
+  url: /blog/2009/07/17/occupational-stress-in-australian-university-staff/
 title: Leaders and managers - the next bit of People
 type: post
 template: blog-post.html
@@ -50,7 +50,7 @@ pingbacks:
       user_id: '0'
     
 ---
-After a bit of an absence, time to get back to the [thesis](/blog2/research/phd-thesis/). The following continues the recent work on the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). So far, I've done [students](/blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/) and [teaching/academic staff](/blog2/2009/07/07/academics-the-next-part-of-the-people-section/). This post looks at leaders and managers (badly). I'm working on a section or two on technical and instructional design staff.
+After a bit of an absence, time to get back to the [thesis](/blog/research/phd-thesis/). The following continues the recent work on the People component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). So far, I've done [students](/blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/) and [teaching/academic staff](/blog/2009/07/07/academics-the-next-part-of-the-people-section/). This post looks at leaders and managers (badly). I'm working on a section or two on technical and instructional design staff.
 
 It doesn't end strongly, but care factor is low.
 

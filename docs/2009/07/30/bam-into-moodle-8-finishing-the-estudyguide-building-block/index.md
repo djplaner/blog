@@ -4,10 +4,10 @@ categories:
 date: 2009-07-30 11:39:02+10:00
 next:
   text: '"BAM into Moodle #9 - a working eStudyGuide block?"'
-  url: /blog2/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/
+  url: /blog/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/
 previous:
   text: The design and implementation of Webfuse - Part 3
-  url: /blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-3/
+  url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-3/
 title: '"BAM into Moodle #8 - finishing the eStudyGuide building block"'
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The [last post](/blog2/2009/07/28/bam-into-moodle-7-an-estudyguide-block/) in this series described the start of a little project to learn more about PHP/Moodle programming in order to get BAM into [Moodle](http://www.moodle.org/). Essentially everything is done, there are two main tasks left:
+The [last post](/blog/2009/07/28/bam-into-moodle-7-an-estudyguide-block/) in this series described the start of a little project to learn more about PHP/Moodle programming in order to get BAM into [Moodle](http://www.moodle.org/). Essentially everything is done, there are two main tasks left:
 
 - Identify how to "properly" retrieve a file over http in PHP/Moodle and figure out how to use it.
 - Confirm the phpxml is the best way to parse XML in PHP/Moodle and figure out how to use it.

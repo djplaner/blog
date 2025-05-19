@@ -4,10 +4,10 @@ categories:
 date: 2010-05-19 21:05:17+10:00
 next:
   text: Draft chapter 4 of the thesis is up
-  url: /blog2/2010/05/21/draft-chapter-4-of-the-thesis-is-up/
+  url: /blog/2010/05/21/draft-chapter-4-of-the-thesis-is-up/
 previous:
   text: Moving the indicators Moodle block to a factory class
-  url: /blog2/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
+  url: /blog/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
 title: How curriculum mapping in Moodle might work
 type: post
 template: blog-post.html
@@ -117,7 +117,7 @@ pingbacks:
 ---
 The purpose of this post is to provide a concrete description of how curriculum mapping of a Moodle course might work. The hope is that this will enable a broader array of people to comment on the approach and, in particular, identify flaws or problems. So, please comment.
 
-This is being done as part of the [alignment project](/blog2/2010/05/13/more-thinking-about-the-alignment-project/) and picks up from some [earlier examination](/blog2/2010/03/23/first-step-in-moodle-curriculum-mapping/) of Moodle's existing outcomes feature.
+This is being done as part of the [alignment project](/blog/2010/05/13/more-thinking-about-the-alignment-project/) and picks up from some [earlier examination](/blog/2010/03/23/first-step-in-moodle-curriculum-mapping/) of Moodle's existing outcomes feature.
 
 ### Overview
 

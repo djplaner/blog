@@ -6,10 +6,10 @@ categories:
 date: 2015-09-13 16:24:59+10:00
 next:
   text: What might a project combining LX Design and Analaytics look like?
-  url: /blog2/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+  url: /blog/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
 previous:
   text: What type of &quot;digital knowledge&quot; does a teacher need?
-  url: /blog2/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
+  url: /blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
 title: Exploring Moodle's API
 type: post
 template: blog-post.html
@@ -38,7 +38,7 @@ pingbacks:
 [![Biblia (German), f.40r, detail by CRC, University of Edinburgh, on Flickr](https://farm4.static.flickr.com/3682/10155924084_207fe9c6ba_m.jpg "Biblia (German), f.40r, detail by CRC, University of Edinburgh, on Flickr")](https://www.flickr.com/photos/crcedinburgh/10155924084/)  
 [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/crcedinburgh/)[CRC, University of Edinburgh](https://www.flickr.com/people/crcedinburgh/) [](http://www.imagecodr.org/)
 
-[API centric architecture](http://apigee.com/about/blog/technology/api-centric-architecture-all-development-api-development) is a coming thing in technology circles. It's the way vendors and central IT folk will build systems. It is also going to be manna from heaven for institutionalised people who are [breaking a little BAD](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/).
+[API centric architecture](http://apigee.com/about/blog/technology/api-centric-architecture-all-development-api-development) is a coming thing in technology circles. It's the way vendors and central IT folk will build systems. It is also going to be manna from heaven for institutionalised people who are [breaking a little BAD](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/).
 
 Moodle has a growing [web services API](https://docs.moodle.org/dev/Web_services_API). The following documents some initial exploration of how and if you can "break BAD" with those APIs.
 
@@ -52,7 +52,7 @@ A quick check of my basic Moodle 2.9 install reveals \[code lang="bash"\] dj:moo
 
 Not a huge number, but at least enough to start playing with (assign and forum are likely to be particularly useful) and there may well be more.
 
-Of course, I should be looking to add a Web services API to [BIM](/blog2/research/bam-blog-aggregation-management/). [This page](https://docs.moodle.org/dev/Adding_a_web_service_to_a_plugin) will apparently help with that.
+Of course, I should be looking to add a Web services API to [BIM](/blog/research/bam-blog-aggregation-management/). [This page](https://docs.moodle.org/dev/Adding_a_web_service_to_a_plugin) will apparently help with that.
 
 [That page](https://docs.moodle.org/dev/Adding_a_web_service_to_a_plugin) also includes a template with a test client. Could be useful later on.
 

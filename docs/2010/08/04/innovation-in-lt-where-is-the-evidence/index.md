@@ -4,10 +4,10 @@ categories:
 date: 2010-08-04 08:00:51+10:00
 next:
   text: Usage of Wf applications
-  url: /blog2/2010/08/04/usage-of-wf-applications/
+  url: /blog/2010/08/04/usage-of-wf-applications/
 previous:
   text: Can you cancerize your research - task corruption at work
-  url: /blog2/2010/08/03/can-you-cancerize-your-research-task-corruption-at-work/
+  url: /blog/2010/08/03/can-you-cancerize-your-research-task-corruption-at-work/
 tags:
 - educause
 - evidence

@@ -7,10 +7,10 @@ categories:
 date: 2010-09-13 14:35:04+10:00
 next:
   text: Portfolios often implemented poorly
-  url: /blog2/2010/09/14/portfolios-often-implemented-poorly/
+  url: /blog/2010/09/14/portfolios-often-implemented-poorly/
 previous:
   text: Back into the thesis
-  url: /blog2/2010/09/13/back-into-the-thesis/
+  url: /blog/2010/09/13/back-into-the-thesis/
 title: How strict a blueprint do ISDTs provide?
 type: post
 template: blog-post.html

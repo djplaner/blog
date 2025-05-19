@@ -5,10 +5,10 @@ categories:
 date: 2008-10-09 21:07:19+10:00
 next:
   text: The great website move of 2008
-  url: /blog2/2008/10/16/the-great-website-move-of-2008/
+  url: /blog/2008/10/16/the-great-website-move-of-2008/
 previous:
   text: The emergence of design research in IS in North America
-  url: /blog2/2008/10/08/the-emergence-of-design-research-in-is-in-north-america/
+  url: /blog/2008/10/08/the-emergence-of-design-research-in-is-in-north-america/
 tags:
 - designresearch
 - designscience-hevner-walls

@@ -5,11 +5,11 @@ categories:
 date: 2009-01-30 13:50:27+10:00
 next:
   text: How do you implement PLEs into higher education courses?
-  url: /blog2/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
+  url: /blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/
 previous:
   text: Good teaching is not innate, it can be &quot;learned&quot; - and what&#039;s
     wrong with academic staff development
-  url: /blog2/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/
+  url: /blog/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/
 title: Using a blog for course design foult sessions
 type: post
 template: blog-post.html
@@ -34,6 +34,6 @@ pingbacks:
       user_id: '0'
     
 ---
-I've bitten the bullet and have decided to use [Wordpress blog](http://coursedesign.wordpress.com/) to support the [6 hour orientation to course analysis and design](/blog2/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/) I'm supposed to run next week.
+I've bitten the bullet and have decided to use [Wordpress blog](http://coursedesign.wordpress.com/) to support the [6 hour orientation to course analysis and design](/blog/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/) I'm supposed to run next week.
 
 It's probably going to be much more work than I should or planned to put in, but so far it's been fairly easy. It may be worthwhile.

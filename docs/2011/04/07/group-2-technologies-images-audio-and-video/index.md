@@ -5,10 +5,10 @@ categories:
 date: 2011-04-07 16:08:43+10:00
 next:
   text: Why are we analysing ICTs for learning?
-  url: /blog2/2011/04/07/why-are-we-analysing-icts-for-learning/
+  url: /blog/2011/04/07/why-are-we-analysing-icts-for-learning/
 previous:
   text: 'ICTs for learning design: Group 2 Technologies - The readings'
-  url: /blog2/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/
+  url: /blog/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/
 title: '"Group 2 Technologies: Images, Audio and Video"'
 type: post
 template: blog-post.html
@@ -99,7 +99,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Following on from the last post, this one reports on the experimentation with a collection of technologies that fall under the category of Group 2. We're meant to play with these technologies and then select one to analyse in a little more detail. This builds on the [analysis of group 1 technologies](/blog2/2011/04/06/group-1-technologies-blogs-wikis-and-websites/).
+Following on from the last post, this one reports on the experimentation with a collection of technologies that fall under the category of Group 2. We're meant to play with these technologies and then select one to analyse in a little more detail. This builds on the [analysis of group 1 technologies](/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/).
 
 ### Digital images
 
@@ -121,7 +121,7 @@ In terms of using in education, the [Tell a story in 5 frames](http://www.flickr
 
 ### Podcasts
 
-Yesterday, I created a "collaborative CV09 podcast" using diigo and feedburner. [This post](/blog2/2011/04/06/building-a-collaborative-cv09-podcast/) explains in more detail what was done, why and how. The [podcast is available](http://feeds.feedburner.com/gdlt) and currently has 3 subscribers, including me.
+Yesterday, I created a "collaborative CV09 podcast" using diigo and feedburner. [This post](/blog/2011/04/06/building-a-collaborative-cv09-podcast/) explains in more detail what was done, why and how. The [podcast is available](http://feeds.feedburner.com/gdlt) and currently has 3 subscribers, including me.
 
 This approach provides the basic structure for putting a collaborative podcast together. This "structure" could then be used to implement a range of different pedagogies. One example might be in a media studies course. The students could be required to look for audio/video online about a particular news event from different media sources. Then have them (or another group) examine the podcast for differences, similarities etc.
 
@@ -131,7 +131,7 @@ Another alternative might be for the teacher (or previous class) develop the pod
 
 At the moment, I have [11 videos](http://vimeo.com/user2734192/videos) on [. Most are either videos of presentations or](http://vimeo.com/) [screencasts](http://en.wikipedia.org/wiki/Screencast) showing how to use a particular technology.
 
-I also have [a "show"](http://www.ustream.tv/channel/e-learning-and-innovation-research) on [ustream.tv](http://ustream.tv/) as part of an experiment in using live streaming. It's of a presentation where we were experimenting with alternative technologies for lectures and the LMS. More information about the experiment is [available on this blog page](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/). The presentation was streamed live onto the net and user participation was encouraged through the use of Twitter and a mobile phone-based response system (Votapedia).
+I also have [a "show"](http://www.ustream.tv/channel/e-learning-and-innovation-research) on [ustream.tv](http://ustream.tv/) as part of an experiment in using live streaming. It's of a presentation where we were experimenting with alternative technologies for lectures and the LMS. More information about the experiment is [available on this blog page](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/). The presentation was streamed live onto the net and user participation was encouraged through the use of Twitter and a mobile phone-based response system (Votapedia).
 
 The only other use of video I have made in teaching is as a resource to encourage thinking or to prove a point. A video I've used a lot in recent years has been the Bear/Gorilla video that is [discussed in this blog post](http://nudges.wordpress.com/watch-out-for-cyclists/). There is an interesting, not really extended, discussion on the question of copying between the bear and gorilla camps.
 

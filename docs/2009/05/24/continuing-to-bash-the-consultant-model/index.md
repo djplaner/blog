@@ -9,10 +9,10 @@ categories:
 date: 2009-05-24 09:09:34+10:00
 next:
   text: Teleological and ateleological processes
-  url: /blog2/2009/05/25/teleological-and-ateleological-processes/
+  url: /blog/2009/05/25/teleological-and-ateleological-processes/
 previous:
   text: The problem with consultants/MBAs - Dilbert&#039;s view
-  url: /blog2/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/
+  url: /blog/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/
 title: Continuing to bash the consultant model
 type: post
 template: blog-post.html
@@ -37,7 +37,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm currently on a bit of a wave with bashing the consultant model of change, i.e. a model by which an "expert" from outside comes into a context performs or directs the performance of some analysis and evaluation of the context and then, drawing on their vast knowledge, recommends some ways forward. I started my "bashing wave" in [a post](/blog2/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/) comparing this model with the "fat smoker" problem (telling them what they already know isn't sufficient to create change) and then continued with [this inspiration from Dilbert](/blog2/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/).
+I'm currently on a bit of a wave with bashing the consultant model of change, i.e. a model by which an "expert" from outside comes into a context performs or directs the performance of some analysis and evaluation of the context and then, drawing on their vast knowledge, recommends some ways forward. I started my "bashing wave" in [a post](/blog/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/) comparing this model with the "fat smoker" problem (telling them what they already know isn't sufficient to create change) and then continued with [this inspiration from Dilbert](/blog/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/).
 
 ### Aside - Dilbert's latest contribution
 
@@ -61,7 +61,7 @@ And there is the following one, which really resonates with the local context an
 
 > Research such as that reported by Gross, Giacquinta, and Berstein (1971) indicated that there was no resistance to planned change on the part of teachers. On the contrary, they were receptive to educational innovation, but the strategies for implementation were deficient in two respects—failure to identify and bring into the open various difficulties teachers were liable to encounter in their implementation effects, and failure to establish and use feedback mechanisms to uncover barriers that arose during the period of attempted implementation. (Watson, 2006)
 
-Note the date on that reference **1971**. That's 38 years ago, and yet I would suggest that there are still institutions that have implementation strategies that have these same two deficiencies. I would go further to suggest that those same organisations, when questioned about these deficiencies, respond with typical [model 1 behaviours and defensive routines](/blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/).
+Note the date on that reference **1971**. That's 38 years ago, and yet I would suggest that there are still institutions that have implementation strategies that have these same two deficiencies. I would go further to suggest that those same organisations, when questioned about these deficiencies, respond with typical [model 1 behaviours and defensive routines](/blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/).
 
 Especially when those implementation strategies rely on specialised project managers to manage the implementation. Such project managers suffer exactly the same flaws as consultants and MBAs - emphasis on objectified knowledge and processes over context. An emphasis that leads to the above deficiencies, an increased tendency to see the participants in the change as recalcitrant and lead to feelings from the participants of change being done to them, rather than with them.
 

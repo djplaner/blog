@@ -6,10 +6,10 @@ categories:
 date: 2006-09-18 17:38:12+10:00
 next:
   text: Google calendar as a component to Web 2.0 course sites
-  url: /blog2/2006/09/18/google-calendar-as-a-component-to-web-20-course-sites/
+  url: /blog/2006/09/18/google-calendar-as-a-component-to-web-20-course-sites/
 previous:
   text: Quote to support the Webfuse approach
-  url: /blog2/2006/09/18/quote-to-support-the-webfuse-approach/
+  url: /blog/2006/09/18/quote-to-support-the-webfuse-approach/
 title: The host your own preference argument against Web 2.0 course sites
 type: post
 template: blog-post.html

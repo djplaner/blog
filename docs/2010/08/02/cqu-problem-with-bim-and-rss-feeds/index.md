@@ -5,15 +5,15 @@ categories:
 date: 2010-08-02 13:31:57+10:00
 next:
   text: No messiness here thanks - SNAFU all the way
-  url: /blog2/2010/08/03/no-messiness-here-thanks-snafu-all-the-way/
+  url: /blog/2010/08/03/no-messiness-here-thanks-snafu-all-the-way/
 previous:
   text: Usage of Webfuse course sites
-  url: /blog2/2010/08/01/usage-of-webfuse-course-sites/
+  url: /blog/2010/08/01/usage-of-webfuse-course-sites/
 title: CQU problem with BIM and RSS feeds
 type: post
 template: blog-post.html
 ---
-This is the first post in a new tradition. Any problems folk report with [BIM](/blog2/research/bam-blog-aggregation-management/) and the subsequent diagnosis and solution I undertake will get reported here on the blog and hopefully mirrored in some way onto the BIM [github page](http://github.com/djplaner/BIM).
+This is the first post in a new tradition. Any problems folk report with [BIM](/blog/research/bam-blog-aggregation-management/) and the subsequent diagnosis and solution I undertake will get reported here on the blog and hopefully mirrored in some way onto the BIM [github page](http://github.com/djplaner/BIM).
 
 It is somewhat ironic that the first problem in this tradition comes from the [institution](http://www.cqu.edu.au/) I finished working at last Friday.
 

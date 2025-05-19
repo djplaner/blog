@@ -5,10 +5,10 @@ categories:
 date: 2015-06-26 14:12:49+10:00
 next:
   text: Re-building results processing
-  url: /blog2/2015/07/01/re-building-results-processing/
+  url: /blog/2015/07/01/re-building-results-processing/
 previous:
   text: 'Dashboards suck: learning analytics&#039; broken metaphor'
-  url: /blog2/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/
+  url: /blog/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/
 title: And the little one said, "roll over, roll over"
 type: post
 template: blog-post.html
@@ -111,7 +111,7 @@ Overall, the tools provided by the institution to roll over a course from one se
 
 ### Moodle/institutional roll over
 
-I log an IT request (using a god awful interface) and in a little while some magic happens and the content from Semester 1 (S1) is copied into the Semester 2 (S2) course. The image below (click on it to see it larger) is of the newly rolled over S2 course site. As it shows - for better or worse - the course has quite a collection of resources that make up each weekly learning path (originally called and based on the idea of a [weekly ramble](/blog2/2012/02/19/designing-the-weekly-ramble/)). The interconnections between each of the elements is quite convoluted. e.g. the "Introduce yourself" book links to the "Share your introductions" discussion forum and vice versa.
+I log an IT request (using a god awful interface) and in a little while some magic happens and the content from Semester 1 (S1) is copied into the Semester 2 (S2) course. The image below (click on it to see it larger) is of the newly rolled over S2 course site. As it shows - for better or worse - the course has quite a collection of resources that make up each weekly learning path (originally called and based on the idea of a [weekly ramble](/blog/2012/02/19/designing-the-weekly-ramble/)). The interconnections between each of the elements is quite convoluted. e.g. the "Introduce yourself" book links to the "Share your introductions" discussion forum and vice versa.
 
 The Moodle/institutional roll over process does a really good job of updating the interconnections between elements. This is good.
 
@@ -129,7 +129,7 @@ The suggestion is that I need to manually search (remember there's typically no 
 
 ### "Macros" - my solution to this problem
 
-Last semester I implemented [a "macro" system](/blog2/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/#macro). Initial implementation had it working just for the semester 1 site. Time to update it to work with both sites. The Javascript code will no need to
+Last semester I implemented [a "macro" system](/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/#macro). Initial implementation had it working just for the semester 1 site. Time to update it to work with both sites. The Javascript code will no need to
 
 1. Identify which course site (S1 or S2) the user is viewing.
 2. Replace all the "macro" variables with values appropriate to the course site.

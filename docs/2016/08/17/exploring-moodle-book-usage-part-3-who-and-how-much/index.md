@@ -5,10 +5,10 @@ categories:
 date: 2016-08-17 11:38:40+10:00
 next:
   text: Understanding and using the idea of "network learning"
-  url: /blog2/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+  url: /blog/2016/08/17/understanding-and-using-the-idea-of-network-learning/
 previous:
   text: Exploring Moodle Book usage - part 2 - overall use
-  url: /blog2/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/
+  url: /blog/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/
 title: Exploring Moodle book usage - part 3 - who and how much
 type: post
 template: blog-post.html
@@ -36,7 +36,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Continuing on from [yesterday's post](/blog2/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/) this post seeks to explore a bit further how the [Moodle Book module](https://docs.moodle.org/31/en/Book_module) (the Book) is being used at my current institution.
+Continuing on from [yesterday's post](/blog/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/) this post seeks to explore a bit further how the [Moodle Book module](https://docs.moodle.org/31/en/Book_module) (the Book) is being used at my current institution.
 
 The plan is that this post will explore:
 

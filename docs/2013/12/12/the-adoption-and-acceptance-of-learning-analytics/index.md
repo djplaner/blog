@@ -5,10 +5,10 @@ categories:
 date: 2013-12-12 16:34:39+10:00
 next:
   text: '"TAM, #moodle, online assignment submission and strategic implementation"'
-  url: /blog2/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
+  url: /blog/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
 previous:
   text: Blogs, learning analytics, IRAC and BIM
-  url: /blog2/2013/12/12/blogs-learning-analytics-irac-and-bim/
+  url: /blog/2013/12/12/blogs-learning-analytics-irac-and-bim/
 title: The adoption and acceptance of learning analytics
 type: post
 template: blog-post.html
@@ -59,7 +59,7 @@ And now some random thoughts.
 
 ## Deja vu all over again
 
-Based on my current observations, my fear is that learning analytics as implemented by universities is going to suffer similar problems to most prior applications of ICTs into university learning. For example, [Geoghegan's (1994)](/blog2/2009/08/09/the-chasm/) identification of the chasm as it applied to instructional technology, the findings 10+ years later that usage of the LMS by academics was limited in terms of both [quantity](/blog2/2009/04/23/usage-of-e-learning-quantity/) and [quality](/blog2/2009/04/22/e-learning-usage-quality/), and more recent reports that understanding the information provided by learning analytics is really hard.
+Based on my current observations, my fear is that learning analytics as implemented by universities is going to suffer similar problems to most prior applications of ICTs into university learning. For example, [Geoghegan's (1994)](/blog/2009/08/09/the-chasm/) identification of the chasm as it applied to instructional technology, the findings 10+ years later that usage of the LMS by academics was limited in terms of both [quantity](/blog/2009/04/23/usage-of-e-learning-quantity/) and [quality](/blog/2009/04/22/e-learning-usage-quality/), and more recent reports that understanding the information provided by learning analytics is really hard.
 
 ## The Technology-Adoption-Model
 

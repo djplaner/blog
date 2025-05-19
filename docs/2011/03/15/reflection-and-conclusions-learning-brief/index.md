@@ -5,10 +5,10 @@ categories:
 date: 2011-03-15 17:24:11+10:00
 next:
   text: Learning brief - Reflections and conclusions - version 2.0
-  url: /blog2/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/
+  url: /blog/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/
 previous:
   text: 'Week 3: ICTs for Learning Design'
-  url: /blog2/2011/03/13/week-3-icts-for-learning-design/
+  url: /blog/2011/03/13/week-3-icts-for-learning-design/
 title: '"Reflection and conclusions: Learning brief"'
 type: post
 template: blog-post.html
@@ -56,9 +56,9 @@ Table 1 summarises the three learning activities on which this assignment asked 
 
 | Activity | Description | Scaffolding |
 | --- | --- | --- |
-| [Profile wiki](/blog2/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/) | Share a personal profile, based on a provided template, with members of a group | Wiki templates |
-| [Learning theories wiki](/blog2/2011/03/07/reflection-on-the-learning-theories-wiki/) | Work with a partner to develop a Plus-Minus-Interesting (PMI) analysis of a reading about a particular learning theory. Each pair would post their PMI analysis to a Wiki. Each pair of different readings served as part of a Expert Jigsaw. | Wiki.   PMI.   Expert Jigsaw. |
-| [Mobile phones wiki](/blog2/2011/03/08/reflection-on-the-mobile-phones-wiki/) | As a group, share insight about the role of mobile phone in education scaffolded with De Bono’s six thinking hats | Wiki.   6 thinking hats. |
+| [Profile wiki](/blog/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/) | Share a personal profile, based on a provided template, with members of a group | Wiki templates |
+| [Learning theories wiki](/blog/2011/03/07/reflection-on-the-learning-theories-wiki/) | Work with a partner to develop a Plus-Minus-Interesting (PMI) analysis of a reading about a particular learning theory. Each pair would post their PMI analysis to a Wiki. Each pair of different readings served as part of a Expert Jigsaw. | Wiki.   PMI.   Expert Jigsaw. |
+| [Mobile phones wiki](/blog/2011/03/08/reflection-on-the-mobile-phones-wiki/) | As a group, share insight about the role of mobile phone in education scaffolded with De Bono’s six thinking hats | Wiki.   6 thinking hats. |
 
 #### E-learning spaces
 

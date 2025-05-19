@@ -4,10 +4,10 @@ categories:
 date: 2013-09-04 09:09:56+10:00
 next:
   text: The importance of "We don't know what we're doing"
-  url: /blog2/2013/09/04/the-importance-of-we-dont-know-what-were-doing/
+  url: /blog/2013/09/04/the-importance-of-we-dont-know-what-were-doing/
 previous:
   text: An overview of learning analytics
-  url: /blog2/2013/08/31/an-overview-of-learning-analytics/
+  url: /blog/2013/08/31/an-overview-of-learning-analytics/
 title: '"Learning Analytics: The Emergence of a Discipline"'
 type: post
 template: blog-post.html
@@ -287,7 +287,7 @@ Requires organisational support, outlines the requirements for an "intervention"
 - External limitations
 - Internal limitations
 
-_Aside:_ I prefer [IRAC](/blog2/2013/07/14/irac-four-questions-for-learning-analytics-interventions/), but then I'm biased
+_Aside:_ I prefer [IRAC](/blog/2013/07/14/irac-four-questions-for-learning-analytics-interventions/), but then I'm biased
 
 This perhaps the most difficult and under appreciated point
 
@@ -328,7 +328,7 @@ Distributed and fragmented data are a problem. Data trails cover different syste
 
 Leads into discussion of gRSShopper and the idea of "recipes" for capturing and evaluating distributed data citing (Hawksey, 2012; Hirst 2013)
 
-_Aside:_ An obvious avenue here for work around [BIM](/blog2/research/bam-blog-aggregation-management/).
+_Aside:_ An obvious avenue here for work around [BIM](/blog/research/bam-blog-aggregation-management/).
 
 ### Privacy
 

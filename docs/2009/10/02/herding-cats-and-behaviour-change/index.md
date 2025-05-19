@@ -4,15 +4,15 @@ categories:
 date: 2009-10-02 09:11:23+10:00
 next:
   text: Online learning better than blended learning?
-  url: /blog2/2009/10/04/online-learning-better-than-blended-learning/
+  url: /blog/2009/10/04/online-learning-better-than-blended-learning/
 previous:
   text: Alternative audience response systems - web, twitter and mobile phone
-  url: /blog2/2009/10/01/alternative-audience-response-systems-web-twitter-and-mobile-phone/
+  url: /blog/2009/10/01/alternative-audience-response-systems-web-twitter-and-mobile-phone/
 title: Herding cats and behaviour change
 type: post
 template: blog-post.html
 ---
-My focus for the last couple of weeks was a presentation - [Herding cats and losing weight: How to improve learning and teaching](/blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/). One description of the argument of that presentation is:
+My focus for the last couple of weeks was a presentation - [Herding cats and losing weight: How to improve learning and teaching](/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/). One description of the argument of that presentation is:
 
 - To improve learning and teaching within a university you have to change the conceptions (the behaviour) of the academics.
 - You don't/can't do that by "herding cats", teleological, top-down approaches to change. i.e. most of what happens in universities at the moment.

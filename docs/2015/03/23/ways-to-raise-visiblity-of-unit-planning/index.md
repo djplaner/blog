@@ -4,10 +4,10 @@ categories:
 date: 2015-03-23 10:07:14+10:00
 next:
   text: Embedding prezi - some tests
-  url: /blog2/2015/03/24/embedding-prezi-some-tests/
+  url: /blog/2015/03/24/embedding-prezi-some-tests/
 previous:
   text: What do you do with Twitter?
-  url: /blog2/2015/03/04/what-do-you-do-with-twitter/
+  url: /blog/2015/03/04/what-do-you-do-with-twitter/
 tags:
 - edc3100
 title: Ways to raise visiblity of unit planning
@@ -52,7 +52,7 @@ Haven't used these in combination yet. The idea would be that students:
     
     Given that students (in theory) already have an OPML file imported into Feedly for their specialisations, this would generate a collection of posts that would appear in those feeds. Raising awareness.
     
-    In theory, [BIM](/blog2/research/bam-blog-aggregation-management/) (the Moodle module used to manage student blogs) can be set up to track whether or not students have completed written this post. Adding a bit of class management capability.
+    In theory, [BIM](/blog/research/bam-blog-aggregation-management/) (the Moodle module used to manage student blogs) can be set up to track whether or not students have completed written this post. Adding a bit of class management capability.
     
 2. bookmark that post with Diigo and tag it with the year level and codes for the content descriptors; and,
     
@@ -64,7 +64,7 @@ Haven't used these in combination yet. The idea would be that students:
 
 This is the holy grail solution I'd love to implement, but just will not have the time.
 
-The "distributive" view is based on [this paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) and the idea that learning/cognition is: situated, social, distributed, and protean.
+The "distributive" view is based on [this paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) and the idea that learning/cognition is: situated, social, distributed, and protean.
 
 To complete their unit plan, the students have to use a provided Word template. Using prior knowledge and the contents of the course learning paths the students are meant to fill in the template with the appropriate information. It's a fairly standard approach and suffers from the standard problems. Mostly, the unit plan template appears to be based on a view of learning/cognition that is not all that
 

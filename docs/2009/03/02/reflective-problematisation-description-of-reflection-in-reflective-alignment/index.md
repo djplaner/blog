@@ -7,15 +7,15 @@ categories:
 date: 2009-03-02 08:29:11+10:00
 next:
   text: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
-  url: /blog2/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
+  url: /blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
 previous:
   text: Another spectrum for using indicators to place course websites
-  url: /blog2/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/
+  url: /blog/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/
 title: Reflective problematisation - description of reflection in "reflective alignment"?
 type: post
 template: blog-post.html
 ---
-Thinking about [reflective alignment](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/), I came across the following quote in Booth and Anderberg (2005). Thought it might be useful so am saving it here.
+Thinking about [reflective alignment](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/), I came across the following quote in Booth and Anderberg (2005). Thought it might be useful so am saving it here.
 
 > the equally important notion of reflective problematization - deliberately distancing oneself from the familiar, deliberately avoiding the taken-for-granted and considering the alternatives that might be at hand, relating to theories and experience and reaching an analytical insight into productive change.
 

@@ -5,10 +5,10 @@ categories:
 date: 2011-01-13 22:42:40+10:00
 next:
   text: Creating a podcast for LAK11 presentations
-  url: /blog2/2011/01/15/creating-a-podcast-for-lak11-presentations/
+  url: /blog/2011/01/15/creating-a-podcast-for-lak11-presentations/
 previous:
   text: Applying &quot;learning analytics&quot; to BIM
-  url: /blog2/2011/01/12/applying-learning-analytics-to-bim/
+  url: /blog/2011/01/12/applying-learning-analytics-to-bim/
 tags:
 - lak11
 title: Introducing Hunch

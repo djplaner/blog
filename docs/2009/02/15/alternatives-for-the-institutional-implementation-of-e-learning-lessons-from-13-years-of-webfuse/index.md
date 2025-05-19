@@ -7,10 +7,10 @@ categories:
 date: 2009-02-15 10:54:51+10:00
 next:
   text: '"Getting half-baked ideas out there: improving research and the academy"'
-  url: /blog2/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
+  url: /blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/
 previous:
   text: Innovation - rendering the hitherto non-existent blindingly obvious
-  url: /blog2/2009/02/13/innovation-rendering-the-hitherto-non-existent-blindingly-obvious/
+  url: /blog/2009/02/13/innovation-rendering-the-hitherto-non-existent-blindingly-obvious/
 tags:
 - educause09
 title: '"Alternatives for the institutional implementation of e-learning: Lessons
@@ -121,7 +121,7 @@ The submission was accepted and will be [presented at EDUCAUSE'09](http://www.ed
 
 #### Background
 
-The topic of the submission is essentially a summary of the results of my [PhD work](/blog2/research/phd-thesis/). I've been working on this submission, in part, to prepare for a presentation on the PhD at [ANU](http://www.anu.edu.au/) late next week that will cover some of the same content. The slides are included below, and an early version of the presentation is [available as video on ustream](http://www.ustream.tv/recorded/2525359)
+The topic of the submission is essentially a summary of the results of my [PhD work](/blog/research/phd-thesis/). I've been working on this submission, in part, to prepare for a presentation on the PhD at [ANU](http://www.anu.edu.au/) late next week that will cover some of the same content. The slides are included below, and an early version of the presentation is [available as video on ustream](http://www.ustream.tv/recorded/2525359)
 
 ### Abstract
 
@@ -183,7 +183,7 @@ The development of the perspectives expressed in this presentation and other pub
 
 There are three main outcomes arising out of the design and support of Webfuse:
 
-1. The [Ps framework](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) (Jones, Vallack and Fitzgerald-Hood, 2008);  
+1. The [Ps framework](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) (Jones, Vallack and Fitzgerald-Hood, 2008);  
     The Ps Framework is a descriptive theory that helps reduce the complexity associated with making decisions about the implementation of e-learning within universities. It helps identify the diverse perspectives that exist of the components of e-learning. The framework can be used to guide discussion and evaluation of the perspectives most appropriate for a given context.
     
     In this presentation the Ps Framework will be used to compare and contrast a diverse set of perspectives of how to go about the impelementation of e-learning. This will include examination of the many different perspectives of success and failure associated with Webfuse over its 12+ years. It will also be used to illustrate the existence and potential limitations of existing standard practice.

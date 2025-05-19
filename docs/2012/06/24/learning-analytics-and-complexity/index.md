@@ -7,11 +7,11 @@ categories:
 date: 2012-06-24 17:58:30+10:00
 next:
   text: The LMS Product - limitations and an alternative
-  url: /blog2/2012/06/28/the-lms-product-limitations-and-alternative/
+  url: /blog/2012/06/28/the-lms-product-limitations-and-alternative/
 previous:
   text: 'The life and death of Webfuse: lessons for learning and leading into the
     future'
-  url: /blog2/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  url: /blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
 title: Learning analytics and complexity
 type: post
 template: blog-post.html

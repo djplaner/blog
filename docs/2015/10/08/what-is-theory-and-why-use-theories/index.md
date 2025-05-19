@@ -7,10 +7,10 @@ categories:
 date: 2015-10-08 12:16:56+10:00
 next:
   text: What is "netgl" and how might it apply to my problem
-  url: /blog2/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
+  url: /blog/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
 previous:
   text: Technology required by teachers to customise technology-enhanced units
-  url: /blog2/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
+  url: /blog/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
 title: What is theory and why use theories?
 type: post
 template: blog-post.html
@@ -58,7 +58,7 @@ In the context of this particular course we touch on various ideas such as: the 
 
 There is huge variability in the purpose, validity, and approaches used to formulate and describe these objects called theories. A theory isn't inherently useful, important, or even appropriate. That's a judgement that you need to make.
 
-A theory is just a model and [All models are wrong, but some are useful](/blog2/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/) (Box, 1979).
+A theory is just a model and [All models are wrong, but some are useful](/blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/) (Box, 1979).
 
 ### Why use theories?
 

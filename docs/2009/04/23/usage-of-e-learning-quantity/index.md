@@ -9,10 +9,10 @@ categories:
 date: 2009-04-23 13:44:00+10:00
 next:
   text: Models of growth - responding to the grammar of school
-  url: /blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
+  url: /blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
 previous:
   text: E-learning usage - quality
-  url: /blog2/2009/04/22/e-learning-usage-quality/
+  url: /blog/2009/04/22/e-learning-usage-quality/
 title: Usage of e-learning - quantity
 type: post
 template: blog-post.html
@@ -66,7 +66,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following post is a continuation of posts from the "Past Experience" section of chapter 2 of [my thesis](/blog2/research/phd-thesis/). This part of chapter 2 is looking at the usage of e-learning within higher education. A [previous post](/blog2/2009/04/22/e-learning-usage-quality/) provided the introduction to the section and also covered usage from a quality perspective - i.e. how good is the learning and teaching.
+The following post is a continuation of posts from the "Past Experience" section of chapter 2 of [my thesis](/blog/research/phd-thesis/). This part of chapter 2 is looking at the usage of e-learning within higher education. A [previous post](/blog/2009/04/22/e-learning-usage-quality/) provided the introduction to the section and also covered usage from a quality perspective - i.e. how good is the learning and teaching.
 
 The aim of this post is to briefly examine what is known about the quantity of usage of e-learning within institutions. It does this by focusing on three different perspectives:
 

@@ -10,10 +10,10 @@ categories:
 date: 2009-04-05 13:17:26+10:00
 next:
   text: '"The new educational technologists: A call for evidenced change"'
-  url: /blog2/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
+  url: /blog/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
 previous:
   text: The fad cycle in learning &#038; teaching - a historical perspective
-  url: /blog2/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+  url: /blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
 title: Measuring the design process - implications for learning design, e-learning
   and university teaching
 type: post
@@ -91,14 +91,14 @@ Stevenson makes this point
 
 ### Learning design, e-learning and university teaching
 
-This same problem arises in universities around learning design, e-learning and university teaching. The design of university teaching and learning has some strong connections with visual design. It involves subjective and [contextual decisions](http://damosworld.wordpress.com/2009/03/27/improving-university-teaching-learning-theory-and-curriculum-design/), it's messy, unpredictable and [hard to measure](/blog2/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/).
+This same problem arises in universities around learning design, e-learning and university teaching. The design of university teaching and learning has some strong connections with visual design. It involves subjective and [contextual decisions](http://damosworld.wordpress.com/2009/03/27/improving-university-teaching-learning-theory-and-curriculum-design/), it's messy, unpredictable and [hard to measure](/blog/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/).
 
 The inherently subjective and messy nature of university teaching brings it into direct tension with two increasingly important and powerful cultures within the modern university:
 
 1. Corporate management; and  
-    Since sometime in the 90s, at least within Australia, corporate manageralism has been on the rise within universities. Newton (2003) has a nice section on some of the external factors that have contributed to this rise, I've [summarised Newton here](/blog2/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/). Further underpinning this rise has been what Birnbaum (2000) calls "education's Second Management Revolution" from around 1960 and which "marks the ascendance of rationality in academic management".
+    Since sometime in the 90s, at least within Australia, corporate manageralism has been on the rise within universities. Newton (2003) has a nice section on some of the external factors that have contributed to this rise, I've [summarised Newton here](/blog/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/). Further underpinning this rise has been what Birnbaum (2000) calls "education's Second Management Revolution" from around 1960 and which "marks the ascendance of rationality in academic management".
 2. Information technology.  
-    With the rise of e-learning and other enterprise systems, the corporate IT culture within universities is increasingly strong. In particular, from my cynical perspective, when they can talk the same "rational" talk as the management culture and back this up with reams of data (regardless of [validity](/blog2/2009/03/11/validity-is-subjective/)) and can always resort of techno-babble to confuse management.
+    With the rise of e-learning and other enterprise systems, the corporate IT culture within universities is increasingly strong. In particular, from my cynical perspective, when they can talk the same "rational" talk as the management culture and back this up with reams of data (regardless of [validity](/blog/2009/03/11/validity-is-subjective/)) and can always resort of techno-babble to confuse management.
 
 Both these cultures put an emphasis on rationality, on having data to support decisions and on being able to quantify things.
 
@@ -109,7 +109,7 @@ Just taking the last couple of years, I've seen the following symptoms of this:
 - The desire to have a fixed, up-front estimate of how long it takes to re-design a course.  
     I want you to re-design 4 courses. How long will it take?
 - The attempt to achieve quality through consistency.  
-    This is [such a fundamentally flawed idea](/blog2/2008/11/13/another-assumption-which-ples-over-throws/), but it is still around. Sometimes it is proposed by people who should know better. The idea that a single course design, word template or educational theory is suitable for all courses at an institution, let alone all learners, sounds good, but doesn't work.
+    This is [such a fundamentally flawed idea](/blog/2008/11/13/another-assumption-which-ples-over-throws/), but it is still around. Sometimes it is proposed by people who should know better. The idea that a single course design, word template or educational theory is suitable for all courses at an institution, let alone all learners, sounds good, but doesn't work.
 - Reports indicating that the re-design and conversion of courses to a new LMS are XX% complete.  
     Heard about this just recently. If you are re-designing a raft of different courses, taught be different people, in different disciplines, using different approaches and then porting them to a new LMS, how can you say it is XX% complete. The variety in courses will mean that you can't quantify how long it will take. You might have 5 or 10 courses completed, but that doesn't mean you're 50% completed. The last 5 courses might take much longer.
 - The use of a checklist to evaluate LMSes.  

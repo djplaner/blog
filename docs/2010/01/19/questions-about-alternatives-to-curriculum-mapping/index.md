@@ -2,10 +2,10 @@
 date: 2010-01-19 13:19:30+10:00
 next:
   text: Plans for a AJET paper around the indicators project
-  url: /blog2/2010/01/20/plans-for-a-ajet-paper-around-the-indicators-project/
+  url: /blog/2010/01/20/plans-for-a-ajet-paper-around-the-indicators-project/
 previous:
   text: BIM - manage marking - view and release
-  url: /blog2/2010/01/17/bim-manage-marking-view-and-release/
+  url: /blog/2010/01/17/bim-manage-marking-view-and-release/
 tags:
 - curriculummapping
 title: Questions about alternatives to curriculum mapping
@@ -40,8 +40,8 @@ A small group of colleagues are discussing possible ideas around a project to en
 
 It is also influenced by existing writing/thinking I've done around curriculum mapping, including:
 
-- A [report/blog post](/blog2/2009/12/21/supporting-curriculum-mapping/) giving one perspective on curriculum mapping and its problems.
-- An explanation of a [bottom-up approach to curriculum mapping](/blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/), rather than the traditional top-down.
+- A [report/blog post](/blog/2009/12/21/supporting-curriculum-mapping/) giving one perspective on curriculum mapping and its problems.
+- An explanation of a [bottom-up approach to curriculum mapping](/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/), rather than the traditional top-down.
 
 The following will build on and refer to the above.
 
@@ -55,18 +55,18 @@ What are the main challenges for the teaching teams (and students) using mapping
 
 The main challenge I see is staff engagement. Student engagement could possibly be grouped within this if the particular approach to curriculum mapping taken requires additional work from the students.
 
-People will not take on new tasks simply because people outside think it's a good idea. Teaching academics will not change their teaching practice within the current university environment. This is the core argument in my presentation [Herding cats and losing weight: How to improve learning and teaching](/blog2/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/).
+People will not take on new tasks simply because people outside think it's a good idea. Teaching academics will not change their teaching practice within the current university environment. This is the core argument in my presentation [Herding cats and losing weight: How to improve learning and teaching](/blog/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/).
 
 Unless curriculum mapping is seen and supported as a valuable and on-going part of how teaching and learning occurs, they won't do it. At best they will be seen to do it.
 
-This is especially true given my belief that most universities are currently at the level 2 of [3 levels of improving teaching](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). In particular, I would suggest that curriculum mapping, like most large-scale suggestions for improving teaching, are not being driven directly by the interests of academics or students, but by the following groups:
+This is especially true given my belief that most universities are currently at the level 2 of [3 levels of improving teaching](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). In particular, I would suggest that curriculum mapping, like most large-scale suggestions for improving teaching, are not being driven directly by the interests of academics or students, but by the following groups:
 
 - Managers of academic units who see the implementation of a unit-wide improvement as a way to show how they are good leaders. i.e. the focus is on what management does.
 - Accrediting bodies (government, professions etc) who wish to see evidence of the quality of the learning and teaching.
 - Vendors who have software or other products to sell to institutions that will help them achieve some widespread improvement.
 - Technologists in terms of information technology, but also education researchers and designers, who have some wonderful theory based idea that will radically improve learning and teaching, if only the recalcitrant academics would adopt it.
 
-Now, the above might come across as to overly negative for some. However, it is my belief that this malaise underpins much of what goes on in universities at the moment and is either not recognised or widely ignored. It could be that I am wrong, however, there are some other folk who have made similar comments. For example, Cavallo (2004) that I've talked about [here](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) and [here](/blog2/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/).
+Now, the above might come across as to overly negative for some. However, it is my belief that this malaise underpins much of what goes on in universities at the moment and is either not recognised or widely ignored. It could be that I am wrong, however, there are some other folk who have made similar comments. For example, Cavallo (2004) that I've talked about [here](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) and [here](/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/).
 
 ### Disciplinary differences
 
@@ -76,9 +76,9 @@ Are particular discipline groups engaged more with curriculum mapping than other
 
 #### My response
 
-As I've [written here](/blog2/2009/09/01/curriculum-mapping-process-technology-and-higher-education/), from my reading of the curriculum mapping literature most of the work seems to being done within the health disciplines, some within engineering and a bunch related to the idea of generic skills. I would suggest that most of these support the idea above about the important role of accrediting bodies in the drive towards curriculum mapping. In health, engineering and around generic skills there are bodies wishing to see proof of the quality.
+As I've [written here](/blog/2009/09/01/curriculum-mapping-process-technology-and-higher-education/), from my reading of the curriculum mapping literature most of the work seems to being done within the health disciplines, some within engineering and a bunch related to the idea of generic skills. I would suggest that most of these support the idea above about the important role of accrediting bodies in the drive towards curriculum mapping. In health, engineering and around generic skills there are bodies wishing to see proof of the quality.
 
-Given that the major aim is to fulfill the purpose of the accrediting body, it is to me, no surprise that coal-face teaching academics aren't exactly keen on the idea. e.g. the following quote [from this post](/blog2/2009/12/21/supporting-curriculum-mapping/)
+Given that the major aim is to fulfill the purpose of the accrediting body, it is to me, no surprise that coal-face teaching academics aren't exactly keen on the idea. e.g. the following quote [from this post](/blog/2009/12/21/supporting-curriculum-mapping/)
 
 > Driven by government requirements, university initiatives around graduate attributes remain patchy with the best outcomes being the production of “curriculum maps” which have the potential to foster superficial and ineffective approaches to the development of graduate attributes (Green, Hammer et al. 2009).
 
@@ -90,15 +90,15 @@ What frameworks and approaches can be developed to support effective, engaging a
 
 #### My response
 
-Given that I've argued above that the major challenge I see with curriculum mapping is that it is being done **to** academics rather than **with** them, I guess it is no surprise that I think the frameworks/approaches that have the best chance of working are those that seek to achieve level 3 of [the 3 levels of improving teaching](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels) which I've described as
+Given that I've argued above that the major challenge I see with curriculum mapping is that it is being done **to** academics rather than **with** them, I guess it is no surprise that I think the frameworks/approaches that have the best chance of working are those that seek to achieve level 3 of [the 3 levels of improving teaching](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels) which I've described as
 
 > The focus is on what the teacher does to design and deliver their course. The aim is to ensure that the learning and teaching system, its processes, rewards and constraints are aiming to ensure that the teacher is engaging in those activities which ensure quality learning and teaching. In a way that makes sense for the teacher, their course and their students.
 
-In [this post](/blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/) I argued that around curriculum mapping such an approach would be much more bottom-up than top-down. An approach that started with what staff were already doing and seeking to build on it in interesting, useful and transformative ways.
+In [this post](/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/) I argued that around curriculum mapping such an approach would be much more bottom-up than top-down. An approach that started with what staff were already doing and seeking to build on it in interesting, useful and transformative ways.
 
-I have previously, briefly [described the mechanics of such a solution](/blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/#solution). There is more to it than just this, but it provides one concrete example. The theory behind bottom-up or emergent approaches is discussed in more detail in a sequence of posts: [overview](/blog2/2009/05/25/teleological-and-ateleological-processes/), [teleological](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/) and [ateleological](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/).
+I have previously, briefly [described the mechanics of such a solution](/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/#solution). There is more to it than just this, but it provides one concrete example. The theory behind bottom-up or emergent approaches is discussed in more detail in a sequence of posts: [overview](/blog/2009/05/25/teleological-and-ateleological-processes/), [teleological](/blog/2009/06/05/teleological-design-definition-and-weaknesses/) and [ateleological](/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/).
 
-This approach was inspired by the following quote from Gers Tielemans outlined [in this post](/blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/#solution)
+This approach was inspired by the following quote from Gers Tielemans outlined [in this post](/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/#solution)
 
 > The point is that Moodle works – by design – bottom-up while most curriculum tools work top-down.
 > 
@@ -113,7 +113,7 @@ What are the institutional changes needed to support curriculum mapping initiati
 
 #### My response
 
-The main change, and I think the most difficult, is a move away from "what management does" (this includes the tools of managers including IT, quality and educational designers) towards a focus on "what the teacher does" and how what they can do can be moved forward. The change needed is to create an environment that encourages and enables (i.e. does **not** force or require) academics to improve their practice. This is the argument I made in the [herding cats presentation](/blog2/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/). That presentation also started making some recommendations for what changes would be necessary.
+The main change, and I think the most difficult, is a move away from "what management does" (this includes the tools of managers including IT, quality and educational designers) towards a focus on "what the teacher does" and how what they can do can be moved forward. The change needed is to create an environment that encourages and enables (i.e. does **not** force or require) academics to improve their practice. This is the argument I made in the [herding cats presentation](/blog/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/). That presentation also started making some recommendations for what changes would be necessary.
 
 ### Pedagogies
 
@@ -139,7 +139,7 @@ What value can curriculum mapping add to conventional methods of educational del
 
 Again, this is a problem with ROI and teleological processes. In a truly complex environment, of which I think learning and teaching within a university is an example, you cannot predict what might happen. You can't predict what values may arise.
 
-You can fall back onto the traditional value attributed to curriculum mapping in the literature. Here's a couple of paragraphs from [this post](/blog2/2009/12/21/supporting-curriculum-mapping/)
+You can fall back onto the traditional value attributed to curriculum mapping in the literature. Here's a couple of paragraphs from [this post](/blog/2009/12/21/supporting-curriculum-mapping/)
 
 > Curriculum mapping is a representation of the different components of the curriculum in order that the whole picture and the relationships between the components of the curriculum can be easily understood (Harden 2001). Curriculum mapping displays the essential features of the curriculum in a clear and succinct manner (Prideaux 2003) and provides a context for planning and discussing the curriculum (Holycross 2006).
 > 

@@ -9,15 +9,15 @@ categories:
 date: 2010-08-12 12:12:17+10:00
 next:
   text: Situated/distributed cognition and e-learning
-  url: /blog2/2010/08/13/situateddistributed-cognition-and-e-learning/
+  url: /blog/2010/08/13/situateddistributed-cognition-and-e-learning/
 previous:
   text: The McNamara Fallacy and pass rates, academic analytics, and engagement
-  url: /blog2/2010/08/09/the-mcnamara-fallacy-and-pass-rates-academic-analytics-and-engagement/
+  url: /blog/2010/08/09/the-mcnamara-fallacy-and-pass-rates-academic-analytics-and-engagement/
 title: Background to the thesis
 type: post
 template: blog-post.html
 ---
-It seems like I'm in the downhill stretch with the [thesis](/blog2/research/phd-thesis/). Almost all the new material has been written, am just waiting on some feedback from my esteemed supervisor before completing the last new section (it follows the same structure as a previous section, hence the importance of feedback). So, while I'm waiting on that feedback, I'm starting the revision of the draft chapters. The following is a re-working of the first main section of chapter 1 and provides the background to the research.
+It seems like I'm in the downhill stretch with the [thesis](/blog/research/phd-thesis/). Almost all the new material has been written, am just waiting on some feedback from my esteemed supervisor before completing the last new section (it follows the same structure as a previous section, hence the importance of feedback). So, while I'm waiting on that feedback, I'm starting the revision of the draft chapters. The following is a re-working of the first main section of chapter 1 and provides the background to the research.
 
 ### Background to the research
 

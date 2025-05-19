@@ -6,10 +6,10 @@ date: 2007-01-15 14:35:21+10:00
 next:
   text: '"Enterprise systems and shadow systems: What can the miner''s canary tell
     us?"'
-  url: /blog2/2007/01/16/enterprise-systems-and-shadow-systems-what-can-the-miners-canary-tell-us/
+  url: /blog/2007/01/16/enterprise-systems-and-shadow-systems-what-can-the-miners-canary-tell-us/
 previous:
   text: Metaphors and models considered harmful for e-learning
-  url: /blog2/2007/01/15/metaphors-and-models-considered-harmful-for-e-learning/
+  url: /blog/2007/01/15/metaphors-and-models-considered-harmful-for-e-learning/
 title: LMS Governance Report - a summary and reflection
 type: post
 template: blog-post.html

@@ -5,10 +5,10 @@ coverImage: house.jpg
 date: 2020-08-01 18:10:57+10:00
 next:
   text: Visualising and pruning my Memex
-  url: /blog2/2020/08/09/visualising-and-pruning-my-memex/
+  url: /blog/2020/08/09/visualising-and-pruning-my-memex/
 previous:
   text: Getting started with memex
-  url: /blog2/2020/07/07/getting-started-with-memex/
+  url: /blog/2020/07/07/getting-started-with-memex/
 title: Pondering if and how Hax & web components fit in Blackboard
 type: post
 template: blog-post.html
@@ -111,9 +111,7 @@ Instead - like all web components - I used a specially created HTML tag. Just li
 To do this I would (and did) add the following HTML to my Blackboard page.
 
 ```html 
-
 <p><meme-maker alt="happy dance GIF by SpongeBob SquarePants" image-url="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" top-text="Hello" bottom-text="World" imageurl="https://media0.giphy.com/media/nDSlfqf0gn5g4/giphy.gif" toptext="happy dance GIF by SpongeBob SquarePants"></p>
-
 ``` 
 
 Which produces the following (all on the same Blackboard page).
@@ -197,7 +195,7 @@ There are two problems with this approach:
 
 ### The Content Interface approach - partly implemented
 
-[The Content Interface](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) is the attempted soluton to the content authoring problem as part of [another attempt to share design knowledge for digital learning](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/).
+[The Content Interface](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) is the attempted soluton to the content authoring problem as part of [another attempt to share design knowledge for digital learning](/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/).
 
 With the Content Interface authors use Microsoft Word (a tool many are comfortable with and which provides various authoring functionality) to create course materials. They use Word styles to semantically mark up the objects in their materials. The Word document is converted to HTML and pasted into Blackboard. A Javascript then transforms the semantically marked up HTML in various ways.
 
@@ -215,7 +213,7 @@ In fact, the Content Interface itself could be rewritten as a web component. Ena
 
 ### Same for the Card Interface - partially implemented
 
-[The Card Interface](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#cardInterface) complements the Content Interface in the act of displaying modules of course materials. The Card Interface generates the "table of contents" of the modules. The Content Interface generates the module content. Given their common origins the two approaches for integrating the magic script with the Content Interface also work for the Card Interface.
+[The Card Interface](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#cardInterface) complements the Content Interface in the act of displaying modules of course materials. The Card Interface generates the "table of contents" of the modules. The Content Interface generates the module content. Given their common origins the two approaches for integrating the magic script with the Content Interface also work for the Card Interface.
 
 #### The simple approach - sort of implemented
 

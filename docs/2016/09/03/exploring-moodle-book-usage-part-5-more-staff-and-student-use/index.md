@@ -5,15 +5,15 @@ categories:
 date: 2016-09-03 09:28:35+10:00
 next:
   text: "Exploring Moodle Book usage \u2013 Part 6 \u2013 What do they contain?"
-  url: /blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/
+  url: /blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/
 previous:
   text: Exploring frameworks to understand OER/OEP
-  url: /blog2/2016/09/01/exploring-frameworks-to-understand-oeroep/
+  url: /blog/2016/09/01/exploring-frameworks-to-understand-oeroep/
 title: Exploring Moodle Book usage - Part 5 - more staff and student use
 type: post
 template: blog-post.html
 ---
-Continuing the exploration of how the Moodle Book module is being used, this post picks up from the [last](/blog2/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/) and will
+Continuing the exploration of how the Moodle Book module is being used, this post picks up from the [last](/blog/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/) and will
 
 - Revisit the who is updating/creating posts, including data from the second half of 2015.
 - Explore the balance of all actions (print/view/update) by staff.
@@ -27,7 +27,7 @@ The last post included a graph that showed generally (apart from two course offe
 - Didn't handle all roles. Appears there are some non-standard Moodle roles that the previous query didn't handle.
 - Handling deleted books and chapters. I believe this is an issue for the new logging process which has connections back into the book and book chapters table. Which works nicely until books/chapters are deleted.
 
-With those changes fixed, the following graph emerges show how many times each of the roles updated a Book resource in every course.  The changes between the following and the same graph in [the last post](/blog2/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/), includes:
+With those changes fixed, the following graph emerges show how many times each of the roles updated a Book resource in every course.  The changes between the following and the same graph in [the last post](/blog/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/), includes:
 
 - Significant increase in the number of updates for most roles (e.g. examiner up from 21968 to 31343; assistant examiner has almost doubled from 5144 to 10708)
 - Addition of the UNKNOWN role not in the previous graph

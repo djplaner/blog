@@ -5,11 +5,11 @@ categories:
 date: 2011-03-03 11:32:19+10:00
 next:
   text: '"Pedagogical Content Knowledge: Week 1"'
-  url: /blog2/2011/03/03/pedagogical-content-knowledge-week-1/
+  url: /blog/2011/03/03/pedagogical-content-knowledge-week-1/
 previous:
   text: The dissonance between the constructivist paradigm and the implementation
     of institutional e-learning
-  url: /blog2/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
+  url: /blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
 title: A PMI of constructivism
 type: post
 template: blog-post.html

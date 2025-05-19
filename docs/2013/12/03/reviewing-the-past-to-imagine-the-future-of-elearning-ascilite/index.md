@@ -5,10 +5,10 @@ date: 2013-12-03 14:15:36+10:00
 next:
   text: '"The IRAC framework: Locating the performance zone for learning analytics
     #ascilite"'
-  url: /blog2/2013/12/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics-ascilite/
+  url: /blog/2013/12/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics-ascilite/
 previous:
   text: 'Enhancing learning analytics by understanding the needs of teachers #ascilite'
-  url: /blog2/2013/12/02/enhancing-learning-analytics-by-understanding-the-needs-of-teachers-ascilite/
+  url: /blog/2013/12/02/enhancing-learning-analytics-by-understanding-the-needs-of-teachers-ascilite/
 title: '"Reviewing the past to imagine the future of elearning #ascilite"'
 type: post
 template: blog-post.html

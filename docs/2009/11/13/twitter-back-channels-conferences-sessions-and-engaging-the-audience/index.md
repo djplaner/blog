@@ -2,10 +2,10 @@
 date: 2009-11-13 11:57:04+10:00
 next:
   text: Web 2.0 tools in assessment in higher education
-  url: /blog2/2009/11/16/web-2-0-tools-in-assessment-in-higher-education/
+  url: /blog/2009/11/16/web-2-0-tools-in-assessment-in-higher-education/
 previous:
   text: Reflection on alternatives and experiments
-  url: /blog2/2009/11/11/reflection-on-alternatives-and-experiments/
+  url: /blog/2009/11/11/reflection-on-alternatives-and-experiments/
 tags:
 - twitter-conferences
 title: Twitter back channels, conferences, sessions and engaging the audience
@@ -208,7 +208,7 @@ pingbacks:
     []
     
 ---
-A couple of days ago we did [an experiment](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) around presentations that included the use of a twitter back channel (hashtag: #eair). The following is a reflection on what that allowed me to do and implications for conferences.
+A couple of days ago we did [an experiment](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) around presentations that included the use of a twitter back channel (hashtag: #eair). The following is a reflection on what that allowed me to do and implications for conferences.
 
 The question I end up at is "Should conferences have twitter hash tags for individual sessions?"
 

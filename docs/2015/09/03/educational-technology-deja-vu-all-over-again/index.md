@@ -4,10 +4,10 @@ categories:
 date: 2015-09-03 20:36:46+10:00
 next:
   text: Design of a BAD approach to developing TPACK
-  url: /blog2/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
+  url: /blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/
 previous:
   text: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
-  url: /blog2/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
+  url: /blog/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/
 title: '"Educational technology: deja vu all over again"'
 type: post
 template: blog-post.html

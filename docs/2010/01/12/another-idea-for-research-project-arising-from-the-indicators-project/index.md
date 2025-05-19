@@ -5,10 +5,10 @@ categories:
 date: 2010-01-12 08:57:10+10:00
 next:
   text: BIM - question management/configuration
-  url: /blog2/2010/01/13/bim-question-managementconfiguration/
+  url: /blog/2010/01/13/bim-question-managementconfiguration/
 previous:
   text: BIM - getting capabilities working properly
-  url: /blog2/2010/01/10/bim-getting-capabilities-working-properly/
+  url: /blog/2010/01/10/bim-getting-capabilities-working-properly/
 tags:
 - lms
 - vle

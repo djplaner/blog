@@ -7,10 +7,10 @@ categories:
 date: 2010-08-19 11:28:09+10:00
 next:
   text: '"Lessons learned from Webfuse: 2000 onwards"'
-  url: /blog2/2010/08/19/lessons-learned-from-webfuse-2000-onwards/
+  url: /blog/2010/08/19/lessons-learned-from-webfuse-2000-onwards/
 previous:
   text: How people learn and implications for academic development
-  url: /blog2/2010/08/19/how-people-learn-and-implications-for-academic-development/
+  url: /blog/2010/08/19/how-people-learn-and-implications-for-academic-development/
 title: Learning with an open course - a case study?
 type: post
 template: blog-post.html

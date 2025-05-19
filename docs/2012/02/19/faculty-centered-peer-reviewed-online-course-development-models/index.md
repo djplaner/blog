@@ -4,10 +4,10 @@ categories:
 date: 2012-02-19 22:31:04+10:00
 next:
   text: '"One Moodle course design: approach and trade-offs"'
-  url: /blog2/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/
+  url: /blog/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/
 previous:
   text: Designing the weekly ramble
-  url: /blog2/2012/02/19/designing-the-weekly-ramble/
+  url: /blog/2012/02/19/designing-the-weekly-ramble/
 title: Faculty-centered, peer-reviewed online course development models
 type: post
 template: blog-post.html
@@ -123,7 +123,7 @@ Reminded of something from Papert (1993, p. xiii)
 
 > Intellectual activity does not progress, as logicians and the designers of school curricula might want us to believe, by going step-by-step from one clearly stated and well-confirmed truth to the next.
 
-It sounds like this articles is taking a very teleological approach, while I'm an ateleological kind of guy - my prior summary of the [difference between teleological/ateleogical](/blog2/2009/05/25/teleological-and-ateleological-processes/).
+It sounds like this articles is taking a very teleological approach, while I'm an ateleological kind of guy - my prior summary of the [difference between teleological/ateleogical](/blog/2009/05/25/teleological-and-ateleological-processes/).
 
 But must allow biases to prejudice reading. Must be objective.
 

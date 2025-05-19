@@ -5,10 +5,10 @@ categories:
 date: 2015-02-18 12:57:07+10:00
 next:
   text: Organising a change in session time
-  url: /blog2/2015/02/19/organising-a-change-in-session-time/
+  url: /blog/2015/02/19/organising-a-change-in-session-time/
 previous:
   text: How to help improve the Moodle book module
-  url: /blog2/2015/02/10/how-to-help-improve-the-moodle-book-module/
+  url: /blog/2015/02/10/how-to-help-improve-the-moodle-book-module/
 title: Initial rationale and ideas for "continuous improvement" of learning and teaching
 type: post
 template: blog-post.html
@@ -91,11 +91,11 @@ The following image gives a useful comparison between an agile approach and a mo
 
 ### Digital renovation
 
-Peter Albion (@palbion) and I came up with [digital renovator](/blog2/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/) idea in the comments section of a blog post before I joined USQ. It builds on [Douglas Rushkoff's argument](http://www.huffingtonpost.com/douglas-rushkoff/programming-literacy_b_745126.html) that some form of programming is an important part of digital literacy. It's a case of "Program, or be programmed".
+Peter Albion (@palbion) and I came up with [digital renovator](/blog/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/) idea in the comments section of a blog post before I joined USQ. It builds on [Douglas Rushkoff's argument](http://www.huffingtonpost.com/douglas-rushkoff/programming-literacy_b_745126.html) that some form of programming is an important part of digital literacy. It's a case of "Program, or be programmed".
 
 The idea is that [a digital renovator](http://fedwiki.djon.es/view/welcome-visitors/view/digital-renovator) doesn't just accept the digital environment provided to them. Instead a digital renovator will make modifications so that the digital environment better suits their purpose. This is becoming easier and easier as the nature of the technologies better support this.
 
-There have always been teaching staff in universities that do this. Peter's comments on the [original blog post](/blog2/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/) briefly mention some of what he's done. I've done similar things and occasionally gotten in trouble for it because it goes against institutional policy.
+There have always been teaching staff in universities that do this. Peter's comments on the [original blog post](/blog/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/) briefly mention some of what he's done. I've done similar things and occasionally gotten in trouble for it because it goes against institutional policy.
 
 For me the following suggested strategy for cap gap 2
 
@@ -103,7 +103,7 @@ For me the following suggested strategy for cap gap 2
 
 means that I would no longer get in trouble. Instead, the institution will have a culture that encourages, enables, values, and learns from the type of digital renovation that folk like Peter and I have always done.
 
-Especially because the "attendant user, reuse, and creation of derivative works" can potentially be interpreted as meaning the renovation of learning materials/open educational resources. When I mean digital renovation I am talking about work I've already done to renovate [the Peoplesoft gradebook](/blog2/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/), Moodle ([the BIM module](https://moodle.org/plugins/view.php?plugin=mod_bim) and the [book module](/blog2/2015/02/10/how-to-help-improve-the-moodle-book-module/)), and Study Desk.
+Especially because the "attendant user, reuse, and creation of derivative works" can potentially be interpreted as meaning the renovation of learning materials/open educational resources. When I mean digital renovation I am talking about work I've already done to renovate [the Peoplesoft gradebook](/blog/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/), Moodle ([the BIM module](https://moodle.org/plugins/view.php?plugin=mod_bim) and the [book module](/blog/2015/02/10/how-to-help-improve-the-moodle-book-module/)), and Study Desk.
 
 I don't think it's possible to underpin just how challenging both the agile development and digital renovation ideas will be for the institution. These are ideas that challenge the fundamental assumptions that underpin much of what ICT services, LSS and LTS do. Not to mention management.
 
@@ -113,7 +113,7 @@ The following attempts to pull out some of the problems I've experienced while t
 
 ### A culture that doesn't value/trust/engage with teachers
 
-In [Beer et al (2014)](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) we identified three different paths institutions can take when trying to improve learning and teaching (the paper actually focuses on learning analytics, however, the three paths apply to any change in learning and teaching). They are:
+In [Beer et al (2014)](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) we identified three different paths institutions can take when trying to improve learning and teaching (the paper actually focuses on learning analytics, however, the three paths apply to any change in learning and teaching). They are:
 
 1. Do it to the teaching staff;
 2. Do it for the teaching staff; and,
@@ -129,11 +129,11 @@ I'm yet to experience a change to learning and teaching at a University that tak
 
 A couple of weeks ago the education schools organised for folk from LSS/LTS to run a session on the new integrated study desk. During that session, one of the support staff mentioned something like "for more information go to Clover". The fairly widespread response to this from all of the teaching staff in attendance was, "Where do I find Clover". At which stage the support staff rolled of a list of websites you had to visit and where to click to find Clover. The list started with go to UConnect. A fairly standard response to that suggestion from the teaching staff was, "I never use UConnect".
 
-[This blog post](/blog2/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/) (password protected) documents the difficulties involved trying to find help documentation about the integrated study desk. It appears that no-one responsible for these sites quite understands the difficulty involved in finding these resources. Alternatively, they do know, but they can't do anything about it.
+[This blog post](/blog/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/) (password protected) documents the difficulties involved trying to find help documentation about the integrated study desk. It appears that no-one responsible for these sites quite understands the difficulty involved in finding these resources. Alternatively, they do know, but they can't do anything about it.
 
-This appears to be the major reason for teaching requiring a lot of time working with tools and systems that are as uncomfortable and fit for purpose as [concrete lounges](/blog2/2014/12/18/concrete-lounge/).
+This appears to be the major reason for teaching requiring a lot of time working with tools and systems that are as uncomfortable and fit for purpose as [concrete lounges](/blog/2014/12/18/concrete-lounge/).
 
-For a bit more insight into the experiences of staff at the institution, take a look at [Albion et al (2015)](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/). It documents and reflects upon [the experience](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/#stories) of three teaching staff during 2014.
+For a bit more insight into the experiences of staff at the institution, take a look at [Albion et al (2015)](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/). It documents and reflects upon [the experience](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/#stories) of three teaching staff during 2014.
 
 ### An focus on retrospective QA, rather than prospective QA
 
@@ -172,9 +172,9 @@ Beyond that, the focus on "consistent" seems to be in direct contradiction of th
 
 The literature contains a significant body of work criticising online learning for demonstrating an over-reliance on a teacher-centered/content-oriented conception of learning. A conception of learning that is outmoded and denigrated. The problem is that much of what passes for learning and knowledge about how to effectively teach at USQ (online etc) shows all the hall-marks of these denigrated views.
 
-There are a number of different views of learning and knowledge. For example, Putnam and Borko (2000) use a distributive view of learning and knowledge. Identifying being situated, social and distributed as important aspects of this view of learning and knowledge. [Albion et al (2015)](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) use this lens to understand what it takes to effectively teach online at USQ.
+There are a number of different views of learning and knowledge. For example, Putnam and Borko (2000) use a distributive view of learning and knowledge. Identifying being situated, social and distributed as important aspects of this view of learning and knowledge. [Albion et al (2015)](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) use this lens to understand what it takes to effectively teach online at USQ.
 
-[This is an attempt](/blog2/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/) to rethink how teacher use of educational technology would be transformed if it were informed by a distributive view of knowledge and learning.
+[This is an attempt](/blog/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/) to rethink how teacher use of educational technology would be transformed if it were informed by a distributive view of knowledge and learning.
 
 ### Limited recognition of the relationship between fluency, usability and usefulness
 
@@ -220,7 +220,7 @@ The policies, procedures, and systems at USQ are not digitally fluent.
 
 ### An inappropriate mindset
 
-In [Jones and Clark (2014)](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) we argue that the huge chasm between the pitiful reality of university e-learning and the rhetoric espoused by institutions is due to university e-learning being based entirely on the wrong mindset. It identifies two examples of where this chasm has been bridged and suggests that was possible because a different mindset was used. The following table summarises the two mindsets (frameworks).
+In [Jones and Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) we argue that the huge chasm between the pitiful reality of university e-learning and the rhetoric espoused by institutions is due to university e-learning being based entirely on the wrong mindset. It identifies two examples of where this chasm has been bridged and suggests that was possible because a different mindset was used. The following table summarises the two mindsets (frameworks).
 
 The argument is that university e-learning needs more thinking in line with the BAD framework. The BAD framework has direct connections some of the concepts above. For example, digital renovation is a practice that leverages the _A_ffordances of digital technologies to engage in _B_ricolage. Agile development is based on the assumption of the world as _D_istributed and supports a form of _B_ricolage.
 

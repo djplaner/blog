@@ -4,10 +4,10 @@ categories:
 date: 2010-06-02 17:01:06+10:00
 next:
   text: Adopter focused development and diffusion theory
-  url: /blog2/2010/06/04/adopter-focused-development-and-diffusion-theory/
+  url: /blog/2010/06/04/adopter-focused-development-and-diffusion-theory/
 previous:
   text: The role of experience
-  url: /blog2/2010/06/02/the-role-of-experience/
+  url: /blog/2010/06/02/the-role-of-experience/
 title: The design of a Moodle course site
 type: post
 template: blog-post.html
@@ -161,7 +161,7 @@ I don't think this will work in this situation. It's a fair bit of work to set u
 
 #### Resource and activities
 
-The requirements for this course are fairly limited: a discussion forum, some word documents and a BAM equivalent. As there is no standard module in Moodle that implements a BAM service, this could have been a problem. However, given that the institution is currently using the [BIM activity module](/blog2/research/bam-blog-aggregation-management/) I wrote as a BAM port, this isn't a problem.
+The requirements for this course are fairly limited: a discussion forum, some word documents and a BAM equivalent. As there is no standard module in Moodle that implements a BAM service, this could have been a problem. However, given that the institution is currently using the [BIM activity module](/blog/research/bam-blog-aggregation-management/) I wrote as a BAM port, this isn't a problem.
 
 ### Helping the academic decide
 

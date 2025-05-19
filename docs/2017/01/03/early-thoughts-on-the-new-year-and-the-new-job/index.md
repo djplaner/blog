@@ -4,10 +4,10 @@ categories:
 date: 2017-01-03 11:25:44+10:00
 next:
   text: Formulating a Trello process
-  url: /blog2/2017/01/12/formulating-a-trello-process/
+  url: /blog/2017/01/12/formulating-a-trello-process/
 previous:
   text: Farewell wordpress.com, hello Reclaim Hosting
-  url: /blog2/2016/12/19/farewell-wordpress-com-hello-reclaim-hosting/
+  url: /blog/2016/12/19/farewell-wordpress-com-hello-reclaim-hosting/
 title: Early thoughts on the new year and the new job
 type: post
 template: blog-post.html

@@ -7,10 +7,10 @@ categories:
 date: 2008-10-23 09:10:20+10:00
 next:
   text: The Ps Framework - avoiding perceptual blindness?
-  url: /blog2/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
+  url: /blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/
 previous:
   text: 'Design Based Research vs. Mixed Methods: The Differences and Commonalities'
-  url: /blog2/2008/10/22/design-based-research-vs-mixed-methods-the-differences-and-commonalities/
+  url: /blog/2008/10/22/design-based-research-vs-mixed-methods-the-differences-and-commonalities/
 title: Look for incompetence before you go paranoid
 type: post
 template: blog-post.html
@@ -96,6 +96,6 @@ Each year [EDUCAUSE](http://www.educause.edu/) (a US-based "nonprofit associatio
 
 In this type of environment, it's not surprising that IT leaders are keen to control how and what is done with IT at universities. They have to pay for it and they are concerned about how they can pay for it. IT is expensive and the only way you can save money is to ensure that it is used efficiently and you need IT expertise to make those judgements.
 
-There are a number of folk, including me, who have argued that the changes behind PLEs, Web 2.0 etc. are creating [a paradigm change for IT departments](/blog2/2008/03/15/from-scarcity-to-over-abundance-paradigm-change-for-it-departments-and-others/). A paradigm change is not an easy thing to handle.
+There are a number of folk, including me, who have argued that the changes behind PLEs, Web 2.0 etc. are creating [a paradigm change for IT departments](/blog/2008/03/15/from-scarcity-to-over-abundance-paradigm-change-for-it-departments-and-others/). A paradigm change is not an easy thing to handle.
 
 Consequently any project that seeks to introduce the use of PLEs or even simply Web 2.0 technologies into an existing organisation is going to have to deal with a likely [paradigm change](http://en.wikipedia.org/wiki/Paradigm_change). A change that, according to Kuhn, only happens through a complex social process. An engaged dialogue, rather than a war.

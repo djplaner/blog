@@ -4,10 +4,10 @@ categories:
 date: 2011-01-07 11:27:16+10:00
 next:
   text: A start to the "Introduction to Learning and Knowledge Analytics" MOOC
-  url: /blog2/2011/01/10/a-start-to-the-introduction-to-learning-and-knowledge-analytics-mooc/
+  url: /blog/2011/01/10/a-start-to-the-introduction-to-learning-and-knowledge-analytics-mooc/
 previous:
   text: A command for organisations? Program or be programmed
-  url: /blog2/2011/01/06/a-command-for-organisations-program-or-be-programmed/
+  url: /blog/2011/01/06/a-command-for-organisations-program-or-be-programmed/
 title: Thesis acknowledgements version 0.5
 type: post
 template: blog-post.html

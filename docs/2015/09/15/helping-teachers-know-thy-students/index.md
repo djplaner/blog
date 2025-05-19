@@ -8,10 +8,10 @@ date: 2015-09-15 10:06:18+10:00
 next:
   text: Computers 'do not improve' pupil results, just like wood 'does not improve'
     houses
-  url: /blog2/2015/09/16/computers-do-not-improve-pupil-results-just-like-wood-does-not-improve-houses/
+  url: /blog/2015/09/16/computers-do-not-improve-pupil-results-just-like-wood-does-not-improve-houses/
 previous:
   text: What might a project combining LX Design and Analaytics look like?
-  url: /blog2/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
+  url: /blog/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/
 title: Helping teachers "know thy students"
 type: post
 template: blog-post.html
@@ -112,7 +112,7 @@ Given Norman's (1993) observations is it any wonder that perhaps I might not spe
 
 Yesterday, Joyce (@catspyjamasnz) and I spent some time exploring if and how learner experience design (Joyce's expertise) and learning analytics (my interest) might be combined.
 
-As I'm currently working on a proposal to help make it easier for teachers "know thy students" this was uppermost in my mind. And, as Joyce pointed out, "know the students" is a key step in LX design. And, as [Motz et al (2015)](http://er.educause.edu/articles/2015/3/know-thy-students-providing-aggregate-student-data-to-instructors) illustrate there appears to be some value in using learning analytics to help teachers "know thy students". And, beyond Motz's et al (2015) focus on planning, learning analytics has been suggested to help with the orchestration of learning in the form of process analytics (Lockyer et al, 2013). A link [I was thinking](/blog2/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/#process) about before our talk.
+As I'm currently working on a proposal to help make it easier for teachers "know thy students" this was uppermost in my mind. And, as Joyce pointed out, "know the students" is a key step in LX design. And, as [Motz et al (2015)](http://er.educause.edu/articles/2015/3/know-thy-students-providing-aggregate-student-data-to-instructors) illustrate there appears to be some value in using learning analytics to help teachers "know thy students". And, beyond Motz's et al (2015) focus on planning, learning analytics has been suggested to help with the orchestration of learning in the form of process analytics (Lockyer et al, 2013). A link [I was thinking](/blog/2015/09/14/what-might-a-project-combining-lx-design-and-analaytics-look-like/#process) about before our talk.
 
 Out of all this a few questions
 
@@ -127,7 +127,7 @@ Out of all this a few questions
 6. What ethical/privacy issues would need to be addressed?
 7. What additional data should be gathered and how?
     
-    e.g. in the past I've used the [course barometer idea](/blog2/student-feedback-anonymity-observable-change-and-course-barometers/) to gather student experience during a course. Might something like this be added usefully?
+    e.g. in the past I've used the [course barometer idea](/blog/student-feedback-anonymity-observable-change-and-course-barometers/) to gather student experience during a course. Might something like this be added usefully?
     
 
 ## More student details
@@ -178,6 +178,6 @@ The traditional approach to doing this might involve making modifications to Moo
 
 To "know thy student", especially when thinking of process analytics that are unique to the specific learning design used, it will be important that any solution be flexible. It should allow individual courses to adapt and modify the data required to fit the specifics of the course and its learning design.
 
-Which is why I plan to continue the use of [augmented browsing](https://en.wikipedia.org/wiki/Augmented_browsing) as the primary mechanism, and why I've started [exploring Moodle's API](/blog2/2015/09/13/exploring-moodles-api/). It appears to provide a way to allow the development of a flexible and customisable approach to allowing "know thy student" respond to the full diversity of learning and teaching.
+Which is why I plan to continue the use of [augmented browsing](https://en.wikipedia.org/wiki/Augmented_browsing) as the primary mechanism, and why I've started [exploring Moodle's API](/blog/2015/09/13/exploring-moodles-api/). It appears to provide a way to allow the development of a flexible and customisable approach to allowing "know thy student" respond to the full diversity of learning and teaching.
 
 Now, I wonder how LX design might help?

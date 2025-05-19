@@ -7,10 +7,10 @@ categories:
 date: 2010-03-05 16:03:11+10:00
 next:
   text: Some thinking on analysing Webfuse usage
-  url: /blog2/2010/03/07/some-thinking-on-analysing-webfuse-usage/
+  url: /blog/2010/03/07/some-thinking-on-analysing-webfuse-usage/
 previous:
   text: Implications of cognitive theory for instructional design
-  url: /blog2/2010/02/27/implications-of-cognitive-theory-for-instructional-design/
+  url: /blog/2010/02/27/implications-of-cognitive-theory-for-instructional-design/
 title: Design processes for teaching
 type: post
 template: blog-post.html

@@ -5,10 +5,10 @@ categories:
 date: 2016-09-11 09:39:58+10:00
 next:
   text: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used?"
-  url: /blog2/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/
+  url: /blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/
 previous:
   text: 'Making course activity more transparent: A proposed use of MAV'
-  url: /blog2/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
+  url: /blog/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
 title: Which comes first? Pedagogy or technology?
 type: post
 template: blog-post.html
@@ -73,7 +73,7 @@ Here's why.
 
 [![of course, he DOES suffer from early-ons by undergroundbastard, on Flickr](images/6316737349_ebbd6475c7_m.jpg "of course, he DOES suffer from early-ons by undergroundbastard, on Flickr")](https://www.flickr.com/photos/undergroundbastard/6316737349/) "[of course, he DOES suffer from early-ons](https://www.flickr.com/photos/undergroundbastard/6316737349/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by  [](https://www.flickr.com/people/undergroundbastard/)[undergroundbastard](https://www.flickr.com/people/undergroundbastard/) [](http://www.imagecodr.org/)
 
-The learning and teaching literature is replete with sequential processes such as [ADDIE](https://en.wikipedia.org/wiki/ADDIE_Model), [Backwards Design](https://en.wikipedia.org/wiki/Backward_design), [Constructive Alignment](https://en.wikipedia.org/wiki/Constructive_alignment) etc. It's replete with such models because that's what academics and experts tend to do. Develop models. The problem is that [all models are wrong,](/blog2/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/) but some of them are useful in certain situations for certain purposes.
+The learning and teaching literature is replete with sequential processes such as [ADDIE](https://en.wikipedia.org/wiki/ADDIE_Model), [Backwards Design](https://en.wikipedia.org/wiki/Backward_design), [Constructive Alignment](https://en.wikipedia.org/wiki/Constructive_alignment) etc. It's replete with such models because that's what academics and experts tend to do. Develop models. The problem is that [all models are wrong,](/blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/) but some of them are useful in certain situations for certain purposes.
 
 Such models attempt to distill what is important from a situation to allow us to focus on that and achieve something useful. The only trouble is that the act of distillation throws something away. It's an approach that suffers from a problem identified by Sir Samuel Vimes in _Feet of Clay_ by the late Terry Pratchett
 
@@ -105,7 +105,7 @@ This is not to suggest that pedagogy is less important because it comes last. Pe
 
 But of course all models are wrong. This model is (arguably) only appropriate if you are not familiar with digital technology. If you know all about digital technology or the specific digital technology you are considering, then  your need to play with the digital technology first is lessened.  Maybe you can leap straight to pedagogy.
 
-The trouble is that most teachers that I know have fairly limited knowledge of digital technologies. In fact, I think many of the supposed IT experts within our institutions and the broader institution have somewhat limited understandings of the true nature of digital technologies. [I've argued](/blog2/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/) that this limited understanding is directly impacting the quality of the use of digital technology for learning and teaching.
+The trouble is that most teachers that I know have fairly limited knowledge of digital technologies. In fact, I think many of the supposed IT experts within our institutions and the broader institution have somewhat limited understandings of the true nature of digital technologies. [I've argued](/blog/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/) that this limited understanding is directly impacting the quality of the use of digital technology for learning and teaching.
 
 The broader problem with this "technology first" model - as with the "pedagogy first" model - is the assumption that we engage in any complex task using a simple, sequential process. Even the 7 step sequential process above is unlikely to capture "the rich and chaotic variety" of how we evaluate, investigate and generate designs for using digital technology for learning and teaching. A teacher is just as likely to "play (investigate)" with a new digital technology by trying out in a small safe to fail experiment to see how it plays out. Perhaps this is repeated over a few cycles until the teacher is more comfortable with how the digital technology works in the specific context, with the specific learners.
 

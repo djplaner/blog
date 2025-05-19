@@ -4,10 +4,10 @@ categories:
 date: 2006-10-12 11:31:39+10:00
 next:
   text: The missing Ps in LMS adoption decisions
-  url: /blog2/2006/10/12/the-missing-ps-in-lms-adoption-decisions/
+  url: /blog/2006/10/12/the-missing-ps-in-lms-adoption-decisions/
 previous:
   text: IS as the initiator of new topics in business schools
-  url: /blog2/2006/10/12/is-as-the-initiator-of-new-topics-in-business-schools/
+  url: /blog/2006/10/12/is-as-the-initiator-of-new-topics-in-business-schools/
 title: The missing ground rule for Enterprise 2.0
 type: post
 template: blog-post.html

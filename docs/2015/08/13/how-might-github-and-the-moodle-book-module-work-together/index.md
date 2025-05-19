@@ -5,10 +5,10 @@ categories:
 date: 2015-08-13 16:22:42+10:00
 next:
   text: '"Homogeneity: the inevitable result of a strategic approach?"'
-  url: /blog2/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
+  url: /blog/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
 previous:
   text: ICT knowledge and quizzes
-  url: /blog2/2015/08/13/ict-knowledge-and-quizzes/
+  url: /blog/2015/08/13/ict-knowledge-and-quizzes/
 title: How might github and the Moodle book module work together
 type: post
 template: blog-post.html
@@ -108,7 +108,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The [Moodle open book project](/blog2/the-moodle-open-book-module-project/) is attempting (not surprisingly) to modify the [Moodle book module](https://docs.moodle.org/29/en/Book_module) to enable it to produce open resources (educational or otherwise). The main focus is on making the content of the books open in a way that enables modification and reuse. The plan is to do this by enabling a Moodle book resource to be linked to github.
+The [Moodle open book project](/blog/the-moodle-open-book-module-project/) is attempting (not surprisingly) to modify the [Moodle book module](https://docs.moodle.org/29/en/Book_module) to enable it to produce open resources (educational or otherwise). The main focus is on making the content of the books open in a way that enables modification and reuse. The plan is to do this by enabling a Moodle book resource to be linked to github.
 
 The following is an exploration of and an attempt to describe how this might work at a fairly high level.
 

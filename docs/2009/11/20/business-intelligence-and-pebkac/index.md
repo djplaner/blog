@@ -6,10 +6,10 @@ categories:
 date: 2009-11-20 10:45:09+10:00
 next:
   text: Web 2.0 in assessment - an opening statement?
-  url: /blog2/2009/11/22/web-2-0-in-assessment-an-opening-statement/
+  url: /blog/2009/11/22/web-2-0-in-assessment-an-opening-statement/
 previous:
   text: Web 2.0 tools in assessment in higher education
-  url: /blog2/2009/11/16/web-2-0-tools-in-assessment-in-higher-education/
+  url: /blog/2009/11/16/web-2-0-tools-in-assessment-in-higher-education/
 title: Business intelligence and PEBKAC
 type: post
 template: blog-post.html
@@ -49,7 +49,7 @@ I agree that business intelligence is really difficult, I believe most of its pr
 
 ### The history of technology mediated learning
 
-In [an earlier post](/blog2/2009/04/25/lessons-for-e-learning/#hypeCycle) I argued that there is a highly visible hype cycle around e-learning/technology mediated learning. I think the same hype cycle exists in broader technology. This [hype cycle is more closely aligned with Birnbaum](/blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/) than that of Gartner.
+In [an earlier post](/blog/2009/04/25/lessons-for-e-learning/#hypeCycle) I argued that there is a highly visible hype cycle around e-learning/technology mediated learning. I think the same hype cycle exists in broader technology. This [hype cycle is more closely aligned with Birnbaum](/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/) than that of Gartner.
 
 The four (grown from three) phases in the cycle I use are:
 

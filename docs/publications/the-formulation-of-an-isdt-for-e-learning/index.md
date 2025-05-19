@@ -42,7 +42,7 @@ pingbacks:
 ---
 David Jones, Shirley Gregor, The formulation of an ISDT for e-learning, Paper presented at the 1st International Conference on Design Science Research in Information Systems and Technology
 
-> _Note:_ A significantly modified and expanded version of this ISDT and its formulation are [described in my thesis](/blog2/research/phd-thesis/).
+> _Note:_ A significantly modified and expanded version of this ISDT and its formulation are [described in my thesis](/blog/research/phd-thesis/).
 
 ### Abstract
 

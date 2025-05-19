@@ -5,10 +5,10 @@ coverImage: birds.jpg
 date: 2020-07-06 11:11:58+10:00
 next:
   text: Getting started with memex
-  url: /blog2/2020/07/07/getting-started-with-memex/
+  url: /blog/2020/07/07/getting-started-with-memex/
 previous:
   text: Understanding (digital) education through workarounds and quality indicators
-  url: /blog2/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/
+  url: /blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/
 tags:
 - memex
 title: Designing a personal "memex" with Foam
@@ -25,9 +25,9 @@ The following is me figuring out how I might kludge Foam together with the other
 
 ## What is Foam? Why use it? Why not?
 
-Foam is a tool intended to help individuals store, manage and leverage knowledge. It’s inspired by tools such as [Roam](https://roamresearch.com/) and [Notion](https://www.notion.so/), which are getting [some attention](https://medium.com/@francescod_ales/is-roam-research-the-next-big-tool-2e969a5245c2). It also harks back to [Smallest Federated Wiki](/blog2/2015/01/21/trying-out-a-new-writing-process/) and [Wikity](http://djon.es/blog/2016/04/23/playing-with-wikity/). Ideas that have promised to help with the problem I’ve identified above, but which I’ve never been sufficiently disciplined to effectively use. Hence no solution.
+Foam is a tool intended to help individuals store, manage and leverage knowledge. It’s inspired by tools such as [Roam](https://roamresearch.com/) and [Notion](https://www.notion.so/), which are getting [some attention](https://medium.com/@francescod_ales/is-roam-research-the-next-big-tool-2e969a5245c2). It also harks back to [Smallest Federated Wiki](/blog/2015/01/21/trying-out-a-new-writing-process/) and [Wikity](http://djon.es/blog/2016/04/23/playing-with-wikity/). Ideas that have promised to help with the problem I’ve identified above, but which I’ve never been sufficiently disciplined to effectively use. Hence no solution.
 
-Foam has some [established principles](https://foambubble.github.io/foam/principles) which resonate and which may help address some of the dissonance prior toools created with my personal practice. Like @downes I am attracted by the underpinning technology used by Foam - [Visual Studio Code](https://code.visualstudio.com/) and [GitHub](https://github.com/). First, because I’m increasingly using those technologies in my work so my familiarity with them is increasing. Forming a virtuous circle, using Foam will help improve my familiarity with these tools and help my work. Second, the small pieces loosely joined approach enabled by both technologies resonates strongly with my [prior work](/blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) and assumptions about what works, or not. Though the fact that they still position [“Build vs Assemble”](https://foambubble.github.io/foam/build-vs-assemble) as an either/or suggests that they haven’t made explicit the idea that out it is both/and.
+Foam has some [established principles](https://foambubble.github.io/foam/principles) which resonate and which may help address some of the dissonance prior toools created with my personal practice. Like @downes I am attracted by the underpinning technology used by Foam - [Visual Studio Code](https://code.visualstudio.com/) and [GitHub](https://github.com/). First, because I’m increasingly using those technologies in my work so my familiarity with them is increasing. Forming a virtuous circle, using Foam will help improve my familiarity with these tools and help my work. Second, the small pieces loosely joined approach enabled by both technologies resonates strongly with my [prior work](/blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) and assumptions about what works, or not. Though the fact that they still position [“Build vs Assemble”](https://foambubble.github.io/foam/build-vs-assemble) as an either/or suggests that they haven’t made explicit the idea that out it is both/and.
 
 [Foam’s principles](https://foambubble.github.io/foam/principles) mention an intent to “allow users to operate in a decentralised” manner, which is also pleasing. I need to figure out how to integrate Foam into the assemblage of tools, practices and knowledge that will form my PKM processes. Inevitably my choices will be different than others. VSCode and GitHub are designed to more easily support this difference than some other choices. For example, some early examples of how the tools underpinning Foam might help inter-connect Foam with my existing assemblages, include:
 
@@ -42,7 +42,7 @@ And that list is without exploring further into the VSCode ecosystem (e.g. this 
 
 It’s still early days. There remains a question whether this tool and its community will evolve productively. It’s also a bit rough around the edges and perhaps not fully feature complete. Not surprising since it is essentially [two weeks since the release of a functional prototype](https://twitter.com/jevakallio/status/1276102925849329664).
 
-Foam is not an integrated system. It’s a best-of-breed system. Each of these [product models have plusses and minuses](/blog2/2009/08/31/product-models-lms-bob-and-alternatives/). A best-of-breed approach is more flexible and customisable. It’s also requires more knowledge to use effectively. Especially when the number of components that make up the best-of-breed system becomes quite large. As it can quickly become with Foam. Also, Foam is a best-of-breed system that you are responsible for fitting together.
+Foam is not an integrated system. It’s a best-of-breed system. Each of these [product models have plusses and minuses](/blog/2009/08/31/product-models-lms-bob-and-alternatives/). A best-of-breed approach is more flexible and customisable. It’s also requires more knowledge to use effectively. Especially when the number of components that make up the best-of-breed system becomes quite large. As it can quickly become with Foam. Also, Foam is a best-of-breed system that you are responsible for fitting together.
 
 The technical knowledge required to get going is relatively high. Rough around the edges means it’s probably best if you are familiar already with GitHub and VSCode. Markdown is the core authoring environment. It’s something else to learn.
 

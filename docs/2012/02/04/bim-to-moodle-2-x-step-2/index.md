@@ -5,15 +5,15 @@ date: 2012-02-04 17:21:15+10:00
 next:
   text: '"It''s better at home: One contributor to why ICT integration in schools
     sucks"'
-  url: /blog2/2012/02/07/its-better-at-home-one-contributor-to-why-ict-integration-in-schools-sucks/
+  url: /blog/2012/02/07/its-better-at-home-one-contributor-to-why-ict-integration-in-schools-sucks/
 previous:
   text: Thinking about Moodle course design
-  url: /blog2/2012/02/03/thinking-about-moodle-course-design/
+  url: /blog/2012/02/03/thinking-about-moodle-course-design/
 title: BIM to Moodle 2.x - Step 2
 type: post
 template: blog-post.html
 ---
-_Disclaimer:_ I started this post in November 2011 and never posted it. It is essentially a development diary for some initial steps in development [BIM](/blog2/research/bam-blog-aggregation-management/) for Moodle 2.x.
+_Disclaimer:_ I started this post in November 2011 and never posted it. It is essentially a development diary for some initial steps in development [BIM](/blog/research/bam-blog-aggregation-management/) for Moodle 2.x.
 
 It is probably of almost no value to anyone but me.
 

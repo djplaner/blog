@@ -5,10 +5,10 @@ categories:
 date: 2009-04-17 14:22:52+10:00
 next:
   text: Performance degradation - impact of new LMS implementation
-  url: /blog2/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
+  url: /blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/
 previous:
   text: A history of technology-mediated learning
-  url: /blog2/2009/04/17/a-history-of-technology-mediated-learning/
+  url: /blog/2009/04/17/a-history-of-technology-mediated-learning/
 title: '"PhD Update #7 - a fortnight in review"'
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-It's now been 2 weeks since my last "weekly" [PhD update](/blog2/2009/04/02/phd-update-6-start-of-shortened-weeks/). The public holidays, minor surgery and a general malaise contributed to by on-going issues at work have meant that work hasn't progressed as quickly as I'd hoped and it would have been pretty pointless to post an update last week.
+It's now been 2 weeks since my last "weekly" [PhD update](/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/). The public holidays, minor surgery and a general malaise contributed to by on-going issues at work have meant that work hasn't progressed as quickly as I'd hoped and it would have been pretty pointless to post an update last week.
 
 Of course, all that is going to change from now on.
 
@@ -43,7 +43,7 @@ Yea, right. At the last I'll be out at work tomorrow (saturday) doing more PhD s
 Last week, I said (not very clearly), that I would aim to have one blog post for each of the following
 
 - "History of technology-mediated learning"  
-    [Done](/blog2/2009/04/17/a-history-of-technology-mediated-learning/) but took a lot long than I hoped.
+    [Done](/blog/2009/04/17/a-history-of-technology-mediated-learning/) but took a lot long than I hoped.
 - "History of e-learning"  
     This section has changed to become the "Paradigms of e-learning". Much of the structure and initial content is in place, but not ready to be posted. Real soon now, have been working on it.
 - "Quantitative use of industrial e-learning"  
@@ -53,21 +53,21 @@ In addition to the above, I've also gathered a fair bit more literature (would b
 
 In terms of blog posts, over the last couple of weeks I've contributed the following posts out into the blogosphere
 
-- [Fad cycle in L&T - historical view](/blog2/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/)  
-    A key result of the [history section of the thesis](/blog2/2009/04/17/a-history-of-technology-mediated-learning/) and some associated reading is the recognition that there is a clear cycle at work with the application of technology to learning and teaching. This post started to express some of these ideas. The cycle will be one of the "lessons" arising from the "Past Experience" section of Chapter 2.
-- [Measuring the design process](/blog2/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/)  
+- [Fad cycle in L&T - historical view](/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/)  
+    A key result of the [history section of the thesis](/blog/2009/04/17/a-history-of-technology-mediated-learning/) and some associated reading is the recognition that there is a clear cycle at work with the application of technology to learning and teaching. This post started to express some of these ideas. The cycle will be one of the "lessons" arising from the "Past Experience" section of Chapter 2.
+- [Measuring the design process](/blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/)  
     While not directly related to the PhD in content, the intent is. The "People" section of chapter 2 will make a similar point to this post. i.e. that the common understanding/practice of IT professionals and "corporate" management are inappropriate for something like e-learning.
-- [Snowden quotes connected with e-learning](/blog2/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/)  
+- [Snowden quotes connected with e-learning](/blog/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/)  
     Picks up a couple of quotes from Dave Snowden that connect with two of my views - one each from Product and People sections of the Ps Framework - about the mismatch between what university-based e-learning needs and what it actually gets.
-- [Fad cycles](/blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/)  
+- [Fad cycles](/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/)  
     Follows on from a post above about cycles in higher education. Talks in some detail about Birnbaum's fad cycle and the Gartner technology hype cycle.
-- [Blame the student](/blog2/2009/04/06/early-indications-of-blame-the-student-that-continues-today/)  
+- [Blame the student](/blog/2009/04/06/early-indications-of-blame-the-student-that-continues-today/)  
     Picks up on a quote from 1912 - early days of educational technology - that embodies the "blame the student" or "can't trust the student" approaches to teaching.
-- [Edupunk rules](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/)  
+- [Edupunk rules](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/)  
     A post that combines some insights from McDonald and Gibbons (nd) with the Edupunk movement. Both fit with the fundamental perspective from my design theory.
-- [Disruption and the mythic technologies of education](/blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/)  
+- [Disruption and the mythic technologies of education](/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/)  
     Combines insights from Shirky, Papert, Postman and Campbell to talk about the nature of e-learning (in transition), the nature of universities and how to move forward.
-- [Theory and practice quote](/blog2/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/)  
+- [Theory and practice quote](/blog/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/)  
     Picks up on a good quote that I'm planning to use as a lead in for Chapter 1.
 
 ### What I'll do for next week

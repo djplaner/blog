@@ -4,10 +4,10 @@ categories:
 date: 2010-03-17 11:27:49+10:00
 next:
   text: Late enrolling students and student signatures - Indicators project?
-  url: /blog2/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
+  url: /blog/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
 previous:
   text: The story of BIM - Origins - blogs and minute papers
-  url: /blog2/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
+  url: /blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
 title: The story of BIM - Development of BAM
 type: post
 template: blog-post.html
@@ -45,7 +45,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This is the second episode in the continuing story of BIM. This episode picks up the story late in the first half of 2006. The [initial foray](/blog2/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/) into using individual student blogs to encourage reflection and make student learning more visible was bumbling along. It was now time to think about what I'd be teaching the following term.
+This is the second episode in the continuing story of BIM. This episode picks up the story late in the first half of 2006. The [initial foray](/blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/) into using individual student blogs to encourage reflection and make student learning more visible was bumbling along. It was now time to think about what I'd be teaching the following term.
 
 ### Introducing COIS20025, Systems Development Overview
 
@@ -139,4 +139,4 @@ Technically the system worked well. Students had a blog without the institution 
 
 ### More details
 
-More detail about the initial use of BAM in COIS20025 can be found in two publications. [One](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/), written in 2006 just after completion, and [another](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) written in late 2008 after a period of some reflection.
+More detail about the initial use of BAM in COIS20025 can be found in two publications. [One](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/), written in 2006 just after completion, and [another](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) written in late 2008 after a period of some reflection.

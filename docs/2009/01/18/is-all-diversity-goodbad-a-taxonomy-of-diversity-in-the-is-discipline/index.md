@@ -7,15 +7,15 @@ categories:
 date: 2009-01-18 16:18:18+10:00
 next:
   text: Why am I a ePortfolio skeptic?
-  url: /blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/
+  url: /blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
 previous:
   text: Using metaphor to examine diversity (or lack thereof) in research
-  url: /blog2/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/
+  url: /blog/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/
 title: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
 type: post
 template: blog-post.html
 ---
-In a [previous post](/blog2/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/) I pointed to and summarised a working paper that suggests that IS research is not all that diverse. At least at the conceptual level.
+In a [previous post](/blog/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/) I pointed to and summarised a working paper that suggests that IS research is not all that diverse. At least at the conceptual level.
 
 The [Information Systems (IS) discipline](http://isworld.org/) has for a number of years been having an on-going debate about whether or not the discipline is diverse or not. A part of that argument has been discussion about whether diversity is good or bad for IS and for a discipline in general.
 
@@ -49,7 +49,7 @@ The working paper also suggests that Vessey et al (2002) added two further chara
 
 I haven't read the Vessey paper but given this summary, I'm a bit confused. These two additional characteristics seem to fit into the 3rd "way" from Benbasat and Weber. Obviously some more reading is required.
 
-In the work on my [thesis](/blog2/research/phd-thesis/) I'm drawing on four classes of questions about a domain of knowledge from Gregor (2006). They are
+In the work on my [thesis](/blog/research/phd-thesis/) I'm drawing on four classes of questions about a domain of knowledge from Gregor (2006). They are
 
 1. **Domain questions.** What phenomena are of interest in the discipline? What are the core problems or topics of interest? What are the boundaries of the discipline?
 2. **Structural or ontological questions.** What is theory? How is this term understood in the discipline? Of what is theory composed? What forms do contributions to knowledge take? How is theory expressed? What types of claims or statements can be made? What types of questions are addressed?

@@ -5,10 +5,10 @@ categories:
 date: 2011-04-07 11:31:14+10:00
 next:
   text: '"Group 2 Technologies: Images, Audio and Video"'
-  url: /blog2/2011/04/07/group-2-technologies-images-audio-and-video/
+  url: /blog/2011/04/07/group-2-technologies-images-audio-and-video/
 previous:
   text: BIM on the back burner
-  url: /blog2/2011/04/07/bim-on-the-back-burner/
+  url: /blog/2011/04/07/bim-on-the-back-burner/
 title: '"ICTs for learning design: Group 2 Technologies - The readings"'
 type: post
 template: blog-post.html

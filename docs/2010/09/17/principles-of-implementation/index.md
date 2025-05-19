@@ -4,16 +4,16 @@ categories:
 date: 2010-09-17 11:00:35+10:00
 next:
   text: Justificatory knowledge
-  url: /blog2/2010/09/17/justificatory-knowledge/
+  url: /blog/2010/09/17/justificatory-knowledge/
 previous:
   text: Alan Kay and some reasons why the educational technology revolution hasn&#039;t
     happened
-  url: /blog2/2010/09/16/alan-kay-and-some-reasons-why-the-educational-technology-revolution-hasnt-happened/
+  url: /blog/2010/09/16/alan-kay-and-some-reasons-why-the-educational-technology-revolution-hasnt-happened/
 title: Principles of implementation
 type: post
 template: blog-post.html
 ---
-The following is the other main component of the ISDT for e-learning I'm working on. A [prior post](/blog2/2010/09/15/principles-of-form-and-function/) focused on the principles of form and function (i.e. the structure of an information system, the product), the following focuses the principles of implementation (i.e. the process).
+The following is the other main component of the ISDT for e-learning I'm working on. A [prior post](/blog/2010/09/15/principles-of-form-and-function/) focused on the principles of form and function (i.e. the structure of an information system, the product), the following focuses the principles of implementation (i.e. the process).
 
 While both these posts are based on a bit of prior work, the current formulation of the principles are very much a first draft (not only the principles themselves, but the expression as well). I'll be coming back to them and welcome feedback.
 

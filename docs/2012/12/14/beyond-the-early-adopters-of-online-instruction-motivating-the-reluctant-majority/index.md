@@ -5,10 +5,10 @@ categories:
 date: 2012-12-14 17:54:11+10:00
 next:
   text: Why Moneyball is the wrong analogy for learning analytics
-  url: /blog2/2012/12/17/why-moneyball-is-the-wrong-analogy-for-learning-analytics/
+  url: /blog/2012/12/17/why-moneyball-is-the-wrong-analogy-for-learning-analytics/
 previous:
   text: Developing personal learning networks for open and social learning
-  url: /blog2/2012/12/14/4668/
+  url: /blog/2012/12/14/4668/
 title: '"Beyond the early adopters of online instruction: Motivating the reluctant
   majority"'
 type: post

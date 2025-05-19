@@ -5,10 +5,10 @@ categories:
 date: 2010-11-12 13:15:12+10:00
 next:
   text: Delving into institutional information systems
-  url: /blog2/2010/11/12/delving-into-institutional-information-systems/
+  url: /blog/2010/11/12/delving-into-institutional-information-systems/
 previous:
   text: Initial plans for BIM 2.0
-  url: /blog2/2010/11/09/initial-plans-for-bim-2-0/
+  url: /blog/2010/11/09/initial-plans-for-bim-2-0/
 title: A turning point
 type: post
 template: blog-post.html
@@ -255,7 +255,7 @@ You may want to skip the whinging diatribe about university L&T and jump to the 
 
 ### Turning away?
 
-To some extent I am turning away from being a part of [the technologists alliance](/blog2/2009/08/09/the-chasm/) as described by Geoghegan (1994)
+To some extent I am turning away from being a part of [the technologists alliance](/blog/2009/08/09/the-chasm/) as described by Geoghegan (1994)
 
 > The last decade has seen the formation of an alliance between "technologist" populations concerned with instructional computing. Those involved include faculty innovators and early adopters, campus IT support organizations, and information technology vendors with products for the instructional market. Ironically, while this alliance has fostered development of many instructional applications that clearly illustrate the benefits that technology can bring to teaching and learning, it has also unknowingly worked to prevent the dissemination of these benefits into the much larger mainstream population.
 

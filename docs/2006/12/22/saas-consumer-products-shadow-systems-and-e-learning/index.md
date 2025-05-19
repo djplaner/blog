@@ -6,10 +6,10 @@ categories:
 date: 2006-12-22 11:32:31+10:00
 next:
   text: Rationale for the Web 2.0 Course Site approach
-  url: /blog2/2006/12/23/rationale-for-the-web-20-course-site-approach/
+  url: /blog/2006/12/23/rationale-for-the-web-20-course-site-approach/
 previous:
   text: Collaboration, Design and Innovation
-  url: /blog2/2006/12/22/collaboration-design-and-innovation/
+  url: /blog/2006/12/22/collaboration-design-and-innovation/
 title: SaaS, Consumer products, shadow systems and e-learning
 type: post
 template: blog-post.html

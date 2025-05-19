@@ -4,10 +4,10 @@ categories:
 date: 2015-02-25 06:36:00+10:00
 next:
   text: The edc3100 "inspirational posters"
-  url: /blog2/2015/03/01/the-edc3100-inspirational-posters/
+  url: /blog/2015/03/01/the-edc3100-inspirational-posters/
 previous:
   text: Organising a change in session time
-  url: /blog2/2015/02/19/organising-a-change-in-session-time/
+  url: /blog/2015/02/19/organising-a-change-in-session-time/
 tags:
 - bad
 - elearning
@@ -181,7 +181,7 @@ This quote from Dede (2008) picks up on why this is a problem (or you can [liste
 
 ## And it's not new
 
-Here's a quote from [Jones (1996)](/blog2/publications/computing-by-distance-education-problems-and-solutions/#fields) - yep I had a bug in my bonnet about this almost 20 years ago and here I am again
+Here's a quote from [Jones (1996)](/blog/publications/computing-by-distance-education-problems-and-solutions/#fields) - yep I had a bug in my bonnet about this almost 20 years ago and here I am again
 
 > With traditional on-campus teaching academics generally have complete control over what they teach and how it is presented. In CQU’s distance education model the subject matter’s presentation is controlled by DDCE. This results in significant tension between the desire to operate standardised systems for production and distribution of courseware and the desire for course designers to be creative and imaginative (Mark, 1990).
 

@@ -5,10 +5,10 @@ categories:
 date: 2010-03-17 11:56:34+10:00
 next:
   text: The story of BIM - the slow expansion of BAM
-  url: /blog2/2010/03/17/the-story-of-bim-the-slow-expansion-of-bam/
+  url: /blog/2010/03/17/the-story-of-bim-the-slow-expansion-of-bam/
 previous:
   text: The story of BIM - Development of BAM
-  url: /blog2/2010/03/17/the-story-of-bim-development-of-bam/
+  url: /blog/2010/03/17/the-story-of-bim-development-of-bam/
 title: Late enrolling students and student signatures - Indicators project?
 type: post
 template: blog-post.html
@@ -17,7 +17,7 @@ Just floating another idea for a research project around the [Indicators project
 
 ### The spark
 
-In [reflecting back](/blog2/2010/03/17/the-story-of-bim-development-of-bam/) on the origins of BIM, I generated the following stats about late enrollments
+In [reflecting back](/blog/2010/03/17/the-story-of-bim-development-of-bam/) on the origins of BIM, I generated the following stats about late enrollments
 
 > 73% of the students in this offering enrolled in the course after term had started. In fact, 21% of the students were enrolled on the last day of week 2 of term. Supposedly the last day students could enroll. A further 9% of students were enrolled after week 2.
 

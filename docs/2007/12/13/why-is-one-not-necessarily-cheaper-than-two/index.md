@@ -5,10 +5,10 @@ categories:
 date: 2007-12-13 21:05:56+10:00
 next:
   text: Getting started in Second Life
-  url: /blog2/2008/01/10/getting-started-in-second-life/
+  url: /blog/2008/01/10/getting-started-in-second-life/
 previous:
   text: New approaches to curriculum design informed by complexity
-  url: /blog2/2007/12/11/new-approaches-to-curriculum-design-informed-by-complexity/
+  url: /blog/2007/12/11/new-approaches-to-curriculum-design-informed-by-complexity/
 tags:
 - lms
 title: Why is one not necessarily cheaper than two

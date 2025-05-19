@@ -4,10 +4,10 @@ categories:
 date: 2009-12-17 15:58:31+10:00
 next:
   text: BIM - Saving/manipulating RSS files
-  url: /blog2/2009/12/20/bim-savingmanipulating-rss-files/
+  url: /blog/2009/12/20/bim-savingmanipulating-rss-files/
 previous:
   text: BIM - getting student registration working
-  url: /blog2/2009/12/17/bim-getting-student-registration-working/
+  url: /blog/2009/12/17/bim-getting-student-registration-working/
 title: BIM - Getting "show student details" working
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This post summarises the work necessary to take the next step in BIM development. As summarised in [the last post](/blog2/2009/12/17/bim-getting-student-registration-working/) the plan is to implement the remaining [screens](/blog2/2009/12/14/getting-back-into-bim-summary-and-way-forward/#screens) roughly complete so that potential users can interact and give feedback. This included the need to start designing and populating remaining database tables.
+This post summarises the work necessary to take the next step in BIM development. As summarised in [the last post](/blog/2009/12/17/bim-getting-student-registration-working/) the plan is to implement the remaining [screens](/blog/2009/12/14/getting-back-into-bim-summary-and-way-forward/#screens) roughly complete so that potential users can interact and give feedback. This included the need to start designing and populating remaining database tables.
 
 This post focuses on the implementation of the **Show student details** screen. This screen is used by students to show what BIM knows about their blog. This includes # of posts, blog url, allocation of posts to questions and any marks/formal comments from academic staff. Two steps:
 

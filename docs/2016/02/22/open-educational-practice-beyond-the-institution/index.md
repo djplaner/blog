@@ -6,10 +6,10 @@ categories:
 date: 2016-02-22 12:01:39+10:00
 next:
   text: PEBKAC, mental model mismatch and ICT
-  url: /blog2/2016/03/02/pebkac-mental-model-mismatch-and-ict/
+  url: /blog/2016/03/02/pebkac-mental-model-mismatch-and-ict/
 previous:
   text: 'Can video be emedded in ePub exported from #moodle book?'
-  url: /blog2/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
+  url: /blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
 title: Open educational practice beyond the institution?
 type: post
 template: blog-post.html
@@ -129,7 +129,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a continuation of [prior ponderings](/blog2/2016/02/09/on-the-relationship-between-learning-design-and-oep/) about about open educational practice (OEP) and open educational resources (OER) in the context of a potential institutional grant application. It's an attempt to make sense of some of the relevant literature I've read and figure out how that might influence the nascent project. In particular, it suggests that some of the OER/OEP literature is limited due to its focus on: OER; the individual; the institution; and, on searching as the means of discovery.
+The following is a continuation of [prior ponderings](/blog/2016/02/09/on-the-relationship-between-learning-design-and-oep/) about about open educational practice (OEP) and open educational resources (OER) in the context of a potential institutional grant application. It's an attempt to make sense of some of the relevant literature I've read and figure out how that might influence the nascent project. In particular, it suggests that some of the OER/OEP literature is limited due to its focus on: OER; the individual; the institution; and, on searching as the means of discovery.
 
 It leads to a nascent idea of a project to address these perceived limitations.  i.e. it's a project that is not limited to one institution; it's not focused on the individual actor, but on the connections between them; and, it's aiming to explore if and with what impacts the OER/OEP can be embedded into existing networks.
 

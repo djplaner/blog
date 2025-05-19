@@ -7,11 +7,11 @@ categories:
 date: 2015-07-12 08:52:53+10:00
 next:
   text: Revising week 1 of EDU8117 - Networked and Global Learning
-  url: /blog2/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/
+  url: /blog/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/
 previous:
   text: 'Female/male participation rates in IT: an example of what&#039;s easy to
     log??'
-  url: /blog2/2015/07/09/femalemale-participation-rates-in-it-an-example-of-whats-easy-to-log/
+  url: /blog/2015/07/09/femalemale-participation-rates-in-it-an-example-of-whats-easy-to-log/
 title: "\"Digital learning: It's d\xE9j\xE0 vu all over again\""
 type: post
 template: blog-post.html
@@ -55,8 +55,8 @@ Using this experience and the BAD/SET framework (Jones & Clark, 2014) the sessio
 
 ### References
 
-Jones, D. (1996a). [Computing by distance education: Problems and solutions](/blog2/publications/computing-by-distance-education-problems-and-solutions/). ACM SIGCSE Bulletin, 28(SI), 139–146.
+Jones, D. (1996a). [Computing by distance education: Problems and solutions](/blog/publications/computing-by-distance-education-problems-and-solutions/). ACM SIGCSE Bulletin, 28(SI), 139–146.
 
-Jones, D. (1996b). [Solving Some Problems of University Education: A Case Study](/blog2/publications/solving-some-problems-of-university-education-a-case-study/). In R. Debreceny & A. Ellis (Eds.), Proceedings of AusWeb’96 (pp. 243–252). Gold Coast, QLD: Southern Cross University Press.
+Jones, D. (1996b). [Solving Some Problems of University Education: A Case Study](/blog/publications/solving-some-problems-of-university-education-a-case-study/). In R. Debreceny & A. Ellis (Eds.), Proceedings of AusWeb’96 (pp. 243–252). Gold Coast, QLD: Southern Cross University Press.
 
 Jones, D., & Clark, D. (2014). Breaking BAD to bridge the reality/rhetoric chasm. In B. Hegarty, J. McDonald, & S. Loke (Eds.), Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014 (pp. 262–272). Dunedin. Retrieved from [http://ascilite2014.otago.ac.nz/files/fullpapers/221-Jones.pdf](http://ascilite2014.otago.ac.nz/files/fullpapers/221-Jones.pdf)

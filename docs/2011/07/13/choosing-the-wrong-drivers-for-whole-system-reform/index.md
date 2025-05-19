@@ -4,11 +4,11 @@ categories:
 date: 2011-07-13 12:44:02+10:00
 next:
   text: Teaching teachers for the future
-  url: /blog2/2011/07/19/teaching-teachers-for-the-future/
+  url: /blog/2011/07/19/teaching-teachers-for-the-future/
 previous:
   text: 'Social bookmarks, curriculum and resources: A search for a visualisation
     tool'
-  url: /blog2/2011/07/08/social-bookmarks-curriculum-and-resources-a-search-for-a-visualisation-tool/
+  url: /blog/2011/07/08/social-bookmarks-curriculum-and-resources-a-search-for-a-visualisation-tool/
 title: Choosing the wrong drivers for whole system reform
 type: post
 template: blog-post.html

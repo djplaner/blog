@@ -5,10 +5,10 @@ categories:
 date: 2011-09-26 21:10:43+10:00
 next:
   text: Results of the Year 10 math hassle map
-  url: /blog2/2011/10/09/results-of-the-year-10-math-hassle-map/
+  url: /blog/2011/10/09/results-of-the-year-10-math-hassle-map/
 previous:
   text: A hassle map for Year 10 mathematics? You can&#039;t focus on the negatives?
-  url: /blog2/2011/09/25/a-hassle-map-for-year-10-mathematics-you-cant-focus-on-the-negatives/
+  url: /blog/2011/09/25/a-hassle-map-for-year-10-mathematics-you-cant-focus-on-the-negatives/
 title: Social media in higher education - to read
 type: post
 template: blog-post.html

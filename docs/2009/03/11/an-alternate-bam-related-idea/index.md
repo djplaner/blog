@@ -5,18 +5,18 @@ categories:
 date: 2009-03-11 10:49:13+10:00
 next:
   text: Validity is subjective
-  url: /blog2/2009/03/11/validity-is-subjective/
+  url: /blog/2009/03/11/validity-is-subjective/
 previous:
   text: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
     projects together?
-  url: /blog2/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/
+  url: /blog/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/
 title: Initial steps toward an education aggregation taxonomy - community versus individual?
 type: post
 template: blog-post.html
 ---
-In a [previous post](/blog2/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/) I talked about the rationale and need for thinking about a taxonomy of educational aggregation projects. Something that I haven't really given a lot of thought to, just yet.
+In a [previous post](/blog/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/) I talked about the rationale and need for thinking about a taxonomy of educational aggregation projects. Something that I haven't really given a lot of thought to, just yet.
 
-About 15 minutes ago I [posted this](/blog2/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/) about "cooked" course feeds. [Wordpress.com's](http://wordpress.com/) "possibly related posts" feature (where it automatically appends 3 or 4 other posts from Wordpress.com blogs which it deems to possibly related) included a [link to this post](http://techticker.net/2008/01/30/prologue-as-a-blog-portal/) entitled "Prologue as an eLearning Blog Portal".
+About 15 minutes ago I [posted this](/blog/2009/03/11/cooked-course-feeds-an-approach-to-bringing-the-plescquni-bam-and-indicators-projects-together/) about "cooked" course feeds. [Wordpress.com's](http://wordpress.com/) "possibly related posts" feature (where it automatically appends 3 or 4 other posts from Wordpress.com blogs which it deems to possibly related) included a [link to this post](http://techticker.net/2008/01/30/prologue-as-a-blog-portal/) entitled "Prologue as an eLearning Blog Portal".
 
 It's a post by [Mike Bogle](http://techticker.net/about/) in which he outlines one of the key problems we saw with using blogs for individual student reflective journals.
 
@@ -49,7 +49,7 @@ So what's the difference between BAM and tools like Cloudworks, EduGlu and Prolo
 
 #### A focus on the individual student
 
-The [original rationale and design for BAM](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) was to support and improve student usage of individual reflective journals and enable academic staff to be aware of student progress. i.e. the only people directly and regularly reading the student blog posts was their tutor. Hence the social aspects of filtering and tagging aren't in BAM, because they weren't immediately useful.
+The [original rationale and design for BAM](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) was to support and improve student usage of individual reflective journals and enable academic staff to be aware of student progress. i.e. the only people directly and regularly reading the student blog posts was their tutor. Hence the social aspects of filtering and tagging aren't in BAM, because they weren't immediately useful.
 
 There are plusses and minuses to this approach. There would certainly have been benefits for student reflections to be seen and commented upon by other students. But there also would've been negatives.
 

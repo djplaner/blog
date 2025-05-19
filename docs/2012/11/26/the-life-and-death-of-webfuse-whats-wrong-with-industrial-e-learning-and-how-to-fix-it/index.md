@@ -9,10 +9,10 @@ categories:
 date: 2012-11-26 03:41:10+10:00
 next:
   text: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
-  url: /blog2/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
+  url: /blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/
 previous:
   text: A triumph of the explicit over the tacit and the subsequent loss of learning
-  url: /blog2/2012/11/08/a-triumph-of-the-explicit-over-the-tacit-and-the-subsequent-loss-of-learning/
+  url: /blog/2012/11/08/a-triumph-of-the-explicit-over-the-tacit-and-the-subsequent-loss-of-learning/
 tags:
 - ascilite2012
 title: '"The life and death of Webfuse: What''s wrong with industrial e-learning and
@@ -62,7 +62,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a collection of presentation resources (i.e. the slides) for an ASCILITE'2012 of [this paper](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/). The paper and presentation are a summary of the outcomes my PhD work. The [thesis](/blog2/research/phd-thesis/) goes into much more detail.
+The following is a collection of presentation resources (i.e. the slides) for an ASCILITE'2012 of [this paper](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/). The paper and presentation are a summary of the outcomes my PhD work. The [thesis](/blog/research/phd-thesis/) goes into much more detail.
 
 ### Abstract
 

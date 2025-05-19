@@ -7,10 +7,10 @@ categories:
 date: 2008-05-18 00:01:03+10:00
 next:
   text: We're looking for good people for a PLE project
-  url: /blog2/2008/06/01/were-looking-for-good-people-for-a-ple-project/
+  url: /blog/2008/06/01/were-looking-for-good-people-for-a-ple-project/
 previous:
   text: Initial thoughts from CogEdge accreditation course
-  url: /blog2/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/
+  url: /blog/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/
 title: Understanding approaches to improving a course
 type: post
 template: blog-post.html

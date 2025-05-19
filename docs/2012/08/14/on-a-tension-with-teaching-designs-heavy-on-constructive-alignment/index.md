@@ -4,10 +4,10 @@ categories:
 date: 2012-08-14 12:51:06+10:00
 next:
   text: The dilemma of open courses in an Australian university
-  url: /blog2/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/
+  url: /blog/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/
 previous:
   text: Lessons for the meta-level of networked learning?
-  url: /blog2/2012/08/13/lessons-for-the-meta-level-of-networked-learning/
+  url: /blog/2012/08/13/lessons-for-the-meta-level-of-networked-learning/
 title: On a tension with teaching designs heavy on constructive alignment
 type: post
 template: blog-post.html
@@ -102,7 +102,7 @@ pingbacks:
     []
     
 ---
-[Constructive alignment](http://en.wikipedia.org/wiki/Constructive_alignment) is an approach to designing courses where there is - not surprisingly - alignment between what the students do, what is assessed and what it is intended that they will learn. It's gotten a lot of play in the higher education sector over recent years. It has some value, but I've always had some [qualms about constructive alignment](/blog2/2010/05/14/qualms-about-the-alignment-project/), but I'd like to add another observation about an apparent tension within constructively aligned courses.
+[Constructive alignment](http://en.wikipedia.org/wiki/Constructive_alignment) is an approach to designing courses where there is - not surprisingly - alignment between what the students do, what is assessed and what it is intended that they will learn. It's gotten a lot of play in the higher education sector over recent years. It has some value, but I've always had some [qualms about constructive alignment](/blog/2010/05/14/qualms-about-the-alignment-project/), but I'd like to add another observation about an apparent tension within constructively aligned courses.
 
 Beyond my prior experience, I'm currently teaching a course designed by another academic that has been explicitly informed by constructive alignment. It's a masters course and the design overall seems quite fitting and it it is certainly aligned. I quite like the design and think it has the potential - all other things being equal - engage the students in some quality learning. However, this alignment is also the apparent source of some tension.
 

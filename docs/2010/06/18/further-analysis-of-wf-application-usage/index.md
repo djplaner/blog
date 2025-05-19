@@ -10,10 +10,10 @@ categories:
 date: 2010-06-18 15:48:30+10:00
 next:
   text: Flexible and support diversity
-  url: /blog2/2010/06/21/flexible-and-support-diversity/
+  url: /blog/2010/06/21/flexible-and-support-diversity/
 previous:
   text: Some rough Webfuse usage statistics - 2001 through 2009
-  url: /blog2/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/
+  url: /blog/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/
 title: Further analysis of wf application usage
 type: post
 template: blog-post.html
@@ -73,7 +73,7 @@ pingbacks:
     []
     
 ---
-In [the last post](/blog2/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/) I outlined some early rough usage figures for Webfuse from 2000-2009. The following goes into a bit more detail with the usage of the wf applications.
+In [the last post](/blog/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/) I outlined some early rough usage figures for Webfuse from 2000-2009. The following goes into a bit more detail with the usage of the wf applications.
 
 ### Breakdown by application
 
@@ -106,13 +106,13 @@ In 2009, 11,482 students logged into the student "portal".
 
 ### Come back of the power law
 
-I [recently talked about](/blog2/2010/06/14/academics-course-websites-and-power-laws/) the similarity between the 1999 and 2005 graphs representing how often academics had modified Webfuse course sites. Even though the 2005 graph showed more staff editing course websites more, both years had the same basic pattern. A [power law](http://en.wikipedia.org/wiki/Power_law).
+I [recently talked about](/blog/2010/06/14/academics-course-websites-and-power-laws/) the similarity between the 1999 and 2005 graphs representing how often academics had modified Webfuse course sites. Even though the 2005 graph showed more staff editing course websites more, both years had the same basic pattern. A [power law](http://en.wikipedia.org/wiki/Power_law).
 
 The following graph represents the number of times each student used the "student portal" in 2009. See the similarity?
 
 [![StudentMyCQU Users for 2009](images/4711128158_c657e699d4_m.jpg)](http://www.flickr.com/photos/david_jones/4711128158/ "StudentMyCQU Users for 2009 by David T Jones, on Flickr")
 
-Yet another power law. There's a trend developing here. I'm wondering if this can be thought of as evidence for [the chasm](/blog2/2009/08/09/the-chasm/).
+Yet another power law. There's a trend developing here. I'm wondering if this can be thought of as evidence for [the chasm](/blog/2009/08/09/the-chasm/).
 
 ### Breakdown of staff "portal" usage
 

@@ -5,10 +5,10 @@ categories:
 date: 2015-01-14 15:38:30+10:00
 next:
   text: Learning about case study methodology to research higher education
-  url: /blog2/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/
+  url: /blog/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/
 previous:
   text: This year it&#039;s all about the connections
-  url: /blog2/2015/01/13/this-year-its-all-about-the-connections/
+  url: /blog/2015/01/13/this-year-its-all-about-the-connections/
 title: '"Choosing a research publication outlet: Part II"'
 type: post
 template: blog-post.html
@@ -195,13 +195,13 @@ My name is David. I'm an academic. It's been 8 years since my last journal paper
 
 In my defence, for three of those years I was finishing the PhD, 1 year finishing a GDL&T, three years getting used to a new discipline, and generally just cynical about the whole journal process, and not having much I considered useful to say. But that has to change, otherwise I'll have some explaining to do. This year is about writing some journal papers. So where should I publish?
 
-I asked and answered [a similar question](/blog2/2009/10/19/choosing-a-publication-outlet/) in 2009, hopefully this time I might actually go the next step and write something.
+I asked and answered [a similar question](/blog/2009/10/19/choosing-a-publication-outlet/) in 2009, hopefully this time I might actually go the next step and write something.
 
 (Note: I start the writing process by getting to know the destination. The theory being that a paper is more likely to get accepted if it fits the requirements, aims, tone etc of the destination. I already have a few ideas re: papers, finding a suitable destination is the first task.)
 
 ## What's changed since 2009?
 
-I've officially moved from the Information Systems discipline to Education. But given I was originally focused on educational technology, the journals identified in [that original post](/blog2/2009/10/19/choosing-a-publication-outlet/) are still suitable.
+I've officially moved from the Information Systems discipline to Education. But given I was originally focused on educational technology, the journals identified in [that original post](/blog/2009/10/19/choosing-a-publication-outlet/) are still suitable.
 
 I'm at a new university that has recently introduced [awards for journal articles](http://www.usq.edu.au/research/research-students/current-research-students/publicationexcellenceawards) "designed to encourage .. researchers to make strategic decisions about the journals in which they seek to publish, in order to help them get the best return on their research efforts and as a crucial step in improving the research performance of ... as an institution". Obviously linked to the on-going ERA. This is judged largely on the [Scopus SNIP (Source-Normalized Impact per Paper) index](http://www.journalmetrics.com/snip.php).
 

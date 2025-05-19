@@ -4,10 +4,10 @@ categories:
 date: 2009-05-19 13:14:31+10:00
 next:
   text: Innovation role as Trickster
-  url: /blog2/2009/05/19/innovation-role-as-trickster/
+  url: /blog/2009/05/19/innovation-role-as-trickster/
 previous:
   text: Quality assurance of learning and teaching
-  url: /blog2/2009/05/18/quality-assurance-of-learning-and-teaching/
+  url: /blog/2009/05/18/quality-assurance-of-learning-and-teaching/
 title: Diagnosing and recording a problem with BAM
 type: post
 template: blog-post.html
@@ -110,7 +110,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Trying out a new approach to documentation of coding changes to [BAM](/blog2/research/bam-blog-aggregation-management/) - i.e. writing it up in a post.
+Trying out a new approach to documentation of coding changes to [BAM](/blog/research/bam-blog-aggregation-management/) - i.e. writing it up in a post.
 
 ### The problem
 

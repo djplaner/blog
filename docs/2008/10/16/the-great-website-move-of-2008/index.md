@@ -4,10 +4,10 @@ categories:
 date: 2008-10-16 21:37:53+10:00
 next:
   text: '"Design Based Research vs. Mixed Methods: The Differences and Commonalities"'
-  url: /blog2/2008/10/22/design-based-research-vs-mixed-methods-the-differences-and-commonalities/
+  url: /blog/2008/10/22/design-based-research-vs-mixed-methods-the-differences-and-commonalities/
 previous:
   text: 'The Anatomy of a Design Science Paper: A Research Note'
-  url: /blog2/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/
+  url: /blog/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/
 title: The great website move of 2008
 type: post
 template: blog-post.html

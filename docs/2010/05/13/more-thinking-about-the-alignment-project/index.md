@@ -4,10 +4,10 @@ categories:
 date: 2010-05-13 09:19:39+10:00
 next:
   text: Getting started with Col's indicators block
-  url: /blog2/2010/05/13/getting-started-with-cols-indicators-block/
+  url: /blog/2010/05/13/getting-started-with-cols-indicators-block/
 previous:
   text: Requirements for an &quot;indicators&quot; Moodle block
-  url: /blog2/2010/05/09/requirements-for-an-indicators-moodle-block/
+  url: /blog/2010/05/09/requirements-for-an-indicators-moodle-block/
 title: More thinking about the alignment project
 type: post
 template: blog-post.html

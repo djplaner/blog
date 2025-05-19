@@ -6,10 +6,10 @@ date: 2012-11-08 16:04:57+10:00
 next:
   text: '"The life and death of Webfuse: What''s wrong with industrial e-learning
     and how to fix it"'
-  url: /blog2/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/
+  url: /blog/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/
 previous:
   text: 'Moving beyond a fashion: likely paths and pitfalls for learning analytics'
-  url: /blog2/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/
+  url: /blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/
 title: A triumph of the explicit over the tacit and the subsequent loss of learning
 type: post
 template: blog-post.html

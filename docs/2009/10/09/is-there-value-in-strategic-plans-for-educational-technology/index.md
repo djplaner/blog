@@ -10,10 +10,10 @@ categories:
 date: 2009-10-09 09:07:46+10:00
 next:
   text: '"The learning pyramid: true, false, hoax or myth?"'
-  url: /blog2/2009/10/11/the-learning-pyramid-true-false-hoax-or-myth/
+  url: /blog/2009/10/11/the-learning-pyramid-true-false-hoax-or-myth/
 previous:
   text: 'Call for participation: Getting the real stories of LMS evaluations?'
-  url: /blog2/2009/10/07/call-for-participation-getting-the-real-stories-of-lms-evaluations/
+  url: /blog/2009/10/07/call-for-participation-getting-the-real-stories-of-lms-evaluations/
 title: Is there value in strategic plans for educational technology
 type: post
 template: blog-post.html
@@ -22,7 +22,7 @@ template: blog-post.html
 
 > eportfolios are a vast hidden overhead. They really only make sense if they are portable and accessible to the user. Transferring vast quantities of student held data out of the university every spring seems complicated. Better, maybe, to instruct students to use external services.
 
-Mainly because it aligns with [some of my views](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/).
+Mainly because it aligns with [some of my views](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/).
 
 But that's not the point of this post. This morning Dave tweeted for folk to respond to a [comment](http://davecormier.com/edblog/2009/10/07/daves-wildly-unscientific-survey-of-technology-use-in-higher-education/#comment-195387) on the post by [Diego Leal](http://www.diegoleal.org/) on strategic plans for educational technology in universities.
 
@@ -39,7 +39,7 @@ My main reason for this is a belief that strategic plans generally embody an ass
 This mismatch leads to the following (amongst others) common problems:
 
 - [Model 1 behaviour](http://www.infed.org/thinkers/argyris.htm#_Model_I_and) (Argyris et al, 1985);
-- [Fads, fashions and band wagons](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) (Birnbaum, 2000; Swanson and Ramiller, 2004)
+- [Fads, fashions and band wagons](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) (Birnbaum, 2000; Swanson and Ramiller, 2004)
 - Purpose proxies (Introna, 1996);  
     i.e. rather than measure good learning and teaching, an institution measures how many people are using the LMS or have a graduate certificate in learning and teaching.
 - Suboptimal stable equilibria (March, 1991)
@@ -53,11 +53,11 @@ Introna (1996) identified three necessary conditions for the type of process emb
 - The planners are able to manipulate system behaviour.
 - The planners are able to accurately determine goals or criteria for success.
 
-In a [recent talk](/blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) I argued that none of those conditions exist within the practice of learning and teaching in higher education. It's a point I also argue in a [section of my thesis](/blog2/2009/06/17/institutional-e-learning-strategies/)
+In a [recent talk](/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) I argued that none of those conditions exist within the practice of learning and teaching in higher education. It's a point I also argue in a [section of my thesis](/blog/2009/06/17/institutional-e-learning-strategies/)
 
 ### The alternative?
 
-The [talk](/blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) includes some discussion of some principles of a different approach to the same problem. That alternative is based on the idea of ateleological design suggested by Introna (1996). An idea that is very similar to broader debates in various other areas of research. [This section](/blog2/2009/05/25/teleological-and-ateleological-processes/) of my thesis describes the two ends of the process spectrum.
+The [talk](/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) includes some discussion of some principles of a different approach to the same problem. That alternative is based on the idea of ateleological design suggested by Introna (1996). An idea that is very similar to broader debates in various other areas of research. [This section](/blog/2009/05/25/teleological-and-ateleological-processes/) of my thesis describes the two ends of the process spectrum.
 
 It is my position that educational technology in higher education - due to its diversity and rapid pace of change - has to be much further towards the ateleological, emergent, naturalistic or exploitation end of the spectrum.
 

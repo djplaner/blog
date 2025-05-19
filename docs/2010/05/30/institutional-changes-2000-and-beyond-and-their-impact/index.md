@@ -9,10 +9,10 @@ categories:
 date: 2010-05-30 13:40:18+10:00
 next:
   text: Adding email merge to BIM
-  url: /blog2/2010/05/30/2933/
+  url: /blog/2010/05/30/2933/
 previous:
   text: Focusing on integration - chapter 5
-  url: /blog2/2010/05/30/focusing-on-integration-chapter-5/
+  url: /blog/2010/05/30/focusing-on-integration-chapter-5/
 title: Institutional changes - 2000 and beyond - and their impact
 type: post
 template: blog-post.html
@@ -161,7 +161,7 @@ pingbacks:
     []
     
 ---
-This carries on "bits" from [chapter 5](/blog2/2010/05/30/focusing-on-integration-chapter-5/) of the thesis. It's a rough draft of a description of the institutional context within [CQU](http://www.cqu.edu.au/) from 2000 onwards. It's brief and targeted mainly at the factors which impact on Webfuse development.
+This carries on "bits" from [chapter 5](/blog/2010/05/30/focusing-on-integration-chapter-5/) of the thesis. It's a rough draft of a description of the institutional context within [CQU](http://www.cqu.edu.au/) from 2000 onwards. It's brief and targeted mainly at the factors which impact on Webfuse development.
 
 It needs more work and checking. If you have any suggestions, fire away.
 

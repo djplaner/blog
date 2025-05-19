@@ -2,15 +2,15 @@
 date: 2009-12-01 15:57:50+10:00
 next:
   text: Barriers to harnessing academic analytics
-  url: /blog2/2009/12/02/barriers-to-harnessing-academic-analytics/
+  url: /blog/2009/12/02/barriers-to-harnessing-academic-analytics/
 previous:
   text: What am I doing?
-  url: /blog2/2009/12/01/what-am-i-doing/
+  url: /blog/2009/12/01/what-am-i-doing/
 title: What research groups are looking at the future of education
 type: post
 template: blog-post.html
 ---
-As outlined very briefly [in a recent post](/blog2/2009/12/01/what-am-i-doing/) I am involved in the early days of project that may result in some sort of proposal for a research group/centre around the future of education. This is meant to be some documentation of my early research to look for groups that are already doing work in this area.
+As outlined very briefly [in a recent post](/blog/2009/12/01/what-am-i-doing/) I am involved in the early days of project that may result in some sort of proposal for a research group/centre around the future of education. This is meant to be some documentation of my early research to look for groups that are already doing work in this area.
 
 This is still very early days. There's a strong chance that the "direction" will be refined and/or changed. For example, it might become concerned with the future of education within regional areas. It might not. Finding out what others are doing in the area, will help inform any changes.
 

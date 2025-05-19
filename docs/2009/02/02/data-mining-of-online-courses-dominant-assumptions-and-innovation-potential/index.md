@@ -5,10 +5,10 @@ categories:
 date: 2009-02-02 15:22:10+10:00
 next:
   text: More detail on the money burner
-  url: /blog2/2009/02/03/more-detail-on-the-money-burner/
+  url: /blog/2009/02/03/more-detail-on-the-money-burner/
 previous:
   text: What is a PLE? More than a suite of tools? More than social media?
-  url: /blog2/2009/02/02/what-is-a-ple-more-than-a-suite-of-tools-more-than-social-media/
+  url: /blog/2009/02/02/what-is-a-ple-more-than-a-suite-of-tools-more-than-social-media/
 title: Data mining of online courses - dominant assumptions and innovation potential
 type: post
 template: blog-post.html
@@ -62,7 +62,7 @@ The assumptions that I'm thinking about (are there more?) include:
     This is especially important as the type of information gathered by mining LMS logs is limited by the nature and design of the LMS. For example, the Webfuse system (Jones and Gregor, 2006) has a design that by default allows open access to all resources. That is no requirement for users to login. Each system has its own design limits.
     
 - Kaplan's law of instrument continued.  
-    Most of this work is done with similar tools. System logs and databases passed through statistics analysis and/or data mining technology to generate information. While useful, the tendency to focus just on these technologies has the potential to lead to flaws due to [Kaplan's law of instrument](/blog2/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/). Everything looks like a nail, if all you have is a hammer. Are there alternative tools or approaches that can be used, which may be base on different approaches and hence reveal different insight.
+    Most of this work is done with similar tools. System logs and databases passed through statistics analysis and/or data mining technology to generate information. While useful, the tendency to focus just on these technologies has the potential to lead to flaws due to [Kaplan's law of instrument](/blog/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/). Everything looks like a nail, if all you have is a hammer. Are there alternative tools or approaches that can be used, which may be base on different approaches and hence reveal different insight.
 
 - Emphasis on quantitative analysis alone.  
     Simple log usage figures only tell a very small part of story of the student experience. Much of it is hidden within the words and emotions used and experienced by participants. It's increasingly widely recognised that a multi-method approach for research is effective through each method covering limitations of other methods. Marrying quantitative analysis with textual analysis (e.g. [Leximancer](http://www.leximancer.com/)), or qualitative or specific feedback from students (e.g. [course barometers](https://djon.es/Publications/barometer_2.pdf); Jones, 2002) might be interesting.

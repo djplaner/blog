@@ -4,10 +4,10 @@ categories:
 date: 2006-10-19 13:30:49+10:00
 next:
   text: The Missing Ps are a waste of time
-  url: /blog2/2006/10/19/the-missing-ps-are-a-waste-of-time/
+  url: /blog/2006/10/19/the-missing-ps-are-a-waste-of-time/
 previous:
   text: Question allocation difficulties - BAM
-  url: /blog2/2006/10/16/question-allocation-difficulties-bam/
+  url: /blog/2006/10/16/question-allocation-difficulties-bam/
 title: Another review of LMS Reviews
 type: post
 template: blog-post.html

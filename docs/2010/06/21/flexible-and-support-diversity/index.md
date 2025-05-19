@@ -9,15 +9,15 @@ categories:
 date: 2010-06-21 13:28:45+10:00
 next:
   text: Webfuse as a web publishing tool - 2000 through 2004
-  url: /blog2/2010/06/22/webfuse-as-a-web-publishing-tool-2000-through-2004/
+  url: /blog/2010/06/22/webfuse-as-a-web-publishing-tool-2000-through-2004/
 previous:
   text: Further analysis of wf application usage
-  url: /blog2/2010/06/18/further-analysis-of-wf-application-usage/
+  url: /blog/2010/06/18/further-analysis-of-wf-application-usage/
 title: Flexible and support diversity
 type: post
 template: blog-post.html
 ---
-This is one part of the Evaluation section of Chapter 5 of [my PhD thesis](/blog2/research/phd-thesis/). It's actually the fourth section, but it's the first to have reached a rough first draft stage. The basic aim is to show how the Webfuse interventions from 2000 through 2004 (and beyond) increased the flexibility and diversity of the system.
+This is one part of the Evaluation section of Chapter 5 of [my PhD thesis](/blog/research/phd-thesis/). It's actually the fourth section, but it's the first to have reached a rough first draft stage. The basic aim is to show how the Webfuse interventions from 2000 through 2004 (and beyond) increased the flexibility and diversity of the system.
 
 By itself this may not make much sense without some knowledge of prior sections/chapters of the thesis and/or CQU experience.
 

@@ -4,11 +4,11 @@ categories:
 date: 2009-04-30 09:22:23+10:00
 next:
   text: '"PhD Update #9 - spluttering out of steam"'
-  url: /blog2/2009/05/01/phd-update-9-spluttering-out-of-steam/
+  url: /blog/2009/05/01/phd-update-9-spluttering-out-of-steam/
 previous:
   text: Integration with professional lives of academics - why industrial e-learning
     fails and why post-industrial might work
-  url: /blog2/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/
+  url: /blog/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/
 title: First official BAM paper done
 type: post
 template: blog-post.html
@@ -96,16 +96,16 @@ pingbacks:
       user_id: '0'
     
 ---
-[BAM - Blog Aggregation Management](/blog2/research/bam-blog-aggregation-management/) is a project I started in early 2006 to play around with two sets of ideas:
+[BAM - Blog Aggregation Management](/blog/research/bam-blog-aggregation-management/) is a project I started in early 2006 to play around with two sets of ideas:
 
 1. learning; and  
     Building on some ideas of using blogs for individual student reflective journals in an attempt to increase the visibility of their progress and enable increased levels of student/teacher interaction.
 2. technical.  
-    Extending one of the [initial ideas of Webfuse](/blog2/publications/the-design-of-an-integrated-online-learning-environment/) ("maximise adaptability by concentrating on providing the infrastructure required to integrate existing and yet to be developed online learning tools") into the wonderful world of Web 2.0.
+    Extending one of the [initial ideas of Webfuse](/blog/publications/the-design-of-an-integrated-online-learning-environment/) ("maximise adaptability by concentrating on providing the infrastructure required to integrate existing and yet to be developed online learning tools") into the wonderful world of Web 2.0.
 
-The initial experiment in the second half of 2006 has been the topic of [a report for a website](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) and some blog posts. However, late last year [Jo](http://fabie.cqu.edu.au/FCWViewer/staff.do?site=536&sid=LUCKJ) and I submitted a paper to [EdMedia'2009](http://www.aace.org/conf/edmedia/). It was accepted, but I or the reviewers were not entirely happy with the paper, so some changes have been made.
+The initial experiment in the second half of 2006 has been the topic of [a report for a website](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) and some blog posts. However, late last year [Jo](http://fabie.cqu.edu.au/FCWViewer/staff.do?site=536&sid=LUCKJ) and I submitted a paper to [EdMedia'2009](http://www.aace.org/conf/edmedia/). It was accepted, but I or the reviewers were not entirely happy with the paper, so some changes have been made.
 
-Consequently, the [next to final version](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) of the paper is now available. It's better than the version that was accepted, but still not great. At least it tells the story with a bit of reflection.
+Consequently, the [next to final version](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) of the paper is now available. It's better than the version that was accepted, but still not great. At least it tells the story with a bit of reflection.
 
 Not a great paper but it's one of two Jo will present in Hawaii.
 

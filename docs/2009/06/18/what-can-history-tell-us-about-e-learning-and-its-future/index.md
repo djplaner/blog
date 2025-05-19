@@ -8,10 +8,10 @@ categories:
 date: 2009-06-18 10:48:53+10:00
 next:
   text: The planning fallacy, innovation and ateleological design
-  url: /blog2/2009/06/18/the-planning-fallacy-innovation-and-ateleological-design/
+  url: /blog/2009/06/18/the-planning-fallacy-innovation-and-ateleological-design/
 previous:
   text: Institutional e-learning strategies
-  url: /blog2/2009/06/17/institutional-e-learning-strategies/
+  url: /blog/2009/06/17/institutional-e-learning-strategies/
 title: What can history tell us about e-learning and its future?
 type: post
 template: blog-post.html
@@ -60,7 +60,7 @@ The idea of this paper has arisen out of a combination of local factors, includi
 - The [adoption of Moodle](http://cddu.cqu.edu.au/index.php/Moodle_Transition) as the new LMS for our institution.
 - The [indicators project](http://beerc.wordpress.com/tag/indicators/) Col is working on with [Ken](http://researchjottings.wordpress.com/).  
     Both Col and I used to support staff use of Blackboard. This project aims to do some data mining on the Blackboard system logs to better understand how and if people were using Blackboard.
-- Some of the ideas that arose from writing the [past experience](/blog2/2009/04/25/lessons-for-e-learning/) section of my thesis.
+- Some of the ideas that arose from writing the [past experience](/blog/2009/04/25/lessons-for-e-learning/) section of my thesis.
 
 ### Abstract and premise
 
@@ -72,11 +72,11 @@ The idea is that there is a long history of attempting to improve learning and t
 
 The aim of the paper will be, at least, to examine that history, both broadly and specifically at our institution, and seek to identify those lessons. Perhaps the paper might evaluate the transition to Moodle at our institution and, based on that past experience, seek to suggest what some possible outcomes might be.
 
-As you might guess from some of the following and some of what I've written in the [past experience](/blog2/2009/04/25/lessons-for-e-learning/) section of my thesis, I have a feeling that as we explore this question we are likely to find that our institution has failed Santayana's advice on retentiveness and that the institution may be repeating the past.
+As you might guess from some of the following and some of what I've written in the [past experience](/blog/2009/04/25/lessons-for-e-learning/) section of my thesis, I have a feeling that as we explore this question we are likely to find that our institution has failed Santayana's advice on retentiveness and that the institution may be repeating the past.
 
 Given that some of the folk directly involved in our institution's transition to Moodle read this blog and we'll be talking about this paper within the institution, perhaps we can play a role in avoiding that. Or perhaps, as we dig deeper, the transition is progressing better than I currently perceive.
 
-In reality, I think we'll avoid making specific comments on what is happening in our institution. The transition to Moodle is being run as a very traditional [teleological process](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/). This means that any activity not seen as directly contributing to the achievement of the purpose (i.e. that is not critical) will be seen as something that needs to be curtailed.
+In reality, I think we'll avoid making specific comments on what is happening in our institution. The transition to Moodle is being run as a very traditional [teleological process](/blog/2009/06/05/teleological-design-definition-and-weaknesses/). This means that any activity not seen as directly contributing to the achievement of the purpose (i.e. that is not critical) will be seen as something that needs to be curtailed.
 
 ### Connection with conference themes?
 
@@ -105,11 +105,11 @@ I should note that the following is a first draft, an attempt to get my ideas do
 
 The aim of this section is to examine the broader history of technology-mediated learning going back to the early 1900s and drawing a small amount of content from ????.
 
-The main aim, however, is attempt to identify a hype cycle associated with these technologies that generally results in little or no change in the practice of learning and teaching. It will draw on some of the ideas and content [from here](/blog2/2009/04/25/lessons-for-e-learning/#hypeCycle). It will also draw on [related hype cycle literature](/blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/) including Birnbaum's fad cycle and Gartner's hype cycle.
+The main aim, however, is attempt to identify a hype cycle associated with these technologies that generally results in little or no change in the practice of learning and teaching. It will draw on some of the ideas and content [from here](/blog/2009/04/25/lessons-for-e-learning/#hypeCycle). It will also draw on [related hype cycle literature](/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/) including Birnbaum's fad cycle and Gartner's hype cycle.
 
 ### E-learning usage: quantity and quality
 
-This section will provide a summary of what we know from the literature and also from the local institution about the [quantity](/blog2/2009/04/23/usage-of-e-learning-quantity/) and [quality](/blog2/2009/04/22/e-learning-usage-quality/) of past usage of e-learning. With a particular focus on the LMS.
+This section will provide a summary of what we know from the literature and also from the local institution about the [quantity](/blog/2009/04/23/usage-of-e-learning-quantity/) and [quality](/blog/2009/04/22/e-learning-usage-quality/) of past usage of e-learning. With a particular focus on the LMS.
 
 Col's indicators project has generated some interesting and depressing results from the local system. For example, out institution has a large distance education student cohort. A group of students that rarely, if ever, set foot on a campus. They study almost entirely by print-based distance education and e-learning. Recently, Col has found that 68% of those distance education students have never posted to a course discussion forum.
 
@@ -117,7 +117,7 @@ Col's indicators project has generated some interesting and depressing results f
 
 The aim of this section would be to suggest that the focus on the LMS is itself rather short-sighted and does not recognise the on-going evolution of e-learning. i.e. that we're not going to be stuck in the LMS rut for long term and perhaps the institution should be looking at that change and how it can harness it.
 
-This section will draw on the [paradigms of e-learning](/blog2/2009/04/20/the-paradigms-of-e-learning/). It may also draw on some of the ideas contained in [this TED talk](http://www.ted.com/talks/chris_anderson_of_wired_on_tech_s_long_tail.html) by Chris Anderson around the four key stages of technology and related work.
+This section will draw on the [paradigms of e-learning](/blog/2009/04/20/the-paradigms-of-e-learning/). It may also draw on some of the ideas contained in [this TED talk](http://www.ted.com/talks/chris_anderson_of_wired_on_tech_s_long_tail.html) by Chris Anderson around the four key stages of technology and related work.
 
 Thinking about this brings up some memories of the 90s. I remember when friends of mine in the local area would enroll at the university in order to get Internet access and an email address. I remember when the university had to discourage students from using outside email accounts (e.g. hotmail) because they didn't provide enough disk space.
 
@@ -131,12 +131,12 @@ The idea behind this suggested section is starting to move a little beyond the h
 
 The idea would be to include a list of ideas associated with e-learning:
 
-- [Moore's instructional technology chasm](/blog2/2007/09/03/why-modeller-broker-orientation-is-inherently-limited-bridging-the-gap/)
-- [Innovation, accountability and task corruption](/blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/)
-- [technology won't change teaching](/blog2/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/)
-- [Technology I, II and III](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/) and the importance of local context
-- [Performance degradation through enterprise systems](/blog2/2009/04/20/performance-degradation-impact-of-new-lms-implementation/)
-- Problems with [strategic approaches to e-learning](/blog2/2009/06/17/institutional-e-learning-strategies/).
+- [Moore's instructional technology chasm](/blog/2007/09/03/why-modeller-broker-orientation-is-inherently-limited-bridging-the-gap/)
+- [Innovation, accountability and task corruption](/blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/)
+- [technology won't change teaching](/blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/)
+- [Technology I, II and III](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/) and the importance of local context
+- [Performance degradation through enterprise systems](/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/)
+- Problems with [strategic approaches to e-learning](/blog/2009/06/17/institutional-e-learning-strategies/).
 
 ### Predictions and suggestions
 
@@ -152,7 +152,7 @@ An initial list:
 
 I'm often criticised as being negative. Which is true, I believe all of my ideas have flaws, imagine what I think of the ideas of others! So, perhaps the paper should include some suggestions.
 
-- Focus more on contextual factors that are holding back interest in learning and teaching by academics. (See [technology gravity](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/))
+- Focus more on contextual factors that are holding back interest in learning and teaching by academics. (See [technology gravity](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/))
 - Recognise the instructional technology chasm and take steps to design use of Moodle to engage with the pragmatists.
 - Others??
 

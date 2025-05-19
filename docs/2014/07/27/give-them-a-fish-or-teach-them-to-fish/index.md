@@ -5,10 +5,10 @@ categories:
 date: 2014-07-27 17:36:52+10:00
 next:
   text: Creating the EDC3100 OPML files
-  url: /blog2/2014/07/28/creating-the-edc3100-opml-files/
+  url: /blog/2014/07/28/creating-the-edc3100-opml-files/
 previous:
   text: Me as a teacher
-  url: /blog2/2014/07/27/me-as-a-teacher/
+  url: /blog/2014/07/27/me-as-a-teacher/
 title: Give them a fish, or teach them to fish?
 type: post
 template: blog-post.html

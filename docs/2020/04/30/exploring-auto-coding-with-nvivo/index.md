@@ -6,10 +6,10 @@ categories:
 date: 2020-04-30 16:39:30+10:00
 next:
   text: Playing with React.js as a technology for CASA
-  url: /blog2/2020/05/20/playing-with-react-js-as-a-technology-for-casa/
+  url: /blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/
 previous:
   text: Early steps with Gephi
-  url: /blog2/2020/04/19/early-steps-with-gephi/
+  url: /blog/2020/04/19/early-steps-with-gephi/
 title: Exploring auto-coding with NVivo
 type: post
 template: blog-post.html
@@ -24,7 +24,7 @@ The answer is yes. Following documents the process.
 
 # What’s the NVivo model?
 
-I’m a great believer in [the idea](/blog2/2016/03/02/pebkac-mental-model-mismatch-and-ict/) that most difficulties with using software arises from a model mismatch between the person and the software. Hence my starting point with a new bit of software is to try and build a representation of the model underpinning the software.
+I’m a great believer in [the idea](/blog/2016/03/02/pebkac-mental-model-mismatch-and-ict/) that most difficulties with using software arises from a model mismatch between the person and the software. Hence my starting point with a new bit of software is to try and build a representation of the model underpinning the software.
 
 The fact that NVivo’s makers have [a _Understand the key concepts_ page](https://help-nv.qsrinternational.com/12/win/v12.1.90-d3ea61/Content/concepts-strategies/understand-the-key-concepts.htm) has me feeling good about Nvivo. As does the observation that [the _Using NVivo_ page](https://help-nv.qsrinternational.com/12/win/v12.1.90-d3ea61/Content/concepts-strategies/using-nvivo-for-qualitative-research.htm) starts with a focus on different types of qualitative research – the domain from which most potential NVivo users will have some familiarity. Start with where the user is. Good.
 

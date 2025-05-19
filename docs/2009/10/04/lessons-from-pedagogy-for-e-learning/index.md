@@ -9,10 +9,10 @@ categories:
 date: 2009-10-04 22:38:26+10:00
 next:
   text: '"Lectures and the LMS: Alternatives and experiments"'
-  url: /blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
+  url: /blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
 previous:
   text: Learning theories and e-learning
-  url: /blog2/2009/10/04/learning-theories-and-e-learning/
+  url: /blog/2009/10/04/learning-theories-and-e-learning/
 title: Lessons from Pedagogy for e-learning
 type: post
 template: blog-post.html
@@ -48,7 +48,7 @@ pingbacks:
 ---
 Two thesis related posts in a day, I must be on a roll. This post actually marks a milestone, the following rough bit of material is the last bit of original writing I'll need to do for chapter 2. What remains will be tidying up, fixing typos/spelling/grammar, "concludings" and some major cutting. Sadly chapter 2 currently stands at 200+ pages and will need some major cutting I think to be a reasonable size. That's a job for another day.
 
-The following is meant to abstract some lessons for e-learning based on the literature around pedagogy reviewed in early sections (e.g. the [one from earlier today](/blog2/2009/10/04/learning-theories-and-e-learning/). It continues my focus on diversity and change being key characteristics of e-learning, an observation that highlights a mismatch with the standard product and process being used for e-learning.
+The following is meant to abstract some lessons for e-learning based on the literature around pedagogy reviewed in early sections (e.g. the [one from earlier today](/blog/2009/10/04/learning-theories-and-e-learning/). It continues my focus on diversity and change being key characteristics of e-learning, an observation that highlights a mismatch with the standard product and process being used for e-learning.
 
 As I near the end there are an increasing number of cross references from this material to earlier material. Sorry, haven't gotten around to linking them on the blog. This is likely to be only somewhat less annoying than the poor grammar and dyslexic typing.
 

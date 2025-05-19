@@ -6,10 +6,10 @@ categories:
 date: 2013-01-11 15:20:13+10:00
 next:
   text: '"Engaging with #etmooc - how and what perspective"'
-  url: /blog2/2013/01/15/engaging-with-etmooc-how-and-what-perspective/
+  url: /blog/2013/01/15/engaging-with-etmooc-how-and-what-perspective/
 previous:
   text: 'Translating Learning into Numbers: A Generic Framework for Learning Analytics'
-  url: /blog2/2013/01/09/translating-learning-into-numbers-a-generic-framework-for-learning-analytics/
+  url: /blog/2013/01/09/translating-learning-into-numbers-a-generic-framework-for-learning-analytics/
 title: Making some "3100" thinking explicit
 type: post
 template: blog-post.html
@@ -173,7 +173,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In around two months a couple of hundred pre-service teachers will be wanting/required to start engaging with the course EDC3100, ICTs and Pedagogy. For the last 3 or 4 months I've been [reading a bit](/blog2/2012/12/14/4668/) and generally mulling over what I'll do and how far to go. Back in July I started off [with this initial post](/blog2/2012/07/20/starting-the-re-design-of-edc3100/). It's now (past) time to make some of this explicit, make some design decisions and implement it. This is the start. Littered through the following will be questions and reminders to myself for further consideration.
+In around two months a couple of hundred pre-service teachers will be wanting/required to start engaging with the course EDC3100, ICTs and Pedagogy. For the last 3 or 4 months I've been [reading a bit](/blog/2012/12/14/4668/) and generally mulling over what I'll do and how far to go. Back in July I started off [with this initial post](/blog/2012/07/20/starting-the-re-design-of-edc3100/). It's now (past) time to make some of this explicit, make some design decisions and implement it. This is the start. Littered through the following will be questions and reminders to myself for further consideration.
 
 If you have thoughts and criticisms, now would be a good time to contribute. Any and all feedback is very much appreciated. Littered through the following are **Questions** I've left myself. Feel free to make suggestions.
 
@@ -300,7 +300,7 @@ As it happens there is currently a great deal of activity in this area. Other fo
 
 ### #etmooc
 
-Alec Couros - one of the [inspirations](/blog2/2012/12/14/4668/) for much of what's happening with EDC3100 - is involved with [#etmooc](http://etmooc.org/) - Educational Technology & Media. Given this connection and the topic of #etmooc being very closely related to the topic of EDC3100 I'm aiming to engage with it in a number of ways.
+Alec Couros - one of the [inspirations](/blog/2012/12/14/4668/) for much of what's happening with EDC3100 - is involved with [#etmooc](http://etmooc.org/) - Educational Technology & Media. Given this connection and the topic of #etmooc being very closely related to the topic of EDC3100 I'm aiming to engage with it in a number of ways.
 
 Alec, as is his wont, appears to have been very open in gathering input for the design of #etmooc. The evidence of this can be seen in posts from [Lisa Lane](http://lisahistory.net/wordpress/2012/12/organizing-etmooc/), [Alan Levine](http://cogdogblog.com/2012/12/10/openness-beyond-the-course-container/) and others. Lisa's post summarises some of the resources (including a [Google community](https://plus.google.com/u/0/communities/116789514116083331517) from which I've drawn a couple of ideas in one quick skim and [the planning Google doc](https://docs.google.com/folder/d/0B9N9E-8eecBAcV9hcHU0azBRMjg/edit?docId=1w0uirKvMYtU2iLdk1aGqmTkcTyVgXFJwxnM1qxEyH1U)) and questions considered by the #etmooc designers. It's interesting in terms of my lack of connections in certain areas to note that I'm only now becoming aware of some of [Alec's much earlier posts](http://educationaltechnology.ca/couros/2238) about #etmooc.
 

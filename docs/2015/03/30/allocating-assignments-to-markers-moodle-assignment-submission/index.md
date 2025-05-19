@@ -7,10 +7,10 @@ categories:
 date: 2015-03-30 17:45:51+10:00
 next:
   text: '"Designing a Secondary Computing curriuclum &#038; pedagogy course"'
-  url: /blog2/2015/04/02/designing-a-secondary-computing-curriuclum-pedagogy-course/
+  url: /blog/2015/04/02/designing-a-secondary-computing-curriuclum-pedagogy-course/
 previous:
   text: Framing some project ideas around support and services for learning and teaching
-  url: /blog2/2015/03/25/framing-some-project-ideas-around-support-and-services-for-learning-and-teaching/
+  url: /blog/2015/03/25/framing-some-project-ideas-around-support-and-services-for-learning-and-teaching/
 tags:
 - moodle
 - oasm
@@ -93,7 +93,7 @@ The point is that the perspective (from the [same post](http://www.linkedin.com/
 
 > We already have all the tools we need to get our students engaged. Sure there will be new ones that come along from time to time that will do things a wee bit better, but for the time being we have plenty to make this happen.
 
-As a teacher engaged with e-learning at a University, most of the technology provided is [a concrete lounge](/blog2/2014/12/18/concrete-lounge/).
+As a teacher engaged with e-learning at a University, most of the technology provided is [a concrete lounge](/blog/2014/12/18/concrete-lounge/).
 
   
 
@@ -105,7 +105,7 @@ The following documents my attempts to do this and seeks to explore if the Moodl
 
 ### I'm a hockey player
 
-_Background:_ I designed and implemented my first OASM system back in 1994/1995. From then through to about 2004/2005 I led the design and implementation of various generations of an OASM system and wrote [the odd paper](/blog2/publications/three-generations-of-online-assignment-management/) about it. I know a bit about these systems. I'm not a basketball player, I'm a hockey player.
+_Background:_ I designed and implemented my first OASM system back in 1994/1995. From then through to about 2004/2005 I led the design and implementation of various generations of an OASM system and wrote [the odd paper](/blog/publications/three-generations-of-online-assignment-management/) about it. I know a bit about these systems. I'm not a basketball player, I'm a hockey player.
 
 ## Assigning some assignments - do it myself
 
@@ -293,7 +293,7 @@ In terms of moderation, my practice is to specify to the marker at least 3 assig
 
 As in the past, this information isn't part of the OASM system. So I have to do it manually via a spreadsheet. However, in the past the OASM system did provide a spreadsheet of students allocated to a marker. This enable the use of Excel formulas to find some samples. Doesn't appear possible to do this via Moodle.
 
-Luckily the "more student details" popup [described here](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending) lets me click on a link in the list of students and find out the students GPA (amongst other things).
+Luckily the "more student details" popup [described here](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending) lets me click on a link in the list of students and find out the students GPA (amongst other things).
 
 > **Concrete lounge:** Can't easily allocate sample marking based on student GPA (or other means) in part because can't see how to expert students allocated to a marker to a spreadsheet.
 

@@ -5,15 +5,15 @@ categories:
 date: 2016-07-13 13:19:24+10:00
 next:
   text: Valuing the "residue of experience" a bit more
-  url: /blog2/2016/08/05/valuing-the-residue-of-experience-a-bit-more/
+  url: /blog/2016/08/05/valuing-the-residue-of-experience-a-bit-more/
 previous:
   text: Planning an EDC3100 &quot;installfest&quot;
-  url: /blog2/2016/07/07/planning-an-edc3100-installfest/
+  url: /blog/2016/07/07/planning-an-edc3100-installfest/
 title: Planning changes to EDC3100 assignment 1
 type: post
 template: blog-post.html
 ---
-In the first half of the year there was [a new assignment](/blog2/2016/03/10/setting-up-an-excel-checklist/) in EDC3100 designed to both enhance student learning, but also experiment with making the data produced by students and markers as part of the assessment process more accessible for manipulation by software. i.e. the students and markers entered data into a spreadsheet.
+In the first half of the year there was [a new assignment](/blog/2016/03/10/setting-up-an-excel-checklist/) in EDC3100 designed to both enhance student learning, but also experiment with making the data produced by students and markers as part of the assessment process more accessible for manipulation by software. i.e. the students and markers entered data into a spreadsheet.
 
 It's a new semester, time to reflect on that initial use and see what changes should and can be made.
 
@@ -85,7 +85,7 @@ One aspect of the assignment that troubled one of the markers was that the lesso
 
 ### Personal thoughts
 
-[Early reflections](/blog2/2016/05/30/early-thoughts-on-s1-2016-offering-of-edc3100/) on the semester included
+[Early reflections](/blog/2016/05/30/early-thoughts-on-s1-2016-offering-of-edc3100/) on the semester included
 
 The spreadsheet worked reasonably well. The checklist within the spreadsheet requires some refinement. As does some aspects of the rubric. The duplication of a Word-based coversheet needs to be removed.
 

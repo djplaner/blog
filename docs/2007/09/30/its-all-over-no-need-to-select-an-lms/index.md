@@ -5,10 +5,10 @@ date: 2007-09-30 22:14:18+10:00
 next:
   text: '"Call for papers -- Personal Learning Environments: How can we harness ICTs
     to effectively support lifelong learning?"'
-  url: /blog2/2007/10/06/call-for-papers-personal-learning-environments-how-can-we-harness-icts-to-effectively-support-lifelong-learning/
+  url: /blog/2007/10/06/call-for-papers-personal-learning-environments-how-can-we-harness-icts-to-effectively-support-lifelong-learning/
 previous:
   text: PhD Thesis Timetable
-  url: /blog2/2007/09/11/phd-thesis-timetable/
+  url: /blog/2007/09/11/phd-thesis-timetable/
 title: '"It''s all over: no need to select an LMS"'
 type: post
 template: blog-post.html

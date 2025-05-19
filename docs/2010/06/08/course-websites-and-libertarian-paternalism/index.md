@@ -9,10 +9,10 @@ categories:
 date: 2010-06-08 09:28:12+10:00
 next:
   text: Functional fixedness, analytics, and the LMS
-  url: /blog2/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
+  url: /blog/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
 previous:
   text: Should academics manually create course websites?
-  url: /blog2/2010/06/07/should-academics-manually-create-course-websites/
+  url: /blog/2010/06/07/should-academics-manually-create-course-websites/
 title: Course websites and "libertarian paternalism"
 type: post
 template: blog-post.html
@@ -37,7 +37,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Stephen Downes [makes a valid point](http://www.downes.ca/cgi-bin/page.cgi?post=52617) about my recent question about whether or not academics [should manually create websites](/blog2/2010/06/07/should-academics-manually-create-course-websites/). I agree with his underlying point that academics should not be forced to use the institutional approach. Given any option I would not suggest such an approach.
+Stephen Downes [makes a valid point](http://www.downes.ca/cgi-bin/page.cgi?post=52617) about my recent question about whether or not academics [should manually create websites](/blog/2010/06/07/should-academics-manually-create-course-websites/). I agree with his underlying point that academics should not be forced to use the institutional approach. Given any option I would not suggest such an approach.
 
 ### Incompetent paternalism
 
@@ -45,13 +45,13 @@ However, at least within some Australian institutions academics are being forced
 
 What is happening in these situations could be described as "incompetent" paternalism. Academics are being treated as children (a [theory X](http://en.wikipedia.org/wiki/Theory_X) perspective of academics underpins this approach). Management as the parents have to specify codes of behaviour. But when it comes to implementing this code of behaviour, management are actually making using an inefficient and ineffective approach.
 
-I disagree strongly with this approach, but if management believe it, is it too much to ask them to do it efficiently and effectively? That's one perspective, my real interest is in [a third way](/blog2/2010/05/31/the-need-for-a-third-way/) that tries to effectively merge features of both incompetent paternalism and the academic free for all.
+I disagree strongly with this approach, but if management believe it, is it too much to ask them to do it efficiently and effectively? That's one perspective, my real interest is in [a third way](/blog/2010/05/31/the-need-for-a-third-way/) that tries to effectively merge features of both incompetent paternalism and the academic free for all.
 
 ### The "libertarian" paternalist alternative
 
-The [model that evolved](/blog2/2010/06/07/default-course-sites-and-wizards/) in the early part of this decade could be described as a ["libertarian" paternalist](http://en.wikipedia.org/wiki/Soft_paternalism) approach. It's a bit of a stretch but I think the metaphor works.
+The [model that evolved](/blog/2010/06/07/default-course-sites-and-wizards/) in the early part of this decade could be described as a ["libertarian" paternalist](http://en.wikipedia.org/wiki/Soft_paternalism) approach. It's a bit of a stretch but I think the metaphor works.
 
-The theory was/is that an appropriately skilled group, taking an [adopter-focused](/blog2/2010/06/04/adopter-focused-development-and-diffusion-theory/) and [emergent](/blog2/2010/06/05/emergent-and-agile-development/) development approach could develop a default course site that could effectively be used by a group of courses. That default course site could be automatically created. But since the group was using an emergent development approach, the default course site would continue evolving.
+The theory was/is that an appropriately skilled group, taking an [adopter-focused](/blog/2010/06/04/adopter-focused-development-and-diffusion-theory/) and [emergent](/blog/2010/06/05/emergent-and-agile-development/) development approach could develop a default course site that could effectively be used by a group of courses. That default course site could be automatically created. But since the group was using an emergent development approach, the default course site would continue evolving.
 
 The default course site did not remove the academics freedom of choice. As implemented, academics could modify the default course sites in two ways:
 

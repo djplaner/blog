@@ -4,10 +4,10 @@ categories:
 date: 2014-07-31 15:03:15+10:00
 next:
   text: '"Bringing the LMS into the network - Experiment # 1 - Activity completion"'
-  url: /blog2/2014/08/03/bringing-the-lms-into-the-network-experiment-1-activity-completion/
+  url: /blog/2014/08/03/bringing-the-lms-into-the-network-experiment-1-activity-completion/
 previous:
   text: Learning journal, activity completion and nudge analytics
-  url: /blog2/2014/07/31/learning-journal-activity-completion-and-nudge-analytics/
+  url: /blog/2014/07/31/learning-journal-activity-completion-and-nudge-analytics/
 title: Emergence, improvisation and course design
 type: post
 template: blog-post.html

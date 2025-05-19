@@ -4,15 +4,15 @@ categories:
 date: 2009-12-24 08:18:36+10:00
 next:
   text: BIM - Staff show details screen
-  url: /blog2/2009/12/24/bim-staff-show-details-screen/
+  url: /blog/2009/12/24/bim-staff-show-details-screen/
 previous:
   text: 'Herding cats and losing weight: the vimeo video'
-  url: /blog2/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/
+  url: /blog/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/
 title: BIM - minor fixes to show student details
 type: post
 template: blog-post.html
 ---
-This post follows on from [the last post](/blog2/2009/12/22/bim-cron-and-view-student-details-screen/) in doing some minor improvements to the show student details screen in BIM. This includes:
+This post follows on from [the last post](/blog/2009/12/22/bim-cron-and-view-student-details-screen/) in doing some minor improvements to the show student details screen in BIM. This includes:
 
 - Link between the question ID and the question name
 - Double check the display of the “All posts”.

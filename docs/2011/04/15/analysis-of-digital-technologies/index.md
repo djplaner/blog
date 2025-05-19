@@ -5,10 +5,10 @@ categories:
 date: 2011-04-15 15:33:44+10:00
 next:
   text: Starting on a "student diversity report"
-  url: /blog2/2011/04/16/starting-on-a-student-diversity-report/
+  url: /blog/2011/04/16/starting-on-a-student-diversity-report/
 previous:
   text: Safe, legal and ethical practice for ICTs in schools
-  url: /blog2/2011/04/13/safe-legal-and-ethical-practice-for-icts-in-schools/
+  url: /blog/2011/04/13/safe-legal-and-ethical-practice-for-icts-in-schools/
 title: Analysis of digital technologies
 type: post
 template: blog-post.html
@@ -165,23 +165,23 @@ Downes, S. (2011). 'Connectivism' and Connective Knowledge. Retrieved April 9, 2
 
 Hayes, B. (2009). Writing Math on the Web. _American Scientist_, _97_(2), 98. doi: 10.1511/2009.77.98.
 
-Jones, D. (2006). Blogs, reflective journals and aggregation: An initial experiment. Retrieved April 4, 2011, from [/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/).
+Jones, D. (2006). Blogs, reflective journals and aggregation: An initial experiment. Retrieved April 4, 2011, from [/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/).
 
-Jones, D. (2011a). Group 1 technologies: Blogs, Wikis and websites. Retrieved April 14, 2011, from [/blog2/2011/04/06/group-1-technologies-blogs-wikis-and-websites/](/blog2/2011/04/06/group-1-technologies-blogs-wikis-and-websites/).
+Jones, D. (2011a). Group 1 technologies: Blogs, Wikis and websites. Retrieved April 14, 2011, from [/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/](/blog/2011/04/06/group-1-technologies-blogs-wikis-and-websites/).
 
-Jones, D. (2011b). Group 2 technologies: Images, audio and video. Retrieved April 14, 2011, from [/blog2/2011/04/07/group-2-technologies-images-audio-and-video/](/blog2/2011/04/07/group-2-technologies-images-audio-and-video/).
+Jones, D. (2011b). Group 2 technologies: Images, audio and video. Retrieved April 14, 2011, from [/blog/2011/04/07/group-2-technologies-images-audio-and-video/](/blog/2011/04/07/group-2-technologies-images-audio-and-video/).
 
-Jones, D. (2011c). ICTs for learning design: Group 2 technologies - The readings. Retrieved April 14, 2011, from [/blog2/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/](/blog2/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/).
+Jones, D. (2011c). ICTs for learning design: Group 2 technologies - The readings. Retrieved April 14, 2011, from [/blog/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/](/blog/2011/04/07/icts-for-learning-design-group-2-technologies-the-readings/).
 
-Jones, D. (2011d). Group 3 technologies - The readings. Retrieved April 14, 2011, from [/blog2/2011/04/07/group-2-technologies-images-audio-and-video/](/blog2/2011/04/07/group-2-technologies-images-audio-and-video/).
+Jones, D. (2011d). Group 3 technologies - The readings. Retrieved April 14, 2011, from [/blog/2011/04/07/group-2-technologies-images-audio-and-video/](/blog/2011/04/07/group-2-technologies-images-audio-and-video/).
 
-Jones, D. (2011e). Group 3 technologies - The activities. Retrieved April 14, 2011, from [/blog2/2011/04/09/group-3-technologies-the-activities/](/blog2/2011/04/09/group-3-technologies-the-activities/).
+Jones, D. (2011e). Group 3 technologies - The activities. Retrieved April 14, 2011, from [/blog/2011/04/09/group-3-technologies-the-activities/](/blog/2011/04/09/group-3-technologies-the-activities/).
 
-Jones, D. (2011f). Group 4 technologies - activities. Retrieved April 14, 2011, from [/blog2/2011/04/12/group-4-technologies-activities/](/blog2/2011/04/12/group-4-technologies-activities/).
+Jones, D. (2011f). Group 4 technologies - activities. Retrieved April 14, 2011, from [/blog/2011/04/12/group-4-technologies-activities/](/blog/2011/04/12/group-4-technologies-activities/).
 
-Jones, D. (2011g). Exploring Minecraft. Retrieved April 14, 2011, from [/blog2/2011/04/12/exploring-minecraft/](/blog2/2011/04/12/exploring-minecraft/).
+Jones, D. (2011g). Exploring Minecraft. Retrieved April 14, 2011, from [/blog/2011/04/12/exploring-minecraft/](/blog/2011/04/12/exploring-minecraft/).
 
-Jones, D., Jamieson, K., & Clark, D. (2003). A model for evaluating potential Web-based education innovations. _Hawaii International Conference on System Sciences_ (pp. 154-161). Hawaii: IEEE. Retrieved from [/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/](/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/).
+Jones, D., Jamieson, K., & Clark, D. (2003). A model for evaluating potential Web-based education innovations. _Hawaii International Conference on System Sciences_ (pp. 154-161). Hawaii: IEEE. Retrieved from [/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/](/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/).
 
 Jones, D., & Luck, J. (2009). Blog Aggregation Management: Reducing the Aggravation of Managing Student Blogging. AACE. Retrieved from [http://www.editlib.org/p/31530](http://www.editlib.org/p/31530).
 

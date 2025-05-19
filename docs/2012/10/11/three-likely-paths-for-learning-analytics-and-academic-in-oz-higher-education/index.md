@@ -4,10 +4,10 @@ categories:
 date: 2012-10-11 15:32:46+10:00
 next:
   text: The Texas sharpshooter fallacy and other issues for learning analytics
-  url: /blog2/2012/10/18/the-texas-sharpshooter-fallacy-and-other-issues-for-learning-analytics/
+  url: /blog/2012/10/18/the-texas-sharpshooter-fallacy-and-other-issues-for-learning-analytics/
 previous:
   text: Compliance cultures and transforming the quality of e-learning
-  url: /blog2/2012/09/29/compliance-cultures-and-transforming-the-quality-of-e-learning/
+  url: /blog/2012/09/29/compliance-cultures-and-transforming-the-quality-of-e-learning/
 title: Three likely paths for learning analytics and academics
 type: post
 template: blog-post.html
@@ -108,7 +108,7 @@ Currently, it's my theory that organisations probably need to travel all three p
 
 The eventual plan is to compare and contrast these different paths by the different assumptions or perspectives on which they are based. The following gives a quick explanation of each of the paths and an initial start on this analysis.
 
-Those of you who know me, can probably see some correspondence between these three paths and [the 3 levels of improving teaching](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). There is a definite preference in the following for the 3rd path, this is not to suggest that it should (or can) be the only path explored, or that the other paths have no value. All three have there part to play, but I think it would be wrong if the 3rd path was ignored.
+Those of you who know me, can probably see some correspondence between these three paths and [the 3 levels of improving teaching](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). There is a definite preference in the following for the 3rd path, this is not to suggest that it should (or can) be the only path explored, or that the other paths have no value. All three have there part to play, but I think it would be wrong if the 3rd path was ignored.
 
 Perhaps that's the point here, to highlight the need for the 3rd path to complement the limitations of the other two. Not to mention helping surface some of the limitations of the other two so they can be appropriately addressed.
 
@@ -136,13 +136,13 @@ In terms of analysing/characterising this type of approach, you might suggest
 - Will tend to actually be academic analytics, rather than learning analytics (as defined by [Long and Siemens, 2011](http://www.educause.edu/ero/article/penetrating-fog-analytics-learning-and-education)) but may get down to learning analytics at the departmental level.
 - It's based on a "If I tell them to do it, they will..." assumption.  
     i.e. what is written in the policy is what the academics will actually do.
-- A tendency to result in [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) and apparent compliance.
+- A tendency to result in [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) and apparent compliance.
 - It assumes academics will change their teaching practice based on what you told them to do.
-- Is based on the assumptions of [teleological processes](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/).  
+- Is based on the assumptions of [teleological processes](/blog/2009/06/05/teleological-design-definition-and-weaknesses/).  
     i.e. the system is stable and predictable, the designers can manipulate the system's behaviour, and the designer's can determine the goals/criteria for success.
 - It is located a long way from the actual context of learning and teaching and assumes that big data sets and data mining algorithms will enable the identification of useful information that can guide decision making.
 - It does not recognise the diversity inherent in teaching/teachers and learning/learners.  
-    Assumes learning is like [sleeping](/blog2/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/)
+    Assumes learning is like [sleeping](/blog/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/)
 - It is based on the assumption of senior managers (of people in general) as rational decision makers, if only they had the right data.
 - What is actually done will rely heavily on which vendor gets chosen to implement.
 - Will be largely limited to the data that is already in the system(s).
@@ -160,13 +160,13 @@ In terms of analysing/characterising this approach, I might identify
 
 - It's based on the "If I build it, they will come" assumption.
 - It assumes you can improve/change teaching by providing new tools and awareness.
-- Which generally hasn't worked for a range of reasons including perhaps [the chasm](/blog2/2009/08/09/the-chasm/)  
+- Which generally hasn't worked for a range of reasons including perhaps [the chasm](/blog/2009/08/09/the-chasm/)  
     i.e. the small number of early adopter academics engage, the vast majority don't.
 - It assumes some level of commonality in teaching/teachers and learning/learners.  
-    At least at some level, as it assumes implementing a particular tool or approach may be applicable across the organisation. Assumes learning is perhaps [more like eating](/blog2/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/)?
+    At least at some level, as it assumes implementing a particular tool or approach may be applicable across the organisation. Assumes learning is perhaps [more like eating](/blog/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/)?
 - It assumes that the researchers or the support division have sufficient insight to develop something appropriate.
 - It assumes we know enough about learning analytics and helping academics use learning analytics to inform pedagogical practice to enshrine practice around a particular set of tools.
-- Is based on the assumptions of [teleological processes](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/).  
+- Is based on the assumptions of [teleological processes](/blog/2009/06/05/teleological-design-definition-and-weaknesses/).  
     i.e. the system is stable and predictable, the designers can manipulate the system's behaviour, and the designer's can determine the goals/criteria for success.
 - It will be constrained by the institutions existing systems and the support divisions' people and their connections.
 - The support division path can be heavily influenced by the perspective of the academic (or others) as a client/customer which assumes that the client/customer knows what they want and because they generally don't often sinks to a process of "manage the customer" rather than help.

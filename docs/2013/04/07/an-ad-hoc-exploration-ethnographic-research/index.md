@@ -6,10 +6,10 @@ categories:
 date: 2013-04-07 23:41:08+10:00
 next:
   text: More evidence of the limits of student technical knowledge
-  url: /blog2/2013/04/08/more-evidence-of-the-limits-of-student-technical-knowledge/
+  url: /blog/2013/04/08/more-evidence-of-the-limits-of-student-technical-knowledge/
 previous:
   text: Adding bim 2.0 to &quot;CONTRIB&quot;
-  url: /blog2/2013/04/05/adding-bim-2-0-to-contrib/
+  url: /blog/2013/04/05/adding-bim-2-0-to-contrib/
 title: An ad hoc exploration ethnographic research
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is an initial attempt to restart some [earlier explorations](/blog2/2012/03/29/explorations-of-narrative-research/) of research methods that may prove useful in examining the "Story of [BIM](/blog2/research/bam-blog-aggregation-management/)" for potential useful insights. The starting place is ethnography and auto ethnography and an exploration of some writings.
+The following is an initial attempt to restart some [earlier explorations](/blog/2012/03/29/explorations-of-narrative-research/) of research methods that may prove useful in examining the "Story of [BIM](/blog/research/bam-blog-aggregation-management/)" for potential useful insights. The starting place is ethnography and auto ethnography and an exploration of some writings.
 
 ## Rescuing Autoethnography
 

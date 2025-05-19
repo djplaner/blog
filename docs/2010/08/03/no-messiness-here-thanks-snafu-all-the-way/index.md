@@ -5,10 +5,10 @@ categories:
 date: 2010-08-03 23:17:08+10:00
 next:
   text: Can you cancerize your research - task corruption at work
-  url: /blog2/2010/08/03/can-you-cancerize-your-research-task-corruption-at-work/
+  url: /blog/2010/08/03/can-you-cancerize-your-research-task-corruption-at-work/
 previous:
   text: CQU problem with BIM and RSS feeds
-  url: /blog2/2010/08/02/cqu-problem-with-bim-and-rss-feeds/
+  url: /blog/2010/08/02/cqu-problem-with-bim-and-rss-feeds/
 title: No messiness here thanks - SNAFU all the way
 type: post
 template: blog-post.html
@@ -23,7 +23,7 @@ I'm posting this now because [Stephen Downes has picked up](http://www.downes.ca
 
 For a long time (I have seen quotes going back to the early 1900s) universities have been exhorted to be run more like commercial businesses. This is typically code for having strong, strategic leadership. In turn this translates into having a firmly accepted vision of where the institution is going and how it is going to get there. It is efficient, nothing is wasted on extraneous activities that do not contribute to pre-identified missions and methods. Everything is consistent. It is tidy.
 
-In some/most cases this drive for consistency, or perhaps better phrased as "an absence of messiness", results in [defensive routines](/blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/) and the [SNAFU principle](http://catb.org/~esr/jargon/html/S/SNAFU-principle.html). A consequence of the SNAFU principle is the "progressive disconnection of decision-makers from reality".
+In some/most cases this drive for consistency, or perhaps better phrased as "an absence of messiness", results in [defensive routines](/blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/) and the [SNAFU principle](http://catb.org/~esr/jargon/html/S/SNAFU-principle.html). A consequence of the SNAFU principle is the "progressive disconnection of decision-makers from reality".
 
 This could be phrased alternatively as, the further you progress up the organisational ladder, the cleaner the world seems. Any messiness is to kept out because it makes life "difficult".
 

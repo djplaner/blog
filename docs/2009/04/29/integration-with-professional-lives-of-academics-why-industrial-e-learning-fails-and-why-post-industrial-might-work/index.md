@@ -7,10 +7,10 @@ categories:
 date: 2009-04-29 14:08:02+10:00
 next:
   text: First official BAM paper done
-  url: /blog2/2009/04/30/first-official-bam-paper-done/
+  url: /blog/2009/04/30/first-official-bam-paper-done/
 previous:
   text: Lessons for from past experience
-  url: /blog2/2009/04/25/lessons-for-e-learning/
+  url: /blog/2009/04/25/lessons-for-e-learning/
 title: Integration with professional lives of academics - why industrial e-learning
   fails and why post-industrial might work
 type: post
@@ -70,7 +70,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm currently struggling with writing the "Place" component of the [Ps framework](/blog2/2009/03/18/the-ps-framework/) as part chapter 2 of my [thesis](/blog2/research/phd-thesis/). In wondering the literature, as I tend to do while writing, I've come across an article (Gilbert and Geoghegan, 1995) that has some interest for me. Gilbert's description of the paper is
+I'm currently struggling with writing the "Place" component of the [Ps framework](/blog/2009/03/18/the-ps-framework/) as part chapter 2 of my [thesis](/blog/research/phd-thesis/). In wondering the literature, as I tend to do while writing, I've come across an article (Gilbert and Geoghegan, 1995) that has some interest for me. Gilbert's description of the paper is
 
 > The Internet is changing the way some of us develop ideas and communicate. The following, for example, is a sample of an "electronic" discussion about how to bridge the gap in higher education between the early adopters of information technology and the mainstream faculty who are yet to use technology to improve teaching and learning in their classrooms.
 
@@ -84,7 +84,7 @@ To me, this implies that the use of technology in learning and teaching by mains
 
 ### Professional integration and industrial e-learning
 
-In an [earlier post](/blog2/2009/04/20/the-paradigms-of-e-learning/) I suggested that there have been, so far, 6 different paradigms of e-learning within universities. The current paradigm is industrial e-learning and is characterised by the selection, installation and support of learning management systems (LMS) as "enterprise resource planning (ERP) systems for education.
+In an [earlier post](/blog/2009/04/20/the-paradigms-of-e-learning/) I suggested that there have been, so far, 6 different paradigms of e-learning within universities. The current paradigm is industrial e-learning and is characterised by the selection, installation and support of learning management systems (LMS) as "enterprise resource planning (ERP) systems for education.
 
 How well can an LMS be integrated into the broader professional practice of an academic?
 
@@ -96,7 +96,7 @@ I guess you could link this with the [Sakai project's](http://sakaiproject.org/)
 
 ### Professional integration and post-industrial e-learning
 
-In that [post on the paradigms of e-learning](/blog2/2009/04/20/the-paradigms-of-e-learning/) I suggested that the next paradigm could be called "post-industrial". An approach that arises out of "cloud computing", social media and associated ideas. Other authors such as [Stephen Downes](http://www.downes.ca/) and others have described this "paradigm" in more detail under labels such as [e-learning 2.0.](http://www.elearnmag.org/subpage.cfm?section=articles&article=29-1)
+In that [post on the paradigms of e-learning](/blog/2009/04/20/the-paradigms-of-e-learning/) I suggested that the next paradigm could be called "post-industrial". An approach that arises out of "cloud computing", social media and associated ideas. Other authors such as [Stephen Downes](http://www.downes.ca/) and others have described this "paradigm" in more detail under labels such as [e-learning 2.0.](http://www.elearnmag.org/subpage.cfm?section=articles&article=29-1)
 
 Apart from any inherent advantages that these tools and approaches may have for learning and teaching, perhaps one of their greatest strengths is the ability to be used and significantly enhance the professional practice of academics. My experience has been that social media has helped my professional practice. Perhaps the key to improving learning and teaching through technologies is getting academics to [eat their own dog food](http://en.wikipedia.org/wiki/Eating_one%27s_own_dog_food), to use social software in their professional practice. Once this happens, perhaps it will become natural for them to use it in their learning and teaching.
 

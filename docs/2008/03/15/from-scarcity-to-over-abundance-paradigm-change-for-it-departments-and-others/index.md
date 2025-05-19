@@ -9,10 +9,10 @@ categories:
 date: 2008-03-15 21:12:01+10:00
 next:
   text: Initial thoughts from CogEdge accreditation course
-  url: /blog2/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/
+  url: /blog/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/
 previous:
   text: Ideas for &quot;spaces&quot; in Second Life
-  url: /blog2/2008/01/18/ideas-for-spaces-in-second-life/
+  url: /blog/2008/01/18/ideas-for-spaces-in-second-life/
 title: From scarcity to over abundance - paradigm change for IT departments (and others)
 type: post
 template: blog-post.html

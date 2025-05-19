@@ -4,10 +4,10 @@ categories:
 date: 2013-03-18 12:39:29+10:00
 next:
   text: Professional development is created, not provided
-  url: /blog2/2013/03/20/professional-development-is-created-not-provided/
+  url: /blog/2013/03/20/professional-development-is-created-not-provided/
 previous:
   text: 'Visualising the blog network of #edc3100 students'
-  url: /blog2/2013/03/18/visualising-the-blog-network-of-edc3100-students/
+  url: /blog/2013/03/18/visualising-the-blog-network-of-edc3100-students/
 title: '"BIM: Why and what?"'
 type: post
 template: blog-post.html

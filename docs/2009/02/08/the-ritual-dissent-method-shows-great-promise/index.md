@@ -4,15 +4,15 @@ categories:
 date: 2009-02-08 21:39:29+10:00
 next:
   text: VoiceThread as a mechanism for feedback to students
-  url: /blog2/2009/02/08/voicethread-as-a-mechanism-for-feedback-to-students/
+  url: /blog/2009/02/08/voicethread-as-a-mechanism-for-feedback-to-students/
 previous:
   text: More detail on the money burner
-  url: /blog2/2009/02/03/more-detail-on-the-money-burner/
+  url: /blog/2009/02/03/more-detail-on-the-money-burner/
 title: The ritual dissent method shows great promise
 type: post
 template: blog-post.html
 ---
-This is a part of some reflections from running a session on [course analysis and design](/blog2/2009/01/30/using-a-blog-for-course-design-foult-sessions/) for new academics at [CQUniversity](http://www.cqu.edu.au/) last week. This one focuses on the benefits of using the [ritual dissent](http://www.cognitive-edge.com/method.php?mid=46) workshop method from [Cognitive Edge](http://www.cognitive-edge.com/).
+This is a part of some reflections from running a session on [course analysis and design](/blog/2009/01/30/using-a-blog-for-course-design-foult-sessions/) for new academics at [CQUniversity](http://www.cqu.edu.au/) last week. This one focuses on the benefits of using the [ritual dissent](http://www.cognitive-edge.com/method.php?mid=46) workshop method from [Cognitive Edge](http://www.cognitive-edge.com/).
 
 ### Context
 

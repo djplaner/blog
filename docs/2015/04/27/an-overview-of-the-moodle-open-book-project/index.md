@@ -6,10 +6,10 @@ date: 2015-04-27 12:57:22+10:00
 next:
   text: The four paths for implementing learning analytics and enhancing the quality
     of learning and teaching
-  url: /blog2/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
+  url: /blog/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/
 previous:
   text: What does this say about learning analytics?
-  url: /blog2/2015/04/22/what-does-this-say-about-learning-analytics/
+  url: /blog/2015/04/22/what-does-this-say-about-learning-analytics/
 title: An overview of the Moodle "open" book project
 type: post
 template: blog-post.html
@@ -38,7 +38,7 @@ In another 50 minutes I'm off to attend the "First Open Textbook Community Meeti
 
 > Prepare a short overview of your intended project for your colleagues at the meeting
 
-Hence this post attempting to develop some ideas for [my project](/blog2/the-moodle-open-book-module-project/)
+Hence this post attempting to develop some ideas for [my project](/blog/the-moodle-open-book-module-project/)
 
 ### The Moodle "open" book project
 

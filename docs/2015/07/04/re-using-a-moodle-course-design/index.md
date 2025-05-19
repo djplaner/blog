@@ -5,10 +5,10 @@ categories:
 date: 2015-07-04 16:25:51+10:00
 next:
   text: Does branding the LMS hurt learning
-  url: /blog2/2015/07/07/does-branding-the-lms-hurt-learning/
+  url: /blog/2015/07/07/does-branding-the-lms-hurt-learning/
 previous:
   text: Can the Moodle book module be made open and other enhancements
-  url: /blog2/2015/07/03/can-the-moodle-book-module-be-made-open-and-other-enhancements/
+  url: /blog/2015/07/03/can-the-moodle-book-module-be-made-open-and-other-enhancements/
 title: '"Re-using a #moodle course design"'
 type: post
 template: blog-post.html
@@ -39,7 +39,7 @@ The following image shows the top of the 2012 version of the EDC3100 site. In 20
 
 The one question about this approach is that EDC3100 has quite a bit of content in each week. Not sure that EDS4406 will have the same quantity. Hence the separate topics for each week may be a bit of overkill.
 
-As it stands each topic does have a formal title meaning it's probably valuable to make use of [the macro facility](/blog2/2015/06/26/and-the-little-one-said-roll-over-roll-over/) I'm using in EDC3100.
+As it stands each topic does have a formal title meaning it's probably valuable to make use of [the macro facility](/blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/) I'm using in EDC3100.
 
 Process setting this up includes
 

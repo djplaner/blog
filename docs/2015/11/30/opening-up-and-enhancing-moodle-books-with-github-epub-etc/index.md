@@ -5,11 +5,11 @@ categories:
 date: 2015-11-30 08:33:58+10:00
 next:
   text: '"Moodle book and GitHub: working together"'
-  url: /blog2/2015/12/03/moodle-book-and-github-working-together/
+  url: /blog/2015/12/03/moodle-book-and-github-working-together/
 previous:
   text: 'Exploring &quot;post adoptive usage&quot; of the #moodle Book module - a
     draft proposal'
-  url: /blog2/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
+  url: /blog/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
 tags:
 - github
 title: '"Opening up and enhancing #moodle books with GitHub, ePub, etc."'
@@ -47,7 +47,7 @@ pingbacks:
       user_id: '0'
     
 ---
-On December 1 I gave the following presentation. Titled "Opening up and enhancing Moodle books with GitHub, ePub, etc." the presentation reports on the work I've done as part of the [Moodle open book project](/blog2/the-moodle-open-book-module-project/). In particular, it will describe the "why" and "what" behind the development of the [Moodle Book github tool.](https://github.com/djplaner/moodle-booktool_github) A tool that integrates with the [Moodle Book module](https://docs.moodle.org/30/en/Book_module) and allows the Book module to push and pull it's content from [GitHub](http://github.com).
+On December 1 I gave the following presentation. Titled "Opening up and enhancing Moodle books with GitHub, ePub, etc." the presentation reports on the work I've done as part of the [Moodle open book project](/blog/the-moodle-open-book-module-project/). In particular, it will describe the "why" and "what" behind the development of the [Moodle Book github tool.](https://github.com/djplaner/moodle-booktool_github) A tool that integrates with the [Moodle Book module](https://docs.moodle.org/30/en/Book_module) and allows the Book module to push and pull it's content from [GitHub](http://github.com).
 
 The focus of the project is to move beyond the focus of the open textbook being the product (the actual book). The focus for this project has been on improving the authoring process. With a particular aim to move toward an idea summarised by Licklider & Taylor (1968)
 
@@ -57,7 +57,7 @@ we believe that we are entering a technological age in which we will be able to 
 
 The slides below book-end the presentation. The middle of the presentation will be a live demo showing off the integration of the Moodle Book module and GitHub.
 
-[This blog](/blog2/2015/12/03/moodle-book-and-github-working-together/) post gives an description of how the Moodle Book github tool works using screenshots.
+[This blog](/blog/2015/12/03/moodle-book-and-github-working-together/) post gives an description of how the Moodle Book github tool works using screenshots.
 
 As you'd expect, the code for the Moodle Book github tool can be found in [a GitHub repository](https://github.com/djplaner/moodle-booktool_github). The code is somewhat functional, but a little messy and limited. Development is on going.
 

@@ -7,10 +7,10 @@ categories:
 date: 2015-07-23 13:22:17+10:00
 next:
   text: What do "scale" and "mainstreaming" mean in higher education?
-  url: /blog2/2015/07/29/what-do-scale-and-mainstreaming-mean-in-higher-education/
+  url: /blog/2015/07/29/what-do-scale-and-mainstreaming-mean-in-higher-education/
 previous:
   text: Updating &quot;more student details&quot;
-  url: /blog2/2015/07/23/updating-more-student-details/
+  url: /blog/2015/07/23/updating-more-student-details/
 title: '"Me as teacher" - the 2015 focus for NGL'
 type: post
 template: blog-post.html
@@ -19,7 +19,7 @@ template: blog-post.html
 
 ### as "meta-"teacher
 
-Last year [I wrote this "as teacher"](/blog2/2014/07/27/me-as-a-teacher/) and it had a more traditional focus. I was thinking about me as the teacher of a couple of formal courses. The directions in NGL tries to expand the understanding of "teaching" beyond formal learning to include "as you doing something that helps others learn". For the rest of this year I'd like to push the boundaries a bit. I'd like to go [meta](https://en.wikipedia.org/wiki/Meta) in terms of teaching.
+Last year [I wrote this "as teacher"](/blog/2014/07/27/me-as-a-teacher/) and it had a more traditional focus. I was thinking about me as the teacher of a couple of formal courses. The directions in NGL tries to expand the understanding of "teaching" beyond formal learning to include "as you doing something that helps others learn". For the rest of this year I'd like to push the boundaries a bit. I'd like to go [meta](https://en.wikipedia.org/wiki/Meta) in terms of teaching.
 
 One of my key positions at the moment is that university [e-learning is a "bit like teenage sex"](http://www.usq.edu.au/learning-teaching/USQSalon/JonesAlbion). It's quite horrendous and isn't dealing well with some difficult problems. Yet another restructure, or a focus on quality standards is not going to help! There's something more fundamental here. I want to explore what that might be.
 
@@ -35,11 +35,11 @@ Back to the questions asked of NGL participants.
 
 Let's keep the context narrow and say within my current institution. The "students" are essentially anyone involved with e-learning at the institution. I'm not formally teaching any of them, but perhaps as I engage within the network of the institution there will be some learning.
 
-Taking a very network centered perspective on learning, my "role as teacher" is to [help make connections](/blog2/2015/01/13/this-year-its-all-about-the-connections/). Borrowing from [the "distributed view"](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) the idea is that
+Taking a very network centered perspective on learning, my "role as teacher" is to [help make connections](/blog/2015/01/13/this-year-its-all-about-the-connections/). Borrowing from [the "distributed view"](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) the idea is that
 
 > the world is complex, dynamic, and consists of interdependent assemblages of diverse actors (human and not) connected via complex networks.
 
-The mindset underpinning university e-learning is to [SET in it's ways](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset). The question is how to change that?
+The mindset underpinning university e-learning is to [SET in it's ways](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset). The question is how to change that?
 
 ### What role does NGL currently play? How can it help?
 
@@ -47,7 +47,7 @@ My argument is that due to the SET mindset, NGL doesn't play much of a role at a
 
 I think that really grokking a NGL mindset promises to improve the ability of universities to learn how to do e-learning. Largely because it's a more appropriate model of the learning that needs to take place.
 
-I'm particularly interested in how the idea of [Context-Appropriate Scaffolding Assemblages (CASA)](/blog2/2015/01/13/this-year-its-all-about-the-connections/#casa) might be implemented and subsequently make it easier for universities to learn how to do e-learning in much more interesting and effective ways.
+I'm particularly interested in how the idea of [Context-Appropriate Scaffolding Assemblages (CASA)](/blog/2015/01/13/this-year-its-all-about-the-connections/#casa) might be implemented and subsequently make it easier for universities to learn how to do e-learning in much more interesting and effective ways.
 
 ### What difficulties might arise?
 

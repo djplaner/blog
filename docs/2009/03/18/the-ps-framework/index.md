@@ -9,10 +9,10 @@ date: 2009-03-18 21:18:23+10:00
 next:
   text: Coordination, support and knowledge sharing associated with e-learning - where
     does your organisation fit?
-  url: /blog2/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/
+  url: /blog/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/
 previous:
   text: '&quot;Blame the teacher&quot; and its negative impact on learning and e-learning'
-  url: /blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
+  url: /blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
 title: The Ps framework
 type: post
 template: blog-post.html
@@ -431,7 +431,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a section of my [thesis](/blog2/research/phd-thesis/) - chapter 2. As I get first drafts of this stuff done, I'm going to post it to the blog - where appropriate. This is the first.
+The following is a section of my [thesis](/blog/research/phd-thesis/) - chapter 2. As I get first drafts of this stuff done, I'm going to post it to the blog - where appropriate. This is the first.
 
 This section is the first major part of chapter 2 - the literature review. It explains the background of the Ps Framework which will be used to structure the rest of the chapter.
 

@@ -4,10 +4,10 @@ categories:
 date: 2016-08-23 15:22:26+10:00
 next:
   text: Exploring Moodle book usage - part 4 - students and initial use
-  url: /blog2/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
+  url: /blog/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
 previous:
   text: Understanding and using the idea of &quot;network learning&quot;
-  url: /blog2/2016/08/17/understanding-and-using-the-idea-of-network-learning/
+  url: /blog/2016/08/17/understanding-and-using-the-idea-of-network-learning/
 title: On the value or otherwise of SAMR, RAT etc.
 type: post
 template: blog-post.html
@@ -123,7 +123,7 @@ Transformation is really, really hard. For two reasons.
 
 The first is to understand the difference between amplification and transformation. Forget about learning, it appears difficult for people to conceive of transformation in any context. I try to help a bit through the use of print-based encyclopedia versus Encarta (replacement) versus Wikipedia (transformation).  Both Encarta and Wikipedia use digital technologies to provide an "encyclopedia", however, only Wikipedia challenges and transforms some of the fundamental assumptions of "encyclopedia".
 
-The second is related to [the horsey horseless carriage problem](/blog2/2016/08/13/exploring-moodle-book-module-usage-part-1/#horsey). The more familiar you are with something, the harder it is to challenge the underlying unwritten assumptions of that practice. I'd suggest that the more involved you are with print-based encyclopedia's, the harder it was to see value in Wikipedia.
+The second is related to [the horsey horseless carriage problem](/blog/2016/08/13/exploring-moodle-book-module-usage-part-1/#horsey). The more familiar you are with something, the harder it is to challenge the underlying unwritten assumptions of that practice. I'd suggest that the more involved you are with print-based encyclopedia's, the harder it was to see value in Wikipedia.
 
 It's made that much harder if you don't really understand the source of transformation. It's hard for people who aren't highly digitally literate and have high levels of knowledge around learning/teaching/context to be able to conceive of how digital technologies can transform learning and teaching.
 
@@ -133,7 +133,7 @@ To decide if your plan for using digital technologies for learning is an example
 
 In my undergraduate course, I ask folk to think about what the learning activity might look like/be possible if there wasn't any digital technology involved. But I wonder whether this is helpful, especially into the future.
 
-Given the [growing prevalence of digital technologies](/blog2/2016/08/12/how-many-digital-devices-do-you-have/), at what stage does it make sense to think of a learning activity as not involving some form of digital technology?
+Given the [growing prevalence of digital technologies](/blog/2016/08/12/how-many-digital-devices-do-you-have/), at what stage does it make sense to think of a learning activity as not involving some form of digital technology?
 
 I wonder whether this is part of the reason [why Angela lists](https://angelamartlewedu8117.wordpress.com/2016/08/20/learning-and-the-samr-model/) as _Substitution_ the use of the Internet for research?
 

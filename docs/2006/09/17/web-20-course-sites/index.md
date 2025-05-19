@@ -5,10 +5,10 @@ categories:
 date: 2006-09-17 14:39:55+10:00
 next:
   text: Helpdesk and training - first step in SDO
-  url: /blog2/2006/09/18/helpdesk-and-training-first-step-in-sdo/
+  url: /blog/2006/09/18/helpdesk-and-training-first-step-in-sdo/
 previous:
   text: Jenny Anastasi&#039; presentation
-  url: /blog2/2006/08/28/jenny-anastasi-presentation/
+  url: /blog/2006/08/28/jenny-anastasi-presentation/
 title: Web 2.0 Course Sites
 type: post
 template: blog-post.html

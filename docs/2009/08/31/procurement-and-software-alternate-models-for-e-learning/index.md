@@ -9,10 +9,10 @@ categories:
 date: 2009-08-31 10:52:28+10:00
 next:
   text: Product models - LMS, BoB and alternatives
-  url: /blog2/2009/08/31/product-models-lms-bob-and-alternatives/
+  url: /blog/2009/08/31/product-models-lms-bob-and-alternatives/
 previous:
   text: 'Learning Tools in Higher Education: Products, Characteristics, Procurement'
-  url: /blog2/2009/08/30/learning-tools-in-higher-education-products-characteristics-procurement/
+  url: /blog/2009/08/30/learning-tools-in-higher-education-products-characteristics-procurement/
 title: '"Procurement and software: alternate models for e-learning"'
 type: post
 template: blog-post.html
@@ -51,7 +51,7 @@ pingbacks:
       user_id: '0'
     
 ---
-And here's the next bit of the Products component for chapter 2 of [my thesis](/blog2/research/phd-thesis/). The aim of this section is basically two argue that the LMS approach to e-learning embodies one view of how to procure software and one software model. I eventually aim to argue that both of these predominant models are essentially bad matches for the nature of e-learning within a university. The following is intended more to identify that there are alternatives than argue for the inappropriateness. That's for later. But I doubt I've stopped it coming through.
+And here's the next bit of the Products component for chapter 2 of [my thesis](/blog/research/phd-thesis/). The aim of this section is basically two argue that the LMS approach to e-learning embodies one view of how to procure software and one software model. I eventually aim to argue that both of these predominant models are essentially bad matches for the nature of e-learning within a university. The following is intended more to identify that there are alternatives than argue for the inappropriateness. That's for later. But I doubt I've stopped it coming through.
 
 This section focuses on procurement, I hope to have the product section up later today.
 

@@ -6,10 +6,10 @@ categories:
 date: 2009-06-05 16:23:45+10:00
 next:
   text: University processes - management and planning
-  url: /blog2/2009/06/08/university-processes-management-and-planning/
+  url: /blog/2009/06/08/university-processes-management-and-planning/
 previous:
   text: The teaching/research nexus - an example?
-  url: /blog2/2009/06/05/the-teachingresearch-nexus-an-example/
+  url: /blog/2009/06/05/the-teachingresearch-nexus-an-example/
 title: '"PhD Update #13 - back after a week off"'
 type: post
 template: blog-post.html
@@ -33,21 +33,21 @@ pingbacks:
       user_id: '0'
     
 ---
-After 12 weekly updates I missed one last week as the missus and I went on a holiday, ate some nice meals (e.g. [this one](/blog2/2009/05/27/a-night-at-ezard/)), and purchased a new car. This time last week I was driving the new car out of Brisbane on the way home, hence no update.
+After 12 weekly updates I missed one last week as the missus and I went on a holiday, ate some nice meals (e.g. [this one](/blog/2009/05/27/a-night-at-ezard/)), and purchased a new car. This time last week I was driving the new car out of Brisbane on the way home, hence no update.
 
 Not that there was much need. Thanks to the holiday very little work was done. Since then we've played with the kids to catch up on being away, enjoyed a public holiday and this week I've actually worked (instead of PhD work) for two days. Consequently, there's still not a lot to report.
 
 ### What I did
 
-[Last week](/blog2/2009/05/23/phd-update-12-some-progress-but-late/), I said I would
+[Last week](/blog/2009/05/23/phd-update-12-some-progress-but-late/), I said I would
 
 - Complete the process component, or as much as I can.
 
 I didn't complete it. Had I not had to work Tuesday and Thursday I think I would have actually achieved a target. Instead, I have completed:
 
-- an [overview](/blog2/2009/05/25/teleological-and-ateleological-processes/) of teleological and ateleological processes;
-- a [description of teleological processes and their weaknesses](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/); and
-- a [description of ateleological processes and their weaknesses](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/).
+- an [overview](/blog/2009/05/25/teleological-and-ateleological-processes/) of teleological and ateleological processes;
+- a [description of teleological processes and their weaknesses](/blog/2009/06/05/teleological-design-definition-and-weaknesses/); and
+- a [description of ateleological processes and their weaknesses](/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/).
 
 This leaves two sections to complete in process:
 
@@ -56,7 +56,7 @@ This leaves two sections to complete in process:
 - Lessons from process.  
     A brief summary of the lessons I think can be drawn from considerations of process for e-learning. Don't think it's any surprise that I will argue that for learning and e-learning there should be a greater use of ateleological process and less of the teleological.
 
-There have also been a few blog posts in that time, all somewhat associated to the thesis. The main connection is [this one](/blog2/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/) about the LMS as a one word language. It is inspired by the paper that gave me the concept of teleological and ateleological processes. The sentiment also connects closely with my thoughts for the thesis.
+There have also been a few blog posts in that time, all somewhat associated to the thesis. The main connection is [this one](/blog/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/) about the LMS as a one word language. It is inspired by the paper that gave me the concept of teleological and ateleological processes. The sentiment also connects closely with my thoughts for the thesis.
 
 ### What I'll do next week
 

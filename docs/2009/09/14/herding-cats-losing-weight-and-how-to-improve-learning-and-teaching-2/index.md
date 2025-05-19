@@ -4,10 +4,10 @@ categories:
 date: 2009-09-14 14:09:28+10:00
 next:
   text: '"e&#038;i report #3 - 1st-15th September"'
-  url: /blog2/2009/09/15/ei-report-3-1st-15th-september/
+  url: /blog/2009/09/15/ei-report-3-1st-15th-september/
 previous:
   text: Getting started with CCK09
-  url: /blog2/2009/09/14/getting-started-with-cck09/
+  url: /blog/2009/09/14/getting-started-with-cck09/
 title: Herding cats, losing weight and how to improve learning and teaching
 type: post
 template: blog-post.html
@@ -192,7 +192,7 @@ If everything falls into place, there may well be a [ustream](http://www.ustream
 
 ### Related resources
 
-[This blog post](/blog2/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/) outlines some early thinking on the structure and purpose of the presentation.
+[This blog post](/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/) outlines some early thinking on the structure and purpose of the presentation.
 
 ### Slides
 

@@ -4,10 +4,10 @@ categories:
 date: 2012-03-09 09:58:00+10:00
 next:
   text: Eduhacking - a better use for (part of) academic conferences?
-  url: /blog2/2012/03/16/eduhacking-a-better-use-for-part-of-academic-conferences/
+  url: /blog/2012/03/16/eduhacking-a-better-use-for-part-of-academic-conferences/
 previous:
   text: And it&#039;s back to a lecture
-  url: /blog2/2012/03/06/and-its-back-to-a-lecture/
+  url: /blog/2012/03/06/and-its-back-to-a-lecture/
 title: '"Some challenges for #pstn"'
 type: post
 template: blog-post.html

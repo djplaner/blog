@@ -6,10 +6,10 @@ categories:
 date: 2009-07-15 12:20:44+10:00
 next:
   text: BAM into Moodle approved - starting the process
-  url: /blog2/2009/07/16/bam-into-moodle-approved-starting-the-process/
+  url: /blog/2009/07/16/bam-into-moodle-approved-starting-the-process/
 previous:
   text: BAM and the Chinese &quot;firewall&quot;
-  url: /blog2/2009/07/15/bam-and-the-chinese-firewall/
+  url: /blog/2009/07/15/bam-and-the-chinese-firewall/
 title: '"Predictably irrational - implications for L&#038;T at Universities"'
 type: post
 template: blog-post.html

@@ -9,10 +9,10 @@ categories:
 date: 2012-06-28 22:30:40+10:00
 next:
   text: Introducing the alternative
-  url: /blog2/2012/06/29/introducing-the-alternative/
+  url: /blog/2012/06/29/introducing-the-alternative/
 previous:
   text: The LMS Product - limitations and an alternative
-  url: /blog2/2012/06/28/the-lms-product-limitations-and-alternative/
+  url: /blog/2012/06/28/the-lms-product-limitations-and-alternative/
 title: The e-learning process - limitations and an alternative
 type: post
 template: blog-post.html
@@ -51,7 +51,7 @@ pingbacks:
       user_id: '0'
     
 ---
-And here's the followup to the [well received "LMS Product" post](/blog2/2012/06/28/the-lms-product-limitations-and-alternative/). This is the second section looking at the limitations of how industrial e-learning is implemented, this time focusing on the process used. Not really happy with this one, space limitations are making it difficult to do a good job of description.
+And here's the followup to the [well received "LMS Product" post](/blog/2012/06/28/the-lms-product-limitations-and-alternative/). This is the second section looking at the limitations of how industrial e-learning is implemented, this time focusing on the process used. Not really happy with this one, space limitations are making it difficult to do a good job of description.
 
 ### Process
 

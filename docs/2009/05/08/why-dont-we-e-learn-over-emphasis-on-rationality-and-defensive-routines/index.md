@@ -11,10 +11,10 @@ categories:
 date: 2009-05-08 22:36:58+10:00
 next:
   text: Everything old is new again - universities should be more business like
-  url: /blog2/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/
+  url: /blog/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/
 previous:
   text: 'PhD Update #10 - Dragging on'
-  url: /blog2/2009/05/08/phd-update-10-dragging-on/
+  url: /blog/2009/05/08/phd-update-10-dragging-on/
 title: Why don't we (e-)learn - over emphasis on rationality and defensive routines
 type: post
 template: blog-post.html
@@ -116,7 +116,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Work on the [PhD thesis](/blog2/research/phd-thesis/) is currently [going slow](/blog2/2009/05/08/phd-update-10-dragging-on/). There are many reasons for this, one of them is I keep following interesting streams of literature beyond the needs of the thesis. I can rationalise that most of these extra-thesis streams do connect with the work [I may be doing into the future](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/, though that doesn't necessarily help feel good about the thesis. (_aside:_ I continue to be amazed by the folk who haven't learnt that the one question you **do not** ask someone in my position is, "How's the thesis going?").
+Work on the [PhD thesis](/blog/research/phd-thesis/) is currently [going slow](/blog/2009/05/08/phd-update-10-dragging-on/). There are many reasons for this, one of them is I keep following interesting streams of literature beyond the needs of the thesis. I can rationalise that most of these extra-thesis streams do connect with the work [I may be doing into the future](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/, though that doesn't necessarily help feel good about the thesis. (_aside:_ I continue to be amazed by the folk who haven't learnt that the one question you **do not** ask someone in my position is, "How's the thesis going?").
 
 Over the last month or so I've been focusing on historical perspectives around technology-mediated learning and the nature of organisations. This has become really depressing as it illustrates just how prone to reinventing the wheel we are in organisational practice - even in universities. This post talks about one of those streams of literature that strikes really close to home in terms of universities, e-learning, the limitations of current practice, and how we don't learn from the past.
 

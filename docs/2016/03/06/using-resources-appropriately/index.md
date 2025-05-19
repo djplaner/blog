@@ -4,10 +4,10 @@ categories:
 date: 2016-03-06 16:33:39+10:00
 next:
   text: Setting up an Excel checklist
-  url: /blog2/2016/03/10/setting-up-an-excel-checklist/
+  url: /blog/2016/03/10/setting-up-an-excel-checklist/
 previous:
   text: Producing OPML files for EDC3100 student blogs
-  url: /blog2/2016/03/06/producing-opml-files-for-edc3100-student-blogs/
+  url: /blog/2016/03/06/producing-opml-files-for-edc3100-student-blogs/
 title: Using resources appropriately
 type: post
 template: blog-post.html

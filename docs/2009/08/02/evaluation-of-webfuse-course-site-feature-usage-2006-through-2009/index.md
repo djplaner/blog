@@ -10,10 +10,10 @@ categories:
 date: 2009-08-02 13:09:04+10:00
 next:
   text: '"PhD Update #19 - Falling just a little short"'
-  url: /blog2/2009/08/02/phd-update-19-falling-just-a-little-short/
+  url: /blog/2009/08/02/phd-update-19-falling-just-a-little-short/
 previous:
   text: How the LMS - as enterprise system - warps the practice of L&#038;T
-  url: /blog2/2009/08/02/how-the-lms-as-enterprise-system-warps-the-practice-of-lt/
+  url: /blog/2009/08/02/how-the-lms-as-enterprise-system-warps-the-practice-of-lt/
 title: '"Evaluation of Webfuse course site feature usage: 2006 through 2009"'
 type: post
 template: blog-post.html
@@ -38,7 +38,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In a [recent post](/blog2/2009/07/31/some-early-results-from-webfuse-evaluation/) I messily wrote about the start of the process of evaluating the use of Webfuse for my thesis. This post takes the ideas/process from that post and applies it to the course websites produced by Webfuse from 2006 through 2007. The data in here is in a similar time frame to the work being done by Col and Ken on their [indicators project](http://beerc.wordpress.com/2009/07/28/quick-indicators-update-2/).
+In a [recent post](/blog/2009/07/31/some-early-results-from-webfuse-evaluation/) I messily wrote about the start of the process of evaluating the use of Webfuse for my thesis. This post takes the ideas/process from that post and applies it to the course websites produced by Webfuse from 2006 through 2007. The data in here is in a similar time frame to the work being done by Col and Ken on their [indicators project](http://beerc.wordpress.com/2009/07/28/quick-indicators-update-2/).
 
 ### Background
 
@@ -46,7 +46,7 @@ The basic idea is to use the categories proposed by Malikowski et al (2007) as a
 
 [![Malikowski Flow Chart](images/3465729160_255865ebc6.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
 
-Webfuse is the web-based e-learning system that is the basis for my PhD and some description of that is available [here](/blog2/publications/an-information-systems-design-theory-for-e-learning/). Most of the course sites hosted on Webfuse are not password protected - you can see the [latest list here](http://webfuse.cqu.edu.au/Courses/2009/T2/)
+Webfuse is the web-based e-learning system that is the basis for my PhD and some description of that is available [here](/blog/publications/an-information-systems-design-theory-for-e-learning/). Most of the course sites hosted on Webfuse are not password protected - you can see the [latest list here](http://webfuse.cqu.edu.au/Courses/2009/T2/)
 
 Two of the Malikowski et al (2007) categories are excluded in the following set of findings because:
 
@@ -92,7 +92,7 @@ Even with an almost automated process minimising the work required of the academ
 
 #### Problems with minimum standards
 
-As mentioned [previously](/blog2/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/) my current institution is adopting a set of minimum standards for course websites. A specification of the components that all course websites must have, as a minimum. I'm not a fan of the idea and the findings here further encourage those negative thoughts.
+As mentioned [previously](/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/) my current institution is adopting a set of minimum standards for course websites. A specification of the components that all course websites must have, as a minimum. I'm not a fan of the idea and the findings here further encourage those negative thoughts.
 
 The Webfuse default course sites were essentially a set of minimum standards that were automatically created for the staff member. Even created automatically, I feel that large parts of these course sites were not supported/used by academic staff.
 

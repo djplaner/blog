@@ -9,16 +9,16 @@ categories:
 date: 2009-06-21 10:42:49+10:00
 next:
   text: Lessons from process for university e-learning
-  url: /blog2/2009/06/21/lessons-from-process-for-university-e-learning/
+  url: /blog/2009/06/21/lessons-from-process-for-university-e-learning/
 previous:
   text: Learning and teaching processes
-  url: /blog2/2009/06/19/learning-and-teaching-processes/
+  url: /blog/2009/06/19/learning-and-teaching-processes/
 title: "The reason *insert label* talk about gurus is because they can\u2019t spell\
   \ the word charlatan"
 type: post
 template: blog-post.html
 ---
-A little while ago, I was sparked by [Dilbert](http://www.dilbert.com/) and my own prejudice against external consultants to contribute two posts ([1](/blog2/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/) and [2](/blog2/2009/05/24/continuing-to-bash-the-consultant-model/)) critical of the assumptions underlying the idea of and the contribution of such folk. In some thesis reading today, I came across this great quote the continues my basic assumption of the basic silliness of a reliance on external consultants.
+A little while ago, I was sparked by [Dilbert](http://www.dilbert.com/) and my own prejudice against external consultants to contribute two posts ([1](/blog/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/) and [2](/blog/2009/05/24/continuing-to-bash-the-consultant-model/)) critical of the assumptions underlying the idea of and the contribution of such folk. In some thesis reading today, I came across this great quote the continues my basic assumption of the basic silliness of a reliance on external consultants.
 
 > the reason American businessmen talk about gurus is because they can’t spell the word charlatan -- (Micklethwait & Wooldridge 1996:11)
 

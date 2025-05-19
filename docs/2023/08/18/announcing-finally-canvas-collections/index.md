@@ -5,10 +5,10 @@ coverImage: Collections-2.png
 date: 2023-08-18 12:19:47+10:00
 next:
   text: What now?
-  url: /blog2/2025/01/12/what-now/
+  url: /blog/2025/01/12/what-now/
 previous:
   text: Higher ed L&T's scale problem?
-  url: /blog2/2023/02/23/higher-ed-lts-scale-problem/
+  url: /blog/2023/02/23/higher-ed-lts-scale-problem/
 tags:
 - canvas
 - casa

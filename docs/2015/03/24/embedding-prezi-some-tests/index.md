@@ -4,10 +4,10 @@ categories:
 date: 2015-03-24 11:25:14+10:00
 next:
   text: My example assignment 1 web-based artefact
-  url: /blog2/2015/03/25/my-example-assignment-1-web-based-artefact/
+  url: /blog/2015/03/25/my-example-assignment-1-web-based-artefact/
 previous:
   text: Ways to raise visiblity of unit planning
-  url: /blog2/2015/03/23/ways-to-raise-visiblity-of-unit-planning/
+  url: /blog/2015/03/23/ways-to-raise-visiblity-of-unit-planning/
 tags:
 - edc3100
 title: Embedding prezi - some tests

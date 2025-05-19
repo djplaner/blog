@@ -4,10 +4,10 @@ categories:
 date: 2009-09-28 15:48:28+10:00
 next:
   text: '"e&#038;i report #4 - 15th to 29th September, 2009"'
-  url: /blog2/2009/09/29/ei-report-4-15th-to-29th-september-2009/
+  url: /blog/2009/09/29/ei-report-4-15th-to-29th-september-2009/
 previous:
   text: Reflection and moving on - herding cats and losing weight
-  url: /blog2/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/
+  url: /blog/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/
 title: Small changes in "Lectures" - ustream, votapedia
 type: post
 template: blog-post.html
@@ -56,7 +56,7 @@ My current institution is spread across many physical campuses - 100s and 1000s 
 
 In addition, a significant portion of our student body are distance education students. That is, they never set foot on a campus. These students cannot currently (in general) participate in these video-conference sessions. They can eventually view a recording, but they can't participate in the live session - both viewing and responding.
 
-In my [current role](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/, I want to play around with some technologies and practices that might help solve those problems.
+In my [current role](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/, I want to play around with some technologies and practices that might help solve those problems.
 
 ### Don't deny another's reality
 
@@ -102,7 +102,7 @@ As it turns out the local IT department think this is quite straight forward and
 
 #### Alternate clicker service
 
-I don't like the idea of clickers from publishers. Especially because they need all the students to be in the one room. I'm hoping to use an alternate service that enables anyone, anywhere to "use the clicker". At the moment, I'm thinking of using [Votapedia](http://www.votapedia.com/) as talked about on [this earlier post](/blog2/2009/06/30/alternative-to-clickers/).
+I don't like the idea of clickers from publishers. Especially because they need all the students to be in the one room. I'm hoping to use an alternate service that enables anyone, anywhere to "use the clicker". At the moment, I'm thinking of using [Votapedia](http://www.votapedia.com/) as talked about on [this earlier post](/blog/2009/06/30/alternative-to-clickers/).
 
 Currently, I'm seeing the clicker as the formal way I can encourage audience interaction during the presentation.
 

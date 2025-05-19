@@ -6,10 +6,10 @@ categories:
 date: 2008-12-22 10:03:39+10:00
 next:
   text: An introduction to Linux Systems administration - 1st and 4th editions
-  url: /blog2/2008/12/22/an-introduction-to-linux-systems-administration-4th-edition/
+  url: /blog/2008/12/22/an-introduction-to-linux-systems-administration-4th-edition/
 previous:
   text: Sunday (Dec 14) - Welcoming guests and Notre Dame
-  url: /blog2/2008/12/16/sunday-dec-14-welcoming-guests-and-notre-dame/
+  url: /blog/2008/12/16/sunday-dec-14-welcoming-guests-and-notre-dame/
 tags:
 - isdt-is
 title: It is official - a best publication for IS in 2007

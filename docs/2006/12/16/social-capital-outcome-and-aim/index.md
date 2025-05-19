@@ -6,10 +6,10 @@ categories:
 date: 2006-12-16 13:39:18+10:00
 next:
   text: Social capital, REACT, Trust - misc resources
-  url: /blog2/2006/12/19/social-capital-react-trust-misc-resources/
+  url: /blog/2006/12/19/social-capital-react-trust-misc-resources/
 previous:
   text: Adoption of innovations and the &quot;not invented here&quot; syndrome
-  url: /blog2/2006/12/16/adoption-of-innovations-and-the-not-invented-here-syndrome/
+  url: /blog/2006/12/16/adoption-of-innovations-and-the-not-invented-here-syndrome/
 title: Social capital - outcome and aim
 type: post
 template: blog-post.html

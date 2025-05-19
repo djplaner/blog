@@ -6,10 +6,10 @@ categories:
 date: 2008-12-16 00:48:50+10:00
 next:
   text: A night at Lassere
-  url: /blog2/2008/12/16/a-night-at-lassere/
+  url: /blog/2008/12/16/a-night-at-lassere/
 previous:
   text: Our first afternoon in Paris
-  url: /blog2/2008/12/15/our-first-afternoon-in-paris/
+  url: /blog/2008/12/15/our-first-afternoon-in-paris/
 title: The Dreyfus Model - From Novice to Expert
 type: post
 template: blog-post.html

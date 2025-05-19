@@ -4,10 +4,10 @@ categories:
 date: 2014-02-07 13:53:40+10:00
 next:
   text: Needed updates to cc_attrib.pl
-  url: /blog2/2014/02/15/needed-updates-to-cc_attrib-pl/
+  url: /blog/2014/02/15/needed-updates-to-cc_attrib-pl/
 previous:
   text: Identifying some immediate changes to BIM
-  url: /blog2/2014/02/05/identifying-some-immediate-changes-to-bim/
+  url: /blog/2014/02/05/identifying-some-immediate-changes-to-bim/
 title: BIM testing and fixes
 type: post
 template: blog-post.html
@@ -30,7 +30,7 @@ pingbacks:
       user_id: '0'
     
 ---
-A journal of fixes and testing of BIM. Aim here is to address some minor issues with integration with my current institution's Moodle instance thereby providing a minimum working version for installation. As per [yesterday's planning](/blog2/2014/02/05/identifying-some-immediate-changes-to-bim/) the hope is to make further changes based on this foundation.
+A journal of fixes and testing of BIM. Aim here is to address some minor issues with integration with my current institution's Moodle instance thereby providing a minimum working version for installation. As per [yesterday's planning](/blog/2014/02/05/identifying-some-immediate-changes-to-bim/) the hope is to make further changes based on this foundation.
 
 Result is a slightly tweaked version released [via Moodle contrib](https://moodle.org/plugins/pluginversions.php?plugin=mod_bim). This will be the foundation for some tweaks, though I can feel time slipping away.
 

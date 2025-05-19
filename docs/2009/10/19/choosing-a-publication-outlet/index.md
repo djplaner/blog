@@ -4,10 +4,10 @@ categories:
 date: 2009-10-19 09:12:19+10:00
 next:
   text: Alternate ways to get the real story in organisations
-  url: /blog2/2009/10/21/alternate-ways-to-get-the-real-story-in-organisations/
+  url: /blog/2009/10/21/alternate-ways-to-get-the-real-story-in-organisations/
 previous:
   text: Podcast for presentations at the PLEs &#038; PLNs symposium
-  url: /blog2/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/
+  url: /blog/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/
 tags:
 - era
 title: Choosing a research publication outlet
@@ -182,7 +182,7 @@ Most of these are selected from [this list](http://lamp.infosys.deakin.edu.au/er
 | A | [Journal of Higher Education](http://www.ohiostatepress.org/Journals/JHE/jhemain.htm) | 6 issues a year   Paper-based submission!!!   Max 30 pages, double-spaced   12 months submission to publication (usuaully)   closed |
 | A | [Teaching in Higher Education](http://www.tandf.co.uk/journals/titles/13562517.asp) | One aim of journal "identifies new agendas for research"   3K to 6K words   6 issues a year   closed |
 
-Coming out of that table, the [International Journal of Teaching and Learning in Higher Education](http://www.isetl.org/ijtlhe/) sounds interesting, at least for me. It's open access, shortish review times, promise of good feedback, has a couple of types of articles and is related to the scholarship of learning and teaching which is connection to an aspect of my [current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
+Coming out of that table, the [International Journal of Teaching and Learning in Higher Education](http://www.isetl.org/ijtlhe/) sounds interesting, at least for me. It's open access, shortish review times, promise of good feedback, has a couple of types of articles and is related to the scholarship of learning and teaching which is connection to an aspect of my [current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 
 ### Educational technology journals
 

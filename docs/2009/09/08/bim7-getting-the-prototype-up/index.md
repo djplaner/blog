@@ -4,15 +4,15 @@ categories:
 date: 2009-09-08 15:42:15+10:00
 next:
   text: How do you develop a cross-LMS usage comparison?
-  url: /blog2/2009/09/09/how-do-you-develop-a-cross-lms-usage-comparison/
+  url: /blog/2009/09/09/how-do-you-develop-a-cross-lms-usage-comparison/
 previous:
   text: Pedagogy - the centrality of the pedagogue and what they believe
-  url: /blog2/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/
+  url: /blog/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/
 title: '"BIM#7 - Getting the prototype up"'
 type: post
 template: blog-post.html
 ---
-[Last time](/blog2/2009/09/03/bim-6-learning-weblib-php/) I worked on [BIM](/blog2/research/bam-blog-aggregation-management/) I got to know weblib.php enough to get the first canned Moodle page generated. The [student details page](http://www.flickr.com/photos/david_jones/3882960287/) which lets the student see what BIM knows about their blog contributions for the current course.
+[Last time](/blog/2009/09/03/bim-6-learning-weblib-php/) I worked on [BIM](/blog/research/bam-blog-aggregation-management/) I got to know weblib.php enough to get the first canned Moodle page generated. The [student details page](http://www.flickr.com/photos/david_jones/3882960287/) which lets the student see what BIM knows about their blog contributions for the current course.
 
 The rationale for this prototype approach includes:
 
@@ -26,7 +26,7 @@ The aim today is to get more of the student view of BIM put into the prototype. 
 
 ### What the student will see
 
-An [earlier post](/blog2/2009/08/20/bim5-getting-a-prototype-bim-going/) gave some details of the various screens/operations different users would be doing with BIM. The following is a simple list of what I need to do with students:
+An [earlier post](/blog/2009/08/20/bim5-getting-a-prototype-bim-going/) gave some details of the various screens/operations different users would be doing with BIM. The following is a simple list of what I need to do with students:
 
 - the blog registration page;  
     

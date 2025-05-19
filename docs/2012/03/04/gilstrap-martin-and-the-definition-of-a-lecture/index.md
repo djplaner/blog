@@ -4,10 +4,10 @@ categories:
 date: 2012-03-04 12:12:55+10:00
 next:
   text: '"Implementing a course barometer in Moodle: A kludge"'
-  url: /blog2/2012/03/05/implementing-a-course-barometer-in-moodle-a-kludge/
+  url: /blog/2012/03/05/implementing-a-course-barometer-in-moodle-a-kludge/
 previous:
   text: Moodle, blogs, feeds and the Google feed API
-  url: /blog2/2012/03/03/moodle-blogs-feeds-and-the-google-feed-api/
+  url: /blog/2012/03/03/moodle-blogs-feeds-and-the-google-feed-api/
 title: Gilstrap, Martin and the definition of a lecture
 type: post
 template: blog-post.html
@@ -59,7 +59,7 @@ pingbacks:
     []
     
 ---
-A couple of weeks ago, I was [reflecting on something](/blog2/2012/02/17/but-does-it-have-to-be-a-lecture/) written about lectures when I paraphrased a definition/description of the lecture. I paraphrased it as
+A couple of weeks ago, I was [reflecting on something](/blog/2012/02/17/but-does-it-have-to-be-a-lecture/) written about lectures when I paraphrased a definition/description of the lecture. I paraphrased it as
 
 > A method for transferring the content of the lecturer’s paper to the paper of the students without it passing through the minds of either.
 

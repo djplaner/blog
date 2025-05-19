@@ -9,10 +9,10 @@ categories:
 date: 2009-07-27 12:08:04+10:00
 next:
   text: The intervention - Webfuse design 1996-1999
-  url: /blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/
+  url: /blog/2009/07/27/the-intervention-webfuse-design-1996-1999/
 previous:
   text: 'PhD update #18 - moving along'
-  url: /blog2/2009/07/26/phd-update-18-moving-along/
+  url: /blog/2009/07/26/phd-update-18-moving-along/
 title: Use of "e-learning" @ CQU up to 1996 (or so)
 type: post
 template: blog-post.html
@@ -50,7 +50,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the next completed (to a rough first draft stage) section of chapter 4 of my thesis. It follows on from [a post](/blog2/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) from yesterday that started defining the problem being faced. This section completes the definition of this problem by giving a broad summary of the use of "e-learning" at CQU up until 1996.
+The following is the next completed (to a rough first draft stage) section of chapter 4 of my thesis. It follows on from [a post](/blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) from yesterday that started defining the problem being faced. This section completes the definition of this problem by giving a broad summary of the use of "e-learning" at CQU up until 1996.
 
 Apologies to all those folk at CQU whose work I have not referenced. If you are such a person, please let me know what I've missed and I'll add your work in. You should be able to see a bias towards work from the Department of Mathematics and Computing which was the organisational unit I belonged to back then.
 

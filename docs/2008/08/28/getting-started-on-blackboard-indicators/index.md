@@ -6,10 +6,10 @@ categories:
 date: 2008-08-28 23:03:29+10:00
 next:
   text: Choosing your indicators - why, how and what
-  url: /blog2/2008/08/31/choosing-your-indicators-why-how-and-what/
+  url: /blog/2008/08/31/choosing-your-indicators-why-how-and-what/
 previous:
   text: Alternate foundations - the presentation
-  url: /blog2/2008/08/28/alternate-foundations-the-presentation/
+  url: /blog/2008/08/28/alternate-foundations-the-presentation/
 title: Getting started on Blackboard indicators
 type: post
 template: blog-post.html

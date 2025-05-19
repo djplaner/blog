@@ -5,10 +5,10 @@ categories:
 date: 2016-05-18 09:09:52+10:00
 next:
   text: Automating a SET leaderboard
-  url: /blog2/2016/05/23/automating-a-set-leaderboard/
+  url: /blog/2016/05/23/automating-a-set-leaderboard/
 previous:
   text: Organizing for Innovation in the Digitized world
-  url: /blog2/2016/05/16/organizing-for-innovation-in-the-digitized-world/
+  url: /blog/2016/05/16/organizing-for-innovation-in-the-digitized-world/
 title: Building a CASA for student evaluation of teaching results
 type: post
 template: blog-post.html
@@ -19,9 +19,9 @@ No. It's not that the results are terrible. Some are good, some not so much. (se
 
 [![Student comments - EDC3100](images/11955601644_11983dc7c0_n.jpg)](https://www.flickr.com/photos/david_jones/11955601644/in/album-72157629278697801/ "Student comments - EDC3100")
 
-The problem is that I (and every other academic at my institution) is unable to get access to the data in a form that we can analyse. For example, back in early 2014 I manually extracted the free text comments from the SET data and [analysed them using NVIVO](/blog2/2014/01/15/analysing-some-course-evaluation-comments/) to produce the graph to the right. Click on it to see a larger version. Yea, **manually**.
+The problem is that I (and every other academic at my institution) is unable to get access to the data in a form that we can analyse. For example, back in early 2014 I manually extracted the free text comments from the SET data and [analysed them using NVIVO](/blog/2014/01/15/analysing-some-course-evaluation-comments/) to produce the graph to the right. Click on it to see a larger version. Yea, **manually**.
 
-The following documents the development of what might be called [a kludge](https://en.wikipedia.org/wiki/Kludge) or a work around to this problem. Though being an academic I prefer to define and use my own term of [Context Appropriate Scaffolding Assemblage (CASA)](/blog2/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/#casa). Expect to hear a bit more about that.
+The following documents the development of what might be called [a kludge](https://en.wikipedia.org/wiki/Kludge) or a work around to this problem. Though being an academic I prefer to define and use my own term of [Context Appropriate Scaffolding Assemblage (CASA)](/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/#casa). Expect to hear a bit more about that.
 
 The aim is to produce a bit of technology that I can slot into my context that will scaffold my ability to perform a required task in a way that is appropriate. Rather than the current situation where performing the task requires stupid jumping through of unnecessary, manual hoops. Not to mention an organisational structure that over many years has been unable to see the need, let alone do something.
 

@@ -5,11 +5,11 @@ categories:
 date: 2012-02-10 09:07:56+10:00
 next:
   text: Are teacher preparation programs dangerously irrelevant?
-  url: /blog2/2012/02/16/are-teacher-preparation-programs-dangerously-irrelevant/
+  url: /blog/2012/02/16/are-teacher-preparation-programs-dangerously-irrelevant/
 previous:
   text: 'It&#039;s better at home: One contributor to why ICT integration in schools
     sucks'
-  url: /blog2/2012/02/07/its-better-at-home-one-contributor-to-why-ict-integration-in-schools-sucks/
+  url: /blog/2012/02/07/its-better-at-home-one-contributor-to-why-ict-integration-in-schools-sucks/
 title: How to replace the lecture?
 type: post
 template: blog-post.html
@@ -373,7 +373,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Almost 16 years ago I gave my first presentation at an academic conference. It was AusWeb'96 and I was talking to a paper titled ["Solving some problems of university education: A case study"](/blog2/publications/solving-some-problems-of-university-education-a-case-study/). I started out my presentation with "Lectures suck!".
+Almost 16 years ago I gave my first presentation at an academic conference. It was AusWeb'96 and I was talking to a paper titled ["Solving some problems of university education: A case study"](/blog/publications/solving-some-problems-of-university-education-a-case-study/). I started out my presentation with "Lectures suck!".
 
 [![Some additional encouragement to study](images/3088525939_eff7642583_m.jpg)](http://www.flickr.com/photos/david_jones/3088525939/ "Some additional encouragement to study by David T Jones, on Flickr") I proceeded to explain why I thought that, especially in my context of a course with 26 students on-campus and 62 off-campus. Including Allen in Cyprus (see the photo).
 
@@ -391,7 +391,7 @@ This should not be taken as a criticism of the folk who have taught the case bef
 
 All of the infrastructure, software, policies and expectations at a university are based around lectures and tutorials. You can't get fired for giving a lecture. You can annoy an awful lot of students by not meeting their expectations of a lecture.
 
-Which is not a reason to do avoid this, but it is a reason to weigh up the effort required against the other requirements of being an academic and having a family. e.g. 16 years ago when I did the [first transformation](/blog2/publications/computing-by-distance-education-problems-and-solutions/) I was single. I now have a wife and three kids.
+Which is not a reason to do avoid this, but it is a reason to weigh up the effort required against the other requirements of being an academic and having a family. e.g. 16 years ago when I did the [first transformation](/blog/publications/computing-by-distance-education-problems-and-solutions/) I was single. I now have a wife and three kids.
 
 Having the time and energy to adopt any transformation is going to be a factor.
 

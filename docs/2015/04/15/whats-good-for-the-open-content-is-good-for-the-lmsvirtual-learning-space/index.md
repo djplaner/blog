@@ -8,10 +8,10 @@ categories:
 date: 2015-04-15 10:15:12+10:00
 next:
   text: Where does the LMS sit in the reusability paradox
-  url: /blog2/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
+  url: /blog/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/
 previous:
   text: Starting the &quot;Moodle open book&quot; project
-  url: /blog2/2015/04/13/starting-the-moodle-open-book-project/
+  url: /blog/2015/04/13/starting-the-moodle-open-book-project/
 title: What's good for "open content" is good for the LMS/virtual learning space?
 type: post
 template: blog-post.html
@@ -89,13 +89,13 @@ Perhaps the most regularly complaint from certain circles is that the LMS is not
 
 But recently there has been another trend in institutions that have been making the LMS even less open. Many institutions are now mandating consistent, minimum standards for all courses hosted in the LMS. At my current institution that has translated into the virtual learning space for a course having to look a specific way and more troubling to use specific locally produced tools (e.g. a particular way for presenting assessment information and a study schedule).
 
-What's worse is that this mandated consistent set of minimum standards is being seen through the lens of an ["established" view of technology](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#affordances). That you can't and shouldn't change the technology. In fact, if you do change the technology you are seen as breaking policy and are required to "please explain" (as has happened to me this year).
+What's worse is that this mandated consistent set of minimum standards is being seen through the lens of an ["established" view of technology](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#affordances). That you can't and shouldn't change the technology. In fact, if you do change the technology you are seen as breaking policy and are required to "please explain" (as has happened to me this year).
 
 In some large part this type of thinking to me is an example of this quote from [Bret Victor](http://www.makingthings.io/were-computer-users-thinking-paper-thoughts/)
 
 > We're computer users thinking paper thoughts
 
-The mandating of consistent, minimum standards for all courses in an LMS gives me a strong sense of a deja vu for the bad old days of 2nd generation print-based distance education. The days when all the distance education courses for a University had to use the same style guide, even if it [broke all the Prolog code](/blog2/publications/computing-by-distance-education-problems-and-solutions/#fields) in the Machine Intelligence material. Mandating consistent, minimum standards for all courses in the LMS is "computer users thinking paper thoughts".
+The mandating of consistent, minimum standards for all courses in an LMS gives me a strong sense of a deja vu for the bad old days of 2nd generation print-based distance education. The days when all the distance education courses for a University had to use the same style guide, even if it [broke all the Prolog code](/blog/publications/computing-by-distance-education-problems-and-solutions/#fields) in the Machine Intelligence material. Mandating consistent, minimum standards for all courses in the LMS is "computer users thinking paper thoughts".
 
 It's an example of people not understanding what's really different about computers and digital media. Mike Caufield [makes this point](http://hapgood.us/2015/03/26/paper-thoughts-and-the-remix-hypothesis/)
 
@@ -120,11 +120,11 @@ I'm thinking that the LMS - or any other institutional virtual learning space - 
     
 4. Remix - to recombine the original and revised data, experiences, and perhaps affordances in other ways, in this space, and other spaces.
     
-    e.g. take LMS data and data from the student records system to develop a ["learning process analytics" tool](/blog2/2015/01/23/adding-some-learning-process-analytics-to-edc3100/) used in the course.
+    e.g. take LMS data and data from the student records system to develop a ["learning process analytics" tool](/blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/) used in the course.
     
 5. Redistribute - the data, experiences, and perhaps affordances in other ways, in this space, and other spaces.
     
-    e.g. the [idea of a tool](/blog2/the-moodle-open-book-module-project/) that allows the learning material in my course to be re-purposed as an open book.
+    e.g. the [idea of a tool](/blog/the-moodle-open-book-module-project/) that allows the learning material in my course to be re-purposed as an open book.
     
 
 Should/can the virtual learning spaces be open in terms of the 5Rs? How might this be done? What problems/benefits might accrue?

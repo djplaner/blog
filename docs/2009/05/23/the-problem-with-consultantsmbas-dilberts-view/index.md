@@ -4,10 +4,10 @@ categories:
 date: 2009-05-23 07:34:26+10:00
 next:
   text: Continuing to bash the consultant model
-  url: /blog2/2009/05/24/continuing-to-bash-the-consultant-model/
+  url: /blog/2009/05/24/continuing-to-bash-the-consultant-model/
 previous:
   text: 'Phd Update #12 - some progress, but late'
-  url: /blog2/2009/05/23/phd-update-12-some-progress-but-late/
+  url: /blog/2009/05/23/phd-update-12-some-progress-but-late/
 title: The problem with consultants/MBAs - Dilbert's view
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In [recent post](/blog2/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/) I eventually made some disparaging comments about consultants and what they do. Like many, I believe that the idea that they know the solution when they have little or no idea appreciation of the complexity of the context and believe that they can overcome this because their "special" knowledge is somehow universally applicable, is just plain silly and is the source of most of the problems they create.
+In [recent post](/blog/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/) I eventually made some disparaging comments about consultants and what they do. Like many, I believe that the idea that they know the solution when they have little or no idea appreciation of the complexity of the context and believe that they can overcome this because their "special" knowledge is somehow universally applicable, is just plain silly and is the source of most of the problems they create.
 
 I also believe that the practice of staff development, instructional design and associated professions around improving learning and teaching at Universities can suffer from exactly the same flaws. It's become so obvious that some organisations are using the terms "consultant" or "consultation" to describe what these folk do.
 

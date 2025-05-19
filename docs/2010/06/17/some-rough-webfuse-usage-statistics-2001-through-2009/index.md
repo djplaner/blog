@@ -10,10 +10,10 @@ categories:
 date: 2010-06-17 14:09:47+10:00
 next:
   text: Further analysis of wf application usage
-  url: /blog2/2010/06/18/further-analysis-of-wf-application-usage/
+  url: /blog/2010/06/18/further-analysis-of-wf-application-usage/
 previous:
   text: Academics, course websites and power laws
-  url: /blog2/2010/06/14/academics-course-websites-and-power-laws/
+  url: /blog/2010/06/14/academics-course-websites-and-power-laws/
 title: Some rough Webfuse usage statistics - 2001 through 2009
 type: post
 template: blog-post.html
@@ -37,7 +37,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In terms of the [thesis](/blog2/research/phd-thesis/), my current focus is on chapter 5. This chapter seeks to describe what we did from 2000 through 2004 and beyond. I'm currently working on the evaluation section, a major component of the evaluation is looking at the usage statistics of Webfuse during this period. It's slow going and there is still a fair bit of analysis to go, but some initial figures are available.
+In terms of the [thesis](/blog/research/phd-thesis/), my current focus is on chapter 5. This chapter seeks to describe what we did from 2000 through 2004 and beyond. I'm currently working on the evaluation section, a major component of the evaluation is looking at the usage statistics of Webfuse during this period. It's slow going and there is still a fair bit of analysis to go, but some initial figures are available.
 
 ### What analysis has been done?
 
@@ -91,7 +91,7 @@ There needs to be more analysis on this data:
 
 ### Wf applications
 
-One of the major developments in Webfuse from 1999/2000 was the development [of the Wf framework](/blog2/2010/06/07/the-wf-framework/) which provided the basis for "Webfuse" interactive web applications. There were a broad array of very different applications - ranging from a course barometer and BAM, through to an institutional academic misconduct system - that were implemented with this framework.
+One of the major developments in Webfuse from 1999/2000 was the development [of the Wf framework](/blog/2010/06/07/the-wf-framework/) which provided the basis for "Webfuse" interactive web applications. There were a broad array of very different applications - ranging from a course barometer and BAM, through to an institutional academic misconduct system - that were implemented with this framework.
 
 The following graph (click on it to make it bigger) summarises requests for these application. The 2009 figure of 6M+ requests, is a bit suspect and requires greater analysis (Further analysis reveals a lot of 401s - the real figure is just over 2M).
 

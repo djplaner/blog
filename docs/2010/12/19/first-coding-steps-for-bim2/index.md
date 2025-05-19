@@ -5,10 +5,10 @@ categories:
 date: 2010-12-19 12:17:29+10:00
 next:
   text: Problems with naming of bim2
-  url: /blog2/2010/12/19/problems-with-naming-of-bim2/
+  url: /blog/2010/12/19/problems-with-naming-of-bim2/
 previous:
   text: A solution for BIM and special characters?
-  url: /blog2/2010/12/10/a-solution-for-bim-and-special-characters/
+  url: /blog/2010/12/10/a-solution-for-bim-and-special-characters/
 title: First coding steps for bim2
 type: post
 template: blog-post.html

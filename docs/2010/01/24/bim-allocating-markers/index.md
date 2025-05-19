@@ -4,10 +4,10 @@ categories:
 date: 2010-01-24 09:38:32+10:00
 next:
   text: Increasing weak ties, not strong - improving learning and teaching
-  url: /blog2/2010/01/26/increasing-weak-ties-not-strong-improving-learning-and-teaching/
+  url: /blog/2010/01/26/increasing-weak-ties-not-strong-improving-learning-and-teaching/
 previous:
   text: Thoughts on DEHub research themes
-  url: /blog2/2010/01/22/thoughts-on-dehub-research-themes/
+  url: /blog/2010/01/22/thoughts-on-dehub-research-themes/
 title: BIM - Allocating markers
 type: post
 template: blog-post.html

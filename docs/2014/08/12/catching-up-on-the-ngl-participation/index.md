@@ -4,10 +4,10 @@ categories:
 date: 2014-08-12 20:45:57+10:00
 next:
   text: Feeling left out of the conversation
-  url: /blog2/2014/08/14/feeling-left-out-of-the-conversation/
+  url: /blog/2014/08/14/feeling-left-out-of-the-conversation/
 previous:
   text: Resilience and other implications of technological changes
-  url: /blog2/2014/08/12/resilience-and-other-implications/
+  url: /blog/2014/08/12/resilience-and-other-implications/
 title: Catching up on the NGL participation
 type: post
 template: blog-post.html

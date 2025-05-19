@@ -6,10 +6,10 @@ categories:
 date: 2012-06-30 11:11:05+10:00
 next:
   text: '"Why do (social) networks matter in teaching &#038; learning?"'
-  url: /blog2/2012/07/07/why-do-social-networks-matter-in-teaching-learning/
+  url: /blog/2012/07/07/why-do-social-networks-matter-in-teaching-learning/
 previous:
   text: People and e-learning - limitations and an alternative
-  url: /blog2/2012/06/29/people-and-e-learning-limitations-and-an-alternative/
+  url: /blog/2012/06/29/people-and-e-learning-limitations-and-an-alternative/
 title: Reducing meaningless freedom and a Mahara feature request
 type: post
 template: blog-post.html
@@ -105,6 +105,6 @@ Then there is the whole robustness versus resilience perspective as argued by [D
 
 ### References
 
-Jones, D., & Jamieson, B. (1997). [Three Generations of Online Assignment Management](/blog2/publications/three-generations-of-online-assignment-management/). In R. Kevill, R. Oliver, & R. Phillips (Eds.), (pp. 317-323). Perth, Australia.
+Jones, D., & Jamieson, B. (1997). [Three Generations of Online Assignment Management](/blog/publications/three-generations-of-online-assignment-management/). In R. Kevill, R. Oliver, & R. Phillips (Eds.), (pp. 317-323). Perth, Australia.
 
-Jones, D. (1999). [Solving some problems with university education: Part II.](/blog2/publications/solving-some-problems-with-university-education-part-ii/), Proceedings of AUSWEB'99, Balina, Australia.
+Jones, D. (1999). [Solving some problems with university education: Part II.](/blog/publications/solving-some-problems-with-university-education-part-ii/), Proceedings of AUSWEB'99, Balina, Australia.

@@ -4,10 +4,10 @@ categories:
 date: 2006-10-03 10:33:39+10:00
 next:
   text: A limitation of the Wefuse implementation
-  url: /blog2/2006/10/03/a-limitation-of-the-wefuse-implementation/
+  url: /blog/2006/10/03/a-limitation-of-the-wefuse-implementation/
 previous:
   text: Enterprises - do they need to &quot;let go&quot;?
-  url: /blog2/2006/10/03/enterprises-do-they-need-to-let-go/
+  url: /blog/2006/10/03/enterprises-do-they-need-to-let-go/
 title: Web 2.0 and the enterprise
 type: post
 template: blog-post.html

@@ -4,10 +4,10 @@ categories:
 date: 2013-10-09 18:05:12+10:00
 next:
   text: Strategies for curriculum mapping and data collection for assuring learning
-  url: /blog2/2013/10/10/strategies-for-curriculum-mapping-and-data-collection-for-assuring-learning/
+  url: /blog/2013/10/10/strategies-for-curriculum-mapping-and-data-collection-for-assuring-learning/
 previous:
   text: Dissenting views of institutional e-learning
-  url: /blog2/2013/10/09/dissenting-views-of-institutional-e-learning/
+  url: /blog/2013/10/09/dissenting-views-of-institutional-e-learning/
 title: Technology-enhanced learning - workloads and costs
 type: post
 template: blog-post.html

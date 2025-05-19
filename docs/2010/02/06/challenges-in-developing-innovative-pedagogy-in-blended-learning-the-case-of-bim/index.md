@@ -5,10 +5,10 @@ categories:
 date: 2010-02-06 10:46:14+10:00
 next:
   text: BIM - backup and restore
-  url: /blog2/2010/02/07/bim-backup-and-restore/
+  url: /blog/2010/02/07/bim-backup-and-restore/
 previous:
   text: 'BIM - Tidy up #4 - Getting ready for user testing'
-  url: /blog2/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
+  url: /blog/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
 title: '"Challenges in developing innovative pedagogy in blended learning: The case
   of BIM"'
 type: post
@@ -46,7 +46,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the start of a process for developing a paper that I plan to submit to [Moodlemoot AU 2010](http://moodlemoot.org.au/) based on my recent experience in developing [BIM](/blog2/research/bam-blog-aggregation-management/). The plan is to:
+The following is the start of a process for developing a paper that I plan to submit to [Moodlemoot AU 2010](http://moodlemoot.org.au/) based on my recent experience in developing [BIM](/blog/research/bam-blog-aggregation-management/). The plan is to:
 
 - Write a series of blog posts based on very rough ideas for the paper (this is the first).
 - Bring those together into a presentation that will be given [at CQU](http://www.cqu.edu.au/) under the banner of [LTERC](http://www.cqu.edu.au/lterc/) and, if I can overcome some local barriers, ustream'd.
@@ -108,7 +108,7 @@ Some of the challenges include:
     Offering support for the local context is also part of this. Most institutions have their own names or terms that arise out of how things are done in that context. Most LMS use a generic term, usually based on the terms used by the folk who designed it. This mismatch can make it more difficult.
     
 - Processes that place the focus on the top-down, analytical, inductive and deductive, which are inappropriate for the nature of the problem.  
-    Alternatives include [ateleological processes](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/), bricolage (especially in terms of [Papert - education](http://en.wikipedia.org/wiki/Bricolage#Education) - and [Ciborra - information systems](http://en.wikipedia.org/wiki/Bricolage#Information_systems)) and [abductive logic](http://tesugen.com/archives/05/08/inductive-deductive-abductive).
+    Alternatives include [ateleological processes](/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/), bricolage (especially in terms of [Papert - education](http://en.wikipedia.org/wiki/Bricolage#Education) - and [Ciborra - information systems](http://en.wikipedia.org/wiki/Bricolage#Information_systems)) and [abductive logic](http://tesugen.com/archives/05/08/inductive-deductive-abductive).
 
 ### The literature
 

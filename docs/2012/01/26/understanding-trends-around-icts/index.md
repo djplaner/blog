@@ -5,10 +5,10 @@ categories:
 date: 2012-01-26 14:52:39+10:00
 next:
   text: Models of Teacher PD  for ICT integration
-  url: /blog2/2012/01/30/models-of-teacher-pd-for-ict-integration/
+  url: /blog/2012/01/30/models-of-teacher-pd-for-ict-integration/
 previous:
   text: Reflections on understanding context
-  url: /blog2/2012/01/23/reflections-on-understanding-context/
+  url: /blog/2012/01/23/reflections-on-understanding-context/
 title: Understanding trends around ICTs
 type: post
 template: blog-post.html
@@ -85,7 +85,7 @@ Surely a fixed curriculum, especially one set at a national level, is to difficu
 
 ### The need for design theories
 
-My [thesis](/blog2/research/phd-thesis/) contribution was the formulation of a design theory. A type of theory increasingly accepted within the Information Systems discipline, in no small part due to the work my PhD supervisor on the nature of theory (Gregor, 2006). A design theory is described as giving explicit prescriptions in terms of methods, techniques, principles of form and function. i.e. a design theory says how to do something. This is seen as important in information systems (IS) as IS is largely about building systems. Knowing how to do it is important.
+My [thesis](/blog/research/phd-thesis/) contribution was the formulation of a design theory. A type of theory increasingly accepted within the Information Systems discipline, in no small part due to the work my PhD supervisor on the nature of theory (Gregor, 2006). A design theory is described as giving explicit prescriptions in terms of methods, techniques, principles of form and function. i.e. a design theory says how to do something. This is seen as important in information systems (IS) as IS is largely about building systems. Knowing how to do it is important.
 
 I have some interest in thinking about Shirley's taxonomy of theory types (Gregor, 2006) and how it applies to education. After all, from one perspective education is about how to build learning environments, experiences etc. With the rise of ICTs and the "new digital world" it seems that "how" questions are becoming increasingly important. The text reinforces that perspective by continually repeating that it's no longer a question of whether or not ICTs should be used in learning and teaching, but rather how to do it effectively.
 

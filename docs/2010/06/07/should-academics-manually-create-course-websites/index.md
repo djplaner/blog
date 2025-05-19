@@ -7,10 +7,10 @@ categories:
 date: 2010-06-07 20:36:24+10:00
 next:
   text: Course websites and "libertarian paternalism"
-  url: /blog2/2010/06/08/course-websites-and-libertarian-paternalism/
+  url: /blog/2010/06/08/course-websites-and-libertarian-paternalism/
 previous:
   text: Default course sites and wizards
-  url: /blog2/2010/06/07/default-course-sites-and-wizards/
+  url: /blog/2010/06/07/default-course-sites-and-wizards/
 title: Should academics manually create course websites?
 type: post
 template: blog-post.html
@@ -139,11 +139,11 @@ pingbacks:
       user_id: '0'
     
 ---
-(There is a response/attempted clarification to [comments](http://www.downes.ca/cgi-bin/page.cgi?post=52617) on the following by Stephen Downes in [another post](/blog2/2010/06/08/course-websites-and-libertarian-paternalism/))
+(There is a response/attempted clarification to [comments](http://www.downes.ca/cgi-bin/page.cgi?post=52617) on the following by Stephen Downes in [another post](/blog/2010/06/08/course-websites-and-libertarian-paternalism/))
 
 The focus of the following is not the "evil" LMS. That's another argument, and I agree with much of it. The question here assumes that your university is going to use, or even require the use of, an LMS. Given that, should the institution expect or even allow academics to manually create course websites in the LMS?
 
-This question arises out of my [last post](/blog2/2010/06/07/default-course-sites-and-wizards/) reflecting back on some decisions made back in 2000/2001 and how that compares to existing common practice. Especially in connection with Mark Smither's recent [problems with MOPPS](http://www.masmithers.com/2010/05/16/the-problem-with-mopps/) post.
+This question arises out of my [last post](/blog/2010/06/07/default-course-sites-and-wizards/) reflecting back on some decisions made back in 2000/2001 and how that compares to existing common practice. Especially in connection with Mark Smither's recent [problems with MOPPS](http://www.masmithers.com/2010/05/16/the-problem-with-mopps/) post.
 
 Back in 2000/2001 the Webfuse system answered this question with a no. Staff could still create their own site, but a default course site was automatically created for all sites. Academics could further modify this default course site, but the didn't have to create it.
 
@@ -153,7 +153,7 @@ What do you think? Are there institutions that don't expect this? What do they d
 
 ### It is Inefficient
 
-A long time ago, I used to teach Systems Administration. One of the lessons we tried to teach in Systems Administration was "if you do something more than once, automate it". I [recently had to](/blog2/2010/06/02/the-design-of-a-moodle-course-site/) create a Moodle course site from scratch. It was a simple (some might argue simplistic) site, by no means stretching the capabilities of Moodle. But creating even this simple site, I found annoying and inefficient.
+A long time ago, I used to teach Systems Administration. One of the lessons we tried to teach in Systems Administration was "if you do something more than once, automate it". I [recently had to](/blog/2010/06/02/the-design-of-a-moodle-course-site/) create a Moodle course site from scratch. It was a simple (some might argue simplistic) site, by no means stretching the capabilities of Moodle. But creating even this simple site, I found annoying and inefficient.
 
 The site used the weekly Moodle format and had 10-12 weeks. Each week basically followed the same structure: a pointer to the study guide chapter for that week, a pointer to a discussion forum specific to that week, a reminder to complete a journal entry for the week, and occasionally a reminder for another assessment item. This means that to create the course site I was essentially repeating the same steps for each week. I had to perform the same steps with the Moodle web interface for each week.
 
@@ -196,4 +196,4 @@ What's worse, is if the institution then decides that those minimum standards ha
 
 ### One solution
 
-[This post](/blog2/2010/06/07/default-course-sites-and-wizards/) briefly describes the alternative that was implemented within the Webfuse system in 2001 and also a prior aborted attempt.
+[This post](/blog/2010/06/07/default-course-sites-and-wizards/) briefly describes the alternative that was implemented within the Webfuse system in 2001 and also a prior aborted attempt.

@@ -6,17 +6,17 @@ date: 2020-08-15 11:10:05+10:00
 next:
   text: Reflections on "How learning design systems can help scale and accelerate
     learning design"
-  url: /blog2/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/
+  url: /blog/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/
 previous:
   text: Visualising and pruning my Memex
-  url: /blog2/2020/08/09/visualising-and-pruning-my-memex/
+  url: /blog/2020/08/09/visualising-and-pruning-my-memex/
 title: Supporting the design of discipline-specific digital learning activities
 type: post
 template: blog-post.html
 ---
 It's widely accepted that the most important part of learning and teaching is **what the student does** (Biggs, 2012). The spaces, tools and tasks in and through which students "do stuff" (i.e. learning, or not) are in some way designed by a teacher with subsequent learner adaptation (Goodyear, 2020).
 
-Designing learning spaces, tools and tasks is not easy. Especially when digital technologies are involved. The [low digital fluency of teachers](/blog2/2014/09/12/you-want-digitally-fluent-faculty/) is seen as a (for some **the**) significant challenge (Johnson et al, 2014). Hence the big focus on solutions such as requiring all teachers to have a formal teaching qualification. Formal "certification" programs such as the HEA. Or the focus on running workshops and producing online "how-to" support material. The focus on teacher knowledge tends to ignore the distributed and contextual nature of the knowledge required. It doesn't just reside in the heads of the teachers but is distributed amongst the other agents (people, technologies, policies etc) in the institutional learning and teaching system (Jones et al, 2015).
+Designing learning spaces, tools and tasks is not easy. Especially when digital technologies are involved. The [low digital fluency of teachers](/blog/2014/09/12/you-want-digitally-fluent-faculty/) is seen as a (for some **the**) significant challenge (Johnson et al, 2014). Hence the big focus on solutions such as requiring all teachers to have a formal teaching qualification. Formal "certification" programs such as the HEA. Or the focus on running workshops and producing online "how-to" support material. The focus on teacher knowledge tends to ignore the distributed and contextual nature of the knowledge required. It doesn't just reside in the heads of the teachers but is distributed amongst the other agents (people, technologies, policies etc) in the institutional learning and teaching system (Jones et al, 2015).
 
 When knowledge is distributed, it is also situated and highly contextual. As such, knowing the details of any learning and teaching model or theory [has value](https://petergoodyear.net/2020/07/29/working-with-the-universities-we-have-not-the-universities-we-wish-we-had/) still has to be translated into the design of learning activities within a specific learning and teaching context. The model's suggestions needs to be adapted and customised to the specifics of the learning activity, including the specific discipline, the specific digital technologies, the specific institutional policies, the specific student cohort etc. This is hard and I don't know of any institution that is helping meaningfully and sustainably make this problem easier in contextually and discipline specific ways.
 
@@ -86,7 +86,7 @@ Option #3 illustrating what happens when the institution can't provide access to
 
 ### Teacher perspective
 
-Currently the _Film Watching Options_ feature is implemented as part of the [Content Interface](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) a [Contextually Appropriate Scaffolding Assemblages (CASA)](https://djplaner.github.io/memex/sense/casa) approach to using Microsoft Word to create and maintain course content. In this context, the teacher designing this learning space sees the following Word document when authoring. Notice the similarity between the Word document in the above below and the web page in the image above?
+Currently the _Film Watching Options_ feature is implemented as part of the [Content Interface](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) a [Contextually Appropriate Scaffolding Assemblages (CASA)](https://djplaner.github.io/memex/sense/casa) approach to using Microsoft Word to create and maintain course content. In this context, the teacher designing this learning space sees the following Word document when authoring. Notice the similarity between the Word document in the above below and the web page in the image above?
 
 ![Word document with Film Watching Options](images/filmWatchOptionsWord.png)
 
@@ -124,7 +124,7 @@ When a learner views this page the _Content Interface_ will find all the **filmW
 
 Implementation within the Content Interface needs to be refined a touch. In particular, a lot more attention needs to be paid to figuring out if and how this approach can better help teachers answer question #4 above - How well did those films/activities work and what do I need to change for next time?
 
-Longer term, I think there's significant benefit from being gained implementing this type of approach using unbundled web components. Meaning I have to find time to engage with @btopro's [advice](/blog2/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/#comment-18263) on learning more about web components.
+Longer term, I think there's significant benefit from being gained implementing this type of approach using unbundled web components. Meaning I have to find time to engage with @btopro's [advice](/blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/#comment-18263) on learning more about web components.
 
 ## Early implications
 
@@ -160,7 +160,7 @@ Goodyear, P. (2020). Design and co-configuration for hybrid learning: Theorising
 
 Johnson, L., Adams Becker, S., Estrada, V., & Freeman, A. (2014). _NMC Horizon Report: 2014 Higher Education Edition_ (No. 9780989733557). [http://www.nmc.org/publications/2014-horizon-report-higher-ed](http://www.nmc.org/publications/2014-horizon-report-higher-ed)
 
-Jones, D., Stewart, S., & Power, L. (1999). Patterns: Using Proven Experience to Develop Online Learning. _Proceedings of ASCILITE'1999_. [/blog2/publications/patterns-using-proven-experience-to-develop-online-learning/](/blog2/publications/patterns-using-proven-experience-to-develop-online-learning/)
+Jones, D., Stewart, S., & Power, L. (1999). Patterns: Using Proven Experience to Develop Online Learning. _Proceedings of ASCILITE'1999_. [/blog/publications/patterns-using-proven-experience-to-develop-online-learning/](/blog/publications/patterns-using-proven-experience-to-develop-online-learning/)
 
 Jones, D., Heffernan, A., & Albion, P. R. (2015). TPACK as shared practice: Toward a research agenda. In D. Slykhuis & G. Marks (Eds.), _Proceedings of Society for Information Technology & Teacher Education International Conference 2015_ (pp. 3287--3294). AACE. [http://www.editlib.org/p/150454/](http://www.editlib.org/p/150454/)
 

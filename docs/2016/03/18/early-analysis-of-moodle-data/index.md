@@ -6,10 +6,10 @@ date: 2016-03-18 06:10:59+10:00
 next:
   text: '"OEP and Initial Teacher Education: Moving on from the horsey, horseless
     carriage"'
-  url: /blog2/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/
+  url: /blog/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/
 previous:
   text: Setting up an Excel checklist
-  url: /blog2/2016/03/10/setting-up-an-excel-checklist/
+  url: /blog/2016/03/10/setting-up-an-excel-checklist/
 tags:
 - learninganalytics
 title: Early analysis of Moodle data

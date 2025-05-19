@@ -4,10 +4,10 @@ categories:
 date: 2009-06-09 14:50:26+10:00
 next:
   text: An ill-informed observation on connectivism and other learning theories
-  url: /blog2/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
+  url: /blog/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
 previous:
   text: University processes - management and planning
-  url: /blog2/2009/06/08/university-processes-management-and-planning/
+  url: /blog/2009/06/08/university-processes-management-and-planning/
 title: You only get this type of education in class - mythic attributes of the lecture
 type: post
 template: blog-post.html
@@ -214,7 +214,7 @@ pingbacks:
 ---
 > All the brilliant breakthroughs in modern medicine and in communication technologies have developed via this process. You only get this type of education in class. -- [Professor Tor Hundloe](http://pipl.com/directory/people/Tor/Hundloe)
 
-It seems the Sunday Mail is mining the minor vein of controversy gold provided by the "online lecture" movement. Last week [I posted](/blog2/2009/06/02/attending-lectures-is-old-school-what-else-is/) about an article that suggested that attending lectures was old school. i.e. that students weren't going to face-to-face lectures because they are available online. The above quote comes from another article (Fraser, 2009) in the most recent issue of this Sunday paper.
+It seems the Sunday Mail is mining the minor vein of controversy gold provided by the "online lecture" movement. Last week [I posted](/blog/2009/06/02/attending-lectures-is-old-school-what-else-is/) about an article that suggested that attending lectures was old school. i.e. that students weren't going to face-to-face lectures because they are available online. The above quote comes from another article (Fraser, 2009) in the most recent issue of this Sunday paper.
 
 The article is built around the forthright opinions of Emeritus Professor Tor Hundloe. Opinions which support the newspaper's previous line that "online lectures" were bad for attendance and that the move by universities towards increasing their availability should be stopped. In this case
 
@@ -236,7 +236,7 @@ Originally, this post was going to have a bit of a laugh at this out-moded/limit
 
 ### Face-to-face teaching: the best and only way to teach
 
-Way back in 1996, as a very early career academic in information technology, I traveled to Barcelona for my first [ACM SIGCSE](http://www.sigcse.org/) conference to present [this paper](/blog2/publications/computing-by-distance-education-problems-and-solutions/) (Jones, 1996) about teaching university level information technology courses by distance education. The conference was essentially North American and while there were a sprinkling of folk from outside the USA, the predominant population were academics for US universities.
+Way back in 1996, as a very early career academic in information technology, I traveled to Barcelona for my first [ACM SIGCSE](http://www.sigcse.org/) conference to present [this paper](/blog/publications/computing-by-distance-education-problems-and-solutions/) (Jones, 1996) about teaching university level information technology courses by distance education. The conference was essentially North American and while there were a sprinkling of folk from outside the USA, the predominant population were academics for US universities.
 
 One of the major differences of this conference from other conferences was the presence of [working groups](http://www.cs.utexas.edu/users/csed/iticse/iticse96/) who met before, during and after the conference to work on a specific report that was then published. During the conference each working group would present "progress report" posters on what they were doing. This was a great, though often frustrating experience (the 1996 conference was the first time they did it), that helped forge a [collaboration](http://www.amazon.com/Building-Web-Based-Education-System-McCormack/dp/0471191620/ref=sr_1_1?ie=UTF8&s=books&qid=1244507562&sr=8-1) between myself and an Irish colleague.
 
@@ -264,7 +264,7 @@ Along similar lines, what do you do when technology comes along? Powerpoint? Non
 
 ### Mythic aspects of technology
 
-Which brings me to [Postman's 5 things to know about technological change](/blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/) (a copy of the [original is available](http://www.mat.upm.es/~jcm/neil-postman--five-things.html)) and in particular #5
+Which brings me to [Postman's 5 things to know about technological change](/blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/) (a copy of the [original is available](http://www.mat.upm.es/~jcm/neil-postman--five-things.html)) and in particular #5
 
 > Technology becomes mythic, it becomes seen as part of the natural order of things.
 
@@ -323,7 +323,7 @@ There are folk doing different things. The first one is [Carleton University's](
 
 What I like about this application of technology is that it starts to increase the participation of the consumer. But not by having the producer change what they do. This approach allows the consumer to do things without the control of the producer, it's a move towards creating the lecture as a "Web 2.0 object" that allows others to play.
 
-What troubles me about this approach is that it is a ["one ring to rule them all"](/blog2/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/) product model. The manipulation of the lecture and sharing of those manipulations is still only possible within the one system. There's still some constraint. There's also the problem that most of the lectures are still being originally given within the institution's original lecture theatres and subsequently suffers the same limitations - they can only be created one a room is free, they can only last for a multiple of an hour etc.
+What troubles me about this approach is that it is a ["one ring to rule them all"](/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/) product model. The manipulation of the lecture and sharing of those manipulations is still only possible within the one system. There's still some constraint. There's also the problem that most of the lectures are still being originally given within the institution's original lecture theatres and subsequently suffers the same limitations - they can only be created one a room is free, they can only last for a multiple of an hour etc.
 
 I've been wondering if it's possible to start doing this sort of thing with a more social media/Edupunk ethos. An approach that enables, when appropriate, for more of the mythic assumptions of the lecture to be broken. An approach that loosely couples a range of common technologies in appropriate, participant led and emergent ways.
 
@@ -354,7 +354,7 @@ However, my experience over the last 10 years has reinforced that attempting to 
 
 In addition, I agree with the point that [Stephen Downes](http://www.downes.ca/cgi-bin/page.cgi?post=49149) made here about students being conservative. Students think university education is about lectures, they feel they are missing out on something if they don't get lectures. They'd complain more that academic staff if it were suggested to remove lectures entirely.
 
-I'm also a believer in [ateleological processes](/blog2/2009/05/25/teleological-and-ateleological-processes/) that emphasise gradual, on-going change. In my experience, it's only more accepted and used, but it also results in much more surprising results than a teleological/purpose driven process.
+I'm also a believer in [ateleological processes](/blog/2009/05/25/teleological-and-ateleological-processes/) that emphasise gradual, on-going change. In my experience, it's only more accepted and used, but it also results in much more surprising results than a teleological/purpose driven process.
 
 ### More reading
 
@@ -374,7 +374,7 @@ For a final word and as a response to the quote that started this post, I'd like
 
 > People have now-a-days got a strange opinion that everything should be taught by lectures. Now, I cannot see that lectures can do so much as reading the books from which the lectures are taken. **I know nothing that can be best taught by lectures**, except where experiments are to be shewn. You may teach chemistry by lectures:-- You might teach the making of shoes by lectures!
 
-Of course, I'm not entirely certain this is a quote from Johnson and my assumptions about quotes have previously been [proven wrong](/blog2/2009/05/21/the-perils-of-re-organisation-gaius-petronius/).
+Of course, I'm not entirely certain this is a quote from Johnson and my assumptions about quotes have previously been [proven wrong](/blog/2009/05/21/the-perils-of-re-organisation-gaius-petronius/).
 
 ### References
 

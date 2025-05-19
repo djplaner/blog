@@ -4,10 +4,10 @@ categories:
 date: 2006-10-10 10:21:46+10:00
 next:
   text: Helping "NESB" students realise - there is no one answer
-  url: /blog2/2006/10/11/helping-nesb-students-realise-there-is-no-one-answer/
+  url: /blog/2006/10/11/helping-nesb-students-realise-there-is-no-one-answer/
 previous:
   text: Questioning the value of group work
-  url: /blog2/2006/10/04/questioning-the-value-of-group-work/
+  url: /blog/2006/10/04/questioning-the-value-of-group-work/
 title: When will enterprises truly embrace Enterprise 2.0 applications?
 type: post
 template: blog-post.html

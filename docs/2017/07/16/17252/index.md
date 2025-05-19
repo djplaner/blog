@@ -4,10 +4,10 @@ categories:
 date: 2017-07-16 14:14:36+10:00
 next:
   text: Further developing research workflow
-  url: /blog2/2017/09/23/further-developing-research-workflow/
+  url: /blog/2017/09/23/further-developing-research-workflow/
 previous:
   text: My current context and some initial issues
-  url: /blog2/2017/07/09/my-current-context-and-some-initial-issues/
+  url: /blog/2017/07/09/my-current-context-and-some-initial-issues/
 title: What's changed in academic staff development?
 type: post
 template: blog-post.html
@@ -48,7 +48,7 @@ However, there has been a shift in focus away from "academic staff development".
 
 The [Next Generation Pedagogy report](http://cv.uoc.edu/webapps/dspace_rei/handle/10609/51441) offers five signposts on the roadmap to innovative pedagogy
 
-- Intelligent pedagogy - using technology to enhance learning, including beyond institutional confines. Technology use in academic staff development (in my context, but in a lot of others as well) is still somewhat limited. There's no use of learning analytics to understand the teaching experience. Technology is largely used to supplement existing face-to-face approaches, rather than do something radically different.  Though aspects of this might be coming. The idea of [untethered faculty development](/blog2/2017/04/26/early-steps-in-developing-a-design-systemmodel-for-professional-learning-opportunities/) is indicative of early moves in this space.On the other hand, the academic staff who are our learners now have access to the abundance of resources that are on the Internet. There are staff drawing heavily on these, but there appears to be many that are not.
+- Intelligent pedagogy - using technology to enhance learning, including beyond institutional confines. Technology use in academic staff development (in my context, but in a lot of others as well) is still somewhat limited. There's no use of learning analytics to understand the teaching experience. Technology is largely used to supplement existing face-to-face approaches, rather than do something radically different.  Though aspects of this might be coming. The idea of [untethered faculty development](/blog/2017/04/26/early-steps-in-developing-a-design-systemmodel-for-professional-learning-opportunities/) is indicative of early moves in this space.On the other hand, the academic staff who are our learners now have access to the abundance of resources that are on the Internet. There are staff drawing heavily on these, but there appears to be many that are not.
 - Distributed pedagogy - ownership of learning is shared amongst different stakeholders allowing students to source learning from competing providers There are aspects of this happening in how learning and teaching operates. e.g. TurnitIn is external and offers some staff development. This is happening more to support University students in their learning, than to support University teaching staff.
 - Engaging pedagogy - encouraging active participation from learners. There are early signs of this - e.g. the shift away from academic staff development in the broader field.  Locally, the approach used in our L&T orientation has moved away from experts leading sessions to participative, co-construction/solving of problems. But more could be done.
 - Agile pedagogy - flexibility/customisation of the student experience. There are attempts to do this, but not directly support by systems and processes.

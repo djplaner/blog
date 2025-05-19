@@ -4,10 +4,10 @@ categories:
 date: 2013-09-22 17:13:36+10:00
 next:
   text: '"The IRAC framework: Locating the performance zone for learning analytics"'
-  url: /blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/
+  url: /blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/
 previous:
   text: 'Moving beyond a fashion: Likely paths and pitfalls for learning analytics'
-  url: /blog2/2013/09/22/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-3/
+  url: /blog/2013/09/22/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-3/
 title: Data mining with Weka - Class 2 - Evaluation
 type: post
 template: blog-post.html

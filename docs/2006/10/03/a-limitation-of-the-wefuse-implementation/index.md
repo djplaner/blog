@@ -4,10 +4,10 @@ categories:
 date: 2006-10-03 13:19:35+10:00
 next:
   text: Questioning the value of group work
-  url: /blog2/2006/10/04/questioning-the-value-of-group-work/
+  url: /blog/2006/10/04/questioning-the-value-of-group-work/
 previous:
   text: Web 2.0 and the enterprise
-  url: /blog2/2006/10/03/web-20-and-the-enterprise/
+  url: /blog/2006/10/03/web-20-and-the-enterprise/
 title: A limitation of the Wefuse implementation
 type: post
 template: blog-post.html

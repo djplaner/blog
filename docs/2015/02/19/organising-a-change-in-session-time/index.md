@@ -4,11 +4,11 @@ categories:
 date: 2015-02-19 07:19:03+10:00
 next:
   text: '"Contradictions in adjectives: You can''t be consistent and optimal"'
-  url: /blog2/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/
+  url: /blog/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/
 previous:
   text: Initial rationale and ideas for &quot;continuous improvement&quot; of learning
     and teaching
-  url: /blog2/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
+  url: /blog/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
 title: Organising a change in session time
 type: post
 template: blog-post.html
@@ -61,7 +61,7 @@ I'm posting this on my blog to share what I've learned about this task. Making t
 
 Two other important points the following illustrates
 
-1. The digital environment in which teachers (of all types) is littered with [concrete lounges](/blog2/2014/12/18/concrete-lounge/).
+1. The digital environment in which teachers (of all types) is littered with [concrete lounges](/blog/2014/12/18/concrete-lounge/).
 2. How we live with those concrete lounges (how we do things with digital technologies) is going to be very different and dependent on our environment, skills, and the available tools (and the affordances we perceive).
     
     I don't there are many people that would have completed this particular task the way I have.
@@ -118,7 +118,7 @@ The institutional student records system does allow me to download a spreadsheet
 
 Ahh, no. Name, ID number, information about the grading basis for the course (which is all the same for all students at this institution and information I already know, why is that included), program, year level, citizenship status, and a column that contains the word "View Student Details". On the web version this is a link to detailed information about the individual. In the spreadsheet, it's just the word.
 
-Now that's real useful. An example of a [concrete lounge](/blog2/2014/12/18/concrete-lounge/) if I ever saw one.
+Now that's real useful. An example of a [concrete lounge](/blog/2014/12/18/concrete-lounge/) if I ever saw one.
 
 That spreadsheet seems to be designed as is, rather than for the purposes of teaching staff.
 

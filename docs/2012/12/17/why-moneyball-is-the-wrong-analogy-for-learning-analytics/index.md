@@ -4,11 +4,11 @@ categories:
 date: 2012-12-17 11:47:24+10:00
 next:
   text: '"BIM: another restart?"'
-  url: /blog2/2012/12/19/bim-another-restart/
+  url: /blog/2012/12/19/bim-another-restart/
 previous:
   text: 'Beyond the early adopters of online instruction: Motivating the reluctant
     majority'
-  url: /blog2/2012/12/14/beyond-the-early-adopters-of-online-instruction-motivating-the-reluctant-majority/
+  url: /blog/2012/12/14/beyond-the-early-adopters-of-online-instruction-motivating-the-reluctant-majority/
 title: Why Moneyball is the wrong analogy for learning analytics
 type: post
 template: blog-post.html

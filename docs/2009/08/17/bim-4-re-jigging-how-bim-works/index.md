@@ -4,10 +4,10 @@ categories:
 date: 2009-08-17 09:07:45+10:00
 next:
   text: Moodle, curriculum mapping, task fit and task corruption
-  url: /blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
+  url: /blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
 previous:
   text: People, cognition, rationality and e-learning
-  url: /blog2/2009/08/16/people-cognition-rationality-and-e-learning/
+  url: /blog/2009/08/16/people-cognition-rationality-and-e-learning/
 title: '"BIM #4: Re-jigging how BIM works"'
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The [last post in this series](/blog2/2009/08/13/bim-3-getting-the-module-work-making-some-progress/) saw me struggling - the long way around - to the realisation that the implementation model I had in my head wasn't going to work. At least not with the constraints of the model adopted by Moodle.
+The [last post in this series](/blog/2009/08/13/bim-3-getting-the-module-work-making-some-progress/) saw me struggling - the long way around - to the realisation that the implementation model I had in my head wasn't going to work. At least not with the constraints of the model adopted by Moodle.
 
 This post is about me struggling to come up with a implementation model that will actually fit the Moodle model and hoepfully also the students and teaching staff that will use BIM.
 

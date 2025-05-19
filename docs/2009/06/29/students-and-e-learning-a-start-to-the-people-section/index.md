@@ -9,10 +9,10 @@ categories:
 date: 2009-06-29 12:01:09+10:00
 next:
   text: Alternative to clickers - freeing up the physical location limitation
-  url: /blog2/2009/06/30/alternative-to-clickers/
+  url: /blog/2009/06/30/alternative-to-clickers/
 previous:
   text: Confirmation bias, the Tolstoy Syndrome and pattern entrainment
-  url: /blog2/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
+  url: /blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
 title: Students and e-learning - a start to the People section
 type: post
 template: blog-post.html
@@ -81,7 +81,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the first step in the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) from chapter 2 of my [thesis](/blog2/research/phd-thesis/). The first bit ("People") is the introduction to the thesis section and the following ("Students") is the first major section of that component. Hopefully, over the next week and in fairly quick progression the remaining sections of the People component will get posted.
+The following is the first step in the People component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) from chapter 2 of my [thesis](/blog/research/phd-thesis/). The first bit ("People") is the introduction to the thesis section and the following ("Students") is the first major section of that component. Hopefully, over the next week and in fairly quick progression the remaining sections of the People component will get posted.
 
 As always, this stuff is version 1 draft quality and there is always going to be more that can and probably should be included, however, I'm currently going for "good enough" rather than "too good".
 

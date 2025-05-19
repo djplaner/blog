@@ -6,10 +6,10 @@ categories:
 date: 2013-12-24 11:39:40+10:00
 next:
   text: Challenges in employing complex e-learning strategies in campus-based universities
-  url: /blog2/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
+  url: /blog/2014/01/02/challenges-in-employing-complex-e-learning-strategies-in-campus-based-universities/
 previous:
   text: The adoption and acceptance of learning analytics
-  url: /blog2/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
+  url: /blog/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/
 title: '"TAM, #moodle, online assignment submission and strategic implementation"'
 type: post
 template: blog-post.html
@@ -33,13 +33,13 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is an attempt to expand upon a mention in [the last post](/blog2/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/) about exploring one set of thoughts about why/how we might extend/reuse/build upon some prior research using TAM (Technology Acceptance Model) and its application to understanding the use (or not) of Online Assignment Submission and Management (OASM) in higher education.
+The following is an attempt to expand upon a mention in [the last post](/blog/2013/12/12/the-adoption-and-acceptance-of-learning-analytics/) about exploring one set of thoughts about why/how we might extend/reuse/build upon some prior research using TAM (Technology Acceptance Model) and its application to understanding the use (or not) of Online Assignment Submission and Management (OASM) in higher education.
 
 In summary,
 
 1. In 2005, we published a couple of papers ([Behrens et al, 2005](http://djon.es/blog/wp-content/uploads/2008/12/cameraready_v3.pdf); [Jones et al, 2005](http://djon.es/blog/wp-content/uploads/2008/12/oasissubmit_v3.pdf)) in which the Technology Acceptance Model (TAM) (Davis, 1989; Venkatesh et al, 2003; Venkatesh & Bala, 2008) was used to explore why an increasingly widely used online assignment submission and management tool (OASIS) was successful.
 2. In 2009/2010, that system was replaced as part of an project to adopt a single LMS (Moodle) that was designed to provide "appropriate support for staff and students to access and use ICT effectively in learning and teaching" ([Tickle et al, 2009, p. 1040](http://www.ascilite.org.au/conferences/auckland09/procs/tickle.pdf))
-3. There have [been mixed messages](/blog2/2013/10/09/dissenting-views-of-institutional-e-learning/) about the success of that project. For example, Tynan et al ([2009](http://www.olt.gov.au/project-e-teaching-leadership-une-2009)) suggest this
+3. There have [been mixed messages](/blog/2013/10/09/dissenting-views-of-institutional-e-learning/) about the success of that project. For example, Tynan et al ([2009](http://www.olt.gov.au/project-e-teaching-leadership-une-2009)) suggest this
     
     > It is probable that since the institution had undergone a large review and renewal of technology in the learning management system where processes to support academics were put in place and where academics were included in decision making and empowered to change and upskill, negative attitudes towards the general impact of technology were not an issue for staff. One can hypothesise that these issues were principally resolved.
     

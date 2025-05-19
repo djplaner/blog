@@ -7,10 +7,10 @@ categories:
 date: 2008-11-18 10:32:26+10:00
 next:
   text: The model underpinning blackboard and how ACCT19064 uses it
-  url: /blog2/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/
+  url: /blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/
 previous:
   text: 'PLEs@CQUni: Origins, rationale and outcomes so far'
-  url: /blog2/2008/11/17/plescquni-origins-rationale-and-outcomes-so-far-2/
+  url: /blog/2008/11/17/plescquni-origins-rationale-and-outcomes-so-far-2/
 tags:
 - lms
 title: Evaluating an LMS by understanding the underpinning "model"
@@ -114,7 +114,7 @@ A few months, at least, of using these systems in real life courses would provid
 
 ### What is the approach?
 
-The approach is based somewhat on [some previous ramblings](/blog2/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/) and is based on the assumption that an LMS is a piece of information technology. Consequently, it has a set of data structures, algorithms and interfaces that either make it hard or easy to perform tasks. The idea is that if you engage with and understand the model, you can get some idea about what tasks are hard or difficult.
+The approach is based somewhat on [some previous ramblings](/blog/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/) and is based on the assumption that an LMS is a piece of information technology. Consequently, it has a set of data structures, algorithms and interfaces that either make it hard or easy to perform tasks. The idea is that if you engage with and understand the model, you can get some idea about what tasks are hard or difficult.
 
 Now there is an awful lot of distance between saying that and actually doing it. I'm claiming that the following posts are going to achieve anywhere near what is possible to make this work effectively. My existing current context doesn't allow it.
 

@@ -5,10 +5,10 @@ categories:
 date: 2009-10-26 12:49:27+10:00
 next:
   text: Lectures, alternatives, poll everywhere and unexpected events
-  url: /blog2/2009/10/26/lectures-alternatives-poll-everywhere-and-unexpected-events/
+  url: /blog/2009/10/26/lectures-alternatives-poll-everywhere-and-unexpected-events/
 previous:
   text: Participation, impact, collecting data and connecting people
-  url: /blog2/2009/10/24/participation-impact-collecting-data-and-connecting-people/
+  url: /blog/2009/10/24/participation-impact-collecting-data-and-connecting-people/
 title: The bureaucratic model and the grammar and future of universities
 type: post
 template: blog-post.html
@@ -65,7 +65,7 @@ That's because, no matter who you are, you have unstated assumptions that define
 
 ### The grammar of school
 
-In this [post](/blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/) I mentioned a 1995 article by Seymour Papert on [Why school reform is impossible](http://www.papert.org/articles/school_reform.html). In this article Papert draws on Tyack and Cuban's (1995) idea of the "grammar of school"
+In this [post](/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/) I mentioned a 1995 article by Seymour Papert on [Why school reform is impossible](http://www.papert.org/articles/school_reform.html). In this article Papert draws on Tyack and Cuban's (1995) idea of the "grammar of school"
 
 > The structure of School is so deeply rooted that one reacts to deviations from it as one would to a grammatically deviant utterance: Both feel wrong on a level deeper than one’s ability to formulate reasons. This phenomenon is related to “assimilation blindness” insofar as it refers to a mechanism of mental closure to foreign ideas. I would make the relation even closer by noting that when one is not paying careful attention, one often actually hear the deviant utterance as the “nearest” grammatical utterance a transformation that might bring drastic change in meaning.
 

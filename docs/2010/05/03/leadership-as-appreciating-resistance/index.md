@@ -6,10 +6,10 @@ categories:
 date: 2010-05-03 12:48:50+10:00
 next:
   text: Blurb for the alignment project
-  url: /blog2/2010/05/07/blurb-for-the-alignment-project/
+  url: /blog/2010/05/07/blurb-for-the-alignment-project/
 previous:
   text: Can BIM support the use of Moodle blogs?
-  url: /blog2/2010/05/02/can-bim-support-the-use-of-moodle-blogs/
+  url: /blog/2010/05/02/can-bim-support-the-use-of-moodle-blogs/
 tags:
 - leadership
 title: Leadership as appreciating resistance

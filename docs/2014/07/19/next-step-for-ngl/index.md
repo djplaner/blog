@@ -4,18 +4,18 @@ categories:
 date: 2014-07-19 08:49:25+10:00
 next:
   text: Me as learner - WoW, MMPORGs and learning
-  url: /blog2/2014/07/23/me-as-learner-wow-mmporgs-and-learning/
+  url: /blog/2014/07/23/me-as-learner-wow-mmporgs-and-learning/
 previous:
   text: Designing a course on &quot;Networked and Global Learning&quot; - scope, thoughts
     and call for suggestions
-  url: /blog2/2014/07/07/designing-a-course-on-networked-and-global-learning-scope-thoughts-and-call-for-suggestions/
+  url: /blog/2014/07/07/designing-a-course-on-networked-and-global-learning-scope-thoughts-and-call-for-suggestions/
 title: Next step for NGL
 type: post
 template: blog-post.html
 ---
 _Note:_ Most of the following was written a week or so ago. Since then [course site](https://netgl.wordpress.com/) and week 1 has come into being. Also, it appears that enrolment in the course has skyrocketed up to 15.
 
-The initial [call for input](/blog2/2014/07/07/designing-a-course-on-networked-and-global-learning-scope-thoughts-and-call-for-suggestions/) into the re-design of the Networked and Global Learning (NGL) course was more successful than I hoped. What follows is some reflection on that response and some thoughts about the next step.
+The initial [call for input](/blog/2014/07/07/designing-a-course-on-networked-and-global-learning-scope-thoughts-and-call-for-suggestions/) into the re-design of the Networked and Global Learning (NGL) course was more successful than I hoped. What follows is some reflection on that response and some thoughts about the next step.
 
 Decision #1 - I have set up [a blog](https://netgl.wordpress.com/) on Wordpress.com that I think will become the main repository for course information as used by the students. They'll also have their individual blogs for their own work which will hopefully be aggregated into the course blog.
 

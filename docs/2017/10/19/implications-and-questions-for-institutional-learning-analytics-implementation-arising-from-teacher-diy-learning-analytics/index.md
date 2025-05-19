@@ -5,10 +5,10 @@ categories:
 date: 2017-10-19 13:54:03+10:00
 next:
   text: Introducing the Moodle Activity Viewer (MAV) & digital reno
-  url: /blog2/2017/10/30/introducing-the-moodle-activity-viewer-mav-digital-reno/
+  url: /blog/2017/10/30/introducing-the-moodle-activity-viewer-mav-digital-reno/
 previous:
   text: Exploring options for teacher DIY learning analytics
-  url: /blog2/2017/10/07/exploring-options-for-teacher-diy-learning-analytics/
+  url: /blog/2017/10/07/exploring-options-for-teacher-diy-learning-analytics/
 title: Implications and questions for institutional learning analytics implementation
   arising from teacher DIY learning analytics
 type: post
@@ -124,7 +124,7 @@ Johnson, L., Adams Becker, S., Estrada, V., & Freeman, A. (2014). [NMC Horizon R
 
 Johnson, L., Adams, S., & Cummins, M. (2012). [Technology Outlook for Australian Tertiary Education 2012-2017: An NMC Horizon Report Regional Analysis](http://www.nmc.org/publications/2012-technology-outlook-au) (No. 9780984660155). Austin, Texas.
 
-Jones, D., & Clark, D. (2014). [Breaking BAD to bridge the reality/rhetoric chasm](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/). In B. Hegarty, J. McDonald, & S. Loke (Eds.), Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014 (pp. 262–272).
+Jones, D., & Clark, D. (2014). [Breaking BAD to bridge the reality/rhetoric chasm](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/). In B. Hegarty, J. McDonald, & S. Loke (Eds.), Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014 (pp. 262–272).
 
 Ko, A. J., Abraham, R., Beckwith, L., Blackwell, A., Burnett, M., Erwig, M., … Wiedenbeck, S. (2011). The State of the Art in End-user Software Engineering. ACM Computing Surveys, 43(3), 21:1–21:44. https://doi.org/10.1145/1922649.1922658
 

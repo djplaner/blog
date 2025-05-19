@@ -5,10 +5,10 @@ categories:
 date: 2016-06-28 11:38:11+10:00
 next:
   text: Nature of digital technology? Part 2 - expansion
-  url: /blog2/2016/06/29/nature-of-digital-technology-part-2-expansion/
+  url: /blog/2016/06/29/nature-of-digital-technology-part-2-expansion/
 previous:
   text: What is the nature of digital technology? Part 1
-  url: /blog2/2016/06/27/what-is-the-nature-of-digital-technology-part-1/
+  url: /blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/
 title: The nature of digital technology? Part 2
 type: post
 template: blog-post.html
@@ -139,13 +139,13 @@ pingbacks:
       user_id: '0'
     
 ---
-This is a followup to yesterday's [Part 1 post](/blog2/2016/06/27/what-is-the-nature-of-digital-technology-part-1/) and a continuation of an attempt to describe the nature of digital technology and to think about what this might reveal about how and what is being done by formal education has it attempts to use digital technology for learning and teaching. This post moves from the fundamental properties of digital technologies (yesterday's focus) to what some suggest is that nature of digital technologies.
+This is a followup to yesterday's [Part 1 post](/blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/) and a continuation of an attempt to describe the nature of digital technology and to think about what this might reveal about how and what is being done by formal education has it attempts to use digital technology for learning and teaching. This post moves from the fundamental properties of digital technologies (yesterday's focus) to what some suggest is that nature of digital technologies.
 
 **Note:** this is not the end of this series. There's a fair bit more to go (e.g. this is all still focused on a single black box/digital technology, it hasn't touched on what happens when digital technology becomes pervasive). I'm not entirely comfortable with the use of "nature" at this level, but the authors I'm drawing on use that phrase.
 
 ## Recap and revision
 
-[Yesterday's post](/blog2/2016/06/27/what-is-the-nature-of-digital-technology-part-1/) aimed to open up the black box of digital technology a touch by explaining the two fundamental properties (data homogenization and reprorammability) of digital technology proposed by Yoo, Boland, Lyytinen, and Majchrzak (2012).  This was original represented using this image.
+[Yesterday's post](/blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/) aimed to open up the black box of digital technology a touch by explaining the two fundamental properties (data homogenization and reprorammability) of digital technology proposed by Yoo, Boland, Lyytinen, and Majchrzak (2012).  This was original represented using this image.
 
 [![Fundamental Properties](images/27923903105_4d8b529e0f.jpg)](https://www.flickr.com/photos/david_jones/27923903105/in/dateposted-public/ "Fundamental Properties")
 
@@ -181,7 +181,7 @@ Earlier this year, as part of an introductory activity, I asked students to find
 
 ### Protean
 
-This is the characteristic that I've written the most about.  The following two paragraphs are from the first version of [Jones and Schneider (2016).](/blog2/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/)
+This is the characteristic that I've written the most about.  The following two paragraphs are from the first version of [Jones and Schneider (2016).](/blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/)
 
 The commonplace notions of digital technologies that underpin both everyday life and research have a tendency to see them “as relatively stable, discrete, independent, and fixed” (Orlikowski & Iacono, 2001, p. 121). Digital technologies are seen as hard technologies, technologies where what can be done is fixed in advance either by embedding it in the technology or “in inflexible human processes, rules and procedures needed for the technology’s operation” (Dron, 2013, p. 35). As noted by Selwyn and Bulfin (2015) “Schools are highly regulated sites of digital technology use” (p. 1) where digital technologies are often seen as a tool that is: used when and where permitted; standardised and preconfigured; conforms to institutional rather than individual needs; and, a directed activity. Rushkoff (2010) argues that one of the problems with this established view of digital technologies is that “instead of optimizing our machines for humanity – or even the benefit of some particular group – we are optimizing humans for machinery” (p. 15). This hard view of digital technologies perhaps also contributes to the problem identified by Selwyn (2016) where in spite of the efficiency and flexibility rhetorics surrounding digital technologies, “few of these technologies practices serve to advantage the people who are actually doing the work” (p. 5). Digital technologies have not always been perceived as hard technologies.
 
@@ -219,7 +219,7 @@ My institution has adopted Moodle, an open source LMS. One of the benefits of op
 
 To make matters worse, since most people are recipe followers, even the most minor of changes cause confusion and frustration. Emotions that make people question why this change has been inflicted upon them. An outcome not likely to enhance acceptance and equanimity.
 
-Perhaps if more of the changes being made responded to the experiences and needs of those involved, change might be more widely accepted. The problem is that because most institutional digital technologies aren't that protean, changes can only be made by a small number of specific people who are in turn constrained by a hierarchical governance process. A situation that might lead a [problem of starvation](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) where the priority is given to  large-scale, institutional level changes, rather than changes beneficial to small numbers of specific situations.
+Perhaps if more of the changes being made responded to the experiences and needs of those involved, change might be more widely accepted. The problem is that because most institutional digital technologies aren't that protean, changes can only be made by a small number of specific people who are in turn constrained by a hierarchical governance process. A situation that might lead a [problem of starvation](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) where the priority is given to  large-scale, institutional level changes, rather than changes beneficial to small numbers of specific situations.
 
 Would mapping who and why changes are being made to the digital technologies reveal this starvation? How can institutional digital technologies be made more protean and more able to respond to the needs of individuals? What impact would that have on learning and teaching? Is this sort of change necessary to respond to exponential growth?
 

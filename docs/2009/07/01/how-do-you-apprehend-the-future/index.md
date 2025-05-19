@@ -5,10 +5,10 @@ categories:
 date: 2009-07-01 21:43:52+10:00
 next:
   text: '"PhD Update #16 - return from a break"'
-  url: /blog2/2009/07/05/phd-update-16-return-from-a-break/
+  url: /blog/2009/07/05/phd-update-16-return-from-a-break/
 previous:
   text: Alternative to clickers - freeing up the physical location limitation
-  url: /blog2/2009/06/30/alternative-to-clickers/
+  url: /blog/2009/06/30/alternative-to-clickers/
 title: How do you "apprehend the future"
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is an attempt to reflect upon [an EDUCAUSE Review article](http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume44/ApprehendingtheFutureEmergingT/171774) by [Bryan Alexander](http://infocult.typepad.com/about.html) entitled "Apprehending the Future: Emerging Technologies, from Science Fiction to Campus Reality". I'm doing this because I believe the topic, at least at first glance, has connections with the [new role](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to fulfill at my current institution.
+The following is an attempt to reflect upon [an EDUCAUSE Review article](http://www.educause.edu/EDUCAUSE+Review/EDUCAUSEReviewMagazineVolume44/ApprehendingtheFutureEmergingT/171774) by [Bryan Alexander](http://infocult.typepad.com/about.html) entitled "Apprehending the Future: Emerging Technologies, from Science Fiction to Campus Reality". I'm doing this because I believe the topic, at least at first glance, has connections with the [new role](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to fulfill at my current institution.
 
 ### Summary
 

@@ -5,10 +5,10 @@ coverImage: verandahSunset.jpg
 date: 2020-01-13 13:41:52+10:00
 next:
   text: Three mashup types for digital learning and teaching
-  url: /blog2/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/
+  url: /blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/
 previous:
   text: Is training the barrier to quality online learning in higher ed?
-  url: /blog2/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/
+  url: /blog/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/
 title: Office365, charismatic technologies, and the ecological perspective
 type: post
 template: blog-post.html
@@ -79,7 +79,7 @@ Macgilchrist, Allert & Bruch (2019) provide a somewhat related example, though n
 
 If Office365 is the latest charismatic technology that has blinded decision makers, then what are the “complicated, expensive, or politically charged reforms” that are being ignored?
 
-Given [my recent work](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/) (Jones, 2019) I’d argue that universities still haven’t figured out how to analyse and explain how they will develop quality learning and teaching outcomes (Ellis & Goodyear, 2019). They haven’t solved the problem of how to sustainably and at scale share the design knowledge necessary to design quality digital learning experiences. I don’t expect the adoption of Office365 (or any other technology) to change that.
+Given [my recent work](/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/) (Jones, 2019) I’d argue that universities still haven’t figured out how to analyse and explain how they will develop quality learning and teaching outcomes (Ellis & Goodyear, 2019). They haven’t solved the problem of how to sustainably and at scale share the design knowledge necessary to design quality digital learning experiences. I don’t expect the adoption of Office365 (or any other technology) to change that.
 
 Examining and explaining disappointing use of digital technologies in learning and teaching is exactly what Hammond (2019) aims to do through an ecological approach.
 

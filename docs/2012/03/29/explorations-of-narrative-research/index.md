@@ -6,11 +6,11 @@ categories:
 date: 2012-03-29 10:17:53+10:00
 next:
   text: What are the really useful analytics?
-  url: /blog2/2012/03/29/what-are-the-really-useful-analytics/
+  url: /blog/2012/03/29/what-are-the-really-useful-analytics/
 previous:
   text: '&quot;Here I stand&quot; - Campbell&#039;s concerns on analytics and other
     stuff'
-  url: /blog2/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/
+  url: /blog/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/
 title: Explorations of narrative research
 type: post
 template: blog-post.html

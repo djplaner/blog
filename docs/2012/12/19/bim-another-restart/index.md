@@ -4,10 +4,10 @@ categories:
 date: 2012-12-19 08:09:46+10:00
 next:
   text: Bug fix and to do for BIM
-  url: /blog2/2012/12/28/bug-fix-and-to-do-for-bim/
+  url: /blog/2012/12/28/bug-fix-and-to-do-for-bim/
 previous:
   text: Why Moneyball is the wrong analogy for learning analytics
-  url: /blog2/2012/12/17/why-moneyball-is-the-wrong-analogy-for-learning-analytics/
+  url: /blog/2012/12/17/why-moneyball-is-the-wrong-analogy-for-learning-analytics/
 title: '"BIM: another restart?"'
 type: post
 template: blog-post.html
@@ -56,7 +56,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is essentially an activity log/diary or the first steps of getting back into work on [BIM](/blog2/research/bam-blog-aggregation-management/). I'm hoping to have it ready to work with some [course redesign](/blog2/2012/12/14/4668/) I'm working on, but timelines may make that difficult.
+The following is essentially an activity log/diary or the first steps of getting back into work on [BIM](/blog/research/bam-blog-aggregation-management/). I'm hoping to have it ready to work with some [course redesign](/blog/2012/12/14/4668/) I'm working on, but timelines may make that difficult.
 
 The aim of this is to get the current version of BIM for Moodle 2.x up and running with Moodle 2.4+. The next step will be to determine what work needs to be completed on BIM and what new features might be useful.
 

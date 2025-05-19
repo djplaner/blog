@@ -4,10 +4,10 @@ categories:
 date: 2018-11-30 08:47:42+10:00
 next:
   text: Testing h5p
-  url: /blog2/2018/12/11/testing-h5p/
+  url: /blog/2018/12/11/testing-h5p/
 previous:
   text: Explaining ISDT and its place in the research process
-  url: /blog2/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/
+  url: /blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/
 tags:
 - complexity
 - irac
@@ -108,7 +108,7 @@ Should we recognise and embrace this. We're not trying to scale this, make it ma
 
 <figure markdown>
 
-![](images/screen-shot-2018-11-29-at-09-25-05.png?w=574&h=190)
+![](images/screen-shot-2018-11-29-at-09-25-05.png)
 
 <caption>
 

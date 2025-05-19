@@ -4,10 +4,10 @@ categories:
 date: 2014-07-28 16:59:49+10:00
 next:
   text: Some readings on networked learning
-  url: /blog2/2014/07/29/some-readings-on-networked-learning/
+  url: /blog/2014/07/29/some-readings-on-networked-learning/
 previous:
   text: Give them a fish, or teach them to fish?
-  url: /blog2/2014/07/27/give-them-a-fish-or-teach-them-to-fish/
+  url: /blog/2014/07/27/give-them-a-fish-or-teach-them-to-fish/
 title: Creating the EDC3100 OPML files
 type: post
 template: blog-post.html
@@ -16,7 +16,7 @@ Just documenting the process I use to create a collection of OPML files for dist
 
 ### Background
 
-Each semester students in EDC3100 create [their own blog](https://www.google.com.au/search?q=edc3100+blog&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=sb&gfe_rd=cr&ei=VNzUU5OLGuLC8geFl4GoCQ) on their choice of service. They then register the blog with the course website via [the BIM module](/blog2/research/bam-blog-aggregation-management/) for Moodle.
+Each semester students in EDC3100 create [their own blog](https://www.google.com.au/search?q=edc3100+blog&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=sb&gfe_rd=cr&ei=VNzUU5OLGuLC8geFl4GoCQ) on their choice of service. They then register the blog with the course website via [the BIM module](/blog/research/bam-blog-aggregation-management/) for Moodle.
 
 For the current semester 63 students have registered their blog, 47 are yet to do so. The students are almost entirely pre-service educators ranging from the Early Childhood all the way up to VET sector. The task here is to produce a range of OPML files containing feeds for each sector.
 

@@ -5,10 +5,10 @@ categories:
 date: 2010-07-22 11:03:00+10:00
 next:
   text: '"PLEs and the institution: the wrong problem"'
-  url: /blog2/2010/07/23/ples-and-the-institution-the-wrong-problem/
+  url: /blog/2010/07/23/ples-and-the-institution-the-wrong-problem/
 previous:
   text: Features used in Webfuse course sites
-  url: /blog2/2010/07/21/features-used-in-webfuse-course-sites/
+  url: /blog/2010/07/21/features-used-in-webfuse-course-sites/
 title: How to handle the marriage of PLEs and institutions
 type: post
 template: blog-post.html
@@ -47,9 +47,9 @@ pingbacks:
 ---
 The following is my attempt to think about how the "marriage" of the PLE concept and educational institutions can be handled. It arises from reading some of the material that has arisen out of the [PLE conference](http://pleconference.citilab.eu/) held in Barcelona a few weeks ago and some subsequent posts, most notable [this one on the anatomy of a PLE](http://steve-wheeler.blogspot.com/2010/07/anatomy-of-ple.html) from Steve Wheeler.
 
-The following is informed by a [paper](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) some colleagues and I wrote back in 2009 around this topic. That paper, aimed to map the landscape for a project we were involved with that was attempting to implement/experiment with just such a marriage. By the time the paper was presented (end 2009) the project was essentially dead in the water - at least in terms of its original conceptualisation - due to organisational restructures.
+The following is informed by a [paper](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) some colleagues and I wrote back in 2009 around this topic. That paper, aimed to map the landscape for a project we were involved with that was attempting to implement/experiment with just such a marriage. By the time the paper was presented (end 2009) the project was essentially dead in the water - at least in terms of its original conceptualisation - due to organisational restructures.
 
-The paper and this post attempts to use [the Ps framework](/blog2/2009/03/18/the-ps-framework/) as one way to map this landscape.
+The paper and this post attempts to use [the Ps framework](/blog/2009/03/18/the-ps-framework/) as one way to map this landscape.
 
 In summary, people (students and staff) already have PLEs, the question is how to effectively create a marriage between each person's PLE and the institution that is effective, open, and responds to contextual and personal needs.
 
@@ -128,7 +128,7 @@ There are other aspects of the Ps framework not considered in the paper or above
 
 There were two concrete changes the project implemented before it was canned:
 
-1. [BAM/BIM](/blog2/research/bam-blog-aggregation-management/);  
+1. [BAM/BIM](/blog/research/bam-blog-aggregation-management/);  
     Provide LMS-based method for staff to manage/aggregate and use individual student blogs (PLE).
 2. Generating RSS feeds from Blackboard 6.3 discussion forums.  
     The institutional LMS at the time was the ancient Blackboard 6.3. We implemented an intermediary system that generated an RSS feed of posts. A way for students/staff using newsreaders (PLE) to track what was happening within the LMS and at the same time saving them time. They didn't need to login to the LMS, go to each course, check each discussion forum for new posts....

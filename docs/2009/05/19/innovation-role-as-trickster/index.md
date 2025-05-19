@@ -2,10 +2,10 @@
 date: 2009-05-19 14:33:55+10:00
 next:
   text: Another BAM problem - awarding mark of 0
-  url: /blog2/2009/05/20/another-bam-problem-awarding-mark-of-0/
+  url: /blog/2009/05/20/another-bam-problem-awarding-mark-of-0/
 previous:
   text: Diagnosing and recording a problem with BAM
-  url: /blog2/2009/05/19/diagnosing-and-recording-a-problem-with-bam/
+  url: /blog/2009/05/19/diagnosing-and-recording-a-problem-with-bam/
 title: Innovation role as Trickster
 type: post
 template: blog-post.html
@@ -18,7 +18,7 @@ It is interesting to see some of the negative responses to this talk that arise 
 
 Mention of this theatre sports rule is made near the beginning of the talk. Particularly important because too much of what I see in universities around learning and teaching and innovation ignores and de-values the reality held by other people.
 
-I think is a particular symptom of the "what management does" [approach to improving learning and teaching](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/). Management sets themselves up as knowing better than the academics and mandates changes. In most cases not being aware of or respecting the view of reality held by those academics.
+I think is a particular symptom of the "what management does" [approach to improving learning and teaching](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/). Management sets themselves up as knowing better than the academics and mandates changes. In most cases not being aware of or respecting the view of reality held by those academics.
 
 And certainly a feature of Model 1 behaviour and defensive routines.
 

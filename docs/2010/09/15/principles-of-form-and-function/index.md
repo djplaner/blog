@@ -11,17 +11,17 @@ date: 2010-09-15 08:49:07+10:00
 next:
   text: Alan Kay and some reasons why the educational technology revolution hasn't
     happened
-  url: /blog2/2010/09/16/alan-kay-and-some-reasons-why-the-educational-technology-revolution-hasnt-happened/
+  url: /blog/2010/09/16/alan-kay-and-some-reasons-why-the-educational-technology-revolution-hasnt-happened/
 previous:
   text: Portfolios often implemented poorly
-  url: /blog2/2010/09/14/portfolios-often-implemented-poorly/
+  url: /blog/2010/09/14/portfolios-often-implemented-poorly/
 title: Principles of form and function
 type: post
 template: blog-post.html
 ---
-The aim of my [thesis](/blog2/research/phd-thesis/) is to formulate an information systems design theory for e-learning. Even though I have a [publication](/blog2/publications/the-formulation-of-an-isdt-for-e-learning/) or two that have described early versions of the ISDT, I've never been really happy with them. However, I'm getting close to the end of this process, at least for the purposes of getting the thesis submitted.
+The aim of my [thesis](/blog/research/phd-thesis/) is to formulate an information systems design theory for e-learning. Even though I have a [publication](/blog/publications/the-formulation-of-an-isdt-for-e-learning/) or two that have described early versions of the ISDT, I've never been really happy with them. However, I'm getting close to the end of this process, at least for the purposes of getting the thesis submitted.
 
-The following is a first draft of the "Principles of form and function", one of the primary components of an ISDT as identified by [Gregory and Jones (2007)](http://aisel.aisnet.org/jais/vol8/iss5/1/). I'll be putting up a draft of the principles of implementation in a little while (**UPDATE** [principles of implementation](/blog2/2010/09/17/principles-of-implementation/) now up). These are still just approaching first draft stage, they need a bit more reflection and some comments from my esteemed supervisor. Happy to hear thoughts.
+The following is a first draft of the "Principles of form and function", one of the primary components of an ISDT as identified by [Gregory and Jones (2007)](http://aisel.aisnet.org/jais/vol8/iss5/1/). I'll be putting up a draft of the principles of implementation in a little while (**UPDATE** [principles of implementation](/blog/2010/09/17/principles-of-implementation/) now up). These are still just approaching first draft stage, they need a bit more reflection and some comments from my esteemed supervisor. Happy to hear thoughts.
 
 By the way, the working title for this ISDT is now "An ISDT for emergent university e-learning systems".
 

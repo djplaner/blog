@@ -7,11 +7,11 @@ categories:
 date: 2009-02-26 00:01:05+10:00
 next:
   text: Minute papers - encouraging reflection?
-  url: /blog2/2009/02/27/minute-papers-encouraging-relection/
+  url: /blog/2009/02/27/minute-papers-encouraging-relection/
 previous:
   text: 'Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
     systems might go away'
-  url: /blog2/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
+  url: /blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
 title: Improving university teaching - learning from constructive alignment by *NOT*
   mandating it
 type: post
@@ -498,7 +498,7 @@ I'd like to propose that there are 3 levels of improving teaching that have some
 
 Biggs' constructive alignment draws on active student construction of learning as the best way to learn. Hence the "constructive" bit in the name. I'm thinking that "reflective alignment" would be a good name for what I'm thinking.
 
-This is based on the assumption that what we really want academic staff to be doing in order to ensure that they are always improving their learning and teaching is "being reflective". That they are engaging in deliberate practice. I've talked a bit about this in an [earlier post](/blog2/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/).
+This is based on the assumption that what we really want academic staff to be doing in order to ensure that they are always improving their learning and teaching is "being reflective". That they are engaging in deliberate practice. I've talked a bit about this in an [earlier post](/blog/2009/01/29/good-teaching-is-not-innate-it-can-be-learned-and-whats-wrong-with-academic-staff-development/).
 
 I'm just reading a paper (Kreber and Castleden, 2009) that includes some support for my idea
 

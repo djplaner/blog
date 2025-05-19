@@ -4,11 +4,11 @@ categories:
 date: 2007-09-04 21:53:44+10:00
 next:
   text: Design-based research and theory
-  url: /blog2/2007/09/04/design-based-research-and-theory/
+  url: /blog/2007/09/04/design-based-research-and-theory/
 previous:
   text: Why &quot;modeller-broker&quot; orientation is inherently limited - bridging
     the gap
-  url: /blog2/2007/09/03/why-modeller-broker-orientation-is-inherently-limited-bridging-the-gap/
+  url: /blog/2007/09/03/why-modeller-broker-orientation-is-inherently-limited-bridging-the-gap/
 title: Carrick, Web3D and Sustainability
 type: post
 template: blog-post.html

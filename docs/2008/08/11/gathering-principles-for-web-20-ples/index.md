@@ -9,10 +9,10 @@ categories:
 date: 2008-08-11 12:01:09+10:00
 next:
   text: Voice Thread for Research Posters
-  url: /blog2/2008/08/11/voice-thread-for-research-posters/
+  url: /blog/2008/08/11/voice-thread-for-research-posters/
 previous:
   text: Creating slidecasts on Slideshare - e-learning support?
-  url: /blog2/2008/08/07/creating-slidecasts-on-slideshare-e-learning-support/
+  url: /blog/2008/08/07/creating-slidecasts-on-slideshare-e-learning-support/
 title: Gathering principles for Web 2.0 - PLEs
 type: post
 template: blog-post.html

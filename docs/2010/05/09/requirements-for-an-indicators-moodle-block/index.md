@@ -6,10 +6,10 @@ categories:
 date: 2010-05-09 14:18:26+10:00
 next:
   text: More thinking about the alignment project
-  url: /blog2/2010/05/13/more-thinking-about-the-alignment-project/
+  url: /blog/2010/05/13/more-thinking-about-the-alignment-project/
 previous:
   text: Blurb for the alignment project
-  url: /blog2/2010/05/07/blurb-for-the-alignment-project/
+  url: /blog/2010/05/07/blurb-for-the-alignment-project/
 title: Requirements for an "indicators" Moodle block
 type: post
 template: blog-post.html

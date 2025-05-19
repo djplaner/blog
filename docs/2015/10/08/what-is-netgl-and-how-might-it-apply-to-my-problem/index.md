@@ -6,10 +6,10 @@ date: 2015-10-08 14:21:06+10:00
 next:
   text: Are our institutions digital visitors?  What are the impacts on learning and
     teaching?
-  url: /blog2/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/
+  url: /blog/2015/10/09/are-our-institutions-digital-visitors-what-are-the-impacts-on-learning-and-teaching/
 previous:
   text: What is theory and why use theories?
-  url: /blog2/2015/10/08/what-is-theory-and-why-use-theories/
+  url: /blog/2015/10/08/what-is-theory-and-why-use-theories/
 title: What is "netgl" and how might it apply to my problem
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ It's all overwhelming, is a common refrain I'm hearing. Understanding that there
 
 At some level DBR can help narrow your focus by asking you to focus on a practical problem. A problem near and dear to your heart and practice.
 
-Of course, the nature of "problems" in and around education are themselves likely to be complex and overwhelming. [The example](https://netgl.wordpress.com/study-schedule-2/week-9-design-based-research/#myexample) I give from my own practice - described initially as "university e-learning tends to be so bad" or ["a bit like teenage sex"](/blog2/2013/09/16/is-institutional-e-learning-like-teenage-sex/) is a big complex problem with lots of perspectives.
+Of course, the nature of "problems" in and around education are themselves likely to be complex and overwhelming. [The example](https://netgl.wordpress.com/study-schedule-2/week-9-design-based-research/#myexample) I give from my own practice - described initially as "university e-learning tends to be so bad" or ["a bit like teenage sex"](/blog/2013/09/16/is-institutional-e-learning-like-teenage-sex/) is a big complex problem with lots of perspectives.
 
 How do you reduce the big overwhelming problem to something that you can meaningful address?
 
@@ -54,11 +54,11 @@ This is where the literature and theory(ies) enter the picture.
 
 ### What might "theory informed" mean?
 
-First, go and read a short post titled [What is theory and why use theories?](/blog2/2015/10/08/what-is-theory-and-why-use-theories/).
+First, go and read a short post titled [What is theory and why use theories?](/blog/2015/10/08/what-is-theory-and-why-use-theories/).
 
 Adopting this broad and pragmatic view of theory, there are many ideas and concepts littered throughout this course (and many, many more outside) including, but not limited to: connectivism; connected learning; communities of practice; group, networks, collectives, and communities; threshold concepts etc. In understanding your problem, you are liable to draw upon a range more.
 
-As per [the short post](/blog2/2015/10/08/what-is-theory-and-why-use-theories/) theories are meant to be useful to you in understanding a situation or problem and then as an aid in formulating action.
+As per [the short post](/blog/2015/10/08/what-is-theory-and-why-use-theories/) theories are meant to be useful to you in understanding a situation or problem and then as an aid in formulating action.
 
 ### Combining theories from NGL and your "problem"
 
@@ -66,7 +66,7 @@ The theories for assignment 2 aren't limited just to theories from NGL. You shou
 
 You look around for how other people have conceptualised the problem and the approaches and theories that they have used. Do any of those resonate with you? Can you see any problems or limitations with the approaches used? Are there other theoretical lenses or just simple ways of understanding the problem that help narrow down useful avenues for action?
 
-In terms of my problem with the perceived quality limitations of university e-learning, [I've been using](/blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/#abstract) the [TPACK framework](http://tpack.org/) for a while as one theoretical lens. TPACK is quite a recent and broadly used theory for understanding the knowledge teachers require to design technology-based learning experiences. (Since all models are wrong, it has it's limitations)
+In terms of my problem with the perceived quality limitations of university e-learning, [I've been using](/blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/#abstract) the [TPACK framework](http://tpack.org/) for a while as one theoretical lens. TPACK is quite a recent and broadly used theory for understanding the knowledge teachers require to design technology-based learning experiences. (Since all models are wrong, it has it's limitations)
 
 Drawing on TPACK I wonder if the reason why university e-learning is so bad is because the TPACK (knowledge) being used to design, implement, and support it is insufficient. It needs to be improved.
 
@@ -76,15 +76,15 @@ Now with a focus on TPACK it's time to combine my personal experience with the t
 
 I might find that there's nothing in the TAFE/VET context that mentions TPACK in conjunction with e-learning. This might highlight an opportunity to learn lessons from other contexts and test them out in the TAFE/VET context. Or there might already be some TPACK/TAFE/VET/e-learning literature that I can learn from.
 
-In my case, as someone with relatively high TPACK [I get really annoyed](/blog2/2014/09/12/you-want-digitally-fluent-faculty/) when people think the main challenge is "low digital fluency of faculty" (i.e. teaching staff). This gets me thinking that perhaps the problem isn't going to be solved by focusing on developing the knowledge of teaching staff. i.e. requiring teaching staff to have formal teaching qualification isn't (I believe) going to solve the problem, so what is?
+In my case, as someone with relatively high TPACK [I get really annoyed](/blog/2014/09/12/you-want-digitally-fluent-faculty/) when people think the main challenge is "low digital fluency of faculty" (i.e. teaching staff). This gets me thinking that perhaps the problem isn't going to be solved by focusing on developing the knowledge of teaching staff. i.e. requiring teaching staff to have formal teaching qualification isn't (I believe) going to solve the problem, so what is?
 
 [![You want digitally fluent faculty?](images/15025763858_58eea9f20c.jpg)](https://www.flickr.com/photos/david_jones/15025763858/ "You want digitally fluent faculty?")
 
 This is potentially interesting because a fair chunk of existing practice assumes that formal teaching qualifications or the "right" professional development opportunities will help teaching staff develop the right TPACK and thus university e-learning will be fantastic. Being able to mount a counter to a prevailing orthodoxy might be interesting and useful. It might make a contribution. It might also identify a fundamental misunderstanding of a problem and a need to read and consider further.
 
-In my case that led to an interest in (seeing a connection with) another theoretical idea, i.e. the [distributive view of learning and knowledge](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/#learningKnowledge). I do recommend Putnam & Borko (2000) as a good place to start learning about how the distributive view of knowledge and thinking can help situate teacher learning.
+In my case that led to an interest in (seeing a connection with) another theoretical idea, i.e. the [distributive view of learning and knowledge](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/#learningKnowledge). I do recommend Putnam & Borko (2000) as a good place to start learning about how the distributive view of knowledge and thinking can help situate teacher learning.
 
-The combination of TPACK and the distributive view of learning appears to be useful. So we ended up using it [in this paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) to explore our experience with university e-learning. That work lead to questions such as
+The combination of TPACK and the distributive view of learning appears to be useful. So we ended up using it [in this paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) to explore our experience with university e-learning. That work lead to questions such as
 
 - How can institutional learning and teaching support engage with the situated nature of TPACK and its development?
 - How can University-based systems and teaching practices be closer to, or better situated in, the teaching contexts experienced by pre-service educators?
@@ -98,11 +98,11 @@ Most of these are questions that could be good candidates for a design-based res
 
 ### Designing an intervention
 
-[This recent post](/blog2/2015/09/05/design-of-a-bad-approach-to-developing-tpack/) is my attempt to answer at least this question from above
+[This recent post](/blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/) is my attempt to answer at least this question from above
 
 > How can institutional learning and teaching support engage with the situated nature of TPACK and its development?
 
-It takes the distributed view of TPACK, the [BAD mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset), and tries to envision some changes in practice/technology that might embody the principles from those theoretical ideas.
+It takes the distributed view of TPACK, the [BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset), and tries to envision some changes in practice/technology that might embody the principles from those theoretical ideas.
 
 The idea is that being guided by those theoretical ideas makes it more likely that I can predict what can/should happen. I can justify the design of the intervention. I might be wrong, but it will hopefully be a better reason for the specific design approach than "because I wanted to".
 

@@ -8,10 +8,10 @@ categories:
 date: 2008-10-29 11:27:17+10:00
 next:
   text: How do we transform institutions? Learning 2.0 and PLEs@CQUni
-  url: /blog2/2008/10/30/how-do-we-transform-institutions-learning-20-and-plescquni/
+  url: /blog/2008/10/30/how-do-we-transform-institutions-learning-20-and-plescquni/
 previous:
   text: The gulf between users and IT departments
-  url: /blog2/2008/10/26/the-gulf-between-users-and-it-departments/
+  url: /blog/2008/10/26/the-gulf-between-users-and-it-departments/
 title: The importance of diversity to improving learning and teaching
 type: post
 template: blog-post.html
@@ -120,6 +120,6 @@ From these two observations a number of potential implications can be drawn
 - Organisational units (e.g. teaching and learning or academic staff development units) which all have pretty much the same background (e.g. all graduated with Masters in Instructional Design) or same experience (all publish in the same set of conferences or journals) will be less innovative than they could be.
 - An L&T support unit that doesn't regularly, actively and deeply engage with the L&T context of their organisation are destined to do things that are less innovative and appropriate.
 
-Of course I believe this, over the last 5 years I've occasionally attempt to get the [REACT](/blog2/research/reflection-evaluation-and-collaboration-in-teaching/) process off the ground as an approach to improving learning and teaching. A key aim of that project was to
+Of course I believe this, over the last 5 years I've occasionally attempt to get the [REACT](/blog/research/reflection-evaluation-and-collaboration-in-teaching/) process off the ground as an approach to improving learning and teaching. A key aim of that project was to
 
 > opening up the design of teaching to enable collaboration with and input from a diverse set of peers;

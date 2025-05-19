@@ -6,10 +6,10 @@ categories:
 date: 2015-04-13 22:09:57+10:00
 next:
   text: What's good for "open content" is good for the LMS/virtual learning space?
-  url: /blog2/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
+  url: /blog/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
 previous:
   text: Designing a Secondary Computing curriuclum &#038; pedagogy course
-  url: /blog2/2015/04/02/designing-a-secondary-computing-curriuclum-pedagogy-course/
+  url: /blog/2015/04/02/designing-a-secondary-computing-curriuclum-pedagogy-course/
 title: Starting the "Moodle open book" project
 type: post
 template: blog-post.html
@@ -128,7 +128,7 @@ pingbacks:
     []
     
 ---
-Back in February I shared [shared some thoughts](/blog2/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/) about some ideas for [grants for producing an "open textbook"](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks) at my current institution. In the end, these thoughts were translated into an application which has just been officially announced as being successful. The following is my first attempt to get my head back into the project and outline
+Back in February I shared [shared some thoughts](/blog/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/) about some ideas for [grants for producing an "open textbook"](http://www.usq.edu.au/learning-teaching/excellence/landtgrants/OpenTextbooks) at my current institution. In the end, these thoughts were translated into an application which has just been officially announced as being successful. The following is my first attempt to get my head back into the project and outline
 
 - what the project is about;
 - the method being used;
@@ -136,7 +136,7 @@ Back in February I shared [shared some thoughts](/blog2/2015/02/10/framing-an-op
 - the aims and timelines; and,
 - some other research that I hope might happen.
 
-There's also an initial [project page](/blog2/the-moodle-open-book-module-project/).
+There's also an initial [project page](/blog/the-moodle-open-book-module-project/).
 
 ## About the project
 
@@ -155,7 +155,7 @@ The framework is required because
     
     i.e. it only produces resources available from within Moodle. At my institution, this means that only students currently enrolled at the University and at some stage enrolled in the course can access the resources. I've had a couple of past students want to access material from the course, but beyond this the content can't easily be open and generate all the benefits that is meant to bring.
     
-    Beyond getting access to the material the authoring model for the book module is not readily made open. It's hard to have the collection of books in EDC3100 benefit from the [residue of experience](/blog2/2014/08/15/joining-the-swarm-what-a-course-might-be/#residue) of past students. Currently, I attempt to modify the books based on questions and feedback from students. Would be useful to allow them to do it themselves.
+    Beyond getting access to the material the authoring model for the book module is not readily made open. It's hard to have the collection of books in EDC3100 benefit from the [residue of experience](/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/#residue) of past students. Currently, I attempt to modify the books based on questions and feedback from students. Would be useful to allow them to do it themselves.
     
     Beyond the students it would be useful for the material to benefit from the expertise of folk outside the course and to be used by them.
     
@@ -163,9 +163,9 @@ The framework is required because
     
 2. the Moodle book module could be enhanced.
     
-    Round trip authoring with the Moodle book module [has some space for improvement](/blog2/2015/02/10/how-to-help-improve-the-moodle-book-module/).
+    Round trip authoring with the Moodle book module [has some space for improvement](/blog/2015/02/10/how-to-help-improve-the-moodle-book-module/).
     
-    Even when students can still access the Moodle course site, [there are issues](/blog2/2014/08/15/joining-the-swarm-what-a-course-might-be/) around finding the information again. There is no search function. This is a frustration for students (and staff) at the moment.
+    Even when students can still access the Moodle course site, [there are issues](/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/) around finding the information again. There is no search function. This is a frustration for students (and staff) at the moment.
     
     There's limited support for collections of Moodle books. For example, each week in my course takes the form of a "learning path". The Moodle books - typically at least 4 or 5 a week - outline the path. The current print function can only print a single chapter or all the chapters in a single book. There is no easy way to print a collection of books. Yes some students still want a print version of the information, even though much of it is in a form not conducive to print.
     
@@ -174,7 +174,7 @@ The framework is required because
 
 ## Breaking BAD - the method
 
-The project - like most of what I do - will be use an approach informed by a [BAD mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset). That is:
+The project - like most of what I do - will be use an approach informed by a [BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset). That is:
 
 - **B**ricolage;
     
@@ -281,7 +281,7 @@ The Moodle book has been around for quite some time. I'm wondering how much its 
 
 ### How can you break BAD with the LMS? What's the impact and value of doing so?
 
-We argued in [in this paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) that "teenage sex" problem with institutional e-learning is caused by the overwhelming use of the SET mindset to drive its implementation. This project is explicitly trying to use a BAD mindset to help. Can it be done? Or is as we identified in the paper, the overwhelming assumption of a SET mindset too strong to overcome? If it can be, does the BAD mindset help or hinder? What works, what doesn't? Why?
+We argued in [in this paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) that "teenage sex" problem with institutional e-learning is caused by the overwhelming use of the SET mindset to drive its implementation. This project is explicitly trying to use a BAD mindset to help. Can it be done? Or is as we identified in the paper, the overwhelming assumption of a SET mindset too strong to overcome? If it can be, does the BAD mindset help or hinder? What works, what doesn't? Why?
 
 ### Can the "remix hypothesis" and the 4Rs be applied to the systems, not just OERs?
 

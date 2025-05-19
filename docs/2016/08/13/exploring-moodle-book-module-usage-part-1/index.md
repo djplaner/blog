@@ -8,10 +8,10 @@ categories:
 date: 2016-08-13 17:10:02+10:00
 next:
   text: Exploring Moodle Book usage - part 2 - overall use
-  url: /blog2/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/
+  url: /blog/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/
 previous:
   text: How many digital devices do you have?
-  url: /blog2/2016/08/12/how-many-digital-devices-do-you-have/
+  url: /blog/2016/08/12/how-many-digital-devices-do-you-have/
 title: Exploring Moodle Book Module usage - part 1 - background and planning
 type: post
 template: blog-post.html
@@ -147,7 +147,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm due to have the slides for a [Moodlemoot Australia presentation](/blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/) in a few weeks. Time to get organised. The following is (perhaps) the first of a sequence of posts reporting on progress toward that presentation and the related research.
+I'm due to have the slides for a [Moodlemoot Australia presentation](/blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/) in a few weeks. Time to get organised. The following is (perhaps) the first of a sequence of posts reporting on progress toward that presentation and the related research.
 
 ## Background
 
@@ -159,7 +159,7 @@ A contributing factor to that is that institutional attempts to improve digital 
 
 ### Schema and the grammar of school
 
-The ideas of schema and the grammar of school offer one example of this failure. [This earlier post](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) includes the following quote from Cavallo (2004) establishes the link
+The ideas of schema and the grammar of school offer one example of this failure. [This earlier post](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) includes the following quote from Cavallo (2004) establishes the link
 
 David Tyack and Larry Cuban postulated that there exists a grammar of school, which makes deviation from our embedded popular conception of school feel as nonsensical as an ungrammatical utterance \[1\]. They describe how reform efforts, whether good or bad, progressive or conservative, eventually are rejected or denatured and assimilated. Reform efforts are not attempted in the abstract, they are situated in a variety of social, cultural and historical contexts. They do not succeed or fail solely on the basis of the merit of the ideas about learning, but rather, they are viewed as successful based upon their effect on the system and culture as a whole. Thus, they also have sociological and institutional components — failure to attend to matters of systemic learning will facilitate the failure of the adoption of the reforms. (p. 96)
 
@@ -173,7 +173,7 @@ The grammar of school problem is linked to the idea of [schema](http://changingm
 
 The schema idea means that people will perceive and thus use digital technologies in ways that fit with their "integrated sets of assumptions, expectations and experiences". This is an explanation for the horsey, horseless carriage way people respond to digital technologies. It's why courses where the majority of students are online students and will never come onto a campus are still designed around the idea of face-to-face lectures and tutorials.
 
-It also explains why when I finally returned to teaching a course I adopted the idea of [a ramble](/blog2/2012/02/19/designing-the-weekly-ramble/) for the structure of the course.  It explains why the implementation of the ramble evolved into using the [Moodle Book module](https://docs.moodle.org/31/en/Book_module) the way it does today. The images below (click on them to see larger versions) illustrate the connection between my practice 20 years apart, more detail follows.
+It also explains why when I finally returned to teaching a course I adopted the idea of [a ramble](/blog/2012/02/19/designing-the-weekly-ramble/) for the structure of the course.  It explains why the implementation of the ramble evolved into using the [Moodle Book module](https://docs.moodle.org/31/en/Book_module) the way it does today. The images below (click on them to see larger versions) illustrate the connection between my practice 20 years apart, more detail follows.
 
 | 1996 | 2016 |
 | --- | --- |

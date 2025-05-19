@@ -4,15 +4,15 @@ categories:
 date: 2010-01-17 22:20:26+10:00
 next:
   text: Questions about alternatives to curriculum mapping
-  url: /blog2/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
+  url: /blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
 previous:
   text: BIM - Manage Marking
-  url: /blog2/2010/01/17/bim-manage-marking/
+  url: /blog/2010/01/17/bim-manage-marking/
 title: BIM - manage marking - view and release
 type: post
 template: blog-post.html
 ---
-This post continues on from [the manage marking](/blog2/2010/01/17/bim-manage-marking/) work and describes the design/implementation of the view and release operations of manage marking. There are strong similarities in what both operations do and how they do it, so doing them in one.
+This post continues on from [the manage marking](/blog/2010/01/17/bim-manage-marking/) work and describes the design/implementation of the view and release operations of manage marking. There are strong similarities in what both operations do and how they do it, so doing them in one.
 
 Both view and release take a collection of values and subsequently query/update the bim tables.
 

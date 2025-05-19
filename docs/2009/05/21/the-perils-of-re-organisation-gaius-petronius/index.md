@@ -4,10 +4,10 @@ categories:
 date: 2009-05-21 22:18:35+10:00
 next:
   text: '"Phd Update #12 - some progress, but late"'
-  url: /blog2/2009/05/23/phd-update-12-some-progress-but-late/
+  url: /blog/2009/05/23/phd-update-12-some-progress-but-late/
 previous:
   text: 'Learning spaces: expenditure and time spent learning'
-  url: /blog2/2009/05/21/learning-spaces-expenditure-and-time-spent-learning/
+  url: /blog/2009/05/21/learning-spaces-expenditure-and-time-spent-learning/
 title: The perils of re-organisation - Gaius Petronius
 type: post
 template: blog-post.html

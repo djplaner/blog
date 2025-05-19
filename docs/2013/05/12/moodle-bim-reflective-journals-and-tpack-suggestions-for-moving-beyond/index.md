@@ -4,10 +4,10 @@ categories:
 date: 2013-05-12 14:40:20+10:00
 next:
   text: I'm helping to organise a conference - sort of
-  url: /blog2/2013/05/22/im-helping-to-organise-a-conference-sort-of/
+  url: /blog/2013/05/22/im-helping-to-organise-a-conference-sort-of/
 previous:
   text: How can an &quot;enterprise&quot; e-learning tool be agile?
-  url: /blog2/2013/05/10/how-can-an-enterprise-e-learning-tool-be-agile/
+  url: /blog/2013/05/10/how-can-an-enterprise-e-learning-tool-be-agile/
 title: '"Moodle, BIM, reflective journals and TPACK: Suggestions for moving beyond"'
 type: post
 template: blog-post.html

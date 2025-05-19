@@ -6,10 +6,10 @@ categories:
 date: 2007-01-10 15:40:32+10:00
 next:
   text: A problem with credentialism around teaching and learning
-  url: /blog2/2007/01/11/a-problem-with-credentialism-around-teaching-and-learning/
+  url: /blog/2007/01/11/a-problem-with-credentialism-around-teaching-and-learning/
 previous:
   text: Process and product are inextricably linked
-  url: /blog2/2007/01/10/process-and-product-are-inextricably-linked/
+  url: /blog/2007/01/10/process-and-product-are-inextricably-linked/
 title: Issues around staff development for e-learning
 type: post
 template: blog-post.html

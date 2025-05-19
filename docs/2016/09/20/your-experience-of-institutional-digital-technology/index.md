@@ -4,10 +4,10 @@ categories:
 date: 2016-09-20 10:19:52+10:00
 next:
   text: Exploring Moodle Book usage - Part 7a) - when are they modified
-  url: /blog2/2016/09/20/exploring-moodle-book-usage-part-7a-when-are-they-modified/
+  url: /blog/2016/09/20/exploring-moodle-book-usage-part-7a-when-are-they-modified/
 previous:
   text: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used?"
-  url: /blog2/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/
+  url: /blog/2016/09/11/exploring-moodle-book-usage-part-7-when-are-they-used/
 title: Your experience of organisational digital technology?
 type: post
 template: blog-post.html
@@ -79,4 +79,4 @@ If you'd like to share, please complete the poll below, more detail below.
 
 ### About the poll
 
-The poll is a semi-serious attempt to gather the perceptions of how people perceive organisational digital technologies. The idea (and the text from the two poll options) comes from [this conference paper.](/blog2/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) The presentation will be on Friday 30th September with additional presentation resources coming to this blog soon.
+The poll is a semi-serious attempt to gather the perceptions of how people perceive organisational digital technologies. The idea (and the text from the two poll options) comes from [this conference paper.](/blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) The presentation will be on Friday 30th September with additional presentation resources coming to this blog soon.

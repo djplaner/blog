@@ -9,10 +9,10 @@ categories:
 date: 2010-03-09 09:59:23+10:00
 next:
   text: Fixes and reflections on the early use of BIM
-  url: /blog2/2010/03/09/fixes-and-reflections-on-the-early-use-of-bim/
+  url: /blog/2010/03/09/fixes-and-reflections-on-the-early-use-of-bim/
 previous:
   text: Some thinking on analysing Webfuse usage
-  url: /blog2/2010/03/07/some-thinking-on-analysing-webfuse-usage/
+  url: /blog/2010/03/07/some-thinking-on-analysing-webfuse-usage/
 title: The Ps Framework and the mismatch created by the product and process of industrial
   e-learning
 type: post
@@ -24,7 +24,7 @@ pingbacks:
     []
     
 ---
-Last year I gave a [a couple of presentations](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) titled "Alternatives for the institutional implementation of e-learning". In those presentations I essentially argued that what passes for current practice of e-learning in universities - what I now call "industrial e-learning" - suffers from a significant mismatch which, I believe, contributes to most of its limitations. My argument is that the nature of the product (the LMS) and the process (teleological) adopted in industrial e-learning to be completely unsuited to the nature of the people involved in e-learning, the nature of learning and teaching and the nature of universities and the context in which they operate.
+Last year I gave a [a couple of presentations](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) titled "Alternatives for the institutional implementation of e-learning". In those presentations I essentially argued that what passes for current practice of e-learning in universities - what I now call "industrial e-learning" - suffers from a significant mismatch which, I believe, contributes to most of its limitations. My argument is that the nature of the product (the LMS) and the process (teleological) adopted in industrial e-learning to be completely unsuited to the nature of the people involved in e-learning, the nature of learning and teaching and the nature of universities and the context in which they operate.
 
 Anyone who has been following this blog for some time will recognise that sentiment in any number of posts. But this one is a little different.
 

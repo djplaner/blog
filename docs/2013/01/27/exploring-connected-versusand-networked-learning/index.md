@@ -4,10 +4,10 @@ categories:
 date: 2013-01-27 23:21:39+10:00
 next:
   text: BIM 2.0 - cleaning up part 4
-  url: /blog2/2013/02/01/bim-2-0-cleaning-up-part-4/
+  url: /blog/2013/02/01/bim-2-0-cleaning-up-part-4/
 previous:
   text: 1000 blog posts - a time to look back
-  url: /blog2/2013/01/24/1000-blog-posts-a-time-to-look-back/
+  url: /blog/2013/01/24/1000-blog-posts-a-time-to-look-back/
 title: Exploring connected versus/and networked learning
 type: post
 template: blog-post.html
@@ -298,7 +298,7 @@ Let's return to a couple of the blog prompts Alec had at the end of his presenta
     then 30/40 years (at most) into this transformation, we can only be looking at the earliest possible blurry outlines of what learning will become.
     
 - Is it possible for our classrooms and institutions to support this kind of learning? If so, how?  
-    It would appear very unlikely that existing educational institutions could effectively support this kind of learning. Focusing just on the specifics of this [specific connected learning definition](http://connectedlearning.tv/connected-learning-principles) it is hard to see how the current [grammar of school](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) could possibly make sense of it. There are too many aspects of connected learning that would be seen "as nonsensical as an ungrammatical utterance". "Interest-powered" in an era of National (e.g. standards-based) curricula is just one example.
+    It would appear very unlikely that existing educational institutions could effectively support this kind of learning. Focusing just on the specifics of this [specific connected learning definition](http://connectedlearning.tv/connected-learning-principles) it is hard to see how the current [grammar of school](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) could possibly make sense of it. There are too many aspects of connected learning that would be seen "as nonsensical as an ungrammatical utterance". "Interest-powered" in an era of National (e.g. standards-based) curricula is just one example.
     
     But then, I also think it will eventually change. I think it will change by bricolage, by accident, cultural and generational change, and unintended consequences. There won't be one great vast top-down, strategic change driven by politicians and formal change processes. It will instead be the gradual accumulation of small changes that will lead to large slippages and change.
     

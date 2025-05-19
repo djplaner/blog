@@ -6,10 +6,10 @@ categories:
 date: 2006-10-27 11:30:11+10:00
 next:
   text: The research "foundation" for the missing Ps
-  url: /blog2/2006/10/29/the-research-foundation-for-the-missing-ps/
+  url: /blog/2006/10/29/the-research-foundation-for-the-missing-ps/
 previous:
   text: What should the institution provide in a Web 2.0 world?
-  url: /blog2/2006/10/26/what-should-the-institution-provide-in-a-web-20-world/
+  url: /blog/2006/10/26/what-should-the-institution-provide-in-a-web-20-world/
 title: The missing Ps - Process
 type: post
 template: blog-post.html

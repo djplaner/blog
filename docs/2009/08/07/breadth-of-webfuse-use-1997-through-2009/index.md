@@ -9,10 +9,10 @@ categories:
 date: 2009-08-07 21:48:10+10:00
 next:
   text: The limiting impacts of a PhD and the writing up phase
-  url: /blog2/2009/08/09/the-limiting-impacts-of-a-phd-and-the-writing-up-phase/
+  url: /blog/2009/08/09/the-limiting-impacts-of-a-phd-and-the-writing-up-phase/
 previous:
   text: Losing weight, improving learning and teaching and complex systems
-  url: /blog2/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
+  url: /blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/
 title: '"Breadth of Webfuse use: 1997 through 2009"'
 type: post
 template: blog-post.html
@@ -51,7 +51,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Over the last week I've posted a bit around papers and ideas about how you evaluate the use of a learning management system (LMS). This post is intended to summarise findings from an initial evaluation of the use of features in the Webfuse system from 1997 through 2009. Webfuse is the system I designed as part of my [PhD](/blog2/research/phd-thesis/) and has been used at [Central Queensland University](http://www.cqu.edu.au/) since 1997. At least the "LMS" part of Webfuse will cease being used in 2010.
+Over the last week I've posted a bit around papers and ideas about how you evaluate the use of a learning management system (LMS). This post is intended to summarise findings from an initial evaluation of the use of features in the Webfuse system from 1997 through 2009. Webfuse is the system I designed as part of my [PhD](/blog/research/phd-thesis/) and has been used at [Central Queensland University](http://www.cqu.edu.au/) since 1997. At least the "LMS" part of Webfuse will cease being used in 2010.
 
 Aside: Webfuse is not an LMS. Anyone who calls Webfuse an LMS doesn't get it.
 

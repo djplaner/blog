@@ -4,10 +4,10 @@ categories:
 date: 2012-04-05 15:46:28+10:00
 next:
   text: Why learning management systems will probably go away
-  url: /blog2/2012/04/06/why-learning-management-systems-will-probably-go-away/
+  url: /blog/2012/04/06/why-learning-management-systems-will-probably-go-away/
 previous:
   text: bim2 - Marker interface
-  url: /blog2/2012/04/03/bim2-marker-interface/
+  url: /blog/2012/04/03/bim2-marker-interface/
 title: bim2 - What's working for coordinator
 type: post
 template: blog-post.html
@@ -45,7 +45,7 @@ pingbacks:
       user_id: '0'
     
 ---
-More detail on what BIM is [can be found here](/blog2/research/bam-blog-aggregation-management/)
+More detail on what BIM is [can be found here](/blog/research/bam-blog-aggregation-management/)
 
 The following documents initial forays into getting the coordinator view of bim. The aim is to summarise what is or isn't working in Moodle 2.1
 

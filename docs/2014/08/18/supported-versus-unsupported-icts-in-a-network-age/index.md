@@ -5,10 +5,10 @@ categories:
 date: 2014-08-18 11:08:20+10:00
 next:
   text: Part C of catching up on NGL
-  url: /blog2/2014/08/18/part-c-of-catching-up-on-ngl/
+  url: /blog/2014/08/18/part-c-of-catching-up-on-ngl/
 previous:
   text: Do not fear perfection, you&#039;ll never achieve it
-  url: /blog2/2014/08/17/do-not-fear-perfection-youll-never-achieve-it/
+  url: /blog/2014/08/17/do-not-fear-perfection-youll-never-achieve-it/
 title: '"Supported" versus "unsupported" ICTs in a network age'
 type: post
 template: blog-post.html

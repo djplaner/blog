@@ -4,10 +4,10 @@ categories:
 date: 2016-09-21 15:40:07+10:00
 next:
   text: Exploring Moodle Book usage - Part 8 - linking to and from
-  url: /blog2/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/
+  url: /blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/
 previous:
   text: What if our digital technologies were protean?
-  url: /blog2/2016/09/21/what-if-our-digital-technologies-were-protean/
+  url: /blog/2016/09/21/what-if-our-digital-technologies-were-protean/
 title: OEP, institutions and culture
 type: post
 template: blog-post.html
@@ -41,7 +41,7 @@ pingbacks:
 ---
 Some colleagues and I are [embarking on a project](https://oepuqusq.wordpress.com/) exploring how teacher education might move toward adoption Open Educational Practices (OEP). A project that is currently being driven by a funding from one University, and which might lead to an application for funding from another institution. In part, we're thinking about how teacher education in each of these two institutions can adopt OEP, what that might look like, what the barriers be, and how might we go about moving toward something like this that won't fade away once the money runs out or we move on.
 
-As it happens, over the last week or so there's been an on-going discussion about the role of institutions and/or culture in OER. A discussion that started with [Mike Caufield's reflections](https://hapgood.us/2016/09/07/putting-student-produced-oer-at-the-heart-of-the-institution/) and were then picked up by many, including [Jim Groom,](http://bavatuesdays.com/the-overselling-of-open/) [Stephen Downes](http://halfanhour.blogspot.com.au/2016/09/institutions-and-openness.html) and [Tim Klapdor](https://timklapdor.wordpress.com/2016/09/19/culture-vs-institutions-who-pays-for-change/). A discussion that provides an interesting way of looking at what we're thinking about. In the end, I think we may need to draw upon the following from David Wiley and Cable Green, which echoes [a discussion](/blog2/2010/04/25/inside-out-outside-in-or-both/) Leigh Blackall and I had back in 2010.
+As it happens, over the last week or so there's been an on-going discussion about the role of institutions and/or culture in OER. A discussion that started with [Mike Caufield's reflections](https://hapgood.us/2016/09/07/putting-student-produced-oer-at-the-heart-of-the-institution/) and were then picked up by many, including [Jim Groom,](http://bavatuesdays.com/the-overselling-of-open/) [Stephen Downes](http://halfanhour.blogspot.com.au/2016/09/institutions-and-openness.html) and [Tim Klapdor](https://timklapdor.wordpress.com/2016/09/19/culture-vs-institutions-who-pays-for-change/). A discussion that provides an interesting way of looking at what we're thinking about. In the end, I think we may need to draw upon the following from David Wiley and Cable Green, which echoes [a discussion](/blog/2010/04/25/inside-out-outside-in-or-both/) Leigh Blackall and I had back in 2010.
 
 <blockquote class="twitter-tweet"><p dir="ltr" lang="en"><a href="https://twitter.com/opencontent">@opencontent</a> <a href="https://twitter.com/jimgroom">@jimgroom</a> <a href="https://twitter.com/Downes">@Downes</a> <a href="https://twitter.com/holden">@holden</a> I propose it's not an either / or ... it's a both / and.</p>— Cable Green (@cgreen) <a href="https://twitter.com/cgreen/status/777279691409371138">September 17, 2016</a></blockquote>
 
@@ -97,7 +97,7 @@ For example, institutional policy still does not make it easy (or even possible)
 
 !!! warning "Broken image"
 
-The [2010 discussion](/blog2/2010/04/25/inside-out-outside-in-or-both/) around open and how to get there between Leigh Blackall and I arose out of my work [on BIM](https://docs.moodle.org/31/en/BIM_module). A Moodle module that aids teachers manage use of individual student blogs. BIM is perhaps the ed tech equivalent of an [Archisuit](http://www.insecurespaces.net/archisuits.html#). An example of a response to a hostile architecture. An example that Mike uses as an example of the sort of workarounds that open pedagogy people have been working on for ages. But then argues that
+The [2010 discussion](/blog/2010/04/25/inside-out-outside-in-or-both/) around open and how to get there between Leigh Blackall and I arose out of my work [on BIM](https://docs.moodle.org/31/en/BIM_module). A Moodle module that aids teachers manage use of individual student blogs. BIM is perhaps the ed tech equivalent of an [Archisuit](http://www.insecurespaces.net/archisuits.html#). An example of a response to a hostile architecture. An example that Mike uses as an example of the sort of workarounds that open pedagogy people have been working on for ages. But then argues that
 
 Being against the institution may be necessary, but it is not where you ultimately want to be. If you want real change, styrofoam padding isn’t going to cut it. Eventually you have to remove the damn bars from the bench.
 
@@ -105,9 +105,9 @@ The difference with BIM is that it is part of the LMS. It's an accepted part of 
 
 However, that still hasn't encouraged vast swaths of adoption. 8 of the 10 course offerings that have used by BIM in 2014/2015 were courses I taught. On the plus side, I was surprised to find the other two courses and I believe they have continued using BIM this year.
 
-The [Moodle Open Book project](/blog2/the-moodle-open-book-module-project/) is another "archisuit" example. The aim is to connect the Moodle Book module (used to manage/display collections of web pages within Moodle) to GitHub and thus enable production of OER and more interestingly OEP. There's even some ["working" code](https://github.com/djplaner/moodle-booktool_github).
+The [Moodle Open Book project](/blog/the-moodle-open-book-module-project/) is another "archisuit" example. The aim is to connect the Moodle Book module (used to manage/display collections of web pages within Moodle) to GitHub and thus enable production of OER and more interestingly OEP. There's even some ["working" code](https://github.com/djplaner/moodle-booktool_github).
 
-But as I talk about both of these workarounds, what I'm struck by is the huge "cultural" leap required to go from not using blogs/github to thinking about how blogs/github might be leveraged in an interesting OEP way. Even [the initial development and application of BAM](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) (the non-Moodle predecessor) of BIM was driven by a fairly uninspired pedagogical application - address the student corruption of a "reflective journal" assignment using Word documents.
+But as I talk about both of these workarounds, what I'm struck by is the huge "cultural" leap required to go from not using blogs/github to thinking about how blogs/github might be leveraged in an interesting OEP way. Even [the initial development and application of BAM](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) (the non-Moodle predecessor) of BIM was driven by a fairly uninspired pedagogical application - address the student corruption of a "reflective journal" assignment using Word documents.
 
 ### The impact of culture
 

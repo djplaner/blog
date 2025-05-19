@@ -1451,9 +1451,9 @@ BIM is an activity module for Moodle that provides the functionality required to
 
 [See this post](http://localhost/m24/rss/file.php/1/ccc9cab07429bdbd1060874f5076f323/blog/user/2/rss.xml) for an explanation of the differences between BIM and Moodle's blog services.
 
-There is [a video of a presentation](/blog2/2010/07/20/an-overview-of-bim/) that gives an overview of BIM, including showing how it works for staff and students.
+There is [a video of a presentation](/blog/2010/07/20/an-overview-of-bim/) that gives an overview of BIM, including showing how it works for staff and students.
 
-Earlier versions of BIM have been used mostly to manage individual student reflective blogs as described in ([Jones and Luck, 2009](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/); [Reaburn, Muldoon and Bookallil, 2009](http://www.ascilite.org.au/conferences/auckland09/procs/reaburn.pdf)).
+Earlier versions of BIM have been used mostly to manage individual student reflective blogs as described in ([Jones and Luck, 2009](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/); [Reaburn, Muldoon and Bookallil, 2009](http://www.ascilite.org.au/conferences/auckland09/procs/reaburn.pdf)).
 
 The [ELI Guide to Blogging](https://library.educause.edu/resources/2007/8/eli-discovery-tool-guide-to-blogging) talks about BAM, an early version of BIM.
 
@@ -1481,7 +1481,7 @@ There is a range of related work going on. Some of it includes:
 
 ### History of BIM
 
-- **Early 2006** The Blog Aggregation Management (BAM) project commenced with an [initial experiment](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/).
+- **Early 2006** The Blog Aggregation Management (BAM) project commenced with an [initial experiment](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/).
 - **2006** The experiment was written up in [the ELI Guide to Blogging](https://library.educause.edu/resources/2007/8/eli-discovery-tool-guide-to-blogging) and said
     
     > One of the most compelling aspects of the project was the simple way it married Web 2.0 applications with institutional systems. This approach has the potential to give institutional teaching and learning systems greater efficacy and agility by making use of the many free or inexpensive—but useful—tools like blogs proliferating on the Internet and to liberate institutional computing staff and resources for other efforts.

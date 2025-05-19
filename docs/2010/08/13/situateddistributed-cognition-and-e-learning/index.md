@@ -4,10 +4,10 @@ categories:
 date: 2010-08-13 10:32:19+10:00
 next:
   text: '"PhD Update #27 - New context"'
-  url: /blog2/2010/08/13/phd-update-27-new-context/
+  url: /blog/2010/08/13/phd-update-27-new-context/
 previous:
   text: Background to the thesis
-  url: /blog2/2010/08/12/background-to-the-thesis/
+  url: /blog/2010/08/12/background-to-the-thesis/
 tags:
 - e-learning
 - learning

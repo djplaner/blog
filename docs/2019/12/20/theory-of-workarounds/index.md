@@ -6,10 +6,10 @@ categories:
 date: 2019-12-20 09:44:53+10:00
 next:
   text: Is training the barrier to quality online learning in higher ed?
-  url: /blog2/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/
+  url: /blog/2019/12/23/is-training-the-barrier-to-quality-online-learning-in-higher-ed/
 previous:
   text: 'The conceptualisation of e-learning: Lessons and implications'
-  url: /blog2/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/
+  url: /blog/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/
 title: Theory of workarounds
 type: post
 template: blog-post.html
@@ -43,7 +43,7 @@ Alter (2014) offers the following definition of workarounds
 - workarounds may not be temporary;
 - workarounds are not necessarily examples of noncompliance;
 
-Alter’s (2014) definition of workarounds does rely on it occuring within a _work system_. Another theoretical concept developed by Alter (2002). See [this section](/blog2/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/) from an old paper of mine for a summary of the Work System Framework.
+Alter’s (2014) definition of workarounds does rely on it occuring within a _work system_. Another theoretical concept developed by Alter (2002). See [this section](/blog/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/) from an old paper of mine for a summary of the Work System Framework.
 
 It is argued that this reliance on the work system framework provides a “broader and more comprehensive view of the changes that can be included in workarounds” (Alter, 2014, p. 1046)
 

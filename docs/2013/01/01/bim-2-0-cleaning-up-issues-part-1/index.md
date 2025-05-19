@@ -5,10 +5,10 @@ categories:
 date: 2013-01-01 17:01:01+10:00
 next:
   text: When will we no longer teach ICTs to pre-service teachers?
-  url: /blog2/2013/01/02/when-will-we-no-longer-teach-icts-to-pre-service-teachers/
+  url: /blog/2013/01/02/when-will-we-no-longer-teach-icts-to-pre-service-teachers/
 previous:
   text: Adding restore to BIM
-  url: /blog2/2013/01/01/adding-restore-to-bim/
+  url: /blog/2013/01/01/adding-restore-to-bim/
 title: BIM 2.0 - cleaning up issues - Part 1
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-While [BIM 2.0](/blog2/research/bam-blog-aggregation-management/) is largely working there remains a [list of 30 open issues](https://github.com/djplaner/BIM/issues) to be addressed. 19 of these are "future" issues. i.e. changes that would be really nice but aren't necessary for the immediate release of BIM 2.0. The following is the first part of working on the 11 that are of immediate interest.
+While [BIM 2.0](/blog/research/bam-blog-aggregation-management/) is largely working there remains a [list of 30 open issues](https://github.com/djplaner/BIM/issues) to be addressed. 19 of these are "future" issues. i.e. changes that would be really nice but aren't necessary for the immediate release of BIM 2.0. The following is the first part of working on the 11 that are of immediate interest.
 
 Of initial interest will be
 

@@ -4,10 +4,10 @@ categories:
 date: 2006-12-28 10:52:07+10:00
 next:
   text: Evaluating the drivers for LMS adoption
-  url: /blog2/2006/12/28/evaluating-the-drivers-for-lms-adoption/
+  url: /blog/2006/12/28/evaluating-the-drivers-for-lms-adoption/
 previous:
   text: LMSes mostly for administrative purposes
-  url: /blog2/2006/12/28/lmses-mostly-for-administrative-purposes/
+  url: /blog/2006/12/28/lmses-mostly-for-administrative-purposes/
 title: Is pedagogical the only lens
 type: post
 template: blog-post.html

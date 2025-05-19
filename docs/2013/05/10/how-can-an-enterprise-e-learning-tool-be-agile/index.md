@@ -5,15 +5,15 @@ categories:
 date: 2013-05-10 16:05:53+10:00
 next:
   text: '"Moodle, BIM, reflective journals and TPACK: Suggestions for moving beyond"'
-  url: /blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/
+  url: /blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/
 previous:
   text: Everything old is new again
-  url: /blog2/2013/05/04/everything-old-is-new-again/
+  url: /blog/2013/05/04/everything-old-is-new-again/
 title: How can an "enterprise" e-learning tool be agile?
 type: post
 template: blog-post.html
 ---
-I have a problem. If I'm really lucky, [BIM](/blog2/research/bam-blog-aggregation-management/) will get added to my institution's version of BIM for Semester 2 and I will be able to use it. Based on my experience this semester - where I've used an approach that depends on BIM - there has been limitations and workload issues. Having BIM installed in the "enterprise LMS" will help significantly reduce these problems. It will also severely limit my ability to learn.
+I have a problem. If I'm really lucky, [BIM](/blog/research/bam-blog-aggregation-management/) will get added to my institution's version of BIM for Semester 2 and I will be able to use it. Based on my experience this semester - where I've used an approach that depends on BIM - there has been limitations and workload issues. Having BIM installed in the "enterprise LMS" will help significantly reduce these problems. It will also severely limit my ability to learn.
 
 That limitation will arise from the nature of being an "enterprise" LMS. i.e. not at all agile. Instead a lumbering behemoth that takes a while to turn around. Getting the "enterprise" installation of BIM changed in anyway will involve going through a governance process that will have numerous steps. During these steps the expense of changing BIM will have to compete for the scarce resources available to change the "enterprise" LMS with other requirements. Requirements that are likely to be significantly more important than the couple of hundred students in the 2 or 3 courses I teach.
 
@@ -59,7 +59,7 @@ Are there other possibilities?
 
 ### The grammar of enterprise IT
 
-[The grammar of school](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) is an idea to explain why reforms of education have failed to take root. Especially the use of ICTs. The rationale is that any proposed reform is so different from the accepted mindsets of schooling (the grammar) that it is seen as nonsensical, as ungrammatical. i.e. it gets rejected or ignored in much the same way a nonsensical sentence.
+[The grammar of school](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) is an idea to explain why reforms of education have failed to take root. Especially the use of ICTs. The rationale is that any proposed reform is so different from the accepted mindsets of schooling (the grammar) that it is seen as nonsensical, as ungrammatical. i.e. it gets rejected or ignored in much the same way a nonsensical sentence.
 
 I suggest that there is also a "grammar of enterprise IT". Ideas such as
 

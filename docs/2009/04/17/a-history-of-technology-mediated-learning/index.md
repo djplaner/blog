@@ -8,10 +8,10 @@ categories:
 date: 2009-04-17 11:49:39+10:00
 next:
   text: '"PhD Update #7 - a fortnight in review"'
-  url: /blog2/2009/04/17/phd-update-7-a-fortnight-in-review/
+  url: /blog/2009/04/17/phd-update-7-a-fortnight-in-review/
 previous:
   text: Theory and practice - quote and connection with e-learning?
-  url: /blog2/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/
+  url: /blog/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/
 title: A history of technology-mediated learning
 type: post
 template: blog-post.html
@@ -91,7 +91,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a section from my [PhD thesis](/blog2/research/phd-thesis/). It is part of the "Past Experience" section of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). It aims to give a potted history of technology-mediated learning and show how it connects with e-learning. Since these terms are somewhat overused, it starts with some definitions. The plan is that this history will be used to identify lessons from history, which e-learning (generally) hasn't learned.
+The following is a section from my [PhD thesis](/blog/research/phd-thesis/). It is part of the "Past Experience" section of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). It aims to give a potted history of technology-mediated learning and show how it connects with e-learning. Since these terms are somewhat overused, it starts with some definitions. The plan is that this history will be used to identify lessons from history, which e-learning (generally) hasn't learned.
 
 I've been working on this for at least a month. I have been doing other work on the thesis, but the fact that this has take soooo long is not all the heartening. I think perhaps may sights are set a little high. The alternatives are that I'm either a crap writer or I'm currently not in the mood to write. We'll see where we go from here.
 

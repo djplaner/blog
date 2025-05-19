@@ -4,10 +4,10 @@ categories:
 date: 2009-08-28 13:37:50+10:00
 next:
   text: Comparisons between LMS - the need for system independence
-  url: /blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
+  url: /blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
 previous:
   text: E-Learning 2.0 and reliability of external services
-  url: /blog2/2009/08/26/e-learning-2-0-and-reliability-of-external-services/
+  url: /blog/2009/08/26/e-learning-2-0-and-reliability-of-external-services/
 title: '"PhD Update #22 - one day active, but some movement"'
 type: post
 template: blog-post.html
@@ -16,11 +16,11 @@ The last week has seen only one day spent on the PhD. Mainly due to working on a
 
 ### What I did
 
-The intent expressed in the [last PhD update](/blog2/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/) was to complete the Product section and make a good start on the pedagogy section.
+The intent expressed in the [last PhD update](/blog/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/) was to complete the Product section and make a good start on the pedagogy section.
 
 In the one day and a bit days I spent on the thesis I
 
-- completed three parts - [What is an LMS?](/blog2/2009/08/21/what-is-an-lms/), [LMS characteristics and limitations](/blog2/2009/08/23/lms-characteristics-and-limitations/), and [Other information systems](/blog2/2009/08/23/other-information-systems-in-higher-education/).
+- completed three parts - [What is an LMS?](/blog/2009/08/21/what-is-an-lms/), [LMS characteristics and limitations](/blog/2009/08/23/lms-characteristics-and-limitations/), and [Other information systems](/blog/2009/08/23/other-information-systems-in-higher-education/).
 - made a start on the "Other models" section.
 
 So, one and a bit sections left to complete Product

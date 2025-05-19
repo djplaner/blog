@@ -4,10 +4,10 @@ categories:
 date: 2014-12-18 17:59:38+10:00
 next:
   text: '"FedWiki Daily #6 - Mining, fracking and exploring the process"'
-  url: /blog2/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/
+  url: /blog/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/
 previous:
   text: 'Starting to write for Fedwiki - Daily #4 (and 5)'
-  url: /blog2/2014/12/18/starting-to-write-for-fedwiki-daily-4-and-5/
+  url: /blog/2014/12/18/starting-to-write-for-fedwiki-daily-4-and-5/
 title: Concrete Lounge
 type: post
 template: blog-post.html
@@ -132,7 +132,7 @@ The inability to renovate arises from two sources
     Perhaps just a bit of the problem is because the technology to be adopted is a concrete lounge.
     
     But perhaps the low digital fluency makes renovation a step too far.
-2. A mindset that has technology SET in concrete. That's the argument in [this paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/). The mindset underpinning university education technology has SET (acronym from the paper) the technology in concrete. i.e. it can't be changed.
+2. A mindset that has technology SET in concrete. That's the argument in [this paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/). The mindset underpinning university education technology has SET (acronym from the paper) the technology in concrete. i.e. it can't be changed.
 
 Raising the question, Are universities ready for digitally fluent staff?
 

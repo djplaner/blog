@@ -5,10 +5,10 @@ categories:
 date: 2016-03-24 04:57:50+10:00
 next:
   text: '"SITE''2016: LATs, OER, and SPLOTs?"'
-  url: /blog2/2016/03/26/site2016-lats-oer-and-splots/
+  url: /blog/2016/03/26/site2016-lats-oer-and-splots/
 previous:
   text: What to expect/look for from SITE&#039;2016?
-  url: /blog2/2016/03/22/what-to-expectlook-for-from-site2016/
+  url: /blog/2016/03/22/what-to-expectlook-for-from-site2016/
 title: '"Mapping the digital practices of teacher educators: Implications for teacher
   education in changing digital landscapes"'
 type: post
@@ -31,7 +31,7 @@ pingbacks:
     []
     
 ---
-The following slides are for a (award winning no less) paper presented at SITE'2016 titled [Mapping the digital practices of teacher educators: Implications for teacher education in changing digital landscapes](/blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/).
+The following slides are for a (award winning no less) paper presented at SITE'2016 titled [Mapping the digital practices of teacher educators: Implications for teacher education in changing digital landscapes](/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/).
 
  
 

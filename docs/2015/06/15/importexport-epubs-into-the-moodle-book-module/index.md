@@ -4,11 +4,11 @@ categories:
 date: 2015-06-15 09:48:05+10:00
 next:
   text: Types of e-learning projects and the problem of starvation
-  url: /blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
+  url: /blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/
 previous:
   text: 'Reading - Embracing Big Data in Complex Educational Systems: The Learning
     Analytics Imperative and the Policy Challenge'
-  url: /blog2/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
+  url: /blog/2015/06/14/reading-embracing-big-data-in-complex-educational-systems-the-learning-analytics-imperative-and-the-policy-challenge/
 title: Import/export ePubs into the Moodle book module
 type: post
 template: blog-post.html
@@ -123,7 +123,7 @@ pingbacks:
       user_id: '0'
     
 ---
-One of the likely aims of the [Moodle "open" book project](/blog2/the-moodle-open-book-module-project/) that interested me was the ability to export Book modules to ePub format. A capability I think would be seen as valuable for students in my course, given the heavy use of the book module. In developing the Moodlemoot'AU 2015 [session on the project](https://mootau15.moodlemoot.org/mod/data/view.php?d=1&rid=126) this was certainly I've been trawling the Moodle community forums for discussions about the Book module. This type of function has been mentioned as desirable by others.
+One of the likely aims of the [Moodle "open" book project](/blog/the-moodle-open-book-module-project/) that interested me was the ability to export Book modules to ePub format. A capability I think would be seen as valuable for students in my course, given the heavy use of the book module. In developing the Moodlemoot'AU 2015 [session on the project](https://mootau15.moodlemoot.org/mod/data/view.php?d=1&rid=126) this was certainly I've been trawling the Moodle community forums for discussions about the Book module. This type of function has been mentioned as desirable by others.
 
 Then last night I stumble across [this post](https://moodle.org/mod/forum/discuss.php?d=315119) from Saturday in which someone has done it. Written some add-ons that will not only export in the ePub format, but also allow the import of ePub formats. Some [discussions in tracker](https://tracker.moodle.org/browse/MDL-37199) about this that I may wish to look at again later. What follows is some initial experiments with that code.
 

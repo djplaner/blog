@@ -6,10 +6,10 @@ categories:
 date: 2011-03-05 16:58:29+10:00
 next:
   text: A comparison of schools - enabled by MySchools v2.0
-  url: /blog2/2011/03/05/a-comparison-of-schools-enabled-by-myschools-v2-0/
+  url: /blog/2011/03/05/a-comparison-of-schools-enabled-by-myschools-v2-0/
 previous:
   text: 'Pedagogical Content Knowledge: Week 1'
-  url: /blog2/2011/03/03/pedagogical-content-knowledge-week-1/
+  url: /blog/2011/03/03/pedagogical-content-knowledge-week-1/
 title: A question (or two) on the similarity of "neuronal" and "networked" knowledge
 type: post
 template: blog-post.html
@@ -270,7 +270,7 @@ pingbacks:
 ---
 To some extent this post is a cop out. Rather than take the time to looking into what, is for me, an important and interesting question I am going to post this for two reasons. First, to remind myself to follow up later. But mostly and second, to see if someone within my PLN (why do I find the use of that term somewhat troubling?) can offer some suggestions.
 
-It is a little sad/ironic/funny that the reason I don't feel I can follow up on this directly by myself is that I feel I'm somewhat behind in my formal studies and that an investigation of the following is not directly related to the requirements of that study. Even though the question arises from [work associated with that study](/blog2/2011/03/03/pedagogical-content-knowledge-week-1/) and more importantly, [a comment](/blog2/2011/03/03/pedagogical-content-knowledge-week-1/#comment-3894) on that work by [Charles Nelson](http://charlesnelson.wordpress.com/).
+It is a little sad/ironic/funny that the reason I don't feel I can follow up on this directly by myself is that I feel I'm somewhat behind in my formal studies and that an investigation of the following is not directly related to the requirements of that study. Even though the question arises from [work associated with that study](/blog/2011/03/03/pedagogical-content-knowledge-week-1/) and more importantly, [a comment](/blog/2011/03/03/pedagogical-content-knowledge-week-1/#comment-3894) on that work by [Charles Nelson](http://charlesnelson.wordpress.com/).
 
 I am now wishing that I had had the persistence and/or motivation to stick with or start the various [MOOCs](http://mooc.ca/) on connectivism.
 

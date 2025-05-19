@@ -6,10 +6,10 @@ categories:
 date: 2008-08-07 10:49:23+10:00
 next:
   text: Gathering principles for Web 2.0 - PLEs
-  url: /blog2/2008/08/11/gathering-principles-for-web-20-ples/
+  url: /blog/2008/08/11/gathering-principles-for-web-20-ples/
 previous:
   text: The dimensions of design research
-  url: /blog2/2008/08/06/the-dimensions-of-design-research/
+  url: /blog/2008/08/06/the-dimensions-of-design-research/
 title: Creating slidecasts on Slideshare - e-learning support?
 type: post
 template: blog-post.html

@@ -4,17 +4,17 @@ categories:
 date: 2008-12-16 22:46:39+10:00
 next:
   text: Sunday (Dec 14) - Welcoming guests and Notre Dame
-  url: /blog2/2008/12/16/sunday-dec-14-welcoming-guests-and-notre-dame/
+  url: /blog/2008/12/16/sunday-dec-14-welcoming-guests-and-notre-dame/
 previous:
   text: A night at Lassere
-  url: /blog2/2008/12/16/a-night-at-lassere/
+  url: /blog/2008/12/16/a-night-at-lassere/
 tags:
 - paris
 title: Saturday (13th Dec) - Must be the Musee D'Orsay
 type: post
 template: blog-post.html
 ---
-After our [big night out at Lasserre](/blog2/2008/12/16/a-night-at-lassere/) Saturday morning saw us walking down to the [Musee D'Orsay](http://en.wikipedia.org/wiki/Musee_d%27orsay).
+After our [big night out at Lasserre](/blog/2008/12/16/a-night-at-lassere/) Saturday morning saw us walking down to the [Musee D'Orsay](http://en.wikipedia.org/wiki/Musee_d%27orsay).
 
 [![The Grand Palais](images/3106189593_f9f29abc52_m.jpg)](http://www.flickr.com/photos/david_jones/3106189593/ "The Grand Palais by David T Jones, on Flickr")
 

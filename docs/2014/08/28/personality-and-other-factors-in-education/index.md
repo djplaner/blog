@@ -4,10 +4,10 @@ categories:
 date: 2014-08-28 16:57:23+10:00
 next:
   text: Counting the uncountable - NGL participation
-  url: /blog2/2014/09/01/counting-the-uncountable-ngl-participation/
+  url: /blog/2014/09/01/counting-the-uncountable-ngl-participation/
 previous:
   text: On trying to be optimistic in a stupid world
-  url: /blog2/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/
+  url: /blog/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/
 title: Personality and other factors in education
 type: post
 template: blog-post.html
@@ -55,7 +55,7 @@ Tracey ends with the $64K question
 
 > How do we encourage educators to adopt methodologies that support such learning?
 
-As alluded to in [my last post](/blog2/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/), I'm pessimistic about whether this is possible as achieving that requires systemic change. Or perhaps more explicitly a change in the system and its foundational assumptions. Something which would appear very difficult to happen under current management approaches.
+As alluded to in [my last post](/blog/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/), I'm pessimistic about whether this is possible as achieving that requires systemic change. Or perhaps more explicitly a change in the system and its foundational assumptions. Something which would appear very difficult to happen under current management approaches.
 
 Can you really expect educators change their practices, when the organisation remains the same?
 

@@ -5,10 +5,10 @@ categories:
 date: 2011-03-07 12:02:17+10:00
 next:
   text: Reflection on the learning theories wiki
-  url: /blog2/2011/03/07/reflection-on-the-learning-theories-wiki/
+  url: /blog/2011/03/07/reflection-on-the-learning-theories-wiki/
 previous:
   text: 'End of week 1: reflections and what&#039;s next'
-  url: /blog2/2011/03/07/end-of-week-1-reflections-and-whats-next/
+  url: /blog/2011/03/07/end-of-week-1-reflections-and-whats-next/
 title: '"Reflection on the profile Wiki: ICTs for Learning Design"'
 type: post
 template: blog-post.html

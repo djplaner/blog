@@ -6,10 +6,10 @@ categories:
 date: 2009-02-27 15:29:33+10:00
 next:
   text: '"PhD update #1 - the start of a tradition?"'
-  url: /blog2/2009/02/27/phd-update-1-the-start-of-a-tradition/
+  url: /blog/2009/02/27/phd-update-1-the-start-of-a-tradition/
 previous:
   text: Minute papers - encouraging reflection?
-  url: /blog2/2009/02/27/minute-papers-encouraging-relection/
+  url: /blog/2009/02/27/minute-papers-encouraging-relection/
 title: Why formulaic guidance annoys experts and why they ignore the needs of the
   novice
 type: post
@@ -35,7 +35,7 @@ pingbacks:
       user_id: '0'
     
 ---
-[Shirley](http://www.cbe.anu.edu.au/staff/info.asp?surname=Gregor&firstname=Shirley) is keen to do some more work on the ["research note"](/blog2/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/) suggesting a structure for a design theory/research thesis/paper. This was the appendix that was original part of [Gregor and Jones (2007)](http://aisel.aisnet.org/jais/vol8/iss5/1/) but which JAIS decided not to publish. The main reason was that the reviewers thought it boiled down the process of publishing to a formula, and they obviously thought this was a bad thing.
+[Shirley](http://www.cbe.anu.edu.au/staff/info.asp?surname=Gregor&firstname=Shirley) is keen to do some more work on the ["research note"](/blog/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/) suggesting a structure for a design theory/research thesis/paper. This was the appendix that was original part of [Gregor and Jones (2007)](http://aisel.aisnet.org/jais/vol8/iss5/1/) but which JAIS decided not to publish. The main reason was that the reviewers thought it boiled down the process of publishing to a formula, and they obviously thought this was a bad thing.
 
 The rejection by the reviewers is interesting because the research note has proven to be useful and interesting for a range of folk. Even before the 2007 publication we had received requests from at least one information systems Professor for a copy he could use in a doctoral seminar. I should point out that this gentleman (who shall remain nameless) has some significant runs on the board in terms of publications around information systems design theory. Shirley also continues to get requests for it.
 
@@ -53,7 +53,7 @@ I'll use the [Dreyfus model of skills acquisition](http://en.wikipedia.org/wiki/
 
 ### Dreyfus model of skills acquisition as an explanation
 
-In [earlier post](/blog2/2008/12/16/the-dreyfus-model-from-novice-to-expert/) I pointed to a video that was my introduction to the [Dreyfus model of Skills Acquisition](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition). Based on a paper title "A five-stage model of the mental activities involved in directed skill acquisition" the model identifies 5 stages of learning a new skill and the characteristics and requirements of people in each of those stages. See the following table for a summary of the model.
+In [earlier post](/blog/2008/12/16/the-dreyfus-model-from-novice-to-expert/) I pointed to a video that was my introduction to the [Dreyfus model of Skills Acquisition](http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition). Based on a paper title "A five-stage model of the mental activities involved in directed skill acquisition" the model identifies 5 stages of learning a new skill and the characteristics and requirements of people in each of those stages. See the following table for a summary of the model.
 
 Novice-to-Expert scale  
 (Adapted from Lester (2005))

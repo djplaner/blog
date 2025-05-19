@@ -5,10 +5,10 @@ categories:
 date: 2015-08-18 15:54:14+10:00
 next:
   text: Visualising locations of students etc
-  url: /blog2/2015/08/18/visualising-locations-of-students-etc/
+  url: /blog/2015/08/18/visualising-locations-of-students-etc/
 previous:
   text: Understanding learning as network formation
-  url: /blog2/2015/08/18/understanding-learning-as-network-formation/
+  url: /blog/2015/08/18/understanding-learning-as-network-formation/
 title: Why should a teacher know how to code?
 type: post
 template: blog-post.html
@@ -201,7 +201,7 @@ What reasons can I give for this? I'll start with these
 
 ### The starvation problem
 
-Alex's reasons for learning how to code touch on what I've called [the starvation problem](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) with e-learning projects. Alex's description was
+Alex's reasons for learning how to code touch on what I've called [the starvation problem](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) with e-learning projects. Alex's description was
 
 > our developers work with the code. This is fine, but sometime…..no…often, when clients request changes to modules they have paid tens-of-thousands of dollars for, I feel the developers’ time is wasted fixing simple things when they could be figuring out how to program one of the cool new interactions I’ve suggested. So, if I could learn some basic coding their time could be saved and our processes more efficient.
 
@@ -210,7 +210,7 @@ Alex's reasons for learning how to code touch on what I've called [the starvatio
 
 The developers - the folk who can actually change the technology - are the bottleneck. If anything needs to change you have to involve the developers and typically most institutions have too few developers for the amount of reliance they now place on digital technologies.
 
-In the original [starvation problem post](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) I identified five types of e-learning projects and suggested that the reliance on limited developer resources meant that institutions were flat out completing all of the necessary projects of the first two types. Projects of types 3, 4, and 5 are destined to be (almost) always starved of developer resources. i.e. the changes to technology will never happen.
+In the original [starvation problem post](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) I identified five types of e-learning projects and suggested that the reliance on limited developer resources meant that institutions were flat out completing all of the necessary projects of the first two types. Projects of types 3, 4, and 5 are destined to be (almost) always starved of developer resources. i.e. the changes to technology will never happen.
 
 | # | Description |
 | --- | --- |
@@ -226,7 +226,7 @@ For a teacher, it's type 4 and 5 projects that are going to be of the immediate 
 
 [![Choice1](images/19538593335_e8af6fb8ef_m.jpg)](https://www.flickr.com/photos/david_jones/19538593335/in/dateposted-public/ "Choice1")
 
-The question of diversity and its importance to effective learning (and teaching) brings in the notion of [the reusability paradox](/blog2/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/). The [Reusability Paradox](http://cnx.org/contents/dad41956-c2b2-4e01-94b4-4a871783b021@19/The_Reusability_Paradox) arises from the idea that the pedagogical value of a learning object (something to learn with/from) arises from how well it has been contextualised. i.e. how well it has been customised for the unique requirements of the individual learner. The problem is that there is an inverse relationship between the pedagogical value of a learning object and the potential for it to be reused in other contexts.
+The question of diversity and its importance to effective learning (and teaching) brings in the notion of [the reusability paradox](/blog/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/). The [Reusability Paradox](http://cnx.org/contents/dad41956-c2b2-4e01-94b4-4a871783b021@19/The_Reusability_Paradox) arises from the idea that the pedagogical value of a learning object (something to learn with/from) arises from how well it has been contextualised. i.e. how well it has been customised for the unique requirements of the individual learner. The problem is that there is an inverse relationship between the pedagogical value of a learning object and the potential for it to be reused in other contexts.
 
 The further problem is that most of the e-learning tools (e.g. an LMS) are designed to maximise reuse. They are designed to be used in many different contexts (the image to the right).
 
@@ -234,7 +234,7 @@ The problem is that in order to be able to maximise the pedagogical value of thi
 
 [![Choice2](images/18917714583_e3af2bae99_m.jpg)](https://www.flickr.com/photos/david_jones/18917714583/in/dateposted-public/ "Choice2")
 
-Unless of course you can code. If you can code, then you can write: a [module for Moodle](https://moodle.org/plugins/view/mod_bim) that will allow students to use blogs outside of Moodle for learning; a script that will allow you to [contact students who haven't submitted an assignment](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/); [develop a collection of tools](http://damos.world/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/) to better understand who and how learners are using your course site; or, [mutate that collection of tools](/blog2/2015/07/23/updating-more-student-details/) into something that will allow you to have some idea what each of the 300+ students in your course are doing.
+Unless of course you can code. If you can code, then you can write: a [module for Moodle](https://moodle.org/plugins/view/mod_bim) that will allow students to use blogs outside of Moodle for learning; a script that will allow you to [contact students who haven't submitted an assignment](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/); [develop a collection of tools](http://damos.world/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/) to better understand who and how learners are using your course site; or, [mutate that collection of tools](/blog/2015/07/23/updating-more-student-details/) into something that will allow you to have some idea what each of the 300+ students in your course are doing.
 
 ### Understand the protean nature of digital technologies
 

@@ -6,10 +6,10 @@ categories:
 date: 2015-07-19 10:33:14+10:00
 next:
   text: Mocking up a search facility for the Moodle book module
-  url: /blog2/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/
+  url: /blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/
 previous:
   text: 'Import and the Book module: a case of knowledge loss?'
-  url: /blog2/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/
+  url: /blog/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/
 title: '"Predicting System Success using the Technology Acceptance Model: A Case Study"'
 type: post
 template: blog-post.html

@@ -4,10 +4,10 @@ categories:
 date: 2009-08-11 11:17:24+10:00
 next:
   text: '"BIM#2 - Starting the module"'
-  url: /blog2/2009/08/11/bim2-starting-the-module/
+  url: /blog/2009/08/11/bim2-starting-the-module/
 previous:
   text: Big Z&#039;s first progeny
-  url: /blog2/2009/08/11/big-zs-first-progeny/
+  url: /blog/2009/08/11/big-zs-first-progeny/
 title: '"BIM #1: Working on the prototype"'
 type: post
 template: blog-post.html
@@ -44,9 +44,9 @@ pingbacks:
       user_id: '0'
     
 ---
-Over the last few weeks I've slowly been getting into Moodle/PHP as part of need to put the [BAM project](/blog2/research/bam-blog-aggregation-management/) into Moodle. I've decided today to abbreviate this project into BIM - BAM into Moodle. It'll do for now.
+Over the last few weeks I've slowly been getting into Moodle/PHP as part of need to put the [BAM project](/blog/research/bam-blog-aggregation-management/) into Moodle. I've decided today to abbreviate this project into BIM - BAM into Moodle. It'll do for now.
 
-The [last post](/blog2/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/) left off on the development of a eStudyGuide block. I'm leaving that behind now and trying to focus on ideas/development of a prototype of BIM so that other folk can look and play with it.
+The [last post](/blog/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/) left off on the development of a eStudyGuide block. I'm leaving that behind now and trying to focus on ideas/development of a prototype of BIM so that other folk can look and play with it.
 
 ### Requirements for a prototype
 
@@ -60,7 +60,7 @@ I'll use the [2006/T2 offering of COIS20025](http://webfuse.cqu.edu.au/Courses/2
 
 ### Functionality and plans
 
-[A previous post](/blog2/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/) outlined a list of tasks users will have to perform with BAM. Each of these will have to be integrated into the prototype and decisions made about how it will be implemented. In the following the tasks are divided into students, coordinator and teaching staff.
+[A previous post](/blog/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/) outlined a list of tasks users will have to perform with BAM. Each of these will have to be integrated into the prototype and decisions made about how it will be implemented. In the following the tasks are divided into students, coordinator and teaching staff.
 
 The end result of all that, is I need to discover the following:
 

@@ -6,15 +6,15 @@ template: blog-post.html
 ---
 The following is an ad hoc collection of what I class as my current research projects. At any one stage some or all of these may be slightly inactive.
 
-The [Moodle open book project](/blog2/the-moodle-open-book-module-project/).
+The [Moodle open book project](/blog/the-moodle-open-book-module-project/).
 
 ### IRAC Framework formulation
 
-Build on the initial work from [this paper](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) in developing and applying the IRAC framework to understand and design learning analytics based interventions.
+Build on the initial work from [this paper](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) in developing and applying the IRAC framework to understand and design learning analytics based interventions.
 
 Work to be done
 
-- Expand the [short ASCILITE paper](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) into a larger paper describing the IRAC framework and applying it to understanding different analytics applications.
+- Expand the [short ASCILITE paper](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) into a larger paper describing the IRAC framework and applying it to understanding different analytics applications.
 - Use the IRAC framework to analyse the existing learning analytics literature and to also further develop the IRAC framework components.
 - Use the IRAC framework to guide design of learning analytics based interventions - specifically BIM.
 
@@ -31,7 +31,7 @@ Planned tasks include
 
 ### BIM extensions, distributed TPACK and related thoughts
 
-Need to continue work on the [BIM activity module](/blog2/research/bam-blog-aggregation-management/) for Moodle for my own work and perhaps explore other extension. Related to this to extend ideas in this year's [Moodlemoot AU presentation on BIM](/blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/)
+Need to continue work on the [BIM activity module](/blog/research/bam-blog-aggregation-management/) for Moodle for my own work and perhaps explore other extension. Related to this to extend ideas in this year's [Moodlemoot AU presentation on BIM](/blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/)
 
 Tasks
 

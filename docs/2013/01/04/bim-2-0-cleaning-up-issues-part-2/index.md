@@ -5,10 +5,10 @@ categories:
 date: 2013-01-04 20:09:44+10:00
 next:
   text: BIM 2.0 - cleaning up part 3
-  url: /blog2/2013/01/06/bim-2-0-cleaning-up-part-3/
+  url: /blog/2013/01/06/bim-2-0-cleaning-up-part-3/
 previous:
   text: When will we no longer teach ICTs to pre-service teachers?
-  url: /blog2/2013/01/02/when-will-we-no-longer-teach-icts-to-pre-service-teachers/
+  url: /blog/2013/01/02/when-will-we-no-longer-teach-icts-to-pre-service-teachers/
 title: BIM 2.0 - Cleaning up issues - Part 2
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Building on [that last bit of issue cleanup](/blog2/2013/01/01/bim-2-0-cleaning-up-issues-part-1/) this aims to reduce the [list of open BIM issues](https://github.com/djplaner/BIM/issues) a bit more. The focus in this part will be
+Building on [that last bit of issue cleanup](/blog/2013/01/01/bim-2-0-cleaning-up-issues-part-1/) this aims to reduce the [list of open BIM issues](https://github.com/djplaner/BIM/issues) a bit more. The focus in this part will be
 
 - [#53](https://github.com/djplaner/BIM/issues/53) issue with question management message.
 - [#35](https://github.com/djplaner/BIM/issues/35) add support for grademax in configure.

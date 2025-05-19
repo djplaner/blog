@@ -11,10 +11,10 @@ categories:
 date: 2010-08-24 15:09:22+10:00
 next:
   text: The end of management - lessons for universities?
-  url: /blog2/2010/08/24/the-end-of-management-lessons-for-universities/
+  url: /blog/2010/08/24/the-end-of-management-lessons-for-universities/
 previous:
   text: Oil sheiks, Lucifer and university learning and teaching
-  url: /blog2/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/
+  url: /blog/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/
 title: '"University e-learning systems: the need for new product and process models
   and some examples"'
 type: post
@@ -36,7 +36,7 @@ Coupled with this product flexibility was a process (i.e. the process through wh
 
 In the thesis I argue that when you look at how universities are currently implementing e-learning information systems (i.e. selecting and implementing an LMS) the product (the enterprise LMS, the one ring to rule them all) and the process they use are not a very good match at all for the requirements of effectively supporting learning and teaching. In a nut shell, the product and the process is aimed at reducing diversity and the ability to learn, while diversity is a key characteristic of learning and teaching at a university. Not to mention that when it comes to e-learning within universities, it's still very early days and it is essential that any systemic approach to e-learning have the ability to learn from its implementation and make changes.
 
-I attempted to expand on this argument in [the presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) I gave at the EDUCAUSE'2009 conference in Denver last year.
+I attempted to expand on this argument in [the presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) I gave at the EDUCAUSE'2009 conference in Denver last year.
 
 ### What is needed
 
@@ -65,7 +65,7 @@ The EDU 2.0 model doesn't help the customisation problem. In fact, it probably m
 
 This requirements is necessary because there is an assumption for many (but not all) plugins that they provide the entire functionality and must be run on the local server. So there is a need for a tighter coupling between the plugin and the LMS and consequently less local flexibility.
 
-A plugin like [BIM](/blog2/research/bam-blog-aggregation-management/) is a little different. There is a wrapper that is tightly integrated into Moodle to provide some features. However, the majority of the functionality is provided by software (in this case blogging engines) that are chosen by the individual students. Here the flexibility is provided by the loose coupling between blog engine and Moodle.
+A plugin like [BIM](/blog/research/bam-blog-aggregation-management/) is a little different. There is a wrapper that is tightly integrated into Moodle to provide some features. However, the majority of the functionality is provided by software (in this case blogging engines) that are chosen by the individual students. Here the flexibility is provided by the loose coupling between blog engine and Moodle.
 
 Mm, still need some more work on this.
 

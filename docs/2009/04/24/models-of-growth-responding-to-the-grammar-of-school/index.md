@@ -11,10 +11,10 @@ categories:
 date: 2009-04-24 14:36:11+10:00
 next:
   text: '"Phd Update #8 - steaming ahead"'
-  url: /blog2/2009/04/24/phd-update-8-steaming-ahead/
+  url: /blog/2009/04/24/phd-update-8-steaming-ahead/
 previous:
   text: Usage of e-learning - quantity
-  url: /blog2/2009/04/23/usage-of-e-learning-quantity/
+  url: /blog/2009/04/23/usage-of-e-learning-quantity/
 title: Models of growth - responding to the grammar of school
 type: post
 template: blog-post.html
@@ -204,7 +204,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This post serves as a brief placeholder of ideas and also to remind me to follow up further on [this paper](http://www.springerlink.com/content/j44u33383v118573/) (Cavallo, 2004). The paper seems to offer a very interesting and informed perspective on issues that are of great interest to me, including the "Process" used in implementing e-learning within Universities and the ["grammar of school"](/blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/).
+This post serves as a brief placeholder of ideas and also to remind me to follow up further on [this paper](http://www.springerlink.com/content/j44u33383v118573/) (Cavallo, 2004). The paper seems to offer a very interesting and informed perspective on issues that are of great interest to me, including the "Process" used in implementing e-learning within Universities and the ["grammar of school"](/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/).
 
 Even though I've only skimmed the paper, I would suggest that anyone currently involved in a Moodle implementation should really take the time to read this paper.
 
@@ -224,6 +224,6 @@ Take this to the middle level, you can't go along to an academic and say his/her
 
 > As we see it, real change is inherently a kind of learning. For people to change the way they think about and practice education, rather than merely being told what to do differently, we believe that practitioners must have experiences that enable appropriation of new modes of teaching and learning that enable them to reconsider and restructure their thinking and practice. The limitations inherent in existing systems based upon information transfer models are as impoverished in effecting systemic development as they are in child development.
 
-This perspective connects nicely to the ideas of [reflective alignment](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/)
+This perspective connects nicely to the ideas of [reflective alignment](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/)
 
 So obviously, the author is intelligent, he agrees with me! The fact [he was/is](http://www.media.mit.edu/people/bio_cavallo.html) co-director of the MIT Media Lab's Future of Learning group also suggests a modicum of intelligence.

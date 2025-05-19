@@ -9,10 +9,10 @@ categories:
 date: 2009-07-26 14:26:01+10:00
 next:
   text: '"PhD update #18 - moving along"'
-  url: /blog2/2009/07/26/phd-update-18-moving-along/
+  url: /blog/2009/07/26/phd-update-18-moving-along/
 previous:
   text: ePortfolios in universities - forget it?
-  url: /blog2/2009/07/26/eportfolios-in-universities-forget-it/
+  url: /blog/2009/07/26/eportfolios-in-universities-forget-it/
 title: Build it and they will come - starting with the institution
 type: post
 template: blog-post.html
@@ -93,7 +93,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In the [last PhD update](/blog2/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/) I outlined a change to tack. I've moved from working on chapter 2 (the lit review) to working on chapter 4. Chapter 4 is the first of two chapters, each describing one iteration of the 2 action research cycles that make up the core contribution of the thesis. Chapter 4 focuses on the period from 1996 through to 1999 and is titled "Build it and they will come".
+In the [last PhD update](/blog/2009/07/19/phd-update-17-you-know-youre-losing-your-way-when/) I outlined a change to tack. I've moved from working on chapter 2 (the lit review) to working on chapter 4. Chapter 4 is the first of two chapters, each describing one iteration of the 2 action research cycles that make up the core contribution of the thesis. Chapter 4 focuses on the period from 1996 through to 1999 and is titled "Build it and they will come".
 
 The following is the introduction and first part of the first major section of that chapter. Most of the content seeks to describe CQU as it stood in 1996. i.e. it's attempting to outline the context in which the development of Webfuse arose. The next post/section will offer a description of the state of "e-learning" use at CQU by the end of 1996.
 

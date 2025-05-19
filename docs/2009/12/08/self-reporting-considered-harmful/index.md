@@ -4,10 +4,10 @@ categories:
 date: 2009-12-08 08:00:27+10:00
 next:
   text: Change the environment, not the culture
-  url: /blog2/2009/12/09/change-the-environment-not-the-culture/
+  url: /blog/2009/12/09/change-the-environment-not-the-culture/
 previous:
   text: Barriers to harnessing academic analytics
-  url: /blog2/2009/12/02/barriers-to-harnessing-academic-analytics/
+  url: /blog/2009/12/02/barriers-to-harnessing-academic-analytics/
 tags:
 - ascilite09
 title: Self-reporting considered harmful?
@@ -60,7 +60,7 @@ In a perfect world this might well be the case. But we are in far from a perfect
 
 The theory arises from science and is the simple observation that human beings are not rational decision makers. We are not information processing machines (i.e. the brain is not a digital computer). We are pattern matching intelligences (anyone familiar with [Dave Snowden](http://en.wikipedia.org/wiki/Dave_Snowden) will have heard this before). We look for and see/interpret situations through the lens of first-fit pattern analysis. Patterns formed by regular and recent experience get hit first.
 
-This theory/fact is probably a strong contributor factor to the [Kaplan's Law of Instrument](/blog2/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/).
+This theory/fact is probably a strong contributor factor to the [Kaplan's Law of Instrument](/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/).
 
 My problem is that, in the best case, the person designing the intervention will already have an established set of expectations/patterns that they are looking for. They may not test for information outside of those expectations. e.g. an straight information technology intervention will be measured on whether it delivered the promised features on time and on budget and not by the implications on the users and how they work around the limitations of the system and the resulting costs.
 
@@ -74,7 +74,7 @@ Now, in some cases, a bit of post hoc rationalisation may be a good thing. Espec
 
 This is incredibly difficult to do in any widespread way.
 
-One solution that we played with a little bit, but which never got off the ground was the [REACT process](/blog2/research/reflection-evaluation-and-collaboration-in-teaching/react-process/). In this process, the problem, possible solutions, the chosen solution and implementation plans were presented and peer reviewed before implementation. This not only provides some evidence that post-hoc rationalisation hasn't occured, it also provides an opportunity for good people to provide additional input and ideas into a project before it is implemented. Hopefully strengthening the proposal.
+One solution that we played with a little bit, but which never got off the ground was the [REACT process](/blog/research/reflection-evaluation-and-collaboration-in-teaching/react-process/). In this process, the problem, possible solutions, the chosen solution and implementation plans were presented and peer reviewed before implementation. This not only provides some evidence that post-hoc rationalisation hasn't occured, it also provides an opportunity for good people to provide additional input and ideas into a project before it is implemented. Hopefully strengthening the proposal.
 
 After this, the intervention is implemented and evaluated and then reported back.
 

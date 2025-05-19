@@ -8,10 +8,10 @@ categories:
 date: 2009-05-10 13:12:22+10:00
 next:
   text: Quotes about innovation and creativity
-  url: /blog2/2009/05/13/quotes-about-innovation-and-creativity/
+  url: /blog/2009/05/13/quotes-about-innovation-and-creativity/
 previous:
   text: Why don&#039;t we (e-)learn - over emphasis on rationality and defensive routines
-  url: /blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
+  url: /blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
 title: Everything old is new again - universities should be more business like
 type: post
 template: blog-post.html
@@ -36,7 +36,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In [a previous post](/blog2/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/) I mentioned the current raft of "the university will die" discussions going on online and soon in print. Many of these, and especially [this one](http://www.popecenter.org/clarion_call/article.html?id=2161), embody some sort of argument along the lines of "those silly, impractical academics will only be helped if they become more like business". This is not a new perspective.
+In [a previous post](/blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/) I mentioned the current raft of "the university will die" discussions going on online and soon in print. Many of these, and especially [this one](http://www.popecenter.org/clarion_call/article.html?id=2161), embody some sort of argument along the lines of "those silly, impractical academics will only be helped if they become more like business". This is not a new perspective.
 
 [![Cover of Academic and Industrial Efficiency](images/3516650893_7d4e95724d_m.jpg)](http://www.flickr.com/photos/david_jones/3516650893/ "Cover of Academic and Industrial Efficiency by David T Jones, on Flickr")
 
@@ -64,7 +64,7 @@ The "perfect" version of business.
 
 > Management by experts suffers from the fact that too often in the past experts have not only held themselves aloof, but held their opinions to be above lay criticism or comment. Functional management seems to guard against this by providing that all standards shall be written out and thus clearly understood by everyone; that they shall be capable of scientific demonstration rather than the result of personal opinion; and that they shall be at all times subject to scientific re-examination and analysis. In thise way only can expert judgements be given the benefit of the corrective influence of lay minds.
 
-Sounds very much like [mode 1 behaviour](/blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/)
+Sounds very much like [mode 1 behaviour](/blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/)
 
 ### References
 

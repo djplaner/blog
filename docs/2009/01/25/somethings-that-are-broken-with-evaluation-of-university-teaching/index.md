@@ -7,10 +7,10 @@ categories:
 date: 2009-01-25 13:28:29+10:00
 next:
   text: '"The "dominant" assumptions underlying university-based e-learning: an introduction"'
-  url: /blog2/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/
+  url: /blog/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/
 previous:
   text: Open source learning management systems - the latest fad in e-learning
-  url: /blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/
+  url: /blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/
 title: Somethings that are broken with evaluation of university teaching
 type: post
 template: blog-post.html

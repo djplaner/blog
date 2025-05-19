@@ -4,10 +4,10 @@ categories:
 date: 2016-09-07 13:08:23+10:00
 next:
   text: '"Making course activity more transparent: A proposed use of MAV"'
-  url: /blog2/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
+  url: /blog/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/
 previous:
   text: "Exploring Moodle Book usage \u2013 Part 6 \u2013 What do they contain?"
-  url: /blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/
+  url: /blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/
 title: '"University digital technology: problems, causes, and suggested solutions"'
 type: post
 template: blog-post.html
@@ -19,7 +19,7 @@ The level of support provided by digital technologies to broad learning and teac
 There are lots of possible explanations for poor level of support offered by institutional digital technologies. The one I'm using here goes like this
 
 1. Activities that are easy to do get done, activities that are hard to do are not apt to get done.
-2. Learning, teaching and the activities that support learning and teaching are [situated - context matters](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/#situated). For example, the most effective ways for 3rd year pre-service teachers to develop their abilities as teachers, are not likely to work effectively for 1st year mechanical engineers. The activities that someone teaching pre-service teachers wants to engage in, will not be entirely the same as someone teaching engineers, nurses, accountants, musicians etc.
+2. Learning, teaching and the activities that support learning and teaching are [situated - context matters](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/#situated). For example, the most effective ways for 3rd year pre-service teachers to develop their abilities as teachers, are not likely to work effectively for 1st year mechanical engineers. The activities that someone teaching pre-service teachers wants to engage in, will not be entirely the same as someone teaching engineers, nurses, accountants, musicians etc.
 3. The implementation of institutional digital technologies explicitly de-values context and specificity. For example, a fundamental principle of Enterprise information technology architecture is (emphasis added) "provide maximum benefit to the enterprise **as a whole**". Here's that principle expressed [by a UK university](http://blogs.plymouth.ac.uk/strategyandarchitecture/enterprise-architecture-with-plymouth-university/plymouth-university-architecture-repository-2/enterprise-architecture-principles/business-principles/principle-3-maximise-benefit-to-the-enterprise/), and [where it is](http://pubs.opengroup.org/architecture/togaf8-doc/arch/chap29.html) (see principle #2) mentioned in ["The Open Group Architecture Framework"](http://pubs.opengroup.org/architecture/togaf8-doc/arch/toc.html). Principle #5 adds this "Development of applications used across the enterprise is preferred over the development of similar or duplicative applications which are only provided to a particular organization". Check your organisation's enterprise architecture framework, you may well see a copy and paste of those principles.
 
 While there is a logic behind those principles, these principles also create at least two problems:
@@ -41,7 +41,7 @@ The focus on the **whole** organisation means that enterprise IT suffers from a 
 
 ### Starvation
 
-Any attempt to develop/adopt/use a digital technology that is not common across the whole organisation (i.e. a digital technology that actually provides value) suffers [from starvation](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/). The resources to develop/approve a digital technology within an organisation are limited. Priorities have to applied. A digital technology of value to a subset of the organisation is always going to be placed at a lower priority than a digital technology of value to the entire organisation. It will always be starved of resources.
+Any attempt to develop/adopt/use a digital technology that is not common across the whole organisation (i.e. a digital technology that actually provides value) suffers [from starvation](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/). The resources to develop/approve a digital technology within an organisation are limited. Priorities have to applied. A digital technology of value to a subset of the organisation is always going to be placed at a lower priority than a digital technology of value to the entire organisation. It will always be starved of resources.
 
 This starvation is made worse by the observation that the people charged with supporting the use of digital technology within organisations tend to become experts in, and even employed explicitly to support specific digital technologies.  Whenever a requirement is raised, it can only ever be understood/responded to within the context of existing organisational digital technologies and thus returning to the "hammer" problem.
 
@@ -85,7 +85,7 @@ Below there are some initial suggestions about how each of the above might be ad
 There are three broad strategies that can be used
 
 1. Make use of existing organisational processes and technologies and push them further. e.g. the [ICT Technology Demonstrators project](https://www.usq.edu.au/news-events/news/2016/07/new-dimension-of-learning-3d-printing), digging deeper into the capabilities of Moodle for learning and teaching.
-2. Complement, workaround, or replace existing organisational processes and technologies. e.g. existing use of cloud-based technologies (Google docs etc) and other forms of [digital technology modification](/blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/#table1). (Jones, Albion & Heffernan, 2016).
+2. Complement, workaround, or replace existing organisational processes and technologies. e.g. existing use of cloud-based technologies (Google docs etc) and other forms of [digital technology modification](/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/#table1). (Jones, Albion & Heffernan, 2016).
 3. Explore how and if digital technologies used by teachers, related organisations, and beyond can be leveraged. 20 years ago Universities provided banks of dial-up modems to provide Internet access to staff and students. We don't need to do this anymore. Increasingly there are more and better digital technology in society, than in universities. Not only in broader society, also in teaching. For example, [Scootle](http://scootle.edu.au/), the [Australian Curriculum site](http://australiancurriculum.edu.au/), AITSL, and [The Learning Place](http://scootle.edu.au/) are used to varying levels. If we wish to better prepare our pre-service teachers within the profession, then using the technologies used by teachers and broader society is important.
 
 Personally, I believe the best outcomes will arise if we're able to creatively intermingle all three of these strategies. The problems will arise if we try to follow one or the other.
@@ -124,15 +124,15 @@ In terms of **Program and course development**, which at some level is a project
 
 In terms of **Program-level activities** and  promoting social connections amongst students a system like [UCROO](https://www.ucroo.com.au/) potentially offers functionality more in line with social media (think Facebook) than current approaches that rely on using the LMS.
 
-In [this paper](/blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/) (Jones et al, 2016), Peter, Amanda and I share a range of different digital modification strategies we've undertaken to make it easier to do what we need to do as teachers. A project that actively identifies what others are doing, shares that work, and then seeks how we can distribute those practices across the school's courses would be interesting.
+In [this paper](/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/) (Jones et al, 2016), Peter, Amanda and I share a range of different digital modification strategies we've undertaken to make it easier to do what we need to do as teachers. A project that actively identifies what others are doing, shares that work, and then seeks how we can distribute those practices across the school's courses would be interesting.
 
-The ["more student details" workarounds](/blog2/2015/09/15/helping-teachers-know-thy-students/#more) I use could potentially be expanded and customised to other courses.  Especially if MAV sticks around (it's based on the same technology and infrastructure).
+The ["more student details" workarounds](/blog/2015/09/15/helping-teachers-know-thy-students/#more) I use could potentially be expanded and customised to other courses.  Especially if MAV sticks around (it's based on the same technology and infrastructure).
 
 As mentioned above, MAV and "more student details" are primitive steps toward providing a platform that enables distributed innovation. The platform offers the chance to move beyond generic tools to specific tools. _Pedagogical skins_ are an idea that seek to put the context and the value back into the LMS to increase the pedagogical value and thus improve the quality of **Learning and teaching.**
 
 ### Integrate with teacher digital technologies and beyond
 
-Perhaps the most immediate example of this from the **Standards, portfolios and outcomes** activity. Currently students are encouraged to have a USQ-hosted e-portfolio.  This is such a hackneyed approach of which I've [long been critical](/blog2/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/). A more contemporary approach is offered by the [Domain of One's Own (DoOO) project from UMW](http://umw.domains/) - ([see here](https://campustechnology.com/articles/2014/04/02/an-e-portfolio-with-no-limits.aspx) for some background or [here for a broader view](https://medium.com/@audreywatters/a-domain-of-ones-own-in-a-post-ownership-society-c3c24ee0917c#.wgbiaw3bz)). It's an approach that is spreading across multiple institutions in the US and Charles Sturt has been starting to play.
+Perhaps the most immediate example of this from the **Standards, portfolios and outcomes** activity. Currently students are encouraged to have a USQ-hosted e-portfolio.  This is such a hackneyed approach of which I've [long been critical](/blog/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/). A more contemporary approach is offered by the [Domain of One's Own (DoOO) project from UMW](http://umw.domains/) - ([see here](https://campustechnology.com/articles/2014/04/02/an-e-portfolio-with-no-limits.aspx) for some background or [here for a broader view](https://medium.com/@audreywatters/a-domain-of-ones-own-in-a-post-ownership-society-c3c24ee0917c#.wgbiaw3bz)). It's an approach that is spreading across multiple institutions in the US and Charles Sturt has been starting to play.
 
 Beyond more general technologies, there is the idea of working more closely with teacher specific digital technologies such as Scootle etc. One possibility might be to develop processes by which our students are engaging with [renewable assessments](http://www.chronicle.com/blogs/profhacker/opting-for-renewable-assessments/62523) ([more here](http://opencontent.org/blog/archives/4727)).
 
@@ -142,6 +142,6 @@ It might mean integrating a lesson/unit planning tool that actively integrates w
 
 CAUDIT. (2016). _CAUDIT 2016 Top Ten Issues_. Retrieved from [https://www.caudit.edu.au/system/files/Media library/Resources and Files/Strategic Initiatives/CAUDIT Top Ten Report 2016 WEB.pdf](https://www.caudit.edu.au/system/files/Media library/Resources and Files/Strategic Initiatives/CAUDIT Top Ten Report 2016 WEB.pdf)
 
-Jones, D., Albion, P., & Heffernan, A. (2016). [Mapping the digital practices of teacher educators: Implications for teacher education in changing digital landscapes](/blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/). In _Proceedings of Society for Information Technology & Teacher Education International Conference 2016_ (pp. 2878–2886). Chesapeake, VA: Association for the Advancement of Computing in Education.
+Jones, D., Albion, P., & Heffernan, A. (2016). [Mapping the digital practices of teacher educators: Implications for teacher education in changing digital landscapes](/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/). In _Proceedings of Society for Information Technology & Teacher Education International Conference 2016_ (pp. 2878–2886). Chesapeake, VA: Association for the Advancement of Computing in Education.
 
 Yoo, Y., Boland, R. J., Lyytinen, K., & Majchrzak, A. (2012). Organizing for Innovation in the Digitized World. _Organization Science_, _23_(5), 1398–1408.

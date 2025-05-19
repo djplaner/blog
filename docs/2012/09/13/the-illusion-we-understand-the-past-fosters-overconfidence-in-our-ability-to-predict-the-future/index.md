@@ -6,10 +6,10 @@ categories:
 date: 2012-09-13 13:48:39+10:00
 next:
   text: '"Chasing dreams and recognising realities: teachers'' responses to ICT"'
-  url: /blog2/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/
+  url: /blog/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/
 previous:
   text: The core problem with learning analytics?
-  url: /blog2/2012/09/11/the-core-problem-with-learning-analytics/
+  url: /blog/2012/09/11/the-core-problem-with-learning-analytics/
 title: The illusion we understand the past fosters overconfidence in our ability to
   predict the future
 type: post
@@ -62,7 +62,7 @@ pingbacks:
       user_id: '0'
     
 ---
-As mentioned in the [last post](/blog2/2012/09/11/the-core-problem-with-learning-analytics/) I'm currently reading [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637) by [Daniel Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman). The title of this post comes from this quote from that book
+As mentioned in the [last post](/blog/2012/09/11/the-core-problem-with-learning-analytics/) I'm currently reading [Thinking, Fast and Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637) by [Daniel Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman). The title of this post comes from this quote from that book
 
 > The illusion that we understand the past fosters overconfidence in our ability to predict the future
 
@@ -88,7 +88,7 @@ Even though I like @timklapdor's idea of the [environment](http://timklapdor.wor
 
 This is one of the reasons why I don't think the adoption of open source LMSes (e.g. Moodle) are going to show any significant changes in the practice of e-learning.
 
-This is the point I will try to make in [an 2012 ASCILITE paper](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/). In that same paper, I'll briefly touch on an alternative. For the longer version of that story - made significantly inaccessible through the requirements of academic writing - see [my thesis](/blog2/research/phd-thesis/).
+This is the point I will try to make in [an 2012 ASCILITE paper](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/). In that same paper, I'll briefly touch on an alternative. For the longer version of that story - made significantly inaccessible through the requirements of academic writing - see [my thesis](/blog/research/phd-thesis/).
 
 ### Management and narratives
 

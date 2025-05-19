@@ -5,10 +5,10 @@ categories:
 date: 2013-01-09 14:38:19+10:00
 next:
   text: Making some "3100" thinking explicit
-  url: /blog2/2013/01/11/making-some-3100-thinking-explicit/
+  url: /blog/2013/01/11/making-some-3100-thinking-explicit/
 previous:
   text: Analytics for Learning and Teaching
-  url: /blog2/2013/01/08/analytics-for-learning-and-teaching/
+  url: /blog/2013/01/08/analytics-for-learning-and-teaching/
 title: '"Translating Learning into Numbers: A Generic Framework for Learning Analytics"'
 type: post
 template: blog-post.html
@@ -48,7 +48,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a summary of and commentary on [Greller and Drachsler (2012)](http://www.ifets.info/journals/15_3/4.pdf). I come to this via the JISC/CETIS report [I summarised yesterday](/blog2/2013/01/08/analytics-for-learning-and-teaching/)
+The following is a summary of and commentary on [Greller and Drachsler (2012)](http://www.ifets.info/journals/15_3/4.pdf). I come to this via the JISC/CETIS report [I summarised yesterday](/blog/2013/01/08/analytics-for-learning-and-teaching/)
 
 ## Thoughts
 

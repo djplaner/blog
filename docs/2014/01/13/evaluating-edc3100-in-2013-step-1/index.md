@@ -4,11 +4,11 @@ categories:
 date: 2014-01-13 10:04:59+10:00
 next:
   text: Getting started with NVivo
-  url: /blog2/2014/01/14/getting-started-with-nvivo/
+  url: /blog/2014/01/14/getting-started-with-nvivo/
 previous:
   text: Missing affordances - A partial explanation for the quality of University
     L&#038;T
-  url: /blog2/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/
+  url: /blog/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/
 title: Evaluating EDC3100 in 2013 - step 1
 type: post
 template: blog-post.html
@@ -148,7 +148,7 @@ Workload for the course remains high for the students, even in semester 2. This 
 
 ### Duplication for on-campus students
 
-Part of the workload issue for on-campus students is the apparent need to complete both the learning path and attend on-campus classes. The learning path is the series of activities and resources students need to complete each week (some early origins of this idea [described here](/blog2/2012/02/19/designing-the-weekly-ramble/)). This is tracked by the LMS and they get a small percentage of the overall course mark for completing this work.
+Part of the workload issue for on-campus students is the apparent need to complete both the learning path and attend on-campus classes. The learning path is the series of activities and resources students need to complete each week (some early origins of this idea [described here](/blog/2012/02/19/designing-the-weekly-ramble/)). This is tracked by the LMS and they get a small percentage of the overall course mark for completing this work.
 
 The trouble is that on-campus students also expect to attend the on-campus classes. They then see the expectation to complete the learning path and, not surprisingly, see that they have to do twice the work they would normally have to do.
 
@@ -211,10 +211,10 @@ Franklin (2001) also has this interesting tidbit
 
 ## What's next?
 
-1. [Analyse the student responses to the open questions](/blog2/2014/01/15/analysing-some-course-evaluation-comments).Due to another research project I need to become familiar with using NVivo. Using Nvivo to analyse the student responses to open questions seems a good way to become familiar with the tool and perhaps reveal some interesting insights. Two birds, one stone.Of course a barrier to this is the difficulty of [getting access to student responses in a raw format](/blog2/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/) to feed into NVivo.
+1. [Analyse the student responses to the open questions](/blog/2014/01/15/analysing-some-course-evaluation-comments).Due to another research project I need to become familiar with using NVivo. Using Nvivo to analyse the student responses to open questions seems a good way to become familiar with the tool and perhaps reveal some interesting insights. Two birds, one stone.Of course a barrier to this is the difficulty of [getting access to student responses in a raw format](/blog/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/) to feed into NVivo.
 2. Revisit what the course should be covering.The Bachelor of Education for this course is currently under-going an accreditation process. With the new national curriculum (and perhaps very soon the re-jigged, new national curriculum) there are some requirements to revisit exactly what is being taught. For example, there was a strong recommendation last year that Interactive White Boards be explicitly covered (I didn't see what "should" be taught in the course aligns with what I think should be taught).Beyond this I have some thoughts about what the course is missing and has too much of.
 3. Take a look at the current course.I actually need to go back and look through the course, the site, the activities etc and see what is ok and what needs to be improved.
-4. Play with some analytics.As part of the last point and also because of another project, I'd like to play a bit more with some analytics to look at what happened in the course and the course site. Something I've already started with [this post](/blog2/2014/01/06/visualising-posting-frequency-bim-and-edc3100/) trying to visualise blog post frequency.
+4. Play with some analytics.As part of the last point and also because of another project, I'd like to play a bit more with some analytics to look at what happened in the course and the course site. Something I've already started with [this post](/blog/2014/01/06/visualising-posting-frequency-bim-and-edc3100/) trying to visualise blog post frequency.
 5. Talk with other teaching staff.By about this stage, I hoping the above work will give a good foundation for more discussions with other staff.
 6. Generate some ideas.Obviously I already have some ideas (e.g. doing something badges could be a good fit, but unlikely) already but hopefully all of this will identify some more.
 7. Make some plans.Lastly, the ideas will need to be reduced to something doable.

@@ -10,11 +10,11 @@ date: 2009-06-19 23:09:35+10:00
 next:
   text: "The reason *insert label* talk about gurus is because they can\u2019t spell\
     \ the word charlatan"
-  url: /blog2/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-cant-spell-the-word-charlatan/
+  url: /blog/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-cant-spell-the-word-charlatan/
 previous:
   text: Why minimium standards (probably) won&#039;t work and will probably become
     maximum standards
-  url: /blog2/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
+  url: /blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/
 title: Learning and teaching processes
 type: post
 template: blog-post.html
@@ -39,7 +39,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the penultimate section from the Processes section of chapter 2 of my [thesis](/blog2/research/phd-thesis/). It aims to talk about the types of processes used for learning and teaching (including e-learning). It seeks to use the lens of [teleological and ateleological processes](/blog2/2009/05/25/teleological-and-ateleological-processes/). This version has been finished quickly and could be made better. I'm trying hard to get "good enough" done and out so I can make progress. I guess supervisor feedback will tell the tale.
+The following is the penultimate section from the Processes section of chapter 2 of my [thesis](/blog/research/phd-thesis/). It aims to talk about the types of processes used for learning and teaching (including e-learning). It seeks to use the lens of [teleological and ateleological processes](/blog/2009/05/25/teleological-and-ateleological-processes/). This version has been finished quickly and could be made better. I'm trying hard to get "good enough" done and out so I can make progress. I guess supervisor feedback will tell the tale.
 
 ### A related aside
 

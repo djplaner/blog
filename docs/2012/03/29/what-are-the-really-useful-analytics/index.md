@@ -4,10 +4,10 @@ categories:
 date: 2012-03-29 12:31:53+10:00
 next:
   text: Curriculum innovation as an educational technology trend
-  url: /blog2/2012/03/30/curriculum-innovation-as-an-educational-technology-trend/
+  url: /blog/2012/03/30/curriculum-innovation-as-an-educational-technology-trend/
 previous:
   text: Explorations of narrative research
-  url: /blog2/2012/03/29/explorations-of-narrative-research/
+  url: /blog/2012/03/29/explorations-of-narrative-research/
 title: What are the really useful analytics?
 type: post
 template: blog-post.html
@@ -85,7 +85,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Following on from [recent posts](/blog2/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/) around learning analytics, this post is going to try and drill down a bit further on one of the useful questions around analytics identified by Shelia MacNeil's [summary of a Gardner Campbell talk](http://blogs.cetis.ac.uk/sheilamacneill/2012/03/09/learning-analytics-where-do-you-stand/). The questions
+Following on from [recent posts](/blog/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/) around learning analytics, this post is going to try and drill down a bit further on one of the useful questions around analytics identified by Shelia MacNeil's [summary of a Gardner Campbell talk](http://blogs.cetis.ac.uk/sheilamacneill/2012/03/09/learning-analytics-where-do-you-stand/). The questions
 
 > **What are the really useful “analytics” which can help me as a learner, teacher, administrator, etc?** Which systems provide that data just now ? How can/do these stakeholders access and share the data in meaningful ways? How can we improve and build on these systems in ways which take into account the complexity of learning? Or as Gardner said, how can we start framing systems and questions around wisdom?
 
@@ -103,7 +103,7 @@ which appears to be taken from an [IBM white paper](http://www.techrepublic.com/
 
 There follows an argument and some references that suggest analytics can help management a great deal to "cut costs and improve teaching and learning". So much so that the following sentence repeats the mantra "improving efficiencies to saving money to enhancing student achievement"
 
-While that's certainly a potential application of analytics, like others I find this a limiting perspective. It almost automatically entails the sort of simplification that [Gardner Campbell](/blog2/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/) was arguing against.
+While that's certainly a potential application of analytics, like others I find this a limiting perspective. It almost automatically entails the sort of simplification that [Gardner Campbell](/blog/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/) was arguing against.
 
 Instead, I'm starting to lean more toward the idea of analytics being yet another "blind man" available to people to discover what is going on around e-learning/learning. Like the other blind men of e-learning research (I'll use that term for want of a better label) - surveys, interviews etc. - it has its limitations (Gardner expressed a big picture limitation) but perhaps combined they can help.
 

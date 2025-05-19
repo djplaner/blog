@@ -65,7 +65,7 @@ pingbacks:
       user_id: '0'
     
 ---
-BIM is an activity module for [Moodle](http://moodle.org/) that helps teachers manage and mark student use of personal feeds (produced by blogs, twitter, whatever). See the [main BIM page](/blog2/research/bam-blog-aggregation-management/) for more information.
+BIM is an activity module for [Moodle](http://moodle.org/) that helps teachers manage and mark student use of personal feeds (produced by blogs, twitter, whatever). See the [main BIM page](/blog/research/bam-blog-aggregation-management/) for more information.
 
 Below you should find how to access the code and some initial documentation for BIM. (Eventually this will/may be moved to the main Moodle site when/if BIM is [contributed](http://docs.moodle.org/en/Development:contrib).
 
@@ -134,7 +134,7 @@ By late 2009, use of BAM at CQUniversity included:
 - 2790+ students.
 - 20,000+ blog posts.
 
-This concrete example of BAM is described further in [this paper](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/)
+This concrete example of BAM is described further in [this paper](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/)
 
 ### Installing BIM
 

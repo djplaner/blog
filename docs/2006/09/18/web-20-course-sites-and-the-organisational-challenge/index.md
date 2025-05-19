@@ -4,10 +4,10 @@ categories:
 date: 2006-09-18 21:24:48+10:00
 next:
   text: '"Web 2.0: A New Wave of innovation for teaching and learning?"'
-  url: /blog2/2006/09/18/web-20-a-new-wave-of-innovation-for-teaching-and-learning/
+  url: /blog/2006/09/18/web-20-a-new-wave-of-innovation-for-teaching-and-learning/
 previous:
   text: Google calendar as a component to Web 2.0 course sites
-  url: /blog2/2006/09/18/google-calendar-as-a-component-to-web-20-course-sites/
+  url: /blog/2006/09/18/google-calendar-as-a-component-to-web-20-course-sites/
 title: Web 2.0 Course Sites and the organisational challenge
 type: post
 template: blog-post.html

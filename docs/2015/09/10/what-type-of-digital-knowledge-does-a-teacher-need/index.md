@@ -7,10 +7,10 @@ categories:
 date: 2015-09-10 13:25:47+10:00
 next:
   text: Exploring Moodle's API
-  url: /blog2/2015/09/13/exploring-moodles-api/
+  url: /blog/2015/09/13/exploring-moodles-api/
 previous:
   text: Requirements, solutions, design, and who should decide
-  url: /blog2/2015/09/09/requirements-solutions-design-and-who-should-decide/
+  url: /blog/2015/09/09/requirements-solutions-design-and-who-should-decide/
 title: What type of "digital knowledge" does a teacher need?
 type: post
 template: blog-post.html
@@ -83,7 +83,7 @@ Rather than get drawn into the debate about whether students should be taught co
 
 ## A metaphoric typology of place and tool
 
-Back in 2011 I asked ["Residents and visitors, are builders the forgotten category?"](/blog2/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/). A question sparked by thinking about the Visitors and Residents typology proposed by [White & Cornu (2011)](http://firstmonday.org/article/view/3171/3049) (I paper I need to read again) for "individuals' engagement with the web". As a teacher who regularly used coding to enable the design of learning experiences, I wondered whether "builders" should be added. In [a comment](/blog2/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/#comment-100) @palbion wondered whether there was a place for "renovator/handyman/DIY enthusiast".
+Back in 2011 I asked ["Residents and visitors, are builders the forgotten category?"](/blog/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/). A question sparked by thinking about the Visitors and Residents typology proposed by [White & Cornu (2011)](http://firstmonday.org/article/view/3171/3049) (I paper I need to read again) for "individuals' engagement with the web". As a teacher who regularly used coding to enable the design of learning experiences, I wondered whether "builders" should be added. In [a comment](/blog/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/#comment-100) @palbion wondered whether there was a place for "renovator/handyman/DIY enthusiast".
 
 The aim here is to see if expanding the visitor/resident typology offers any value in understanding the breadth of "digital knowledge" and in turn identifying whether or not that offers any assistance in thinking about the type of "digital knowledge" that would be required and useful for a teacher. Especially if that teacher engages primarily in a digital learning space.
 
@@ -108,7 +108,7 @@ We already have this at Universities with the LMS. @timklapdor inspired the foll
 
 https://twitter.com/s\_palm/status/631980504888115200
 
-And it's not just the LMS. There's [Elke's comment](/blog2/2015/08/18/the-role-of-coding-in-learning-and-teaching/#comment-7398) about what she misses most about studying at University "Access to all of those journal articles!".
+And it's not just the LMS. There's [Elke's comment](/blog/2015/08/18/the-role-of-coding-in-learning-and-teaching/#comment-7398) about what she misses most about studying at University "Access to all of those journal articles!".
 
 ### Visitor
 
@@ -191,7 +191,7 @@ But they also point out that there are also advantages
 
 Another problems with the above typology and the question that framed this whole post - What "digital knowledge" does a teacher need? - is that it appears to suggest that the whatever deficit of knowledge exists, it is a deficit on the part of the teacher. It's the teacher that is lacking the necessary knowledge. That this is the problem to fix, and that this is obviously done by training them more and better.
 
-This is a very limited view of knowledge. As suggested by various types of distributive views of knowledge (e.g. [Jones, Heffernan and Albion (2015)](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/)), knowledge isn't just within the head. It arises from the networks of people, tools, processes, policies etc. surrounding the teachers. The lack of knowledge or inability to "move up" the typology isn't just about the teacher's lack of knowledge and it won't be solved simply by more and better training.
+This is a very limited view of knowledge. As suggested by various types of distributive views of knowledge (e.g. [Jones, Heffernan and Albion (2015)](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/)), knowledge isn't just within the head. It arises from the networks of people, tools, processes, policies etc. surrounding the teachers. The lack of knowledge or inability to "move up" the typology isn't just about the teacher's lack of knowledge and it won't be solved simply by more and better training.
 
 ## Questions
 
@@ -205,7 +205,7 @@ My current questions
 - How and what can pre-service teacher education do to help build this knowledge? Is training enough? Walk the walk?
 - Is it all about the formal teaching, what about the environment?
     
-    e.g the idea that ["branding the LMS"](/blog2/2015/07/07/does-branding-the-lms-hurt-learning/) hurts learning/digital literacy.
+    e.g the idea that ["branding the LMS"](/blog/2015/07/07/does-branding-the-lms-hurt-learning/) hurts learning/digital literacy.
     
 - Beyond training, is there benefit in creating institutional, digital learning spaces that feel more like places you want to live, than hovels you wish to escape as quickly as possible?
 - How do teachers and students perceive current digital spaces? What impact does this have on their self-perceived place in the typology?

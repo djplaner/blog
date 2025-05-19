@@ -9,10 +9,10 @@ categories:
 date: 2010-06-07 10:04:23+10:00
 next:
   text: The confusion of small and big changes
-  url: /blog2/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
+  url: /blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
 previous:
   text: Object orientation and design patterns
-  url: /blog2/2010/06/07/object-orientation-and-design-patterns/
+  url: /blog/2010/06/07/object-orientation-and-design-patterns/
 title: The Wf Framework
 type: post
 template: blog-post.html
@@ -37,9 +37,9 @@ pingbacks:
       user_id: '0'
     
 ---
-Yet another section from Chapter 5 of [the thesis](/blog2/research/phd-thesis/) describing the various changes made to Webfuse in the period from 2000 onwards. This one (very briefly) describes the Webfuse framework for dynamic web applications.
+Yet another section from Chapter 5 of [the thesis](/blog/research/phd-thesis/) describing the various changes made to Webfuse in the period from 2000 onwards. This one (very briefly) describes the Webfuse framework for dynamic web applications.
 
-You can see the impact of this experience in the development practices I'm bringing to my work in PHP and Moodle. There are early glimmers of MVC and the Wf Framework in [BIM](/blog2/research/bam-blog-aggregation-management/) and the [indicators block](/blog2/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/).
+You can see the impact of this experience in the development practices I'm bringing to my work in PHP and Moodle. There are early glimmers of MVC and the Wf Framework in [BIM](/blog/research/bam-blog-aggregation-management/) and the [indicators block](/blog/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/).
 
 #### The Wf Framework
 

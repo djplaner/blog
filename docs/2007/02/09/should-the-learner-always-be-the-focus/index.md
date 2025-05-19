@@ -6,10 +6,10 @@ categories:
 date: 2007-02-09 16:28:10+10:00
 next:
   text: Slowing change and persuading academics
-  url: /blog2/2007/02/10/slowing-change-and-persuading-academics/
+  url: /blog/2007/02/10/slowing-change-and-persuading-academics/
 previous:
   text: New job, new start, new challenges
-  url: /blog2/2007/02/03/new-job-new-start-new-challenges/
+  url: /blog/2007/02/03/new-job-new-start-new-challenges/
 title: Should the learner always be the focus?
 type: post
 template: blog-post.html

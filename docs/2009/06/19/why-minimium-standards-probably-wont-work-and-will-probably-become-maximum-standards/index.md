@@ -6,10 +6,10 @@ categories:
 date: 2009-06-19 13:30:07+10:00
 next:
   text: Learning and teaching processes
-  url: /blog2/2009/06/19/learning-and-teaching-processes/
+  url: /blog/2009/06/19/learning-and-teaching-processes/
 previous:
   text: Examination focus and what it might tell us about learning and teaching
-  url: /blog2/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
+  url: /blog/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
 title: Why minimium standards (probably) won't work and will probably become maximum
   standards
 type: post
@@ -138,7 +138,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I've reached a phase in my thesis work that allows me, long after I should have, to return to Cavallo (2004). I had previously put in a [place holder](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) to remind me to go back to this paper. The full impact of the paper will likely become evident over the next few days, but this post focuses specifically on an issue I see arising locally.
+I've reached a phase in my thesis work that allows me, long after I should have, to return to Cavallo (2004). I had previously put in a [place holder](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) to remind me to go back to this paper. The full impact of the paper will likely become evident over the next few days, but this post focuses specifically on an issue I see arising locally.
 
 ### The local issue
 
@@ -187,11 +187,11 @@ Jonassen (1997) goes on to characterize ill-structured problems with the followi
 - Possess multiple criteria for evaluating solutions.
 - Require learners to express personal opinions or beliefs about the problem, and are therefore uniquely human interpersonal activities.
 
-I've [complained before](/blog2/2009/02/09/on-the-silliness-of-best-practice-or-why-you-shouldnt-just-copy-successful-organisations/) about the silliness of best practices. As Cavallo (2004) suggests such "grafting" on is questionable at the best of time.
+I've [complained before](/blog/2009/02/09/on-the-silliness-of-best-practice-or-why-you-shouldnt-just-copy-successful-organisations/) about the silliness of best practices. As Cavallo (2004) suggests such "grafting" on is questionable at the best of time.
 
 Especially if you believe the assumption that these practices will be applied "faithfully and uniformly". Remember, we're talking about a university and academics. **Academics are trained not to accept propositions uncritically and subsequently cannot be expected to adopt strategies without question or adaptation** (Gibbs, Habeshaw et al. 2000).
 
-I've complained previously about [Quality compliance and task corruption](/blog2/2009/06/10/quality-compliance-and-task-corruption/) and the [risks run by prescription](/blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/). The last post includes this quote from Knight and Trowler (2000)
+I've complained previously about [Quality compliance and task corruption](/blog/2009/06/10/quality-compliance-and-task-corruption/) and the [risks run by prescription](/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/). The last post includes this quote from Knight and Trowler (2000)
 
 > Likewise, attempts to improve teaching by coercion run the risk of producing compliance cultures, in which there is \`change without change’ , while simultaneously compounding negative feelings about academic work
 

@@ -6,10 +6,10 @@ date: 2021-10-23 17:04:59+10:00
 next:
   text: '"Orchestrating entangled relations to break the iron triangle: examples from
     a LMS migration"'
-  url: /blog2/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/
+  url: /blog/2022/07/05/orchestrating-entangled-relations-to-break-the-iron-triangle-examples-from-a-lms-migration/
 previous:
   text: Exploring Dron's definition of educational technology
-  url: /blog2/2021/06/04/exploring-drons-definition-of-educational-technology/
+  url: /blog/2021/06/04/exploring-drons-definition-of-educational-technology/
 title: Representing problems to make the solution transparent
 type: post
 template: blog-post.html
@@ -48,7 +48,7 @@ I've actually grown to quite like Blackboard Learn. But it's old and difficult t
 
 To make things more difficult a Blackboard course site has a [modal interface](https://en.wikipedia.org/wiki/Mode_\(user_interface\)). Meaning the course site will look different for different people at different times.
 
-In addition, using Dron's (2021) definition, Blackboard Learn is a [very soft technology, which makes it hard to use](/blog2/2021/06/04/exploring-drons-definition-of-educational-technology/#hard-is-easy-soft-is-hard). As a soft technology, Blackboard Learn provides great flexibility in how it is used. Flexibility when applied across 1000s of course sites will reveal many interesting approaches.
+In addition, using Dron's (2021) definition, Blackboard Learn is a [very soft technology, which makes it hard to use](/blog/2021/06/04/exploring-drons-definition-of-educational-technology/#hard-is-easy-soft-is-hard). As a soft technology, Blackboard Learn provides great flexibility in how it is used. Flexibility when applied across 1000s of course sites will reveal many interesting approaches.
 
 Attempting to understand the design, purpose and requirements of a Blackboard course site by looking at it is a bit like playing _Number Scrabble_ with a single line of cards. A game we have to play 1000s of times.
 

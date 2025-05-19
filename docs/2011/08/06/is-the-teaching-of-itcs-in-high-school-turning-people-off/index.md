@@ -4,10 +4,10 @@ categories:
 date: 2011-08-06 11:27:12+10:00
 next:
   text: What is important when testing students?
-  url: /blog2/2011/08/08/what-is-important-when-testing-students/
+  url: /blog/2011/08/08/what-is-important-when-testing-students/
 previous:
   text: One analysis of the Digital Education Revolution
-  url: /blog2/2011/08/01/one-analysis-of-the-digital-education-revolution/
+  url: /blog/2011/08/01/one-analysis-of-the-digital-education-revolution/
 title: Is the teaching of IT/CS in high school turning people off?
 type: post
 template: blog-post.html
@@ -275,6 +275,6 @@ The following is my first attempt to listing what I see as some of the problems 
 
 ### What's next?
 
-Last term I design a [unit of work](/blog2/2011/06/05/design-rationale-icts-for-e-learning-a3-part-2/) for the first 12 or so lessons of an IPT course that captured some ideas about an alternative. It will be a while before I can put that into action, and frankly I have my reservations about how practical many of those ideas are.
+Last term I design a [unit of work](/blog/2011/06/05/design-rationale-icts-for-e-learning-a3-part-2/) for the first 12 or so lessons of an IPT course that captured some ideas about an alternative. It will be a while before I can put that into action, and frankly I have my reservations about how practical many of those ideas are.
 
 In the shorter-term, I have to develop 3/4 lessons around decision trees, decision matrices and expert systems for two IPT classes for next week (Wed-Thur). So I'm going to try and implement some of my alternatives in those. Will probably try and post the ideas.

@@ -10,10 +10,10 @@ categories:
 date: 2010-03-25 14:19:40+10:00
 next:
   text: Moodle, Oracle, blobs and MS-Word - problem and solution?
-  url: /blog2/2010/03/26/moodle-oracle-blobs-and-ms-word-problem-and-solution/
+  url: /blog/2010/03/26/moodle-oracle-blobs-and-ms-word-problem-and-solution/
 previous:
   text: 'Limits in developing innovative pedagogy with Moodle: The story of BIM'
-  url: /blog2/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/
+  url: /blog/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/
 title: '"From theory to intervention: Mapping theoretically derived behavioural determinants
   to behaviour change techniques"'
 type: post
@@ -43,7 +43,7 @@ pingbacks:
 ---
 The following draws on principles/theory from psychology to guide thinking about how to incorporate "data" from "academic analytics" into an LMS in a way that encourages and enables academic staff to improve their learning and teaching. It's based on some of the ideas that underpin similar approaches that have been used for students such as [this Moodle dashboard](http://lewiscarr.co.uk/dashboard) and the [signals work](http://minutebio.com/blog/2009/08/31/signals-at-purdue-u-increasing-student-success/) at University of Purdue.
 
-The following gives some background to this approach, summarises a paper from the psychology literature around behaviour modification and then explains one idea for a "signals" like application for academic staff. Some of this thinking is also informing the ["Moodle curriculum mapping" project](/blog2/research/curriculum-mapping/).
+The following gives some background to this approach, summarises a paper from the psychology literature around behaviour modification and then explains one idea for a "signals" like application for academic staff. Some of this thinking is also informing the ["Moodle curriculum mapping" project](/blog/research/curriculum-mapping/).
 
 Very interested in pointers to similar work, suggestions for improvement or expressions of interest from folk.
 
@@ -51,7 +51,7 @@ Very interested in pointers to similar work, suggestions for improvement or expr
 
 I have a growing interest in how insights from psychology, especially around behaviour change can inform the design of e-learning and other aspects of the teaching environment at universities in a way to encourage and enable improvement. **Important:** I did not say "require", I said "encourage". Too much of what passes in universities at the moment takes the "require" approach with obvious negative consequences.
 
-This is where my current interest in ["nudging" - the design of good choice architecture](/blog2/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/) and [behaviour modification](/blog2/2010/03/17/embedding-behaviour-modification-paper-summary/) is coming from. The basic aim is to redesign the environment within which teaching occurs in a way the encourages and enables improvement in teaching practice, rather than discourages it.
+This is where my current interest in ["nudging" - the design of good choice architecture](/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/) and [behaviour modification](/blog/2010/03/17/embedding-behaviour-modification-paper-summary/) is coming from. The basic aim is to redesign the environment within which teaching occurs in a way the encourages and enables improvement in teaching practice, rather than discourages it.
 
 To aid in this work, I've been lucky enough to become friends with a [pyschologist](http://mathehu.wordpress.com/) who has some similar interests. We're currently talking about different possibilities, informed by our different backgrounds. As part of that he's pointing me to bits in the psychological literature that offers some insight. This is an attempt to summarise/reflect on one such paper (Michie et al, 2008)
 
@@ -75,7 +75,7 @@ Key Determinants of Behaviour Change from Fishbein et al., 2001; Michie et al., 
 | Environmental constraints | Environmental context and resources |
 | Norms | Social influences   Emotion   Action planning |
 
-It is interesting to see how well the categories listed in this table resonate with the limits I was planning to talk about in [this presentation](/blog2/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/). i.e. it really seems to me, at the moment, that much of the environment within universities around teaching and learning is designed as to reduce the chance of these determinants to be leaning towards behaviour change.
+It is interesting to see how well the categories listed in this table resonate with the limits I was planning to talk about in [this presentation](/blog/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/). i.e. it really seems to me, at the moment, that much of the environment within universities around teaching and learning is designed as to reduce the chance of these determinants to be leaning towards behaviour change.
 
 ### Mapping techniques to determinants
 

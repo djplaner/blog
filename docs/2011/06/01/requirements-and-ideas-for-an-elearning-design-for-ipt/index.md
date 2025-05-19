@@ -6,10 +6,10 @@ categories:
 date: 2011-06-01 08:22:23+10:00
 next:
   text: A profile of learners in an IPT class
-  url: /blog2/2011/06/02/a-profile-of-learners-in-an-ipt-class/
+  url: /blog/2011/06/02/a-profile-of-learners-in-an-ipt-class/
 previous:
   text: And the thesis is complete, what&#039;s next?
-  url: /blog2/2011/05/27/and-the-thesis-is-complete-whats-next/
+  url: /blog/2011/05/27/and-the-thesis-is-complete-whats-next/
 title: Requirements and ideas for an eLearning design for IPT
 type: post
 template: blog-post.html
@@ -34,11 +34,11 @@ pingbacks:
 ---
 This week is assignment week. One of the assignments I need to complete is for the course ICTs for Learning Design. This final assignment requires us to design a unit of work (a sequence of learning experiences) for a particular subject that makes effective use of eLearning. The following is the first step in this process.
 
-The process started over a fortnight ago with [a post](/blog2/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/) asking where all the innovative IPT (Information Processing and Technology) courses were? Many thanks to [@meganrodda](http://twitter.com/#!/meaganrodda) for sharing her games design program.
+The process started over a fortnight ago with [a post](/blog/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/) asking where all the innovative IPT (Information Processing and Technology) courses were? Many thanks to [@meganrodda](http://twitter.com/#!/meaganrodda) for sharing her games design program.
 
 The intent here is to look at the [new (2010) Queensland Syllabus](http://www.qsa.qld.edu.au/11678.html) for IPT courses and use a unit of work from there as the basis for the assignment. The intent is to try to come up with something right out of left field. Something that avoids all of the common approaches and comes at the question of IPT from a different angle. In the context of this course, one that hits some of the theoretical buttons so desired in the e-learning course. After all, this just has to be a design. I don't have to implement it, yet.
 
-The idea that is in the back of my head is one I floated briefly [in this post](/blog2/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/). i.e. structure an entire IPT course around a particular open source tool like Moodle or Wordpress. Something that has a large community and a plugin architecture that allows fairly simple modification. The students would have to engage with the community, become familiar with the tool, start answering questions/writing documentation for the tool, creating instances of the tool (e.g. managing a Moodle instance for some folk), and finally modifying the tool in someway.
+The idea that is in the back of my head is one I floated briefly [in this post](/blog/2011/03/18/learning-brief-reflections-and-conclusions-version-2-0/). i.e. structure an entire IPT course around a particular open source tool like Moodle or Wordpress. Something that has a large community and a plugin architecture that allows fairly simple modification. The students would have to engage with the community, become familiar with the tool, start answering questions/writing documentation for the tool, creating instances of the tool (e.g. managing a Moodle instance for some folk), and finally modifying the tool in someway.
 
 ### Some detail on IPT
 

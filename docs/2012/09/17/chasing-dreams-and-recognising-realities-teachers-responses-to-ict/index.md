@@ -5,11 +5,11 @@ categories:
 date: 2012-09-17 13:53:40+10:00
 next:
   text: Compliance cultures and transforming the quality of e-learning
-  url: /blog2/2012/09/29/compliance-cultures-and-transforming-the-quality-of-e-learning/
+  url: /blog/2012/09/29/compliance-cultures-and-transforming-the-quality-of-e-learning/
 previous:
   text: The illusion we understand the past fosters overconfidence in our ability
     to predict the future
-  url: /blog2/2012/09/13/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future/
+  url: /blog/2012/09/13/the-illusion-we-understand-the-past-fosters-overconfidence-in-our-ability-to-predict-the-future/
 title: '"Chasing dreams and recognising realities: teachers'' responses to ICT"'
 type: post
 template: blog-post.html

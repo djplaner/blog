@@ -7,10 +7,10 @@ categories:
 date: 2010-11-09 10:27:42+10:00
 next:
   text: Initial plans for BIM 2.0
-  url: /blog2/2010/11/09/initial-plans-for-bim-2-0/
+  url: /blog/2010/11/09/initial-plans-for-bim-2-0/
 previous:
   text: A story of the power of intrinsic motivation
-  url: /blog2/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/
+  url: /blog/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/
 title: Scaffolding, context-sensitive conglomerations - v2.0
 type: post
 template: blog-post.html
@@ -86,7 +86,7 @@ The last sentence in the following, summarises why I think this idea has some va
 - The vast majority of university e-learning is not very good.
 - The common response is based on a deficit model of the academic.  
     i.e. the academic doesn't know enough about learning and teaching, so let's force them to do a formal education qualification and all will be good. Alternatively, lets send them on some LMS training or require them to complete checklists. At best, let's employ educational developers to work with the academics to design their courses and course sites.
-- This type of approach fails to [connect with academics and their intrinsic motivation](/blog2/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/) and subsequently is very unlikely to work.
+- This type of approach fails to [connect with academics and their intrinsic motivation](/blog/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/) and subsequently is very unlikely to work.
 - This type of approach fails to recognise that much of the deficit in the university e-learning system arises not from the academic, but from the information systems used to implement it and the general university environment.
 - The proposition is that adding well-designed scaffolding, context-sensitive conglomerations addresses the limitations in the information systems and improves the level of knowledge within the system in a way that may be more effective.
 - However, adding the conglomerations is only one step. Fixing the limitations in the university environment (e.g. research is more important than teaching; bad management robbing academics of their passion etc.) is also required.

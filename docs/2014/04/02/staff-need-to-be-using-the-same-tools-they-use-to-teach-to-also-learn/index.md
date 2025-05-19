@@ -5,10 +5,10 @@ categories:
 date: 2014-04-02 17:19:41+10:00
 next:
   text: Designing for situation awareness in a complex system
-  url: /blog2/2014/04/18/designing-for-situation-awareness-in-a-complex-system/
+  url: /blog/2014/04/18/designing-for-situation-awareness-in-a-complex-system/
 previous:
   text: BIM and BAD
-  url: /blog2/2014/03/31/bim-and-bad/
+  url: /blog/2014/03/31/bim-and-bad/
 title: Staff need to be using the same tools they use to teach to also learn
 type: post
 template: blog-post.html
@@ -82,10 +82,10 @@ The problem with this statement
 
 is that it reflects the mindset that what's best for learning is using the tools that have already been adopted by the institution. Those tools are the starting point.
 
-What's not the starting point are the tools people are already using, or the tools that are better for learning. Especially for the time when they stop studying at the institution. This connects to my recent post about [the failure of institutional eportfolios](/blog2/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/).
+What's not the starting point are the tools people are already using, or the tools that are better for learning. Especially for the time when they stop studying at the institution. This connects to my recent post about [the failure of institutional eportfolios](/blog/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/).
 
 Another example is getting help with Moodle. Moodle is the LMS used by the institution for which I work. When I want to learn about something related to Moodle I use Google which invariably takes me to either the main [Moodle site](http://moodle.org/) or some of the good quality Moodle related resources shared on the websites of other institutions (e.g. [UNSW](http://teaching.unsw.edu.au/moodle-url)). It is my understand that I will never find any of the Moodle how-to resources created by my current institution because they reside in a Moodle instance that isn't searchable by Google. An example of how the focus is on the tool, not on how people actually learn.
 
-Another example is past experience when talking about [BIM](/blog2/research/bam-blog-aggregation-management/). BIM is essentially a tool to enable the use of individual student blogs. But whenever central L&T folk at a Moodle institution hear blogs, their first question is something like, "Did you know that Moodle has blogs built-in?".
+Another example is past experience when talking about [BIM](/blog/research/bam-blog-aggregation-management/). BIM is essentially a tool to enable the use of individual student blogs. But whenever central L&T folk at a Moodle institution hear blogs, their first question is something like, "Did you know that Moodle has blogs built-in?".
 
 If all you have is a [hammer](http://en.wikipedia.org/wiki/Law_of_the_instrument)....

@@ -5,10 +5,10 @@ categories:
 date: 2015-02-02 12:37:18+10:00
 next:
   text: '"Concrete lounge #1 - Helping learners find correct, up-to-date course information"'
-  url: /blog2/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
+  url: /blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
 previous:
   text: Using the PIRAC - Thinking about an &quot;integrated dashboard&quot;
-  url: /blog2/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
+  url: /blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
 title: Learning analytics is better when.....?
 type: post
 template: blog-post.html
@@ -50,7 +50,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Trying to capture some thinking that arose during an institutional meeting re: learning analytics. The meeting was somewhat positive, but - as is not uncommon - there seemed to be some limitations around what learning analytics actually is and what it might look like. Wondering if the following framing might help it draws on points made by numerous people about learning analytics and some strong echoes of [the (P)IRAC framework](/blog2/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/)
+Trying to capture some thinking that arose during an institutional meeting re: learning analytics. The meeting was somewhat positive, but - as is not uncommon - there seemed to be some limitations around what learning analytics actually is and what it might look like. Wondering if the following framing might help it draws on points made by numerous people about learning analytics and some strong echoes of [the (P)IRAC framework](/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/)
 
 Learning analytics better when it
 
@@ -83,7 +83,7 @@ A few examples to illustrate.
 
 ## "MAV-enabled analytics"
 
-A paper last year describes [the development of MAV](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#mav) at CQU and [some local tinkering](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending) I did using MAV i.e. "MAV-enabled analytics".
+A paper last year describes [the development of MAV](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#mav) at CQU and [some local tinkering](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending) I did using MAV i.e. "MAV-enabled analytics".
 
 1. What does it know about the learning environment? **Limited but growing** As described, both MAV (student clicks on links in Moodle) and my tinkering (student records data) draw on low level information. In a month or so my on-going tinkering has the tool including information about student completion of activities in my course site and what the students have written on their individual blogs. Hopefully that will soon be extended with SNA and some sentiment analysis.
 2. Accessible from the learning environment? **Yes** Both are analytics tools are embedded into the Moodle LMS - the prime learning environment for this context.

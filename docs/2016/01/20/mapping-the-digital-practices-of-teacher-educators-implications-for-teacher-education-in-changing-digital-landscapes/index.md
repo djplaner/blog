@@ -7,10 +7,10 @@ date: 2016-01-20 15:52:11+10:00
 next:
   text: What if our digital technologies were protean? Implications for computational
     thinking, learning, and teaching
-  url: /blog2/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/
+  url: /blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/
 previous:
   text: Finishing tweaks to Moodle book search block
-  url: /blog2/2016/01/17/finishing-tweaks-to-moodle-book-search-block/
+  url: /blog/2016/01/17/finishing-tweaks-to-moodle-book-search-block/
 title: '"Mapping the digital practices of teacher educators: Implications for teacher
   education in changing digital landscapes"'
 type: post

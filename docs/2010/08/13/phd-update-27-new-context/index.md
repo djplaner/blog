@@ -5,15 +5,15 @@ categories:
 date: 2010-08-13 13:08:53+10:00
 next:
   text: Analysing the business model for higher education and why they can't
-  url: /blog2/2010/08/15/analysing-the-business-model-for-higher-education-and-why-they-cant/
+  url: /blog/2010/08/15/analysing-the-business-model-for-higher-education-and-why-they-cant/
 previous:
   text: Situated/distributed cognition and e-learning
-  url: /blog2/2010/08/13/situateddistributed-cognition-and-e-learning/
+  url: /blog/2010/08/13/situateddistributed-cognition-and-e-learning/
 title: '"PhD Update #27 - New context"'
 type: post
 template: blog-post.html
 ---
-It's been over 4 months since my [last PhD update](/blog2/2010/04/09/phd-update-26-getting-to-first-draft-stage/), past time to get back into the discipline. A lot has happened in those 4 months, the grant talked about in the last post didn't get off the ground thanks to folk leaving positions at the potential partner institution and then because I left mine. So, the new context is that I'm currently a man of leisure, thanks to a separation payout, and increasingly focused on finally finishing the thesis.
+It's been over 4 months since my [last PhD update](/blog/2010/04/09/phd-update-26-getting-to-first-draft-stage/), past time to get back into the discipline. A lot has happened in those 4 months, the grant talked about in the last post didn't get off the ground thanks to folk leaving positions at the potential partner institution and then because I left mine. So, the new context is that I'm currently a man of leisure, thanks to a separation payout, and increasingly focused on finally finishing the thesis.
 
 ### What I did last week
 

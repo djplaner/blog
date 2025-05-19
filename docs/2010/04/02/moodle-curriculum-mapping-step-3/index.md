@@ -4,15 +4,15 @@ categories:
 date: 2010-04-02 10:04:43+10:00
 next:
   text: '"PhD Update #25: A return to discipline?"'
-  url: /blog2/2010/04/02/phd-update-25-a-return-to-discipline/
+  url: /blog/2010/04/02/phd-update-25-a-return-to-discipline/
 previous:
   text: Elevator pitch for &quot;Moodle curriculum mapping&quot;
-  url: /blog2/2010/04/01/elevator-pitch-for-curriculum-mapping/
+  url: /blog/2010/04/01/elevator-pitch-for-curriculum-mapping/
 title: Moodle curriculum mapping - Step 3
 type: post
 template: blog-post.html
 ---
-This will be a brief extension of [previous work](/blog2/2010/03/30/moodle-curriculum-mapping-step-2/) around [this project](/blog2/2010/04/01/elevator-pitch-for-curriculum-mapping/). The main aim is to start identifying some of the methods used by Moodle with its current outcomes approach and how those might be harnessed and modified to support curriculum mapping. In particular, some specific questions include: What's necessary to
+This will be a brief extension of [previous work](/blog/2010/03/30/moodle-curriculum-mapping-step-2/) around [this project](/blog/2010/04/01/elevator-pitch-for-curriculum-mapping/). The main aim is to start identifying some of the methods used by Moodle with its current outcomes approach and how those might be harnessed and modified to support curriculum mapping. In particular, some specific questions include: What's necessary to
 
 - allow the outcomes to be grouped and displayed as such when showing an activity/resource? **IDENTIFIED**
 - include a "help" link for each outcome or other means to explain? **IDENTIFIED**
@@ -206,7 +206,7 @@ Adding separate support would also help make it a bit easier to add curriculum m
 
 #### Problem
 
-As [outlined earlier](/blog2/2010/03/23/first-step-in-moodle-curriculum-mapping/) there are some elements of a Moodle course site to which you can't map outcomes. The outcomes don't appear on the "edit" page. Those identified so far are labels and sections.
+As [outlined earlier](/blog/2010/03/23/first-step-in-moodle-curriculum-mapping/) there are some elements of a Moodle course site to which you can't map outcomes. The outcomes don't appear on the "edit" page. Those identified so far are labels and sections.
 
 Sections might be useful, if you wanted to map a course by weeks, rather than by item. But perhaps not, you can generate such a map by aggregating the mapping of the contents.
 

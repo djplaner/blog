@@ -5,10 +5,10 @@ categories:
 date: 2015-08-18 14:31:49+10:00
 next:
   text: Why should a teacher know how to code?
-  url: /blog2/2015/08/18/the-role-of-coding-in-learning-and-teaching/
+  url: /blog/2015/08/18/the-role-of-coding-in-learning-and-teaching/
 previous:
   text: Testing the Lucimoo epub export book tool
-  url: /blog2/2015/08/18/testing-the-lucimoo-epub-export-book-tool/
+  url: /blog/2015/08/18/testing-the-lucimoo-epub-export-book-tool/
 title: Understanding learning as network formation
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ pingbacks:
     []
     
 ---
-This is a follow on from [yesterday's post](/blog2/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/) weaving in a few posts from [netgl](http://netgl.wordpress.com) participants.
+This is a follow on from [yesterday's post](/blog/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/) weaving in a few posts from [netgl](http://netgl.wordpress.com) participants.
 
 ### Learning as a (common) journey
 
@@ -74,7 +74,7 @@ I also wonder whether the relief Rebecca got from "good ol' face to face talking
 
 ### Learning as network formation
 
-As mentioned in [yesterday's post](/blog2/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/), at some level networked learning is about the idea that what we know is actually (or at least fruitfully represented as) a network. Yesterday's post pointed to brain research that is based on the brain being a network. It also drew on [Downes' writing](http://halfanhour.blogspot.com.au/2014/04/connectivism-as-learning-theory.html) on connectivism which has the view
+As mentioned in [yesterday's post](/blog/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/), at some level networked learning is about the idea that what we know is actually (or at least fruitfully represented as) a network. Yesterday's post pointed to brain research that is based on the brain being a network. It also drew on [Downes' writing](http://halfanhour.blogspot.com.au/2014/04/connectivism-as-learning-theory.html) on connectivism which has the view
 
 > learning is the _formation of connections_ in a network
 
@@ -114,7 +114,7 @@ IN terms of "guide on the side" Lisa writes
 
 > the role of the guide on the side becomes less about “being the facilitator who orchestrates the context”, as Alison King described in the nineties, and more about helping students to develop the tools and skills needed to hear and decipher a coherent message from the cacophony of information available to them.
 
-Personally, I have an affinity for McWilliam's (2009) concept of the ["meddler in the middle"](/blog2/2014/07/27/me-as-a-teacher/#meddler) which points toward a more
+Personally, I have an affinity for McWilliam's (2009) concept of the ["meddler in the middle"](/blog/2014/07/27/me-as-a-teacher/#meddler) which points toward a more
 
 > interventionist pedagogy in which teachers are mutually involved with students in assembling and/or dis-assembling knowledge and cultural products
 

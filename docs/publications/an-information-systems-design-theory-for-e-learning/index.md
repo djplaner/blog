@@ -50,7 +50,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This version of the ISDT is over 6 years old and represents some early thinking. [This 2006 paper](/blog2/publications/the-formulation-of-an-isdt-for-e-learning/) offers a slightly updated and different perspective on the ISDT. The most up to date and complete version of the ISDT can be found in my [thesis](/blog2/research/phd-thesis/). Look at chapter 5 and the section describing the design theory, ignore most of the early guff in chapter 5.
+This version of the ISDT is over 6 years old and represents some early thinking. [This 2006 paper](/blog/publications/the-formulation-of-an-isdt-for-e-learning/) offers a slightly updated and different perspective on the ISDT. The most up to date and complete version of the ISDT can be found in my [thesis](/blog/research/phd-thesis/). Look at chapter 5 and the section describing the design theory, ignore most of the early guff in chapter 5.
 
 David Jones, Shirley Gregor, An Information Systems Design Theory for e-Learning, Proceedings of ACIS’2004, Hobart -- Nominated for best paper
 

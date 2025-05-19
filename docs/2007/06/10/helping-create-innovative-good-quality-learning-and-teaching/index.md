@@ -5,10 +5,10 @@ categories:
 date: 2007-06-10 20:59:24+10:00
 next:
   text: CQU's first Web 2.0 course site?
-  url: /blog2/2007/06/12/cqus-first-web-20-course-site/
+  url: /blog/2007/06/12/cqus-first-web-20-course-site/
 previous:
   text: Governance, e-learning and learning design
-  url: /blog2/2007/06/08/governance-e-learning-and-learning-design/
+  url: /blog/2007/06/08/governance-e-learning-and-learning-design/
 title: Helping create innovative, good quality learning and teaching
 type: post
 template: blog-post.html
@@ -55,7 +55,7 @@ pingbacks:
     []
     
 ---
-In an [earlier post](/blog2/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/) I drew on a "model of teaching" from Trigwell (2001). The model is shown below
+In an [earlier post](/blog/2007/04/29/a-model-for-evaluating-teaching-a-useful-lens/) I drew on a "model of teaching" from Trigwell (2001). The model is shown below
 
 [![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 

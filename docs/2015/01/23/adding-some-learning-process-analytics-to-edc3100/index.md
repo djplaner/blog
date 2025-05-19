@@ -7,10 +7,10 @@ categories:
 date: 2015-01-23 11:58:28+10:00
 next:
   text: Using the PIRAC - Thinking about an "integrated dashboard"
-  url: /blog2/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
+  url: /blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/
 previous:
   text: A proposal for fixing what&#039;s broken with ed tech support in some universities
-  url: /blog2/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
+  url: /blog/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
 title: Adding some learning process analytics to EDC3100
 type: post
 template: blog-post.html
@@ -77,11 +77,11 @@ pingbacks:
       user_id: '0'
     
 ---
-In [Jones and Clark (2014)](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) we drew on Damien's (Clark) development of the Moodle Activity Viewer (MAV) as an example of how bricolage, affordances and distribution (the BAD mindset) can add some value to institutional e-learning. My empirical contribution to that paper was talking about how I'd [extended MAV](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending) so that when I was answering a student query in a discussion forum I could quickly see relevant information about that student (e.g. their major, which education system they would likely be teaching into etc).
+In [Jones and Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) we drew on Damien's (Clark) development of the Moodle Activity Viewer (MAV) as an example of how bricolage, affordances and distribution (the BAD mindset) can add some value to institutional e-learning. My empirical contribution to that paper was talking about how I'd [extended MAV](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending) so that when I was answering a student query in a discussion forum I could quickly see relevant information about that student (e.g. their major, which education system they would likely be teaching into etc).
 
 A major point of that exercise was that it was very difficult to actually get access to that data at all. Let alone get access to that data within the online learning environment for the course. At least if I had to wait upon the institutional systems and processes to lumber into action.
 
-As this post evolved, it's become also an early test to see if the [IRAC framework](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) can offer some guidance in designing the extension of this tool by adding some learning process analytics. The result of this post
+As this post evolved, it's become also an early test to see if the [IRAC framework](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) can offer some guidance in designing the extension of this tool by adding some learning process analytics. The result of this post
 
 1. Defines learning process analytics.
 2. Applies that definition to my course.
@@ -145,7 +145,7 @@ I can't use some of the above as I do not have access to the data. Private stude
 
 So that's what I'll focus on. Obviously there is a danger here that what I can measure (or in this case access) is what becomes important. On the plus side, the design of this course does place significant importance on the learning activities students undertake and the blog posts. It appears what I can measure is actually important.
 
-Here's where I'm thinking that [the IRAC framework](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) can scaffold the design of what I'm doing.
+Here's where I'm thinking that [the IRAC framework](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) can scaffold the design of what I'm doing.
 
 ## Information
 
@@ -172,11 +172,11 @@ At the moment, not a lot. I don't have a development environment that will allow
 
 ## Representation
 
-[Does the representation of the information aid the task being undertaken?](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/#R)
+[Does the representation of the information aid the task being undertaken?](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/#R)
 
 The task here is basically giving me some information about the student progress.
 
-For now it's going to be a simple extension to the approach talked about [in the paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending). i.e. whenever my browser sees on a course website a a link to a user profile, it will add a link **\[Details\]** next to it. If I click on that link I see a popup showing information about that student. The following is a mockup (click on the images to see a larger version) of what is currently partially working
+For now it's going to be a simple extension to the approach talked about [in the paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#extending). i.e. whenever my browser sees on a course website a a link to a user profile, it will add a link **\[Details\]** next to it. If I click on that link I see a popup showing information about that student. The following is a mockup (click on the images to see a larger version) of what is currently partially working
 
 [![001 - Personal Details](images/16318561876_1939d6aa87_n.jpg)](https://www.flickr.com/photos/david_jones/16318561876 "001 - Personal Details by David Jones, on Flickr")
 
@@ -216,7 +216,7 @@ The blog post tab is the most under-developed. The mockup currently only shows s
 
 ## Affordances
 
-[Are there appropriate Affordances for action?](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/#A)
+[Are there appropriate Affordances for action?](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/#A)
 
 What functionality can this tool provide to me that will help?
 
@@ -226,7 +226,7 @@ Have to admit to being unable to think of anything useful, just yet.
 
 ## Change
 
-[How will the information, representation and the affordances be Changed?](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/#C)
+[How will the information, representation and the affordances be Changed?](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/#C)
 
 Some quick answers
 

@@ -6,10 +6,10 @@ date: 2011-07-04 13:44:02+10:00
 next:
   text: '"Some considerations around ICTs for learning in the Senior School: initial
     thoughts and planning"'
-  url: /blog2/2011/07/05/some-considerations-around-icts-for-learning-in-the-senior-school-initial-thoughts-and-planning/
+  url: /blog/2011/07/05/some-considerations-around-icts-for-learning-in-the-senior-school-initial-thoughts-and-planning/
 previous:
   text: 'The freedom of academia: strategised, KPI&#039;d, and quality assured away'
-  url: /blog2/2011/07/04/the-freedom-of-academia-strategised-kpid-and-quality-assured-away/
+  url: /blog/2011/07/04/the-freedom-of-academia-strategised-kpid-and-quality-assured-away/
 title: How do you increase sharing? Create an interactive website?
 type: post
 template: blog-post.html
@@ -30,6 +30,6 @@ Why do government reviews, projects and bodies think that creating yet another w
 
 I hesitate to use it, but haven't they heard of "Web 2.0" and of aggregation. Why are they seeking to replace the individual blogs and websites of teachers for publishing and the use of search engines and social media/networks for finding the really good stuff?
 
-Based on my experience during my first 32 days of prac teaching, the Learning Federation/Scootle sites hosting "learning objects" are used in schools. But [my experience](/blog2/2011/05/08/looking-for-learning-objects-measurement-perimeter-etc/) using those sites was that using Google to be much more rewarding in terms of the diversity and quality of the learning resources I found for teaching.
+Based on my experience during my first 32 days of prac teaching, the Learning Federation/Scootle sites hosting "learning objects" are used in schools. But [my experience](/blog/2011/05/08/looking-for-learning-objects-measurement-perimeter-etc/) using those sites was that using Google to be much more rewarding in terms of the diversity and quality of the learning resources I found for teaching.
 
 I am assuming that the main rationale for this approach is so that accountability can be fostered. i.e. that someone can check the quality of the practices being shared. I find this assumption that someone has to check the quality to somewhat condescending (i.e. it assumes that teachers can't judge that themselves) and demonstrates a complete lack of understanding of how the new "digital world" works. Which is a bit sad as one of the aims of the DER is to prepare students for participating in the "digital world".

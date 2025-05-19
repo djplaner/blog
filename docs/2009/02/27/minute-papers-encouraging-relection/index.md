@@ -6,11 +6,11 @@ date: 2009-02-27 09:20:03+10:00
 next:
   text: Why formulaic guidance annoys experts and why they ignore the needs of the
     novice
-  url: /blog2/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
+  url: /blog/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
 previous:
   text: Improving university teaching - learning from constructive alignment by *NOT*
     mandating it
-  url: /blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
+  url: /blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
 title: Minute papers - encouraging reflection?
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Part of the rationale for developing and using [BAM](/blog2/research/bam-blog-aggregation-management/) had its origins in this unpublished paper (Jones, 2005). A part of the paper talks about minute papers, that content is reproduced below.
+Part of the rationale for developing and using [BAM](/blog/research/bam-blog-aggregation-management/) had its origins in this unpublished paper (Jones, 2005). A part of the paper talks about minute papers, that content is reproduced below.
 
 ### Minute papers
 

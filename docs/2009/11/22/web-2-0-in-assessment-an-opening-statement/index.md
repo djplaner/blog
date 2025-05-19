@@ -4,10 +4,10 @@ categories:
 date: 2009-11-22 19:27:21+10:00
 next:
   text: Reflections on asw2a
-  url: /blog2/2009/11/24/reflections-on-asw2a/
+  url: /blog/2009/11/24/reflections-on-asw2a/
 previous:
   text: Business intelligence and PEBKAC
-  url: /blog2/2009/11/20/business-intelligence-and-pebkac/
+  url: /blog/2009/11/20/business-intelligence-and-pebkac/
 tags:
 - assessment
 - asw2a

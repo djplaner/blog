@@ -4,10 +4,10 @@ categories:
 date: 2008-12-28 11:53:51+10:00
 next:
   text: Plans for implementing rotating banner image
-  url: /blog2/2008/12/28/plans-for-implementing-rotating-banner-image/
+  url: /blog/2008/12/28/plans-for-implementing-rotating-banner-image/
 previous:
   text: Update on the website move - google rankings
-  url: /blog2/2008/12/28/update-on-the-website-move-google-rankings/
+  url: /blog/2008/12/28/update-on-the-website-move-google-rankings/
 title: Rotating banner images in Wordpress - the last missing puzzle piece
 type: post
 template: blog-post.html
@@ -87,7 +87,7 @@ pingbacks:
 ---
 **Update:** The old server that I used to use for my website and also to implement the rotating banner on this blog, is down. It will likely to be down for quite some time.
 
-When I [moved by website](/blog2/2008/10/16/the-great-website-move-of-2008/) from my long-term personal server to [Wordpress.com](http://wordpress.com/) the one bit of functionality that I lost was the rotating banner image.
+When I [moved by website](/blog/2008/10/16/the-great-website-move-of-2008/) from my long-term personal server to [Wordpress.com](http://wordpress.com/) the one bit of functionality that I lost was the rotating banner image.
 
 [![Kaikoura Ocean Range Sunrise](images/175187603_d3b17a5487_m.jpg)](http://www.flickr.com/photos/david_jones/175187603/ "Kaikoura Ocean Range Sunrise by David T Jones, on Flickr")
 

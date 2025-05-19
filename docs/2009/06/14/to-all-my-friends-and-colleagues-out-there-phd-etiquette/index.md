@@ -4,10 +4,10 @@ categories:
 date: 2009-06-14 11:30:01+10:00
 next:
   text: '"PhD Update #14 - Moving to a new day"'
-  url: /blog2/2009/06/14/phd-update-14-moving-to-a-new-day/
+  url: /blog/2009/06/14/phd-update-14-moving-to-a-new-day/
 previous:
   text: Another ill-informed point about connectivism versus behaviourism and cognitivism
-  url: /blog2/2009/06/12/another-ill-informed-point-about-connectivism-versus-behaviourism-and-cognitivism/
+  url: /blog/2009/06/12/another-ill-informed-point-about-connectivism-versus-behaviourism-and-cognitivism/
 title: To all my friends and colleagues out there - PhD etiquette
 type: post
 template: blog-post.html
@@ -72,7 +72,7 @@ pingbacks:
 ---
 I've noticed over the last few weeks an increasing number of my colleagues, friends and relatives asking questions like "How long until you finish?"
 
-My response has generally been "how long is a ball of string". After all, writing the thesis is a creative, knowledge intensive activity. Not one conducive to rational acts of planning and timetabling. Anyone who knows me should know how much I hate [teleological design and prefer ateleological design](/blog2/2009/05/25/teleological-and-ateleological-processes/) (for more detail feel free to read other sections of the thesis completed recently on [teleological processes](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/) and [ateleological processes](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/)) - see some progress is being made.
+My response has generally been "how long is a ball of string". After all, writing the thesis is a creative, knowledge intensive activity. Not one conducive to rational acts of planning and timetabling. Anyone who knows me should know how much I hate [teleological design and prefer ateleological design](/blog/2009/05/25/teleological-and-ateleological-processes/) (for more detail feel free to read other sections of the thesis completed recently on [teleological processes](/blog/2009/06/05/teleological-design-definition-and-weaknesses/) and [ateleological processes](/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/)) - see some progress is being made.
 
 In addition, you folk really should get a grip on the etiquette associated with thesis writing and PhD study in general. The following comic from [Piled Higher and Deeper](http://www.phdcomics.com/) summarises it nicely.
 

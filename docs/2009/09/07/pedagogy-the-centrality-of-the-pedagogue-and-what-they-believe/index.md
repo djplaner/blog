@@ -9,10 +9,10 @@ categories:
 date: 2009-09-07 11:50:46+10:00
 next:
   text: '"BIM#7 - Getting the prototype up"'
-  url: /blog2/2009/09/08/bim7-getting-the-prototype-up/
+  url: /blog/2009/09/08/bim7-getting-the-prototype-up/
 previous:
   text: 'Phd Update #23 - Getting closer to the end of chapter 2'
-  url: /blog2/2009/09/03/phd-update-23-getting-closer-to-the-end-of-chapter-2/
+  url: /blog/2009/09/03/phd-update-23-getting-closer-to-the-end-of-chapter-2/
 title: Pedagogy - the centrality of the pedagogue and what they believe
 type: post
 template: blog-post.html

@@ -7,11 +7,11 @@ categories:
 date: 2015-06-18 22:48:06+10:00
 next:
   text: '"Dashboards suck: learning analytics'' broken metaphor"'
-  url: /blog2/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/
+  url: /blog/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/
 previous:
   text: Exploring BIM + sentiment analysis - what might it say about student blog
     posts
-  url: /blog2/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
+  url: /blog/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
 title: Revisiting the IRAC framework and looking for insights
 type: post
 template: blog-post.html
@@ -45,7 +45,7 @@ As part of getting ready for the presentation, I need to revisit the IRAC framew
 
 ### The IRAC Framework
 
-Originally developed to "improve the analysis and design of learning analytics tools and interventions" and hopefully be "a tool to aid the mindful implementation of learning analytics" ([Jones, Beer, Clark, 2013](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/)). The development of the framework drew upon "bodies of literature including Electronic Performance Support Systems (EPSS) (Gery, 1991), the design of cognitive artefacts (Norman, 1993), and Decision Support Systems (Arnott & Pervan, 2005).
+Originally developed to "improve the analysis and design of learning analytics tools and interventions" and hopefully be "a tool to aid the mindful implementation of learning analytics" ([Jones, Beer, Clark, 2013](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/)). The development of the framework drew upon "bodies of literature including Electronic Performance Support Systems (EPSS) (Gery, 1991), the design of cognitive artefacts (Norman, 1993), and Decision Support Systems (Arnott & Pervan, 2005).
 
 This was largely driven by our observation that most of the learning analytics stuff wasn't that much focused on whether or not it was actually adopted and used, especially by teachers. The EPSS literature was important because an EPSS is meant to embody a "perspective on designing systems that support learning and/or performing” (Hannafin, McCarthy, Hannafin, & Radtke, 2001, p. 658). EPSS are computer-based systems intended to “provide workers with the help they need to perform certain job tasks, at the time they need that help, and in a form that will be most helpful” (Reiser, 2001, p. 63).
 
@@ -101,7 +101,7 @@ The [abstract for the Moot presentation](https://mootau15.moodlemoot.org/mod/dat
     
     At the moment, most "learning analytics" projects involve installing a system, be it stand alone or part of the LMS etc. Once it's installed it's all just a better of ensuring people are using it. There's actually no capacity to change the system or the answers to the I, R, or A questions of IRAC that the system provides. This is a problem on so many levels.
     
-    In the original [IRAC paper](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) we mentioned: how development through continuous action cycles involving significant user participation was a core of the theory of decision support systems (Arnott & Pervan, 2005) a pre-cusor to learning analytics; Buckingham-Shum's (2012) observation that most LA is based on data already being captured by systems and that analysis of that data will perpetuate existing dominant approaches to learning; the problem of gaming once people learn what the system wants. Later we added the [task artifact cycle](https://www.interaction-design.org/encyclopedia/task_artifact_cycle.html).
+    In the original [IRAC paper](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) we mentioned: how development through continuous action cycles involving significant user participation was a core of the theory of decision support systems (Arnott & Pervan, 2005) a pre-cusor to learning analytics; Buckingham-Shum's (2012) observation that most LA is based on data already being captured by systems and that analysis of that data will perpetuate existing dominant approaches to learning; the problem of gaming once people learn what the system wants. Later we added the [task artifact cycle](https://www.interaction-design.org/encyclopedia/task_artifact_cycle.html).
     
     More recently (Macfadyen et al 2014) argue that one of the requirements of learning analytics tools is an integrated and sustained overall refinement procedure allowing reflection" (p. 12).
     

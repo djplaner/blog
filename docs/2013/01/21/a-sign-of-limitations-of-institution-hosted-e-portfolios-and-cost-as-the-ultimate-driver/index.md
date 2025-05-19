@@ -4,10 +4,10 @@ categories:
 date: 2013-01-21 09:56:22+10:00
 next:
   text: Taking a look at the "Decoding Learning" report
-  url: /blog2/2013/01/23/taking-a-look-at-the-decoding-learning-report/
+  url: /blog/2013/01/23/taking-a-look-at-the-decoding-learning-report/
 previous:
   text: 'Engaging with #etmooc - how and what perspective'
-  url: /blog2/2013/01/15/engaging-with-etmooc-how-and-what-perspective/
+  url: /blog/2013/01/15/engaging-with-etmooc-how-and-what-perspective/
 tags:
 - eportfolio
 title: A sign of limitations of institution hosted e-portfolios? And cost as the ultimate

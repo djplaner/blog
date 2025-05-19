@@ -4,11 +4,11 @@ categories:
 date: 2013-12-02 10:48:37+10:00
 next:
   text: '"Enhancing learning analytics by understanding the needs of teachers #ascilite"'
-  url: /blog2/2013/12/02/enhancing-learning-analytics-by-understanding-the-needs-of-teachers-ascilite/
+  url: /blog/2013/12/02/enhancing-learning-analytics-by-understanding-the-needs-of-teachers-ascilite/
 previous:
   text: 'Using the e-learning Maturity Model to Identify Good Practice in E-Learning
     #ascilite'
-  url: /blog2/2013/12/02/using-the-e-learning-maturity-model-to-identify-good-practice-in-e-learning-ascilite/
+  url: /blog/2013/12/02/using-the-e-learning-maturity-model-to-identify-good-practice-in-e-learning-ascilite/
 title: '"A window into lecturers'' conversations #ascilite"'
 type: post
 template: blog-post.html

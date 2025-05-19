@@ -4,10 +4,10 @@ categories:
 date: 2014-09-02 10:19:25+10:00
 next:
   text: Too much stuff, not enough time
-  url: /blog2/2014/09/02/too-much-stuff-not-enough-time/
+  url: /blog/2014/09/02/too-much-stuff-not-enough-time/
 previous:
   text: Counting the uncountable - NGL participation
-  url: /blog2/2014/09/01/counting-the-uncountable-ngl-participation/
+  url: /blog/2014/09/01/counting-the-uncountable-ngl-participation/
 title: Signing up for Connected Courses
 type: post
 template: blog-post.html
@@ -62,6 +62,6 @@ The main reason for this fairly rambling post is to ensure that I have at least 
 
 > Please make sure this URL works and links to the place to the place that shows your tagged/categorized blog posts. If you have not written any, do not proceed. The wheels may fall off your bus (just kidding)-- there needs to be at least ONE post visible at this address when when you enter it in a web browser
 
-Seems the aggregator they are using has the same problem with empty feeds as [BIM](/blog2/research/bam-blog-aggregation-management/). I have to give the same advice to folk in my courses. I wonder if the need is as slightly annoying to them as it is to me. There's also the problem with finding the feeds for categories/tags, rather than the whole site. Slightly reaffirming that these folk are having the same problems, but also a challenge to see if I can modify BIM to address these issues.
+Seems the aggregator they are using has the same problem with empty feeds as [BIM](/blog/research/bam-blog-aggregation-management/). I have to give the same advice to folk in my courses. I wonder if the need is as slightly annoying to them as it is to me. There's also the problem with finding the feeds for categories/tags, rather than the whole site. Slightly reaffirming that these folk are having the same problems, but also a challenge to see if I can modify BIM to address these issues.
 
 I had hoped to have relocated this blog to my [shiny new domain](http://djon.es/) by now, but time hasn't been in abundance recently. Likely to be a recurring theme over coming months.

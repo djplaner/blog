@@ -4,10 +4,10 @@ categories:
 date: 2013-09-04 13:11:35+10:00
 next:
   text: Useful "analytics" - Faces as an example
-  url: /blog2/2013/09/06/useful-analytics-faces-as-an-example/
+  url: /blog/2013/09/06/useful-analytics-faces-as-an-example/
 previous:
   text: 'Learning Analytics: The Emergence of a Discipline'
-  url: /blog2/2013/09/04/learning-analytics-the-emergence-of-a-discipline/
+  url: /blog/2013/09/04/learning-analytics-the-emergence-of-a-discipline/
 title: The importance of "We don't know what we're doing"
 type: post
 template: blog-post.html

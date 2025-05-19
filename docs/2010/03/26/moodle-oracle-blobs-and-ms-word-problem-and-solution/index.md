@@ -5,11 +5,11 @@ categories:
 date: 2010-03-26 12:55:19+10:00
 next:
   text: Moodle curriculum mapping - Step 2
-  url: /blog2/2010/03/30/moodle-curriculum-mapping-step-2/
+  url: /blog/2010/03/30/moodle-curriculum-mapping-step-2/
 previous:
   text: 'From theory to intervention: Mapping theoretically derived behavioural determinants
     to behaviour change techniques'
-  url: /blog2/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
+  url: /blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
 title: Moodle, Oracle, blobs and MS-Word - problem and solution?
 type: post
 template: blog-post.html
@@ -51,7 +51,7 @@ This documents a problem, and hopefully an initial solution, around the combinat
 
 ### Origins of the problem
 
-The problem first arose at [my current institution](http://www.cqu.edu.au/) and its installation of Moodle, which is using Oracle (11g I believe) as the database. It first became apparent through [BIM](/blog2/research/bam-blog-aggregation-management/) an application I've written but was also occasionally occuring with the Moodle wiki.
+The problem first arose at [my current institution](http://www.cqu.edu.au/) and its installation of Moodle, which is using Oracle (11g I believe) as the database. It first became apparent through [BIM](/blog/research/bam-blog-aggregation-management/) an application I've written but was also occasionally occuring with the Moodle wiki.
 
 BIM allows students to create an individual blog on their choice of blog engine - mostly [Wordpress.com](http://wordpress.com/) - and then provides management services to staff. Part of that is keeping a copy of all of the students' blog posts within the Moodle database.
 

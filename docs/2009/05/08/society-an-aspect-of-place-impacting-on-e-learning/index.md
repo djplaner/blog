@@ -9,10 +9,10 @@ categories:
 date: 2009-05-08 09:32:18+10:00
 next:
   text: Sector - another part of Place
-  url: /blog2/2009/05/08/sector-another-part-of-place/
+  url: /blog/2009/05/08/sector-another-part-of-place/
 previous:
   text: Pondering a new position - request for help
-  url: /blog2/2009/05/07/pondering-a-new-position/
+  url: /blog/2009/05/07/pondering-a-new-position/
 title: Society - an aspect of Place impacting on e-learning
 type: post
 template: blog-post.html
@@ -77,7 +77,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following, finally, is a first draft of the sector section of the ["Place" component](/blog2/2009/05/06/place-component-of-the-ps-framework/) of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). This is all meant to be part of chapter 2 of my [thesis](/blog2/research/phd-thesis/).
+The following, finally, is a first draft of the sector section of the ["Place" component](/blog/2009/05/06/place-component-of-the-ps-framework/) of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). This is all meant to be part of chapter 2 of my [thesis](/blog/research/phd-thesis/).
 
 The "Place" section has, and continues to have, a too-long and troubled history. I've spent too much time figuring out how to briefly summarise perspectives and factors within the broader society that impact upon the implementation of e-learning within universities. There have been a number of false starts and I still don't think this is very good, but it's time to "release early", move on, and hope that it's "good enough".
 

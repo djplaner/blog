@@ -6,15 +6,15 @@ coverImage: 49174894718_173269bb7c_o-scaled.jpg
 date: 2020-05-22 08:15:18+10:00
 next:
   text: Improving jQuery theme/Content Interface integration
-  url: /blog2/2020/05/29/improving-jquery-theme-content-interface-integration/
+  url: /blog/2020/05/29/improving-jquery-theme-content-interface-integration/
 previous:
   text: Playing with React.js as a technology for CASA
-  url: /blog2/2020/05/20/playing-with-react-js-as-a-technology-for-casa/
+  url: /blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/
 title: Learning to think in React
 type: post
 template: blog-post.html
 ---
-As [outlined previously](/blog2/2020/05/20/playing-with-react-js-as-a-technology-for-casa/) I’m taking some steps toward learning and using the React Javascript library to develop some web interfaces/applications. The following documents progress toward writing that first application, which is largely confined to develop an initial mock-up and then learning more about the “React way”.
+As [outlined previously](/blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/) I’m taking some steps toward learning and using the React Javascript library to develop some web interfaces/applications. The following documents progress toward writing that first application, which is largely confined to develop an initial mock-up and then learning more about the “React way”.
 
 ## Developing a mock-up
 

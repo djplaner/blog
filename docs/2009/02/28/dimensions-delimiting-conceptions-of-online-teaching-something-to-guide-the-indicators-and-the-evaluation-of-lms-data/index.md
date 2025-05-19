@@ -10,10 +10,10 @@ categories:
 date: 2009-02-28 22:29:43+10:00
 next:
   text: Another spectrum for using indicators to place course websites
-  url: /blog2/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/
+  url: /blog/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/
 previous:
   text: Featured on slideshare - the give and take of social computing
-  url: /blog2/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
+  url: /blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
 title: Dimensions delimiting conceptions of online teaching - something to guide the
   indicators and the evaluation of LMS data?
 type: post
@@ -46,7 +46,7 @@ In the following I wonder if the work on teachers' conceptions of teaching, part
 
 ### Research on teachers' conceptions of teaching
 
-There is a large amount of research, quite a research tradition, around understanding the different conceptions of teaching (and subsequently learning) that academics bring to their experience. Much of this work believes that the quality of student learning is directly influenced and constrained by the conceptions of teaching held by teaching staff. (Following from this is the idea that to improve the quality of student learning you have to target teachers' conceptions of teaching, but that is [another story](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/).)
+There is a large amount of research, quite a research tradition, around understanding the different conceptions of teaching (and subsequently learning) that academics bring to their experience. Much of this work believes that the quality of student learning is directly influenced and constrained by the conceptions of teaching held by teaching staff. (Following from this is the idea that to improve the quality of student learning you have to target teachers' conceptions of teaching, but that is [another story](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/).)
 
 ### Teachers' conceptions of online teaching
 

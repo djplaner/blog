@@ -5,10 +5,10 @@ categories:
 date: 2013-06-04 10:03:17+10:00
 next:
   text: Learning analytics, intervention and helping teachers
-  url: /blog2/2013/06/07/learning-analytics-intervention-and-helping-teachers/
+  url: /blog/2013/06/07/learning-analytics-intervention-and-helping-teachers/
 previous:
   text: 'Schools and computers: Tales of a digital romance'
-  url: /blog2/2013/06/03/schools-and-computers-tales-of-a-digital-romance/
+  url: /blog/2013/06/03/schools-and-computers-tales-of-a-digital-romance/
 title: Animation over time of links between student posts
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-After seeing a [previous post](/blog2/2013/05/31/changes-in-links-between-student-posts/) sharing some of his visualisations of the links between blog posts of EDC3100 students, Nick provided some video showing how the links were made over time.
+After seeing a [previous post](/blog/2013/05/31/changes-in-links-between-student-posts/) sharing some of his visualisations of the links between blog posts of EDC3100 students, Nick provided some video showing how the links were made over time.
 
 https://vimeo.com/67608266
 

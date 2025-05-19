@@ -6,10 +6,10 @@ categories:
 date: 2014-02-20 13:48:53+10:00
 next:
   text: An ateleological quote
-  url: /blog2/2014/02/22/an-ateleological-quote/
+  url: /blog/2014/02/22/an-ateleological-quote/
 previous:
   text: 'Looking for a new &quot;icebreaker&quot; for #edc3100'
-  url: /blog2/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/
+  url: /blog/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/
 tags:
 - mav
 title: '"Does GPA make any difference to #moodle course usage?"'
@@ -62,7 +62,7 @@ To which @s\_palm replied
 
 Which got me wondering. Is there a link between accessing the course site and GPA? Do "good" students use the LMS more? What happens if students are aware of this pattern?
 
-With the [Moodle Activity Viewer installed](/blog2/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/), I have one way to explore the usage question for a past course site. To be clear
+With the [Moodle Activity Viewer installed](/blog/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/), I have one way to explore the usage question for a past course site. To be clear
 
 1. This is just an initial look to see if there are any obvious patterns.
 2. As @s\_palm has pointed out https://twitter.com/s\_palm/status/436287172358836224
@@ -149,7 +149,7 @@ I wonder how much of this percentage difference is due to students who have drop
 In week 1 of the semester the students have to undertake a range of activities including the three compared here
 
 - Register their blog - they are required to create and use a personal blog throughout the semester. This activity has them register and be able to view the registered blogs of other students.
-- Share introductions - post an introduction of themselves and look at others. An activity that has been [recently revisited](/blog2/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/) for the coming semester.
+- Share introductions - post an introduction of themselves and look at others. An activity that has been [recently revisited](/blog/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/) for the coming semester.
 - PKM and reflection - a Moodle book introducing Personal Knowledge Management and reflection through a range of external resources. These two processes are positioned as key to the students' learning in the course.
 
 | Group | Clicks / Student | % Students |

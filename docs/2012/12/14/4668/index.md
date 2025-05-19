@@ -6,10 +6,10 @@ date: 2012-12-14 12:00:18+10:00
 next:
   text: '"Beyond the early adopters of online instruction: Motivating the reluctant
     majority"'
-  url: /blog2/2012/12/14/beyond-the-early-adopters-of-online-instruction-motivating-the-reluctant-majority/
+  url: /blog/2012/12/14/beyond-the-early-adopters-of-online-instruction-motivating-the-reluctant-majority/
 previous:
   text: Understanding management students&#039; reflective practice through blogging
-  url: /blog2/2012/12/12/understanding-management-students-reflective-practice-through-blogging/
+  url: /blog/2012/12/12/understanding-management-students-reflective-practice-through-blogging/
 title: Developing personal learning networks for open and social learning
 type: post
 template: blog-post.html
@@ -151,7 +151,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a summary and touch of reflection on Couros (2010) and is the [another step](/blog2/2012/12/12/understanding-management-students-reflective-practice-through-blogging/) in thinking about the design/implementation of a course I'm working on.
+The following is a summary and touch of reflection on Couros (2010) and is the [another step](/blog/2012/12/12/understanding-management-students-reflective-practice-through-blogging/) in thinking about the design/implementation of a course I'm working on.
 
 ## Thoughts and to do
 

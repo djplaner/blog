@@ -6,10 +6,10 @@ categories:
 date: 2021-06-04 15:57:46+10:00
 next:
   text: Representing problems to make the solution transparent
-  url: /blog2/2021/10/23/representing-problems-to-make-the-solution-transparent/
+  url: /blog/2021/10/23/representing-problems-to-make-the-solution-transparent/
 previous:
   text: On formal qualifications and improving learning and teaching
-  url: /blog2/2021/03/30/on-formal-qualifications-and-improving-learning-and-teaching/
+  url: /blog/2021/03/30/on-formal-qualifications-and-improving-learning-and-teaching/
 title: Exploring Dron's definition of educational technology
 type: post
 template: blog-post.html

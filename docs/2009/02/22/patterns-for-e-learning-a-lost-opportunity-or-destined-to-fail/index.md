@@ -8,10 +8,10 @@ categories:
 date: 2009-02-22 21:49:31+10:00
 next:
   text: When was this - past experience of e-learning
-  url: /blog2/2009/02/23/when-was-this-past-experience-of-e-learning/
+  url: /blog/2009/02/23/when-was-this-past-experience-of-e-learning/
 previous:
   text: '&quot;An ISDT for e-learning&quot; - Audio is now synchronized'
-  url: /blog2/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
+  url: /blog/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
 title: Patterns for e-learning - a lost opportunity or destined to fail
 type: post
 template: blog-post.html
@@ -121,7 +121,7 @@ At the same time I was looking at how to improve the design of Webfuse, the e-le
 
 Or perhaps this was an example of [Kaplan's law of instrument](http://stubbornfacts.us/botj/the_law_of_the_instrument). i.e. patterns were the hammer and the issues around e-learning looked like a nail.
 
-Whatever the reason some colleagues and I tried to start up [a patterns project for online learning](http://patterns.cqu.edu.au/) (I'm somewhat amazed that the website is still operating). The [why page"](http://patterns.cqu.edu.au/Why/index.html) for the project explains the rationale. We wrote a couple of papers explaining the project ([Jones and Stewart, 1999](/blog2/publications/the-case-for-patterns-in-online-learning/); [Jones, Stewart and Power, 1999](/blog2/publications/patterns-using-proven-experience-to-develop-online-learning/)), gave [a presentation](http://patterns.cqu.edu.au/Outcomes/Publications/Case/) (the audio for the presentation is there in **RealAudio** format, shows how old this stuff is) and [ran an initial workshop](http://patterns.cqu.edu.au/Outcomes/Publications/Workshop_1/) with some folk at CQU. One of the publications also got featured in ERIC and on [OLDaily](http://www.downes.ca/cgi-bin/page.cgi?author=1832).
+Whatever the reason some colleagues and I tried to start up [a patterns project for online learning](http://patterns.cqu.edu.au/) (I'm somewhat amazed that the website is still operating). The [why page"](http://patterns.cqu.edu.au/Why/index.html) for the project explains the rationale. We wrote a couple of papers explaining the project ([Jones and Stewart, 1999](/blog/publications/the-case-for-patterns-in-online-learning/); [Jones, Stewart and Power, 1999](/blog/publications/patterns-using-proven-experience-to-develop-online-learning/)), gave [a presentation](http://patterns.cqu.edu.au/Outcomes/Publications/Case/) (the audio for the presentation is there in **RealAudio** format, shows how old this stuff is) and [ran an initial workshop](http://patterns.cqu.edu.au/Outcomes/Publications/Workshop_1/) with some folk at CQU. One of the publications also got featured in ERIC and on [OLDaily](http://www.downes.ca/cgi-bin/page.cgi?author=1832).
 
 The project did produce a few patterns before dieing out:
 
@@ -152,7 +152,7 @@ Developing patterns is essentially an attempt at knowledge management. Pattern m
 Consequently, I think the 7 principles for knowledge management proposed by Dave Snowden apply directly to pattern mining. To illustrate the potential barriers here's my quick summary of the connection between these 7 principles and pattern mining.
 
 1. _Knowledge can only be volunteered it cannot be conscripted._  
-    First barrier in engaging academics to share knowledge to aid pattern mining is to get them engaged. To get them to volunteer. By nature, people don't share complex knowledge, unless they know and trust you. Even then, if their busy.... This has [been known about](/blog2/2008/12/05/accept-the-fact-that-we-have-to-treat-almost-anybody-as-a-volunteer-implications-for-learning-and-teaching/) for a while.
+    First barrier in engaging academics to share knowledge to aid pattern mining is to get them engaged. To get them to volunteer. By nature, people don't share complex knowledge, unless they know and trust you. Even then, if their busy.... This has [been known about](/blog/2008/12/05/accept-the-fact-that-we-have-to-treat-almost-anybody-as-a-volunteer-implications-for-learning-and-teaching/) for a while.
 2. _We only know what we know when we need to know it._  
     Even if you get them to volunteer, then chances are they won't be able to give you everything you need to know. You'll be asking them out of the context when they designed or implemented the good practice you're trying to abstract for a pattern.
 3. _In the context of real need few people will withhold their knowledge._  
@@ -186,9 +186,9 @@ People aren't rational. Most academics are not going to follow a structured appr
 
 I've talked about some of the cognitive biases or limitations on how we think in previous posts including:
 
-- [Why don't people take to new e-learning technology.](/blog2/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/)  
+- [Why don't people take to new e-learning technology.](/blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/)  
     Covers a couple of reasons including fear of failure, the inertia of current practice and the problems with developer-based approaches.
-- [The myth that people are rational](/blog2/2006/10/25/the-missing-ps-people/).  
+- [The myth that people are rational](/blog/2006/10/25/the-missing-ps-people/).  
     Covering a number of limitations.
 
 In this [audio snippet (mp3) Dave Snowden argues](https://dl.dropbox.com/u/14025788/PatternsSnowdenLion.mp3) that any assumption of rational, objective decision making that entails examining all available data and examining all possible alternate solutions is fighting against thousands of years of evolution.

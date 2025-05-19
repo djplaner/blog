@@ -12,11 +12,11 @@ categories:
 date: 2009-02-15 12:06:56+10:00
 next:
   text: RSS feeds into course management systems - why?
-  url: /blog2/2009/02/15/rss-feeds-into-course-management-systems-why/
+  url: /blog/2009/02/15/rss-feeds-into-course-management-systems-why/
 previous:
   text: 'Alternatives for the institutional implementation of e-learning: Lessons
     from 12 years of  Webfuse'
-  url: /blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/
+  url: /blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/
 title: '"Getting half-baked ideas out there: improving research and the academy"'
 type: post
 template: blog-post.html
@@ -57,7 +57,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In a previous post examining [one reason folk don't take to e-learning](/blog2/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/) I included the following quote from [a book by Carolyn Marvin](http://www.amazon.com/When-Old-Technologies-Were-Communication/dp/0195063414/ref=sr_1_1?ie=UTF8&s=books&qid=1234322975&sr=8-1)
+In a previous post examining [one reason folk don't take to e-learning](/blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/) I included the following quote from [a book by Carolyn Marvin](http://www.amazon.com/When-Old-Technologies-Were-Communication/dp/0195063414/ref=sr_1_1?ie=UTF8&s=books&qid=1234322975&sr=8-1)
 
 > the introduction of new media is a special historical occasion when patterns anchored in older media that have provided the stable currency for social exchange are reexamined, challenged, and defended.
 
@@ -80,7 +80,7 @@ I think this perspective sums it up nicely. The patterns of use around the old/c
 There are many other examples of this, just two include:
 
 - Dave Snowden's distinction between [fail-safe design (old style) and safe-fail design probes (new style)](http://www.cognitive-edge.com/blogs/dave/2007/11/safefail_probes.php).
-- [Lucas Introna's](http://www.lums.lancs.ac.uk/owt/profiles/lucas-introna/) (1996) distinction between [teleological design (old style) and ateleological design (new style)](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/).
+- [Lucas Introna's](http://www.lums.lancs.ac.uk/owt/profiles/lucas-introna/) (1996) distinction between [teleological design (old style) and ateleological design (new style)](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/).
 
 Essentially the standard practices associated with research projects in academia prevent many folk from engaging in getting the "half-baked ideas" out into the blogosphere. There are a number of reasons, but most come back to not looking like a fool. I've seen this many times with my colleagues wanting to spend vast amounts of time completing a blog post.
 
@@ -92,7 +92,7 @@ For varying reasons, [Col](http://beerc.wordpress.com/) and I are involved, in d
 
 > How do you data mine/evaluate usage statistics from the logs and databases of a learning management system to draw useful conclusions about student learning, or the success or otherwise of these systems.
 
-This is not a new set of questions. The [data mining of such logs](/blog2/2009/02/02/data-mining-of-online-courses-dominant-assumptions-and-innovation-potential/) is quite a common practice and has a collection of approaches and publications. So, the questions for use become:
+This is not a new set of questions. The [data mining of such logs](/blog/2009/02/02/data-mining-of-online-courses-dominant-assumptions-and-innovation-potential/) is quite a common practice and has a collection of approaches and publications. So, the questions for use become:
 
 - How can we contribute or do something different than what already exists?
 - How can we ensure that what we do is interesting and correct?
@@ -133,7 +133,7 @@ Outstanding questions include:
 - How do you attribute ideas and handle authorship of publications?  
     If a bunch of folk contribute good ideas which we incorporate and then publish, should they be co-authors, simply referenced appropriately, or something else? Should it be a case by case basis with a lot of up-front discussion?
 - How should it be done?  
-    Should we simply post to our blogs and invite people to participate and comment on the blogs? Should we make use of some of the ideas Col has [identified around learning networks](/blog2/publications/learning-networks-harnessing-the-power-of-online-communities-for-discipline-and-lifelong-learning/)? For example, agree on common tags for blog posts and del.icio.us etc. Provide a central point to bring all this together?
+    Should we simply post to our blogs and invite people to participate and comment on the blogs? Should we make use of some of the ideas Col has [identified around learning networks](/blog/publications/learning-networks-harnessing-the-power-of-online-communities-for-discipline-and-lifelong-learning/)? For example, agree on common tags for blog posts and del.icio.us etc. Provide a central point to bring all this together?
 
 ### References
 

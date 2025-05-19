@@ -9,10 +9,10 @@ categories:
 date: 2011-12-09 08:11:06+10:00
 next:
   text: Teaching computer science considered harmful?
-  url: /blog2/2012/01/11/teaching-computer-science-considered-harmful/
+  url: /blog/2012/01/11/teaching-computer-science-considered-harmful/
 previous:
   text: '&quot;Scaling&quot; educational innovations'
-  url: /blog2/2011/12/07/scaling-educational-innovations/
+  url: /blog/2011/12/07/scaling-educational-innovations/
 title: '"Ateleological travels in a teleological world: Past and future journeys around
   ICTs in education"'
 type: post
@@ -82,4 +82,4 @@ The Australian Federal Government are just one of a gaggle of global stakeholder
 
 ### The plan
 
-The plan is that this chapter/paper will reflect on the primary focus of my research over recent years and encourage me to think of future research directions and approaches. Obviously it will draw on the [PhD research](/blog2/research/phd-thesis/) and in particular the Ps Framework and the [presentation](/blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) I gave at EdMedia a couple of years ago. It will also draw on [the presentation I gave](http://www.slideshare.net/davidj/one-analysis-of-the-digital-education-revolution) analysing the Digital Education Revolution as part of my GDLT studies this year.
+The plan is that this chapter/paper will reflect on the primary focus of my research over recent years and encourage me to think of future research directions and approaches. Obviously it will draw on the [PhD research](/blog/research/phd-thesis/) and in particular the Ps Framework and the [presentation](/blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) I gave at EdMedia a couple of years ago. It will also draw on [the presentation I gave](http://www.slideshare.net/davidj/one-analysis-of-the-digital-education-revolution) analysing the Digital Education Revolution as part of my GDLT studies this year.

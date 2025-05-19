@@ -5,10 +5,10 @@ categories:
 date: 2009-05-07 10:21:41+10:00
 next:
   text: Society - an aspect of Place impacting on e-learning
-  url: /blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
+  url: /blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
 previous:
   text: 'University - change or die: and another problem with the LMS model'
-  url: /blog2/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
+  url: /blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/
 title: Pondering a new position - request for help
 type: post
 template: blog-post.html
@@ -95,9 +95,9 @@ After a period of uncertainty, it appears likely that at some stage during May 2
 
 > You are the person who consults effectively and broadly with key stakeholders and provides strategic advice and leadership in learning and teaching innovation, primarily in the area of e-learning. Your primary purpose is to promote strategic e-learning development, in conjunction with all major stakeholders, to ensure CQUniversity achieves it ongoing e-learning goals.
 
-Some of the above and a list of the accountabilities for the position are available on the [eLearning and innovation page](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ on this blog. This page will serve as a central point for discussion this blog about the position.
+Some of the above and a list of the accountabilities for the position are available on the [eLearning and innovation page](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ on this blog. This page will serve as a central point for discussion this blog about the position.
 
-Given the nature of the position, the organisation and recent history I intend to use this blog to reflect on the position. I believe strongly in the value of open and transparent discussion as a way to increase distributed cognition and consequently increase the spread and effectiveness of innovation around learning and teaching. So a major aim of the discussion of the job here is to engage in, or at least spark discussion on the position, what it does and how successful it is. In fact, I believe that using the blog in this way is a good way to fulfill some of the position accountabilities including: [relationships](/blog2/elearning-and-innovation/#Relationships), [communicate and publish](/blog2/elearning-and-innovation/#CommunicateAndPublish), [continuous improvement](/blog2/elearning-and-innovation/#ContinuousImprovement) and [SoTL and the teaching/research nexus](/blog2/elearning-and-innovation/#SoTL).
+Given the nature of the position, the organisation and recent history I intend to use this blog to reflect on the position. I believe strongly in the value of open and transparent discussion as a way to increase distributed cognition and consequently increase the spread and effectiveness of innovation around learning and teaching. So a major aim of the discussion of the job here is to engage in, or at least spark discussion on the position, what it does and how successful it is. In fact, I believe that using the blog in this way is a good way to fulfill some of the position accountabilities including: [relationships](/blog/elearning-and-innovation/#Relationships), [communicate and publish](/blog/elearning-and-innovation/#CommunicateAndPublish), [continuous improvement](/blog/elearning-and-innovation/#ContinuousImprovement) and [SoTL and the teaching/research nexus](/blog/elearning-and-innovation/#SoTL).
 
 ### Current task
 
@@ -115,13 +115,13 @@ The following is a list of literature I'm aware of and currently intend to look 
 
 - [Innovate and integrate](http://innovateandintegrate.flexiblelearning.net.au/html/home.html) (Jasinski, 2007)  
     Commisioned research from the Australian Flexible Learning Framework into the processes of embedding innovative practices.
-- [Accountability and innovation in higher education: a disabling tension?](/blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/) (Findlow, 2008)  
+- [Accountability and innovation in higher education: a disabling tension?](/blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/) (Findlow, 2008)  
     A paper that empirically explores the tension between accountability and innovation within UK higher education (very closely related to the Australian context). The link above is to a previous post that draws on some of the ideas from the paper.
 - The work of [Clayton Christensen](http://www.claytonchristensen.com/) - especially [disruptive innovation](http://www.12manage.com/methods_christensen_disruptive_innovation.html)
 - Perspectives on innovation from the complex adaptive systems literature (Carlisle and McMillan, 2006; Webb, Lettice & Lemon, 2006)  
     I believe CAS and associated concepts provide a much more useful model for understanding of concepts such as universities and innovation. Consequently, I believe they provide a better foundation for acting.
-- [Postman, Papert and others](/blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/), particularly those examining why innovation in learning and teaching hasn't been all that successful.
-- The current [death of university](/blog2/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/) meme should probably also be looked at.
+- [Postman, Papert and others](/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/), particularly those examining why innovation in learning and teaching hasn't been all that successful.
+- The current [death of university](/blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/) meme should probably also be looked at.
 
 Would seem obvious that, since I'm using a blog for this discussion, I should also list some associated blogs. I haven't done that, yet, as it's not yet 100% certain I'll continue in the position.
 

@@ -5,10 +5,10 @@ date: 2011-12-07 09:12:34+10:00
 next:
   text: '"Ateleological travels in a teleological world: Past and future journeys
     around ICTs in education"'
-  url: /blog2/2011/12/09/ateleological-travels-in-a-teleological-world-past-and-future-journeys-around-icts-in-education/
+  url: /blog/2011/12/09/ateleological-travels-in-a-teleological-world-past-and-future-journeys-around-icts-in-education/
 previous:
   text: The failures of intuition in education
-  url: /blog2/2011/12/05/the-failures-of-intuition-in-education/
+  url: /blog/2011/12/05/the-failures-of-intuition-in-education/
 title: '"Scaling" educational innovations'
 type: post
 template: blog-post.html

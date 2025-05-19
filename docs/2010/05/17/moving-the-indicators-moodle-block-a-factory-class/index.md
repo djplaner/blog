@@ -5,10 +5,10 @@ categories:
 date: 2010-05-17 10:07:02+10:00
 next:
   text: How curriculum mapping in Moodle might work
-  url: /blog2/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
+  url: /blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/
 previous:
   text: Is there more to communities of practice?
-  url: /blog2/2010/05/16/is-there-more-to-communities-of-practice/
+  url: /blog/2010/05/16/is-there-more-to-communities-of-practice/
 title: Moving the indicators Moodle block to a factory class
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following reports on some work on the [indicators block](/blog2/2010/05/13/getting-started-with-cols-indicators-block/) to move it towards using some object-orientation and the [factory design pattern](http://en.wikipedia.org/wiki/Factory_method_pattern).
+The following reports on some work on the [indicators block](/blog/2010/05/13/getting-started-with-cols-indicators-block/) to move it towards using some object-orientation and the [factory design pattern](http://en.wikipedia.org/wiki/Factory_method_pattern).
 
 ### Why?
 

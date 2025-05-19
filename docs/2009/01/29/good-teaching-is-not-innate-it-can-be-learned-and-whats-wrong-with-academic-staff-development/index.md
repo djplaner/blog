@@ -11,10 +11,10 @@ categories:
 date: 2009-01-29 14:47:27+10:00
 next:
   text: Using a blog for course design foult sessions
-  url: /blog2/2009/01/30/using-a-blog-for-course-design-foult-sessions/
+  url: /blog/2009/01/30/using-a-blog-for-course-design-foult-sessions/
 previous:
   text: The design of a 6 hour orientation to course analysis and design
-  url: /blog2/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/
+  url: /blog/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/
 tags:
 - staffdevelopment-learning-teaching-university-highereducation-academicstaffdevelopment
 title: Good teaching is not innate, it can be "learned" - and what's wrong with academic
@@ -62,9 +62,9 @@ The title to this post is included in a quote from [Kane, Sandretto and Heath](h
 
 > The research team, comprising two teacher educators and an academic staff developer, embarked upon this research confident in the belief that good teaching is not innate, it can be learned. With this in mind, the project sought to theorise the attributes of excellent tertiary teachers and the relationships among those attributes, with the long-term goal of assisting novice academics in their development as teachers.
 
-This coincides nicely with my [current task](/blog2/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/) and also with an idea I came across on the week-end about deliberate practice and the work of [Anders Ericsson](http://www.psy.fsu.edu/faculty/ericsson.dp.html).
+This coincides nicely with my [current task](/blog/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/) and also with an idea I came across on the week-end about deliberate practice and the work of [Anders Ericsson](http://www.psy.fsu.edu/faculty/ericsson.dp.html).
 
-The combination of these "discoveries" is also providing some intellectual structure and support for the [REACT](/blog2/research/reflection-evaluation-and-collaboration-in-teaching/) idea about how to improve learning and teaching. However, it's also highlighting some flaws in that idea. Though the flaws aren't anywhere near as large as what passes for the majority of academic staff development around learning and teaching.
+The combination of these "discoveries" is also providing some intellectual structure and support for the [REACT](/blog/research/reflection-evaluation-and-collaboration-in-teaching/) idea about how to improve learning and teaching. However, it's also highlighting some flaws in that idea. Though the flaws aren't anywhere near as large as what passes for the majority of academic staff development around learning and teaching.
 
 The following introduces these ideas and how these ideas might be used to improve academic staff development.
 

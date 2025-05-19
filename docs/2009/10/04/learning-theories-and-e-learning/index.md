@@ -9,10 +9,10 @@ categories:
 date: 2009-10-04 13:46:49+10:00
 next:
   text: Lessons from Pedagogy for e-learning
-  url: /blog2/2009/10/04/lessons-from-pedagogy-for-e-learning/
+  url: /blog/2009/10/04/lessons-from-pedagogy-for-e-learning/
 previous:
   text: Online learning better than blended learning?
-  url: /blog2/2009/10/04/online-learning-better-than-blended-learning/
+  url: /blog/2009/10/04/online-learning-better-than-blended-learning/
 title: Learning theories and e-learning
 type: post
 template: blog-post.html
@@ -65,9 +65,9 @@ pingbacks:
       user_id: '0'
     
 ---
-It's almost a month since [the last post](/blog2/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/) from the first draft of my thesis. So, after much time away here's the next installment. It's probably rougher than previous versions - which says something - I'm still getting back into the swing of things.
+It's almost a month since [the last post](/blog/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/) from the first draft of my thesis. So, after much time away here's the next installment. It's probably rougher than previous versions - which says something - I'm still getting back into the swing of things.
 
-The following is meant to be a description of learning theory within the context of e-learning at universities. It's not a complete or in-depth examination of learning theories. Instead, it tries to illustrate that what we know about learning theory (in the broadest possible definition) is hugely complicated, diverse and ever changing. The intent is to argue that this is in direct contrast to [characteristics](/blog2/2009/09/02/lessons-from-product-for-e-learning/#inappropriate) of the common approach taken by universities to support e-learning. That is, an approach that focuses on stability and inflexibility.
+The following is meant to be a description of learning theory within the context of e-learning at universities. It's not a complete or in-depth examination of learning theories. Instead, it tries to illustrate that what we know about learning theory (in the broadest possible definition) is hugely complicated, diverse and ever changing. The intent is to argue that this is in direct contrast to [characteristics](/blog/2009/09/02/lessons-from-product-for-e-learning/#inappropriate) of the common approach taken by universities to support e-learning. That is, an approach that focuses on stability and inflexibility.
 
 ### Learning theories
 

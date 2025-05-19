@@ -4,10 +4,10 @@ categories:
 date: 2016-05-30 12:25:46+10:00
 next:
   text: Digital technology ignorance and its implications for learning and teaching
-  url: /blog2/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/
+  url: /blog/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/
 previous:
   text: Automating a SET leaderboard
-  url: /blog2/2016/05/23/automating-a-set-leaderboard/
+  url: /blog/2016/05/23/automating-a-set-leaderboard/
 title: Early thoughts on S1, 2016 offering of EDC3100
 type: post
 template: blog-post.html

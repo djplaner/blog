@@ -4,10 +4,10 @@ categories:
 date: 2012-04-11 21:23:31+10:00
 next:
   text: Mind the gap - a big problem with institutional e-learning
-  url: /blog2/2012/04/13/mind-the-gap-a-big-problem-with-institutional-e-learning/
+  url: /blog/2012/04/13/mind-the-gap-a-big-problem-with-institutional-e-learning/
 previous:
   text: Why learning management systems will probably go away
-  url: /blog2/2012/04/06/why-learning-management-systems-will-probably-go-away/
+  url: /blog/2012/04/06/why-learning-management-systems-will-probably-go-away/
 title: bim2 - working on coordinator - part 1
 type: post
 template: blog-post.html
@@ -30,7 +30,7 @@ pingbacks:
       user_id: '0'
     
 ---
-More work on bim2, this one starting work on the [previously identified tasks](/blog2/2012/04/05/bim2-whats-working-for-coordinator/). Find out what [BIM is here](/blog2/research/bam-blog-aggregation-management/).
+More work on bim2, this one starting work on the [previously identified tasks](/blog/2012/04/05/bim2-whats-working-for-coordinator/). Find out what [BIM is here](/blog/research/bam-blog-aggregation-management/).
 
 **Status:** At this stage, the user screens from bim2 can be considered in alpha. i.e. they basically work, but there will be bugs and some of the underlying "infrastructure" (i.e. backups and restores, gradebook integration etc) need to be fixed. The current code can [be gotten here](https://github.com/djplaner/BIM/tree/bim2).
 

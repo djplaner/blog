@@ -11,11 +11,11 @@ date: 2009-04-06 10:51:46+10:00
 next:
   text: Quotes from Snowden and the mismatch between what univeristy e-learning does
     and what it needs
-  url: /blog2/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/
+  url: /blog/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/
 previous:
   text: Measuring the design process - implications for learning design, e-learning
     and university teaching
-  url: /blog2/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
+  url: /blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
 title: '"The new educational technologists: A call for evidenced change"'
 type: post
 template: blog-post.html
@@ -44,9 +44,9 @@ The following is a summary/overview of Shurville, Browne and Whitaker (2008) - a
 
 I came across this paper while looking for evidence of people using Birnbaum's (2000) take on management fads in higher education in connection with e-learning. A connection I will certainly be making and was part way through creating a post about, when I came across this article.
 
-I interrupted that post to look at this article because the topic is related to an opinion I've had for quite some time. i.e. that most learning and teaching at universities is [somewhat less than effective](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) and that most attempts to improve that teaching are just as, if not more, ineffective.
+I interrupted that post to look at this article because the topic is related to an opinion I've had for quite some time. i.e. that most learning and teaching at universities is [somewhat less than effective](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) and that most attempts to improve that teaching are just as, if not more, ineffective.
 
-So, anything that proposes to search for evidence associated with this work, is of interest. Especially when I believe the absence of agreed upon evidence of improvement is a [key flaw in university teaching](/blog2/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/)
+So, anything that proposes to search for evidence associated with this work, is of interest. Especially when I believe the absence of agreed upon evidence of improvement is a [key flaw in university teaching](/blog/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/)
 
 #### Summary
 
@@ -77,7 +77,7 @@ But, to do this properly, senior managers need evidence to inform such reflectio
 _Comments:_
 
 - Rather limited success and other reasons.  
-    At my organisation, my perspective is that "educational technologists" have had limited success. The only impact has been small and at the boundaries. I believe this is because of a mismatch between how management conceptualise how to go about the act of improving learning and teaching. Something I've [argued elsewhere](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/). It's just not the role of educational technologist that needs rethinking, it's the entire structure.
+    At my organisation, my perspective is that "educational technologists" have had limited success. The only impact has been small and at the boundaries. I believe this is because of a mismatch between how management conceptualise how to go about the act of improving learning and teaching. Something I've [argued elsewhere](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/). It's just not the role of educational technologist that needs rethinking, it's the entire structure.
 - Shudder at strategic.  
     The mention of strategic sends shudders through my body. This generally means a teleological approach to solving the problem. An unquestioned response that has no evidence to support that it works and a lot to suggest that it doesn't (take a look at Birnbaum).
 

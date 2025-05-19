@@ -4,11 +4,11 @@ categories:
 date: 2008-12-11 00:25:02+10:00
 next:
   text: Singapore to Paris
-  url: /blog2/2008/12/12/singapore-to-paris/
+  url: /blog/2008/12/12/singapore-to-paris/
 previous:
   text: Accept the fact that we have to treat almost anybody as a volunteer - implications
     for learning and teaching
-  url: /blog2/2008/12/05/accept-the-fact-that-we-have-to-treat-almost-anybody-as-a-volunteer-implications-for-learning-and-teaching/
+  url: /blog/2008/12/05/accept-the-fact-that-we-have-to-treat-almost-anybody-as-a-volunteer-implications-for-learning-and-teaching/
 tags:
 - travel-changi-singapore-paris
 title: Struck Oil to Singapore

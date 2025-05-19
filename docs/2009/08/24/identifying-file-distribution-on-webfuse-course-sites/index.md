@@ -10,15 +10,15 @@ categories:
 date: 2009-08-24 12:03:58+10:00
 next:
   text: Learning requires willingness to suffer injury to one's self-esteem
-  url: /blog2/2009/08/25/learning-requires-willingness-to-suffer-injury-to-ones-self-esteem/
+  url: /blog/2009/08/25/learning-requires-willingness-to-suffer-injury-to-ones-self-esteem/
 previous:
   text: Other information systems in higher education
-  url: /blog2/2009/08/23/other-information-systems-in-higher-education/
+  url: /blog/2009/08/23/other-information-systems-in-higher-education/
 title: Identifying file distribution on Webfuse course sites
 type: post
 template: blog-post.html
 ---
-As part of the thesis I've been engaging with some of the literature around LMS feature usage to evaluate usage of Webfuse. A good first stab of this was reported in [an earlier post](/blog2/2009/08/07/breadth-of-webfuse-use-1997-through-2009/). There were a number of limitations of that work, it's time to expand a bit on it. To some extent for the PhD and to some extent because of a paper.
+As part of the thesis I've been engaging with some of the literature around LMS feature usage to evaluate usage of Webfuse. A good first stab of this was reported in [an earlier post](/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/). There were a number of limitations of that work, it's time to expand a bit on it. To some extent for the PhD and to some extent because of a paper.
 
 As with some of the other posts this one is essentially a journal or a log of what I'm doing and why I'm doing it. A permanent record of my thinking so I can come back later, if needed.
 
@@ -26,7 +26,7 @@ There's even an unexpected connection with power law distributions towards the e
 
 ### Content distribution
 
-In [that previous post](/blog2/2009/08/07/breadth-of-webfuse-use-1997-through-2009/) I did not include a graph/any figures around the use of Webfuse course sites to distribute content or files. This is because Webfuse had a concept of a default course site. i.e. every course would have the same basic default site created automatically. Since about 2001 this meant that every course site performed some aspect of information distribution including: [the course synopsis on the home page](http://webfuse.cqu.edu.au/Courses/2009/T2/COIS20025/), details about [the course assessment](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/Assessment/), details about [course resources](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/Resources/) including textbook details and a link to the course profile, and [details about the teaching staff](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/Staff/).
+In [that previous post](/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/) I did not include a graph/any figures around the use of Webfuse course sites to distribute content or files. This is because Webfuse had a concept of a default course site. i.e. every course would have the same basic default site created automatically. Since about 2001 this meant that every course site performed some aspect of information distribution including: [the course synopsis on the home page](http://webfuse.cqu.edu.au/Courses/2009/T2/COIS20025/), details about [the course assessment](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/Assessment/), details about [course resources](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/Resources/) including textbook details and a link to the course profile, and [details about the teaching staff](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/Staff/).
 
 Beyond this staff were able to upload files and other content as they desired. i.e. moving beyond the default course site was optional and left entirely up to the teaching staff. Some of us, perhaps went [overboard](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/Resources/Lecture_Slides/). Other staff may have been more minimal. The aim here is to develop metrics that illustrate that variability.
 

@@ -4,10 +4,10 @@ categories:
 date: 2006-10-02 11:48:49+10:00
 next:
   text: LMS implementation - which development methodology
-  url: /blog2/2006/10/02/lms-implementation-which-development-methodology/
+  url: /blog/2006/10/02/lms-implementation-which-development-methodology/
 previous:
   text: Examples of free content (Universitites)
-  url: /blog2/2006/10/02/examples-of-free-content-universitites/
+  url: /blog/2006/10/02/examples-of-free-content-universitites/
 title: Everything old is new again - working around copy detection
 type: post
 template: blog-post.html

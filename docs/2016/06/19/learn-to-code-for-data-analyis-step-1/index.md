@@ -5,10 +5,10 @@ categories:
 date: 2016-06-19 11:03:43+10:00
 next:
   text: What is the nature of digital technology? Part 1
-  url: /blog2/2016/06/27/what-is-the-nature-of-digital-technology-part-1/
+  url: /blog/2016/06/27/what-is-the-nature-of-digital-technology-part-1/
 previous:
   text: Digital technology ignorance and its implications for learning and teaching
-  url: /blog2/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/
+  url: /blog/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/
 title: Learn to code for data analyis - step 1
 type: post
 template: blog-post.html

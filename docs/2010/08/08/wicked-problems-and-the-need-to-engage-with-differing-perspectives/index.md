@@ -8,10 +8,10 @@ categories:
 date: 2010-08-08 20:47:51+10:00
 next:
   text: The McNamara Fallacy and pass rates, academic analytics, and engagement
-  url: /blog2/2010/08/09/the-mcnamara-fallacy-and-pass-rates-academic-analytics-and-engagement/
+  url: /blog/2010/08/09/the-mcnamara-fallacy-and-pass-rates-academic-analytics-and-engagement/
 previous:
   text: 30% of information about task performance
-  url: /blog2/2010/08/08/30-of-information-about-task-performance/
+  url: /blog/2010/08/08/30-of-information-about-task-performance/
 title: Wicked problems and the need to engage with differing perspectives
 type: post
 template: blog-post.html
@@ -56,7 +56,7 @@ In writing the last post, I had the opportunity re-read the Wikipedia article on
 
 > Rittel and Webber coined the term in the context of problems of social policy, an arena in which a purely scientific-rational approach cannot be applied because of the lack of a clear problem definition and differing perspectives of stakeholders.
 
-My experience with writing [BIM](/blog2/research/bam-blog-aggregation-management/) from late last year through early this year is a good example of this. BIM is based on an earlier tool called BAM that was written as part of an institution specific system called Webfuse. As of early this year, the institution was dropping Webfuse and moving to Moodle. If BAM were to be continued, it had to be ported to Moodle. And the perspectives begin.
+My experience with writing [BIM](/blog/research/bam-blog-aggregation-management/) from late last year through early this year is a good example of this. BIM is based on an earlier tool called BAM that was written as part of an institution specific system called Webfuse. As of early this year, the institution was dropping Webfuse and moving to Moodle. If BAM were to be continued, it had to be ported to Moodle. And the perspectives begin.
 
 ### Stakeholders and their perspectives
 

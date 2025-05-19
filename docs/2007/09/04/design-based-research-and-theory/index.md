@@ -5,10 +5,10 @@ categories:
 date: 2007-09-04 22:32:49+10:00
 next:
   text: E-learning and information systems - a connection?
-  url: /blog2/2007/09/09/e-learning-and-information-systems-a-connection/
+  url: /blog/2007/09/09/e-learning-and-information-systems-a-connection/
 previous:
   text: Carrick, Web3D and Sustainability
-  url: /blog2/2007/09/04/carrick-web3d-and-sustainability/
+  url: /blog/2007/09/04/carrick-web3d-and-sustainability/
 title: Design-based research and theory
 type: post
 template: blog-post.html

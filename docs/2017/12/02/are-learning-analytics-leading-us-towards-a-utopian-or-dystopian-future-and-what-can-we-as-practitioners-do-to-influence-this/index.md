@@ -7,11 +7,11 @@ date: 2017-12-02 14:52:51+10:00
 next:
   text: '"Context-Appropriate Scaffolding Assemblages: A generative learning analytics
     platform for end-user development and participatory design"'
-  url: /blog2/2018/02/02/context-appropriate-scaffolding-assemblages-a-generative-learning-analytics-platform-for-end-user-development-and-participatory-design/
+  url: /blog/2018/02/02/context-appropriate-scaffolding-assemblages-a-generative-learning-analytics-platform-for-end-user-development-and-participatory-design/
 previous:
   text: Teacher DIY learning analytics - implications & questions for institutional
     learning analytics
-  url: /blog2/2017/11/26/teacher-diy-learning-analytics-implications-questions-for-institutional-learning-analytics/
+  url: /blog/2017/11/26/teacher-diy-learning-analytics-implications-questions-for-institutional-learning-analytics/
 title: Are learning analytics leading us towards a utopian or dystopian future, and
   what can we as practitioners do to influence this?
 type: post
@@ -35,7 +35,7 @@ It's an approach that fails to effectively engage with Gasevic et al (2015) desc
 
 In terms of what can be done, the suggestion is to focus on an approach designed to **help find the right size for each**. An approach that effectively engages with the significant tension of the reusability paradox and aims to work toward maximising pedagogical value.
 
-In terms of specifics, the following offers some early suggestions. First, avoid taking a deficit model of teachers around both [digital technology](/blog2/2014/09/12/you-want-digitally-fluent-faculty/) and learning and teaching. Adopt [alternative ontological perspectives](http://tiny.cc/ColPhD) as the basis for planning. Focus on creating an environment and digital technology platforms that encourage the co-development of contextually specific, embedded and protean learning analytics interventions. Preferably linked with activities focused on helping provide teaching staff with the opportunity to "experience powerful personal experiences" (Cavallo, 2004, p. 102) around how [teaching as design](https://www.herdsa.org.au/system/files/HERDSARHE2015v02p27_0.pdf) combined with learning analytics can respond to their problems and desires.
+In terms of specifics, the following offers some early suggestions. First, avoid taking a deficit model of teachers around both [digital technology](/blog/2014/09/12/you-want-digitally-fluent-faculty/) and learning and teaching. Adopt [alternative ontological perspectives](http://tiny.cc/ColPhD) as the basis for planning. Focus on creating an environment and digital technology platforms that encourage the co-development of contextually specific, embedded and protean learning analytics interventions. Preferably linked with activities focused on helping provide teaching staff with the opportunity to "experience powerful personal experiences" (Cavallo, 2004, p. 102) around how [teaching as design](https://www.herdsa.org.au/system/files/HERDSARHE2015v02p27_0.pdf) combined with learning analytics can respond to their problems and desires.
 
 In addition, the approach should focus on enabling and encouraging teacher DIY learning analytics. DIY learning analytics involves teachers [customising in different ways](http://djon.es/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/#table1) learning analytics to fit their context. Not only is this a way to increase the pedagogical value of learning analytics but may be the only way to achieve learning analytics at scale, as Gunn et al (2005) write
 

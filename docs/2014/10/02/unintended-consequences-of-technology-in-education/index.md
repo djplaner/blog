@@ -5,10 +5,10 @@ date: 2014-10-02 14:10:14+10:00
 next:
   text: '"What do new views of knowledge &#038; thinking have to say about research
     on teacher learning?"'
-  url: /blog2/2014/10/03/what-do-new-views-of-knowledge-thinking-have-to-say-about-research-on-teacher-learning/
+  url: /blog/2014/10/03/what-do-new-views-of-knowledge-thinking-have-to-say-about-research-on-teacher-learning/
 previous:
   text: A perspective on why institutional e-learning is so bad
-  url: /blog2/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/
+  url: /blog/2014/09/22/a-perspective-on-why-institutional-e-learning-is-so-bad/
 title: Unintended consequences of technology in education
 type: post
 template: blog-post.html

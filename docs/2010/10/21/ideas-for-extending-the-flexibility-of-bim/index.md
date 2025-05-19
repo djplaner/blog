@@ -4,15 +4,15 @@ categories:
 date: 2010-10-21 14:47:13+10:00
 next:
   text: No burden for TEQSA, yea right
-  url: /blog2/2010/10/27/no-burden-for-teqsa-yea-right/
+  url: /blog/2010/10/27/no-burden-for-teqsa-yea-right/
 previous:
   text: Time for a career change?
-  url: /blog2/2010/10/20/time-for-a-career-change/
+  url: /blog/2010/10/20/time-for-a-career-change/
 title: Ideas for extending the flexibility of BIM
 type: post
 template: blog-post.html
 ---
-The following explores some ideas for extensions to [BIM](/blog2/research/bam-blog-aggregation-management/) based on [a blog post](http://davecormier.com/edblog/2010/10/21/my-ple-model-is-the-internet-no-more-system-for-me/) from [Dave Cormier](http://davecormier.com/edblog/whos-dave/).
+The following explores some ideas for extensions to [BIM](/blog/research/bam-blog-aggregation-management/) based on [a blog post](http://davecormier.com/edblog/2010/10/21/my-ple-model-is-the-internet-no-more-system-for-me/) from [Dave Cormier](http://davecormier.com/edblog/whos-dave/).
 
 ### Dave's post
 
@@ -24,7 +24,7 @@ The end realisation of this is in [a recent course](http://wikieducator.org/User
 
 ### Connection with BIM
 
-[BIM](/blog2/research/bam-blog-aggregation-management/) is a Moodle activity Module I wrote. It's aimed to allow students to have their own blog and do their work on that blog, but still provide a way that teaching staff can easily track, comment, mark, and manage that work. i.e. students do their work where they want, staff get the support/integration they need. BIM arguably stands somewhere between Dave's "phase 4" and "the internet is my PLE".
+[BIM](/blog/research/bam-blog-aggregation-management/) is a Moodle activity Module I wrote. It's aimed to allow students to have their own blog and do their work on that blog, but still provide a way that teaching staff can easily track, comment, mark, and manage that work. i.e. students do their work where they want, staff get the support/integration they need. BIM arguably stands somewhere between Dave's "phase 4" and "the internet is my PLE".
 
 However, there's some significant limitations in BIM. Dave's post has given me some ideas for extending BIM.
 

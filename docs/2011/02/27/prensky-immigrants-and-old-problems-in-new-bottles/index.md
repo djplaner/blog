@@ -5,10 +5,10 @@ categories:
 date: 2011-02-27 17:44:01+10:00
 next:
   text: Thoughts and applications of connectivism
-  url: /blog2/2011/02/28/thoughts-and-applications-of-connectivism/
+  url: /blog/2011/02/28/thoughts-and-applications-of-connectivism/
 previous:
   text: Learning styles, teaching and digital pedagogy
-  url: /blog2/2011/02/25/learning-styles-teaching-and-digital-pedagogy/
+  url: /blog/2011/02/25/learning-styles-teaching-and-digital-pedagogy/
 title: Prensky, immigrants and old problems in new bottles
 type: post
 template: blog-post.html

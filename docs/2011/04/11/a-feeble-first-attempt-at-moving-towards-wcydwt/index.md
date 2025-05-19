@@ -6,10 +6,10 @@ categories:
 date: 2011-04-11 09:07:26+10:00
 next:
   text: What shapes how we think?
-  url: /blog2/2011/04/12/what-shapes-how-we-think/
+  url: /blog/2011/04/12/what-shapes-how-we-think/
 previous:
   text: Group 3 Technologies - The activities
-  url: /blog2/2011/04/09/group-3-technologies-the-activities/
+  url: /blog/2011/04/09/group-3-technologies-the-activities/
 title: A feeble first attempt at moving towards WCYDWT
 type: post
 template: blog-post.html

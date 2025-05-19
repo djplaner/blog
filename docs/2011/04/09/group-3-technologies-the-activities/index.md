@@ -5,15 +5,15 @@ categories:
 date: 2011-04-09 12:34:43+10:00
 next:
   text: A feeble first attempt at moving towards WCYDWT
-  url: /blog2/2011/04/11/a-feeble-first-attempt-at-moving-towards-wcydwt/
+  url: /blog/2011/04/11/a-feeble-first-attempt-at-moving-towards-wcydwt/
 previous:
   text: Mathematics and the net generation - not in textbook exercises
-  url: /blog2/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
+  url: /blog/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
 title: Group 3 Technologies - The activities
 type: post
 template: blog-post.html
 ---
-Following on from the [last post](/blog2/2011/04/08/group-3-technologies-the-readings/) this one reports a bit more on activities associated with the Group 3 technologies, tools that "present learning or information". The point is mostly to document that I've done this stuff (for assessment purposes) and also to implement the necessary analysis of one of the tools.
+Following on from the [last post](/blog/2011/04/08/group-3-technologies-the-readings/) this one reports a bit more on activities associated with the Group 3 technologies, tools that "present learning or information". The point is mostly to document that I've done this stuff (for assessment purposes) and also to implement the necessary analysis of one of the tools.
 
 ### Powerpoint
 
@@ -21,7 +21,7 @@ Beyond the presentations that were on Slideshare (including some that have audio
 
 ### Prezi
 
-As outlined in [the last post](/blog2/2011/04/08/group-3-technologies-the-readings/) I did transform some of the ideas/resources from a previous presentation into [a Prezi](http://prezi.com/d8abiwl_0sw_/the-disease-of-big-up-front-design/). It's by no means complete and needs some work to really be a good Prezi, but it's made me familiar with the tool and its capabilities.
+As outlined in [the last post](/blog/2011/04/08/group-3-technologies-the-readings/) I did transform some of the ideas/resources from a previous presentation into [a Prezi](http://prezi.com/d8abiwl_0sw_/the-disease-of-big-up-front-design/). It's by no means complete and needs some work to really be a good Prezi, but it's made me familiar with the tool and its capabilities.
 
 Perhaps the biggest annoyance I had was the apparent inability to select a collection of elements simply by "dragging a rectangle" over them. You can do it by "shift-clicking" on each element, but when the elements can be radically different sizes this can take some time and planning. If that's my biggest annoyance, the tool works quite well.
 
@@ -68,7 +68,7 @@ The question I have is just what topic such a poster session might take for my s
 - Do it groups.  
     The project could be group-based, perhaps it would work better that way.
 
-As with the [group 2 technologies](/blog2/2011/04/07/group-2-technologies-images-audio-and-video/), I'm going to do a SWOT analysis where I classify the technology itself (voicethread) as "internal" (strengths and weaknesses) while everything else, including pedagogy and school context, is external (opportunities and threats). As with the previous analysis, I am going to try and give the students and high school leadership a voice in this analysis.
+As with the [group 2 technologies](/blog/2011/04/07/group-2-technologies-images-audio-and-video/), I'm going to do a SWOT analysis where I classify the technology itself (voicethread) as "internal" (strengths and weaknesses) while everything else, including pedagogy and school context, is external (opportunities and threats). As with the previous analysis, I am going to try and give the students and high school leadership a voice in this analysis.
 
 | Analysis | Teacher | Students | Leadership |
 | --- | --- | --- | --- |

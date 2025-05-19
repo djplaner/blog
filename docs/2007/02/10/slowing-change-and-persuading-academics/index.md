@@ -2,10 +2,10 @@
 date: 2007-02-10 21:01:38+10:00
 next:
   text: Universities as a business - but which business
-  url: /blog2/2007/03/04/universities-as-a-business-but-which-business/
+  url: /blog/2007/03/04/universities-as-a-business-but-which-business/
 previous:
   text: Should the learner always be the focus?
-  url: /blog2/2007/02/09/should-the-learner-always-be-the-focus/
+  url: /blog/2007/02/09/should-the-learner-always-be-the-focus/
 title: Slowing change and persuading academics
 type: post
 template: blog-post.html

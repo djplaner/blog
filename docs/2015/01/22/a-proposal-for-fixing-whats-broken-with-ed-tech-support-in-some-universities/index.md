@@ -6,17 +6,17 @@ categories:
 date: 2015-01-22 11:57:49+10:00
 next:
   text: Adding some learning process analytics to EDC3100
-  url: /blog2/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
+  url: /blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
 previous:
   text: Trying out a new writing process
-  url: /blog2/2015/01/21/trying-out-a-new-writing-process/
+  url: /blog/2015/01/21/trying-out-a-new-writing-process/
 title: A proposal for fixing what's broken with ed tech support in some universities
 type: post
 template: blog-post.html
 ---
-[This paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) analyses the outcomes of what a small group of academics (myself included) attempted to do to develop the knowledge/capability to develop effective learning for hundreds of pre-service teachers via e-learning. That experience is analysed using a distributive view of knowledge and learning and illustrates just how broken what passes for ed tech support/academic staff development in some universities. Picking up on [yesterday's post](/blog2/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/), the paper reports on academics harnessing their digital fluency to address the almost complete lack of usefulness of the institutionally developed attempts at supporting academic staff in developing the knowledge necessary for effective e-learning.
+[This paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) analyses the outcomes of what a small group of academics (myself included) attempted to do to develop the knowledge/capability to develop effective learning for hundreds of pre-service teachers via e-learning. That experience is analysed using a distributive view of knowledge and learning and illustrates just how broken what passes for ed tech support/academic staff development in some universities. Picking up on [yesterday's post](/blog/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/), the paper reports on academics harnessing their digital fluency to address the almost complete lack of usefulness of the institutionally developed attempts at supporting academic staff in developing the knowledge necessary for effective e-learning.
 
-The distributive view of knowledge and learning used [in the paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) drew on three conceptual themes from Putnam and Borko (2000) and one theme we've added. Those themes suggests that knowledge and learning is/should be
+The distributive view of knowledge and learning used [in the paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) drew on three conceptual themes from Putnam and Borko (2000) and one theme we've added. Those themes suggests that knowledge and learning is/should be
 
 1. situated; Context matters. An inappropriate context can limit transfer of learning into different contexts. The entire system/context in which learning takes place is fundamental to what is learned.
 2. social; How we think and what we know arises from on-going interactions with groups of people of time.
@@ -27,7 +27,7 @@ This post is an attempt to propose one way in which institutional attempts at ed
 
 ## Analysing existing practice
 
-When I first started on this post the plan was to analyse my existing institution's attempts at ed tech support. So I logged into the Moodle site for the course I'll be teaching next semester and asked the question, "If I had problem with X (whatever that is), how would I find an answer?". The answer to that question was summarised in [this post](/blog2/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/). A post that is password protected because of the embarrassing difficulty I had in answering that question.
+When I first started on this post the plan was to analyse my existing institution's attempts at ed tech support. So I logged into the Moodle site for the course I'll be teaching next semester and asked the question, "If I had problem with X (whatever that is), how would I find an answer?". The answer to that question was summarised in [this post](/blog/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/). A post that is password protected because of the embarrassing difficulty I had in answering that question.
 
 Using the four themes the following criticisms might be made
 
@@ -62,13 +62,13 @@ Beyond critiquing what exists, the four conceptual themes above might also be us
 2. The support area should encourage/enable participation in various discourse communities. Which might suggest approaches such as
     
     - The system should make you aware of the communities/individuals that are using the tool you are currently (thinking of) using. e.g. if you're looking at using the [BIM Moodle module](http://bit.ly/bambim) the support system should help you become aware of who else has used the tool and perhaps how (leading into..)
-    - The system should help capture and make available for on-going use the ["residue of experience"](/blog2/2014/08/15/joining-the-swarm-what-a-course-might-be/) (Riel & Pollin, 2004) of other members of the community. The discussion, reflections and analysis of prior use of tools and methods should be available. At a simple level, this might be ensuring that any and all questions about the discussion forum (including those from the helpdesk) be visible/searchable from the support site about the discussion forum.
+    - The system should help capture and make available for on-going use the ["residue of experience"](/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/) (Riel & Pollin, 2004) of other members of the community. The discussion, reflections and analysis of prior use of tools and methods should be available. At a simple level, this might be ensuring that any and all questions about the discussion forum (including those from the helpdesk) be visible/searchable from the support site about the discussion forum.
     
 3. The support area should integrate with and integrate into it all of the appropriate organisational and external systems and processes. This might include such things as
     - Knowledge from other systems offering support appear automatically. For example, any [known issues](http://www.vle.monash.edu/knownissues.html) information about tools are integrated appropriately into the environment.
     - Organisational information sources such as student records systems, teaching responsibilities databases, results of course evaluation surveys etc should be integrated into the support and used to situate and modify resources appropriately.
     - Knowledge from the support area should be openly available (as appropriate) for integration into other systems. Might be as simple as generating an RSS/OPML feed (or two) or allowing email subscription. Perhaps publish an API.
-    - The "how to do" advice in the support area should actually help you do it. i.e. rather than a sequence of steps describing what you do, there's actually a link that will take you back to actual system and help you do it. Linked to the idea of [Context Appropriate Scaffolding Assemblages (CASA)](/blog2/2015/01/13/this-year-its-all-about-the-connections/#case).
+    - The "how to do" advice in the support area should actually help you do it. i.e. rather than a sequence of steps describing what you do, there's actually a link that will take you back to actual system and help you do it. Linked to the idea of [Context Appropriate Scaffolding Assemblages (CASA)](/blog/2015/01/13/this-year-its-all-about-the-connections/#case).
 4. The support area should support manipulation and change by the users and their actions (protean). This might mean
     - Something as simple as having decent customisation options.
     - Something more radical like [Smallest Federated Wiki](http://wardcunningham.github.io/). i.e. where each individual or group could fork the support resources and make their own changes. Changes that might be potentially integrated back into the original institutional version.

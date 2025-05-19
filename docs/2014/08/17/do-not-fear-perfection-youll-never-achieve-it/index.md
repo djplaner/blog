@@ -4,10 +4,10 @@ categories:
 date: 2014-08-17 12:48:19+10:00
 next:
   text: '"Supported" versus "unsupported" ICTs in a network age'
-  url: /blog2/2014/08/18/supported-versus-unsupported-icts-in-a-network-age/
+  url: /blog/2014/08/18/supported-versus-unsupported-icts-in-a-network-age/
 previous:
   text: Catching up on the NGL participation - part B
-  url: /blog2/2014/08/15/catching-up-on-the-ngl-participation-part-b/
+  url: /blog/2014/08/15/catching-up-on-the-ngl-participation-part-b/
 title: Do not fear perfection, you'll never achieve it
 type: post
 template: blog-post.html
@@ -119,7 +119,7 @@ I'd like to suggest that to get the most out of the NetGL course there needs to 
 
 > It's not how bad you start, it's how quickly you get better
 
-For me this idea arose out of the difference between [teleological and ateleological processes](/blog2/2009/05/25/teleological-and-ateleological-processes/). The teleological approach (aka the planning approach process) is based on the idea of knowing exactly what you're going to do before you do it and then planning how you'll most efficiently achieve that plan. The ateleological approach (aka the learning approach to process) starts with where you are, makes a small change in response to local needs and learns from that experience.
+For me this idea arose out of the difference between [teleological and ateleological processes](/blog/2009/05/25/teleological-and-ateleological-processes/). The teleological approach (aka the planning approach process) is based on the idea of knowing exactly what you're going to do before you do it and then planning how you'll most efficiently achieve that plan. The ateleological approach (aka the learning approach to process) starts with where you are, makes a small change in response to local needs and learns from that experience.
 
 The reason I think the ateleological approach works better for the type of world that the NetGL course assumes arises from Introna's (1996) identification of the three conditions that must apply if the teleological aprpoach is going to work
 

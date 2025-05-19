@@ -5,10 +5,10 @@ categories:
 date: 2010-11-15 17:46:51+10:00
 next:
   text: EduFeedr is live. BIM for open blog courses
-  url: /blog2/2010/11/16/edufeedr-is-live-bim-for-open-blog-courses/
+  url: /blog/2010/11/16/edufeedr-is-live-bim-for-open-blog-courses/
 previous:
   text: Delving into institutional information systems
-  url: /blog2/2010/11/12/delving-into-institutional-information-systems/
+  url: /blog/2010/11/12/delving-into-institutional-information-systems/
 title: Getting back into maths - it is not linear
 type: post
 template: blog-post.html
@@ -51,7 +51,7 @@ pingbacks:
     []
     
 ---
-As mentioned [last week](/blog2/2010/11/12/a-turning-point/#toward), I'm slowly commencing the process of becoming a high school teacher in information technology and mathematics. As part of that process I'm trying to get back into maths - its almost 25 years since I did my undergrad math courses - and build up a network of folk and ideas.
+As mentioned [last week](/blog/2010/11/12/a-turning-point/#toward), I'm slowly commencing the process of becoming a high school teacher in information technology and mathematics. As part of that process I'm trying to get back into maths - its almost 25 years since I did my undergrad math courses - and build up a network of folk and ideas.
 
 So, via the well known [@coursa](http://twitter.com/#!/courosa), I find [@katierosenkranz](http://twitter.com/#!/katierosenkranz) (a pre-service teacher with a math minor) and her mention of a "prezi" - [Math is not linear](http://prezi.com/aww2hjfyil0u/math-is-not-linear/). Not only does the content of this presentation resonate, the number of additional connections being added to my baby math network is rapidly increasing. Including [@pvnotp](http://twitter.com/#!/pvnotp) author of the presentation. Though I do admit a need to connect with some more Australian folk.
 

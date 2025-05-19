@@ -7,10 +7,10 @@ date: 2010-03-25 09:11:07+10:00
 next:
   text: '"From theory to intervention: Mapping theoretically derived behavioural determinants
     to behaviour change techniques"'
-  url: /blog2/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
+  url: /blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/
 previous:
   text: The suffocating straightjackets of liberating ideas
-  url: /blog2/2010/03/24/the-suffocating-straightjackets-of-liberating-ideas/
+  url: /blog/2010/03/24/the-suffocating-straightjackets-of-liberating-ideas/
 title: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
 type: post
 template: blog-post.html

@@ -4,10 +4,10 @@ categories:
 date: 2006-09-28 11:52:44+10:00
 next:
   text: FERPA as a barrier to open communication
-  url: /blog2/2006/09/29/ferpa-as-a-barrier-to-open-communication/
+  url: /blog/2006/09/29/ferpa-as-a-barrier-to-open-communication/
 previous:
   text: Social computing
-  url: /blog2/2006/09/28/social-computering/
+  url: /blog/2006/09/28/social-computering/
 title: UC Berkeley already using Google Video
 type: post
 template: blog-post.html

@@ -5,10 +5,10 @@ categories:
 date: 2010-09-14 09:56:37+10:00
 next:
   text: Principles of form and function
-  url: /blog2/2010/09/15/principles-of-form-and-function/
+  url: /blog/2010/09/15/principles-of-form-and-function/
 previous:
   text: How strict a blueprint do ISDTs provide?
-  url: /blog2/2010/09/13/how-strict-a-blueprint-do-isdts-provide/
+  url: /blog/2010/09/13/how-strict-a-blueprint-do-isdts-provide/
 title: Portfolios often implemented poorly
 type: post
 template: blog-post.html
@@ -25,7 +25,7 @@ Yea, right.
 
 ### On-going poor implementation through absence of contextual change
 
-I'm a long-term [e-portfolio skeptic](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/). Not because I don't like the idea. After all, there's a lot of similarity between how [BIM](/blog2/research/bam-blog-aggregation-management/) can be used an e-portfolio and increasing formative assessment to students has been a key focus of mine.
+I'm a long-term [e-portfolio skeptic](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/). Not because I don't like the idea. After all, there's a lot of similarity between how [BIM](/blog/research/bam-blog-aggregation-management/) can be used an e-portfolio and increasing formative assessment to students has been a key focus of mine.
 
 It's also not because I think the e-portfolio systems are horrible. Though I have heard some rumblings from folk using them that there are problems.
 
@@ -35,7 +35,7 @@ I'm an e-portfolio skeptic because they are becoming just another fad for higher
 
 ### The case of BIM
 
-The presentation I originally envisioned giving at MoodleMoot'AU 2010 was going to use the story of BIM to talk about the inherent [limits on innovative pedagogy that exist within higher education](/blog2/publications/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/). (The Moot seemed the wrong place for that talk so it became more a show and tell for BIM). But here's just one example.
+The presentation I originally envisioned giving at MoodleMoot'AU 2010 was going to use the story of BIM to talk about the inherent [limits on innovative pedagogy that exist within higher education](/blog/publications/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/). (The Moot seemed the wrong place for that talk so it became more a show and tell for BIM). But here's just one example.
 
 The original purpose for developing BIM was to increase the level of discussion and formative assessment between staff and students. I was sick of seeing student assignments with basic mistakes that could of and should of been picked up earlier. So, when I used BAM (the BIM pre-cursor) with my students I interacted heavily with them and it worked well.
 

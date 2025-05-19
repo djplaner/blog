@@ -5,10 +5,10 @@ date: 2006-11-29 11:23:04+10:00
 next:
   text: The Long Tail - aggregation and context and the role of a "Web 2.0 course
     site"
-  url: /blog2/2006/11/29/the-long-tail-aggregation-and-context-and-the-role-of-a-web-20-course-site/
+  url: /blog/2006/11/29/the-long-tail-aggregation-and-context-and-the-role-of-a-web-20-course-site/
 previous:
   text: The research &quot;foundation&quot; for the missing Ps
-  url: /blog2/2006/10/29/the-research-foundation-for-the-missing-ps/
+  url: /blog/2006/10/29/the-research-foundation-for-the-missing-ps/
 title: The first missing Ps presentation
 type: post
 template: blog-post.html

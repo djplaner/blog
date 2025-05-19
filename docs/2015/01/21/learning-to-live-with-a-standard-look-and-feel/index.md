@@ -4,18 +4,18 @@ categories:
 date: 2015-01-21 08:42:39+10:00
 next:
   text: '"Barriers to higher education technology adoption: Digital fluency or usefulness?"'
-  url: /blog2/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/
+  url: /blog/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/
 previous:
   text: What might the 3 levels of organisational culture reveal about university
     e-learning
-  url: /blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
+  url: /blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/
 title: Learning to live with a standard look and feel
 type: post
 template: blog-post.html
 ---
 **About** \- this is an old post (2015) that was never posted. Posting it now for other reasons.
 
-The following outlines experiments and steps taken to live with the dissonances that arise from the implementation of a new institutional look and feel for course sites. The background to this work is documented in [this blog post](/blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/) which ends with the following questions that I try to answer:
+The following outlines experiments and steps taken to live with the dissonances that arise from the implementation of a new institutional look and feel for course sites. The background to this work is documented in [this blog post](/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/) which ends with the following questions that I try to answer:
 
 1. Can I change the study schedule and assessment links to my existing approaches?
 2. Can I remove the resources link?

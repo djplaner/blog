@@ -7,17 +7,17 @@ categories:
 date: 2009-02-17 15:00:08+10:00
 next:
   text: Down with facebook - why I'm going to minimise my use
-  url: /blog2/2009/02/17/down-with-facebook-why-im-going-to-minimise-my-use/
+  url: /blog/2009/02/17/down-with-facebook-why-im-going-to-minimise-my-use/
 previous:
   text: Common sense (the things we take for granted) is the big obstacle for innovation
-  url: /blog2/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
+  url: /blog/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
 title: Some ideas for e-learning indicators - releasing half-baked ideas
 type: post
 template: blog-post.html
 ---
 The following is a quick mind dump of ideas that have arisen today about how you might make use of the usage data and content of course websites from course management systems (CMS) to find out interesting things about learning and teaching. i.e. Col is aiming to develop [inidcators](http://beerc.wordpress.com/2008/12/21/more-on-the-indicators/) that might be of use to the participants associated with e-learning - management, support staff, academics, students etc.
 
-This post is an attempt to live up to some of the ideas of Jon Udell that I discussed [in this post](/blog2/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/) about getting half-baked ideas out there. Col and I have talked a bit today and I've also regained some prior thoughts that I'm putting down so we don't forget it.
+This post is an attempt to live up to some of the ideas of Jon Udell that I discussed [in this post](/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/) about getting half-baked ideas out there. Col and I have talked a bit today and I've also regained some prior thoughts that I'm putting down so we don't forget it.
 
 The major benefit of getting these half-baked ideas out there are your thoughts. What do you think? Want to share your half-baked ideas?
 

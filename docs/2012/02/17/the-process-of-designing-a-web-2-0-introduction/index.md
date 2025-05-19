@@ -5,10 +5,10 @@ categories:
 date: 2012-02-17 16:26:18+10:00
 next:
   text: Please help, are there "dating services" for online courses?
-  url: /blog2/2012/02/19/please-help-are-there-dating-services-for-online-courses/
+  url: /blog/2012/02/19/please-help-are-there-dating-services-for-online-courses/
 previous:
   text: But does it have to be a lecture?
-  url: /blog2/2012/02/17/but-does-it-have-to-be-a-lecture/
+  url: /blog/2012/02/17/but-does-it-have-to-be-a-lecture/
 title: The process of designing a "Web 2.0" introduction
 type: post
 template: blog-post.html

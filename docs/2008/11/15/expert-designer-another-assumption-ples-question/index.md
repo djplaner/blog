@@ -5,10 +5,10 @@ categories:
 date: 2008-11-15 09:43:24+10:00
 next:
   text: '"Big" systems - another assumption "PLEs" overthrow'
-  url: /blog2/2008/11/16/big-systems-another-assumption-ples-overthrow/
+  url: /blog/2008/11/16/big-systems-another-assumption-ples-overthrow/
 previous:
   text: 'PLEs@CQUni: Origins, rationale and outcomes so far'
-  url: /blog2/2008/11/15/plescquni-origins-rationale-and-outcomes-so-far/
+  url: /blog/2008/11/15/plescquni-origins-rationale-and-outcomes-so-far/
 title: '"Expert designer: Another assumption PLEs question"'
 type: post
 template: blog-post.html
@@ -116,7 +116,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In a serious of blog posts (starting with this [one](/blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/)) I've been trying to develop a list of fundamental assumptions about learning and teaching at Universities which the various concepts associated with [personal learning environments](http://en.wikipedia.org/wiki/Personal_Learning_Environment) (PLEs) bring into question.
+In a serious of blog posts (starting with this [one](/blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/)) I've been trying to develop a list of fundamental assumptions about learning and teaching at Universities which the various concepts associated with [personal learning environments](http://en.wikipedia.org/wiki/Personal_Learning_Environment) (PLEs) bring into question.
 
 This post attempts to add another.
 

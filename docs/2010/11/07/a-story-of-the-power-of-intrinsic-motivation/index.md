@@ -4,10 +4,10 @@ categories:
 date: 2010-11-07 23:04:25+10:00
 next:
   text: Scaffolding, context-sensitive conglomerations - v2.0
-  url: /blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/
+  url: /blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/
 previous:
   text: Crisis in higher education and limitations that prevent change
-  url: /blog2/2010/11/01/crisis-in-higher-education-and-limitations-that-prevent-change/
+  url: /blog/2010/11/01/crisis-in-higher-education-and-limitations-that-prevent-change/
 title: A story of the power of intrinsic motivation
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ The intrinsic motivation provided by the desire to be a diver, combined with a g
 
 ### The relationship with educational technology
 
-A while ago [I blogged](/blog2/2010/09/16/alan-kay-and-some-reasons-why-the-educational-technology-revolution-hasnt-happened/) about an interview given by Alan Kay. He used the analogy of computers being like musical instruments. The entire discussion around technology has (almost) entirely focused on the instruments and not on helping the teachers become musicians. The aim isn't to give every teacher a piano, we have to give them a love for music.
+A while ago [I blogged](/blog/2010/09/16/alan-kay-and-some-reasons-why-the-educational-technology-revolution-hasnt-happened/) about an interview given by Alan Kay. He used the analogy of computers being like musical instruments. The entire discussion around technology has (almost) entirely focused on the instruments and not on helping the teachers become musicians. The aim isn't to give every teacher a piano, we have to give them a love for music.
 
 I took Kay's argument in a direction that supports my pet peeve. i.e. I think the environment Australian (this may apply more broadly - countries, schools etc - but I'll limit my claim to my where I've had experience) universities create around technology actively prevents academics from becoming musicians, from engaging more heavily with educational technology. Tom Haymes pulls my "Kay post" into a [broader discussion](http://commons.nwc.hccs.edu/newmedia/2010/09/ghost-in-the-machine/), and wants to make another point about why educational technology has failed.
 

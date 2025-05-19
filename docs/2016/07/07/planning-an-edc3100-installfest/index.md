@@ -4,10 +4,10 @@ categories:
 date: 2016-07-07 14:42:48+10:00
 next:
   text: Planning changes to EDC3100 assignment 1
-  url: /blog2/2016/07/13/planning-changes-to-edc3100-assignment-1/
+  url: /blog/2016/07/13/planning-changes-to-edc3100-assignment-1/
 previous:
   text: Any pointers to an old, ancient game?
-  url: /blog2/2016/06/29/any-pointers-to-an-old-ancient-game/
+  url: /blog/2016/06/29/any-pointers-to-an-old-ancient-game/
 title: Planning an EDC3100 "installfest"
 type: post
 template: blog-post.html
@@ -20,7 +20,7 @@ The following documents the planning of an ["installfest"](https://en.wikipedia.
 
 The course encourages/requires that students to modify their learning process in the course to engage in [Jarche's seek/sense/share framework](http://jarche.com/2014/02/the-seek-sense-share-framework/) using a combination of a personal blog, Diigo, and the Feedly feed reader.
 
-This is a radical departure for most students and a challenge for most. It results in a lot of time expended at the start of semester. For example, a past students [shared her experience](/blog2/2016/05/30/early-thoughts-on-s1-2016-offering-of-edc3100/#comment-7657)
+This is a radical departure for most students and a challenge for most. It results in a lot of time expended at the start of semester. For example, a past students [shared her experience](/blog/2016/05/30/early-thoughts-on-s1-2016-offering-of-edc3100/#comment-7657)
 
 I spent a lot of time trying to work out blogging, Diigo and Feedly and to be honest I am still only using the bare minimum with blogging
 
@@ -60,7 +60,7 @@ Course requirements to consider include
     - Which blog?
     - Posts and their model.
     - Feeds
-- Trying to help students develop an appreciation of the value of developing conceptual models of how a technology works, moving beyond [recipe following](/blog2/2016/06/28/the-nature-of-digital-technology-part-2/#recipeFollower).
+- Trying to help students develop an appreciation of the value of developing conceptual models of how a technology works, moving beyond [recipe following](/blog/2016/06/28/the-nature-of-digital-technology-part-2/#recipeFollower).
 - Challenge of explaining how these three tools fit together.
 - What about seek/sense/share, and what that means for how they learn. **Question:** Do the why first? Too abstract.  Leave it until the end? Don't know why and perhaps too late and too tired by everything else.  Perhaps show them how it all looks at the end?
 - Identity

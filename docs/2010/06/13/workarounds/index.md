@@ -9,15 +9,15 @@ categories:
 date: 2010-06-13 09:21:39+10:00
 next:
   text: Academics, course websites and power laws
-  url: /blog2/2010/06/14/academics-course-websites-and-power-laws/
+  url: /blog/2010/06/14/academics-course-websites-and-power-laws/
 previous:
   text: Functional fixedness, analytics, and the LMS
-  url: /blog2/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
+  url: /blog/2010/06/12/functional-fixedness-analytics-the-lms-and-the-v-word/
 title: Workarounds
 type: post
 template: blog-post.html
 ---
-The following is a first draft of the next section of chapter 5 of [my thesis](/blog2/research/phd-thesis/). The aim here is to try and illustrate how the combination of the [agile](/blog2/2010/06/05/emergent-and-agile-development/) and [adopted-focused](/blog2/2010/06/04/adopter-focused-development-and-diffusion-theory/) development process of Webfuse, when combined with the [design of Webfuse](/blog2/2010/06/07/object-orientation-and-design-patterns/) enabled the rapid development of "workarounds" that enabled the system to adapt to changes in the environment and requirements of the systems users.
+The following is a first draft of the next section of chapter 5 of [my thesis](/blog/research/phd-thesis/). The aim here is to try and illustrate how the combination of the [agile](/blog/2010/06/05/emergent-and-agile-development/) and [adopted-focused](/blog/2010/06/04/adopter-focused-development-and-diffusion-theory/) development process of Webfuse, when combined with the [design of Webfuse](/blog/2010/06/07/object-orientation-and-design-patterns/) enabled the rapid development of "workarounds" that enabled the system to adapt to changes in the environment and requirements of the systems users.
 
 ### Workarounds
 

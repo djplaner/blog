@@ -4,11 +4,11 @@ categories:
 date: 2013-11-22 14:37:45+10:00
 next:
   text: '"Learning analytics is about learning - #ascilite"'
-  url: /blog2/2013/12/01/learning-analytics-is-about-learning-ascilite/
+  url: /blog/2013/12/01/learning-analytics-is-about-learning-ascilite/
 previous:
   text: Examining diffusion and sustainability of e-learning strategies thorugh weblog
     data
-  url: /blog2/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
+  url: /blog/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
 title: The external validity problem
 type: post
 template: blog-post.html
@@ -45,9 +45,9 @@ Add to this is the belief amongst some of them that there must be external valid
 
 ### The blame the teacher approach
 
-This discrepancy in outlook can result in the ["blame the teacher" approach](/blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/). Rather than value the difference that means their pet approach doesn't work, most often leaders and managers will blame the teacher. It failed because they didn't try hard enough. Even Maddux & Johnson (2012) lean toward this mistake when the characterise the "average teachers" above as not being committed to success, apathetic and even in opposition.
+This discrepancy in outlook can result in the ["blame the teacher" approach](/blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/). Rather than value the difference that means their pet approach doesn't work, most often leaders and managers will blame the teacher. It failed because they didn't try hard enough. Even Maddux & Johnson (2012) lean toward this mistake when the characterise the "average teachers" above as not being committed to success, apathetic and even in opposition.
 
-The ["blame the teacher" approach](/blog2/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/) goes back at least as far as Pressey in the 1920s and his teaching machines.
+The ["blame the teacher" approach](/blog/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/) goes back at least as far as Pressey in the 1920s and his teaching machines.
 
 ### Built-in assumptions of external validity
 

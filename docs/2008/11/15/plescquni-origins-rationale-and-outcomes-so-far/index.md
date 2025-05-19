@@ -5,10 +5,10 @@ categories:
 date: 2008-11-15 08:34:34+10:00
 next:
   text: '"Expert designer: Another assumption PLEs question"'
-  url: /blog2/2008/11/15/expert-designer-another-assumption-ples-question/
+  url: /blog/2008/11/15/expert-designer-another-assumption-ples-question/
 previous:
   text: PLEs@CQUni - VoiceThread for Research Posters
-  url: /blog2/2008/11/14/plescquni-voicethread-for-research-posters/
+  url: /blog/2008/11/14/plescquni-voicethread-for-research-posters/
 title: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
 type: post
 template: blog-post.html
@@ -21,6 +21,6 @@ The video should be available in a couple of days. Sadly, with various contextua
 
 View SlideShare [presentation](http://www.slideshare.net/davidj/plescquni-origins-rational-outcomes-presentation?type=powerpoint "Origins, Rationale, Outcomes on SlideShare") or [Upload](http://www.slideshare.net/upload?type=powerpoint) your own. (tags: [elearning2.0](http://slideshare.net/tag/elearning2-0) [ple](http://slideshare.net/tag/ple))
 
-Perhaps the only thing that is truly new is an attempt to identify some of the fundamental assumptions about the practice of university learning and teaching which concepts we place under the PLEs bring into serious question. This is a topic I've blogged about and will probably continue adding a few more. You can see the start of that conversation [on this post](/blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/) and should see links to subsequent posts at the end.
+Perhaps the only thing that is truly new is an attempt to identify some of the fundamental assumptions about the practice of university learning and teaching which concepts we place under the PLEs bring into serious question. This is a topic I've blogged about and will probably continue adding a few more. You can see the start of that conversation [on this post](/blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/) and should see links to subsequent posts at the end.
 
 While the ideas within these are not new, the attempt to get them into a coherent whole for use at my host institution is somewhat new. Though perhaps not all that valuable.

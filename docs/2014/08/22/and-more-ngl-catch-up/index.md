@@ -4,10 +4,10 @@ categories:
 date: 2014-08-22 15:52:56+10:00
 next:
   text: Ahh Mendeley and freemium tools
-  url: /blog2/2014/08/23/ahh-mendeley-and-freemium-tools/
+  url: /blog/2014/08/23/ahh-mendeley-and-freemium-tools/
 previous:
   text: A bit more NGL catchup
-  url: /blog2/2014/08/21/a-bit-more-ngl-catchup/
+  url: /blog/2014/08/21/a-bit-more-ngl-catchup/
 title: And more NGL catch up
 type: post
 template: blog-post.html

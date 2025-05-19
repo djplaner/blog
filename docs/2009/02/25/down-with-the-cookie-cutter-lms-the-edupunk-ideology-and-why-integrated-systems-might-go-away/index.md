@@ -10,11 +10,11 @@ date: 2009-02-25 08:45:32+10:00
 next:
   text: Improving university teaching - learning from constructive alignment by *NOT*
     mandating it
-  url: /blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
+  url: /blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/
 previous:
   text: 'Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
     projects?'
-  url: /blog2/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/
+  url: /blog/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/
 title: '"Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
   systems might go away"'
 type: post
@@ -93,12 +93,12 @@ The CMS/LMS model is based on the assumption of scarcity that takes a number of 
 4. Scarcity of support services.  
     The need to have lots of people keeping the technology going, the scarcity of knowledge and ability of staff and students and limited budgets meant that support services were minimised. Especially direct support for learning and teaching and e-learning. The historical absence of technology in learning and teaching has meant that universities have not had specific people tasked with helping support staff and students in using technology for learning and teaching. It's been an on-going battle between the information technology and the learning support folk. The end result, there has been little or no combined support for e-learning.
 5. Scarcity of understanding about how to do e-learning.  
-    To this day, very few people in management roles at university have little or no understanding of the complexities associated with learning and teaching, let alone e-learning which adds technology (another topic they know very little about) to the mix. This scarcity of understanding leads to the adoption of fads and fashions as logical decision making (see some related posts: [the silliness of best practice](/blog2/2009/02/09/on-the-silliness-of-best-practice-or-why-you-shouldnt-just-copy-successful-organisations/), [open source LMS - the latest fad](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/), and [alternatives for e-learning](/blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/)).
+    To this day, very few people in management roles at university have little or no understanding of the complexities associated with learning and teaching, let alone e-learning which adds technology (another topic they know very little about) to the mix. This scarcity of understanding leads to the adoption of fads and fashions as logical decision making (see some related posts: [the silliness of best practice](/blog/2009/02/09/on-the-silliness-of-best-practice-or-why-you-shouldnt-just-copy-successful-organisations/), [open source LMS - the latest fad](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/), and [alternatives for e-learning](/blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/)).
 
 It is my belief that many of these assumptions of scarcity have or will be very soon overthrown. For example,
 
 1. Scarcity of online services.  
-    Completely and utterly overthrown. Any number of projects, mostly Edupunk projects, have shown you can effectively and efficiently support an e-learning course using existing online services. I've been involved in two such projects: [BAM](/blog2/research/bam-blog-aggregation-management/) and [Web 2.0 course sites](/blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/).
+    Completely and utterly overthrown. Any number of projects, mostly Edupunk projects, have shown you can effectively and efficiently support an e-learning course using existing online services. I've been involved in two such projects: [BAM](/blog/research/bam-blog-aggregation-management/) and [Web 2.0 course sites](/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/).
 2. Scarcity of knowledge and ability.  
     Increasingly students and staff arriving at Universities use a broad array of technologies. While they may not be experts with this technology nor familiar with using it for learning, we are in a much better place than 10 years ago. Plus the sheer penetration of this stuff into real life is reducing (not removing) the burden on universities to train staff and students. This trend, may not be sufficient to make a difference today, but I don't see this trend turning around. Eventually we will get to the stage where the a majority of our staff and students are comfortable with technology.
     

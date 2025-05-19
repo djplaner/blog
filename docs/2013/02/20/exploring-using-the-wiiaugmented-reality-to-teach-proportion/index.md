@@ -4,10 +4,10 @@ categories:
 date: 2013-02-20 15:11:03+10:00
 next:
   text: The assessment of learning journals - ideas for BIM
-  url: /blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/
+  url: /blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/
 previous:
   text: The missing perspective(s) on MOOCs?
-  url: /blog2/2013/02/08/the-missing-perspectives-on-moocs/
+  url: /blog/2013/02/08/the-missing-perspectives-on-moocs/
 tags:
 - augmented-reality
 - math

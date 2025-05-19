@@ -8,10 +8,10 @@ categories:
 date: 2015-06-01 10:04:44+10:00
 next:
   text: Analysing Moodle community forum discussions about the Moodle book module
-  url: /blog2/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/
+  url: /blog/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/
 previous:
   text: An overview of the Moodle &quot;open&quot; book project
-  url: /blog2/2015/04/27/an-overview-of-the-moodle-open-book-project/
+  url: /blog/2015/04/27/an-overview-of-the-moodle-open-book-project/
 title: The four paths for implementing learning analytics and enhancing the quality
   of learning and teaching
 type: post
@@ -557,7 +557,7 @@ The following is a place holder for two presentations that are related. They are
 
 1. "Four paths for learning analytics: Moving beyond a management fashion"; and,
     
-    An extension of [Beer et al (2014)](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) (e.g. there are four paths now, rather than three) that's been accepted to [Moodlemoot'AU 2015](https://mootau15.moodlemoot.org).
+    An extension of [Beer et al (2014)](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) (e.g. there are four paths now, rather than three) that's been accepted to [Moodlemoot'AU 2015](https://mootau15.moodlemoot.org).
     
 2. "The four paths for implementing learning analytics and enhancing the quality of learning and teaching";
     
@@ -590,7 +590,7 @@ Had the luxury of an hour for this talk. Perhaps to verbose.
 
 Baskerville and Myers (2009) define a management fashion as "a relatively transitory belief that a certain management technique leads rational management progress" (p. 647). Maddux and Cummings (2004) observe that "education has always been particularly susceptible to short-lived, fashionable movements that come suddenly into vogue, generate brief but intense enthusiasm and optimism, and fall quickly into disrepute and abandonment" (p. 511). Over recent years learning analytics has been looming as one of the more prominent fashionable movements in educational technology. Illustrated by the apparent engagement of every institution and vendor in some project badged with the label learning analytics. If these organisations hope to successfully harness learning analytics to address the challenges facing higher education, then it is important to move beyond the slavish adoption of the latest fashion and aim for more mindful innovation.
 
-Building on an earlier paper [(Beer, Tickner, & Jones, 2014)](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) this session will provide a conceptual framework to aid in moving learning analytics projects beyond mere fashion. The session will identify, characterize, and explain the importance of four possible paths for learning analytics: "do it to" teachers; "do it for" teachers; "do it with" teachers; and, teachers "DIY". Each path will be illustrated with concrete examples of learning analytics projects from a number of universities. Each of these example projects will be analysed using the IRAC framework [(Jones, Beer, & Clark, 2013)](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) and other lenses. That analysis will be used to identify the relative strengths, weaknesses, and requirements of each of the four paths. The analysis will also be used to derive implications for the decision-makers, developers, instructional designers, teachers, and other stakeholders involved in both learning analytics, and learning and teaching.
+Building on an earlier paper [(Beer, Tickner, & Jones, 2014)](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) this session will provide a conceptual framework to aid in moving learning analytics projects beyond mere fashion. The session will identify, characterize, and explain the importance of four possible paths for learning analytics: "do it to" teachers; "do it for" teachers; "do it with" teachers; and, teachers "DIY". Each path will be illustrated with concrete examples of learning analytics projects from a number of universities. Each of these example projects will be analysed using the IRAC framework [(Jones, Beer, & Clark, 2013)](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) and other lenses. That analysis will be used to identify the relative strengths, weaknesses, and requirements of each of the four paths. The analysis will also be used to derive implications for the decision-makers, developers, instructional designers, teachers, and other stakeholders involved in both learning analytics, and learning and teaching.
 
 It will be argued that learning analytics projects that follow only one of the four paths are those most likely to be doomed to mere fashion. It will argue that moving a learning analytics project beyond mere fashion will require a much greater focus on the "do it with" and "DIY" paths. An observation that is particularly troubling when almost all organizational learning analytics projects appear focused primarily on either the "do it to" or "do it for" paths.
 

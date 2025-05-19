@@ -5,10 +5,10 @@ categories:
 date: 2009-03-06 12:30:18+10:00
 next:
   text: '"The biggest flaw in university L&#038;T/e-learning?"'
-  url: /blog2/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/
+  url: /blog/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/
 previous:
   text: The IRIS model of Technology Adoption - neat and incomplete?
-  url: /blog2/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
+  url: /blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
 title: The weak second album (PhD update)
 type: post
 template: blog-post.html
@@ -70,13 +70,13 @@ pingbacks:
       user_id: '0'
     
 ---
-Last week I [started a new Phd tradition](/blog2/2009/02/27/phd-update-1-the-start-of-a-tradition/) - weekly updates. Traditionally the second album for a successful pop group is somewhat less than successful, I feel some connection with that tradition. Hopefully it will be significant motivation for next week.
+Last week I [started a new Phd tradition](/blog/2009/02/27/phd-update-1-the-start-of-a-tradition/) - weekly updates. Traditionally the second album for a successful pop group is somewhat less than successful, I feel some connection with that tradition. Hopefully it will be significant motivation for next week.
 
 ### 27th Feb to 6th Mar
 
 Most of what I've done, and their feels to have been little enough of it, has been to continue reading literature and expanding the information for chapter 2 and the Ps Framework. As well as thesis content that reading has sparked a number of blog posts. Have started similar work with chapter 3 - even crossed one of the "to-dos" off the list.
 
-The highlight of the past week has been the [featuring of the PhD presentation at ANU](/blog2/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/) on the Slideshare home page. That has seen the number of views go from 105 to 1373 in a week.
+The highlight of the past week has been the [featuring of the PhD presentation at ANU](/blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/) on the Slideshare home page. That has seen the number of views go from 105 to 1373 in a week.
 
 I did strike one to-do off the list - getting a copy of Shirley's DESRIST paper.
 

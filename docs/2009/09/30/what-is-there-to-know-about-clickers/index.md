@@ -4,15 +4,15 @@ categories:
 date: 2009-09-30 14:48:17+10:00
 next:
   text: Alternative audience response systems - web, twitter and mobile phone
-  url: /blog2/2009/10/01/alternative-audience-response-systems-web-twitter-and-mobile-phone/
+  url: /blog/2009/10/01/alternative-audience-response-systems-web-twitter-and-mobile-phone/
 previous:
   text: Teaching, academic staff development, mastery and separation
-  url: /blog2/2009/09/30/teaching-academic-staff-development-mastery-and-separation/
+  url: /blog/2009/09/30/teaching-academic-staff-development-mastery-and-separation/
 title: What is there to know about clickers?
 type: post
 template: blog-post.html
 ---
-As part of the [experiment in presentations](/blog2/2009/09/28/small-changes-in-lectures-ustream-votapedia/) I'm planning for later in this month involves the use of alternate types of clickers or [audience response systems](http://en.wikipedia.org/wiki/Audience_response). The aim of this part of the experiment is two-fold:
+As part of the [experiment in presentations](/blog/2009/09/28/small-changes-in-lectures-ustream-votapedia/) I'm planning for later in this month involves the use of alternate types of clickers or [audience response systems](http://en.wikipedia.org/wiki/Audience_response). The aim of this part of the experiment is two-fold:
 
 1. Identify a technology that breaks the limitations of the current clickers provided by publishers.  
     This includes the need for students to purchase them and being based on a technology that means you have to be in the room to participate.

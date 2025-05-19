@@ -5,10 +5,10 @@ categories:
 date: 2011-02-06 21:43:23+10:00
 next:
   text: '"bim2: the greater coordinator conversion"'
-  url: /blog2/2011/02/06/bim2-the-greater-coordinator-conversion/
+  url: /blog/2011/02/06/bim2-the-greater-coordinator-conversion/
 previous:
   text: 'bim2: registering a new blog'
-  url: /blog2/2011/02/06/bim2-registering-a-new-blog/
+  url: /blog/2011/02/06/bim2-registering-a-new-blog/
 title: A little bim2 status and planning
 type: post
 template: blog-post.html
@@ -33,11 +33,11 @@ pingbacks:
       user_id: '0'
     
 ---
-The purpose of this post is to make concrete the status and future plans around bim2. The update of [bim](/blog2/research/bam-blog-aggregation-management/) for Moodle 2.0.
+The purpose of this post is to make concrete the status and future plans around bim2. The update of [bim](/blog/research/bam-blog-aggregation-management/) for Moodle 2.0.
 
 ### Current status
 
-I have missed the initial deadline (31/01/2011) for a working bim2. <excuses>A combination of [the PhD](/blog2/research/phd-thesis/) being more important, [procrastination](http://www.amazon.com/Girl-Dragon-Tattoo-Stieg-Larsson/dp/0307454541/) and a post-thesis malaise.</excuses>
+I have missed the initial deadline (31/01/2011) for a working bim2. <excuses>A combination of [the PhD](/blog/research/phd-thesis/) being more important, [procrastination](http://www.amazon.com/Girl-Dragon-Tattoo-Stieg-Larsson/dp/0307454541/) and a post-thesis malaise.</excuses>
 
 I've just finished the first major stage of bim2 development tonight. The [code for bim2 on github](http://github.com/djplaner/bim2) will
 

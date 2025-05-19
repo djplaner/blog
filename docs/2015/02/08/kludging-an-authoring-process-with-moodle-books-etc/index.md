@@ -5,10 +5,10 @@ categories:
 date: 2015-02-08 13:13:31+10:00
 next:
   text: Framing an open book as situated, social, distributed and protean
-  url: /blog2/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
+  url: /blog/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
 previous:
   text: Metaphors and organisational change
-  url: /blog2/2015/02/06/metaphors-and-organisational-change/
+  url: /blog/2015/02/06/metaphors-and-organisational-change/
 title: Kludging an authoring process with Moodle books (almost)
 type: post
 template: blog-post.html
@@ -64,7 +64,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following outlines an attempt to evolve the authoring "process" I currently use with Moodle books into something a little more useful. It won't be the be all and end all of authoring process, just enough to solve the immediate problem I have. i.e. [bricolage](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset)
+The following outlines an attempt to evolve the authoring "process" I currently use with Moodle books into something a little more useful. It won't be the be all and end all of authoring process, just enough to solve the immediate problem I have. i.e. [bricolage](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset)
 
 I've essentially got this working on my end. The problem is that the Moodle book module has a few flaws in how its import function works which means I can't really use this approach. At least until the book module is fixed. I've fixed most of it on my own install of Moodle. Will have to find out how that might happen.
 
@@ -74,7 +74,7 @@ As it happens @abelardopardo wrote a post yesterday titled [Re-visiting authorin
 
 And I remember @timklapdor doing some work around this broader issue last year. Yep, I even commented on [his post](https://timklapdor.wordpress.com/2014/01/31/an-academic-authoring-environment/). A comment that captures some of my disquiet about institutional approaches to solving the authoring problem (I know my institution will be having another go at this soon).
 
-Meaning I'm not trying to solve it at the institutional level. I'm simply aiming to enhance my current practice a bit. An ["inside out" approach](/blog2/2010/04/25/inside-out-outside-in-or-both/), rather than outside in.
+Meaning I'm not trying to solve it at the institutional level. I'm simply aiming to enhance my current practice a bit. An ["inside out" approach](/blog/2010/04/25/inside-out-outside-in-or-both/), rather than outside in.
 
 ## A better idea
 
@@ -84,7 +84,7 @@ However, the SFW authoring environment doesn't feel quite as natural to what I p
 
 ## Deja vu all over again: why?
 
-I do this with some reservation due to a sense of deja vu. Almost 20 years ago as I prepared my [first totally web-based course](http://web.archive.org/web/19970808204421/http://mc.cqu.edu.au/subjects/85321/) I wrote a [set of scripts](/blog2/publications/solving-some-problems-of-university-education-a-case-study/#authoring) to help with authoring [the web-based study material](http://web.archive.org/web/19970809003757/http://mc.cqu.edu.au/subjects/85321/study-guide/chap1/index.html) (thank you the web archive). Tools and an outcome not unlike the approach I'm working toward below and not that far removed (but far more primitive) than those mentioned above.
+I do this with some reservation due to a sense of deja vu. Almost 20 years ago as I prepared my [first totally web-based course](http://web.archive.org/web/19970808204421/http://mc.cqu.edu.au/subjects/85321/) I wrote a [set of scripts](/blog/publications/solving-some-problems-of-university-education-a-case-study/#authoring) to help with authoring [the web-based study material](http://web.archive.org/web/19970809003757/http://mc.cqu.edu.au/subjects/85321/study-guide/chap1/index.html) (thank you the web archive). Tools and an outcome not unlike the approach I'm working toward below and not that far removed (but far more primitive) than those mentioned above.
 
 Why? Why after 20 years this authoring problem still hasn't been solved? Why do there remain a plethora of disjointed systems and no-one really good solution?
 
@@ -94,7 +94,7 @@ Suggesting that designing or selecting a single system (an outside-in approach) 
 
 ## The problem and context
 
-As outlined in [a previous post](/blog2/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/) and shown in the following screenshot my course uses ["Moodle books"](https://docs.moodle.org/28/en/Book_module). Each Moodle book tends to be focused on a specific task and generally is wrapped around external resources.
+As outlined in [a previous post](/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/) and shown in the following screenshot my course uses ["Moodle books"](https://docs.moodle.org/28/en/Book_module). Each Moodle book tends to be focused on a specific task and generally is wrapped around external resources.
 
 [![Week1](images/16315335515_b91c408c98_m.jpg)](https://www.flickr.com/photos/david_jones/16315335515 "Week1 by David Jones, on Flickr")
 

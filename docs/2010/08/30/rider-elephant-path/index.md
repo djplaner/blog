@@ -7,15 +7,15 @@ categories:
 date: 2010-08-30 09:53:10+10:00
 next:
   text: Situated shared practice, curriculum design and academic development
-  url: /blog2/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/
+  url: /blog/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/
 previous:
   text: Possible uses of academic analytics
-  url: /blog2/2010/08/27/possible-uses-of-academic-analytics/
+  url: /blog/2010/08/27/possible-uses-of-academic-analytics/
 title: The rider, elephant, and shaping the path
 type: post
 template: blog-post.html
 ---
-Listened to [this interview](http://itc.conversationsnetwork.org/shows/detail4527.html) of Chip Heath, a Stanford Professor in Organizational Behaviour about his co-authored book [Switch: How to change things when change is hard](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752). My particular interest in this arises from [figuring out how to](/blog2/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/) improve learning and teaching in universities. From the interview and the podcast this seems to be another one in a line of "popular science" books aimed at making clear what science/research knows about the topic.
+Listened to [this interview](http://itc.conversationsnetwork.org/shows/detail4527.html) of Chip Heath, a Stanford Professor in Organizational Behaviour about his co-authored book [Switch: How to change things when change is hard](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752). My particular interest in this arises from [figuring out how to](/blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/) improve learning and teaching in universities. From the interview and the podcast this seems to be another one in a line of "popular science" books aimed at making clear what science/research knows about the topic.
 
 The basic summary of the findings seems to be. If you wish to make change more likely, then your approach has to (metaphorically):
 
@@ -33,7 +33,7 @@ There are two parts of the discussion that stuck with me as I think they connect
 
 ### Over-rationalisation of experts
 
-The connection between organisational change and losing weight seems increasingly common, it's one [I used](/blog2/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/) and it's mentioned in the interview. One example used in the interview is to show how a major problem with change is that it is driven by experts. Experts who have significantly larger "riders" (i.e. rational/analytical knowledge) of the problem area/target of change than the people they are trying to change. This overly large rider leads to change mechanisms that over complicate things.
+The connection between organisational change and losing weight seems increasingly common, it's one [I used](/blog/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/) and it's mentioned in the interview. One example used in the interview is to show how a major problem with change is that it is driven by experts. Experts who have significantly larger "riders" (i.e. rational/analytical knowledge) of the problem area/target of change than the people they are trying to change. This overly large rider leads to change mechanisms that over complicate things.
 
 The example they use is the recently modified food pyramid from the United States that makes suggestions something like, "For a balanced diet you should consume X tablespoons of Y a day". While this makes sense to the experts, a normal person has no idea of how many tablespoons of Y is in their daily diet. In order to achieve the desired change, the individual needs to develop all sorts of additional knowledge and expertise. Which is just not likely.
 

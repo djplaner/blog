@@ -5,10 +5,10 @@ categories:
 date: 2008-09-09 15:53:14+10:00
 next:
   text: What should a LMS evaluation consider?
-  url: /blog2/2008/09/14/what-should-a-lms-evaluation-consider/
+  url: /blog/2008/09/14/what-should-a-lms-evaluation-consider/
 previous:
   text: Choosing your indicators - why, how and what
-  url: /blog2/2008/08/31/choosing-your-indicators-why-how-and-what/
+  url: /blog/2008/08/31/choosing-your-indicators-why-how-and-what/
 title: REACT 2008 - An exercise in scholarship?
 type: post
 template: blog-post.html

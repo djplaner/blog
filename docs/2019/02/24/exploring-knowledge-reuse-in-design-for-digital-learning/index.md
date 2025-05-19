@@ -6,15 +6,15 @@ categories:
 date: 2019-02-24 15:46:18+10:00
 next:
   text: Testing out h5p interactives and tracking
-  url: /blog2/2019/05/30/testing-out-h5p-interactives-and-tracking/
+  url: /blog/2019/05/30/testing-out-h5p-interactives-and-tracking/
 previous:
   text: "Digital learning templates \u2013 adding context and configuration"
-  url: /blog2/2019/02/10/digital-learning-templates-adding-context-and-configuration/
+  url: /blog/2019/02/10/digital-learning-templates-adding-context-and-configuration/
 title: Exploring knowledge reuse in design for digital learning
 type: post
 template: blog-post.html
 ---
-This post continues an on-going exploration of knowledge reuse in design for digital learning. Previous posts ([one](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) and [two](/blog2/2019/02/10/digital-learning-templates-adding-context-and-configuration/)) started the exploration in the context of developing an assemblage to help designers of web-based learning environments create [a card interface](https://medium.com/designed-thought/the-design-and-morality-of-the-card-interface-1f8349e9a9c0) (see Figure 1). Implementing such a design from scratch requires a diverse collection of knowledge that is beyond most individuals. It is hoped that packaging that knowledge into an assemblage of technologies will allow for that knowledge to be used and reused (within Blackboard 9.1) by more people and subsequently have a positive impact on the learning environment and experience.
+This post continues an on-going exploration of knowledge reuse in design for digital learning. Previous posts ([one](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) and [two](/blog/2019/02/10/digital-learning-templates-adding-context-and-configuration/)) started the exploration in the context of developing an assemblage to help designers of web-based learning environments create [a card interface](https://medium.com/designed-thought/the-design-and-morality-of-the-card-interface-1f8349e9a9c0) (see Figure 1). Implementing such a design from scratch requires a diverse collection of knowledge that is beyond most individuals. It is hoped that packaging that knowledge into an assemblage of technologies will allow for that knowledge to be used and reused (within Blackboard 9.1) by more people and subsequently have a positive impact on the learning environment and experience.
 
 The card inteface is a simple example of this work. The requirements of the card interface are fairly contained and pre-defined. The next challenge is to explore if and how this can be expanded to something more difficult and open-ended.
 

@@ -5,10 +5,10 @@ categories:
 date: 2016-03-29 14:32:58+10:00
 next:
   text: Some simple analysis of student submissions
-  url: /blog2/2016/03/30/some-simple-analysis-of-student-submissions/
+  url: /blog/2016/03/30/some-simple-analysis-of-student-submissions/
 previous:
   text: LATs, OER, TPACK, and GitHub
-  url: /blog2/2016/03/26/lats-oer-tpack-and-github/
+  url: /blog/2016/03/26/lats-oer-tpack-and-github/
 title: Setting up the analysis of student submissions
 type: post
 template: blog-post.html
@@ -57,11 +57,11 @@ pingbacks:
       user_id: '0'
     
 ---
-A couple of weeks ago I wrote [this post](/blog2/2016/03/10/setting-up-an-excel-checklist/) outlining the design of an Excel spreadsheet EDC3100 students were asked to use for their first assignment. They'll be using it to evaluate an ICT-based lesson plan. The assignment is due Tuesday and ~140 have submitted so far. It's time to develop the code that's going to help me analyse the student submissions.
+A couple of weeks ago I wrote [this post](/blog/2016/03/10/setting-up-an-excel-checklist/) outlining the design of an Excel spreadsheet EDC3100 students were asked to use for their first assignment. They'll be using it to evaluate an ICT-based lesson plan. The assignment is due Tuesday and ~140 have submitted so far. It's time to develop the code that's going to help me analyse the student submissions.
 
 ## Aim
 
-The aim is to have a script that will extract each students responses from the spreadsheet they've submitted and place those responses into a database. From there the data can be analysed in a number of ways to help improve the efficiency and effectiveness of the marking process; and, explore some different practices ([the earlier post](/blog2/2016/03/10/setting-up-an-excel-checklist/) has a few random ideas).
+The aim is to have a script that will extract each students responses from the spreadsheet they've submitted and place those responses into a database. From there the data can be analysed in a number of ways to help improve the efficiency and effectiveness of the marking process; and, explore some different practices ([the earlier post](/blog/2016/03/10/setting-up-an-excel-checklist/) has a few random ideas).
 
 The script I'm working on here will need to
 

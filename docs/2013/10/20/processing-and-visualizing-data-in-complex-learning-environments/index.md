@@ -6,10 +6,10 @@ categories:
 date: 2013-10-20 22:25:38+10:00
 next:
   text: Oh Academia
-  url: /blog2/2013/10/31/oh-academia/
+  url: /blog/2013/10/31/oh-academia/
 previous:
   text: 'Creative Commons, Flickr and presentations: A bit of tinkering'
-  url: /blog2/2013/10/20/creative-commons-flickr-and-presentations-a-bit-of-tinkering/
+  url: /blog/2013/10/20/creative-commons-flickr-and-presentations-a-bit-of-tinkering/
 title: Processing and Visualizing Data in Complex Learning Environments
 type: post
 template: blog-post.html
@@ -65,7 +65,7 @@ analytics has "mainly focused on the design of courses and analysis on the macro
 
 Focus is exploration of the physical, digital and human elements within learning environments. Objects have properties, intentions and brings values from choices made during design. Thus objects have "effects on human perception and action".
 
-A distinction of digital technologies is the capacity to change. i.e. it's [protean](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/).
+A distinction of digital technologies is the capacity to change. i.e. it's [protean](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/).
 
 _Aside:_ interesting that the example they give is of customisation of display and not something deeper.
 
@@ -100,7 +100,7 @@ The following figure offers a summary of how patterns are discovered in data. Mo
 
 "Finally, the patterns themselves are represented in some way for communication (Figure 1)." (p. 1405)
 
-I have a small problem with the word "finally" in this quote. Not in the context of this paper, but more broadly in learning analytics. At some level representation is enough, but if you do want to make an improvement to educational design, then action is needed. This the argument we make in the [IRAC framework](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) - the R is "Representation" i.e. communication. The A is affordance for action.
+I have a small problem with the word "finally" in this quote. Not in the context of this paper, but more broadly in learning analytics. At some level representation is enough, but if you do want to make an improvement to educational design, then action is needed. This the argument we make in the [IRAC framework](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) - the R is "Representation" i.e. communication. The A is affordance for action.
 
 Now moving onto more specific descriptions of what they've done
 

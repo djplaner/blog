@@ -11,10 +11,10 @@ categories:
 date: 2009-03-09 23:00:44+10:00
 next:
   text: Getting feeds out of BAM - the first steps
-  url: /blog2/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
+  url: /blog/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
 previous:
   text: The biggest flaw in university L&#038;T/e-learning?
-  url: /blog2/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/
+  url: /blog/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/
 title: '"How to improve L&#038;T and e-learning at universities"'
 type: post
 template: blog-post.html
@@ -111,10 +111,10 @@ pingbacks:
 ---
 Over the last week or so I've been criticising essentially all current practice used to improve learning and teaching. There are probably two main prongs to my current cynicism:
 
-1. [Worse than useless evaluation of learning and teaching](/blog2/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/); and  
+1. [Worse than useless evaluation of learning and teaching](/blog/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/); and  
     Universities are using evaluation methods that are known to be worthless and/or can't get significant numbers of folk to agree as some definition of "good" learning and teaching.
-2. [A focus on what management do](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/).  
-    Where, given the difficulty of getting individual academics (let alone a significant number of them), to change and/or improve their learning and teaching (often because of the problems with point #1), the management/leadership/committee/support hierarchy within universities embark on a bit of [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) and start to focus on what they do, rather than on what the teaching staff do.
+2. [A focus on what management do](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/).  
+    Where, given the difficulty of getting individual academics (let alone a significant number of them), to change and/or improve their learning and teaching (often because of the problems with point #1), the management/leadership/committee/support hierarchy within universities embark on a bit of [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) and start to focus on what they do, rather than on what the teaching staff do.
     
     For example, the university has improved learning and teaching if the academic board has successfully mandated the introduction of generic attributes into all courses, had the staff development center run appropriate staff development events, and introduced "generic attributes" sections within course outlines. They've done lots of things, hence success. Regardless of what the academics are really doing and what impacts it is having on the quality of learning and teaching (i.e. see point #1).
     
@@ -135,7 +135,7 @@ The principles I'm going to suggest are drawn from:
 
 #### Reflective alignment
 
-In proposing [reflective alignment](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) I believe it is possible to make a difference. But only if
+In proposing [reflective alignment](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) I believe it is possible to make a difference. But only if
 
 > The focus is on what the teacher does to design and deliver their course. The aim is to ensure that the learning and teaching system, its processes, rewards and constraints are aiming to ensure that the teacher is engaging in those activities which ensure quality learning and teaching. In a way that makes sense for the teacher, their course and their students.
 
@@ -143,7 +143,7 @@ The last sentence is important. It what make sense for the teacher. It is not wh
 
 #### Adopter-based development
 
-This has strong connections with the idea of adopted-based development processes, which are talked about in this [paper](/blog2/publications/a-model-for-the-design-of-web-based-systems-that-supports-adoption-appropriation-and-evolution/) (Jones and Lynch, 1999)
+This has strong connections with the idea of adopted-based development processes, which are talked about in this [paper](/blog/publications/a-model-for-the-design-of-web-based-systems-that-supports-adoption-appropriation-and-evolution/) (Jones and Lynch, 1999)
 
 > places additional emphasis on being adopter-based and concentrating on the needs of the individuals and the social system in which the final system will be used.
 
@@ -151,7 +151,7 @@ Forget about the literature, forget about the latest fad (mostly) and concentrat
 
 #### How do you decide?
 
-In [this paper](/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/) (Jones, Jamieson and Clark, 2003) we drew on Rogers' diffusion theory (Rogers, 1995) to develop a model that might help folk make these sorts of decisions. The idea was to evaluate a potential innovation against the model in order to
+In [this paper](/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/) (Jones, Jamieson and Clark, 2003) we drew on Rogers' diffusion theory (Rogers, 1995) to develop a model that might help folk make these sorts of decisions. The idea was to evaluate a potential innovation against the model in order to
 
 > increase their awareness of potential implementation issues, estimate the likelihood of reinvention, and predict the amount and type of effort required to achieve successful implementation of specific ... innovations.
 
@@ -163,7 +163,7 @@ This model can be misused. It can be used as an attempt to encourage adoption of
 
 #### Emergent/ateleological design
 
-Traditional developer-based approaches to information systems are based on a broadly accepted and unquestioned set of principles that are completely and utterly inappropriate for learning and teaching in universities. Since at least [this paper](/blog2/publications/emergent-development-and-the-virtual-university/) (Jones, 2000) I've been arguing for different design processes based on emergent development (Truex, Baskerville and Klein, 1999) and ateleological design (Introna, 1996).
+Traditional developer-based approaches to information systems are based on a broadly accepted and unquestioned set of principles that are completely and utterly inappropriate for learning and teaching in universities. Since at least [this paper](/blog/publications/emergent-development-and-the-virtual-university/) (Jones, 2000) I've been arguing for different design processes based on emergent development (Truex, Baskerville and Klein, 1999) and ateleological design (Introna, 1996).
 
 Truex, Baskerville and Klein (1999) suggest the following principles for emergent development:
 
@@ -173,7 +173,7 @@ Truex, Baskerville and Klein (1999) suggest the following principles for emergen
 - Continuous redevelopment; and
 - The ability to adapt.
 
-They are expanded in more detail in the [paper](/blog2/publications/emergent-development-and-the-virtual-university/). There have been many similar discussions about processes. [This paper](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) talks about Introna's ateleological design process and its principles. Kurtz and Snowden (2007) talk about idealistics versus naturalistic approaches that are summarised in the following table.
+They are expanded in more detail in the [paper](/blog/publications/emergent-development-and-the-virtual-university/). There have been many similar discussions about processes. [This paper](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) talks about Introna's ateleological design process and its principles. Kurtz and Snowden (2007) talk about idealistics versus naturalistic approaches that are summarised in the following table.
 
 | Idealistic | Naturalistic |
 | --- | --- |
@@ -189,7 +189,7 @@ Most software packages are severely constraining. I'm thinking mostly of enterpr
 
 Truex et al (1999) make this point about systems and include "ability to adapt" as a prime requirement for emergent development. The software/systems in play have to be adaptable. As many people as possible, as quickly as possible, need to be able to modify the software to enable new functionality as the need becomes apparent. The technology has to enable, in Kurtz and Snowden's (2007) words, "emergent meaning at the ground level". It also to allow "diagnosis and intervention to be intertwined with practice".
 
-That is the software has to [be protean](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/). As much as possible the users of the system need to be able to play with the system, to try new things and where appropriate there have to be developers who can help and enable these things to happen more quickly. This implies that the software has to enable and support discussion, amongst many different people, to occur. To help share perspectives and ideas. The mixing of ideas help generate new and interesting ideas for change to the software.
+That is the software has to [be protean](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/). As much as possible the users of the system need to be able to play with the system, to try new things and where appropriate there have to be developers who can help and enable these things to happen more quickly. This implies that the software has to enable and support discussion, amongst many different people, to occur. To help share perspectives and ideas. The mixing of ideas help generate new and interesting ideas for change to the software.
 
 #### Cynefin framework
 
@@ -208,7 +208,7 @@ So to quickly finish this off, some off the cuff ideas for the [indicators proje
 - Use a process and/or part of the product that encourages a lot of people talking about/contributing to ideas about how to improve what information/services the indicators provides.
 - Adopt the "open source" development ethos "release early, release often"
 - Perhaps try and create a community of academics around the project that are interested and want to use the services.
-- Pick people that are likely to be good change agents. Keep in mind [Moore's chasm and Geohegan's identification of the technologists alliance](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/).
+- Pick people that are likely to be good change agents. Keep in mind [Moore's chasm and Geohegan's identification of the technologists alliance](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/).
 
 ### References
 

@@ -4,10 +4,10 @@ categories:
 date: 2011-09-25 10:39:44+10:00
 next:
   text: Social media in higher education - to read
-  url: /blog2/2011/09/26/4109/
+  url: /blog/2011/09/26/4109/
 previous:
   text: Can e-learning tools be more like Plants vs Zombies?
-  url: /blog2/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/
+  url: /blog/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/
 title: A hassle map for Year 10 mathematics? You can't focus on the negatives?
 type: post
 template: blog-post.html
@@ -48,7 +48,7 @@ http://twitter.com/#!/susangautsch/status/116640470842613760
 
 ### Year 10 Mathematics
 
-In a week and a bit I start my teaching internship. 6 weeks of 5 days a week at school responsible for 3 classes/lines. Essentially a 50% teacher's load. One of the classes I'll be teaching is Year 10 Core Mathematics. A description of [cohort in this class](/blog2/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/#cohort) is offered in an earlier post. It's by no means the worst example of high school mathematics I've seen, but there' always room for improvement.
+In a week and a bit I start my teaching internship. 6 weeks of 5 days a week at school responsible for 3 classes/lines. Essentially a 50% teacher's load. One of the classes I'll be teaching is Year 10 Core Mathematics. A description of [cohort in this class](/blog/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/#cohort) is offered in an earlier post. It's by no means the worst example of high school mathematics I've seen, but there' always room for improvement.
 
 One of the improvements I wanted to try was to give the students a bit more of a say in how the class runs. At least as much as I can within the constraints of the context. In part because I want to build the relationships a bit more, in part because I'd like the students to recognise some of the constraints and to take some ownership of either developing some solutions or figuring out how to live within those constraints.
 

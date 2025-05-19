@@ -7,10 +7,10 @@ categories:
 date: 2009-10-16 09:41:12+10:00
 next:
   text: Choosing a research publication outlet
-  url: /blog2/2009/10/19/choosing-a-publication-outlet/
+  url: /blog/2009/10/19/choosing-a-publication-outlet/
 previous:
   text: Thoughts about the next steps for the indicators project
-  url: /blog2/2009/10/15/thoughts-about-the-next-steps-for-the-indicators-project/
+  url: /blog/2009/10/15/thoughts-about-the-next-steps-for-the-indicators-project/
 title: '"Podcast for presentations at the PLEs &#038; PLNs symposium"'
 type: post
 template: blog-post.html

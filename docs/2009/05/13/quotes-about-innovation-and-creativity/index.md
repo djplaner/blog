@@ -5,10 +5,10 @@ categories:
 date: 2009-05-13 13:12:00+10:00
 next:
   text: Some initial thoughts on e-learning and innovation
-  url: /blog2/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
+  url: /blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
 previous:
   text: Everything old is new again - universities should be more business like
-  url: /blog2/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/
+  url: /blog/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/
 title: Quotes about innovation and creativity
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Theoretically, I'm in the process of starting [a new job](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ that is focused on encouraging e-learning and innovation within a university context. I'm still reading some of the different literature but the following quotes resonate with me around this position and how it is likely to evolve.
+Theoretically, I'm in the process of starting [a new job](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ that is focused on encouraging e-learning and innovation within a university context. I'm still reading some of the different literature but the following quotes resonate with me around this position and how it is likely to evolve.
 
 ### The purpose and place of "idea" departments
 
@@ -100,7 +100,7 @@ Of course, management is always important.
 
 ### Open and closed
 
-A quote from John Cleese on open and close modes, I see some connections with the Model 1 and Model 2 behaviours [observed by Argyris](/blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/).
+A quote from John Cleese on open and close modes, I see some connections with the Model 1 and Model 2 behaviours [observed by Argyris](/blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/).
 
 > We all operate in two contrasting modes, which might be called open and closed. The open mode is more relaxed, more receptive, more exploratory, more democratic, more playful and more humorous. The closed mode is the tighter, more rigid, more hierarchical, more tunnel-visioned. Most people, unfortunately spend most of their time in the closed mode. Not that the closed mode cannot be helpful. If you are leaping a ravine, the moment of takeoff is a bad time for considering alternative strategies. When you charge the enemy machine-gun post, don't waste energy trying to see the funny side of it. Do it in the "closed" mode. But the moment the action is over, try to return to the "open" mode—to open your mind again to all the feedback from our action that enables us to tell whether the action has been successful, or whether further action is need to improve on what we have done. In other words, we must return to the open mode, because in that mode we are the most aware, most receptive, most creative, and therefore at our most intelligent.
 

@@ -8,10 +8,10 @@ categories:
 date: 2009-08-18 15:48:30+10:00
 next:
   text: The product component of the Ps Framework
-  url: /blog2/2009/08/19/the-product-component-of-the-ps-framework/
+  url: /blog/2009/08/19/the-product-component-of-the-ps-framework/
 previous:
   text: Herding cats, losing weight and how to improve learning and teaching
-  url: /blog2/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/
+  url: /blog/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/
 title: Nudging as paternalism
 type: post
 template: blog-post.html
@@ -45,9 +45,9 @@ While I wasn't aware of the phrase nudge theory, the descriptions of nudge theor
 
 > nudge theory finds individuals often behave in ways that do not conform to the conventional view of the rational economic man
 
-This connects with some of my long term thoughts, [recent reading](/blog2/2009/07/15/predictably-irrational-implications-for-lt-at-universities/) and [recent writings](/blog2/2009/08/16/people-cognition-rationality-and-e-learning/).
+This connects with some of my long term thoughts, [recent reading](/blog/2009/07/15/predictably-irrational-implications-for-lt-at-universities/) and [recent writings](/blog/2009/08/16/people-cognition-rationality-and-e-learning/).
 
-This morning, before lunch and before I read the paper, I [posted the first public thoughts](/blog2/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/) on a presentation I'm working on that seems to connect here. The presentation is going to argue that most approaches to improving L&T at universities assume techno-rational approaches (herding cats) - or at the least assume that people are rational - and this is why they continue to fail. I was going to argue that better approaches would be based on an environment that encourages small, on-going improvements in practice (weight loss). An [approach informed by complex adaptive systems](/blog2/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/) and the observation that people aren't rational (it's still a work in progress.
+This morning, before lunch and before I read the paper, I [posted the first public thoughts](/blog/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/) on a presentation I'm working on that seems to connect here. The presentation is going to argue that most approaches to improving L&T at universities assume techno-rational approaches (herding cats) - or at the least assume that people are rational - and this is why they continue to fail. I was going to argue that better approaches would be based on an environment that encourages small, on-going improvements in practice (weight loss). An [approach informed by complex adaptive systems](/blog/2009/08/06/loosing-weight-improving-learning-and-teaching-and-complex-systems/) and the observation that people aren't rational (it's still a work in progress.
 
 The idea that this approach could be interpreted as paternalism is somewhat troubling.
 
@@ -65,7 +65,7 @@ Does my initial concern make me a rigid high-stakes tester or a unschooler?
 
 ### Why am I troubled? Should I be troubled?
 
-One of contentions is that much of the current attempts at improving learning and teaching within universities and how they are implemented are very paternalistic. I phrase it as [level 2 approaches](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels) to learning and teaching. It is my belief that these approaches get in the way and actively reduce the chance of improving learning and teaching.
+One of contentions is that much of the current attempts at improving learning and teaching within universities and how they are implemented are very paternalistic. I phrase it as [level 2 approaches](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels) to learning and teaching. It is my belief that these approaches get in the way and actively reduce the chance of improving learning and teaching.
 
 This is a flaw I'm seeking to address. So any chance that I'm also be paternalistic, strikes a nerve.
 
@@ -77,11 +77,11 @@ The [Institute of Public Affairs](http://www.ipa.org.au/) bills itself as "Austr
 
 Also, I believe that Professor [Michael Sandel's](http://en.wikipedia.org/wiki/Michael_Sandel) [Reith Lectures for 2009](http://www.bbc.co.uk/programmes/b00lb6bt) titled "A new politics of the common good" do a pretty good job - from my perspective - of arguing that the application of only free market principles to education has some flaws. In fact, I'm pretty happy that this perspective provides a reasonable arguent against the "unschoolers".
 
-At the other end of the spectrum - "the rigid high-stakes tester" - in my context equates to the top-down managerialists and the [the technologists alliance](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/#alliance). The folk who think there is a single idea (or maybe a few) that will radically improve L&T and that if only we can get those silly academics to adopt this approach, then everything will be alright. Just about anyone from a systems background (Senge etc) fit into this group as well. As long as we all have the same values, we'll be okay.
+At the other end of the spectrum - "the rigid high-stakes tester" - in my context equates to the top-down managerialists and the [the technologists alliance](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/#alliance). The folk who think there is a single idea (or maybe a few) that will radically improve L&T and that if only we can get those silly academics to adopt this approach, then everything will be alright. Just about anyone from a systems background (Senge etc) fit into this group as well. As long as we all have the same values, we'll be okay.
 
 To me this people are strong paternalists. They've come up with the solution. We will do as we're told. Only we don't. We're irrational, we're different and we have agency. We will fight back. So the whole thing disolves into tension and conflict.
 
-While the underpinnings of the [nascent approach](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#alignment) I'm trying to develop and communicate draw on aspects of nudge theory (I have to read more to find out just exactly how much) it's not the core. The core of the idea is that the environment that support L&T at a university has to have appropriate features that continue and enable academics to reflect and change their practice. And that this approach should be based on what we know about human cognition and rationality, i.e. that we're not.
+While the underpinnings of the [nascent approach](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#alignment) I'm trying to develop and communicate draw on aspects of nudge theory (I have to read more to find out just exactly how much) it's not the core. The core of the idea is that the environment that support L&T at a university has to have appropriate features that continue and enable academics to reflect and change their practice. And that this approach should be based on what we know about human cognition and rationality, i.e. that we're not.
 
 So, rather than applying "nudge theory" to encourage academics to adopt "good approaches to L&T" that I, or anyone else, has identified. The aim is to apply aspects of nudge theory to encourage academics to reflect and support them in identifying improvements to L&T that work for them in a sustainable way.
 

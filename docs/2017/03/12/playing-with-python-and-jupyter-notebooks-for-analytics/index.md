@@ -4,10 +4,10 @@ categories:
 date: 2017-03-12 15:37:22+10:00
 next:
   text: '"Jupyter notebook indicators platform: Baby step #1 - Finding an ORM"'
-  url: /blog2/2017/03/12/jupyter-notebook-indicators-platform-baby-step-1-finding-an-orm/
+  url: /blog/2017/03/12/jupyter-notebook-indicators-platform-baby-step-1-finding-an-orm/
 previous:
   text: Reflecting on playing with learning analytics
-  url: /blog2/2017/03/10/reflecting-on-playing-with-analytics/
+  url: /blog/2017/03/10/reflecting-on-playing-with-analytics/
 title: Playing with Python and Jupyter notebooks for analytics
 type: post
 template: blog-post.html

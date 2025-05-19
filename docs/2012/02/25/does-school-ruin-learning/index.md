@@ -5,10 +5,10 @@ categories:
 date: 2012-02-25 16:48:41+10:00
 next:
   text: Defining the digital age and its influence on work integrated learning
-  url: /blog2/2012/02/26/defining-the-digital-age-and-its-influence-on-work-integrated-learning/
+  url: /blog/2012/02/26/defining-the-digital-age-and-its-influence-on-work-integrated-learning/
 previous:
   text: 'One Moodle course design: approach and trade-offs'
-  url: /blog2/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/
+  url: /blog/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/
 title: Does school ruin learning?
 type: post
 template: blog-post.html

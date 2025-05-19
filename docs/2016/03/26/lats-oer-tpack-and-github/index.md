@@ -6,10 +6,10 @@ categories:
 date: 2016-03-26 03:23:14+10:00
 next:
   text: Setting up the analysis of student submissions
-  url: /blog2/2016/03/29/setting-up-the-analysis-of-student-submissions/
+  url: /blog/2016/03/29/setting-up-the-analysis-of-student-submissions/
 previous:
   text: 'SITE&#039;2016: LATs, OER, and SPLOTs?'
-  url: /blog2/2016/03/26/site2016-lats-oer-and-splots/
+  url: /blog/2016/03/26/site2016-lats-oer-and-splots/
 title: LATs, OER, TPACK, and GitHub
 type: post
 template: blog-post.html
@@ -34,7 +34,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is an attempt to think about the inter-connections between [the paper "Open Educational Resources (OERs) for TPACK Development"](https://www.academicexperts.org/conf/site/2016/papers/49080/) presented by Mark Hofer and Judi Harris at SITE'2016 and [the Moodle OpenBook project](/blog2/the-moodle-open-book-module-project/) and my own teaching.
+The following is an attempt to think about the inter-connections between [the paper "Open Educational Resources (OERs) for TPACK Development"](https://www.academicexperts.org/conf/site/2016/papers/49080/) presented by Mark Hofer and Judi Harris at SITE'2016 and [the Moodle OpenBook project](/blog/the-moodle-open-book-module-project/) and my own teaching.
 
 First, is a description of what the open courses they've developed and what the students do. Second, is some early thinking of how this might link to EDC3100 and the Moodle open book project.
 
@@ -69,7 +69,7 @@ In EDC3100 we cover similar ground and the content of these short courses could 
 
 This is why we have released the courses in a modularized (easier-to-modify) format, along with an invitation to mix, remix, and otherwise customize the materials according to the needs of different groups of teacher-learners and the instructional preferences of their professors. The Creative Commons BY-SA license under which these short courses were released stipulates only that the original authors (and later contributors) are attributed in all succeeding derivatives of the work, and that those derivatives are released under the same BY-SA license
 
-My course is implemented within Moodle. It uses the Moodle book module to host the content. The [Moodle open book project](/blog2/the-moodle-open-book-module-project/) has connected the Moodle book module with [Github](https://github.com/). The aim being to make it easier to release content in the Moodle book out to broader audiences. To enable the sharing and reuse of OERs, just like these courses.
+My course is implemented within Moodle. It uses the Moodle book module to host the content. The [Moodle open book project](/blog/the-moodle-open-book-module-project/) has connected the Moodle book module with [Github](https://github.com/). The aim being to make it easier to release content in the Moodle book out to broader audiences. To enable the sharing and reuse of OERs, just like these courses.
 
 While the technical side of the project is basically finished (it could use some more polishing before official release) there's a large gulf between having a tool that shared Moodle book content via github and actually using it to share and reuse OERs, especially OERs that are actually used in more than one context. The LAT short courses appear to provide a perfect test bed for this.
 

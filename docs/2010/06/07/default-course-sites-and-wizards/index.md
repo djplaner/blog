@@ -9,10 +9,10 @@ categories:
 date: 2010-06-07 16:29:19+10:00
 next:
   text: Should academics manually create course websites?
-  url: /blog2/2010/06/07/should-academics-manually-create-course-websites/
+  url: /blog/2010/06/07/should-academics-manually-create-course-websites/
 previous:
   text: The confusion of small and big changes
-  url: /blog2/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
+  url: /blog/2010/06/07/the-confusion-of-small-and-big-changes-input-versus-output-and-types-of-systems/
 title: Default course sites and wizards
 type: post
 template: blog-post.html
@@ -96,9 +96,9 @@ pingbacks:
       user_id: '0'
     
 ---
-There is now [a version 2.0](/blog2/2010/06/25/default-course-sites-and-wizards-version-2-0/) of this section.
+There is now [a version 2.0](/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/) of this section.
 
-The following is the next section from chapter 5 of [my thesis](/blog2/research/phd-thesis/). This one describes attempts made to provided a functionality within Webfuse that improved the quality of the default course websites, without increasing workload for academic staff and while retaining some elements of autonomy.
+The following is the next section from chapter 5 of [my thesis](/blog/research/phd-thesis/). This one describes attempts made to provided a functionality within Webfuse that improved the quality of the default course websites, without increasing workload for academic staff and while retaining some elements of autonomy.
 
 Sadly (to me anyway) the institution in which this work evolved has gone backwards.
 

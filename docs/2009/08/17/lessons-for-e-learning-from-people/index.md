@@ -9,10 +9,10 @@ categories:
 date: 2009-08-17 13:23:34+10:00
 next:
   text: Herding cats, losing weight and how to improve learning and teaching
-  url: /blog2/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/
+  url: /blog/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/
 previous:
   text: Moodle, curriculum mapping, task fit and task corruption
-  url: /blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
+  url: /blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/
 title: Lessons for e-learning from people
 type: post
 template: blog-post.html
@@ -37,13 +37,13 @@ pingbacks:
       user_id: '0'
     
 ---
-This is the last section from the People component of chapter 2 of [my thesis](/blog2/research/phd-thesis/). It is an attempt to derive some lessons from the previous sections that are relevant to the practice of e-learning.
+This is the last section from the People component of chapter 2 of [my thesis](/blog/research/phd-thesis/). It is an attempt to derive some lessons from the previous sections that are relevant to the practice of e-learning.
 
-This leaves me with two components of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) to go and Chapter 2 is complete - at least to first draft stage. The two remaining are Product and Pedagogy. I believe both should be fairly quick ones to write, hopefully I'm right.
+This leaves me with two components of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) to go and Chapter 2 is complete - at least to first draft stage. The two remaining are Product and Pedagogy. I believe both should be fairly quick ones to write, hopefully I'm right.
 
 ### Lessons for e-learning from People
 
-The previous sections have examined various aspects associated with the People involved with e-learning. This has included descriptions of the characteristics of the people ([Students](/blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/), [Academic Staff](/blog2/2009/07/07/academics-the-next-part-of-the-people-section/), [Leaders and Managers](/blog2/2009/07/17/leaders-and-managers-the-next-bit-of-people/) and [Support Staff](/blog2/2009/08/09/support-staff-continuing-with-the-people-component/)) involved with e-learning (Section 2.1.1); the [chasm](/blog2/2009/08/09/the-chasm/) (Section 2.1.2) that exists between the visionaries and the pragmatists; and [some notions of rationality](/blog2/2009/08/16/people-cognition-rationality-and-e-learning/) (Section 2.1.3). This section draws on those descriptions to identify some potential lessons for the practice of e-learning within higher education.
+The previous sections have examined various aspects associated with the People involved with e-learning. This has included descriptions of the characteristics of the people ([Students](/blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/), [Academic Staff](/blog/2009/07/07/academics-the-next-part-of-the-people-section/), [Leaders and Managers](/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/) and [Support Staff](/blog/2009/08/09/support-staff-continuing-with-the-people-component/)) involved with e-learning (Section 2.1.1); the [chasm](/blog/2009/08/09/the-chasm/) (Section 2.1.2) that exists between the visionaries and the pragmatists; and [some notions of rationality](/blog/2009/08/16/people-cognition-rationality-and-e-learning/) (Section 2.1.3). This section draws on those descriptions to identify some potential lessons for the practice of e-learning within higher education.
 
 #### People mean variety
 

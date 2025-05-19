@@ -2,10 +2,10 @@
 date: 2009-08-20 09:18:07+10:00
 next:
   text: '"BIM#5: Getting a prototype BIM going"'
-  url: /blog2/2009/08/20/bim5-getting-a-prototype-bim-going/
+  url: /blog/2009/08/20/bim5-getting-a-prototype-bim-going/
 previous:
   text: The product component of the Ps Framework
-  url: /blog2/2009/08/19/the-product-component-of-the-ps-framework/
+  url: /blog/2009/08/19/the-product-component-of-the-ps-framework/
 title: '"eLearning and Innovation Specialist report #1: 4-20 August"'
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
 ---
 One of the problems within universities with the types of role I've been performing in the last couple of years is the out-of-sight, out-of-mind, problem. As a L&T "support" person the folk in the faculties, especially those in senior management, aren't always aware of exactly what it is you're doing. At the same time, they are aware of all sorts of problems they are seeing with L&T, have specific ideas how those should be addressed and don't see folk like me implementing those ideas. Consequently, they don't see any value in what we do.
 
-There are some aspects of that problem that you can't do anything about. This post is the first in a new tradition and is intended to address one part of the problem. It is questionable as to how well this approach will address the problem, but better to do something than nothing. The idea is that I'll report on this blog what I've been doing for the last little bit in the position. In part, this will be used to inform my supervisor and over time I'll promote these posts as way people can track what I'm doing. In part, this type of work fits with a number of [my position's](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ accountabilities.
+There are some aspects of that problem that you can't do anything about. This post is the first in a new tradition and is intended to address one part of the problem. It is questionable as to how well this approach will address the problem, but better to do something than nothing. The idea is that I'll report on this blog what I've been doing for the last little bit in the position. In part, this will be used to inform my supervisor and over time I'll promote these posts as way people can track what I'm doing. In part, this type of work fits with a number of [my position's](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ accountabilities.
 
 More importantly, I'll point out that it is a way for people to critique and make suggestions. It will also prompt me to reflect a bit on what I've done and what I might've done.
 
@@ -55,7 +55,7 @@ Some of the issues, barriers or hurdles around this work have included:
 
 #### Working on BIM
 
-This is currently the major task in my current work role. BIM stands for BAM Into Moodle and is taking an existing research project/tool from CQU's existing LMS into its new one (Moodle). I've spent the best part of 3 or 4 days on this project in the current time period. The work during this period on BIM is summarised in a series of 4 posts: [1](/blog2/2009/08/11/bim-1-working-on-the-prototype/), [2](/blog2/2009/08/11/bim2-starting-the-module/), [3](/blog2/2009/08/13/bim-3-getting-the-module-work-making-some-progress/), and [4](/blog2/2009/08/17/bim-4-re-jigging-how-bim-works/).
+This is currently the major task in my current work role. BIM stands for BAM Into Moodle and is taking an existing research project/tool from CQU's existing LMS into its new one (Moodle). I've spent the best part of 3 or 4 days on this project in the current time period. The work during this period on BIM is summarised in a series of 4 posts: [1](/blog/2009/08/11/bim-1-working-on-the-prototype/), [2](/blog/2009/08/11/bim2-starting-the-module/), [3](/blog/2009/08/13/bim-3-getting-the-module-work-making-some-progress/), and [4](/blog/2009/08/17/bim-4-re-jigging-how-bim-works/).
 
 The current status on BIM is that it is now much clearer how this will work within the Moodle model and the first steps have been made in implementation.
 
@@ -63,7 +63,7 @@ The current status on BIM is that it is now much clearer how this will work with
 
 A few weeks ago I was approached by folk from CQUni's Psychology school with a need around curriculum mapping. The aim was how to improve the availability and use of curriculum mapping information around the Psychology program. Originally an L&T grant was envisioned, but increasingly this appears to be something better addressed at an organisational level.
 
-Some additional explanation, examination of some related factors and one suggested way forward is outlined on [this blog post](/blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/).
+Some additional explanation, examination of some related factors and one suggested way forward is outlined on [this blog post](/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/).
 
 #### Quality folk
 
@@ -75,13 +75,13 @@ I've discussed potential and existing research projects with a number of CDDU st
 
 #### Presentation
 
-I have been working on a presentation to be given under the auspices of the L&T research centre at CQU. Initial thinking about the presentation is outlined in a number of blog posts, including [this one](/blog2/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/).
+I have been working on a presentation to be given under the auspices of the L&T research centre at CQU. Initial thinking about the presentation is outlined in a number of blog posts, including [this one](/blog/2009/08/18/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching/).
 
 The presentation will aim to give some theoretical underpinnings to how I approach my current role and identify potential ways forward for CQU in terms of improving L&T.
 
 #### Working on the PhD
 
-Progress on the PhD is regularly updated on the blog - the most recent is [here](/blog2/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/)
+Progress on the PhD is regularly updated on the blog - the most recent is [here](/blog/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/)
 
 ### Work to be done
 

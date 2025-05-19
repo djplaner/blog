@@ -4,10 +4,10 @@ categories:
 date: 2017-09-25 15:22:13+10:00
 next:
   text: Exploring options for teacher DIY learning analytics
-  url: /blog2/2017/10/07/exploring-options-for-teacher-diy-learning-analytics/
+  url: /blog/2017/10/07/exploring-options-for-teacher-diy-learning-analytics/
 previous:
   text: Further developing research workflow
-  url: /blog2/2017/09/23/further-developing-research-workflow/
+  url: /blog/2017/09/23/further-developing-research-workflow/
 title: '"Learning, learning analytics and multiple levels: The problem of starvation"'
 type: post
 template: blog-post.html

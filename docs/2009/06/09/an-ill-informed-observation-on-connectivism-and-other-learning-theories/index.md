@@ -2,10 +2,10 @@
 date: 2009-06-09 15:26:09+10:00
 next:
   text: Quality, compliance and task corruption
-  url: /blog2/2009/06/10/quality-compliance-and-task-corruption/
+  url: /blog/2009/06/10/quality-compliance-and-task-corruption/
 previous:
   text: You only get this type of education in class - mythic attributes of the lecture
-  url: /blog2/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
+  url: /blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
 title: An ill-informed observation on connectivism and other learning theories
 type: post
 template: blog-post.html
@@ -140,7 +140,7 @@ A [friend and colleague](http://damosworld.wordpress.com/about-damien/) is engag
 
 Damien and I talked briefly about this today and I let fly with an ill-informed opinion. I thought I'd share it here and hope that someone will point out the errors in my assumptions. I've been aware of the connectivism stuff for a while but have not taken the time to fully understand it. One of my tasks post the PhD thesis. I am, however, a potential fan of the approach as the following may indicate.
 
-**Disclaimer:** This is a complex question and this little post will not cover everything (not the least because I'm somewhat clueless in the topic). In fact, I'm focusing on just one point. This post is perhaps the best example in my blog of me [sharing a half-baked idea](/blog2/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/).
+**Disclaimer:** This is a complex question and this little post will not cover everything (not the least because I'm somewhat clueless in the topic). In fact, I'm focusing on just one point. This post is perhaps the best example in my blog of me [sharing a half-baked idea](/blog/2009/02/15/getting-half-baked-ideas-out-there-improving-research-and-the-academy/).
 
 Fire away!
 

@@ -7,10 +7,10 @@ categories:
 date: 2013-04-08 22:03:33+10:00
 next:
   text: Application or targeted learning analytics - another scope?
-  url: /blog2/2013/04/10/application-or-targeted-learning-analytics-another-scope/
+  url: /blog/2013/04/10/application-or-targeted-learning-analytics-another-scope/
 previous:
   text: An ad hoc exploration ethnographic research
-  url: /blog2/2013/04/07/an-ad-hoc-exploration-ethnographic-research/
+  url: /blog/2013/04/07/an-ad-hoc-exploration-ethnographic-research/
 title: More evidence of the limits of student technical knowledge
 type: post
 template: blog-post.html
@@ -131,7 +131,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is just a "diary entry" recording a bit more evidence for the story that our students are [neither digital natives nor digitally literate](/blog2/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/). It may or may not become useful in future research/writing. It's not meant to be insightful, just a record of an experience.
+The following is just a "diary entry" recording a bit more evidence for the story that our students are [neither digital natives nor digitally literate](/blog/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/). It may or may not become useful in future research/writing. It's not meant to be insightful, just a record of an experience.
 
 The context is marking of assignment 1 for EDC3100. 300 odd students have created online artefacts via their choice of online tool. Youtube videos, Wix/Weebly/Wordpress websites, Sliderocket and Prezi are the most common I've seen so far. There have been some really good ones and some not so good ones. But there's also been some evidence to suggest limits on the student's technical knowledge.
 

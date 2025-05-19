@@ -9,11 +9,11 @@ categories:
 date: 2009-02-09 15:38:21+10:00
 next:
   text: BAM - making e-learning technology more protean
-  url: /blog2/2009/02/11/bam-making-e-learning-technology-more-protean/
+  url: /blog/2009/02/11/bam-making-e-learning-technology-more-protean/
 previous:
   text: On the silliness of &quot;best practice&quot; - or why you shouldn&#039;t
     (just) copy successful organisations
-  url: /blog2/2009/02/09/on-the-silliness-of-best-practice-or-why-you-shouldnt-just-copy-successful-organisations/
+  url: /blog/2009/02/09/on-the-silliness-of-best-practice-or-why-you-shouldnt-just-copy-successful-organisations/
 title: The protean nature of modern technology - another limitation of most views
   of e-learning
 type: post
@@ -135,7 +135,7 @@ pingbacks:
       user_id: '0'
     
 ---
-A part of my thinking around the [Ps Framework](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) I suggest that there are a [number of dominant assumptions](/blog2/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/) that underpin the current implementation of e-learning within institutions of higher education. I believe these dominant assumptions limit the quality, efficiency, effectiveness and innovativness of e-learning at Universities. In this post I am trying to identify one of the dominant assumptions associated with the "Product" component of the Ps Framework and its implications.
+A part of my thinking around the [Ps Framework](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) I suggest that there are a [number of dominant assumptions](/blog/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/) that underpin the current implementation of e-learning within institutions of higher education. I believe these dominant assumptions limit the quality, efficiency, effectiveness and innovativness of e-learning at Universities. In this post I am trying to identify one of the dominant assumptions associated with the "Product" component of the Ps Framework and its implications.
 
 The dominant assumption I'd like to explore here is that people forget that modern technology is [protean](http://en.wikipedia.org/wiki/Protean). Worse than that, how most universities implement e-learning significantly limits the ability to take full advantage of this protean nature and subsequently limits the quality and innovation possible within e-learning.
 
@@ -170,7 +170,7 @@ I can see indications of ignorance of the protean nature in current organisation
 
 #### "Non-protean" processes
 
-Look at how most organisations implement computer systems, including those associated with e-learning. Almost without exception (please let me know if you can point out some exceptions) they follow the [traditional teleological](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) systems development life cycle
+Look at how most organisations implement computer systems, including those associated with e-learning. Almost without exception (please let me know if you can point out some exceptions) they follow the [traditional teleological](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) systems development life cycle
 
 1. Identify all requirements.
 2. Examine/build a software system that meets those requirements.
@@ -179,7 +179,7 @@ Look at how most organisations implement computer systems, including those assoc
 
 Truex, Baskerville and Klein (1998) go into more detail about this traditional approach and why it's inappropriate.
 
-This approach ignores the protean nature of software in that during the long period of use the system is not to be changed and/or changes are kept to a minimum. The only people who are allowed to change them are the central IT folk and anyone who even thinks about changing or working around these systems is sought out and "dealt with". Hence the negative conatations of [shadow systems](/blog2/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/).
+This approach ignores the protean nature of software in that during the long period of use the system is not to be changed and/or changes are kept to a minimum. The only people who are allowed to change them are the central IT folk and anyone who even thinks about changing or working around these systems is sought out and "dealt with". Hence the negative conatations of [shadow systems](/blog/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/).
 
 Traditional organisational approaches to the implementation of e-learning within universities do not leverage one of the greatest strengths of modern computers - its protean nature.
 
@@ -205,7 +205,7 @@ For example, it continues to be a trend that when universities or academics purc
 
 Even if they are particularly innovative in terms of learning and teaching most folk using SecondLife still automatically think that any potential application of Second Life will require students to be able to get in world. Something that can be expensive, if not impossible for them because of bandwidth and hardware requirements.
 
-Few folk make the connection that Second Life can also be a multimedia production platform. Similar to what folk I've worked with have done with machinimas (see example below) to [support case studies in an Auditing course](/blog2/publications/bringing-second-life-to-a-tough-undergraduate-course-cognitive-apprenticeship-through-machinimas/).
+Few folk make the connection that Second Life can also be a multimedia production platform. Similar to what folk I've worked with have done with machinimas (see example below) to [support case studies in an Auditing course](/blog/publications/bringing-second-life-to-a-tough-undergraduate-course-cognitive-apprenticeship-through-machinimas/).
 
 
 !!! warning "Outdated content no longer available"
@@ -217,7 +217,7 @@ The use of Second Life to produce machinimas provided a cheap and effective way 
 
 ### Making systems and processes more protean
 
-One of the core aims behind the [design of the Webfuse e-learning system](/blog2/publications/the-design-of-an-integrated-online-learning-environment/) (Jones and Buchanan, 1996) was "flexibility and the ability to adapt to change". In that paper I wrote
+One of the core aims behind the [design of the Webfuse e-learning system](/blog/publications/the-design-of-an-integrated-online-learning-environment/) (Jones and Buchanan, 1996) was "flexibility and the ability to adapt to change". In that paper I wrote
 
 > The one unchanging characteristic of the Internet, and the computing field in general, is that it never stops changing. This characteristic makes flexibility and adaptability essential features for any online or computing system. Without these characteristics an organisation runs the risk of either retaining an out of date system because it is too expensive to replace, or having to throw away the investment in a system because it has not kept up with change. This risk is demonstrated by the problems faced by Universities that have only recently stopped (and some who haven’t stopped) using mid-80s style, text based computer mediated communications systems.
 
@@ -234,7 +234,7 @@ Webfuse's flexibility was based on provide an institutional specific wrapper aro
 
 With this design, if the discussion was no good. We could find another discussion forum and incorporate it. However, this model was still based on the "run everything on our server" model.
 
-The rise of "web 2.0" and in particular mashable services helps remove the need for this model and significantly increases the protean possibilities of the Webfuse model. The first experiment with these possibilities was the [Blog Aggregation (BAM) Project](/blog2/research/bam-blog-aggregation-management/). The second was the ["web 2.0 course site"](/blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/) idea.
+The rise of "web 2.0" and in particular mashable services helps remove the need for this model and significantly increases the protean possibilities of the Webfuse model. The first experiment with these possibilities was the [Blog Aggregation (BAM) Project](/blog/research/bam-blog-aggregation-management/). The second was the ["web 2.0 course site"](/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/) idea.
 
 Both extended the Webfuse model beyond open source software to making use of RSS to mash up services.
 

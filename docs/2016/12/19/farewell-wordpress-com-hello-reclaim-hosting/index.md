@@ -2,10 +2,10 @@
 date: 2016-12-19 01:07:56+10:00
 next:
   text: Early thoughts on the new year and the new job
-  url: /blog2/2017/01/03/early-thoughts-on-the-new-year-and-the-new-job/
+  url: /blog/2017/01/03/early-thoughts-on-the-new-year-and-the-new-job/
 previous:
   text: Open, education, institutions and culture
-  url: /blog2/2016/11/18/open-education-institutions-and-culture/
+  url: /blog/2016/11/18/open-education-institutions-and-culture/
 title: Farewell wordpress.com, hello Reclaim Hosting
 type: post
 template: blog-post.html

@@ -6,10 +6,10 @@ categories:
 date: 2013-06-03 10:20:38+10:00
 next:
   text: Animation over time of links between student posts
-  url: /blog2/2013/06/04/animation-over-time-of-links-between-student-posts/
+  url: /blog/2013/06/04/animation-over-time-of-links-between-student-posts/
 previous:
   text: Changes in links between student posts
-  url: /blog2/2013/05/31/changes-in-links-between-student-posts/
+  url: /blog/2013/05/31/changes-in-links-between-student-posts/
 title: '"Schools and computers: Tales of a digital romance"'
 type: post
 template: blog-post.html

@@ -8,10 +8,10 @@ categories:
 date: 2009-04-09 13:14:10+10:00
 next:
   text: Post to fix the feed
-  url: /blog2/2009/04/09/post-to-fix-the-feed/
+  url: /blog/2009/04/09/post-to-fix-the-feed/
 previous:
   text: Early indications of &quot;blame the student&quot; that continues today
-  url: /blog2/2009/04/06/early-indications-of-blame-the-student-that-continues-today/
+  url: /blog/2009/04/06/early-indications-of-blame-the-student-that-continues-today/
 title: '"Edupunk rules: Technology I, II and 3 - understanding and improving the practice
   of instructional technology"'
 type: post
@@ -210,11 +210,11 @@ A key part of this emphasis on the local situation is the idea that any techniqu
 
 ### Fads
 
-Technology I and II directly connects with [my thoughts](/blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/) about the almost universal acceptance of fads and fashions in higher education, especially around e-learning.
+Technology I and II directly connects with [my thoughts](/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/) about the almost universal acceptance of fads and fashions in higher education, especially around e-learning.
 
 ### Task corruption
 
-[Task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/), work-arounds and "gaming the system" have been a topic I've been thinking about recently. Much of what I see in L&T at universities is about gaming the system. Being seen to do the right thing, even though you're not.
+[Task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/), work-arounds and "gaming the system" have been a topic I've been thinking about recently. Much of what I see in L&T at universities is about gaming the system. Being seen to do the right thing, even though you're not.
 
 The points made in this article about Technology I and II and how technological gravity sucks people down to that level connects directly with the ideas of task corruption and workarounds.
 
@@ -222,7 +222,7 @@ But it also points to broader possibilities about who is "working around" things
 
 - The poor teacher - sure coal-face academics workaround things to get by in the world. This is well known.
 - The educational technologists/learning designer etc.  
-    One of the [toughest and most uncertain](/blog2/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/), in terms of position and future, jobs at universities is that of learning designer or educational technologist. Given the difficulty and uncertainty, is it any surprise that these folk will be tempted to simplify and routinise what they do? Even if they do understand completely "Technology III" technological gravity will suck them down to technology I or II.
+    One of the [toughest and most uncertain](/blog/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/), in terms of position and future, jobs at universities is that of learning designer or educational technologist. Given the difficulty and uncertainty, is it any surprise that these folk will be tempted to simplify and routinise what they do? Even if they do understand completely "Technology III" technological gravity will suck them down to technology I or II.
 - Educational researchers.  
     Developing a new learning theory, process or technology is hard, especially one that will make a significant difference to learning. However, academics and researchers are evaluated on how well they achieve this, arguably, impossible goal. Is it any surprise that they seek to corrupt their task? Make it a bit easier to achieve?
     
@@ -234,7 +234,7 @@ But it also points to broader possibilities about who is "working around" things
 I'm struggling to think of any recent, long-term examples of Technology III in my experience. Almost all of them, at least to me, appear to be examples of Technology I and II. Some of the examples:
 
 - LMS/e-portfolio/_insert technology here_ will save the world.  
-    I've [written about this one before](/blog2/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/). The new technology will save us!!!
+    I've [written about this one before](/blog/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/). The new technology will save us!!!
 - PBL/constructive alignment/_insert process here_ will save the world.  
     I've seen this regularly. Someone reads a body of research around process X, thinks that's great. Then begins to trumpet how process X, when applied to every course at the university, will radically improve the quality of L&T.
 - Bastardisation of process and technology.  
@@ -276,7 +276,7 @@ Seems as the rest of the paper examines
 
 ### Technology I
 
-This is the "tools approach". An approach I've [argued against previously](/blog2/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/). If you adopt a technology, wonderful educational improvement will happen, all by itself.
+This is the "tools approach". An approach I've [argued against previously](/blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/). If you adopt a technology, wonderful educational improvement will happen, all by itself.
 
 This view is linked to the idea that teaching activities cause learning to take place. i.e. if the teacher is seen as a potter, moulding the students - then new tools for the potter improve the product.
 
@@ -365,7 +365,7 @@ Some expansion on the reasons:
 - status quo adherence  
     The way we've always done things around here. Can be emphasized by local uncertainty - restructures etc. What we do at the moment is okay response. Identity threatened by new approaches.
     
-    Mentions an example of [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/)
+    Mentions an example of [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/)
     
     > Yet in some of the reports we studied, practitioners still applied the terminology of PBL to their more traditional and formula-driven behaviors, leading to what Chen et al. (1994) called the ‘‘jargon’’ approach to PBL practice, which did little more than ‘‘re-define existing educational approaches’’ (p. 9) in language that appeared to be more innovative or forward-thinking (see also Abrandt Dahlgren and Dahlgren 2002; Herreid 2003; Kovalik 1999)
     

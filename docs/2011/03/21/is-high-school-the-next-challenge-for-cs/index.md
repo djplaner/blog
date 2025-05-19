@@ -4,10 +4,10 @@ categories:
 date: 2011-03-21 08:26:28+10:00
 next:
   text: '"Literacy and Numeracy: Week 4"'
-  url: /blog2/2011/03/21/literacy-and-numeracy-week-4/
+  url: /blog/2011/03/21/literacy-and-numeracy-week-4/
 previous:
   text: 'Literacy and Numeracy: Week 3'
-  url: /blog2/2011/03/20/literacy-and-numeracy-week-3/
+  url: /blog/2011/03/20/literacy-and-numeracy-week-3/
 tags:
 - computer
 - cs

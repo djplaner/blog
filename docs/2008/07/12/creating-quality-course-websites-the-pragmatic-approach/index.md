@@ -6,10 +6,10 @@ categories:
 date: 2008-07-12 16:21:09+10:00
 next:
   text: What do students find useful?
-  url: /blog2/2008/07/12/what-do-students-find-useful/
+  url: /blog/2008/07/12/what-do-students-find-useful/
 previous:
   text: Creating quality course websites
-  url: /blog2/2008/07/12/creating-quality-course-websites/
+  url: /blog/2008/07/12/creating-quality-course-websites/
 tags:
 - cddu-elearning-coursesite
 title: Creating quality course websites - the pragmatic approach

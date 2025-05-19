@@ -4,11 +4,11 @@ categories:
 date: 2013-05-04 16:08:42+10:00
 next:
   text: How can an "enterprise" e-learning tool be agile?
-  url: /blog2/2013/05/10/how-can-an-enterprise-e-learning-tool-be-agile/
+  url: /blog/2013/05/10/how-can-an-enterprise-e-learning-tool-be-agile/
 previous:
   text: How to capture the &quot;full benefits of the creative, original and imaginative
     efforts of&quot; teaching staff
-  url: /blog2/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/
+  url: /blog/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/
 title: Everything old is new again
 type: post
 template: blog-post.html
@@ -82,7 +82,7 @@ pingbacks:
 ---
 I have this growing sense of deja vu. I'm beginning to think that my current experience with the institutional policies and processes around Australian university enterprise e-learning is essentially a repeat of my experience with the institutional policies and processes around Australian university print-based distance education systems of the mid-1990s. Almost twenty years on its deja vu all over again?
 
-Some of this arises from an [on-going conversation](/blog2/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/#comment-6239) between @cj13, @timklapdor (I must start [reading his blog](http://timklapdor.wordpress.com/) more), and myself. A conversation about how innovation might arise within existing university structures (or more likely not arise).
+Some of this arises from an [on-going conversation](/blog/2013/04/30/how-to-capture-the-full-benefits-of-the-creative-original-and-imaginative-efforts-of-teaching-staff/#comment-6239) between @cj13, @timklapdor (I must start [reading his blog](http://timklapdor.wordpress.com/) more), and myself. A conversation about how innovation might arise within existing university structures (or more likely not arise).
 
 As it happens, I've also been reading a [bit about Morozov's "To Save Everything, Click Here" book](https://nexus-instituut.nl/en/reviews/241-to-save-everything-click-here) and its intellectual links. Through which I came to [this](http://www.washingtonpost.com/wp-srv/special/outlook/spring-cleaning-2013/) in which Morozov has a short piece (linked to his book and other writings) where innovation and how we consider it is questioned. It included this on the history of innovation
 

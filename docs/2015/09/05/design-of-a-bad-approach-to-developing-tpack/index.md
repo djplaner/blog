@@ -6,10 +6,10 @@ categories:
 date: 2015-09-05 16:30:42+10:00
 next:
   text: How NGL can inform my role as teacher
-  url: /blog2/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
+  url: /blog/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
 previous:
   text: 'Educational technology: deja vu all over again'
-  url: /blog2/2015/09/03/educational-technology-deja-vu-all-over-again/
+  url: /blog/2015/09/03/educational-technology-deja-vu-all-over-again/
 tags:
 - netgl
 title: Design of a BAD approach to developing TPACK
@@ -146,7 +146,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Two of my recent publications ([Jones & Clark, 2015](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/); [Jones, Heffernan & Albion, 2016](/blog2/publications/)) seek to explore and identify the problems faced by teachers in developing the knowledge necessary to teach in e-learning/digital learning environments. Both suggest that there are significant problems with how this is currently done and offer some theoretical suggestions about how it might be improved. Jones & Clark (2015) suggest that [the BAD/SET mindsets](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) offer one way to understand the problems of the current approaches, and outline some fruitful ways forward.
+Two of my recent publications ([Jones & Clark, 2015](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/); [Jones, Heffernan & Albion, 2016](/blog/publications/)) seek to explore and identify the problems faced by teachers in developing the knowledge necessary to teach in e-learning/digital learning environments. Both suggest that there are significant problems with how this is currently done and offer some theoretical suggestions about how it might be improved. Jones & Clark (2015) suggest that [the BAD/SET mindsets](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) offer one way to understand the problems of the current approaches, and outline some fruitful ways forward.
 
 This post is an attempt to describe in broad details of a system that could potentially enable a much greater use of the BAD mindset within what passes for institutional e-learning environments (and perhaps beyond). The system, is really a collection of different current technologies, including:
 
@@ -156,7 +156,7 @@ This post is an attempt to describe in broad details of a system that could pote
 
 Some form of screen-scraping web-automation might also be added to this list, as might other technologies. But the three above is a start.
 
-See the abstract of [this presentation](/blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) for an explanation of TPACK and Jones et al (2016) for an argument for ["distributed TPACK"](/blog2/publications/)
+See the abstract of [this presentation](/blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) for an explanation of TPACK and Jones et al (2016) for an argument for ["distributed TPACK"](/blog/publications/)
 
 ## Basic Aim
 
@@ -226,7 +226,7 @@ The script would probably tend to
 
 ### 4\. Select, and use helper applications
 
-A key vine that I'm interested in is the idea of "helper applications". i.e. small scripts/applications that add value to the functionality of the current page/service. This idea is linked to the idea of the [Reusability Paradox](/blog2/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/) and [the Starvation Problem of e-learning](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/).
+A key vine that I'm interested in is the idea of "helper applications". i.e. small scripts/applications that add value to the functionality of the current page/service. This idea is linked to the idea of the [Reusability Paradox](/blog/2015/04/21/where-does-the-lms-sit-in-the-reusability-paradox/) and [the Starvation Problem of e-learning](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/).
 
 These helper applications would potentially cover a wide array of functionality and complexity. The following examples illustrate some initial categories
 

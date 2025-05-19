@@ -10,10 +10,10 @@ date: 2009-03-25 15:06:14+10:00
 next:
   text: '""One ring to rule them all": Limitations and implications of the LMS/VLE
     product model"'
-  url: /blog2/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
+  url: /blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
 previous:
   text: '&quot;Blame the teacher&quot; isn&#039;t new to technology-mediated learning'
-  url: /blog2/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/
+  url: /blog/2009/03/24/blame-the-teacher-isnt-new-to-technology-mediated-learning/
 title: The myth of rationality in the selection of learning management systems/VLEs
 type: post
 template: blog-post.html
@@ -170,9 +170,9 @@ Over the last 10 to 15 years I've been able to observe at reasonably close quart
 
 One feature that the vast majority of these processes have reportedly had was objectivity. They were supposedly rational processes where all available data was closely analysed and a consensus decision was made.
 
-Of course, given [what I think about people and rationality](/blog2/2006/10/25/the-missing-ps-people/) it is of little surprise that I very much doubt that any of these processes could ever be rational. I think most of the folk claiming that it was rational are simply trying to dress it up, mainly because society and potentially their "competitors" within the organisation expect them to be, or at least appear to be, rational.
+Of course, given [what I think about people and rationality](/blog/2006/10/25/the-missing-ps-people/) it is of little surprise that I very much doubt that any of these processes could ever be rational. I think most of the folk claiming that it was rational are simply trying to dress it up, mainly because society and potentially their "competitors" within the organisation expect them to be, or at least appear to be, rational.
 
-I don't blame them. The vast majority, if not all, of what is taught in information systems/technology, software development and management automatically assumes that people are rational. It's much easier to give the appearance of rationality. This really is a form of [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/), in this case the simulation "type" of task corruption.
+I don't blame them. The vast majority, if not all, of what is taught in information systems/technology, software development and management automatically assumes that people are rational. It's much easier to give the appearance of rationality. This really is a form of [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/), in this case the simulation "type" of task corruption.
 
 ### The reality?
 
@@ -206,7 +206,7 @@ This is particularly interesting as my current institution has some similarities
 
 Of course, given that organisations are rational, I'll be able to point out this flaw to the project team handling the migration to the new LMS. They will investigate the matter (if they don't already know about it), and if it's a major problem incorporate a plan to address it before the pilot, or at least the final migration.
 
-Of course, that's forgetting the [SNAFU principle and the tension between innovation and accountability](/blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/) and its effects on rationality.
+Of course, that's forgetting the [SNAFU principle and the tension between innovation and accountability](/blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/) and its effects on rationality.
 
 ### Addendum
 

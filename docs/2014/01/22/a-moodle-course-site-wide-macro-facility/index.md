@@ -4,10 +4,10 @@ categories:
 date: 2014-01-22 10:49:36+10:00
 next:
   text: What should be covered in EDC3100?
-  url: /blog2/2014/01/22/what-should-be-covered-in-edc3100/
+  url: /blog/2014/01/22/what-should-be-covered-in-edc3100/
 previous:
   text: Leadership as defining what&#039;s successful
-  url: /blog2/2014/01/21/leadership-as-defining-whats-successful/
+  url: /blog/2014/01/21/leadership-as-defining-whats-successful/
 title: '"A #moodle course site wide "macro" facility?"'
 type: post
 template: blog-post.html

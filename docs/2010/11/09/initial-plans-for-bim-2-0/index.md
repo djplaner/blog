@@ -4,10 +4,10 @@ categories:
 date: 2010-11-09 11:14:29+10:00
 next:
   text: A turning point
-  url: /blog2/2010/11/12/a-turning-point/
+  url: /blog/2010/11/12/a-turning-point/
 previous:
   text: Scaffolding, context-sensitive conglomerations - v2.0
-  url: /blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/
+  url: /blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/
 title: Initial plans for BIM 2.0
 type: post
 template: blog-post.html
@@ -98,7 +98,7 @@ pingbacks:
     []
     
 ---
-I'm slowly getting out from under the thesis, which means I am starting to have some time to think about the next version of [BIM](/blog2/research/bam-blog-aggregation-management/). The following is an attempt to lay out some of the ideas I have for the next version of BIM. Beyond helping me gather my thoughts, I'm hoping it will generate some comments and ideas from others. I doubt I will be able to implement all of the suggestions, so I'm hoping to get a sense for what others think is most important.
+I'm slowly getting out from under the thesis, which means I am starting to have some time to think about the next version of [BIM](/blog/research/bam-blog-aggregation-management/). The following is an attempt to lay out some of the ideas I have for the next version of BIM. Beyond helping me gather my thoughts, I'm hoping it will generate some comments and ideas from others. I doubt I will be able to implement all of the suggestions, so I'm hoping to get a sense for what others think is most important.
 
 Currently, I can think of the following categories of potential BIM improvements:
 
@@ -113,7 +113,7 @@ Currently, I can think of the following categories of potential BIM improvements
 5. Improving the code design; and  
     I'm shocked by just how spaghetti like the procedural code used in some of the Moodle modules (including BIM). It's so inflexible, gets in the way of reuse, and just basically ugly and error prone. Surely there are nicer ways to code a Moodle module. A MVC framework?
 6. Scaffolding conglomerations.  
-    This is perhaps where my main research interest resides. The interest comes from the thesis and the idea that e-learning systems need to improve. One suggestion for how this might be done is [scaffolding conglomerations](/blog2/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/). Borrowing ideas from [distributed cognition](/blog2/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/) to move these systems from simple configuration interfaces into scaffolding that helps teachers and students teach/learn.
+    This is perhaps where my main research interest resides. The interest comes from the thesis and the idea that e-learning systems need to improve. One suggestion for how this might be done is [scaffolding conglomerations](/blog/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/). Borrowing ideas from [distributed cognition](/blog/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/) to move these systems from simple configuration interfaces into scaffolding that helps teachers and students teach/learn.
 
 ### Work with Moodle 2.0
 
@@ -174,9 +174,9 @@ There are currently [13 open issues](https://github.com/djplaner/BIM/issues) (th
 
 ### Improving the code design
 
-The BIM code is ugly. This is partially (mostly?) due to me learning both PHP and "Moodle coding" during the implementation of BIM. But it is also due to the primitive procedural coding approach used by most Moodle plugins. Even for someone coming from using a [somewhat limited, home-grown MVC framework](/blog2/2010/06/07/the-wf-framework/), it was depressing and frustrating to have to step back to what I now see as the dark ages. Surely there has to be a better way?
+The BIM code is ugly. This is partially (mostly?) due to me learning both PHP and "Moodle coding" during the implementation of BIM. But it is also due to the primitive procedural coding approach used by most Moodle plugins. Even for someone coming from using a [somewhat limited, home-grown MVC framework](/blog/2010/06/07/the-wf-framework/), it was depressing and frustrating to have to step back to what I now see as the dark ages. Surely there has to be a better way?
 
-It looks like it [has been talked about briefly](http://moodle.org/mod/forum/discuss.php?d=6842#p36429) and [not always well](http://moodle.org/mod/forum/discuss.php?d=66331) within the Moodle community. I recognise the difficulty of adopting such a radically different approach for Moodle as a whole. But I am wondering if anyone has done this within a plugin. I played [around with this](/blog2/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/) earlier on and it seems to go okay. I guess performance would be one issue.
+It looks like it [has been talked about briefly](http://moodle.org/mod/forum/discuss.php?d=6842#p36429) and [not always well](http://moodle.org/mod/forum/discuss.php?d=66331) within the Moodle community. I recognise the difficulty of adopting such a radically different approach for Moodle as a whole. But I am wondering if anyone has done this within a plugin. I played [around with this](/blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/) earlier on and it seems to go okay. I guess performance would be one issue.
 
 Will have to look at this further, but am likely to use an MVC approach within BIM v2.0. **Is this a good idea? A bad one? What have I missed in the Moodle community?**
 
@@ -186,7 +186,7 @@ If I had to be doing more research, this is the area in which I'd be doing it. J
 
 #### Making BIM help collaborative
 
-One of the principles for [scaffolding conglomerations](/blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/) is
+One of the principles for [scaffolding conglomerations](/blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/) is
 
 > Embed opportunities for collaboration and interaction into conglomerations
 
@@ -219,7 +219,7 @@ A more complete approach might involve some type of [Moodle wizard](http://tomaz
 
 #### Analytics
 
-It looks like [analytics](/blog2/2010/09/04/light-weight-analytics-tools-as-part-of-scaffolding-context-sensitive-conglomerations/) (of some description) will play an increasing part in e-learning, especially in large classes. Analytics could form the basis for some form of scaffolding in BIM and not just for teachers. For example, some form of analytics that shows how the student is going with the BIM activity compared with other students. Potentially as some form of encouragement. e.g. the [progress bar block](http://www.sci.usq.edu.au/staff/deraadt/progressBar.html).
+It looks like [analytics](/blog/2010/09/04/light-weight-analytics-tools-as-part-of-scaffolding-context-sensitive-conglomerations/) (of some description) will play an increasing part in e-learning, especially in large classes. Analytics could form the basis for some form of scaffolding in BIM and not just for teachers. For example, some form of analytics that shows how the student is going with the BIM activity compared with other students. Potentially as some form of encouragement. e.g. the [progress bar block](http://www.sci.usq.edu.au/staff/deraadt/progressBar.html).
 
 #### Conglomerations and conglomerations
 

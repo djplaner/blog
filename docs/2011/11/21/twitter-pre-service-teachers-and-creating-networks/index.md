@@ -4,10 +4,10 @@ categories:
 date: 2011-11-21 15:01:54+10:00
 next:
   text: Some of the learning analytics literature
-  url: /blog2/2011/12/04/some-of-the-learning-analytics-literature/
+  url: /blog/2011/12/04/some-of-the-learning-analytics-literature/
 previous:
   text: Porting BIM to Moodle 2 - Step 1
-  url: /blog2/2011/11/19/porting-bim-to-moodle-2-step-1/
+  url: /blog/2011/11/19/porting-bim-to-moodle-2-step-1/
 title: Twitter, pre-service teachers and creating networks
 type: post
 template: blog-post.html

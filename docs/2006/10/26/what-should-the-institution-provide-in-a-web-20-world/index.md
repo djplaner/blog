@@ -4,10 +4,10 @@ categories:
 date: 2006-10-26 16:18:57+10:00
 next:
   text: The missing Ps - Process
-  url: /blog2/2006/10/27/the-missing-ps-process/
+  url: /blog/2006/10/27/the-missing-ps-process/
 previous:
   text: Starting my &quot;blogs for learning&quot; article about BAM
-  url: /blog2/2006/10/26/starting-my-blogs-for-learning-article-about-bam/
+  url: /blog/2006/10/26/starting-my-blogs-for-learning-article-about-bam/
 title: What should the institution provide in a Web 2.0 world?
 type: post
 template: blog-post.html

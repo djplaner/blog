@@ -5,15 +5,15 @@ categories:
 date: 2010-12-20 17:31:05+10:00
 next:
   text: Putting the MVC structure for bim2 in place
-  url: /blog2/2010/12/24/putting-the-mvc-structure-for-bim2-in-place/
+  url: /blog/2010/12/24/putting-the-mvc-structure-for-bim2-in-place/
 previous:
   text: A Theory-Driven Design Framework for Social Recommender Systems
-  url: /blog2/2010/12/20/3495/
+  url: /blog/2010/12/20/3495/
 title: Adding a bim2 activity - development progress
 type: post
 template: blog-post.html
 ---
-Okay, so after [fixing up the naming problems](/blog2/2010/12/19/problems-with-naming-of-bim2/) with bim2 etc, it's time to actually get the code going.
+Okay, so after [fixing up the naming problems](/blog/2010/12/19/problems-with-naming-of-bim2/) with bim2 etc, it's time to actually get the code going.
 
 ### To do
 

@@ -10,10 +10,10 @@ categories:
 date: 2009-03-18 09:38:34+10:00
 next:
   text: The Ps framework
-  url: /blog2/2009/03/18/the-ps-framework/
+  url: /blog/2009/03/18/the-ps-framework/
 previous:
   text: 'Comparing VLEs/LMS to the past: flaws and implications for development models'
-  url: /blog2/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+  url: /blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
 title: '"Blame the teacher" and its negative impact on learning and e-learning'
 type: post
 template: blog-post.html
@@ -129,13 +129,13 @@ pingbacks:
       user_id: '0'
     
 ---
-The following post is sparked by reading Findlow (2008) as part of my [PhD work](/blog2/research/phd-thesis/). I'm about halfway through it and finding it very interesting. In particular, this post is sparked by the following paragraph from the paper
+The following post is sparked by reading Findlow (2008) as part of my [PhD work](/blog/research/phd-thesis/). I'm about halfway through it and finding it very interesting. In particular, this post is sparked by the following paragraph from the paper
 
 > The institutional counterpoint to this was the feeling expressed, implicitly or explicitly, by all the administrative staff I talked to that, in the words of one mid-ranking administrator, ‘No offence, but some academics need a kick up the bum’. Only five survey respondents cited constraints not explicitly linked to aspects of ‘the system’, singling out academics’ ‘attitudes’, which they elaborated as: ‘lack of imagination’ and/or ‘a reluctance to take risks’
 
 ### Blame the teacher - level 1
 
-In promulgating the idea of [reflective alignment](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) I borrowed and reworked Biggs (Biggs and Tang, 2007) ideas of constructive alignment to take it from looking at how individual academics could design teaching to looking at how a university could improve the design of teaching performed by its academics.
+In promulgating the idea of [reflective alignment](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) I borrowed and reworked Biggs (Biggs and Tang, 2007) ideas of constructive alignment to take it from looking at how individual academics could design teaching to looking at how a university could improve the design of teaching performed by its academics.
 
 The sentiments outlined in the above quote from Findlow (2008) are a perfect example of, what I framed as, level 1 knowledge about improving teaching. The "blame the teacher" level. The level at which management can feel consoled that the on-going problems with the quality of teaching is not the fault of the system they manage. It's the fault of those horrible academics. It would all be better if the academics simply got a "kick up the bum".
 
@@ -193,7 +193,7 @@ Can this be applied to innovation in higher education? Surely it wouldn't happen
 
 #### Task corruption
 
-[Task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) can be defined as
+[Task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) can be defined as
 
 > is where either an institution or individual, conciously or unconsciously, adopts a process or an approach to a primary task that either avoids or destroys the task.
 
@@ -209,9 +209,9 @@ Academics start to work the system. This creates a less than stellar confidence 
 
 ### A solution?
 
-The last quote from Findlow (2008) seems to provide a possible suggestion in "university environments where holistic and humanistic views of scholarship and systems of implicit trust were embedded". Perhaps such an environment would embody level 3 knowledge of how to improve design of courses. Such an environment might allow academics to enage in [Reflective Problematisation](/blog2/2009/03/02/reflective-problematisation-description-of-reflection-in-reflective-alignment/).
+The last quote from Findlow (2008) seems to provide a possible suggestion in "university environments where holistic and humanistic views of scholarship and systems of implicit trust were embedded". Perhaps such an environment would embody level 3 knowledge of how to improve design of courses. Such an environment might allow academics to enage in [Reflective Problematisation](/blog/2009/03/02/reflective-problematisation-description-of-reflection-in-reflective-alignment/).
 
-Such an environment might focus on [some of the features of this process](/blog2/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/).
+Such an environment might focus on [some of the features of this process](/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/).
 
 ### References
 

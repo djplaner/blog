@@ -6,10 +6,10 @@ date: 2007-03-10 21:06:25+10:00
 next:
   text: Ateleological development as a "better way" to develop university e-learning
     systems
-  url: /blog2/2007/03/13/ateleological-development-as-a-better-way-to-develop-university-e-learning-systems/
+  url: /blog/2007/03/13/ateleological-development-as-a-better-way-to-develop-university-e-learning-systems/
 previous:
   text: Thesis 1.2 - Background to the research
-  url: /blog2/2007/03/10/thesis-12-background-to-the-research/
+  url: /blog/2007/03/10/thesis-12-background-to-the-research/
 title: CAUDIT CIO's top 10 issues list - and what it says about them (to me)
 type: post
 template: blog-post.html

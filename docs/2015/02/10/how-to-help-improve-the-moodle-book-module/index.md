@@ -7,10 +7,10 @@ categories:
 date: 2015-02-10 19:55:30+10:00
 next:
   text: Initial rationale and ideas for "continuous improvement" of learning and teaching
-  url: /blog2/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
+  url: /blog/2015/02/18/initial-rationale-and-ideas-for-continuous-improvement-of-learning-and-teaching/
 previous:
   text: Framing an open book as situated, social, distributed and protean
-  url: /blog2/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
+  url: /blog/2015/02/10/framing-an-open-book-as-situated-social-distributed-and-protean/
 title: How to help improve the Moodle book module
 type: post
 template: blog-post.html
@@ -61,15 +61,15 @@ pingbacks:
       user_id: '0'
     
 ---
-As mentioned [in the last post](/blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) there are limitations in the Moodle book module that are acting as [a concrete lounge](http://fedwiki.djon.es/view/welcome-visitors/view/concrete-lounge). The following documents an attempt to help improve the module.
+As mentioned [in the last post](/blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) there are limitations in the Moodle book module that are acting as [a concrete lounge](http://fedwiki.djon.es/view/welcome-visitors/view/concrete-lounge). The following documents an attempt to help improve the module.
 
 In the end, I've made some serious steps to contributing a bit of code to a standard plugin (as I write this, I'm imagining how experienced Moodle folk will shudder at the many misuses of Moodle terms in the following).
 
-**Update:** The "bug" in the Book module reported below is not a bug. There's actually functionality in the Book module to support this, it's just not obvious. More [explanation is available](/blog2/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/).
+**Update:** The "bug" in the Book module reported below is not a bug. There's actually functionality in the Book module to support this, it's just not obvious. More [explanation is available](/blog/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/).
 
 ## Task and context
 
-As described in [the last post](/blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) the context is a course website hosted in the Moodle LMS. A course that uses quite heavily [the Moodle book module](https://docs.moodle.org/28/en/Book_module). The module has import function that is meant to allow you to import a collection of HTML documents into a book.
+As described in [the last post](/blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) the context is a course website hosted in the Moodle LMS. A course that uses quite heavily [the Moodle book module](https://docs.moodle.org/28/en/Book_module). The module has import function that is meant to allow you to import a collection of HTML documents into a book.
 
 ## Concrete lounge
 
@@ -106,7 +106,7 @@ Here's what I've done so far to address this problem with the resources availabl
     > Bugs should normally be fixed on all the supported stable branches that are affected. New features should just go into master, but sometimes minor enhancements are made on the most recent stable branch.
     
     So where does this fit? I assume a bug or minor enhancement. The other factor is that if I make this change on the version that my institution is using, that will increase the chances that I might get to use it this semester (which are very slim). Of course, it's difficult to remember/discover which version of Moodle we're using. I think perhaps 2.7 for now. Which seems to the [other supported release](https://download.moodle.org/releases/supported/).
-3. Develop the change using git [Prior work](/blog2/2013/05/26/preparing-bim-for-moodle-2-4-and-beyond/) contains an example of how to get a version of the Moodle source using git and start making changes. Will start with that.
+3. Develop the change using git [Prior work](/blog/2013/05/26/preparing-bim-for-moodle-2-4-and-beyond/) contains an example of how to get a version of the Moodle source using git and start making changes. Will start with that.
     
     My issue number is MDL-49128
     
@@ -143,7 +143,7 @@ That appears to be working.
 
 ## Factors
 
-I have to think that anyone who had used the import function in action - like I [tried to do](/blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) - would have been aware of the limitations of the import function. It just doesn't seem designed to be useful. Thus it seems logical to suspect that maybe the original designer wasn't a user. They weren't solving their own (or someone close to them) problem. Just implementing a feature. Hence they weren't in a position to know how limited it was.
+I have to think that anyone who had used the import function in action - like I [tried to do](/blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) - would have been aware of the limitations of the import function. It just doesn't seem designed to be useful. Thus it seems logical to suspect that maybe the original designer wasn't a user. They weren't solving their own (or someone close to them) problem. Just implementing a feature. Hence they weren't in a position to know how limited it was.
 
 This distance between implementing the function and using the function seems to be a common feature of concrete lounges. Anyone who has to use a concrete lounge for any length of time is going to be aware of the pain and want to change it.
 

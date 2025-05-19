@@ -5,10 +5,10 @@ date: 2013-01-15 09:32:56+10:00
 next:
   text: A sign of limitations of institution hosted e-portfolios? And cost as the
     ultimate driver
-  url: /blog2/2013/01/21/a-sign-of-limitations-of-institution-hosted-e-portfolios-and-cost-as-the-ultimate-driver/
+  url: /blog/2013/01/21/a-sign-of-limitations-of-institution-hosted-e-portfolios-and-cost-as-the-ultimate-driver/
 previous:
   text: Making some &quot;3100&quot; thinking explicit
-  url: /blog2/2013/01/11/making-some-3100-thinking-explicit/
+  url: /blog/2013/01/11/making-some-3100-thinking-explicit/
 title: '"Engaging with #etmooc - how and what perspective"'
 type: post
 template: blog-post.html
@@ -201,7 +201,7 @@ The main reason is perhaps that this is the area I teach. Educational technology
 
 Some other reasons I'm hoping to engage
 
-1. To model the type of practice I'm hoping to see from the students [in the course](/blog2/2013/01/11/making-some-3100-thinking-explicit/) I'll be teaching soon.
+1. To model the type of practice I'm hoping to see from the students [in the course](/blog/2013/01/11/making-some-3100-thinking-explicit/) I'll be teaching soon.
 2. To identify some activities, communities, and people that I can point my students toward.
 3. To connect with some new ideas and reflect on how that might change my practice.
 

@@ -4,10 +4,10 @@ categories:
 date: 2016-04-25 16:45:48+10:00
 next:
   text: Focus, innovation and university IT
-  url: /blog2/2016/04/28/focus-innovation-and-university-it/
+  url: /blog/2016/04/28/focus-innovation-and-university-it/
 previous:
   text: Playing with Wikity
-  url: /blog2/2016/04/23/playing-with-wikity/
+  url: /blog/2016/04/23/playing-with-wikity/
 title: The need for technopedagogues and will it ever go away?
 type: post
 template: blog-post.html
@@ -66,7 +66,7 @@ It comes from the fact that it is so unusual for any one person or organisation 
 
 ### Do we need to teach "ICT and Pedagogy"?
 
-Four years ago I started work at my current institution charged with the responsibility of teaching "ICT and Pedagogy" to pre-service teachers. Back then I was wondering why there was still a need for this type of course, [I wrote](/blog2/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/)
+Four years ago I started work at my current institution charged with the responsibility of teaching "ICT and Pedagogy" to pre-service teachers. Back then I was wondering why there was still a need for this type of course, [I wrote](/blog/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/)
 
 If technology is part of every day learning and teaching, why have a separate ICT in pedagogy course?
 
@@ -92,7 +92,7 @@ Hence you get [Wiley's reusability paradox](http://cnx.org/contents/2tQZVsKy@19/
 
 ### Ignorance of the nature of digital technologies
 
-The "techno" mindset is so strong we end up with organisational approaches to digital technologies that no longer understand the fundamental nature of digital technologies. Rather than benefiting from Kay's protean, meta-medium we get the situation Rushkoff identified where human beings are optimized for the digital technologies. A situation we talk a bit about [in this paper](/blog2/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/#protean).
+The "techno" mindset is so strong we end up with organisational approaches to digital technologies that no longer understand the fundamental nature of digital technologies. Rather than benefiting from Kay's protean, meta-medium we get the situation Rushkoff identified where human beings are optimized for the digital technologies. A situation we talk a bit about [in this paper](/blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/#protean).
 
 ### Digital fluency won't help
 

@@ -6,17 +6,17 @@ date: 2020-05-29 15:55:24+10:00
 next:
   text: What are the impediments to quality teaching and what can be done to remove
     them?
-  url: /blog2/2020/05/30/what-are-the-impediments-to-quality-teaching-and-what-can-be-done-to-remove-them/
+  url: /blog/2020/05/30/what-are-the-impediments-to-quality-teaching-and-what-can-be-done-to-remove-them/
 previous:
   text: Learning to think in React
-  url: /blog2/2020/05/22/learning-to-think-in-react/
+  url: /blog/2020/05/22/learning-to-think-in-react/
 title: Improving jQuery theme/Content Interface integration
 type: post
 template: blog-post.html
 ---
 ### The Problem
 
-One of the benefits of using jQuery as the initial framework for [the Content Interface](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) is that you can leverage the existing ecosystem. e.g. jQuery’s themes enable a default Content Interface (on the left) to be “themed” (on the right) by changing a single line of CSS.
+One of the benefits of using jQuery as the initial framework for [the Content Interface](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#contentInterface) is that you can leverage the existing ecosystem. e.g. jQuery’s themes enable a default Content Interface (on the left) to be “themed” (on the right) by changing a single line of CSS.
 
 | ![](images/j90m7Kbs5MWAgAAAABJRU5ErkJggg==) | ![](images/9Hy3ClDoUNZcXSuV26LyOkB0L1rFea9l+9r3y+ImIYRAj03AIEwSimkCU6UHF3f8PiLqb+WQ147IAAAAASUVORK5CYII=) |
 | --- | --- |

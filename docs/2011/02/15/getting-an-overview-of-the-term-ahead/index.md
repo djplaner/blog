@@ -5,10 +5,10 @@ categories:
 date: 2011-02-15 17:25:30+10:00
 next:
   text: How hard is it to get a personalised class timetable?
-  url: /blog2/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
+  url: /blog/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
 previous:
   text: 'bim2: Some more coordinator tabs'
-  url: /blog2/2011/02/13/bim2-some-more-coordinator-tabs/
+  url: /blog/2011/02/13/bim2-some-more-coordinator-tabs/
 title: Getting an overview of the term ahead
 type: post
 template: blog-post.html
@@ -110,11 +110,11 @@ Interesting to note that single-sign on still does not work for all applications
 
 ### Portals, timetables and ical
 
-So there is a new look portal intended to bring everything into one place, to make life easier for students. However, it is still missing some fundamental elements. For example, a personalised class timetable, as [I've complained about before](/blog2/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/).
+So there is a new look portal intended to bring everything into one place, to make life easier for students. However, it is still missing some fundamental elements. For example, a personalised class timetable, as [I've complained about before](/blog/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/).
 
 There is a calendar in this new portal. Ahh, it's Google calendar. But it's not pre-populated with anything. I'm currently looking through the course profiles at the assessment. Slowly building up a calendar of due dates, wouldn't it be nice if this could be done automatically? After all the institution has the due dates in a database, it knows which courses I'm enrolled in. At the very least, the ability to download an ical file or similar to import might be nice.
 
-The absence of this sort of thing, especially if it remains absent in the long term, is another example of the problems facing institutional systems touched on briefly [in the post around open source LMS](/blog2/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/). The IT folk at this institution are focused on package provision, not on the user. They will provide the calendar, but joining together two separate systems is not something they - or the applications - will do automatically.
+The absence of this sort of thing, especially if it remains absent in the long term, is another example of the problems facing institutional systems touched on briefly [in the post around open source LMS](/blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/). The IT folk at this institution are focused on package provision, not on the user. They will provide the calendar, but joining together two separate systems is not something they - or the applications - will do automatically.
 
 ### Personal versus institutional
 

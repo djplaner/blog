@@ -6,10 +6,10 @@ categories:
 date: 2009-05-15 15:38:16+10:00
 next:
   text: Lessons from place
-  url: /blog2/2009/05/17/lessons-from-place/
+  url: /blog/2009/05/17/lessons-from-place/
 previous:
   text: Institution - another part of place
-  url: /blog2/2009/05/15/institution-another-part-of-place/
+  url: /blog/2009/05/15/institution-another-part-of-place/
 title: '"Phd Update #11 - very short week"'
 type: post
 template: blog-post.html
@@ -36,15 +36,15 @@ Well, this week was a very short week. All up 4 days were lost with illness, wor
 
 ### What I've done
 
-[Last week](/blog2/2009/05/08/phd-update-10-dragging-on/) I suggested I would aim to:
+[Last week](/blog/2009/05/08/phd-update-10-dragging-on/) I suggested I would aim to:
 
 - Have completed and posted the section on “Place”.
 - Be close to doing the same thing for “Purpose”.
 - Perhaps make some headway for another component of the Ps Framework – perhaps either People or Pedagogy.
 
-I haven't really looked at "Purpose" or any other component of the Ps Framework. I've only been able to work on Place. On [last week's summary](/blog2/2009/05/08/phd-update-10-dragging-on/) I outlined the following as sections required to complete "place":
+I haven't really looked at "Purpose" or any other component of the Ps Framework. I've only been able to work on Place. On [last week's summary](/blog/2009/05/08/phd-update-10-dragging-on/) I outlined the following as sections required to complete "place":
 
-- [Institution](/blog2/2009/05/15/institution-another-part-of-place/) - **DONE**
+- [Institution](/blog/2009/05/15/institution-another-part-of-place/) - **DONE**
 - Types of systems - **DONE**  
     No post for this section, I've worked it into the institution section in a much reduced form.
 - Lessons from place - not done  
@@ -52,8 +52,8 @@ I haven't really looked at "Purpose" or any other component of the Ps Framework.
 
 In terms of PhD related blog posts in the last week, I've posted:
 
-- [What don't we (e-)learn](/blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/) relating my introduction to Argyris and Schon's notions of Model 1 and Model 2 behaviours and defensive routines.
-- [Everything old is new again](/blog2/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/) - sparked by one of the texts I used in the Institution section. It examines how much of the concern shown today about universities, has been going on for sometime.
+- [What don't we (e-)learn](/blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/) relating my introduction to Argyris and Schon's notions of Model 1 and Model 2 behaviours and defensive routines.
+- [Everything old is new again](/blog/2009/05/10/everything-old-is-new-again-universities-should-be-more-business-like/) - sparked by one of the texts I used in the Institution section. It examines how much of the concern shown today about universities, has been going on for sometime.
 
 ### What will I do for next week?
 

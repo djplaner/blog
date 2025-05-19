@@ -4,10 +4,10 @@ categories:
 date: 2011-12-04 15:19:57+10:00
 next:
   text: The failures of intuition in education
-  url: /blog2/2011/12/05/the-failures-of-intuition-in-education/
+  url: /blog/2011/12/05/the-failures-of-intuition-in-education/
 previous:
   text: Twitter, pre-service teachers and creating networks
-  url: /blog2/2011/11/21/twitter-pre-service-teachers-and-creating-networks/
+  url: /blog/2011/11/21/twitter-pre-service-teachers-and-creating-networks/
 tags:
 - analytics
 title: Some of the learning analytics literature
@@ -37,7 +37,7 @@ Am trying to slowly get back into the learning analytics literature as part of w
 
 ### Definitions, processes and potentials
 
-[This paper](http://learninganalytics.net/LearningAnalyticsDefinitionsProcessesPotential.pdf) was one of the contributions to the [LAK'11 MOOC](http://scope.bccampus.ca/course/view.php?id=365) (which was yet another MOOC I [engaged with briefly](/blog2/category/lak11/)). [Here's the summary](/blog2/2011/01/10/learning-analytics-definitions-processes-and-potential/) of this paper I did earlier this year.
+[This paper](http://learninganalytics.net/LearningAnalyticsDefinitionsProcessesPotential.pdf) was one of the contributions to the [LAK'11 MOOC](http://scope.bccampus.ca/course/view.php?id=365) (which was yet another MOOC I [engaged with briefly](/blog/category/lak11/)). [Here's the summary](/blog/2011/01/10/learning-analytics-definitions-processes-and-potential/) of this paper I did earlier this year.
 
 ### Social learning analytics
 

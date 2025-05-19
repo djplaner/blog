@@ -5,11 +5,11 @@ date: 2012-11-29 23:07:37+10:00
 next:
   text: '"Enabling academics to apply learning analytics to individual pedagogical
     practice: how and with what impacts?"'
-  url: /blog2/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
+  url: /blog/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
 previous:
   text: 'The life and death of Webfuse: What&#039;s wrong with industrial e-learning
     and how to fix it'
-  url: /blog2/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/
+  url: /blog/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/
 title: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
 type: post
 template: blog-post.html
@@ -71,9 +71,9 @@ The following resources are for a [presentation](http://epress.lib.uts.edu.au/co
 
 The premise of the talk is that learning analytics shows all the hallmarks of a management fashion, fad, or bandwagon and to avoid this we need to talk more realistically about its implementation. The talk identifies three paths that Universities might use to implement learning analytics and identifies pitfalls for each of these paths. The argument is that there are one or two dominant paths and a forgotten path. It's the forgotten path that my co-author and I are most interested in. It's the path which we think will allow learning analytics to have the most impact upon learning and teaching.
 
-There is an abstract on the conference site and an [extended abstract](/blog2/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/).
+There is an abstract on the conference site and an [extended abstract](/blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/).
 
-This presentation evolved from an [unsuccessful OLT grant application](/blog2/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/) that attempted to engage with the forgotten path.
+This presentation evolved from an [unsuccessful OLT grant application](/blog/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/) that attempted to engage with the forgotten path.
 
 ### Slides
 

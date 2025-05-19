@@ -9,10 +9,10 @@ categories:
 date: 2009-04-22 12:36:39+10:00
 next:
   text: Usage of e-learning - quantity
-  url: /blog2/2009/04/23/usage-of-e-learning-quantity/
+  url: /blog/2009/04/23/usage-of-e-learning-quantity/
 previous:
   text: Pedagogy of the impressed - how teachers become victims of technology vision
-  url: /blog2/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
+  url: /blog/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/
 title: E-learning usage - quality
 type: post
 template: blog-post.html
@@ -160,7 +160,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following post is a continuation of posts from the "Past Experience" section of chapter 2 of [my thesis](/blog2/research/phd-thesis/). It follows on from previous posts including: [Ps Framework](/blog2/2009/03/18/the-ps-framework/), [History of technology-mediated learning](/blog2/2009/04/17/a-history-of-technology-mediated-learning/), and [the paradigms of e-learning](/blog2/2009/04/20/the-paradigms-of-e-learning/).
+The following post is a continuation of posts from the "Past Experience" section of chapter 2 of [my thesis](/blog/research/phd-thesis/). It follows on from previous posts including: [Ps Framework](/blog/2009/03/18/the-ps-framework/), [History of technology-mediated learning](/blog/2009/04/17/a-history-of-technology-mediated-learning/), and [the paradigms of e-learning](/blog/2009/04/20/the-paradigms-of-e-learning/).
 
 I'm currently working on the "e-learning usage" section. The aim here is to look at the quality and quantity of usage of e-learning over the last 10 years or so - i.e. in the industrial e-learning paradigm. The quality and quantity overviews are part of the same section, so the following includes the current introduction to the overall section and then gets into the discussion of quality. Hopefully the quantity section will be up ASAP.
 
@@ -170,7 +170,7 @@ Eventually, at some stage in the thesis, I will be arguing that the reason behin
 
 ### Industrial e-learning usage - quantity and quality
 
-This section seeks to summarise what is known about the usage of e-learning within higher education. As shown in the [previous section](/blog2/2009/04/20/the-paradigms-of-e-learning/), the use of e-learning within higher education can be traced back to around the early 1990s. Rather than examine the entire history of e-learning, this section will focus on the usage of the predominant and current e-learning paradigm – industrial e-learning. This section examines usage of industrial e-learning from two perspectives. The first perspective is that of the quality of the learning experience for all participants. The second perspective is in terms of the quantity of usage, in terms of number of staff and students, organizations and the tools they use. In summary, while there has been widespread adoption of industrial e-learning by institutions, the quality of the e-learning is questionable and the level of use, while growing, is still not deep nor broad.
+This section seeks to summarise what is known about the usage of e-learning within higher education. As shown in the [previous section](/blog/2009/04/20/the-paradigms-of-e-learning/), the use of e-learning within higher education can be traced back to around the early 1990s. Rather than examine the entire history of e-learning, this section will focus on the usage of the predominant and current e-learning paradigm – industrial e-learning. This section examines usage of industrial e-learning from two perspectives. The first perspective is that of the quality of the learning experience for all participants. The second perspective is in terms of the quantity of usage, in terms of number of staff and students, organizations and the tools they use. In summary, while there has been widespread adoption of industrial e-learning by institutions, the quality of the e-learning is questionable and the level of use, while growing, is still not deep nor broad.
 
 #### Quality
 

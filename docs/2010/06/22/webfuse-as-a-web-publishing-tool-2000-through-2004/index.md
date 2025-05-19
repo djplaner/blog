@@ -9,15 +9,15 @@ categories:
 date: 2010-06-22 14:18:39+10:00
 next:
   text: Default course sites and wizards - version 2.0
-  url: /blog2/2010/06/25/default-course-sites-and-wizards-version-2-0/
+  url: /blog/2010/06/25/default-course-sites-and-wizards-version-2-0/
 previous:
   text: Flexible and support diversity
-  url: /blog2/2010/06/21/flexible-and-support-diversity/
+  url: /blog/2010/06/21/flexible-and-support-diversity/
 title: Webfuse as a web publishing tool - 2000 through 2004
 type: post
 template: blog-post.html
 ---
-This is the second post containing a part of the evaluation section of chapter 5 of my [PhD thesis](/blog2/research/phd-thesis/). It looks at how much/well Webfuse acted as a web publishing tool during 2000-2004. There's not much here, as this is not the focus.
+This is the second post containing a part of the evaluation section of chapter 5 of my [PhD thesis](/blog/research/phd-thesis/). It looks at how much/well Webfuse acted as a web publishing tool during 2000-2004. There's not much here, as this is not the focus.
 
 ### A web publishing tool
 

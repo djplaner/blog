@@ -11,10 +11,10 @@ date: 2017-11-26 10:38:02+10:00
 next:
   text: Are learning analytics leading us towards a utopian or dystopian future, and
     what can we as practitioners do to influence this?
-  url: /blog2/2017/12/02/are-learning-analytics-leading-us-towards-a-utopian-or-dystopian-future-and-what-can-we-as-practitioners-do-to-influence-this/
+  url: /blog/2017/12/02/are-learning-analytics-leading-us-towards-a-utopian-or-dystopian-future-and-what-can-we-as-practitioners-do-to-influence-this/
 previous:
   text: Improving teacher awareness, action and reflection on learner activity
-  url: /blog2/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/
+  url: /blog/2017/11/12/improving-teacher-awareness-action-and-reflection-on-learner-activity/
 title: Teacher DIY learning analytics - implications & questions for institutional
   learning analytics
 type: post

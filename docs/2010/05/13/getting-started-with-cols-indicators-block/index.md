@@ -5,10 +5,10 @@ categories:
 date: 2010-05-13 11:04:25+10:00
 next:
   text: Qualms about the alignment project
-  url: /blog2/2010/05/14/qualms-about-the-alignment-project/
+  url: /blog/2010/05/14/qualms-about-the-alignment-project/
 previous:
   text: More thinking about the alignment project
-  url: /blog2/2010/05/13/more-thinking-about-the-alignment-project/
+  url: /blog/2010/05/13/more-thinking-about-the-alignment-project/
 title: Getting started with Col's indicators block
 type: post
 template: blog-post.html
@@ -81,7 +81,7 @@ pingbacks:
       user_id: '0'
     
 ---
-[Col](http://beerc.wordpress.com/) has been playing around with some ideas for a [Moodle indicators block](/blog2/2010/05/09/requirements-for-an-indicators-moodle-block/). This is a record of my first attempt to install and play with the block. Might also do a bit of reflection and setting up of processes etc so we can go further with this.
+[Col](http://beerc.wordpress.com/) has been playing around with some ideas for a [Moodle indicators block](/blog/2010/05/09/requirements-for-an-indicators-moodle-block/). This is a record of my first attempt to install and play with the block. Might also do a bit of reflection and setting up of processes etc so we can go further with this.
 
 The long term goal is to promote the [Indicators project](http://indicatorsproject.wordpress.com/), help some folk and do some research.
 
@@ -119,7 +119,7 @@ This is something the block should recognise and address, some solutions might i
 
 ### Putting the block under git
 
-If we're going to work collaboratively on this, and allow other people to use it, we need some sort of support for version control and a range of other features. I've been using git and github for [BIM](/blog2/research/bam-blog-aggregation-management/), so I think we should use those for the block. I'm still a newbie at this, but I'm slightly ahead of the other guys in the indicators project. So the following shares what I did to get this up and going in the hope that it is useful for them and that they (and others) can pick up any errors I made.
+If we're going to work collaboratively on this, and allow other people to use it, we need some sort of support for version control and a range of other features. I've been using git and github for [BIM](/blog/research/bam-blog-aggregation-management/), so I think we should use those for the block. I'm still a newbie at this, but I'm slightly ahead of the other guys in the indicators project. So the following shares what I did to get this up and going in the hope that it is useful for them and that they (and others) can pick up any errors I made.
 
 #### Getting started
 

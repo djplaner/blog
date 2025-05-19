@@ -5,10 +5,10 @@ categories:
 date: 2006-12-23 21:39:27+10:00
 next:
   text: Rationale for the Web 2.0 Course Site approach
-  url: /blog2/2006/12/23/rationale-for-the-web-20-course-site-approach-2/
+  url: /blog/2006/12/23/rationale-for-the-web-20-course-site-approach-2/
 previous:
   text: SaaS, Consumer products, shadow systems and e-learning
-  url: /blog2/2006/12/22/saas-consumer-products-shadow-systems-and-e-learning/
+  url: /blog/2006/12/22/saas-consumer-products-shadow-systems-and-e-learning/
 title: Rationale for the Web 2.0 Course Site approach
 type: post
 template: blog-post.html

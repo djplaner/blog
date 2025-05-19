@@ -4,10 +4,10 @@ categories:
 date: 2015-08-16 17:27:55+10:00
 next:
   text: There's more to it than the Internet and social software
-  url: /blog2/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/
+  url: /blog/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/
 previous:
   text: Bringing github and the Moodle book module together - step 1
-  url: /blog2/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
+  url: /blog/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
 title: github and the Moodle book - Step 2
 type: post
 template: blog-post.html
@@ -30,7 +30,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The continuing story of linking github and the Moodle book module. Following on from [step 1](/blog2/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/) the main aim here is to grok [the PHP client](https://github.com/tan-tan-kanarek/github-php-client) for the github api I'm currently chosen.
+The continuing story of linking github and the Moodle book module. Following on from [step 1](/blog/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/) the main aim here is to grok [the PHP client](https://github.com/tan-tan-kanarek/github-php-client) for the github api I'm currently chosen.
 
 Some additional work to be done includes
 

@@ -5,10 +5,10 @@ categories:
 date: 2007-08-25 07:46:03+10:00
 next:
   text: The role for institutions with PLEs
-  url: /blog2/2007/08/31/the-role-for-institutions-with-ples/
+  url: /blog/2007/08/31/the-role-for-institutions-with-ples/
 previous:
   text: Mediawiki, organisational websites and emergence
-  url: /blog2/2007/08/15/mediawiki-organisational-websites-and-emergence/
+  url: /blog/2007/08/15/mediawiki-organisational-websites-and-emergence/
 title: Diffusion theory to guide adoption of immersive Web3D environments in learning
 type: post
 template: blog-post.html

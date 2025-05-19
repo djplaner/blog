@@ -4,10 +4,10 @@ categories:
 date: 2009-06-04 10:08:44+10:00
 next:
   text: Teleological design - definition and weaknesses
-  url: /blog2/2009/06/05/teleological-design-definition-and-weaknesses/
+  url: /blog/2009/06/05/teleological-design-definition-and-weaknesses/
 previous:
   text: Attending lectures is &#039;old school&#039; - what else is?
-  url: /blog2/2009/06/02/attending-lectures-is-old-school-what-else-is/
+  url: /blog/2009/06/02/attending-lectures-is-old-school-what-else-is/
 title: Tell a story about your garden - narrative and SenseMaker
 type: post
 template: blog-post.html
@@ -61,11 +61,11 @@ pingbacks:
     []
     
 ---
-There have been a [few glimmers](/blog2/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/) in this blog in my undeveloped, long stalled but slowly growing interest in the use of narrative, metaphor and myth to understand and engage in innovation around learning and teaching. Much, but not all, of this arises from the work of [Dave Snowden](http://www.cognitive-edge.com/blogs/dave/) and attending [one of his workshops](/blog2/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/).
+There have been a [few glimmers](/blog/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/) in this blog in my undeveloped, long stalled but slowly growing interest in the use of narrative, metaphor and myth to understand and engage in innovation around learning and teaching. Much, but not all, of this arises from the work of [Dave Snowden](http://www.cognitive-edge.com/blogs/dave/) and attending [one of his workshops](/blog/2008/03/16/initial-thoughts-from-cogedge-accreditation-course/).
 
 ### A chance to play with SenseMaker
 
-One of my interests is in the [SenseMaker suite](http://www.cognitive-edge.com/sensemaker_suite.php) as a tool that might be useful for a number of tasks. In particular, I'm interested in seeing if this might provide some interesting alternatives to the [evaluation of learning and teaching](/blog2/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/). However, apart from seeing SenseMaker in action at the workshop I attended and reading about it, I haven't had a chance to play with it.
+One of my interests is in the [SenseMaker suite](http://www.cognitive-edge.com/sensemaker_suite.php) as a tool that might be useful for a number of tasks. In particular, I'm interested in seeing if this might provide some interesting alternatives to the [evaluation of learning and teaching](/blog/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/). However, apart from seeing SenseMaker in action at the workshop I attended and reading about it, I haven't had a chance to play with it.
 
 In a [recent blog post](http://www.cognitive-edge.com/blogs/dave/2009/06/garden_project_an_invitation.php) Dave Snowden extends an invitation to use a part of the SenseMaker suite to contribute to an open project about gardens.
 

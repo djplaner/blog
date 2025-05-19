@@ -4,10 +4,10 @@ categories:
 date: 2010-09-17 16:01:57+10:00
 next:
   text: Dilbert as an expository instantiation
-  url: /blog2/2010/09/18/dilbert-as-an-expository-instantiation/
+  url: /blog/2010/09/18/dilbert-as-an-expository-instantiation/
 previous:
   text: Justificatory knowledge
-  url: /blog2/2010/09/17/justificatory-knowledge/
+  url: /blog/2010/09/17/justificatory-knowledge/
 title: The office and more procrastination
 type: post
 template: blog-post.html

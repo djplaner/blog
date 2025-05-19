@@ -5,10 +5,10 @@ categories:
 date: 2010-10-28 14:44:30+10:00
 next:
   text: Crisis in higher education and limitations that prevent change
-  url: /blog2/2010/11/01/crisis-in-higher-education-and-limitations-that-prevent-change/
+  url: /blog/2010/11/01/crisis-in-higher-education-and-limitations-that-prevent-change/
 previous:
   text: No burden for TEQSA, yea right
-  url: /blog2/2010/10/27/no-burden-for-teqsa-yea-right/
+  url: /blog/2010/10/27/no-burden-for-teqsa-yea-right/
 title: Thesis abstract v1.0b
 type: post
 template: blog-post.html
@@ -54,7 +54,7 @@ pingbacks:
     []
     
 ---
-The following is yet another sign that [the thesis](/blog2/research/phd-thesis/) is finally getting close to submission. The following is the second version of an abstract of the thesis. There have been some changes, feedback always welcome.
+The following is yet another sign that [the thesis](/blog/research/phd-thesis/) is finally getting close to submission. The following is the second version of an abstract of the thesis. There have been some changes, feedback always welcome.
 
 ### Abstract
 

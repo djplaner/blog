@@ -4,15 +4,15 @@ categories:
 date: 2010-11-18 17:12:25+10:00
 next:
   text: Interesting times ahead
-  url: /blog2/2010/11/20/interesting-times-ahead/
+  url: /blog/2010/11/20/interesting-times-ahead/
 previous:
   text: Understanding EduFeedr and contrast with BIM
-  url: /blog2/2010/11/17/understanding-edufeedr-and-contrast-with-bim/
+  url: /blog/2010/11/17/understanding-edufeedr-and-contrast-with-bim/
 title: Installing and starting with Moodle 2.0
 type: post
 template: blog-post.html
 ---
-As a first step to [BIM v2.0](/blog2/2010/11/09/initial-plans-for-bim-2-0/) I'm installing and starting to play with Moodle 2.0 (RC2). The following is a summary/reflection of the experience. One of the aims of this is to investigate how Moodle 2.0 handles its integration with external blogs and see what lessons/insights I can learn for BIM v2.0.
+As a first step to [BIM v2.0](/blog/2010/11/09/initial-plans-for-bim-2-0/) I'm installing and starting to play with Moodle 2.0 (RC2). The following is a summary/reflection of the experience. One of the aims of this is to investigate how Moodle 2.0 handles its integration with external blogs and see what lessons/insights I can learn for BIM v2.0.
 
 _Warning:_ This is a little incomplete, I'm posting early for testing purposes.
 

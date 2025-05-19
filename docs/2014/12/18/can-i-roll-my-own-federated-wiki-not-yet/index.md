@@ -4,10 +4,10 @@ categories:
 date: 2014-12-18 09:16:59+10:00
 next:
   text: '"Starting to write for Fedwiki - Daily #4 (and 5)"'
-  url: /blog2/2014/12/18/starting-to-write-for-fedwiki-daily-4-and-5/
+  url: /blog/2014/12/18/starting-to-write-for-fedwiki-daily-4-and-5/
 previous:
   text: 'Initial steps with the #FedWikiHappening happening'
-  url: /blog2/2014/12/16/initial-steps-with-the-fedwikihappening-happening/
+  url: /blog/2014/12/16/initial-steps-with-the-fedwikihappening-happening/
 tags:
 - fedwikihappening
 title: Can I roll my own federated wiki? (not yet)

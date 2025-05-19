@@ -9,10 +9,10 @@ categories:
 date: 2010-10-06 16:58:54+10:00
 next:
   text: The problem with blended learning
-  url: /blog2/2010/10/13/the-problem-with-blended-learning/
+  url: /blog/2010/10/13/the-problem-with-blended-learning/
 previous:
   text: The nature of user involvement in LMS selection and implementation
-  url: /blog2/2010/09/28/the-nature-of-user-involvement-in-lms-selection-and-implementation/
+  url: /blog/2010/09/28/the-nature-of-user-involvement-in-lms-selection-and-implementation/
 title: '"Making the LMS more like the Globe Theatre: distributed cognition, the extended
   mind and Moodle"'
 type: post
@@ -168,11 +168,11 @@ I'm not sure that most LMS are designed in a way such that
 
 > “Novice\[s\]” can thus be “embed\[ded\]” in the system and perform at a level far above that which they could attain by means of their individual cognitive powers alone.
 
-. The evidence from [past experience with LMS](/blog2/2009/04/25/lessons-for-e-learning/) seems to indicate that most e-learning is not all that good, perhaps indicative of how well the LMS support distributed cognition.
+. The evidence from [past experience with LMS](/blog/2009/04/25/lessons-for-e-learning/) seems to indicate that most e-learning is not all that good, perhaps indicative of how well the LMS support distributed cognition.
 
 ### Some ideas for BIM
 
-[BIM](/blog2/research/bam-blog-aggregation-management/) is a Moodle module that I've written. It's probably going to be the first place I experiment with some of these ideas. Some initial thoughts:
+[BIM](/blog/research/bam-blog-aggregation-management/) is a Moodle module that I've written. It's probably going to be the first place I experiment with some of these ideas. Some initial thoughts:
 
 - Improve the help documentation provided with BIM to include the videos that have been produced and also provide links and summaries of some of the literature around the use of blogs in higher education.  
     This is a simple first step that arguably should have been done already.
@@ -188,7 +188,7 @@ I'm not sure that most LMS are designed in a way such that
 
 ### Ideas for Moodle
 
-Some of the ideas for BIM could potentially be applied to any complex process within the use of an LMS/Moodle such as the design of a course site or the management of a discussion forum. This links to some extent to the earlier suggestion of [combining analytics and discussion forums](/blog2/2010/09/04/light-weight-analytics-tools-as-part-of-scaffolding-context-sensitive-conglomerations/).
+Some of the ideas for BIM could potentially be applied to any complex process within the use of an LMS/Moodle such as the design of a course site or the management of a discussion forum. This links to some extent to the earlier suggestion of [combining analytics and discussion forums](/blog/2010/09/04/light-weight-analytics-tools-as-part-of-scaffolding-context-sensitive-conglomerations/).
 
 ### Misc reflections
 

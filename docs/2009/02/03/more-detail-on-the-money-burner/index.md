@@ -4,17 +4,17 @@ categories:
 date: 2009-02-03 09:36:19+10:00
 next:
   text: The ritual dissent method shows great promise
-  url: /blog2/2009/02/08/the-ritual-dissent-method-shows-great-promise/
+  url: /blog/2009/02/08/the-ritual-dissent-method-shows-great-promise/
 previous:
   text: Data mining of online courses - dominant assumptions and innovation potential
-  url: /blog2/2009/02/02/data-mining-of-online-courses-dominant-assumptions-and-innovation-potential/
+  url: /blog/2009/02/02/data-mining-of-online-courses-dominant-assumptions-and-innovation-potential/
 title: More detail on the money burner
 type: post
 template: blog-post.html
 ---
 [![Melbourne Cup Day - by doublebug on Flickr](images/2398568382_2757cd401c_m.jpg)](http://flickr.com/photos/doublebug/2398568382/)
 
-In an [earlier post](/blog2/2009/02/02/joining-the-landed-gentry-getting-a-money-burner/) I shared my joy at joining the horse racing set as the proud half owner of a broodmare. In an attempt to draw me further into this fiscal nightmare I've been provided with more information about our "investment" and it's likelihood of success.
+In an [earlier post](/blog/2009/02/02/joining-the-landed-gentry-getting-a-money-burner/) I shared my joy at joining the horse racing set as the proud half owner of a broodmare. In an attempt to draw me further into this fiscal nightmare I've been provided with more information about our "investment" and it's likelihood of success.
 
 Success that has had the emphasis placed on the Melbourne Cup, but is just as likely to end up at venues far less salubrious.
 

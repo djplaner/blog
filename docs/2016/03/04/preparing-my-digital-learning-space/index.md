@@ -7,10 +7,10 @@ categories:
 date: 2016-03-04 13:33:34+10:00
 next:
   text: Producing OPML files for EDC3100 student blogs
-  url: /blog2/2016/03/06/producing-opml-files-for-edc3100-student-blogs/
+  url: /blog/2016/03/06/producing-opml-files-for-edc3100-student-blogs/
 previous:
   text: PEBKAC, mental model mismatch and ICT
-  url: /blog2/2016/03/02/pebkac-mental-model-mismatch-and-ict/
+  url: /blog/2016/03/02/pebkac-mental-model-mismatch-and-ict/
 title: Preparing my digital "learning space"
 type: post
 template: blog-post.html
@@ -40,7 +40,7 @@ The following documents the (hopefully) last bit of extra work I have to underta
 
 The work I've done today allows me to easily access from within the main digital learning space for EDC3100 (the Moodle course site) three different types of additional information about individual students.
 
-It's also an example of how the [BAD mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) is able to work around the significant constraints caused by the SET mindset and in the process create [shadow systems](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/), which in turn illustrates the presence of a gap (i.e. yawning chasm) between what is provided and what is required.
+It's also an example of how the [BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) is able to work around the significant constraints caused by the SET mindset and in the process create [shadow systems](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/), which in turn illustrates the presence of a gap (i.e. yawning chasm) between what is provided and what is required.
 
 [![The shadow system gap](images/27862605330_e4a688894d.jpg)](https://www.flickr.com/photos/david_jones/27862605330/in/dateposted-public/ "The shadow system gap")Adapted from Behrens and Sedera (2004)
 
@@ -67,7 +67,7 @@ This student has written two blog posts. Both are fairly positive in the sentime
 There are a number of reasons for this post:
 
 1. Reinforce the point about the value of an API infrastructure for sharing information between systems (and one that's open to users).
-2. Document the huge gap that exists between the digital learning spaces universities are providing and what is actually required to implement useful pedagogies - especially when it comes to what Goodyear and Dimitriatdis (2013) call ["design for orchestration"](/blog2/2013/11/13/on-the-limitations-of-learning-design-for-improving-learning-and-teaching/) - providing support for the teacher’s work at learn time.
+2. Document the huge gap that exists between the digital learning spaces universities are providing and what is actually required to implement useful pedagogies - especially when it comes to what Goodyear and Dimitriatdis (2013) call ["design for orchestration"](/blog/2013/11/13/on-the-limitations-of-learning-design-for-improving-learning-and-teaching/) - providing support for the teacher’s work at learn time.
 3. Make sure I document the process to reduce the amount of work I have to do next time around.
 4. Demonstrate to the EDC3100 participants some of the possibilities with digital technologies, make them aware of some of what happens in the background of the course, and illustrate the benefits that can come from manipulating digital technologies for pedagogical purposes.
 5. Discover all the nastly little breaks in the routine caused by external changes (further illustrating the unstable nature of digital technologies).
@@ -76,10 +76,10 @@ There are a number of reasons for this post:
 
 I'll be duplicating a range of institutional data sources (student records and Moodle) so that I can implement a range of additional pedagogical supports, including:
 
-- ["Know thy student"](/blog2/2015/09/15/helping-teachers-know-thy-students/); and
-- [draft learning journal reports](/blog2/2013/06/10/the-kludge-for-marking-learning-journals/).
+- ["Know thy student"](/blog/2015/09/15/helping-teachers-know-thy-students/); and
+- [draft learning journal reports](/blog/2013/06/10/the-kludge-for-marking-learning-journals/).
 
-Hopefully, I'll be able to follow [the process vaguely outlined](/blog2/2015/07/23/updating-more-student-details/) from prior offerings. (Yep, that's right. I have to repeat this process for every course offering, would be nice to automate).
+Hopefully, I'll be able to follow [the process vaguely outlined](/blog/2015/07/23/updating-more-student-details/) from prior offerings. (Yep, that's right. I have to repeat this process for every course offering, would be nice to automate).
 
 ### Create new local Moodle course
 
@@ -104,7 +104,7 @@ Need to identify
 
 ### Enrol students in the course
 
-Ahh, returning to [Webfuse](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) scripts, the sad, depleted remnants of my PhD.
+Ahh, returning to [Webfuse](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) scripts, the sad, depleted remnants of my PhD.
 
 ~/webfuse/lib/BAM/3100/3100\_support/participants/parse.pl is a script that will parse the Moodle participants web page, extract data about the enrolled users, and insert them appropriately into the database for my local Moodle course.
 

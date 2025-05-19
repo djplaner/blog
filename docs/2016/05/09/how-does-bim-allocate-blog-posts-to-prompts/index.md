@@ -4,10 +4,10 @@ categories:
 date: 2016-05-09 14:27:53+10:00
 next:
   text: Testing out the Moodle search book block
-  url: /blog2/2016/05/10/testing-out-the-moodle-book-search/
+  url: /blog/2016/05/10/testing-out-the-moodle-book-search/
 previous:
   text: Focus, innovation and university IT
-  url: /blog2/2016/04/28/focus-innovation-and-university-it/
+  url: /blog/2016/04/28/focus-innovation-and-university-it/
 title: How does BIM allocate blog posts to prompts
 type: post
 template: blog-post.html
@@ -20,7 +20,7 @@ https://twitter.com/UOWMoodleLAB/status/729511696054681600
 
 [BIM](https://moodle.org/plugins/mod_bim) is a plugin for the Moodle LMS. BIM is "Designed to support the management of individual student blogs (typically external to Moodle) as personal learning/reflective journals". Students create their individual blogs (or anything that produces a RSS/Atom feed) and register it with BIM. BIM then mirrors all posts within the Moodle course and provides functionality to support the management and marking.
 
-A part of that functionality allows the teacher to create "prompts". The [design of the original tool (BAM)](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) assumed that students would write posts that respond to these prompts. These posts would be marked by teaching staff.
+A part of that functionality allows the teacher to create "prompts". The [design of the original tool (BAM)](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) assumed that students would write posts that respond to these prompts. These posts would be marked by teaching staff.
 
 BAM (and subsequently BIM) was designed to do very simple pattern matching to auto-allocate a student post to a particular prompt. It also provides an interface that allows teaching staff to manually change the allocations.
 

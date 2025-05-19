@@ -5,10 +5,10 @@ categories:
 date: 2010-04-07 08:55:44+10:00
 next:
   text: '"Phd Update #26 - Getting to first draft stage"'
-  url: /blog2/2010/04/09/phd-update-26-getting-to-first-draft-stage/
+  url: /blog/2010/04/09/phd-update-26-getting-to-first-draft-stage/
 previous:
   text: What are good designs/design principles for Moodle
-  url: /blog2/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
+  url: /blog/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
 title: '"Reducing the aggravation of student blogging: The story of BIM"'
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In a couple of weeks I'm off to Canberra to talk PhD, potential ALTC grants and promote the use of [BIM](/blog2/research/bam-blog-aggregation-management/). As part of the latter task, I'm giving a quick talk at the University of Canberra as part of their [Stuff the works lunches](http://www.canberra.edu.au/tlc/current-events). The title of the talk is "Reducing the aggravation of student blogging: The story of BIM".
+In a couple of weeks I'm off to Canberra to talk PhD, potential ALTC grants and promote the use of [BIM](/blog/research/bam-blog-aggregation-management/). As part of the latter task, I'm giving a quick talk at the University of Canberra as part of their [Stuff the works lunches](http://www.canberra.edu.au/tlc/current-events). The title of the talk is "Reducing the aggravation of student blogging: The story of BIM".
 
 I have to send of a short abstract for the talk today, so thought I'd share it here. I'll use this post as the home for all the resources associated with the talk. The slides should be up sometime just before the talk and I hope some audio/video will follow not long after.
 
@@ -44,7 +44,7 @@ There are many good reasons (reflection and meta-cognition, reducing transaction
 
 This session will tell the story of BIM (BAM into Moodle). A Moodle module designed to reduce the aggravations of supporting individual student blogging. Since 2006 BIM, and its predecessor BAM, have been used to support 2800+ students in 26+ course offerings creating 20,000+ blog posts. The session will show how BIM works and describe one approach to why and how it was used in one course. It will include discussion of the challenges and benefits of using BIM.
 
-More information about BIM can be found here [/blog2/research/bam-blog-aggregation-management/](/blog2/research/bam-blog-aggregation-management/)
+More information about BIM can be found here [/blog/research/bam-blog-aggregation-management/](/blog/research/bam-blog-aggregation-management/)
 
 ### Slides
 

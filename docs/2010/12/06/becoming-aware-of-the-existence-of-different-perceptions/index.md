@@ -4,10 +4,10 @@ categories:
 date: 2010-12-06 15:32:33+10:00
 next:
   text: A solution for BIM and special characters?
-  url: /blog2/2010/12/10/a-solution-for-bim-and-special-characters/
+  url: /blog/2010/12/10/a-solution-for-bim-and-special-characters/
 previous:
   text: A new theme for Moodle 2
-  url: /blog2/2010/12/06/a-new-theme-for-moodle-2/
+  url: /blog/2010/12/06/a-new-theme-for-moodle-2/
 title: Becoming aware of the existence of different perceptions
 type: post
 template: blog-post.html

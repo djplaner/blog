@@ -6,10 +6,10 @@ categories:
 date: 2012-07-07 15:55:37+10:00
 next:
   text: Redesigning the weekly ramble
-  url: /blog2/2012/07/15/redesigning-the-weekly-ramble/
+  url: /blog/2012/07/15/redesigning-the-weekly-ramble/
 previous:
   text: Reducing meaningless freedom and a Mahara feature request
-  url: /blog2/2012/06/30/reducing-meaningless-freedom-and-a-mahara-feature-request/
+  url: /blog/2012/06/30/reducing-meaningless-freedom-and-a-mahara-feature-request/
 title: '"Why do (social) networks matter in teaching &#038; learning?"'
 type: post
 template: blog-post.html

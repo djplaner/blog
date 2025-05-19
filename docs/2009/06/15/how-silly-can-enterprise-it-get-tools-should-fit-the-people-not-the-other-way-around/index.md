@@ -5,10 +5,10 @@ categories:
 date: 2009-06-15 10:40:43+10:00
 next:
   text: Institutional e-learning strategies
-  url: /blog2/2009/06/17/institutional-e-learning-strategies/
+  url: /blog/2009/06/17/institutional-e-learning-strategies/
 previous:
   text: 'PhD Update #14 - Moving to a new day'
-  url: /blog2/2009/06/14/phd-update-14-moving-to-a-new-day/
+  url: /blog/2009/06/14/phd-update-14-moving-to-a-new-day/
 title: How silly can enterprise IT get? Tools should fit the people, not the other
   way around
 type: post
@@ -132,7 +132,7 @@ i.e. a space instead of the "/".
 
 ### Tools should fit the people, not the other way around
 
-Dave Snowden gave a keynote, [which he described here](http://www.cognitive-edge.com/blogs/dave/2009/04/kmrc_conference_blog_snowden.php) and uses the following quote which I've [used before](/blog2/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/)
+Dave Snowden gave a keynote, [which he described here](http://www.cognitive-edge.com/blogs/dave/2009/04/kmrc_conference_blog_snowden.php) and uses the following quote which I've [used before](/blog/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/)
 
 > Technology is a tool and like all tools it should fit your hand when you pick it up, you shouldn’t have to bio-re-engineer your hand to fit the tool.
 

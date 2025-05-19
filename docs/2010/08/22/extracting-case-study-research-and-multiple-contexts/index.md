@@ -4,21 +4,21 @@ categories:
 date: 2010-08-22 12:29:36+10:00
 next:
   text: Oil sheiks, Lucifer and university learning and teaching
-  url: /blog2/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/
+  url: /blog/2010/08/23/oil-sheiks-lucifer-and-university-learning-and-teaching/
 previous:
   text: 'PhD Update #28 - minimal work, feedback arrived'
-  url: /blog2/2010/08/22/phd-update-28-minimal-work-feedback-arrived/
+  url: /blog/2010/08/22/phd-update-28-minimal-work-feedback-arrived/
 title: Extracting case study research and multiple contexts?
 type: post
 template: blog-post.html
 ---
-The following is an attempt to consider and respond to a suggestion on [my thesis](/blog2/research/phd-thesis/) from my esteemed supervisor. It's essentially some thinking and questions arising from further refinement of the research method being used in my thesis.
+The following is an attempt to consider and respond to a suggestion on [my thesis](/blog/research/phd-thesis/) from my esteemed supervisor. It's essentially some thinking and questions arising from further refinement of the research method being used in my thesis.
 
 The suggestion was that perhaps my work is an example of van Aken's (2004) extracting/ive case study research. Is this the case?
 
 ### What's the method?
 
-I'm essentially using an action research method within a single case study to develop/abstract a design theory for e-learning. The action research cycle is somewhat disjointed in that the case - the development and evolution of Webfuse from 1997 through 2009 - involved an on-going process of action research as different aspects of the system were developed and changed (evidence of this is found in [my publications](/blog2/publications/) where this process was played out).
+I'm essentially using an action research method within a single case study to develop/abstract a design theory for e-learning. The action research cycle is somewhat disjointed in that the case - the development and evolution of Webfuse from 1997 through 2009 - involved an on-going process of action research as different aspects of the system were developed and changed (evidence of this is found in [my publications](/blog/publications/) where this process was played out).
 
 In addition to this more traditional example of action research there was another round of action research which occurred after most of the initial Webfuse development was completed. This was the cycle that led to the development and re-development of the design theories that were abstracted from the Webfuse. This is almost an example of a meta action research cycle. The existence of this on-going cycle is also evident in the publications from about 2002 onwards as there are three different representations of the ISDT, with another being formulated now.
 

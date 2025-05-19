@@ -5,10 +5,10 @@ categories:
 date: 2009-02-16 14:07:00+10:00
 next:
   text: Some ideas for e-learning indicators - releasing half-baked ideas
-  url: /blog2/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/
+  url: /blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/
 previous:
   text: Frameworks and representation - tidy versus messy
-  url: /blog2/2009/02/16/frameworks-and-representation-tidy-versus-messy/
+  url: /blog/2009/02/16/frameworks-and-representation-tidy-versus-messy/
 title: Common sense (the things we take for granted) is the big obstacle for innovation
 type: post
 template: blog-post.html
@@ -21,13 +21,13 @@ template: blog-post.html
 
 > Common sense (the things we take for granted) is the big obstacle for innovation
 
-Resonates for me because on the main aims of my research in e-learning is that the "common sense" that surrounds current practice in e-learning is a big obstacle for innovation (and adoption, acceptance...). A perspective expanded in this [post](/blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/).
+Resonates for me because on the main aims of my research in e-learning is that the "common sense" that surrounds current practice in e-learning is a big obstacle for innovation (and adoption, acceptance...). A perspective expanded in this [post](/blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/).
 
 ### Excellence comes through customizing
 
 > The enemy of raising standards is conformity
 
-Quality through consistency has been one of my bug bears for over 10 years. Talked about briefly [here](/blog2/2008/11/13/another-assumption-which-ples-over-throws/). I'm a fan of [Oscar Wilde's take on consistency](http://www.quotationspage.com/quote/23578.html)
+Quality through consistency has been one of my bug bears for over 10 years. Talked about briefly [here](/blog/2008/11/13/another-assumption-which-ples-over-throws/). I'm a fan of [Oscar Wilde's take on consistency](http://www.quotationspage.com/quote/23578.html)
 
 > Consistency is the last refuge of the unimaginative.
 

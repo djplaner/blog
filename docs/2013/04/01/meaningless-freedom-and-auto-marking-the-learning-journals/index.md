@@ -5,10 +5,10 @@ categories:
 date: 2013-04-01 10:56:45+10:00
 next:
   text: Adding bim 2.0 to "CONTRIB"
-  url: /blog2/2013/04/05/adding-bim-2-0-to-contrib/
+  url: /blog/2013/04/05/adding-bim-2-0-to-contrib/
 previous:
   text: Does institutional e-learning have a TPACK problem?
-  url: /blog2/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
+  url: /blog/2013/03/22/does-institutional-e-learning-have-a-tpack-problem/
 title: Meaningless freedom and auto-marking the learning journals
 type: post
 template: blog-post.html
@@ -97,16 +97,16 @@ At the moment, the message I'm taking from both Lisa's and my own experience is 
 
 ## No BIM
 
-I haven't [completed BIM2](/blog2/research/bam-blog-aggregation-management/) in time for the organisational processes to consider installing it into the institutional version of Moodle ([this post](/blog2/2013/03/18/bim-why-and-what/) details one step in the process). So the plan is
+I haven't [completed BIM2](/blog/research/bam-blog-aggregation-management/) in time for the organisational processes to consider installing it into the institutional version of Moodle ([this post](/blog/2013/03/18/bim-why-and-what/) details one step in the process). So the plan is
 
 1. Students register their blog via a Moodle database activity.
 2. That is exported, checked and stuck into a local version of Moodle (with BIM) on my laptop.
 3. Marking of the blogs will be done via some additional code, either in BIM or in Perl.  
-    At this stage Perl has been used because I have a large collection of infrastructure and experience with a Perl code base that was developed as part of my [PhD work](/blog2/research/phd-thesis/). i.e. I'm a native Perl speaker, PHP and the Moodle code remains a second language to me. Eventually this work will need to be brought into BIM in some ways.
+    At this stage Perl has been used because I have a large collection of infrastructure and experience with a Perl code base that was developed as part of my [PhD work](/blog/research/phd-thesis/). i.e. I'm a native Perl speaker, PHP and the Moodle code remains a second language to me. Eventually this work will need to be brought into BIM in some ways.
 
 ## Registration, reassurance and the perils of meaningless freedom
 
-Way back in the late 1990s experience with the design and use of online assignment submission systems led to this observation [(Jones, 1999)](/blog2/publications/solving-some-problems-with-university-education-part-ii/)
+Way back in the late 1990s experience with the design and use of online assignment submission systems led to this observation [(Jones, 1999)](/blog/publications/solving-some-problems-with-university-education-part-ii/)
 
 > An important lesson from the on-going development of online assignment submission is to reduce the amount of “meaningless freedom” available to students. Early systems relied on students submitting assignments via email attachments. The freedom to choose file formats, mail programs and types of attachments significantly increased the amount of work required to mark assignments. Moving to a Web-based system where student freedom is reduced to choosing which file to upload was a significant improvement.
 
@@ -128,7 +128,7 @@ Not only would BIM have provided immediate feedback on registration, it would ha
 
 ## Statistics
 
-Time now to finish off the script that will generate statistics about the students' blogs and generate their mark. As shown [in this prior post](/blog2/2013/03/18/visualising-the-blog-network-of-edc3100-students/) I'm also using this facility to generate some visualisations of the interconnections, but that's another post.
+Time now to finish off the script that will generate statistics about the students' blogs and generate their mark. As shown [in this prior post](/blog/2013/03/18/visualising-the-blog-network-of-edc3100-students/) I'm also using this facility to generate some visualisations of the interconnections, but that's another post.
 
 The statistics being used for marking include
 

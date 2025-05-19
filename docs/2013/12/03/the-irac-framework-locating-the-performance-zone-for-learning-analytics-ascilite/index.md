@@ -8,10 +8,10 @@ categories:
 date: 2013-12-03 20:26:38+10:00
 next:
   text: '"#moodle, blogs, Moodle blogs and #bim"'
-  url: /blog2/2013/12/10/moodle-blogs-moodle-blogs-and-bim/
+  url: /blog/2013/12/10/moodle-blogs-moodle-blogs-and-bim/
 previous:
   text: 'Reviewing the past to imagine the future of elearning #ascilite'
-  url: /blog2/2013/12/03/reviewing-the-past-to-imagine-the-future-of-elearning-ascilite/
+  url: /blog/2013/12/03/reviewing-the-past-to-imagine-the-future-of-elearning-ascilite/
 title: '"The IRAC framework: Locating the performance zone for learning analytics
   #ascilite"'
 type: post
@@ -40,7 +40,7 @@ The following is a draft version of the presentation I'll be giving at ASCILITE 
 
 ### Other resources
 
-[The paper](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) on which this presentation is based is available. As is @cfellows insightful and interesting [annotated response](https://www.dropbox.com/s/k9ierfqzuyitkhg/The%20IRAC%20Framework.pdf) (an accessory every #ascilite paper should come with).
+[The paper](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) on which this presentation is based is available. As is @cfellows insightful and interesting [annotated response](https://www.dropbox.com/s/k9ierfqzuyitkhg/The%20IRAC%20Framework.pdf) (an accessory every #ascilite paper should come with).
 
 The slides are also available on Slideshare.
 

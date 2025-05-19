@@ -6,10 +6,10 @@ categories:
 date: 2008-11-23 14:16:56+10:00
 next:
   text: An experiment in blog-based discussions
-  url: /blog2/2008/11/26/an-experiment-in-blog-based-discussions/
+  url: /blog/2008/11/26/an-experiment-in-blog-based-discussions/
 previous:
   text: First photo
-  url: /blog2/2008/11/21/first-photo/
+  url: /blog/2008/11/21/first-photo/
 title: '"Information Systems Epistemology: An Historical Perspective"'
 type: post
 template: blog-post.html
@@ -73,7 +73,7 @@ This is a summary, review, attempt to understand, and pick tidbits from the foll
 
 > Hirschheim, R. A. (1992). Information Systems Epistemology: An Historical Perspective. In R. Galliers (Ed.), Information Systems Research: Issues, Methods and Practical Guidelines (pp. 28-60). London: Blackweel Scientific Publications.
 
-It's an attempt to start moving on Chapter 3 of [my thesis](/blog2/research/phd-thesis/).
+It's an attempt to start moving on Chapter 3 of [my thesis](/blog/research/phd-thesis/).
 
 ### Basic summary
 

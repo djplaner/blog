@@ -8,16 +8,16 @@ categories:
 date: 2009-05-25 14:51:39+10:00
 next:
   text: A night at Ezard
-  url: /blog2/2009/05/27/a-night-at-ezard/
+  url: /blog/2009/05/27/a-night-at-ezard/
 previous:
   text: Teleological and ateleological processes
-  url: /blog2/2009/05/25/teleological-and-ateleological-processes/
+  url: /blog/2009/05/25/teleological-and-ateleological-processes/
 title: What are the conditions that are conducive to the creation of a variety of
   new ideas?
 type: post
 template: blog-post.html
 ---
-I'm currently working on the [Process](/blog2/2009/05/25/teleological-and-ateleological-processes/) section of my [thesis](/blog2/research/phd-thesis/). As part of that I'm referring back to a book chapter (that was a conference paper) by [Bo Carlsson](http://weatherhead.case.edu/research/faculty/profile.cfm?id=5252) (2004) titled "Public policy as a form of design". This post is an attempt to summarise some of the points made in that chapter as they are connected to [my new job](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
+I'm currently working on the [Process](/blog/2009/05/25/teleological-and-ateleological-processes/) section of my [thesis](/blog/research/phd-thesis/). As part of that I'm referring back to a book chapter (that was a conference paper) by [Bo Carlsson](http://weatherhead.case.edu/research/faculty/profile.cfm?id=5252) (2004) titled "Public policy as a form of design". This post is an attempt to summarise some of the points made in that chapter as they are connected to [my new job](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 
 ### What are the conditions that are conducive to the creation of a variety of new ideas?
 
@@ -44,7 +44,7 @@ Three types of facilitating policy stand out
 
 ### Application to innovation within universities
 
-Given the growing [influence of managerialization](/blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/) within society and the increasing [moves to standardisation and accountability](/blog2/2009/05/08/sector-another-part-of-place/) within higher education it is not difficult to identify some tensions. Indeed, the tension between accountability and innovation and its negative ramifications within universities is the [topic of Findlow (2008)](/blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/)
+Given the growing [influence of managerialization](/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/) within society and the increasing [moves to standardisation and accountability](/blog/2009/05/08/sector-another-part-of-place/) within higher education it is not difficult to identify some tensions. Indeed, the tension between accountability and innovation and its negative ramifications within universities is the [topic of Findlow (2008)](/blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/)
 
 Limitations in academic staff development, the lack of perceived importance of learning and teaching, a focus on specific technologies and a range of other factors mean that the absorptive capacity of universities around e-learning is not great.
 

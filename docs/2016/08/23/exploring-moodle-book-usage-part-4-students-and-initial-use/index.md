@@ -5,10 +5,10 @@ categories:
 date: 2016-08-23 15:35:02+10:00
 next:
   text: Exploring frameworks to understand OER/OEP
-  url: /blog2/2016/09/01/exploring-frameworks-to-understand-oeroep/
+  url: /blog/2016/09/01/exploring-frameworks-to-understand-oeroep/
 previous:
   text: On the value or otherwise of SAMR, RAT etc.
-  url: /blog2/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
+  url: /blog/2016/08/23/on-the-value-or-otherwise-of-samr-rat-etc/
 title: Exploring Moodle book usage - part 4 - students and initial use
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-[Yesterday's part 3](/blog2/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/) in this series of posts continued the higher level examination of book usage. i.e. what types of courses use [the Moodle Book module](https://docs.moodle.org/31/en/Book_module) (the Book). This post is going to continue that a little and then start to make some forays into looking more closely at how resources produced using the Book are actually used. In particular, it's going to look at the following:
+[Yesterday's part 3](/blog/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/) in this series of posts continued the higher level examination of book usage. i.e. what types of courses use [the Moodle Book module](https://docs.moodle.org/31/en/Book_module) (the Book). This post is going to continue that a little and then start to make some forays into looking more closely at how resources produced using the Book are actually used. In particular, it's going to look at the following:
 
 - Compare the number of online students in courses that use the Book, versus those that don't use the Book.
 - Who is actually creating and revising the Book resources?
@@ -46,7 +46,7 @@ Yep, that worked.  Still a fair bit to do, the next post(s) will
 
 ### Identifying type of students in courses
 
-[The last post](/blog2/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/) identified that the Book is generally used in larger courses. A possible implication of this is that the Book is more likely to be used if the course has distance education/online students. The thinking here is that such courses have historically had print-based study guides, which could be converted into the Book module. Also, that on-campus courses are more typically going to rely on lectures and tutorials as the primary form of teaching method. This links directly back to [the idea of horsey, horseless carriage thinking](/blog2/2016/08/13/exploring-moodle-book-module-usage-part-1/#horsey).
+[The last post](/blog/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/) identified that the Book is generally used in larger courses. A possible implication of this is that the Book is more likely to be used if the course has distance education/online students. The thinking here is that such courses have historically had print-based study guides, which could be converted into the Book module. Also, that on-campus courses are more typically going to rely on lectures and tutorials as the primary form of teaching method. This links directly back to [the idea of horsey, horseless carriage thinking](/blog/2016/08/13/exploring-moodle-book-module-usage-part-1/#horsey).
 
 To explore this further I need to identify whether or not the current data set will allow me to identify the types of students....turns out group allocation allows this.
 
@@ -67,7 +67,7 @@ For me this raises a couple of interesting questions
 
 ###  Who is creating the book resources?
 
-[My experience](/blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) is that creating resources using the Book module is not necessarily a straight forward process. I've kludged together various tools and practices to reduce the difficulty, but I've heard other staff give up on using the Book because they couldn't. This has me wondering who and how these Book resources have been created in other courses.
+[My experience](/blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) is that creating resources using the Book module is not necessarily a straight forward process. I've kludged together various tools and practices to reduce the difficulty, but I've heard other staff give up on using the Book because they couldn't. This has me wondering who and how these Book resources have been created in other courses.
 
 Answering this question requires taking a closer look at who is doing what with the Book resources, which requires a bit of work. It's also the foundation for most of the subsequent interesting analysis.
 

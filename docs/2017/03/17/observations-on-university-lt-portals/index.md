@@ -4,10 +4,10 @@ categories:
 date: 2017-03-17 16:09:07+10:00
 next:
   text: WTF(udge) does EEI do?
-  url: /blog2/2017/03/24/wtfudge-does-eei-do/
+  url: /blog/2017/03/24/wtfudge-does-eei-do/
 previous:
   text: Adding a custom library and a semi-real application - Indicators notebook(s)
-  url: /blog2/2017/03/16/adding-a-custom-library-and-a-semi-real-application-indicators-notebooks/
+  url: /blog/2017/03/16/adding-a-custom-library-and-a-semi-real-application-indicators-notebooks/
 title: Observations on university L&T portals
 type: post
 template: blog-post.html

@@ -11,10 +11,10 @@ categories:
 date: 2009-04-06 13:22:10+10:00
 next:
   text: Birnbaum's fad cycle in higher education
-  url: /blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/
+  url: /blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/
 previous:
   text: 'The new educational technologists: A call for evidenced change'
-  url: /blog2/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
+  url: /blog/2009/04/06/the-new-educational-technologists-a-call-for-evidenced-change/
 title: Quotes from Snowden and the mismatch between what univeristy e-learning does
   and what it needs
 type: post
@@ -55,7 +55,7 @@ pingbacks:
       user_id: '0'
     
 ---
-For the [PhD](/blog2/research/phd-thesis/) I'm essentially proposing that the current industrial model of e-learning adopted (almost without exception) by universities is a complete and utter mismatch with the nature of the problem. As a consequence of this mismatch e-learning will continue to have little impact, be of limited quality and continue to be characterised by 5 yearly projects to replace a software system rather than a focus on an on-going process of improving learning and teaching by using the appropriate and available tools.
+For the [PhD](/blog/research/phd-thesis/) I'm essentially proposing that the current industrial model of e-learning adopted (almost without exception) by universities is a complete and utter mismatch with the nature of the problem. As a consequence of this mismatch e-learning will continue to have little impact, be of limited quality and continue to be characterised by 5 yearly projects to replace a software system rather than a focus on an on-going process of improving learning and teaching by using the appropriate and available tools.
 
 Dave Snowden has recently [described a recent keynote](http://www.cognitive-edge.com/blogs/dave/2009/04/kmrc_conference_blog_snowden.php) he gave and from that description/keynote I get the following two quotes which illustrate important components of my thesis and its design theory. I share them here.
 
@@ -79,4 +79,4 @@ Dave closes his talk with the following quote from [Seneca](http://en.wikiquote.
 
 For me this connects back to the fact that (almost) all implementation of e-learning within universities focus on using a plan-driven approach, a teleological design process. It assumes that they can know what is needed into the future, which given the context of universities and the rhetoric about "change being the only thing that is constant" is just a bit silly.
 
-Teleological design causes [problems](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/), ateleological design is a better fit.
+Teleological design causes [problems](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/), ateleological design is a better fit.

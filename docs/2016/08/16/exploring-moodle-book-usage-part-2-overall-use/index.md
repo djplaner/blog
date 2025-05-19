@@ -5,10 +5,10 @@ categories:
 date: 2016-08-16 10:20:42+10:00
 next:
   text: Exploring Moodle book usage - part 3 - who and how much
-  url: /blog2/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/
+  url: /blog/2016/08/17/exploring-moodle-book-usage-part-3-who-and-how-much/
 previous:
   text: Exploring Moodle Book Module usage - part 1 - background and planning
-  url: /blog2/2016/08/13/exploring-moodle-book-module-usage-part-1/
+  url: /blog/2016/08/13/exploring-moodle-book-module-usage-part-1/
 title: Exploring Moodle Book usage - part 2 - overall use
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This is the second in a series of posts exploring the usage of the [Moodle Book module](https://docs.moodle.org/31/en/Book_module) at my current institution. The [first post](/blog2/2016/08/13/exploring-moodle-book-module-usage-part-1/) gave some background and outlined an initial series of questions about Book usage that I'm aiming to explore. This post reports on initial findings related to the following
+This is the second in a series of posts exploring the usage of the [Moodle Book module](https://docs.moodle.org/31/en/Book_module) at my current institution. The [first post](/blog/2016/08/13/exploring-moodle-book-module-usage-part-1/) gave some background and outlined an initial series of questions about Book usage that I'm aiming to explore. This post reports on initial findings related to the following
 
 - Correctly identify the number of course offerings using the Book each year.
 - How many books are being produced by each course?

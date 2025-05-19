@@ -5,10 +5,10 @@ categories:
 date: 2011-03-08 17:42:05+10:00
 next:
   text: Schemata and the source of dissonance?
-  url: /blog2/2011/03/09/schemata-and-the-source-of-dissonance/
+  url: /blog/2011/03/09/schemata-and-the-source-of-dissonance/
 previous:
   text: Creating a framework for eLearning design
-  url: /blog2/2011/03/08/creating-a-framework-for-elearning-design/
+  url: /blog/2011/03/08/creating-a-framework-for-elearning-design/
 title: '"Week 2: Pedagogical Content Knowledge"'
 type: post
 template: blog-post.html
@@ -42,7 +42,7 @@ The task list
 - Activity 2-2.
 - Activity 2-3.
 
-As [mentioned previously](/blog2/2011/03/07/multiliteracies-and-why-weak-students-become-teachers/), there have been complaints that education courses don't require enough reading, so how much reading is there for this week: Readings 2-1 (28 pages), 2-2 (3 pages), 2-3 (5 pages), 2-4 ()
+As [mentioned previously](/blog/2011/03/07/multiliteracies-and-why-weak-students-become-teachers/), there have been complaints that education courses don't require enough reading, so how much reading is there for this week: Readings 2-1 (28 pages), 2-2 (3 pages), 2-3 (5 pages), 2-4 ()
 
 ### About learning
 

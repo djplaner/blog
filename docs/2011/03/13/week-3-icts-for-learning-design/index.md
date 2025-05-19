@@ -5,10 +5,10 @@ categories:
 date: 2011-03-13 09:28:26+10:00
 next:
   text: '"Reflection and conclusions: Learning brief"'
-  url: /blog2/2011/03/15/reflection-and-conclusions-learning-brief/
+  url: /blog/2011/03/15/reflection-and-conclusions-learning-brief/
 previous:
   text: 'Week 2: Literacy and Numeracy'
-  url: /blog2/2011/03/10/week-2-literacy-and-numeracy/
+  url: /blog/2011/03/10/week-2-literacy-and-numeracy/
 title: '"Week 3: ICTs for Learning Design"'
 type: post
 template: blog-post.html

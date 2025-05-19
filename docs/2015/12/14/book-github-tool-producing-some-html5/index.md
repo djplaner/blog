@@ -4,17 +4,17 @@ categories:
 date: 2015-12-14 15:37:38+10:00
 next:
   text: Tweaking Moodle book search
-  url: /blog2/2015/12/15/tweaking-moodle-book-search/
+  url: /blog/2015/12/15/tweaking-moodle-book-search/
 previous:
   text: 'Moodle book to a single file: which format?'
-  url: /blog2/2015/12/11/moodle-book-to-a-single-file-which-format/
+  url: /blog/2015/12/11/moodle-book-to-a-single-file-which-format/
 tags:
 - moodleopenbook
 title: '"Book github tool: producing some HTML5"'
 type: post
 template: blog-post.html
 ---
-Following on from the [work late last week](/blog2/2015/12/11/moodle-book-to-a-single-file-which-format/) and the lovely feedback provided by @rolley it's time to convert some plans into action.
+Following on from the [work late last week](/blog/2015/12/11/moodle-book-to-a-single-file-which-format/) and the lovely feedback provided by @rolley it's time to convert some plans into action.
 
 The aim is to modify the under-development [Moodle Book github tool](https://github.com/djplaner/moodle-booktool_github) so that when it concatenates the chapters from a Moodle Book resource into a single HTML file, the HTML file is structured HTML 5 semantic elements.
 

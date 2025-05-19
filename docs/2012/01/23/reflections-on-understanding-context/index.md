@@ -5,10 +5,10 @@ categories:
 date: 2012-01-23 12:02:50+10:00
 next:
   text: Understanding trends around ICTs
-  url: /blog2/2012/01/26/understanding-trends-around-icts/
+  url: /blog/2012/01/26/understanding-trends-around-icts/
 previous:
   text: Initial thoughts on an ICT and Pedagogy course
-  url: /blog2/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/
+  url: /blog/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/
 title: Reflections on understanding context
 type: post
 template: blog-post.html
@@ -83,7 +83,7 @@ pingbacks:
     []
     
 ---
-After a couple of weeks off-line, I'm slowly catching up on making public some writing. This post is a follow up to [a previous post](/blog2/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/) with some initial thoughts on the ICT and Pedagogy course I'm teaching this term. There were some great comments on that post which I need to think and write about, but later. This post is a collection of some impressions and reactions to the first chapter of the set text for the course.
+After a couple of weeks off-line, I'm slowly catching up on making public some writing. This post is a follow up to [a previous post](/blog/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/) with some initial thoughts on the ICT and Pedagogy course I'm teaching this term. There were some great comments on that post which I need to think and write about, but later. This post is a collection of some impressions and reactions to the first chapter of the set text for the course.
 
 ### Knowing where you are going
 

@@ -5,11 +5,11 @@ date: 2017-02-24 10:39:14+10:00
 next:
   text: The teleological reason why ICTs limit choice for university learners and
     learning
-  url: /blog2/2017/03/01/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/
+  url: /blog/2017/03/01/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/
 previous:
   text: 'Open Educational Practice and Preservice Teacher Education: Understanding
     past practice and future possibilities'
-  url: /blog2/2017/02/23/open-educational-practice-and-preservice-teacher-education-understanding-past-practice-and-future-possibilities/
+  url: /blog/2017/02/23/open-educational-practice-and-preservice-teacher-education-understanding-past-practice-and-future-possibilities/
 title: L&T Orientation for new Academic staff (S1, 2017)
 type: post
 template: blog-post.html

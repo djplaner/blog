@@ -5,15 +5,15 @@ categories:
 date: 2010-12-28 16:07:14+10:00
 next:
   text: BIM as a Wordpress plugin?
-  url: /blog2/2010/12/29/bim-as-a-wordpress-plugin/
+  url: /blog/2010/12/29/bim-as-a-wordpress-plugin/
 previous:
   text: Putting the MVC structure for bim2 in place
-  url: /blog2/2010/12/24/putting-the-mvc-structure-for-bim2-in-place/
+  url: /blog/2010/12/24/putting-the-mvc-structure-for-bim2-in-place/
 title: The student controller for bim2 - models and view
 type: post
 template: blog-post.html
 ---
-bim2 now has a working [controller structure](/blog2/2010/12/24/putting-the-mvc-structure-for-bim2-in-place/), but it doesn't do anything. This post summarises initial attempts to implement the student controller so that it actually implements the state machine for the student interactions. It's also the first attempt to implement some models and views with the MVC structure for bim2. This is liable to raise a range of questions about design, testing and other tasks.
+bim2 now has a working [controller structure](/blog/2010/12/24/putting-the-mvc-structure-for-bim2-in-place/), but it doesn't do anything. This post summarises initial attempts to implement the student controller so that it actually implements the state machine for the student interactions. It's also the first attempt to implement some models and views with the MVC structure for bim2. This is liable to raise a range of questions about design, testing and other tasks.
 
 ### A change?
 

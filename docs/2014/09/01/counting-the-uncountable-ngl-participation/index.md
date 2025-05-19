@@ -4,10 +4,10 @@ categories:
 date: 2014-09-01 14:21:27+10:00
 next:
   text: Signing up for Connected Courses
-  url: /blog2/2014/09/02/signing-up-for-connected-courses/
+  url: /blog/2014/09/02/signing-up-for-connected-courses/
 previous:
   text: Personality and other factors in education
-  url: /blog2/2014/08/28/personality-and-other-factors-in-education/
+  url: /blog/2014/08/28/personality-and-other-factors-in-education/
 title: Counting the uncountable - NGL participation
 type: post
 template: blog-post.html

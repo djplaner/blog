@@ -6,10 +6,10 @@ categories:
 date: 2013-11-12 14:26:26+10:00
 next:
   text: On the limitations of learning design for improving learning and teaching
-  url: /blog2/2013/11/13/on-the-limitations-of-learning-design-for-improving-learning-and-teaching/
+  url: /blog/2013/11/13/on-the-limitations-of-learning-design-for-improving-learning-and-teaching/
 previous:
   text: BIM for Moodle 2.5
-  url: /blog2/2013/11/06/bim-for-moodle-2-5/
+  url: /blog/2013/11/06/bim-for-moodle-2-5/
 title: Exploring current institutional e-learning usage
 type: post
 template: blog-post.html
@@ -57,7 +57,7 @@ Why hasn't this happened? Perhaps some of these help explain
 
 ### What path adoption and why?
 
-It appears that there is a gradual increase in usage of the LMS over time ("usage" is an interesting term to define). I wonder how well this pattern applies? If it is impacted by various institutional factors? Is the ["technology dip"](/blog2/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/) visible?
+It appears that there is a gradual increase in usage of the LMS over time ("usage" is an interesting term to define). I wonder how well this pattern applies? If it is impacted by various institutional factors? Is the ["technology dip"](/blog/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/) visible?
 
 Mapping the adoption trend over time and exploring factors behind its change could be interesting.
 

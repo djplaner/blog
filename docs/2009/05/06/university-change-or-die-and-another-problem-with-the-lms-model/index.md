@@ -9,10 +9,10 @@ categories:
 date: 2009-05-06 11:12:39+10:00
 next:
   text: Pondering a new position - request for help
-  url: /blog2/2009/05/07/pondering-a-new-position/
+  url: /blog/2009/05/07/pondering-a-new-position/
 previous:
   text: Place - component of the Ps Framework
-  url: /blog2/2009/05/06/place-component-of-the-ps-framework/
+  url: /blog/2009/05/06/place-component-of-the-ps-framework/
 title: '"University - change or die: and another problem with the LMS model"'
 type: post
 template: blog-post.html
@@ -65,7 +65,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following arises out some current reading, writing and thinking for the [Place component](/blog2/2009/05/06/place-component-of-the-ps-framework/) of the Ps Framework. In the following I ponder the idea (which I currently agree with) that universities are inherently adaptable, they aren't likely to die anytime soon and that this adaptability is yet another reason why the LMS product model for e-learning is wrong - since it ain't adaptable.
+The following arises out some current reading, writing and thinking for the [Place component](/blog/2009/05/06/place-component-of-the-ps-framework/) of the Ps Framework. In the following I ponder the idea (which I currently agree with) that universities are inherently adaptable, they aren't likely to die anytime soon and that this adaptability is yet another reason why the LMS product model for e-learning is wrong - since it ain't adaptable.
 
 ### Death of universities
 
@@ -80,7 +80,7 @@ A common quote used in these is one from Peter Drucker (Lenzer and Johnson, 1997
 
 > Thirty years from now the big university campuses will be relics. Universities won't survive. It is as large a change as when we first got the printed book
 
-While I have a lot of time for Drucker and I should be careful about taking a quote out of context, this comment sounds a lot like the "growing revolution" type of quotes that have littered the history of educational technology. I summarise a few of these for different types of technology-mediated learning in [this post](/blog2/2009/04/25/lessons-for-e-learning/) (search for "growing revolution" and look for a series of tables).
+While I have a lot of time for Drucker and I should be careful about taking a quote out of context, this comment sounds a lot like the "growing revolution" type of quotes that have littered the history of educational technology. I summarise a few of these for different types of technology-mediated learning in [this post](/blog/2009/04/25/lessons-for-e-learning/) (search for "growing revolution" and look for a series of tables).
 
 Drucker hasn't been alone in this view. New technologies are seen as a major force for change in higher education institutions that will potentially have a profound effect on the structure of higher education (Green and Hayward 1997). Some suggest that the rapidly evolving technology and emerging competition puts the very survival of the current form of the university at risk (Duderstadt, Atkins et al. 2002).
 

@@ -5,10 +5,10 @@ categories:
 date: 2011-02-25 15:29:23+10:00
 next:
   text: Prensky, immigrants and old problems in new bottles
-  url: /blog2/2011/02/27/prensky-immigrants-and-old-problems-in-new-bottles/
+  url: /blog/2011/02/27/prensky-immigrants-and-old-problems-in-new-bottles/
 previous:
   text: How many pages of a course profile are necessary?
-  url: /blog2/2011/02/20/how-many-pages-of-a-course-profile-are-necessary/
+  url: /blog/2011/02/20/how-many-pages-of-a-course-profile-are-necessary/
 title: Learning styles, teaching and digital pedagogy
 type: post
 template: blog-post.html

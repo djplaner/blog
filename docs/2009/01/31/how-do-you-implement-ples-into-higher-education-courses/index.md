@@ -6,10 +6,10 @@ categories:
 date: 2009-01-31 10:18:35+10:00
 next:
   text: EasyCrop - preparing photos for the rotating banner
-  url: /blog2/2009/02/01/easycrop-preparing-photos-for-the-rotating-banner/
+  url: /blog/2009/02/01/easycrop-preparing-photos-for-the-rotating-banner/
 previous:
   text: Using a blog for course design foult sessions
-  url: /blog2/2009/01/30/using-a-blog-for-course-design-foult-sessions/
+  url: /blog/2009/01/30/using-a-blog-for-course-design-foult-sessions/
 tags:
 - ple-elearning20
 title: How do you implement PLEs into higher education courses?
@@ -92,7 +92,7 @@ However, answering these questions should **not** be done by asking them. When i
 
 I wonder if this explains the current suggestion that the next generation of students don't want their university life mixed in with their social life. They don't want universities getting into Facebook and other social spaces. If the students haven't seen good examples of how this might work, you can't really rely on their feedback, they don't know yet.
 
-I've talked about [the 7 principles of knowledge management](/blog2/2009/01/09/seven-principles-of-knowledge-management-and-applications-to-e-learning-curriculum-design-and-lt-in-universities/) and in particular principle #2
+I've talked about [the 7 principles of knowledge management](/blog/2009/01/09/seven-principles-of-knowledge-management-and-applications-to-e-learning-curriculum-design-and-lt-in-universities/) and in particular principle #2
 
 > We only know what we know when we need to know it. Human knowledge is deeply contextual and requires stimulus for recall.
 
@@ -100,11 +100,11 @@ Which is why I like this [comment from Jocene](http://jocene.edublogs.org/2009/0
 
 > He talks about the need to contextualise the PLE. Well, yes. My colleague and I have decided to push ahead with our own contextualised understanding, so we can start to reflect upon rather that speculate about our PLE work.
 
-Get stuck in, try a few things and then reflect upon what worked, what didn't. What did the students like, what might be better. This sounds like a much more effective way than researchers and prognosticators extrapolating what they think people will need and how they should use it. However, I think Jocene's next quote highlights the difficult in drawing a barrier between [teleological and ateleological design](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/).
+Get stuck in, try a few things and then reflect upon what worked, what didn't. What did the students like, what might be better. This sounds like a much more effective way than researchers and prognosticators extrapolating what they think people will need and how they should use it. However, I think Jocene's next quote highlights the difficult in drawing a barrier between [teleological and ateleological design](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/).
 
 > But we still keep getting stuck, half way over the implementation hurdle! If we telelogically suggest a way forward for any group of learners, then we are not facilitating a PLE, we are imposing our values.
 
-Traditionally e-learning within universities is teleological and because the nature of teleological design is a complete and utter mismatch with the requirements of e-learning problems arise. Some colleagues and I have pointed these problems out in two publications (Jones, Luck, McConachie and Danaher, 2005; [Jones and Muldoon, 2007](/blog2/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/)).
+Traditionally e-learning within universities is teleological and because the nature of teleological design is a complete and utter mismatch with the requirements of e-learning problems arise. Some colleagues and I have pointed these problems out in two publications (Jones, Luck, McConachie and Danaher, 2005; [Jones and Muldoon, 2007](/blog/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/)).
 
 One defining characteristic of teleological design is that the major design decisions are made by a small group of experts and/or leaders. There decisions are meant to be accepted by the rest of the group and are meant to be the best decisions possible. I think Jocene's worried about this type of "imperialism" within PLEs. If she and her colleague make decisions about what should be done, aren't they being teleological?
 

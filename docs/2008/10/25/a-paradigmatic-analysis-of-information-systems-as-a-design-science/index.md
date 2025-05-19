@@ -7,10 +7,10 @@ categories:
 date: 2008-10-25 22:28:47+10:00
 next:
   text: The gulf between users and IT departments
-  url: /blog2/2008/10/26/the-gulf-between-users-and-it-departments/
+  url: /blog/2008/10/26/the-gulf-between-users-and-it-departments/
 previous:
   text: The many Ps
-  url: /blog2/2008/10/25/the-many-ps/
+  url: /blog/2008/10/25/the-many-ps/
 tags:
 - isdt
 title: A Paradigmatic Analysis of Information Systems As a Design Science
@@ -104,11 +104,11 @@ There is something to this, but I also have some qualms/queries which I need to 
 
 There is an argument to be had about the difference between the final version of the ISDT and its formulation. It may be that a complete/formal ISDT does need to have a kernel theory or two. However, it may not have been there at the beginning.
 
-For example, the work that forms that basis of my design theory for e-learning started without clearly stated and understood kernel theories based on formal descriptive research. However, a very [early paper](/blog2/publications/the-design-of-an-integrated-online-learning-environment/) (Jones and Buchanan, 1996) on that work included the following
+For example, the work that forms that basis of my design theory for e-learning started without clearly stated and understood kernel theories based on formal descriptive research. However, a very [early paper](/blog/publications/the-design-of-an-integrated-online-learning-environment/) (Jones and Buchanan, 1996) on that work included the following
 
 > It is hoped that the design guidelines emphasising ease of use and of providing the tools and not the rules will decrease the learning curve and increase the sense of ownership felt by academic staff.
 
-It's not difficult to see in that statement a connection with diffusion theory and TAM. Descriptive knowledge that has informed later iterations of this work and diffusion theory certainly gets a specific inclusion as a kernel theory in the [final ISDT](/blog2/publications/the-formulation-of-an-isdt-for-e-learning/).
+It's not difficult to see in that statement a connection with diffusion theory and TAM. Descriptive knowledge that has informed later iterations of this work and diffusion theory certainly gets a specific inclusion as a kernel theory in the [final ISDT](/blog/publications/the-formulation-of-an-isdt-for-e-learning/).
 
 **
 

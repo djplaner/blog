@@ -9,10 +9,10 @@ categories:
 date: 2010-09-17 11:16:08+10:00
 next:
   text: The office and more procrastination
-  url: /blog2/2010/09/17/the-office-and-more-procrastination/
+  url: /blog/2010/09/17/the-office-and-more-procrastination/
 previous:
   text: Principles of implementation
-  url: /blog2/2010/09/17/principles-of-implementation/
+  url: /blog/2010/09/17/principles-of-implementation/
 title: Justificatory knowledge
 type: post
 template: blog-post.html

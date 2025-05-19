@@ -9,10 +9,10 @@ categories:
 date: 2010-09-03 12:48:16+10:00
 next:
   text: Misc. reflections on reading about situated cognition
-  url: /blog2/2010/09/03/misc-reflections-on-reading-about-situated-cognition/
+  url: /blog/2010/09/03/misc-reflections-on-reading-about-situated-cognition/
 previous:
   text: Situated shared practice, curriculum design and academic development
-  url: /blog2/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/
+  url: /blog/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/
 title: Scaffolding, context-sensitive conglomerations in e-learning systems
 type: post
 template: blog-post.html
@@ -21,7 +21,7 @@ For the last week or so I've been attempting to bring together the principles th
 
 Am aiming for brevity and clarity in the following.
 
-A design theory contains principles for form and function; and for implementation. The following is more form and function, while [the previous post](/blog2/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/) is more implementation. There is more to the ISDT than just these two posts.
+A design theory contains principles for form and function; and for implementation. The following is more form and function, while [the previous post](/blog/2010/08/30/situated-shared-practice-curriculum-design-and-academic-development/) is more implementation. There is more to the ISDT than just these two posts.
 
 ### The problem
 
@@ -37,9 +37,9 @@ The idea is that an e-learning system should provide the ability to create "scaf
 
 #### Examples
 
-An example of this is [the default course site](/blog2/2010/06/25/default-course-sites-and-wizards-version-2-0/) "conglomeration" used in the Webfuse system. This is the system I designed and forms the basis for my PhD. So you can see where the idea has come from. The default course sites conglomeration was aimed at making it very simple for academics to create a default course site. So simple, in fact, that if they wanted to, they didn't have to do anything.
+An example of this is [the default course site](/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/) "conglomeration" used in the Webfuse system. This is the system I designed and forms the basis for my PhD. So you can see where the idea has come from. The default course sites conglomeration was aimed at making it very simple for academics to create a default course site. So simple, in fact, that if they wanted to, they didn't have to do anything.
 
-Another possible example of a "conglomeration" from my own work could be the Moodle module [BIM](/blog2/research/bam-blog-aggregation-management/). BIM is a conglomeration of external blog engines (e.g. [Wordpress.com](http://wordpress.com/) and various Moodle features, especially the gradebook. The BIM "conglomeration" is designed to make it simpler for teachers to manage students using individual blogs for assessment and other purposes. It provides a bridge between the external blogs and Moodle's making/management features.
+Another possible example of a "conglomeration" from my own work could be the Moodle module [BIM](/blog/research/bam-blog-aggregation-management/). BIM is a conglomeration of external blog engines (e.g. [Wordpress.com](http://wordpress.com/) and various Moodle features, especially the gradebook. The BIM "conglomeration" is designed to make it simpler for teachers to manage students using individual blogs for assessment and other purposes. It provides a bridge between the external blogs and Moodle's making/management features.
 
 Moving further afield, the work being done by Desire2Learn with its [instructional design wizard](http://www.desire2learn.com/experience-it/) provide another approach to the provision of a conglomeration. The "Wizard" approach is used.
 

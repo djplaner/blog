@@ -6,11 +6,11 @@ categories:
 date: 2013-07-02 15:00:40+10:00
 next:
   text: When is learning analytics not about the students?
-  url: /blog2/2013/07/02/when-is-learning-analytics-not-about-the-students/
+  url: /blog/2013/07/02/when-is-learning-analytics-not-about-the-students/
 previous:
   text: Documenting the gap between &quot;start of art&quot; and &quot;state of the
     actual&quot;
-  url: /blog2/2013/06/20/documenting-the-gap-between-start-of-art-and-state-of-the-actual/
+  url: /blog/2013/06/20/documenting-the-gap-between-start-of-art-and-state-of-the-actual/
 title: Identifying and filling some TPACK holes
 type: post
 template: blog-post.html
@@ -274,11 +274,11 @@ Cuban's post finishes with three suggested reasons why he thinks doctors and tea
 
 ### The weekend start to this post
 
-Back from Moodlemoot'AU 2013 and time to finalise results and prepare course sites for next semester. Both are due by Monday. The argument from [my presentation at the Moot](/blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) was that the presence of "TPACK holes" (or misalignment) causes problems. The following is a slide from the talk which illustrates the point.
+Back from Moodlemoot'AU 2013 and time to finalise results and prepare course sites for next semester. Both are due by Monday. The argument from [my presentation at the Moot](/blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) was that the presence of "TPACK holes" (or misalignment) causes problems. The following is a slide from the talk which illustrates the point.
 
 [![Slide14](images/9161044703_21bc88978f_n.jpg)](http://www.flickr.com/photos/david_jones/9161044703/ "Slide14 by David T Jones, on Flickr")
 
-I'd be surprised if anyone thought this was an earth breaking insight. It's kind of obvious. If this was the case then I wouldn't expect institutional e-learning to be replete with examples of this. The following is an attempt to document some of the TPACK holes I'm experiencing in the tasks I have to complete this weekend. It's also an example of recording the gap outlined [in this post](/blog2/2013/06/20/documenting-the-gap-between-start-of-art-and-state-of-the-actual/).
+I'd be surprised if anyone thought this was an earth breaking insight. It's kind of obvious. If this was the case then I wouldn't expect institutional e-learning to be replete with examples of this. The following is an attempt to document some of the TPACK holes I'm experiencing in the tasks I have to complete this weekend. It's also an example of recording the gap outlined [in this post](/blog/2013/06/20/documenting-the-gap-between-start-of-art-and-state-of-the-actual/).
 
 ### Those who haven't submitted
 

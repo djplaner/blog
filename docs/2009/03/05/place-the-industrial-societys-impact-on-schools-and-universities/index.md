@@ -7,21 +7,21 @@ categories:
 date: 2009-03-05 10:17:10+10:00
 next:
   text: The IRIS model of Technology Adoption - neat and incomplete?
-  url: /blog2/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
+  url: /blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/
 previous:
   text: The insanity of changing LMSes/VLEs
-  url: /blog2/2009/03/04/the-insanity-of-changing-lmsesvles/
+  url: /blog/2009/03/04/the-insanity-of-changing-lmsesvles/
 title: Place - the industrial society's impact on schools - and universities?
 type: post
 template: blog-post.html
 ---
 [![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
 
-The intent of the [Ps Framework](/blog2/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/) is to help identify and lightly organise the different components, and the different perspectives of those components, that impact the practice of e-learning within universities. Arguably they could be applied to learning and teaching in general, but the focus of this work is e-learning, so I limit it to that.
+The intent of the [Ps Framework](/blog/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/) is to help identify and lightly organise the different components, and the different perspectives of those components, that impact the practice of e-learning within universities. Arguably they could be applied to learning and teaching in general, but the focus of this work is e-learning, so I limit it to that.
 
 The underlying/all encompassing Ps component is "place". Place includes all the contextual and environmental factors, the place, within which e-learning will occur. Consideration of these factors is important and cannot be ignored because contextual factors shape the decision making process and may amplify, moderate or suppress certain factors (Jamieson, Hyland and Soosay, 2007). Higher education institutions are tied to their local context.
 
-In the [thesis](/blog2/research/phd-thesis/), I'm currently planning to organise the multitude of factors within "Place" into the following groupings:
+In the [thesis](/blog/research/phd-thesis/), I'm currently planning to organise the multitude of factors within "Place" into the following groupings:
 
 - societal;  
     A long list of common factors fit in here: globalisation, the massification of higher education, the knowledge society, increasing managerialism, reduced government fundings etc.
@@ -38,7 +38,7 @@ The impacts of Place are not always that obvious. White (2006) makes the observa
 
 ### It's the way we do things around here
 
-Then there is also the unspoken assumptions that "the way we do things around here" is the best and only way of "doing things around here". This starts to overlap with another component of the Ps - "Past Experience" (the overlapping nature of these components is one reason the framework image is so messy - [real life is messy](/blog2/2009/02/16/frameworks-and-representation-tidy-versus-messy/)).
+Then there is also the unspoken assumptions that "the way we do things around here" is the best and only way of "doing things around here". This starts to overlap with another component of the Ps - "Past Experience" (the overlapping nature of these components is one reason the framework image is so messy - [real life is messy](/blog/2009/02/16/frameworks-and-representation-tidy-versus-messy/)).
 
 The "way we do things around here" is historical. It's influenced, sometimes directly, because of the nature of the "Place" some time ago.
 

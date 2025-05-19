@@ -4,10 +4,10 @@ categories:
 date: 2010-07-20 09:48:58+10:00
 next:
   text: Features used in Webfuse course sites
-  url: /blog2/2010/07/21/features-used-in-webfuse-course-sites/
+  url: /blog/2010/07/21/features-used-in-webfuse-course-sites/
 previous:
   text: 'The ethics of learning analytics: initial steps'
-  url: /blog2/2010/07/19/the-ethics-of-learning-analytics-initial-steps/
+  url: /blog/2010/07/19/the-ethics-of-learning-analytics-initial-steps/
 title: An overview of BIM
 type: post
 template: blog-post.html
@@ -102,6 +102,6 @@ pingbacks:
       user_id: '0'
     
 ---
-Just uploaded a screencast/presentation that is essentially a cut down version of the presentation I gave at Moodlemoot'AU 2010 last week. There's an embedded version below or you can find the [original on vimeo](http://www.vimeo.com/13470794). There's also [more information about BIM elsewhere](/blog2/research/bam-blog-aggregation-management/) and you can [download BIM from here (for Moodle 1.9.x)](https://github.com/djplaner/moodle-mod_bim/) or [BIM for Moodle 2.x here](https://github.com/djplaner/moodle-mod_bim/tree/bim2) (look for the "Zip" button).
+Just uploaded a screencast/presentation that is essentially a cut down version of the presentation I gave at Moodlemoot'AU 2010 last week. There's an embedded version below or you can find the [original on vimeo](http://www.vimeo.com/13470794). There's also [more information about BIM elsewhere](/blog/research/bam-blog-aggregation-management/) and you can [download BIM from here (for Moodle 1.9.x)](https://github.com/djplaner/moodle-mod_bim/) or [BIM for Moodle 2.x here](https://github.com/djplaner/moodle-mod_bim/tree/bim2) (look for the "Zip" button).
 
 \[vimeo http://www.vimeo.com/13470794\]

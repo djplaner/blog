@@ -5,10 +5,10 @@ categories:
 date: 2006-12-23 21:41:18+10:00
 next:
   text: LMSes mostly for administrative purposes
-  url: /blog2/2006/12/28/lmses-mostly-for-administrative-purposes/
+  url: /blog/2006/12/28/lmses-mostly-for-administrative-purposes/
 previous:
   text: Rationale for the Web 2.0 Course Site approach
-  url: /blog2/2006/12/23/rationale-for-the-web-20-course-site-approach/
+  url: /blog/2006/12/23/rationale-for-the-web-20-course-site-approach/
 title: Rationale for the Web 2.0 Course Site approach
 type: post
 template: blog-post.html

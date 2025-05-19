@@ -5,10 +5,10 @@ categories:
 date: 2011-09-22 11:47:12+10:00
 next:
   text: Can e-learning tools be more like Plants vs Zombies?
-  url: /blog2/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/
+  url: /blog/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/
 previous:
   text: BIM and BIM2 - Who needs it? What do you need?
-  url: /blog2/2011/09/22/bim-and-bim2-who-needs-it-what-do-you-need/
+  url: /blog/2011/09/22/bim-and-bim2-who-needs-it-what-do-you-need/
 title: A course outline to increase relevance of IPT
 type: post
 template: blog-post.html

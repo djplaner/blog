@@ -11,10 +11,10 @@ date: 2010-04-12 09:38:37+10:00
 next:
   text: '"Identifying and designing interventions to improve L&#038;T - a behaviour
     change framework?"'
-  url: /blog2/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+  url: /blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
 previous:
   text: 'Phd Update #26 - Getting to first draft stage'
-  url: /blog2/2010/04/09/phd-update-26-getting-to-first-draft-stage/
+  url: /blog/2010/04/09/phd-update-26-getting-to-first-draft-stage/
 title: Two types of process and what university e-learning continues to get wrong
 type: post
 template: blog-post.html
@@ -158,12 +158,12 @@ What is empathy-driven innovation, well Tim provides the following bullet points
 
 ### The Webfuse Thesis
 
-I'm somewhat engaged in this discussion because I have seen, for a small period of time, this type of empathy-driven innovation work in the context of e-learning within a University. This is the topic of my [PhD Thesis](/blog2/research/phd-thesis/), an attempt to describe an information systems design theory for e-learning that encapsulates this.
+I'm somewhat engaged in this discussion because I have seen, for a small period of time, this type of empathy-driven innovation work in the context of e-learning within a University. This is the topic of my [PhD Thesis](/blog/research/phd-thesis/), an attempt to describe an information systems design theory for e-learning that encapsulates this.
 
 At it's simplest, the Webfuse thesis embodies two aspects:
 
 1. Process.  
-    There are two broad types of process: teleological and ateleological. I describe the [two types here](/blog2/2009/05/25/teleological-and-ateleological-processes/). Empathy-driven innovation is an example of an ateleological process. The table [in the blog post](/blog2/2009/05/25/teleological-and-ateleological-processes/) describing teleological and ateleological mentions Seely Brown's and Hagels push and pull distinction.
+    There are two broad types of process: teleological and ateleological. I describe the [two types here](/blog/2009/05/25/teleological-and-ateleological-processes/). Empathy-driven innovation is an example of an ateleological process. The table [in the blog post](/blog/2009/05/25/teleological-and-ateleological-processes/) describing teleological and ateleological mentions Seely Brown's and Hagels push and pull distinction.
     
     University e-learning is always too teleological, it needs to be more ateleological.
     

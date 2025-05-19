@@ -4,10 +4,10 @@ categories:
 date: 2010-05-14 16:51:28+10:00
 next:
   text: Is there more to communities of practice?
-  url: /blog2/2010/05/16/is-there-more-to-communities-of-practice/
+  url: /blog/2010/05/16/is-there-more-to-communities-of-practice/
 previous:
   text: Qualms about the alignment project
-  url: /blog2/2010/05/14/qualms-about-the-alignment-project/
+  url: /blog/2010/05/14/qualms-about-the-alignment-project/
 title: Some tweaks to the indicators block
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Yesterday's [post](/blog2/2010/05/13/getting-started-with-cols-indicators-block/) introduced Col's initial work on the indicators block. This post reports on some minor tweaks I've been doing this afternoon, trying to find escape in something concrete.
+Yesterday's [post](/blog/2010/05/13/getting-started-with-cols-indicators-block/) introduced Col's initial work on the indicators block. This post reports on some minor tweaks I've been doing this afternoon, trying to find escape in something concrete.
 
 ### Setting the title
 

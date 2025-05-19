@@ -5,10 +5,10 @@ coverImage: 3391725798_b2dc4dbc7f_o-e1596938009641.jpg
 date: 2020-08-09 11:54:42+10:00
 next:
   text: Supporting the design of discipline-specific digital learning activities
-  url: /blog2/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/
+  url: /blog/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/
 previous:
   text: Pondering if and how Hax & web components fit in Blackboard
-  url: /blog2/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/
+  url: /blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/
 tags:
 - memex
 title: Visualising and pruning my Memex
@@ -59,7 +59,7 @@ pingbacks:
 > 
 > In writing the following I stumbled across the idea that writing blog posts in Foam would enable the merging of content from Memex and blog posts. I then discovered it didn't work out of the box. More work was needed. But the nature of the technology involved meant that it wasn't that hard and is now complete. You'll see links below followed by the spider web emoji (🕸️), those are links to my Memex. Meaning I this bit of bricolage can be linked to my Memex's page on [Bricolage](https://djplaner.github.io/memex/sense/bricolage). It's this type of capability that might address the [Reusability Paradox](https://djplaner.github.io/memex/sense/Bricolage/reusability-paradox) in digital learning technology, but more on that soon.
 
-Just [over a month ago](/blog2/2020/07/06/designing-a-personal-memex-with-foam/) I started exploring the use of [Foam](https://foambubble.github.io/foam/) as my next attempt at developing a Personal Knowledge Management process. This has evolved into using Foam to curate [my personal "Memex"](https://djplaner.github.io/memex/) and (amongst other things) [populating it with](/blog2/2020/07/07/getting-started-with-memex/) notes from my experiments with [Smallest Federated Wiki](https://en.wikipedia.org/wiki/Smallest_Federated_Wiki) and [Wikity](https://hapgood.us/2015/12/09/introducing-wikity/).
+Just [over a month ago](/blog/2020/07/06/designing-a-personal-memex-with-foam/) I started exploring the use of [Foam](https://foambubble.github.io/foam/) as my next attempt at developing a Personal Knowledge Management process. This has evolved into using Foam to curate [my personal "Memex"](https://djplaner.github.io/memex/) and (amongst other things) [populating it with](/blog/2020/07/07/getting-started-with-memex/) notes from my experiments with [Smallest Federated Wiki](https://en.wikipedia.org/wiki/Smallest_Federated_Wiki) and [Wikity](https://hapgood.us/2015/12/09/introducing-wikity/).
 
 Foam has only been under development for just over a month and not surprisingly this brings with a few rough edges. Rough edges are the quickly being sanded down by a combination of the rapidly growing Foam community, the nature of the technologies underpinning Foam, and increasing knowledge on my part. Foam is quickly becoming core to my practice e.g. I'm writing this blog post in Foam ([here's the Foam/Memex version](https://djplaner.github.io/memex/share/blog/visualising-and-pruning-my-memex) of the post).
 
@@ -87,7 +87,7 @@ All of which appears to be a perfect example of the graph visualisation of Memex
 
 All of what is happening in the GIF is occuring within [Visual Studio Code](https://code.visualstudio.com/) Microsoft's open source code editor. It's VSCode's open architecture and its [marketplace of extensions](https://marketplace.visualstudio.com/VSCode) that enable Foam's development and functionality. For example, it's [the Markdown links extension](https://marketplace.visualstudio.com/items?itemName=tchayen.markdown-links) that provides the functionality to visualise the graph and use it to navigate through the notes. It's not something that the Foam community had to develop.
 
-In addition, while I am not a fan of [Markdown](https://en.wikipedia.org/wiki/Markdown) it does provide a very good interoperability platform. For example, the _Markdown_ links extension enabling the visualisation. Hence there being [Python module for markdown](https://python-markdown.github.io/) that will convert markdown to HTML. Allowing me to convert [this Markdown file in memex](https://djplaner.github.io/memex/share/blog/visualising-and-pruning-my-memex) into [this blog post](/blog2/2020/08/09/visualising-and-pruning-my-memex/).
+In addition, while I am not a fan of [Markdown](https://en.wikipedia.org/wiki/Markdown) it does provide a very good interoperability platform. For example, the _Markdown_ links extension enabling the visualisation. Hence there being [Python module for markdown](https://python-markdown.github.io/) that will convert markdown to HTML. Allowing me to convert [this Markdown file in memex](https://djplaner.github.io/memex/share/blog/visualising-and-pruning-my-memex) into [this blog post](/blog/2020/08/09/visualising-and-pruning-my-memex/).
 
 As mentioned above I've experimented with [Smallest Federated Wiki](https://en.wikipedia.org/wiki/Smallest_Federated_Wiki) and [Wikity](https://hapgood.us/2015/12/09/introducing-wikity/). These are related but also different approaches to Foam. There are many differences in functionality (e.g. Foam doesn't support federation) and technical platforms (e.g. Wikity is a Wordpress plugin). But for me there appears to be a more important difference.
 

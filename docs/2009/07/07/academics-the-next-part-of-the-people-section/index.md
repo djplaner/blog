@@ -9,10 +9,10 @@ categories:
 date: 2009-07-07 23:41:54+10:00
 next:
   text: Integrating BAM into Moodle - Can it be done?
-  url: /blog2/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
+  url: /blog/2009/07/09/integrating-bam-into-moodle-can-it-be-done/
 previous:
   text: 'PhD Update #16 - return from a break'
-  url: /blog2/2009/07/05/phd-update-16-return-from-a-break/
+  url: /blog/2009/07/05/phd-update-16-return-from-a-break/
 title: Academics - the next part of the People section
 type: post
 template: blog-post.html
@@ -64,7 +64,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the next part of the People section for chapter 2 of my [thesis](/blog2/research/phd-thesis/). The People section was started a week ago with [this post](/blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/). This one takes up the task of saying something about academic staff, subsequent and soon to be completed sections will look at management, academic staff developers and technology staff.
+The following is the next part of the People section for chapter 2 of my [thesis](/blog/research/phd-thesis/). The People section was started a week ago with [this post](/blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/). This one takes up the task of saying something about academic staff, subsequent and soon to be completed sections will look at management, academic staff developers and technology staff.
 
 While I think some of the stuff in the following is important and overlooked, I just can't help feeling that it is, not to put to fine a point on it, crap. But hopefully it is good enough for the thesis. Happy reading.
 

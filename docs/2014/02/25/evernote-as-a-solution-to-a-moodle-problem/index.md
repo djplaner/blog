@@ -4,10 +4,10 @@ categories:
 date: 2014-02-25 13:59:27+10:00
 next:
   text: A story about the failure of institutional eportfolios
-  url: /blog2/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/
+  url: /blog/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/
 previous:
   text: An ateleological quote
-  url: /blog2/2014/02/22/an-ateleological-quote/
+  url: /blog/2014/02/22/an-ateleological-quote/
 title: '"Evernote as a "solution" to a #moodle "problem""'
 type: post
 template: blog-post.html
@@ -87,7 +87,7 @@ pingbacks:
       user_id: '0'
     
 ---
-One of the problems I have with the way Moodle has been implemented at this institution (and probably not unique to this institution) is the [absence of a search engine](/blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/). Mostly because the students "inability to find anything" is being blamed on poor course design and being solved by an institutional push for consistency.
+One of the problems I have with the way Moodle has been implemented at this institution (and probably not unique to this institution) is the [absence of a search engine](/blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/). Mostly because the students "inability to find anything" is being blamed on poor course design and being solved by an institutional push for consistency.
 
 Amongst the many problems with this "solution" (e.g. the assumption that a single design will be suitable for the full spectrum of courses, topics and pedagogies used across a university) is that it won't actually solve the "inability to find anything" for my course. My course will still have a series of activities and resources in which useful information is stored. No amount of consistent layout of a Moodle site is going to make it simple to find specific bits of information amongst those activities/resources. You need a search engine.
 
@@ -139,7 +139,7 @@ I'm a competent, experienced computer user with some pretentions toward software
     
 5. Put all the content on an open website.
     
-    This was the option I [initially considered](/blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/) and rejected because of the additional workload (I never did get around to doing it last year).
+    This was the option I [initially considered](/blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/) and rejected because of the additional workload (I never did get around to doing it last year).
     
     To some extent the Evernote option is an example of this approach. The main difference is that the "open website" provides a range of clients across different devices that I can use to place information on the site.
     

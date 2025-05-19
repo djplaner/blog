@@ -5,10 +5,10 @@ categories:
 date: 2016-04-03 12:48:24+10:00
 next:
   text: Playing with D3
-  url: /blog2/2016/04/09/playing-with-d3/
+  url: /blog/2016/04/09/playing-with-d3/
 previous:
   text: First steps in integrating LATs OER into Moodle open book
-  url: /blog2/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
+  url: /blog/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
 title: '"Learning analytics should not promote one size fits all: The effects of instructional
   conditions in predicting academic success"'
 type: post

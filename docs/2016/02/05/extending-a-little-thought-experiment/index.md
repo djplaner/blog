@@ -4,10 +4,10 @@ categories:
 date: 2016-02-05 12:41:47+10:00
 next:
   text: Exploring the relationship between learning design and OEP
-  url: /blog2/2016/02/09/on-the-relationship-between-learning-design-and-oep/
+  url: /blog/2016/02/09/on-the-relationship-between-learning-design-and-oep/
 previous:
   text: Using social bookmarking to enrich the learning environment
-  url: /blog2/2016/02/04/using-social-bookmarking-to-enrich-the-learning-environment/
+  url: /blog/2016/02/04/using-social-bookmarking-to-enrich-the-learning-environment/
 tags:
 - bad
 - elearning
@@ -48,7 +48,7 @@ What if the purpose was to
 
 Identify all those students who have not submitted an assignment by the due date and don't already have an extension. Send each of those students an email asking if there's a problem that she can help with.
 
-This is the purpose for  which [I've recently developed](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) and used an option similar to Wiley's option #3.
+This is the purpose for  which [I've recently developed](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) and used an option similar to Wiley's option #3.
 
 Changing the purpose doesn't appear to really change my thoughts about each of the options, if I use the standard from Wiley's thought experiment
 
@@ -66,9 +66,9 @@ A non-submission badge strikes me as problematic.
 
 Does the context within which the course is taught have any impact on your thinking?
 
-The context in [which I adopted option #3](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) was a course with 300+ students. About 160 of those students are online students. That is, they never aren't expected to attend a campus and the geographic location of most means that they it would be impossible for them to do so. I'm directly responsible for about 220 of those students and responsible for the course overall. There are 2 other staff responsible for two different campus cohorts.
+The context in [which I adopted option #3](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) was a course with 300+ students. About 160 of those students are online students. That is, they never aren't expected to attend a campus and the geographic location of most means that they it would be impossible for them to do so. I'm directly responsible for about 220 of those students and responsible for the course overall. There are 2 other staff responsible for two different campus cohorts.
 
-The course is 100% assignment based. All assignments are submitted via a version of the [Moodle assignment submission activity](https://docs.moodle.org/29/en/Assignment_activity) that has been modified somewhat by my institution. For the assignment described in [this post](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) only 193 of 318 enrolled students had submitted assignments by the due date. Another 78 students had received extensions meaning that 47 students hadn't submitted by the due date.
+The course is 100% assignment based. All assignments are submitted via a version of the [Moodle assignment submission activity](https://docs.moodle.org/29/en/Assignment_activity) that has been modified somewhat by my institution. For the assignment described in [this post](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/) only 193 of 318 enrolled students had submitted assignments by the due date. Another 78 students had received extensions meaning that 47 students hadn't submitted by the due date.
 
 The tool being used to manage this process does not provide any method to identify the 47 that haven't submitted AND don't have extensions. Someone manually needs to step through the 125 students who haven't submitted and exclude those that have extensions.
 
@@ -76,7 +76,7 @@ Having done that the teacher is then expected to personally contact 47 different
 
 Another problem is that the system provided by the institution doesn't provide any other choice than to adopt Wiley's option #1 (send them each an email). Not only does the system NOT support the easy identification of non-submit, no extension students. It provides no support for sending a bulk email to each student within that category (or any other category).
 
-In order to choose Wiley's other options a teacher would have to engage in a bit of bricolage just [like I did](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/). Which tends not to happen. As an example consider that my course is a 3rd year course. The 300+ students in my course have been studying for at least 3 years in an online mode. Many of them for longer than that because they are studying part-time. They will typically have studied around 16 courses before starting my course. With that in mind here's what one student wrote in response to me adoption option #3
+In order to choose Wiley's other options a teacher would have to engage in a bit of bricolage just [like I did](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/). Which tends not to happen. As an example consider that my course is a 3rd year course. The 300+ students in my course have been studying for at least 3 years in an online mode. Many of them for longer than that because they are studying part-time. They will typically have studied around 16 courses before starting my course. With that in mind here's what one student wrote in response to me adoption option #3
 
 Thank you for contacting me in regards to the submission. You’re the first staff member to ever do that so I appreciate this a lot.
 

@@ -2,10 +2,10 @@
 date: 2007-03-04 19:44:21+10:00
 next:
   text: Open source in the education field
-  url: /blog2/2007/03/04/open-source-in-the-education-field/
+  url: /blog/2007/03/04/open-source-in-the-education-field/
 previous:
   text: Slowing change and persuading academics
-  url: /blog2/2007/02/10/slowing-change-and-persuading-academics/
+  url: /blog/2007/02/10/slowing-change-and-persuading-academics/
 title: Universities as a business - but which business
 type: post
 template: blog-post.html

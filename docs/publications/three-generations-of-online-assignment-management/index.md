@@ -39,7 +39,7 @@ Further reflections on the work around online assignment submission are availabl
 
 - David Jones, Mary Cranston, Sandy Behrens, Kieren Jamieson, (2005). What makes ICT implementation successful: A case study of online assignment submission, Presented at ODLAA’2005  
     
-- David Jones, Sandy Behrens, (2003). [“Online Assignment Management: An Evolutionary Tale”](/blog2/publications/online-assignment-submission-an-evolutionary-tale/), Hawaii International Conference on System Sciences, vol. 5, no. 5, pp. 156c, 36th Annual Hawaii International Conference on System Sciences (HICSS’03) – Track 5, 2003.
+- David Jones, Sandy Behrens, (2003). [“Online Assignment Management: An Evolutionary Tale”](/blog/publications/online-assignment-submission-an-evolutionary-tale/), Hawaii International Conference on System Sciences, vol. 5, no. 5, pp. 156c, 36th Annual Hawaii International Conference on System Sciences (HICSS’03) – Track 5, 2003.
 
 David Jones, Bruce Jamieson, Three Generations of Online Assignment Management, Rod Kevill, Ron Oliver, Rob Phillips (editors),What Works and Why, Proceedings of ASCILITE’97, Perth, Australia, pp 317-323
 

@@ -7,10 +7,10 @@ categories:
 date: 2013-11-19 14:01:16+10:00
 next:
   text: The external validity problem
-  url: /blog2/2013/11/22/the-external-validity-problem/
+  url: /blog/2013/11/22/the-external-validity-problem/
 previous:
   text: Approaches for literature analysis
-  url: /blog2/2013/11/15/approaches-for-literature-analysis/
+  url: /blog/2013/11/15/approaches-for-literature-analysis/
 title: Examining diffusion and sustainability of e-learning strategies thorugh weblog
   data
 type: post
@@ -84,7 +84,7 @@ pingbacks:
     []
     
 ---
-The following is a summary and some thoughts on Lam et al (2010). It's a paper from the same authors/research from which [I summarised an earlier paper](/blog2/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/).
+The following is a summary and some thoughts on Lam et al (2010). It's a paper from the same authors/research from which [I summarised an earlier paper](/blog/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/).
 
 The abstract for Lam et al (2010) is
 
@@ -145,7 +145,7 @@ Talks about two possible ways of examining adoption of e-learning innovations
 
 ## Factors impinging on diffusion and sustainability
 
-Starts with Rogers 5 characteristics of an innovation. _But again - like so many others - fails to mention the [other parts of of Rogers theory](/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/)_ though rate of adoption gets a mention. _Of course doesn't mention critiques of Rogers and diffusion._
+Starts with Rogers 5 characteristics of an innovation. _But again - like so many others - fails to mention the [other parts of of Rogers theory](/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/)_ though rate of adoption gets a mention. _Of course doesn't mention critiques of Rogers and diffusion._
 
 But argues that the adoption of different e-learning strategies can be explained by difference in the above characteristics.
 

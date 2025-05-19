@@ -4,10 +4,10 @@ categories:
 date: 2008-11-17 16:15:16+10:00
 next:
   text: Evaluating an LMS by understanding the underpinning "model"
-  url: /blog2/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/
+  url: /blog/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/
 previous:
   text: The dissonance gap in systems and LMS evaluations
-  url: /blog2/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/
+  url: /blog/2008/11/17/the-dissonance-gap-in-systems-and-lms-evaluations/
 title: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
 type: post
 template: blog-post.html

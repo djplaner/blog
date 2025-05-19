@@ -5,10 +5,10 @@ categories:
 date: 2006-12-19 15:11:21+10:00
 next:
   text: Software as a service - Google apps for your domain
-  url: /blog2/2006/12/21/software-as-a-service-google-apps-for-your-domain/
+  url: /blog/2006/12/21/software-as-a-service-google-apps-for-your-domain/
 previous:
   text: Social capital - outcome and aim
-  url: /blog2/2006/12/16/social-capital-outcome-and-aim/
+  url: /blog/2006/12/16/social-capital-outcome-and-aim/
 title: Social capital, REACT, Trust - misc resources
 type: post
 template: blog-post.html

@@ -4,19 +4,19 @@ categories:
 date: 2010-12-02 11:25:19+10:00
 next:
   text: A new theme for Moodle 2
-  url: /blog2/2010/12/06/a-new-theme-for-moodle-2/
+  url: /blog/2010/12/06/a-new-theme-for-moodle-2/
 previous:
   text: Schools, systems and change done to me
-  url: /blog2/2010/11/29/schools-systems-and-change-done-to-me/
+  url: /blog/2010/11/29/schools-systems-and-change-done-to-me/
 title: More testing for Moodle and BIM versions 2.0
 type: post
 template: blog-post.html
 ---
-Continuing on with [playing with Moodle 2.0](/blog2/2010/11/18/installing-and-starting-with-moodle-2-0/) and in particular its external blog syncing and integration of SimplePie. The aim here is to test the problem with special characters in feeds and what it does to PostgreSQL databases.
+Continuing on with [playing with Moodle 2.0](/blog/2010/11/18/installing-and-starting-with-moodle-2-0/) and in particular its external blog syncing and integration of SimplePie. The aim here is to test the problem with special characters in feeds and what it does to PostgreSQL databases.
 
 ### The problem
 
-This is the [biggest problem](/blog2/2010/09/05/more-problems-with-bim-and-special-characters/) I've had with BIM and only really appears to be a problem with folk using PostgreSQL. Though I'm wondering whether there is some sort of option in PostgreSQL to solve this.
+This is the [biggest problem](/blog/2010/09/05/more-problems-with-bim-and-special-characters/) I've had with BIM and only really appears to be a problem with folk using PostgreSQL. Though I'm wondering whether there is some sort of option in PostgreSQL to solve this.
 
 In summary, the problem is:
 

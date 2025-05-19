@@ -4,11 +4,11 @@ categories:
 date: 2012-05-05 09:36:33+10:00
 next:
   text: A CRM for the LMS?
-  url: /blog2/2012/05/05/a-crm-for-the-lms/
+  url: /blog/2012/05/05/a-crm-for-the-lms/
 previous:
   text: 'Enabling and analysing cross-institutional patterns in learning analytics:
     A foundation for research and action'
-  url: /blog2/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/
+  url: /blog/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/
 title: On the inertia of systems
 type: post
 template: blog-post.html

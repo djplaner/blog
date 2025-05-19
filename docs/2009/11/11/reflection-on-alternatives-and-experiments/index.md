@@ -6,10 +6,10 @@ categories:
 date: 2009-11-11 09:34:41+10:00
 next:
   text: Twitter back channels, conferences, sessions and engaging the audience
-  url: /blog2/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
+  url: /blog/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
 previous:
   text: Future of universities - an age old problem
-  url: /blog2/2009/11/09/future-of-universities-an-age-old-problem/
+  url: /blog/2009/11/09/future-of-universities-an-age-old-problem/
 tags:
 - ustream-twitter
 - votapedia
@@ -111,7 +111,7 @@ pingbacks:
     []
     
 ---
-I've just completed [a presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) which included an experiment with some different technologies for lectures and a [talk I gave at EDUCAUSE09](http://www.educause.edu/E09+Hybrid/EDUCAUSE2009FacetoFaceConferen/ELearningImplementationAlterna/176134). The slides, video and other related resources are available from the [main presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) page.
+I've just completed [a presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) which included an experiment with some different technologies for lectures and a [talk I gave at EDUCAUSE09](http://www.educause.edu/E09+Hybrid/EDUCAUSE2009FacetoFaceConferen/ELearningImplementationAlterna/176134). The slides, video and other related resources are available from the [main presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) page.
 
 The purpose of this post is an attempt at a debrief/reflection on the experience.
 

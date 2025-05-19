@@ -5,10 +5,10 @@ categories:
 date: 2011-02-02 11:21:28+10:00
 next:
   text: '"bim2: registering a new blog"'
-  url: /blog2/2011/02/06/bim2-registering-a-new-blog/
+  url: /blog/2011/02/06/bim2-registering-a-new-blog/
 previous:
   text: Is there a need for research focii?
-  url: /blog2/2011/02/01/is-there-a-need-for-research-focii/
+  url: /blog/2011/02/01/is-there-a-need-for-research-focii/
 title: Some stories from teaching awards
 type: post
 template: blog-post.html
@@ -29,7 +29,7 @@ As part of the application process, I had to create evidence to justify that my 
 
 What troubled me then and troubles me to this day, is that the institution had no way of knowing. It's core business is learning and teaching and it had no mechanisms in place that could identify the good and the bad teachers.
 
-In fact, at that stage the institution didn't have a teaching evaluation system. One of my "contributions to the development of online learning" was developing a web-based survey mechanism that I used in my own publications. [This publication](/blog2/publications/solving-some-problems-with-university-education-part-ii/#surveys) reports response rates of between 29-41% in one of my courses.
+In fact, at that stage the institution didn't have a teaching evaluation system. One of my "contributions to the development of online learning" was developing a web-based survey mechanism that I used in my own publications. [This publication](/blog/publications/solving-some-problems-with-university-education-part-ii/#surveys) reports response rates of between 29-41% in one of my courses.
 
 It is my understanding that the 2010 institutional evaluation system still dreams about reaching percentages that high.
 
@@ -51,7 +51,7 @@ The money went into a professional development fund that was used for conference
 
 #### You didn't make a difference
 
-A significant part of the reason for the reward was my work in online learning and, in particular, the development of the Webfuse e-learning system. Parts of which are still in use at the institution and the story is told in more detail in [my thesis](/blog2/research/phd-thesis/).
+A significant part of the reason for the reward was my work in online learning and, in particular, the development of the Webfuse e-learning system. Parts of which are still in use at the institution and the story is told in more detail in [my thesis](/blog/research/phd-thesis/).
 
 About 4 years after receiving this award, recognising the contribution, a new Dean told me not to worry about working on Webfuse anymore, it had made no significant different to learning and teaching within the faculty.
 
@@ -89,4 +89,4 @@ Ignoring this perception, some folk then mistakenly tried to transplant the appr
 
 ### Quality teaching has to be embedded
 
-This bring me back to some of the points that I made [about the demise of the ALTC](/blog2/2011/01/28/the-demise-of-altc/). Quality teaching doesn't arise from external bodies and their actions, it arises from conditions within an university that enable and encourage messy processes of context-sensitive, collaboration between talented people.
+This bring me back to some of the points that I made [about the demise of the ALTC](/blog/2011/01/28/the-demise-of-altc/). Quality teaching doesn't arise from external bodies and their actions, it arises from conditions within an university that enable and encourage messy processes of context-sensitive, collaboration between talented people.

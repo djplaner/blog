@@ -4,10 +4,10 @@ categories:
 date: 2015-04-02 11:06:46+10:00
 next:
   text: Starting the "Moodle open book" project
-  url: /blog2/2015/04/13/starting-the-moodle-open-book-project/
+  url: /blog/2015/04/13/starting-the-moodle-open-book-project/
 previous:
   text: Concrete lounges and why basketball players aren&#039;t better hockey players
-  url: /blog2/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/
+  url: /blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/
 title: '"Designing a Secondary Computing curriuclum &#038; pedagogy course"'
 type: post
 template: blog-post.html

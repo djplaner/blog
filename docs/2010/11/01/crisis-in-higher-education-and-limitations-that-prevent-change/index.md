@@ -4,10 +4,10 @@ categories:
 date: 2010-11-01 10:58:06+10:00
 next:
   text: A story of the power of intrinsic motivation
-  url: /blog2/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/
+  url: /blog/2010/11/07/a-story-of-the-power-of-intrinsic-motivation/
 previous:
   text: Thesis abstract v1.0b
-  url: /blog2/2010/10/28/thesis-abstract-v1-0/
+  url: /blog/2010/10/28/thesis-abstract-v1-0/
 title: Crisis in higher education and limitations that prevent change
 type: post
 template: blog-post.html
@@ -41,7 +41,7 @@ Over the last few days I've been catching up on some writing (first last week [L
 
 My problem is that when it comes to universities - especially those Australian universities that I'm familiar with - I'm not confident that anything can/will be done.
 
-In this case, my natural cynicism has been enhanced by a couple of years of experience within one institution into a possibly unhealthy contempt. On the other hand it is also being challenged by a colleague's [observation that](/blog2/2010/10/20/time-for-a-career-change/#comment-3594)
+In this case, my natural cynicism has been enhanced by a couple of years of experience within one institution into a possibly unhealthy contempt. On the other hand it is also being challenged by a colleague's [observation that](/blog/2010/10/20/time-for-a-career-change/#comment-3594)
 
 > you’d be the perfect person to carve out a space in the brave new world of open education.
 
@@ -55,7 +55,7 @@ I was really taken with this quote from [Richard Hall's post](http://www.learnex
 
 It captures brilliantly what was the vision behind the failed [PLEs@CQUni project](http://cddu.cqu.edu.au/index.php/PLEs@CQUni).
 
-What surprised me more was that Richard also quoted and linked to [a recent post of mine](/blog2/2010/10/19/change-in-education-failure-to-learn-and-the-commodification-of-university/). The quote he included was this line
+What surprised me more was that Richard also quoted and linked to [a recent post of mine](/blog/2010/10/19/change-in-education-failure-to-learn-and-the-commodification-of-university/). The quote he included was this line
 
 > It’s the focus on the product that has led university leaders to place less emphasis on the process and the people.
 
@@ -63,7 +63,7 @@ In the original post, what I meant by product was degrees, not tools. The focus 
 
 But that's an aside. The point here is that the focus on product also underpinned the failure of the PLEs@CQUni project. A fundamental argument in my thesis is that when it comes to e-learning (and universities in general) teleological or plan-driven processes have become dominant. Not only that, I argue that for the type of activity and context in which e-learning operates, plan-driven processes are completely inappropriate. To such an extent that university folk either aren't even aware that there are alternatives. Or, if they are aware of the alternatives, then they either disparage them as undisciplined, or have faddishly adopted the perception of using the alternatives, without really understanding or implementing them properly.
 
-The same pressures that created the [neo-liberal university](http://www.eliss.org.uk/PreviousEditions/Volume1Issue2/ViewArticle/tabid/72/itemid/43/pubtabid/73/repmodid/411/Default.aspx) Richard talks about also encourages, perhaps even requires, the adoption of [techno-rational, plan-driven processes](/blog2/2009/05/25/teleological-and-ateleological-processes/). That is, senior, knowledgable people identify the solution and then employ project boards and other folk to ensure that the entire organisation implements that solution. Senior people aren't able to say, "We don't know what the best solution is, we're going to explore". That would be seen as ignorant (the leader must have the answer) and inefficient. If you decide you don't want to adopt the solution, you are seen as inefficient or not a team player. And eventually when the inevitable problems arise (because they really didn't know what would be needed now, let alone in a couple of years) it's not the senior management folk or the process that gets the blame. No, it was poor implementation. If only we had better people doing the implementation...
+The same pressures that created the [neo-liberal university](http://www.eliss.org.uk/PreviousEditions/Volume1Issue2/ViewArticle/tabid/72/itemid/43/pubtabid/73/repmodid/411/Default.aspx) Richard talks about also encourages, perhaps even requires, the adoption of [techno-rational, plan-driven processes](/blog/2009/05/25/teleological-and-ateleological-processes/). That is, senior, knowledgable people identify the solution and then employ project boards and other folk to ensure that the entire organisation implements that solution. Senior people aren't able to say, "We don't know what the best solution is, we're going to explore". That would be seen as ignorant (the leader must have the answer) and inefficient. If you decide you don't want to adopt the solution, you are seen as inefficient or not a team player. And eventually when the inevitable problems arise (because they really didn't know what would be needed now, let alone in a couple of years) it's not the senior management folk or the process that gets the blame. No, it was poor implementation. If only we had better people doing the implementation...
 
 [![Humphrey Appleby](images/oth_humphrey.jpg)](http://en.wikipedia.org/wiki/File:SirHumphrey.jpg)
 

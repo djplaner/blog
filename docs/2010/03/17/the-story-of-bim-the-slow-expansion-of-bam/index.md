@@ -4,10 +4,10 @@ categories:
 date: 2010-03-17 15:44:52+10:00
 next:
   text: Embedding behaviour modification - paper summary
-  url: /blog2/2010/03/17/embedding-behaviour-modification-paper-summary/
+  url: /blog/2010/03/17/embedding-behaviour-modification-paper-summary/
 previous:
   text: Late enrolling students and student signatures - Indicators project?
-  url: /blog2/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
+  url: /blog/2010/03/17/late-enrolling-students-and-student-signatures-indicators-project/
 title: The story of BIM - the slow expansion of BAM
 type: post
 template: blog-post.html
@@ -16,7 +16,7 @@ Episode 3 of the story of BIM
 
 ### A descent into Limbo
 
-The [initial development and use of BAM](/blog2/2010/03/17/the-story-of-bim-development-of-bam/) was in a single course that finished around November, 2006. This was the last course I was to teach. By early 2007 I had applied for and been selected as the new Head of E-Learning and Materials Development at the same institution. While still an academic role, I would no longer be teaching. Instead I would be the supervisor of a group of 10-20 staff who were responsible for various tasks including curriculum design and desk top publishing. It wasn't until the middle of 2007 that I became responsible for the support of CQU's official LMS (Blackboard).
+The [initial development and use of BAM](/blog/2010/03/17/the-story-of-bim-development-of-bam/) was in a single course that finished around November, 2006. This was the last course I was to teach. By early 2007 I had applied for and been selected as the new Head of E-Learning and Materials Development at the same institution. While still an academic role, I would no longer be teaching. Instead I would be the supervisor of a group of 10-20 staff who were responsible for various tasks including curriculum design and desk top publishing. It wasn't until the middle of 2007 that I became responsible for the support of CQU's official LMS (Blackboard).
 
 2007 was the start of a significant period of uncertainty. By the time I took over e-learning the Director who attracted me to the position had not had her contract renewed. While I was the designer of Webfuse and very critical of the nature and implementation of traditional LMS (like Blackboard), I found myself in the position of being responsible for Blackboard, but not Webfuse. At around the same time a new Director of information technology was appointed and there was a major re-alignment of IT. i.e. All IT should be the responsibility of the IT division. Various other factors contributed to on-going uncertainty about how to achieve anything related to e-learning. Perhaps the biggest was the perception that the institution was in financial peril and subsequent decisions not to renew contracts.
 

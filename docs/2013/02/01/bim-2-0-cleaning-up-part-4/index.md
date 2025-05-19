@@ -5,15 +5,15 @@ categories:
 date: 2013-02-01 11:01:00+10:00
 next:
   text: The missing perspective(s) on MOOCs?
-  url: /blog2/2013/02/08/the-missing-perspectives-on-moocs/
+  url: /blog/2013/02/08/the-missing-perspectives-on-moocs/
 previous:
   text: Exploring connected versus/and networked learning
-  url: /blog2/2013/01/27/exploring-connected-versusand-networked-learning/
+  url: /blog/2013/01/27/exploring-connected-versusand-networked-learning/
 title: BIM 2.0 - cleaning up part 4
 type: post
 template: blog-post.html
 ---
-Another step in getting [BIM 2.0](/blog2/research/bam-blog-aggregation-management/) ready for release. Addressing the current two outstanding issues prior to exploration of submitting BIM to [Moodle CONTRIB](http://docs.moodle.org/dev/Guidelines_for_contributed_code#The_CONTRIB_Frequently_Asked_Question_.28FAQ.29) (??appropriate terminology)
+Another step in getting [BIM 2.0](/blog/research/bam-blog-aggregation-management/) ready for release. Addressing the current two outstanding issues prior to exploration of submitting BIM to [Moodle CONTRIB](http://docs.moodle.org/dev/Guidelines_for_contributed_code#The_CONTRIB_Frequently_Asked_Question_.28FAQ.29) (??appropriate terminology)
 
 The two tasks are
 

@@ -5,10 +5,10 @@ categories:
 date: 2015-08-13 10:18:36+10:00
 next:
   text: ICT knowledge and quizzes
-  url: /blog2/2015/08/13/ict-knowledge-and-quizzes/
+  url: /blog/2015/08/13/ict-knowledge-and-quizzes/
 previous:
   text: Changing &quot;as learner&quot; focus - analytics to &quot;chamber music&quot;
-  url: /blog2/2015/08/09/changing-as-learner-focus-analytics-to-chamber-music/
+  url: /blog/2015/08/09/changing-as-learner-focus-analytics-to-chamber-music/
 title: Possible sources of an institution's e-learning content problems
 type: post
 template: blog-post.html
@@ -42,7 +42,7 @@ Evidence of the problems comes from two different sources.
 
 First, is at the institutional level. For some time there has been concern expressed at senior levels within the institution that students can't find information on the course sites. This has led to a number of institutional projects and strategies.
 
-The first was the development of a standard look and feel for course sites. Publicised as [a makeover](http://www.usq.edu.au/studydesk/) of the StudyDesk (the institutional brand for Moodle, which potentially [causes its own problems](/blog2/2015/07/07/does-branding-the-lms-hurt-learning/)) that promises the ability to find "all course information" and "assessment submission in one location". There is apparently on-going work around this
+The first was the development of a standard look and feel for course sites. Publicised as [a makeover](http://www.usq.edu.au/studydesk/) of the StudyDesk (the institutional brand for Moodle, which potentially [causes its own problems](/blog/2015/07/07/does-branding-the-lms-hurt-learning/)) that promises the ability to find "all course information" and "assessment submission in one location". There is apparently on-going work around this
 
 https://twitter.com/usqedu/status/630513932176756736
 
@@ -91,7 +91,7 @@ There's some value in enabling the reuse of existing materials, but they have to
 
 ### A focus on design, rather than bricolage
 
-The ICE model and the model used by print-based distance education was based on design. i.e. the process was to spend a lot of time on design and production of a perfect, final artefact (print-based materials) that was distributed to students. This is because once the materials were sent out, they couldn't be changed. This created problems, e.g. this from [Jones (1996)](/blog2/publications/solving-some-problems-of-university-education-a-case-study/)
+The ICE model and the model used by print-based distance education was based on design. i.e. the process was to spend a lot of time on design and production of a perfect, final artefact (print-based materials) that was distributed to students. This is because once the materials were sent out, they couldn't be changed. This created problems, e.g. this from [Jones (1996)](/blog/publications/solving-some-problems-of-university-education-a-case-study/)
 
 > inability to respond to errors in study material or the requirements of individual students
 
@@ -139,6 +139,6 @@ The same course is being offered this semester. The dates listed above no longer
 
 Since doing this manually would be silly, most people don't do it. Instead of providing context specific information (e.g. dates), generic information is given. It's just week 1 or theme 1. The problem with this is that it makes it more difficult for the teacher and student. Rather than information (like due dates) being available in the space needed, they have to expend energy and time looking elsewhere for that information.
 
-I've implemented [a kludge macro system](/blog2/2015/06/26/and-the-little-one-said-roll-over-roll-over/), but Moodle has a functionality called [filters](https://docs.moodle.org/dev/Filters) that could be used to achieve the same end with some advantages.
+I've implemented [a kludge macro system](/blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/), but Moodle has a functionality called [filters](https://docs.moodle.org/dev/Filters) that could be used to achieve the same end with some advantages.
 
 However, this particular problem doesn't appear to be on the radar. Arguably because all of the other "content" problems means that few people are producing content that could work with filters or require this approach.

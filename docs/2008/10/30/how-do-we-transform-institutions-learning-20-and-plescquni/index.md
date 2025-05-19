@@ -5,10 +5,10 @@ categories:
 date: 2008-10-30 00:52:55+10:00
 next:
   text: Readings on Design-based research
-  url: /blog2/2008/10/30/readings-on-design-based-research/
+  url: /blog/2008/10/30/readings-on-design-based-research/
 previous:
   text: The importance of diversity to improving learning and teaching
-  url: /blog2/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
+  url: /blog/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
 title: How do we transform institutions? Learning 2.0 and PLEs@CQUni
 type: post
 template: blog-post.html
@@ -67,7 +67,7 @@ The features of this approach can be summarised as
 - Once decided the organisation and its members must all align and adopt the identified solution.
 - Those that don't, get "change managed" or "culturally re-aligned" so they do.
 
-My colleagues and I have expanded on the problems with this type of approach a couple of times before. First in [2005](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) and again in [2007](/blog2/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/).
+My colleagues and I have expanded on the problems with this type of approach a couple of times before. First in [2005](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) and again in [2007](/blog/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/).
 
 The main problem in this context is that this type of approach is almost 100% certain to ensure that the fundamental assumptions underpinning existing organisational practice will remain. That you'll get the "blogs and wikis in an LMS" approach to learning 2.0/web 2.0.
 
@@ -109,8 +109,8 @@ Such a process would focus on developing knowledge and positive experience among
 
 The formation of this ideas is outlined and expanded upon in two recent publications
 
-- [The Ps Framework: Mapping the landscape for the PLEs@CQUni project](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/)
-- [PLEs: Framing one future for Lifelong Learning, E-Learning and Universities](/blog2/publications/ples-framing-one-future-for-lifelong-learning-e-learning-and-universities/)
+- [The Ps Framework: Mapping the landscape for the PLEs@CQUni project](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/)
+- [PLEs: Framing one future for Lifelong Learning, E-Learning and Universities](/blog/publications/ples-framing-one-future-for-lifelong-learning-e-learning-and-universities/)
 
 ### Won't that just result in "Blogs and wikis in an LMS"
 

@@ -4,10 +4,10 @@ categories:
 date: 2007-07-12 22:32:42+10:00
 next:
   text: Claiming my blog on technorati
-  url: /blog2/2007/08/01/claiming-my-blog-on-technorati/
+  url: /blog/2007/08/01/claiming-my-blog-on-technorati/
 previous:
   text: Some short-term futures for learning @ CQU
-  url: /blog2/2007/07/11/some-short-term-futures-for-learning-cqu/
+  url: /blog/2007/07/11/some-short-term-futures-for-learning-cqu/
 title: '"Further reflection on creating innovative, good quality L&#038;T"'
 type: post
 template: blog-post.html

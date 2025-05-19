@@ -5,10 +5,10 @@ categories:
 date: 2011-01-30 22:49:19+10:00
 next:
   text: My god, is it done?
-  url: /blog2/2011/01/31/my-god-is-it-done/
+  url: /blog/2011/01/31/my-god-is-it-done/
 previous:
   text: The state of educational data mining in 2009
-  url: /blog2/2011/01/30/the-state-of-educational-data-mining-in-2009/
+  url: /blog/2011/01/30/the-state-of-educational-data-mining-in-2009/
 title: Problems of service provision and why can't I have a personalised class timetable?
 type: post
 template: blog-post.html
@@ -88,13 +88,13 @@ Instead of a personalised timetable system, I have to
 
 ### Moving backwards
 
-The funny thing is that the institution had a personalised timetable system around late 1999/early 2000. I should know, I helped write it and [published a description of it](/blog2/publications/how-to-live-with-erp-systems-and-thrive/#timetable) in a paper explaining how to thrive with an ERP.
+The funny thing is that the institution had a personalised timetable system around late 1999/early 2000. I should know, I helped write it and [published a description of it](/blog/publications/how-to-live-with-erp-systems-and-thrive/#timetable) in a paper explaining how to thrive with an ERP.
 
 And it's not as if that system couldn't still work. The institution is still using the broader system that personalised timetable was a part of for other purposes and the personalised timetable system was designed to scrape data from a web page. Just like the one I had to manually trawl through above. It was smart enough to automatically update the timetable as the draft changed.
 
 ### Why isn't there one?
 
-I was going to write something new about why the institution doesn't have a personalised timetable system for students, but have decided to start with the [explanation I gave in 2003](/blog2/publications/how-to-live-with-erp-systems-and-thrive/#timetable)
+I was going to write something new about why the institution doesn't have a personalised timetable system for students, but have decided to start with the [explanation I gave in 2003](/blog/publications/how-to-live-with-erp-systems-and-thrive/#timetable)
 
 > - Mismatch between system owner and users.  
 >     The system owner of the CQ timetabling system is CQU’s student administration division. Their major timetabling role is managing the allocation of space and time. Distributing this information to staff and students is a secondary smaller task of less importance. As a result the choice and use of the supporting information system is driven more by the requirements of the management role than the distribution role.
@@ -135,7 +135,7 @@ But there are problems, including:
 - Fall between the cracks;  
     Since representation in the governance structure is based on the organisational structure and limited to appropriately senior folk, there are significant problems and opportunities that are never seen and fall between the cracks. This is the problem which I think the personalised timetable above suffers from.
 - Everyone is different;  
-    If a service provider has to deal with _x_ clients. Then every "widget" the service provider puts in place will have _x_ versions. One for each client. One potential example is the case of 2 student handbooks (where 2 equals the number of faculties) I [mentioned previously](/blog2/2011/01/25/the-power-of-organisational-structure/).
+    If a service provider has to deal with _x_ clients. Then every "widget" the service provider puts in place will have _x_ versions. One for each client. One potential example is the case of 2 student handbooks (where 2 equals the number of faculties) I [mentioned previously](/blog/2011/01/25/the-power-of-organisational-structure/).
 - If all you have is a hammer, everything looks like a nail.  
     This is a particular problem when it comes to fads and fashions. For example, if the current fad is e-portfolios or iPads, then every time a client asks the central L&T division for advice, there's a chance the answer will be "e-portfolios" or "iPads". In the case of IT divisions the answer will almost always be one of: ERP, CRM, LMS, Data warehouse, student portal, staff portal etc.
 

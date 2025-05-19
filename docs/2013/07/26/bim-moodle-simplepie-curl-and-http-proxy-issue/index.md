@@ -4,10 +4,10 @@ categories:
 date: 2013-07-26 10:44:02+10:00
 next:
   text: Learning analytics - What is the "end in mind"?
-  url: /blog2/2013/08/02/learning-analytics-what-is-the-end-in-mind/
+  url: /blog/2013/08/02/learning-analytics-what-is-the-end-in-mind/
 previous:
   text: How are they feeling - Semester 2 - Part 1
-  url: /blog2/2013/07/18/how-are-they-feeling-semester-2-part-1/
+  url: /blog/2013/07/18/how-are-they-feeling-semester-2-part-1/
 title: BIM, Moodle, Simplepie, curl and HTTP proxy issue
 type: post
 template: blog-post.html
@@ -72,7 +72,7 @@ pingbacks:
     []
     
 ---
-Good news this week. [BIM](/blog2/research/bam-blog-aggregation-management/) got into the institution's testing site for Moodle. One step close to going live. The bad news is that there were a couple of issues to resolve. This post is a record of the attempt to address the big one (successfully as well).
+Good news this week. [BIM](/blog/research/bam-blog-aggregation-management/) got into the institution's testing site for Moodle. One step close to going live. The bad news is that there were a couple of issues to resolve. This post is a record of the attempt to address the big one (successfully as well).
 
 ## The problem
 

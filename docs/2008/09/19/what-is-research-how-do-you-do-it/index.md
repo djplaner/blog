@@ -5,10 +5,10 @@ categories:
 date: 2008-09-19 14:22:32+10:00
 next:
   text: What underpins student-centered education
-  url: /blog2/2008/09/24/what-underpins-student-centered-education/
+  url: /blog/2008/09/24/what-underpins-student-centered-education/
 previous:
   text: What should a LMS evaluation consider?
-  url: /blog2/2008/09/14/what-should-a-lms-evaluation-consider/
+  url: /blog/2008/09/14/what-should-a-lms-evaluation-consider/
 title: What is research?  How do you do it?
 type: post
 template: blog-post.html

@@ -4,10 +4,10 @@ categories:
 date: 2009-03-02 20:36:37+10:00
 next:
   text: Task corruption in teaching @ university - negative impact of Place?
-  url: /blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
+  url: /blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/
 previous:
   text: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
-  url: /blog2/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
+  url: /blog/2009/03/02/some-potential-updates-to-bam-a-step-towards-breaking-the-lmscms-orthodoxy/
 title: Further evidence of problems with evaluation of teaching
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In a couple of [recent posts](/blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) (and [this one](/blog2/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/)) I've essentially been arguing that most evaluation of teaching at universities is actually worse the useless. The following quote from White (2006) provides some additional ammunition.
+In a couple of [recent posts](/blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) (and [this one](/blog/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/)) I've essentially been arguing that most evaluation of teaching at universities is actually worse the useless. The following quote from White (2006) provides some additional ammunition.
 
 > Research has suggested that grade leniency is the most significant factor in positive evaluation of teaching (Greenwald & Gilmore, 1997; Marsh & Roche, 2000). These pressures may be resulting in grade inflation by some teachers and departments, and concomitantly, unrealistic student expectations with respect to the marks they should be awarded.
 

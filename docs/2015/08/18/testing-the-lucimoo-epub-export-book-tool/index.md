@@ -5,10 +5,10 @@ categories:
 date: 2015-08-18 10:22:30+10:00
 next:
   text: Understanding learning as network formation
-  url: /blog2/2015/08/18/understanding-learning-as-network-formation/
+  url: /blog/2015/08/18/understanding-learning-as-network-formation/
 previous:
   text: There&#039;s more to it than the Internet and social software
-  url: /blog2/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/
+  url: /blog/2015/08/17/theres-more-to-it-than-the-internet-and-social-software/
 title: Testing the Lucimoo epub export book tool
 type: post
 template: blog-post.html
@@ -39,7 +39,7 @@ Verdict: all works, a few changes to practice to leverage it properly.
 
 ### Import a few books
 
-First step is to import a few books into the bare course site within the test environment. Just a few random books from my main course. Something that's much easier now that @jonof helped identify [some lost knowledge](/blog2/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/) (and my oversight/mistake).
+First step is to import a few books into the bare course site within the test environment. Just a few random books from my main course. Something that's much easier now that @jonof helped identify [some lost knowledge](/blog/2015/07/18/import-and-the-book-module-a-case-of-knowledge-loss/) (and my oversight/mistake).
 
 Of course it is never perfect. The default setting on the test environment is to use the gui editor. Which removes links to CSS files. **Which is a real pain**.
 
@@ -51,7 +51,7 @@ Once in the book select the administration/settings block and hey presto, there'
 
 Select that option and I get the option to download the ePub file or view it in iBooks.
 
-As [reported earlier](/blog2/2015/06/15/importexport-epubs-into-the-moodle-book-module/) the ePub contains a few errors because apparently the original HTML content in my Book resource doesn't always meet ePub's stricter requirements. The bugs I had to fix included
+As [reported earlier](/blog/2015/06/15/importexport-epubs-into-the-moodle-book-module/) the ePub contains a few errors because apparently the original HTML content in my Book resource doesn't always meet ePub's stricter requirements. The bugs I had to fix included
 
 - Missing ending tag for an image (produced by ImageCodr) Of course it appears that the over-reaching default HTML editor in Moodle is automatically removing the /> I'm putting at the end of the <<img tag. I've had to change my preference to the plain text area to get that fixed.
     

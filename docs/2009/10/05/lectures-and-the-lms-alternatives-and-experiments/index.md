@@ -7,10 +7,10 @@ categories:
 date: 2009-10-05 10:28:49+10:00
 next:
   text: Thoughts on "Insidious pedagogy"
-  url: /blog2/2009/10/06/thoughts-on-insidiuous-pedagogy/
+  url: /blog/2009/10/06/thoughts-on-insidiuous-pedagogy/
 previous:
   text: Lessons from Pedagogy for e-learning
-  url: /blog2/2009/10/04/lessons-from-pedagogy-for-e-learning/
+  url: /blog/2009/10/04/lessons-from-pedagogy-for-e-learning/
 title: '"Lectures and the LMS: Alternatives and experiments"'
 type: post
 template: blog-post.html
@@ -212,7 +212,7 @@ The talk will be a trial run of a presentation to be given at [EDUCAUSE'09](http
 
 > The practice of e-learning in universities suffers from a number of unquestioned perspectives that limit outcomes. This presentation describes a framework for understanding the full diversity of alternate perspectives and examines one successful set of perspectives arising out of 12+ years of designing, supporting and competing with the Webfuse system.
 
-An [extended abstract of the talk](/blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) is also available.
+An [extended abstract of the talk](/blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) is also available.
 
 The talk will be used as the test bed for an experiment with a range of different technologies that seek to question many of the mythic attributes of the lecture or presentation. The technologies being experimented with include:
 

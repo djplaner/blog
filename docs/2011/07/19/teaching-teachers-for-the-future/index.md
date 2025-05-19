@@ -4,10 +4,10 @@ categories:
 date: 2011-07-19 12:30:04+10:00
 next:
   text: Can you be a native in a world that is always changing?
-  url: /blog2/2011/07/20/4033/
+  url: /blog/2011/07/20/4033/
 previous:
   text: Choosing the wrong drivers for whole system reform
-  url: /blog2/2011/07/13/choosing-the-wrong-drivers-for-whole-system-reform/
+  url: /blog/2011/07/13/choosing-the-wrong-drivers-for-whole-system-reform/
 title: Teaching teachers for the future
 type: post
 template: blog-post.html

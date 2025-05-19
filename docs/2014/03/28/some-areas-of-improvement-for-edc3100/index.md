@@ -4,10 +4,10 @@ categories:
 date: 2014-03-28 15:23:46+10:00
 next:
   text: BIM and BAD
-  url: /blog2/2014/03/31/bim-and-bad/
+  url: /blog/2014/03/31/bim-and-bad/
 previous:
   text: A story about the failure of institutional eportfolios
-  url: /blog2/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/
+  url: /blog/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/
 title: '"Some areas of improvement for #edc3100"'
 type: post
 template: blog-post.html
@@ -102,7 +102,7 @@ Activities early on need to help develop this.
 
 Students are shown Scootle and love it. Especially the integration with the Australian Curriculum. Select your content descriptor, look at the elaboration and click on the Scootle link to see a list of resources that match. Learning design made easy!?
 
-But many don't see (or haven't explicitly mentioned where I can see) some of the [reservations](/blog2/2011/05/08/looking-for-learning-objects-measurement-perimeter-etc/) I have about these repositories and the quality of the information in them.
+But many don't see (or haven't explicitly mentioned where I can see) some of the [reservations](/blog/2011/05/08/looking-for-learning-objects-measurement-perimeter-etc/) I have about these repositories and the quality of the information in them.
 
 Enabling them to be more evaluative of the quality of the resources would seem to be a good idea.
 

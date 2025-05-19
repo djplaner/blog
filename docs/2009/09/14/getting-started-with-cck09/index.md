@@ -4,11 +4,11 @@ categories:
 date: 2009-09-14 13:50:54+10:00
 next:
   text: Herding cats, losing weight and how to improve learning and teaching
-  url: /blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/
+  url: /blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/
 previous:
   text: Dede&#039;s &quot;sleeping, eating and bonding&quot; metaphor and the diversity
     of learning and its impacts for e-learning
-  url: /blog2/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/
+  url: /blog/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/
 title: Getting started with CCK09
 type: post
 template: blog-post.html
@@ -49,9 +49,9 @@ pingbacks:
 ---
 Last year I planned to participate in CCK08 - [Connectivism and Connective Knowledge'2008](http://ltc.umanitoba.ca/connectivism/?page_id=2) - "a rather large online course" organised by George Siemens and Stephen Downes. Then various things, including a nastly little organisational restructure got in the way and I piked out.
 
-Well [CCK09](http://ltc.umanitoba.ca/connectivism/) - the 2009 version of the course - has commenced and I'm trying to make the time to engage. I'm guessing there will be similar time pressures, however, this year I think the course, its content and method connect directly with [my current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/. A position which is essentially aimed at trying to improve the quality of learning and teaching at the [host institution](http://www.cqu.edu.au/).
+Well [CCK09](http://ltc.umanitoba.ca/connectivism/) - the 2009 version of the course - has commenced and I'm trying to make the time to engage. I'm guessing there will be similar time pressures, however, this year I think the course, its content and method connect directly with [my current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/. A position which is essentially aimed at trying to improve the quality of learning and teaching at the [host institution](http://www.cqu.edu.au/).
 
-I've encountered connectivism and its associated ideas over the last couple of years and have only recently started to read a bit deeper (as I work on finishing [the thesis](/blog2/research/phd-thesis/)). From the start the concepts have been attractive to me because of an existing prejudice/preference/belief in agile development, complex adaptive systems and a range of related theories and perspectives. As part of that I think the primarily teleological approaches used at universities are completely inappropriate. Connectivism and CCK09 look like they provide additional theory and insight for making that argument and identifying more appropriate ways to move forward.
+I've encountered connectivism and its associated ideas over the last couple of years and have only recently started to read a bit deeper (as I work on finishing [the thesis](/blog/research/phd-thesis/)). From the start the concepts have been attractive to me because of an existing prejudice/preference/belief in agile development, complex adaptive systems and a range of related theories and perspectives. As part of that I think the primarily teleological approaches used at universities are completely inappropriate. Connectivism and CCK09 look like they provide additional theory and insight for making that argument and identifying more appropriate ways to move forward.
 
 In my introduction on the CCK09 discussion forum, I identified two main benefits I think participation in CCK09 will bring for me:
 

@@ -6,10 +6,10 @@ categories:
 date: 2008-11-11 08:57:16+10:00
 next:
   text: What are the assumptions which PLEs/Learning 2.0 etc overthrow
-  url: /blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
+  url: /blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
 previous:
   text: Between the idea and the reality,.... falls the shadow
-  url: /blog2/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/
+  url: /blog/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/
 title: '"Extending the classroom: Open content and open teaching: Summary and reflection"'
 type: post
 template: blog-post.html
@@ -97,13 +97,13 @@ Various somewhat related reflections or thoughts from the talk follow.
 
 A number of times the presented emphasised the importance of context. Of how the staff, the students, the content and the institution within which you were going to apply some idea should play a major role in the considerations you go through when planning an implementation. What you do in your context might not be the same as someone else has done.
 
-This resonated strongly with me as it's a foundation of my practice. In the [Ps Framework stuff](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) "place" is an important, if not the most important consideration when looking at the application of educational technology.
+This resonated strongly with me as it's a foundation of my practice. In the [Ps Framework stuff](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) "place" is an important, if not the most important consideration when looking at the application of educational technology.
 
 #### Who's installed elgg or some other portfolio
 
 The importance of place and how it is regularly ignored was reinforced for me in the discussion of e-portfolios. George was very positive about the benefits of e-portfolios. He mentioned the [elgg](http://elgg.org/) is perhaps the best/most popular e-portfolio tool to have adopted a social media approach.
 
-I'm now waiting for someone at the session, or someone they talk to, to be asking about or attempting to install elgg and think about using in their course. This is one example of how the "product" (in terms of the [Ps Framework](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/)) overwhelms consideration of "place", of context. How fads and fashions arise in educational technology and organisational/management practice in general.
+I'm now waiting for someone at the session, or someone they talk to, to be asking about or attempting to install elgg and think about using in their course. This is one example of how the "product" (in terms of the [Ps Framework](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/)) overwhelms consideration of "place", of context. How fads and fashions arise in educational technology and organisational/management practice in general.
 
 This is not to suggest the elgg or e-portfolios is a bad idea, there is some value in them. **If they are appropriate for the organisational context.** If they are adopted because of a large organisational need and not because someone heard or read something positive about the idea.
 
@@ -113,7 +113,7 @@ A regular theme throughout the talk was that the "systemic structure is a drag o
 
 #### Technologies embody a perspective
 
-Another common point, but one not well recognised or understood in terms of its impacts within institutions is the idea that all technologies embody a particular perspective. They tend to serve the purposes of the designer. When it comes to learning management systems Col has [written about](/blog2/publications/learning-networks-harnessing-the-power-of-online-communities-for-discipline-and-lifelong-learning/) some of the limitations of the purpose they embody.
+Another common point, but one not well recognised or understood in terms of its impacts within institutions is the idea that all technologies embody a particular perspective. They tend to serve the purposes of the designer. When it comes to learning management systems Col has [written about](/blog/publications/learning-networks-harnessing-the-power-of-online-communities-for-discipline-and-lifelong-learning/) some of the limitations of the purpose they embody.
 
 #### Teaching is a learning process and its implication for staff development/curriculum design
 

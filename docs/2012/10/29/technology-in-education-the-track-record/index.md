@@ -4,10 +4,10 @@ categories:
 date: 2012-10-29 08:38:34+10:00
 next:
   text: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
-  url: /blog2/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/
+  url: /blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/
 previous:
   text: 'Learning analytics: Anything more than just another fad?'
-  url: /blog2/2012/10/25/learning-analytics-anything-more-than-just-another-fad/
+  url: /blog/2012/10/25/learning-analytics-anything-more-than-just-another-fad/
 title: '"Technology in education: The track record"'
 type: post
 template: blog-post.html
@@ -176,7 +176,7 @@ And the author - [Andries van Dam](http://en.wikipedia.org/wiki/Andries_van_Dam)
 
 ### Update
 
-And don't forget [Birnbaum's fad life-cycle](/blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/) and the Gartner Hype Cycle.
+And don't forget [Birnbaum's fad life-cycle](/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/) and the Gartner Hype Cycle.
 
 ### References
 

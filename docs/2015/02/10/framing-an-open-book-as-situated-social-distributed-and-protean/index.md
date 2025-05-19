@@ -5,10 +5,10 @@ categories:
 date: 2015-02-10 13:29:01+10:00
 next:
   text: How to help improve the Moodle book module
-  url: /blog2/2015/02/10/how-to-help-improve-the-moodle-book-module/
+  url: /blog/2015/02/10/how-to-help-improve-the-moodle-book-module/
 previous:
   text: Kludging an authoring process with Moodle books (almost)
-  url: /blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
+  url: /blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
 title: Framing an open book as situated, social, distributed and protean
 type: post
 template: blog-post.html
@@ -75,7 +75,7 @@ The following is an attempt to expand on what might be interesting, useful and p
 
 ## Start with a conception of learning and knowledge
 
-If the aim is to produce something to help people learn, it would seem sensible to consider at some stage conceptions of learning and knowledge. I'm going to draw on the ["distributive view of learning and knowledge"](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/#learningKnowledge) that we used in [this paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (this view has become my most [recent hammer](http://en.wikipedia.org/wiki/Law_of_the_instrument)). It's based on three themes from Putnam and Borko (2000), plus one we've added
+If the aim is to produce something to help people learn, it would seem sensible to consider at some stage conceptions of learning and knowledge. I'm going to draw on the ["distributive view of learning and knowledge"](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/#learningKnowledge) that we used in [this paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (this view has become my most [recent hammer](http://en.wikipedia.org/wiki/Law_of_the_instrument)). It's based on three themes from Putnam and Borko (2000), plus one we've added
 
 That conception sees learning and knowledge as
 
@@ -111,12 +111,12 @@ Authoring and reading a book are typically very individual tasks. There are view
 Some ideas from this view include
 
 1. Support for multiple authors and versions. Not only should I not be the sole author, there should be active support for people to "fork" their own version of the book (or parts thereof). The influence of Smallest Federated Wiki here. Both learners and other teachers.
-2. Capture the residue of the communities experiences. The experiences, actions, and creations of the people "reading" the "book" are able to be captured and used to enhance the "book". [This post](/blog2/2014/08/15/joining-the-swarm-what-a-course-might-be/) gives an example of this and some of its origins in the learning communities literature.
+2. Capture the residue of the communities experiences. The experiences, actions, and creations of the people "reading" the "book" are able to be captured and used to enhance the "book". [This post](/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/) gives an example of this and some of its origins in the learning communities literature.
     
     Examples might include
     
     - the idea of learners forking off and changing versions of the book;
-    - the capturing of annotations (as shown in [the blog post](/blog2/2014/08/15/joining-the-swarm-what-a-course-might-be/)
+    - the capturing of annotations (as shown in [the blog post](/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/)
     - sharing prior answers to exercises provided by learners as examples.
     
 

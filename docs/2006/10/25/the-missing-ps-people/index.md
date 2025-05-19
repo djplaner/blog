@@ -5,10 +5,10 @@ categories:
 date: 2006-10-25 10:59:05+10:00
 next:
   text: '"Who is to blame for plagiarism: technology, lecturers or context?"'
-  url: /blog2/2006/10/25/who-is-to-blame-for-plagiarism-technology-lecturers-or-context/
+  url: /blog/2006/10/25/who-is-to-blame-for-plagiarism-technology-lecturers-or-context/
 previous:
   text: The missing Ps - Past Experience
-  url: /blog2/2006/10/25/the-missing-ps-past-experience/
+  url: /blog/2006/10/25/the-missing-ps-past-experience/
 title: The missing Ps - People
 type: post
 template: blog-post.html

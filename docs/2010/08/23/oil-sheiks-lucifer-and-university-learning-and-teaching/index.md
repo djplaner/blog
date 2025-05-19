@@ -10,10 +10,10 @@ date: 2010-08-23 10:07:10+10:00
 next:
   text: '"University e-learning systems: the need for new product and process models
     and some examples"'
-  url: /blog2/2010/08/24/university-e-learning-systems-the-need-for-new-product-and-process-models-and-some-examples/
+  url: /blog/2010/08/24/university-e-learning-systems-the-need-for-new-product-and-process-models-and-some-examples/
 previous:
   text: Extracting case study research and multiple contexts?
-  url: /blog2/2010/08/22/extracting-case-study-research-and-multiple-contexts/
+  url: /blog/2010/08/22/extracting-case-study-research-and-multiple-contexts/
 title: Oil sheiks, Lucifer and university learning and teaching
 type: post
 template: blog-post.html
@@ -79,7 +79,7 @@ Which is where I am interested in and propose the following
 
 > If you really wish to improve the majority of learning and teaching within a university, then you have to focus on changing the culture/system so that academics staff are encouraged and enabled to engage in learning about how to teach.
 
-In addition, I would suggest that requiring learning (e.g. through requiring all new academic staff to obtain a formal qualification in learning) without aligning the entire culture/system to enable academic staff to learn and experiment (some of these characteristics are [summarised here](/blog2/2010/08/19/how-people-learn-and-implications-for-academic-development/)) is doomed to failure.
+In addition, I would suggest that requiring learning (e.g. through requiring all new academic staff to obtain a formal qualification in learning) without aligning the entire culture/system to enable academic staff to learn and experiment (some of these characteristics are [summarised here](/blog/2010/08/19/how-people-learn-and-implications-for-academic-development/)) is doomed to failure.
 
 I'd also suggest that there is no way you can "align" the culture/system of a university to enable and encourage academic staff learning about teaching. At best you can engage in a continual process of "aligning" the culture/system as that process of "aligning" is itself a learning process.
 

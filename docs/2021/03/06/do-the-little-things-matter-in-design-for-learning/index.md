@@ -5,11 +5,11 @@ coverImage: 3311829635_0080586412_o-scaled-e1601494373689.jpg
 date: 2021-03-06 17:17:06+10:00
 next:
   text: Reflecting on the spread of the Card Interface for Blackboard Learn
-  url: /blog2/2021/03/12/reflecting-on-the-spread-of-the-card-interface-for-blackboard-learn/
+  url: /blog/2021/03/12/reflecting-on-the-spread-of-the-card-interface-for-blackboard-learn/
 previous:
   text: Reflections on "How learning design systems can help scale and accelerate
     learning design"
-  url: /blog2/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/
+  url: /blog/2020/11/16/reflections-on-how-learning-design-systems-can-help-scale-and-accelerate-learning-design/
 title: Do the little things matter in design for learning?
 type: post
 template: blog-post.html
@@ -34,7 +34,7 @@ To paraphrase [Potter Stewart](https://en.wikipedia.org/wiki/I_know_it_when_I_se
 
 For better or worse, dates are important in formal education. Submit the assignment by date X. We'll study topic Y in week X. Helping students plan how and when to complete the requested task is a good thing. Making explicit the timeframes would seem a good thing. i.e. something more like situation A in the following image than situation B.
 
-However, as pointed out in [this 2015 comment](/blog2/2015/06/26/and-the-little-one-said-roll-over-roll-over/#comment-1340) the more common practice has been situation B. Since the print-based distance education days of the 80s and 90s the tendency has been to make learning materials (physical or digital) "stand-alone". i.e. independent of a particular study period so that they can be reused again and again. Generally because it's hard to ensure that the dates continue to be correct in offering after offering.
+However, as pointed out in [this 2015 comment](/blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/#comment-1340) the more common practice has been situation B. Since the print-based distance education days of the 80s and 90s the tendency has been to make learning materials (physical or digital) "stand-alone". i.e. independent of a particular study period so that they can be reused again and again. Generally because it's hard to ensure that the dates continue to be correct in offering after offering.
 
 ![](images/2021-03-06-10-04-55.png) **Note:** These images are intended as examples of "little things" not examplars of anything else
 
@@ -76,7 +76,7 @@ The reusability paradox extends to the tools we use to produce and host our lear
 
 ### Hierarchical versus Distributed
 
-Second, is the difference between [a hierarchical (tree-like) and distributed conception](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#how-you-see-the-world-distributed-or-tree-like) of the world. Most contemporary professional practices (e.g. software development, design for learning, and managing organisations) is hierarchical. A tree of black box components responsible for specific purposes. With the complexity and detail of each activity hidden from view. The functionality of an LMS is generally organised this way. There's a lot of value in this approach, but it makes it very difficult to do something in across each of the black boxes. To be distributed. For example, make sure that all the dates and links mentioned in the discussion forums, the quizzes, the content areas, the lecture slides etc. are correct.
+Second, is the difference between [a hierarchical (tree-like) and distributed conception](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#how-you-see-the-world-distributed-or-tree-like) of the world. Most contemporary professional practices (e.g. software development, design for learning, and managing organisations) is hierarchical. A tree of black box components responsible for specific purposes. With the complexity and detail of each activity hidden from view. The functionality of an LMS is generally organised this way. There's a lot of value in this approach, but it makes it very difficult to do something in across each of the black boxes. To be distributed. For example, make sure that all the dates and links mentioned in the discussion forums, the quizzes, the content areas, the lecture slides etc. are correct.
 
 This is also visible at an organisational level. It appears that offering specific dates for assignemnts and the linked are typically entered into some sort of administrative system that produces a formal profile/synopsis for a course/unit. Learning typically takes place elsewhere (e.g. the LMS). Extra work has to be performed to transfer information between the two systems. Work to transfer such information between systems is typically only done for "important" tasks. e.g. transfering grades out of the LMS into the student administration system.
 

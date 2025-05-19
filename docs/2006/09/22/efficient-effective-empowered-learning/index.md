@@ -5,10 +5,10 @@ categories:
 date: 2006-09-22 08:57:29+10:00
 next:
   text: Web 2.0 tools
-  url: /blog2/2006/09/25/web-20-tools/
+  url: /blog/2006/09/25/web-20-tools/
 previous:
   text: Conversation, not content, is king
-  url: /blog2/2006/09/22/conversation-not-content-is-king/
+  url: /blog/2006/09/22/conversation-not-content-is-king/
 title: Efficient, effective, empowered learning
 type: post
 template: blog-post.html

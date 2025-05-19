@@ -4,10 +4,10 @@ categories:
 date: 2015-02-06 11:10:16+10:00
 next:
   text: Kludging an authoring process with Moodle books (almost)
-  url: /blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
+  url: /blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/
 previous:
   text: 'Concrete lounge #1 - Helping learners find correct, up-to-date course information'
-  url: /blog2/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
+  url: /blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/
 tags:
 - bad
 - change
@@ -125,7 +125,7 @@ If there is a defining characteristic of cats it is that they have a fairly high
 
 For example, if you design a new standard look and feel for the institutional LMS and it is a step backwards in terms of functionality, then some academics will work around that look and feel.
 
-It's called [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/).
+It's called [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/).
 
 ## Other alternatives
 

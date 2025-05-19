@@ -5,10 +5,10 @@ categories:
 date: 2011-04-08 17:01:29+10:00
 next:
   text: Group 3 Technologies - The activities
-  url: /blog2/2011/04/09/group-3-technologies-the-activities/
+  url: /blog/2011/04/09/group-3-technologies-the-activities/
 previous:
   text: Group 3 Technologies - The readings
-  url: /blog2/2011/04/08/group-3-technologies-the-readings/
+  url: /blog/2011/04/08/group-3-technologies-the-readings/
 title: Mathematics and the net generation - not in textbook exercises
 type: post
 template: blog-post.html
@@ -132,7 +132,7 @@ pingbacks:
 ---
 So, in a few weeks time I'll be teaching mathematics to high school kids. Almost certainly grades 8 & 9 (find out next week). I've been doing a bit of reading and have joined various online groups. Last week I purchased a couple of textbooks used in local schools to refresh my knowledge and see what's being covered.
 
-As it happens I started looking in the textbook for ideas for a video. [In this post](/blog2/2011/04/07/group-2-technologies-images-audio-and-video/) I was playing with [What can you do with this (WCYDWT) idea](http://blog.mrmeyer.com/?category_name=what-can-you-do-with-this) from [Dan Meyer](http://blog.mrmeyer.com). That's when I came across this problem
+As it happens I started looking in the textbook for ideas for a video. [In this post](/blog/2011/04/07/group-2-technologies-images-audio-and-video/) I was playing with [What can you do with this (WCYDWT) idea](http://blog.mrmeyer.com/?category_name=what-can-you-do-with-this) from [Dan Meyer](http://blog.mrmeyer.com). That's when I came across this problem
 
 > Ying has five 90-minute cassettes that have been partly filled with recordings
 

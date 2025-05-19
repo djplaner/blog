@@ -5,15 +5,15 @@ categories:
 date: 2016-06-29 09:15:55+10:00
 next:
   text: Any pointers to an old, ancient game?
-  url: /blog2/2016/06/29/any-pointers-to-an-old-ancient-game/
+  url: /blog/2016/06/29/any-pointers-to-an-old-ancient-game/
 previous:
   text: The nature of digital technology? Part 2
-  url: /blog2/2016/06/28/the-nature-of-digital-technology-part-2/
+  url: /blog/2016/06/28/the-nature-of-digital-technology-part-2/
 title: Nature of digital technology? Part 2 - expansion
 type: post
 template: blog-post.html
 ---
-@damoclarky has [commented](/blog2/2016/06/28/the-nature-of-digital-technology-part-2/#comment-7673) on yesterday's [Part 2 post](/blog2/2016/06/28/the-nature-of-digital-technology-part-2/). A comment that's sparked a bit of thinking. I've moved my length response into this post, rather than as a reply to the comment.
+@damoclarky has [commented](/blog/2016/06/28/the-nature-of-digital-technology-part-2/#comment-7673) on yesterday's [Part 2 post](/blog/2016/06/28/the-nature-of-digital-technology-part-2/). A comment that's sparked a bit of thinking. I've moved my length response into this post, rather than as a reply to the comment.
 
 ## What is it? Stable or unstable?
 
@@ -27,7 +27,7 @@ Part of the argument I’m working toward is that how people/organisations conce
 
 The “relatively stable, discrete, independent, and fixed” view of technology is one of the views Orlikowsi & Iacono describe – the tool view. There are other views and what I’m working on here is a somewhat different representation.  I’m actually arguing against that tool view.  The discrepancy between the “relatively stable, discrete, independent, and fixed” view of digital technology and the unstable and protean nature of digital technology is evidence (for me) of the problem I'm trying to identify.
 
-Actually, as I’m writing this and re-reading Orlikowski and Iacono it appears likely that the other nature of digital technology described in the [part 2 post](/blog2/2016/06/28/the-nature-of-digital-technology-part-2/) – opaque – contributes to the tool view. Orlikowski and Iacono draw on Latour to describe the tool view as seeing technologies as “black boxes”. Which aligns with the idea of digital technologies as being increasingly opaque.
+Actually, as I’m writing this and re-reading Orlikowski and Iacono it appears likely that the other nature of digital technology described in the [part 2 post](/blog/2016/06/28/the-nature-of-digital-technology-part-2/) – opaque – contributes to the tool view. Orlikowski and Iacono draw on Latour to describe the tool view as seeing technologies as “black boxes”. Which aligns with the idea of digital technologies as being increasingly opaque.
 
 ### Stable but unstable
 
@@ -43,7 +43,7 @@ But there's also the question of whether or not the tool itself is protean. Appl
 
 In turn the organisational gate keepers of digital technology can further limit the protean nature of digital technology. For example, the trend toward standard course sites within  University run LMS as talked about [by Mark Smithers](http://www.masmithers.com/2016/06/why-university-learning-management-systems-are-the-temporary-classrooms-of-today/).
 
-But as you and I know, no matter how hard they try they can't remove it entirely. The long history of shadow systems, workarounds, make-work and kludges (Koopman & Hoffman, 2003) spread through the use of digital technologies (and probably beyond). For example, my work at doing something with [the concrete lounges](/blog2/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/) in my institution's LMS. But at this stage we're starting to enter the area of affordances etc.
+But as you and I know, no matter how hard they try they can't remove it entirely. The long history of shadow systems, workarounds, make-work and kludges (Koopman & Hoffman, 2003) spread through the use of digital technologies (and probably beyond). For example, my work at doing something with [the concrete lounges](/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/) in my institution's LMS. But at this stage we're starting to enter the area of affordances etc.
 
 The point I'm trying to make is that digital technologies can be protean. At the moment, most of the digital technologies within formal education are not. This is contributing to formal education's inability to effectively leverage digital technology.
 

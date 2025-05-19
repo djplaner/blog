@@ -12,10 +12,10 @@ categories:
 date: 2010-06-14 21:42:27+10:00
 next:
   text: Some rough Webfuse usage statistics - 2001 through 2009
-  url: /blog2/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/
+  url: /blog/2010/06/17/some-rough-webfuse-usage-statistics-2001-through-2009/
 previous:
   text: Workarounds
-  url: /blog2/2010/06/13/workarounds/
+  url: /blog/2010/06/13/workarounds/
 title: Academics, course websites and power laws
 type: post
 template: blog-post.html
@@ -53,9 +53,9 @@ pingbacks:
       user_id: '0'
     
 ---
-Last week I was thinking [that academics shouldn't manually create course sites](/blog2/2010/06/07/should-academics-manually-create-course-websites/). That arose out of the process of writing up the why/what behind what we did with Webfuse from 1999 through 2004. Today, I've been continuing that and looking at the usage statistics from that period.
+Last week I was thinking [that academics shouldn't manually create course sites](/blog/2010/06/07/should-academics-manually-create-course-websites/). That arose out of the process of writing up the why/what behind what we did with Webfuse from 1999 through 2004. Today, I've been continuing that and looking at the usage statistics from that period.
 
-The following focuses on statistics about how often an academic modified a course site. The Webfuse model was to [automatically create a default course site](/blog2/2010/06/07/default-course-sites-and-wizards/) for every course offered by the faculty. Academics could then modify that site as much, or as little as they wanted. The following two graphs (first in 1999 and then in 2005) shows how many staff were editing Webfuse course sites and how many times they made page updates. Staff are ordered on increasing number of updates. What is striking to me is the similarity of the curves - both look like a ["power law".](http://en.wikipedia.org/wiki/Power_law) Some rambling on implications below.
+The following focuses on statistics about how often an academic modified a course site. The Webfuse model was to [automatically create a default course site](/blog/2010/06/07/default-course-sites-and-wizards/) for every course offered by the faculty. Academics could then modify that site as much, or as little as they wanted. The following two graphs (first in 1999 and then in 2005) shows how many staff were editing Webfuse course sites and how many times they made page updates. Staff are ordered on increasing number of updates. What is striking to me is the similarity of the curves - both look like a ["power law".](http://en.wikipedia.org/wiki/Power_law) Some rambling on implications below.
 
 1999
 
@@ -88,7 +88,7 @@ Based on my experience, and without looking at the data, I suspect that this typ
 
 So, why do you think this pattern exists? Suggestions?
 
-My suspicion is based on Geoghegan's (1994) identification of [a chasm](/blog2/2009/08/09/the-chasm/) - a la Moore (2002) - in the adoption of instructional technology. i.e. that there is a chasm/difference between two groups of academics - innovators/early adopters and the pragmatists. It's the innovators/early adopters that are the big users of instructional technology.
+My suspicion is based on Geoghegan's (1994) identification of [a chasm](/blog/2009/08/09/the-chasm/) - a la Moore (2002) - in the adoption of instructional technology. i.e. that there is a chasm/difference between two groups of academics - innovators/early adopters and the pragmatists. It's the innovators/early adopters that are the big users of instructional technology.
 
 So, one interpretation of the above figures is that the majority of academics are pragmatists. This is not necessarily a negative. They want to do a reasonable job of teaching (as measured by the institution, themselves and their students) but aren't going to allow other work (mostly research) to suffer. My suspicion is this "pragmatic" perspective is the dominant perspective amongst academics. It's the type of perspective that environment within universities encourages.
 
@@ -98,7 +98,7 @@ So, if you found support for this perspective, how might it be used to improve l
 
 If it is the university teaching environment that creates this "pragmatic" approach, perhaps it needs to be changed.
 
-If a majority of academics aren't editing course sites, this suggests that these course sites aren't that great. Perhaps it also suggests that the quality of the student learning experience isn't all that great. If this is the case, then continuing the practice of academics having to create course sites within an LMS may not be the way to go. Perhaps, it is time to investigate alternatives ranging from the evolutionary - [provided a default course site](/blog2/2010/06/07/should-academics-manually-create-course-websites/) for academics to build upon - to the revolutionary - such as PLEs etc.
+If a majority of academics aren't editing course sites, this suggests that these course sites aren't that great. Perhaps it also suggests that the quality of the student learning experience isn't all that great. If this is the case, then continuing the practice of academics having to create course sites within an LMS may not be the way to go. Perhaps, it is time to investigate alternatives ranging from the evolutionary - [provided a default course site](/blog/2010/06/07/should-academics-manually-create-course-websites/) for academics to build upon - to the revolutionary - such as PLEs etc.
 
 ### Postscript - Implications for LAMS?
 

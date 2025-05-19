@@ -4,11 +4,11 @@ categories:
 date: 2010-02-03 15:37:46+10:00
 next:
   text: '"BIM - Tidy up #4 - Getting ready for user testing"'
-  url: /blog2/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
+  url: /blog/2010/02/04/bim-tidy-up-4-getting-ready-for-user-testing/
 previous:
   text: Loosing weight, nudging and changing the L&#038;T environment - early foundations
     of my work
-  url: /blog2/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
+  url: /blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
 title: '"BIM - Tidy up #4 - Security checks"'
 type: post
 template: blog-post.html

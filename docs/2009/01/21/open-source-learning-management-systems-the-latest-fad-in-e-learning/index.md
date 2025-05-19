@@ -7,10 +7,10 @@ categories:
 date: 2009-01-21 23:01:54+10:00
 next:
   text: Somethings that are broken with evaluation of university teaching
-  url: /blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/
+  url: /blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/
 previous:
   text: Why am I a ePortfolio skeptic?
-  url: /blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/
+  url: /blog/2009/01/21/why-am-i-a-eportfolio-skeptic/
 title: Open source learning management systems - the latest fad in e-learning
 type: post
 template: blog-post.html
@@ -175,7 +175,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is forming up as something to go into my [thesis](/blog2/research/phd-thesis/) as part of the "Past experience" component of the Ps Framework.
+The following is forming up as something to go into my [thesis](/blog/research/phd-thesis/) as part of the "Past experience" component of the Ps Framework.
 
 Essentially, I'm going to try and
 
@@ -211,7 +211,7 @@ I believe we're also at the start of another stage in this development, the "pos
 
 ### The case for fads, fashions and band-wagons
 
-Back in June, 2007 - when writing this [paper](/blog2/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/) I said
+Back in June, 2007 - when writing this [paper](/blog/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/) I said
 
 > ...the subsequent limitation of rationality is demonstrated by the “faddish” adoption of LMSs within universities. Surprise has been expressed at how quickly university learning and teaching, commonly known for its reluctance towards change, has been modified to incorporate the use of learning management systems (West et al., 2006). Pratt (2005) finds connections between the Australian university sector's adoption of e-learning during the 1990s and the concept of management fashions, fads and bandwagons where a relatively transitory collection of beliefs can legitimise the exercise of mindlessness with respect to innovation with information technology (Swanson & Ramiller, 2004). In particular, given conditions of uncertainty about prevailing technologies organisations may rely on imitation to guide decision making (Pratt, 2005).
 
@@ -233,7 +233,7 @@ In the words of [Dave Snowden](http://www.cognitive-edge.com/files/Dave-Snowden.
 
 When it comes to e-learning, the same problem arises. No matter who looks at e-learning their answers to the question of “how to do e-learning” is almost always limited by their background and experience. They do not see the whole picture, they only focus on what they know. And the fashion of what all the other universities are doing become a narrative that is so strong it becomes the obvious way to go.
 
-Related to this problem is that there are range of unquestioned assumptions underlying these decisions. I'll try and use the [the Ps Framework](/blog2/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/) to represent these. (This is very much formative for the thesis).
+Related to this problem is that there are range of unquestioned assumptions underlying these decisions. I'll try and use the [the Ps Framework](/blog/2008/10/24/the-ps-framework-avoiding-perceptual-blindness/) to represent these. (This is very much formative for the thesis).
 
 1. Past experience - there's almost an ignorance of what has gone before and the limitations of previous attempts. My university has just gone through its 3rd selection process for an LMS. How many has yours done?
 2. People - there's an assumption that people are rational. The above disproves some of that. Google - bounded rationality or cognitive bias. There's an assumption that students and staff will adopt what ever is decided.
@@ -255,7 +255,7 @@ Goldberg, M., S. Salari, et al. (1996). "World-Wide Web - Course Tool: An enviro
 
 Jamieson, K. and P. Hyland (2006). Factors that influence Information Systems decisions and outcomes: A summary of key themes from four case studies. 17th Australasian Conference on Information Systems, Adelaide, Australia.
 
-Jones, D. and R. Buchanan (1996). [The design of an integrated online learning environment](/blog2/publications/the-design-of-an-integrated-online-learning-environment/). Proceedings of ASCILITE'96, Adelaide.
+Jones, D. and R. Buchanan (1996). [The design of an integrated online learning environment](/blog/publications/the-design-of-an-integrated-online-learning-environment/). Proceedings of ASCILITE'96, Adelaide.
 
 Introna, L. (1996). "Notes on ateleological information systems development." Information Technology & People 9(4): 20-39.
 

@@ -5,15 +5,15 @@ categories:
 date: 2016-08-07 15:35:39+10:00
 next:
   text: How many digital devices do you have?
-  url: /blog2/2016/08/12/how-many-digital-devices-do-you-have/
+  url: /blog/2016/08/12/how-many-digital-devices-do-you-have/
 previous:
   text: 'Open Educational Practice: the boring way and more interesting ways'
-  url: /blog2/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
+  url: /blog/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/
 title: Teacher presence in network learning
 type: post
 template: blog-post.html
 ---
-A new semester and [the Networked and Global Learning course](https://netgl.wordpress.com/) is running again. Apologies to those in the other courses I teach, but this course is consistently the most engaging and interesting. It's a course in which I typically learn as much as the other participants. However, due to the reasons/excuses outlined in [the last post](/blog2/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/), I haven't been able to engage as much as I would have liked with the course.
+A new semester and [the Networked and Global Learning course](https://netgl.wordpress.com/) is running again. Apologies to those in the other courses I teach, but this course is consistently the most engaging and interesting. It's a course in which I typically learn as much as the other participants. However, due to the reasons/excuses outlined in [the last post](/blog/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/), I haven't been able to engage as much as I would have liked with the course.
 
 This has me thinking about something [Adam wrote](https://adamngl.wordpress.com/2016/07/25/community-influences-on-learner-identity/), in particular the argument/observation from Rovai (2002) which Adam describes as
 
@@ -29,7 +29,7 @@ Those studies about the wonders of handwriting all suffer from the same set of f
 
 In terms of student disconnection,is it arising from there truly being something essential that a physical face-to-face learning experience provides that can't be provided in an online space?
 
-Or, is it because the types of online learning experiences being examined by Rovai have not been designed appropriate to draw on the affordances offered by an online learning environment?  Do these online learning experiences examined by Rovai suffer [the same problem](/blog2/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/) that most of the attempts to engage in open education illustrate? i.e. an inability to break out of the "persistent patterns of relations" (Bigum, 2012) that are formed by someone brought up teaching face-to-fact?
+Or, is it because the types of online learning experiences being examined by Rovai have not been designed appropriate to draw on the affordances offered by an online learning environment?  Do these online learning experiences examined by Rovai suffer [the same problem](/blog/2016/08/07/open-educational-practice-the-boring-way-and-more-interesting-ways/) that most of the attempts to engage in open education illustrate? i.e. an inability to break out of the "persistent patterns of relations" (Bigum, 2012) that are formed by someone brought up teaching face-to-fact?
 
 Given that the abstract for Roavi (2002) includes
 
@@ -47,7 +47,7 @@ The following two images represent connections formed between participants in tw
 
 This first image is from the general Question and Answers forum on the course site.
 
-[![Forum network map](images/28785208716_9f67a515ef_z.jpg)](https://www.flickr.com/photos/david_jones/28785208716/in/dateposted-public/ "Forum network map") The second image is from the Introduction and welcome forum, where students introduce themselves and say hi to [someone the same and different](/blog2/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/). [![Screen Shot 2016-08-07 at 3.01.34 pm](images/28740284661_5409fdf321_z.jpg)](https://www.flickr.com/photos/david_jones/28740284661/in/dateposted-public/ "Screen Shot 2016-08-07 at 3.01.34 pm")
+[![Forum network map](images/28785208716_9f67a515ef_z.jpg)](https://www.flickr.com/photos/david_jones/28785208716/in/dateposted-public/ "Forum network map") The second image is from the Introduction and welcome forum, where students introduce themselves and say hi to [someone the same and different](/blog/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/). [![Screen Shot 2016-08-07 at 3.01.34 pm](images/28740284661_5409fdf321_z.jpg)](https://www.flickr.com/photos/david_jones/28740284661/in/dateposted-public/ "Screen Shot 2016-08-07 at 3.01.34 pm")
 
 In the first image, there is on red dot (me) that is strongly the center of all that's going on. I'm answering questions. In the second image, the red dot that is me, is only lightly connected.
 
@@ -59,13 +59,13 @@ So far the NGL course has been suffering from low student-teacher interaction. 
 
 ### Teacher as meddler in the middle
 
-A couple of years ago I wrote [this post](/blog2/2014/07/27/me-as-a-teacher/) as an example of a "as teacher" post - a requirement for the NGL course. Not a lot has changed, and all this talk of interaction and connection has me thinking again of the first question I was interested in two years ago
+A couple of years ago I wrote [this post](/blog/2014/07/27/me-as-a-teacher/) as an example of a "as teacher" post - a requirement for the NGL course. Not a lot has changed, and all this talk of interaction and connection has me thinking again of the first question I was interested in two years ago
 
 How I can be a more effective “meddler in the middle”?
 
 In particular, how can I be more aware of where the types of interactions students are having in the courses I teach, and subsequently what actions can I take to help strength as necessary? If I do this, what impact will it have on student learning and their experience?
 
-I wonder if the paucity of methods for me to understand exactly how and interactions that are occurring that has me refining teaching materials. Materials that students may not be engaging with.  I'm hoping that [this project](/blog2/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/) will help reveal how and if students are engaging with the content in at least one course. Anecdotally, it appears that for many interaction with the content is little more than a box to tick. If borne out, this raises the question of how to get students to interact/engage effectively with the content.
+I wonder if the paucity of methods for me to understand exactly how and interactions that are occurring that has me refining teaching materials. Materials that students may not be engaging with.  I'm hoping that [this project](/blog/2016/08/07/how-and-why-do-people-use-the-moodle-book-module/) will help reveal how and if students are engaging with the content in at least one course. Anecdotally, it appears that for many interaction with the content is little more than a box to tick. If borne out, this raises the question of how to get students to interact/engage effectively with the content.
 
 There are similar questions to be explored around use of blogs and the connections between students....
 

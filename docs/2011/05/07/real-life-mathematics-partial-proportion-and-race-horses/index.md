@@ -6,10 +6,10 @@ categories:
 date: 2011-05-07 18:11:17+10:00
 next:
   text: Looking for "learning objects" measurement, perimeter etc.
-  url: /blog2/2011/05/08/looking-for-learning-objects-measurement-perimeter-etc/
+  url: /blog/2011/05/08/looking-for-learning-objects-measurement-perimeter-etc/
 previous:
   text: Sir, when are we going to use this?
-  url: /blog2/2011/05/03/sir-when-are-we-going-to-use-this/
+  url: /blog/2011/05/03/sir-when-are-we-going-to-use-this/
 title: Real life, mathematics, partial proportion and race horses
 type: post
 template: blog-post.html
@@ -85,7 +85,7 @@ The proper WCYDWT is to leave it to the students to come up with the questions f
 
 This idea comes about from the fact that I have a driving question. How much is this going to cost us? And an extension, how much is this going to cost me as the months roll on?
 
-The idea for this post came from the fact that one of the first mathematics classes I was in during EPL (embedded professional learning i.e. prac teaching) covered partial proportion. And the students just didn't see the application. This class was one of those that contributed to [an earlier post](/blog2/2011/05/03/sir-when-are-we-going-to-use-this/) about the relevance of mathematics.
+The idea for this post came from the fact that one of the first mathematics classes I was in during EPL (embedded professional learning i.e. prac teaching) covered partial proportion. And the students just didn't see the application. This class was one of those that contributed to [an earlier post](/blog/2011/05/03/sir-when-are-we-going-to-use-this/) about the relevance of mathematics.
 
 ### Partial proportion
 

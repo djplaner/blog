@@ -8,10 +8,10 @@ categories:
 date: 2009-02-11 10:49:02+10:00
 next:
   text: One reason people don't take to new e-learning technology
-  url: /blog2/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
+  url: /blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
 previous:
   text: BAM - making e-learning technology more protean
-  url: /blog2/2009/02/11/bam-making-e-learning-technology-more-protean/
+  url: /blog/2009/02/11/bam-making-e-learning-technology-more-protean/
 title: The value of being open
 type: post
 template: blog-post.html
@@ -43,15 +43,15 @@ In the last week three separate things have happened that have reinforced the va
 - Finding out about an [Instructional design group](http://www.slideshare.net/group/instructional-design) on [Slideshare](http://www.slideshare.net/).  
     Last week I ran some sessions on [Course analysis and design](http://coursedesign.wordpress.com/). I used powerpoint slides to structure the sessions and [like all of my presentations](http://www.slideshare.net/davidj/slideshows), uploaded them to slideshare. Within a few hours someone else on Slideshare had seen these presentations and suggested (via slideshare) that I add them to the [Instructional design group](http://www.slideshare.net/group/instructional-design). Consequently, these presentations have been viewed many more times than might have happened otherwise. For example, [the slides](http://www.slideshare.net/davidj/course-analysis-and-design-teachers-thinking) on teacher thinking, which includes audio, has been viewed 81 times in under a week.
 - Making a connection with a "name" and enhancing the PhD  
-    A couple of days ago [I posted](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) something related to the PhD. This post arose out of some work I did for the [course analysis and design sessions](http://coursedesign.wordpress.com/) and was only possible because a [keynote presentation was publicly available](http://punya.educ.msu.edu/2008/03/18/site-2008-keynote/) and because Google revealed a [blog post](http://www.speedofcreativity.org/2007/03/27/confronting-the-wicked-problems-of-teaching-with-technology/) that expanded more on this presentation and highlight a particular point.
+    A couple of days ago [I posted](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) something related to the PhD. This post arose out of some work I did for the [course analysis and design sessions](http://coursedesign.wordpress.com/) and was only possible because a [keynote presentation was publicly available](http://punya.educ.msu.edu/2008/03/18/site-2008-keynote/) and because Google revealed a [blog post](http://www.speedofcreativity.org/2007/03/27/confronting-the-wicked-problems-of-teaching-with-technology/) that expanded more on this presentation and highlight a particular point.
     
-    The ideas in this work connected with my PhD work and has led to an enhancement of the ideas within it. Also, within 40 minutes of publishing the blog post, one of the presenters of the keynote had [made a comment](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/#comment-1652) on my post.
+    The ideas in this work connected with my PhD work and has led to an enhancement of the ideas within it. Also, within 40 minutes of publishing the blog post, one of the presenters of the keynote had [made a comment](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/#comment-1652) on my post.
     
 - Wordpress' auto-generated related posts highlighting other interesting stories.  
     
     A few days ago a friend asked whether I had any ideas for iPhone applications. Apparently one of the folk we know of has made a bit of money out of a fairly simple iPhone application. I said I didn't know of any. I have some ideas now.
     
-    Those ideas have been sparked by [this story from Standford](http://www.time.com/time/business/article/0,8599,1869169,00.html). It's at least a month and a half old but I hadn't heard of it. At least not until I [published this post](/blog2/2009/02/11/bam-making-e-learning-technology-more-protean/) this morning. I viewed the post after publishing to check formatting and Wordpress had automatically included a link to the "Can iStanford take on Facebook mobile?" story from Time.
+    Those ideas have been sparked by [this story from Standford](http://www.time.com/time/business/article/0,8599,1869169,00.html). It's at least a month and a half old but I hadn't heard of it. At least not until I [published this post](/blog/2009/02/11/bam-making-e-learning-technology-more-protean/) this morning. I viewed the post after publishing to check formatting and Wordpress had automatically included a link to the "Can iStanford take on Facebook mobile?" story from Time.
     
 
 ### Making technology more protean?

@@ -6,11 +6,11 @@ categories:
 date: 2009-04-02 13:21:32+10:00
 next:
   text: '"The fad cycle in learning &#038; teaching - a historical perspective"'
-  url: /blog2/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
+  url: /blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/
 previous:
   text: 'Implementing an institution-wide learning and teaching strategy: lessons
     in managing change'
-  url: /blog2/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/
+  url: /blog/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/
 title: '"PhD Update #6 - start of shortened weeks"'
 type: post
 template: blog-post.html
@@ -54,7 +54,7 @@ Having less time on the PhD is a bad thing. But at least this week I'm reasonabl
 
 ### What I've done
 
-[Last week](/blog2/2009/03/27/phd-update-5-a-new-low/) I said I would try to
+[Last week](/blog/2009/03/27/phd-update-5-a-new-low/) I said I would try to
 
 - Clean up the literature I've gathered.  
     This involves skimming the papers, identifying anything interesting, incorporating the interesting into the PhD and throwing the rest out. I've done some of that, but I've also added more literature to clean up - though I am getting more efficient at getting through it. Also, as explained below, there was some positives out of this process.
@@ -63,9 +63,9 @@ Having less time on the PhD is a bad thing. But at least this week I'm reasonabl
 
 In terms of PhD related blog posts, I've produced:
 
-- [Implementing an institution-wide L&T strategy](/blog2/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/)  
+- [Implementing an institution-wide L&T strategy](/blog/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/)  
     A summary of Newton (2003). The post has been viewed 150 times since it was made, mainly because [this recommendation](http://www.elearnspace.org/blog/2009/03/30/blog-higher-education-david-jones/).
-- [Prescription, adaptation and failure around improving university teaching](/blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/)  
+- [Prescription, adaptation and failure around improving university teaching](/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/)  
     Expands on the thinking underpinning the design theory in the thesis and applies its insights to broader questions around improving learning and teaching.
 
 In summary, it hasn't in terms of final output, been a very productive week. Last week in comparison was probably more productive. However, I feel better about what I've done this week, probably because of the positive external feedback. It is also because I feel the progress on the past experience is probably of a higher quality/more analytical than earlier work.
@@ -78,4 +78,4 @@ Even though it is a much shorter week, I'm going to set myself some specific goa
 - Containing the content of the "History of e-learning" section.
 - From the quantitative use of industrial e-learning
 
-Each of the above blog posts are intended to contain draft content of the thesis. Exactly like this [earlier post](/blog2/2009/03/18/the-ps-framework/) introducing the Ps Framework.
+Each of the above blog posts are intended to contain draft content of the thesis. Exactly like this [earlier post](/blog/2009/03/18/the-ps-framework/) introducing the Ps Framework.

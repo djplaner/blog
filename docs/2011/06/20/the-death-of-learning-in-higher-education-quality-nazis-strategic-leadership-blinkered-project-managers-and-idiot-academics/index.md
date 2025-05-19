@@ -5,10 +5,10 @@ date: 2011-06-20 15:10:58+10:00
 next:
   text: '"Death of learning in universities: Part II. Explanation, origins, rampaging
     researchers and catastrophic consultants"'
-  url: /blog2/2011/06/21/death-of-learning-in-universities-part-ii-explanation-origins-rampaging-researchers-and-catastrophic-consultants/
+  url: /blog/2011/06/21/death-of-learning-in-universities-part-ii-explanation-origins-rampaging-researchers-and-catastrophic-consultants/
 previous:
   text: A new term dawns
-  url: /blog2/2011/06/20/a-new-term-dawns/
+  url: /blog/2011/06/20/a-new-term-dawns/
 title: '"The death of learning in higher education: quality nazis, "strategic" leadership,
   blinkered project managers and idiot academics"'
 type: post

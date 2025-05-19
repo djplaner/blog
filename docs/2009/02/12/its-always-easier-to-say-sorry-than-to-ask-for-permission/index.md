@@ -9,16 +9,16 @@ date: 2009-02-12 13:32:48+10:00
 next:
   text: The emperor has no clothes - why is the learning and teaching peformance fund
     naked
-  url: /blog2/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/
+  url: /blog/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/
 previous:
   text: 'Barriers to innovation in organisations: teleological processes, organisational
     structures and stepwise refinement'
-  url: /blog2/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
+  url: /blog/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
 title: It's always easier to say sorry than to ask for permission
 type: post
 template: blog-post.html
 ---
-The [video](http://www.youtube.com/watch?v=_424YskAfew) from NASA referenced in [a post from yesterday](/blog2/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/) illustrates many of the difficulties in attempting to be innovative within any largish type of organisation.
+The [video](http://www.youtube.com/watch?v=_424YskAfew) from NASA referenced in [a post from yesterday](/blog/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/) illustrates many of the difficulties in attempting to be innovative within any largish type of organisation.
 
 I was talking with a colleague today about this and other associated problems and his question is "But what are the solutions, the alternatives?". As a cynical bastard who has a long history of forever pointing out the flaws in various organisational practices (there really is no challenge in doing this), a common response from those nasty folk in power has been - "But what are the solutions?".
 

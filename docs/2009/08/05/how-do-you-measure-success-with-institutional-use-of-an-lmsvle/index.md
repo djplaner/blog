@@ -10,19 +10,19 @@ categories:
 date: 2009-08-05 11:16:44+10:00
 next:
   text: Factors related to the breadth of use of LMS/VLE features
-  url: /blog2/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/
+  url: /blog/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/
 previous:
   text: How will universities change over ten years?
-  url: /blog2/2009/08/04/how-will-universities-change-over-ten-years/
+  url: /blog/2009/08/04/how-will-universities-change-over-ten-years/
 title: How do you measure success with institutional use of an LMS/VLE?
 type: post
 template: blog-post.html
 ---
-My [PhD](/blog2/research/phd-thesis/) is essentially arguing that most institutional approaches to e-learning within higher education (i.e. the adoption and long term use of an LMS) has some significant flaws. The thesis will/does describe one attempt to formulate an approach that is better. (Aside: I will not claim that the approach is the best, in fact I'll argue that the notion of there being "one best way" to support e-learning within a university is false.) The idea of "better" raises an interesting/important question, "How do you measure success with institutional use of an LMS?" How do you know if one approach is better than another?
+My [PhD](/blog/research/phd-thesis/) is essentially arguing that most institutional approaches to e-learning within higher education (i.e. the adoption and long term use of an LMS) has some significant flaws. The thesis will/does describe one attempt to formulate an approach that is better. (Aside: I will not claim that the approach is the best, in fact I'll argue that the notion of there being "one best way" to support e-learning within a university is false.) The idea of "better" raises an interesting/important question, "How do you measure success with institutional use of an LMS?" How do you know if one approach is better than another?
 
 These questions are important for other reasons. For example, my current institution is currently implementing Moodle as its new LMS. During the selection and implementation of Moodle there have been all sorts of claims about its impact on learning and teaching. During this implementation process, management have also been making all sorts of decisions made about how Moodle should be used and supported (many of which I disagree strongly with). How will we know if those claims are fulfilled? How will we know if those plans have worked? How will we know if we have to try something different? In the absence of any decent information about how the institutional use of the LMS is going, how can an organisation and its management make informed decisions?
 
-This question is of increasing interest to me for a variety of reasons, but the main one is the PhD. I have to argue in the PhD and resulting publications that the approach described in my thesis is in some way better than other approaches. Other reasons include the work Col and Ken are doing on the [indicators project](http://beerc.wordpress.com/category/indicators/) and obviously my beliefs about what the institution is doing. Arguably, it's within the responsibilities of my [current role](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ to engage in some thinking about this.
+This question is of increasing interest to me for a variety of reasons, but the main one is the PhD. I have to argue in the PhD and resulting publications that the approach described in my thesis is in some way better than other approaches. Other reasons include the work Col and Ken are doing on the [indicators project](http://beerc.wordpress.com/category/indicators/) and obviously my beliefs about what the institution is doing. Arguably, it's within the responsibilities of my [current role](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ to engage in some thinking about this.
 
 This post, and potentially a sequence of posts after, is an attempt to start thinking about this question. To flag an interest and start sharing thoughts.
 

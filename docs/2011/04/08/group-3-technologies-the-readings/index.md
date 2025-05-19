@@ -5,10 +5,10 @@ categories:
 date: 2011-04-08 14:56:23+10:00
 next:
   text: Mathematics and the net generation - not in textbook exercises
-  url: /blog2/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
+  url: /blog/2011/04/08/mathematics-and-the-net-generation-not-in-textbook-exercises/
 previous:
   text: Why are we analysing ICTs for learning?
-  url: /blog2/2011/04/07/why-are-we-analysing-icts-for-learning/
+  url: /blog/2011/04/07/why-are-we-analysing-icts-for-learning/
 title: Group 3 Technologies - The readings
 type: post
 template: blog-post.html
@@ -83,7 +83,7 @@ So, here are the steps I'm hoping/assuming I'll use. This won't be a complete pr
 
 #### Choose a Topic - The disease of big up front design
 
-This is pet peeve of mine and has formed the basis of a number of [presentations](http://www.slideshare.net/davidj/its-the-process-stupid) and publications (e.g. [Jones et al, 2005](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/)).
+This is pet peeve of mine and has formed the basis of a number of [presentations](http://www.slideshare.net/davidj/its-the-process-stupid) and publications (e.g. [Jones et al, 2005](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/)).
 
 #### Get some sort of structure
 
@@ -132,4 +132,4 @@ Will leave it there for now.
 
 ### References
 
-Jones, D., Luck, J., McConachie, J., & Danaher, P. A. (2005). [The teleological brake on ICTs in open and distance learning](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/). Adelaide.
+Jones, D., Luck, J., McConachie, J., & Danaher, P. A. (2005). [The teleological brake on ICTs in open and distance learning](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/). Adelaide.

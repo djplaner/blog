@@ -8,10 +8,10 @@ categories:
 date: 2009-06-08 12:43:17+10:00
 next:
   text: You only get this type of education in class - mythic attributes of the lecture
-  url: /blog2/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
+  url: /blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/
 previous:
   text: 'PhD Update #13 - back after a week off'
-  url: /blog2/2009/06/05/phd-update-13-back-after-a-week-off/
+  url: /blog/2009/06/05/phd-update-13-back-after-a-week-off/
 title: University processes - management and planning
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This is the first draft of a section from [my thesis](/blog2/research/phd-thesis/). I'm currently working on the [Process](/blog2/2009/05/25/teleological-and-ateleological-processes/) component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). The section included below is the first of three sections that seeks to summarise/describe the types of processes used within universities.
+This is the first draft of a section from [my thesis](/blog/research/phd-thesis/). I'm currently working on the [Process](/blog/2009/05/25/teleological-and-ateleological-processes/) component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). The section included below is the first of three sections that seeks to summarise/describe the types of processes used within universities.
 
 ### University Processes
 
@@ -60,7 +60,7 @@ The following section (Section 2.1.3) seeks to draw some lessons from process fo
 
 ### Management and Planning
 
-As discussed in [Place](/blog2/2009/05/06/place-component-of-the-ps-framework/) globalisation and its associated features of a minimalist state, entrepreneurialization and managerialization, and the knowledge society (Vaira 2004) have resulted in an increasing move by universities to adopt audit and accountability measures to reduce risk. Largely because universities are expected to act responsibly and deliver value for money (Jongbloed, Enders et al. 2008). While universities are increasingly more independent of the state, they are also becoming increasingly regulated (Clegg and Smith 2008). Governments have encouraged, and in some cases required, universities to adopt strategic planning approaches in order to be more effective in managing the types of change necessary due to the broader societal changes (Jones and O'Shea 2004). In this context many, if not most, universities follow, or at least profess to follow, a purpose driven approach to setting strategic directions (McConachie, Danaher et al. 2005).
+As discussed in [Place](/blog/2009/05/06/place-component-of-the-ps-framework/) globalisation and its associated features of a minimalist state, entrepreneurialization and managerialization, and the knowledge society (Vaira 2004) have resulted in an increasing move by universities to adopt audit and accountability measures to reduce risk. Largely because universities are expected to act responsibly and deliver value for money (Jongbloed, Enders et al. 2008). While universities are increasingly more independent of the state, they are also becoming increasingly regulated (Clegg and Smith 2008). Governments have encouraged, and in some cases required, universities to adopt strategic planning approaches in order to be more effective in managing the types of change necessary due to the broader societal changes (Jones and O'Shea 2004). In this context many, if not most, universities follow, or at least profess to follow, a purpose driven approach to setting strategic directions (McConachie, Danaher et al. 2005).
 
 It has been suggested that the rapid changes within the environment of higher education have made strategic thinking an imperative (Gibbs, Habeshaw et al. 2000). While there is agreement amongst the reasons for change – such as technology, competition, recognition, and economics – there has been less discussion about the processes for responding to these changes (Wedge 2006). It has been suggested that there is a need to facilitate a greater degree of sophistication in institutional thinking gin strategic planning and policy implementation (Newton 2003). As universities are embracing managerialism with "uncritical fervour and enthusiasm", management theorists are starting to critque strategic management practices and argue for more experimental forms of organizational planning (Preston 2001).
 

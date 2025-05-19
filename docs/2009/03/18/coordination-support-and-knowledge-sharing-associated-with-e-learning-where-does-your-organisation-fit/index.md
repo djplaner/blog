@@ -7,10 +7,10 @@ date: 2009-03-18 23:46:51+10:00
 next:
   text: Technology will *not* change the way we teach - an example why we're an amnesiac
     field
-  url: /blog2/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
+  url: /blog/2009/03/19/technology-will-not-change-the-way-we-teach-an-example-why-were-an-amnesiac-field/
 previous:
   text: The Ps framework
-  url: /blog2/2009/03/18/the-ps-framework/
+  url: /blog/2009/03/18/the-ps-framework/
 title: Coordination, support and knowledge sharing associated with e-learning - where
   does your organisation fit?
 type: post
@@ -35,7 +35,7 @@ pingbacks:
       user_id: '0'
     
 ---
-A [recent post](/blog2/2009/03/13/virtual-learning-environments-three-implementation-perspectives/) summarised a paper that was taking some insights from the information systems discipline and applied it to the implementation of a LMS/VLE. This post draws on some insights from Alavi and Leidner (2001), an influential paper (208 citations on Google Scholar) from the information systems discipline. A paper that calls for IS researchers to focus more on technology-mediated learning - i.e. e-learning.
+A [recent post](/blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/) summarised a paper that was taking some insights from the information systems discipline and applied it to the implementation of a LMS/VLE. This post draws on some insights from Alavi and Leidner (2001), an influential paper (208 citations on Google Scholar) from the information systems discipline. A paper that calls for IS researchers to focus more on technology-mediated learning - i.e. e-learning.
 
 Of the many ways the paper suggests IS researchers can make a contribution the following is the focus of this post.
 

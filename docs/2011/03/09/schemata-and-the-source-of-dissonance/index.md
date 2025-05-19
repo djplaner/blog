@@ -7,10 +7,10 @@ categories:
 date: 2011-03-09 09:01:43+10:00
 next:
   text: '"Week 2: Supportive Learning Environments"'
-  url: /blog2/2011/03/09/week-2-supportive-learning-environments/
+  url: /blog/2011/03/09/week-2-supportive-learning-environments/
 previous:
   text: 'Week 2: Pedagogical Content Knowledge'
-  url: /blog2/2011/03/08/week-2-pedagogical-content-knowledge/
+  url: /blog/2011/03/08/week-2-pedagogical-content-knowledge/
 title: Schemata and the source of dissonance?
 type: post
 template: blog-post.html
@@ -200,7 +200,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is intended to be an illustration of one of the potential origins of the [gap between learning technologists and educators](http://sthcrft.amplify.com/2011/03/03/learning-technologies-mind-the-gap/). It picks up on the idea of schemata from [this week's study in one course](/blog2/2011/03/08/week-2-pedagogical-content-knowledge/) and connects to [my point about](/blog2/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/) the dissonance between how educational technology is implemented in universities and what we know about how people learn.
+The following is intended to be an illustration of one of the potential origins of the [gap between learning technologists and educators](http://sthcrft.amplify.com/2011/03/03/learning-technologies-mind-the-gap/). It picks up on the idea of schemata from [this week's study in one course](/blog/2011/03/08/week-2-pedagogical-content-knowledge/) and connects to [my point about](/blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/) the dissonance between how educational technology is implemented in universities and what we know about how people learn.
 
 I'm sure folk who have been around the education discipline longer than I will have seen this already. But it is a nice little activity and not one that I'd seen previously.
 
@@ -241,4 +241,4 @@ For Piaget people are driven to maintain an equilibrium between what the know an
 
 I'd suggest that for a majority of academic staff (and senior management) when it comes to new approaches to learning and teaching their primary coping mechanism has been assimilation. Forcing those new approaches into the schemata they already have. i.e. the Moodle course site is a great place to upload all my handouts and have online lectures.
 
-As [I've argued before](/blog2/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/) I believe this is because the approaches used to introduce new learning approaches in universities have had more in common with behaviourism than constructivism. Consequently the approaches have not been all that successful in changing schemata.
+As [I've argued before](/blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/) I believe this is because the approaches used to introduce new learning approaches in universities have had more in common with behaviourism than constructivism. Consequently the approaches have not been all that successful in changing schemata.

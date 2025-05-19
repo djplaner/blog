@@ -5,10 +5,10 @@ categories:
 date: 2006-10-25 08:42:18+10:00
 next:
   text: The missing Ps - People
-  url: /blog2/2006/10/25/the-missing-ps-people/
+  url: /blog/2006/10/25/the-missing-ps-people/
 previous:
   text: Moving beyond functional evaluation - scenario-based evaluation
-  url: /blog2/2006/10/22/moving-beyond-functional-evaluation-scenario-based-evaluation/
+  url: /blog/2006/10/22/moving-beyond-functional-evaluation-scenario-based-evaluation/
 title: The missing Ps - Past Experience
 type: post
 template: blog-post.html

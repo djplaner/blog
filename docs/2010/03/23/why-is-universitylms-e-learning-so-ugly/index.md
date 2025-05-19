@@ -5,10 +5,10 @@ categories:
 date: 2010-03-23 09:43:32+10:00
 next:
   text: First step in "Moodle curriculum mapping"
-  url: /blog2/2010/03/23/first-step-in-moodle-curriculum-mapping/
+  url: /blog/2010/03/23/first-step-in-moodle-curriculum-mapping/
 previous:
   text: 'Limits in developing innovative pedagogy with Moodle: The story of BIM'
-  url: /blog2/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+  url: /blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
 title: Why is University/LMS e-learning so ugly?
 type: post
 template: blog-post.html
@@ -206,7 +206,7 @@ I'm using ugly/pretty in the following in the broadest possible sense. Pretty, a
 
 Let me be the first to admit that the majority of e-learning that I've been responsible for is ugly. [This design](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/) (used in 100s of course sites) is mostly mine, but has thankfully improved (as much as possible) by other folk. At best you might call that functional. But it doesn't excite the eyes or resonate. And sadly, it's probably all downhill from there as you go further back in history.
 
-Even my most recent contribution - [BIM](/blog2/research/bam-blog-aggregation-management/) - is ugly. If you wish to inflict more pain on your aesthetic sensibility look at [this video](http://www.vimeo.com/9659597). BIM rears its ugly head from about 1 minute 22 seconds in.
+Even my most recent contribution - [BIM](/blog/research/bam-blog-aggregation-management/) - is ugly. If you wish to inflict more pain on your aesthetic sensibility look at [this video](http://www.vimeo.com/9659597). BIM rears its ugly head from about 1 minute 22 seconds in.
 
 In my case, these are ugly because of an absence of skill. I'm not a graphic designer, I don't have training in visual principles. At best I pick up a bit, mostly from what I steal, and then proceed to destroy those principles through my own ineptitude.
 

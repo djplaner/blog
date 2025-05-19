@@ -7,15 +7,15 @@ categories:
 date: 2009-08-05 13:57:04+10:00
 next:
   text: External factors associated with CMS adoption
-  url: /blog2/2009/08/05/external-factors-associated-with-cms-adoption/
+  url: /blog/2009/08/05/external-factors-associated-with-cms-adoption/
 previous:
   text: Factors related to the breadth of use of LMS/VLE features
-  url: /blog2/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/
+  url: /blog/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/
 title: Automating calculation of LMS/CMS/VLE feature usage - a project?
 type: post
 template: blog-post.html
 ---
-I'm in the midst of looking at the [work of Malikowski et al](/blog2/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/) in evaluating the usage of VLE features. The aim of this work is an attempt to provide information that can help those who help academics use VLEs. The following is an idea to address those problems and arrive at something that might be useful for cross-institutional comparisons.
+I'm in the midst of looking at the [work of Malikowski et al](/blog/2009/08/05/factors-related-to-the-breadth-of-use-of-lmsvle-features/) in evaluating the usage of VLE features. The aim of this work is an attempt to provide information that can help those who help academics use VLEs. The following is an idea to address those problems and arrive at something that might be useful for cross-institutional comparisons.
 
 Given the widespread adoption of the LMS/VLE, I'd be kind of surprised if someone hasn't given some thought to what I've suggested, but I haven't heard anything.
 

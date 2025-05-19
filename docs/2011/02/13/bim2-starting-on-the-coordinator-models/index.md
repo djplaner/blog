@@ -5,10 +5,10 @@ categories:
 date: 2011-02-13 11:56:34+10:00
 next:
   text: On the potential flexibility of open source LMS and its limits
-  url: /blog2/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
+  url: /blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
 previous:
   text: Standardised testing is bad, but what is the alternative?
-  url: /blog2/2011/02/13/standardised-testing-is-bad-but-what-is-the-alternative/
+  url: /blog/2011/02/13/standardised-testing-is-bad-but-what-is-the-alternative/
 title: '"bim2: Starting on the coordinator models"'
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The [last bit of work](/blog2/2011/02/06/bim2-the-greater-coordinator-conversion/) on bim2 set up the structure for the coordinator interface and operations. This post documents the work of implementing the models, i.e. starting the process by which the coordinator interface actually starts actually working. Most of this should be a reasonably straight translation/update of bim into the OO structure of bim2.
+The [last bit of work](/blog/2011/02/06/bim2-the-greater-coordinator-conversion/) on bim2 set up the structure for the coordinator interface and operations. This post documents the work of implementing the models, i.e. starting the process by which the coordinator interface actually starts actually working. Most of this should be a reasonably straight translation/update of bim into the OO structure of bim2.
 
 This post gets the first two tabs done. Three to go.
 

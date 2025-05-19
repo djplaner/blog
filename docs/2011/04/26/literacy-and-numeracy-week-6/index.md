@@ -5,10 +5,10 @@ categories:
 date: 2011-04-26 15:19:10+10:00
 next:
   text: Supportive Learning Environments - Week 7
-  url: /blog2/2011/05/02/supportive-learning-environments-week-7/
+  url: /blog/2011/05/02/supportive-learning-environments-week-7/
 previous:
   text: 'ICTs for Learning Design: Week 7'
-  url: /blog2/2011/04/21/icts-for-learning-design-week-7/
+  url: /blog/2011/04/21/icts-for-learning-design-week-7/
 title: Literacy and Numeracy - Week 6
 type: post
 template: blog-post.html

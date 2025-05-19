@@ -9,11 +9,11 @@ categories:
 date: 2009-06-17 11:41:17+10:00
 next:
   text: What can history tell us about e-learning and its future?
-  url: /blog2/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  url: /blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
 previous:
   text: How silly can enterprise IT get? Tools should fit the people, not the other
     way around
-  url: /blog2/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
+  url: /blog/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
 title: Institutional e-learning strategies
 type: post
 template: blog-post.html
@@ -37,13 +37,13 @@ pingbacks:
       user_id: '0'
     
 ---
-The following contains the next section from chapter 2 of my [thesis](/blog2/research/phd-thesis/) and the section on Processes. It follows on from the [section on institutional learning and teaching strategies](/blog2/2009/06/11/institutional-learning-and-teaching-strategies/) and seeks to talk a bit about institutional strategies for e-learning.
+The following contains the next section from chapter 2 of my [thesis](/blog/research/phd-thesis/) and the section on Processes. It follows on from the [section on institutional learning and teaching strategies](/blog/2009/06/11/institutional-learning-and-teaching-strategies/) and seeks to talk a bit about institutional strategies for e-learning.
 
 As with other posts of this type, this is a version 1 draft. It will have some/many rough edges.
 
 ### Institutional e-learning strategies
 
-By 2003 a survey of US university leaders found that most saw e-learning as a critical long-term strategy (Allen and Seaman 2003). The OECD (2005) found that most universities initially lacked a coordinated e-learning strategy and tend to rely on emergent faculty-led initiatives before finally adopting a more integrated institution-wide approach. A range of authors (c.f. Forsyth 2003) suggest that it is time to consider e-learning as an integral part of academic activity that needs to be routinely supported and consequently has become almost obligatory to add e-learning to mission statements and strategic plans. In large part because the rise of the [industrial e-learning paradigm](/blog2/2009/04/20/the-paradigms-of-e-learning/#TableParadigms) is creating a growing perception of the need for institutional strategies to guide the implementation of e-learning.
+By 2003 a survey of US university leaders found that most saw e-learning as a critical long-term strategy (Allen and Seaman 2003). The OECD (2005) found that most universities initially lacked a coordinated e-learning strategy and tend to rely on emergent faculty-led initiatives before finally adopting a more integrated institution-wide approach. A range of authors (c.f. Forsyth 2003) suggest that it is time to consider e-learning as an integral part of academic activity that needs to be routinely supported and consequently has become almost obligatory to add e-learning to mission statements and strategic plans. In large part because the rise of the [industrial e-learning paradigm](/blog/2009/04/20/the-paradigms-of-e-learning/#TableParadigms) is creating a growing perception of the need for institutional strategies to guide the implementation of e-learning.
 
 It is necessary for management to have a clear view of the purpose intended through the introduction of e-learning in order to determine the necessary work (Klink and Jochems 2003). Full exploitation of e-learning resources by universities could be made more effective through the development and implementation of a coherent and comprehensive e-learning strategy (Dearing 1997). The rapid evolution of information and communications technologies demand a process of strategic transformation in universities (Duderstadt, Atkins et al. 2002). Any project aiming for large-scale usage of e-learning requires a holistic approach from the outset (Klink and Jochems 2003). If technology is to deliver what it promises then the onus is squarely on the institution to incorporate technology as part of a plan with specific, rather than vague, outcomes (Forsyth 2003). A number of studies have highlighted the lack of institutional e-learning strategies as a barrier to more widespread adoption of e-learning (Lisewski 2004). While not the only factor necessary for successful e-learning adoption, institutional policies are essential components of successful organisational change and act as an expression of senior leadership commitment (Czerniewicz and Brown 2009).
 
@@ -78,7 +78,7 @@ Macpherson et al (1997) identified very early on in the adoption of e-learning t
 
 The reliance of teleological approaches on top-down decomposition and the subsequent lose of the whole can also be seen in institutional approaches to e-learning. Jones (2008) describes how divisions between different areas of the Open University contribute to the lack of any one list of institutional requirements and the resulting contention between minimising cost and developing functionality. The differing outlooks of these separate divisions were not just divergent, they were contradictory (Jones 2008). Danaher et al (2005) found similar divergence in assumptions about ideal and actual forms of decision-making around information technology and more broadly about the most effective means of enacting and evaluating organizational change intended to enhance the provision of teaching and learning.
 
-The turbulent and dynamic nature of both the internal, as illustrated by the divergent perspectives highlighted above, and external environment (e.g. crossref to [Place](/blog2/2009/05/06/place-component-of-the-ps-framework/)) calls for the management of e-learning to be highly adaptive (Uys 2002). In order to respond and adapt to the diverse and ever-changing needs of academic programs, e-learning strategy should, like a biological ecology, be open, complex and adaptive (Duderstadt, Atkins et al. 2002). A key limitation of the boundaries that arise due to the separation of e-learning work via top-down decomposition creates boundaries that fail or make it difficult to engage with the complexity, flexibility and fluidity of e-learning (Jones, Luck et al. 2005). Teghe and Knight (2004) suggest that the concern for efficiency, a key characteristic of teleological processes, tends to be limited to economic efficiency and consequently universities become focused on developing systems only to the extent that they "piggyback" on existing systems.
+The turbulent and dynamic nature of both the internal, as illustrated by the divergent perspectives highlighted above, and external environment (e.g. crossref to [Place](/blog/2009/05/06/place-component-of-the-ps-framework/)) calls for the management of e-learning to be highly adaptive (Uys 2002). In order to respond and adapt to the diverse and ever-changing needs of academic programs, e-learning strategy should, like a biological ecology, be open, complex and adaptive (Duderstadt, Atkins et al. 2002). A key limitation of the boundaries that arise due to the separation of e-learning work via top-down decomposition creates boundaries that fail or make it difficult to engage with the complexity, flexibility and fluidity of e-learning (Jones, Luck et al. 2005). Teghe and Knight (2004) suggest that the concern for efficiency, a key characteristic of teleological processes, tends to be limited to economic efficiency and consequently universities become focused on developing systems only to the extent that they "piggyback" on existing systems.
 
 ### References
 

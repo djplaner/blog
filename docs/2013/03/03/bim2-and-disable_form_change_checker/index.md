@@ -4,10 +4,10 @@ categories:
 date: 2013-03-03 18:09:10+10:00
 next:
   text: How are they going?
-  url: /blog2/2013/03/04/how-are-they-going/
+  url: /blog/2013/03/04/how-are-they-going/
 previous:
   text: Diagnosing a BIM problem
-  url: /blog2/2013/02/27/diagnosing-a-bim-problem/
+  url: /blog/2013/02/27/diagnosing-a-bim-problem/
 title: BIM2 and disable_form_change_checker
 type: post
 template: blog-post.html
@@ -30,7 +30,7 @@ pingbacks:
       user_id: '0'
     
 ---
-As a developer, you have to love it when someone using your code diagnoses and identifies their own problem with your code. Especially if they give you a clear and concise explanation you can use. That's what happened with [the BIM2 problem](/blog2/2013/02/27/diagnosing-a-bim-problem/) I blogged about recently. It appears I was using Moodle 2.3.4 the problem was found on Moodle 2.3.2+ and there was a change in the Moodle code in-between. The following describes the bug and hopefully the fix/change I've made to the BIM code.
+As a developer, you have to love it when someone using your code diagnoses and identifies their own problem with your code. Especially if they give you a clear and concise explanation you can use. That's what happened with [the BIM2 problem](/blog/2013/02/27/diagnosing-a-bim-problem/) I blogged about recently. It appears I was using Moodle 2.3.4 the problem was found on Moodle 2.3.2+ and there was a change in the Moodle code in-between. The following describes the bug and hopefully the fix/change I've made to the BIM code.
 
 ### The problem
 

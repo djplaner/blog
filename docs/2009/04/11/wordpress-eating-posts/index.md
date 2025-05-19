@@ -4,10 +4,10 @@ categories:
 date: 2009-04-11 23:43:50+10:00
 next:
   text: Disruption and the "mythic" technologies of education
-  url: /blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/
+  url: /blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/
 previous:
   text: Post to fix the feed
-  url: /blog2/2009/04/09/post-to-fix-the-feed/
+  url: /blog/2009/04/09/post-to-fix-the-feed/
 title: Wordpress eating posts
 type: post
 template: blog-post.html

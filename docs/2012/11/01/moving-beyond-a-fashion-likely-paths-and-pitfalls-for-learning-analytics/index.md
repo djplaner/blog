@@ -5,10 +5,10 @@ categories:
 date: 2012-11-01 16:05:31+10:00
 next:
   text: A triumph of the explicit over the tacit and the subsequent loss of learning
-  url: /blog2/2012/11/08/a-triumph-of-the-explicit-over-the-tacit-and-the-subsequent-loss-of-learning/
+  url: /blog/2012/11/08/a-triumph-of-the-explicit-over-the-tacit-and-the-subsequent-loss-of-learning/
 previous:
   text: 'Technology in education: The track record'
-  url: /blog2/2012/10/29/technology-in-education-the-track-record/
+  url: /blog/2012/10/29/technology-in-education-the-track-record/
 tags:
 - chfe12
 title: '"Moving beyond a fashion: likely paths and pitfalls for learning analytics"'
@@ -104,7 +104,7 @@ pingbacks:
 ---
 The following started life as a submission to the [SoLAR Southern Flare Conference](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/schedConf/overview) and is serving double purpose as a contribution to [#cfhe12](http://edfuture.net/), which is currently looking at [Big data and analytics](https://edfuture.desire2learn.com/d2l/lms/content/viewer/main_frame.d2l?ou=6609&tId=43).
 
-One of the questions asked for this week about learning analytics is, "is it a fad?". I agree with [Ian Reid's comment on an earlier post](/blog2/2012/10/25/learning-analytics-anything-more-than-just-another-fad/#comment-5780), it's almost certainly going to be another fad. The following offers some evidence for this, some insights into why it will be the case, and suggests one way it might be avoided.
+One of the questions asked for this week about learning analytics is, "is it a fad?". I agree with [Ian Reid's comment on an earlier post](/blog/2012/10/25/learning-analytics-anything-more-than-just-another-fad/#comment-5780), it's almost certainly going to be another fad. The following offers some evidence for this, some insights into why it will be the case, and suggests one way it might be avoided.
 
 First, the slideset that was used for the presentation and then the "extended" abstract of the talk.
 

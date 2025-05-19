@@ -5,10 +5,10 @@ categories:
 date: 2011-03-09 14:19:28+10:00
 next:
   text: '"Week 2: Literacy and Numeracy"'
-  url: /blog2/2011/03/10/week-2-literacy-and-numeracy/
+  url: /blog/2011/03/10/week-2-literacy-and-numeracy/
 previous:
   text: Schemata and the source of dissonance?
-  url: /blog2/2011/03/09/schemata-and-the-source-of-dissonance/
+  url: /blog/2011/03/09/schemata-and-the-source-of-dissonance/
 title: '"Week 2: Supportive Learning Environments"'
 type: post
 template: blog-post.html

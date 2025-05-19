@@ -6,10 +6,10 @@ categories:
 date: 2015-09-09 18:06:31+10:00
 next:
   text: What type of "digital knowledge" does a teacher need?
-  url: /blog2/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
+  url: /blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/
 previous:
   text: How NGL can inform my role as teacher
-  url: /blog2/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
+  url: /blog/2015/09/07/how-ngl-can-inform-my-role-as-teacher/
 title: Requirements, solutions, design, and who should decide
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-22 years ago I helped a group of undergraduate Information Technology students set up [CQ-PAN - Central Queensland - Public Access Network](http://web.archive.org/web/19961223053531/http://cq-pan.cqu.edu.au/). An early attempt to allow CQ residents get on the Internet. [CQ-PAN got used](/blog2/1000-users-on-a-486/) by a range of people for a range of tasks. In 1994 CQ-PAN started [hosting mailing lists](/blog2/1000-users-on-a-486/#lists) for a range of purposes, including for courses being taught by my then employer, the Department of Mathematics and Computing (who were funding the hardware).
+22 years ago I helped a group of undergraduate Information Technology students set up [CQ-PAN - Central Queensland - Public Access Network](http://web.archive.org/web/19961223053531/http://cq-pan.cqu.edu.au/). An early attempt to allow CQ residents get on the Internet. [CQ-PAN got used](/blog/1000-users-on-a-486/) by a range of people for a range of tasks. In 1994 CQ-PAN started [hosting mailing lists](/blog/1000-users-on-a-486/#lists) for a range of purposes, including for courses being taught by my then employer, the Department of Mathematics and Computing (who were funding the hardware).
 
 Thus began my life of producing feral or shadow IT systems. IT systems that were "feral" because they were not produced by the central IT group officially charged by the organisation to support its strategic goals. IT systems that I needed to write because central IT never seem to know and/or be able to deliver the type of IT-based functionality that were needed to improve learning and teaching.
 
@@ -41,7 +41,7 @@ Here were are decades later, living in the new age of digital learning and still
 
 > requires individuals to do the work of a machine. For instance, leave-reporting systems that require you to calculate how much leave you have left, how many hours there are in a day, or which days are public holidays
 
-Personally, I've spent the last 3+ years since starting at my new institution engaging in various forms of bricolage to develop kludges that fill the gap between [the concrete lounges](/blog2/category/concretelounge/) provided by the institution and what's required to be effective. Just like I did at my old institution.
+Personally, I've spent the last 3+ years since starting at my new institution engaging in various forms of bricolage to develop kludges that fill the gap between [the concrete lounges](/blog/category/concretelounge/) provided by the institution and what's required to be effective. Just like I did at my old institution.
 
 Which brings me to the question...
 
@@ -121,7 +121,7 @@ Increasingly designing physical spaces that allow "serendipitous exchanges" isn'
 
 First, is the practice of hackfests and similar. Get disparate people together from all over the organisation (and beyond?) and share problems and desires. Group people with problems and desires with people who can implement them, and then have a crack at implementing them.
 
-Second, recognise that increasingly people are often using the same digital space. Design the digital space so that "serendipitous exchanges" can take place in the digital space. That's one of the aims of [this project](/blog2/2015/09/05/design-of-a-bad-approach-to-developing-tpack/).
+Second, recognise that increasingly people are often using the same digital space. Design the digital space so that "serendipitous exchanges" can take place in the digital space. That's one of the aims of [this project](/blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/).
 
 Both these approaches break the "tragedy of hierarchically managed systems". Pair them with approaches like UX and LX design and you might have something.
 

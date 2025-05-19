@@ -5,10 +5,10 @@ categories:
 date: 2010-12-06 14:51:34+10:00
 next:
   text: Becoming aware of the existence of different perceptions
-  url: /blog2/2010/12/06/becoming-aware-of-the-existence-of-different-perceptions/
+  url: /blog/2010/12/06/becoming-aware-of-the-existence-of-different-perceptions/
 previous:
   text: More testing for Moodle and BIM versions 2.0
-  url: /blog2/2010/12/02/more-testing-for-moodle-and-bim-versions-2-0/
+  url: /blog/2010/12/02/more-testing-for-moodle-and-bim-versions-2-0/
 title: A new theme for Moodle 2
 type: post
 template: blog-post.html

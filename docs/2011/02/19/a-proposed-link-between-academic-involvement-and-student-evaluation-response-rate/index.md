@@ -4,10 +4,10 @@ categories:
 date: 2011-02-19 23:45:47+10:00
 next:
   text: How many pages of a course profile are necessary?
-  url: /blog2/2011/02/20/how-many-pages-of-a-course-profile-are-necessary/
+  url: /blog/2011/02/20/how-many-pages-of-a-course-profile-are-necessary/
 previous:
   text: 'bim2: manage marking services - Part II'
-  url: /blog2/2011/02/19/bim2-manage-marking-services-part-ii/
+  url: /blog/2011/02/19/bim2-manage-marking-services-part-ii/
 title: A proposed link between academic involvement and student evaluation response
   rate
 type: post
@@ -108,6 +108,6 @@ There will be confounding situations, but in general I think the pattern would h
 
 ### Of course, it's still the wrong tree
 
-In the end, however, there's no getting away from the problem that such student evaluations are [broken](/blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) and not really worth it.
+In the end, however, there's no getting away from the problem that such student evaluations are [broken](/blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) and not really worth it.
 
 At the very least, the results of the above might just encourage a few staff to think about how they can improve student perceptions of their level of responsiveness and participation.

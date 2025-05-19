@@ -4,10 +4,10 @@ categories:
 date: 2010-01-10 17:33:02+10:00
 next:
   text: Another idea for research project arising from the indicators project
-  url: /blog2/2010/01/12/another-idea-for-research-project-arising-from-the-indicators-project/
+  url: /blog/2010/01/12/another-idea-for-research-project-arising-from-the-indicators-project/
 previous:
   text: BIM - Mark Post screen
-  url: /blog2/2010/01/10/bim-mark-post-screen/
+  url: /blog/2010/01/10/bim-mark-post-screen/
 title: BIM - getting capabilities working properly
 type: post
 template: blog-post.html

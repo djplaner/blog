@@ -4,10 +4,10 @@ categories:
 date: 2008-12-16 23:19:13+10:00
 next:
   text: It is official - a best publication for IS in 2007
-  url: /blog2/2008/12/22/it-is-official-a-best-publication-for-is-in-2007/
+  url: /blog/2008/12/22/it-is-official-a-best-publication-for-is-in-2007/
 previous:
   text: Saturday (13th Dec) - Must be the Musee D&#039;Orsay
-  url: /blog2/2008/12/16/saturday-13th-dec-must-be-the-musee-dorsay/
+  url: /blog/2008/12/16/saturday-13th-dec-must-be-the-musee-dorsay/
 tags:
 - paris
 title: Sunday (Dec 14) - Welcoming guests and Notre Dame

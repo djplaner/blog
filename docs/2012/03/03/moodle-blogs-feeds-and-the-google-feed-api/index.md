@@ -6,10 +6,10 @@ categories:
 date: 2012-03-03 11:02:49+10:00
 next:
   text: Gilstrap, Martin and the definition of a lecture
-  url: /blog2/2012/03/04/gilstrap-martin-and-the-definition-of-a-lecture/
+  url: /blog/2012/03/04/gilstrap-martin-and-the-definition-of-a-lecture/
 previous:
   text: Is your digital footprint ready for teaching?
-  url: /blog2/2012/02/29/is-your-digital-footprint-ready-for-teaching/
+  url: /blog/2012/02/29/is-your-digital-footprint-ready-for-teaching/
 title: Moodle, blogs, feeds and the Google feed API
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
     []
     
 ---
-Time to tweak the [course site](/blog2/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/) again. I attempting to encourage the students to engage with technology, to become digital residents. The assumption is that they will really only be able to design great teaching with ICTs, if the use of ICTs is part of their everyday life. One aspect I'm attempting to encourage is blogging.
+Time to tweak the [course site](/blog/2012/02/22/one-moodle-course-design-approach-ad-trade-offs/) again. I attempting to encourage the students to engage with technology, to become digital residents. The assumption is that they will really only be able to design great teaching with ICTs, if the use of ICTs is part of their everyday life. One aspect I'm attempting to encourage is blogging.
 
 To make the blogging process a bit more obvious, I wanted to include some aggregated view of the students' blogs on the course site to increase the visibility and hopefully the prevalence of blogging. Here's how I did it with the Google feed API.
 

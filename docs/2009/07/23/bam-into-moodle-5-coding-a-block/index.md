@@ -4,10 +4,10 @@ categories:
 date: 2009-07-23 15:57:17+10:00
 next:
   text: Wicked problems, requirements gathering and the LMS approach to e-learning
-  url: /blog2/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/
+  url: /blog/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/
 previous:
   text: 'BAM into Moodle Step #4 - Learning more about Moodle'
-  url: /blog2/2009/07/23/bam-into-moodle-step-4-learning-more-about-moodle/
+  url: /blog/2009/07/23/bam-into-moodle-step-4-learning-more-about-moodle/
 title: '"BAM into Moodle #5 - Coding a block?"'
 type: post
 template: blog-post.html

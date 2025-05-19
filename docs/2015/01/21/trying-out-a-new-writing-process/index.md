@@ -4,15 +4,15 @@ categories:
 date: 2015-01-21 16:28:18+10:00
 next:
   text: A proposal for fixing what's broken with ed tech support in some universities
-  url: /blog2/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
+  url: /blog/2015/01/22/a-proposal-for-fixing-whats-broken-with-ed-tech-support-in-some-universities/
 previous:
   text: 'Barriers to higher education technology adoption: Digital fluency or usefulness?'
-  url: /blog2/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/
+  url: /blog/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/
 title: Trying out a new writing process
 type: post
 template: blog-post.html
 ---
-It's Wednesday, that means writing day. Time to continue work on a paper that's been [mentioned previously](/blog2/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/). In this process I'm exploring being open about the writing process and attempting to create a collection of artifacts (evidence?) leading up to the final paper. This post documents today's steps with a particular focus on first steps with a new [Smallest Federated Wiki (SFW)](http://wardcunningham.github.io/) enabled writing process that fruitfully merges with use of this blog.
+It's Wednesday, that means writing day. Time to continue work on a paper that's been [mentioned previously](/blog/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/). In this process I'm exploring being open about the writing process and attempting to create a collection of artifacts (evidence?) leading up to the final paper. This post documents today's steps with a particular focus on first steps with a new [Smallest Federated Wiki (SFW)](http://wardcunningham.github.io/) enabled writing process that fruitfully merges with use of this blog.
 
 ## An idea SFW enabled writing process
 
@@ -42,4 +42,4 @@ Time to start sifting and reading.
 
 Progress made. To early to tell how it will go.
 
-At least one of the papers I skimmed resonated with a negative local experience and generated [a rant](/blog2/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/).
+At least one of the papers I skimmed resonated with a negative local experience and generated [a rant](/blog/2015/01/21/perceived-usefulness-is-the-most-influential-factor-on-intention-and-actual-use/).

@@ -4,10 +4,10 @@ categories:
 date: 2012-03-21 16:35:59+10:00
 next:
   text: '"Learning analytics and study behaviour: A pilot study"'
-  url: /blog2/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/
+  url: /blog/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/
 previous:
   text: Eduhacking - a better use for (part of) academic conferences?
-  url: /blog2/2012/03/16/eduhacking-a-better-use-for-part-of-academic-conferences/
+  url: /blog/2012/03/16/eduhacking-a-better-use-for-part-of-academic-conferences/
 title: My on-going concerns with ePortfolios
 type: post
 template: blog-post.html
@@ -139,7 +139,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I was asked to respond to a set of questions around ePortfolios. The questions arose from some earlier posts: [Why am I an ePortfolio skeptic](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/) and [Portfolios often implemented badly](/blog2/2010/09/14/portfolios-often-implemented-poorly/). What follows are my responses.
+I was asked to respond to a set of questions around ePortfolios. The questions arose from some earlier posts: [Why am I an ePortfolio skeptic](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/) and [Portfolios often implemented badly](/blog/2010/09/14/portfolios-often-implemented-poorly/). What follows are my responses.
 
 These comments are made in the general context of Australian higher education and with the assumption that "ePortfolio" generally means the implementation of an institutional system, often using something like Mahara.
 

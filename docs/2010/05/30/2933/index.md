@@ -6,10 +6,10 @@ categories:
 date: 2010-05-30 21:33:57+10:00
 next:
   text: The need for a third way
-  url: /blog2/2010/05/31/the-need-for-a-third-way/
+  url: /blog/2010/05/31/the-need-for-a-third-way/
 previous:
   text: Institutional changes - 2000 and beyond - and their impact
-  url: /blog2/2010/05/30/institutional-changes-2000-and-beyond-and-their-impact/
+  url: /blog/2010/05/30/institutional-changes-2000-and-beyond-and-their-impact/
 title: Adding email merge to BIM
 type: post
 template: blog-post.html
@@ -34,7 +34,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following details an attempt to use user/messageselect.php with BIM in an attempt to move towards implementing an [email merge facility](/blog2/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/) for BIM.
+The following details an attempt to use user/messageselect.php with BIM in an attempt to move towards implementing an [email merge facility](/blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/) for BIM.
 
 ### BIM passing users
 

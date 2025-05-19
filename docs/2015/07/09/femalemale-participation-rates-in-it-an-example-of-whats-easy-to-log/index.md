@@ -5,10 +5,10 @@ categories:
 date: 2015-07-09 08:40:18+10:00
 next:
   text: "\"Digital learning: It's d\xE9j\xE0 vu all over again\""
-  url: /blog2/2015/07/12/digital-learning-its-like-deja-vu-all-over-again/
+  url: /blog/2015/07/12/digital-learning-its-like-deja-vu-all-over-again/
 previous:
   text: Does branding the LMS hurt learning
-  url: /blog2/2015/07/07/does-branding-the-lms-hurt-learning/
+  url: /blog/2015/07/07/does-branding-the-lms-hurt-learning/
 title: '"Female/male participation rates in IT: an example of what''s easy to log??"'
 type: post
 template: blog-post.html

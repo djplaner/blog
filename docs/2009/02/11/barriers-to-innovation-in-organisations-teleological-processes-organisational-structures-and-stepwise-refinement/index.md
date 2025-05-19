@@ -9,10 +9,10 @@ categories:
 date: 2009-02-11 16:02:29+10:00
 next:
   text: It's always easier to say sorry than to ask for permission
-  url: /blog2/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
+  url: /blog/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
 previous:
   text: One reason people don&#039;t take to new e-learning technology
-  url: /blog2/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
+  url: /blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/
 title: '"Barriers to innovation in organisations: teleological processes, organisational
   structures and stepwise refinement"'
 type: post
@@ -52,7 +52,7 @@ If [Nona](http://nonamuldoon.wordpress.com/) ever gets around to watching this v
 
 ### The benefits of being open
 
-Coming across this video, provides further evidence to support an [earlier post](/blog2/2009/02/11/the-value-of-being-open/) I made today on the values of being open. I became aware of Punya's post because of the following process:
+Coming across this video, provides further evidence to support an [earlier post](/blog/2009/02/11/the-value-of-being-open/) I made today on the values of being open. I became aware of Punya's post because of the following process:
 
 - Almost a year ago Punya [published this post](http://punya.educ.msu.edu/2008/03/18/site-2008-keynote/) on his blog that openly shares the video of a keynote he and Mat Koehler gave.
 - I came across it not long afterwards through my interest in [TPACK](http://www.tpck.org/) (formerly known as TPCK).

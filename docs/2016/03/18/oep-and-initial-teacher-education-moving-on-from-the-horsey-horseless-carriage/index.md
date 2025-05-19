@@ -5,10 +5,10 @@ categories:
 date: 2016-03-18 07:04:32+10:00
 next:
   text: What to expect/look for from SITE'2016?
-  url: /blog2/2016/03/22/what-to-expectlook-for-from-site2016/
+  url: /blog/2016/03/22/what-to-expectlook-for-from-site2016/
 previous:
   text: Early analysis of Moodle data
-  url: /blog2/2016/03/18/early-analysis-of-moodle-data/
+  url: /blog/2016/03/18/early-analysis-of-moodle-data/
 title: '"OEP and Initial Teacher Education: Moving on from the horsey, horseless carriage"'
 type: post
 template: blog-post.html
@@ -62,7 +62,7 @@ pingbacks:
 ---
 [![Horsey, Horseless Carriage](images/1899horseyhorseless-png_918790_ver1-0.png)](https://www.google.com/patents/USD30551#v=onepage&q&f=false)
 
-Earlier this week four colleagues from three different Universities submitted an application to an [internal grant scheme around Open Educational Practice](http://www.usq.edu.au/learning-teaching/excellence/2016landtgrants/opened). What follows is an excerpt from that application.This idea evolved out of [some earlier thinking](/blog2/2016/02/22/open-educational-practice-beyond-the-institution/). We find out how we went in April.
+Earlier this week four colleagues from three different Universities submitted an application to an [internal grant scheme around Open Educational Practice](http://www.usq.edu.au/learning-teaching/excellence/2016landtgrants/opened). What follows is an excerpt from that application.This idea evolved out of [some earlier thinking](/blog/2016/02/22/open-educational-practice-beyond-the-institution/). We find out how we went in April.
 
 If the project is successful, it needs to be open and connected. Hence pointers to interesting and related folk and work more than welcome.  Especially suggestions for potentially provocative "thought leaders, disruptors and other ragamuffins".
 

@@ -5,15 +5,15 @@ categories:
 date: 2011-02-13 23:17:19+10:00
 next:
   text: Getting an overview of the term ahead
-  url: /blog2/2011/02/15/getting-an-overview-of-the-term-ahead/
+  url: /blog/2011/02/15/getting-an-overview-of-the-term-ahead/
 previous:
   text: On the potential flexibility of open source LMS and its limits
-  url: /blog2/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
+  url: /blog/2011/02/13/on-the-potential-flexibility-of-open-source-lms-and-its-limits/
 title: '"bim2: Some more coordinator tabs"'
 type: post
 template: blog-post.html
 ---
-The [last work](/blog2/2011/02/13/bim2-starting-on-the-coordinator-models/) on bim2 ended up with the first 2 of 5 tabs for the coordinator interface completed. This post continues on with that development.
+The [last work](/blog/2011/02/13/bim2-starting-on-the-coordinator-models/) on bim2 ended up with the first 2 of 5 tabs for the coordinator interface completed. This post continues on with that development.
 
 ### Allocate markers
 
@@ -27,7 +27,7 @@ The basic algorithm for this tab is/was
 - Display a form that contains a select menu for each marker. The menu contains all groups and highlights those that are allocated to the marker.
 - On submission, check the allocation to each marker and update database appropriately.
 
-To a large extent this follows the same structure as the manage questions tab developed in the [last post](/blog2/2011/02/13/bim2-starting-on-the-coordinator-models/). This implies I'll need to implement the following classes:
+To a large extent this follows the same structure as the manage questions tab developed in the [last post](/blog/2011/02/13/bim2-starting-on-the-coordinator-models/). This implies I'll need to implement the following classes:
 
 1. allocate\_markers - model.  
     The data needed includes

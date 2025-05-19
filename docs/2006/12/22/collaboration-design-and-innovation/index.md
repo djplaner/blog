@@ -5,10 +5,10 @@ categories:
 date: 2006-12-22 09:14:33+10:00
 next:
   text: SaaS, Consumer products, shadow systems and e-learning
-  url: /blog2/2006/12/22/saas-consumer-products-shadow-systems-and-e-learning/
+  url: /blog/2006/12/22/saas-consumer-products-shadow-systems-and-e-learning/
 previous:
   text: Prototyping a Web 2.0 Course site
-  url: /blog2/2006/12/21/prototyping-a-web-20-course-site/
+  url: /blog/2006/12/21/prototyping-a-web-20-course-site/
 title: Collaboration, Design and Innovation
 type: post
 template: blog-post.html

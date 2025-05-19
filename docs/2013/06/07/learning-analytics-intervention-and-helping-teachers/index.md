@@ -5,10 +5,10 @@ categories:
 date: 2013-06-07 14:12:54+10:00
 next:
   text: The kludge for marking learning journals
-  url: /blog2/2013/06/10/the-kludge-for-marking-learning-journals/
+  url: /blog/2013/06/10/the-kludge-for-marking-learning-journals/
 previous:
   text: Animation over time of links between student posts
-  url: /blog2/2013/06/04/animation-over-time-of-links-between-student-posts/
+  url: /blog/2013/06/04/animation-over-time-of-links-between-student-posts/
 title: Learning analytics, intervention and helping teachers
 type: post
 template: blog-post.html
@@ -178,11 +178,11 @@ pingbacks:
       user_id: '0'
     
 ---
-It seems to be the day for a backlash against learning analytics or its parent big data. This morning my PLN has filtered to the top [Taleb's "Beware the big errors of 'big data'"](http://www.wired.com/opinion/2013/02/big-data-means-big-errors-people/) and [Why big data is not truth](http://mobile.nytimes.com/blogs/bits/2013/06/01/why-big-data-is-not-truth/). Not that surprising to me given that [I've argued](/blog2/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/) that learning analytics in Universities has all hallmarks of yet another fad.
+It seems to be the day for a backlash against learning analytics or its parent big data. This morning my PLN has filtered to the top [Taleb's "Beware the big errors of 'big data'"](http://www.wired.com/opinion/2013/02/big-data-means-big-errors-people/) and [Why big data is not truth](http://mobile.nytimes.com/blogs/bits/2013/06/01/why-big-data-is-not-truth/). Not that surprising to me given that [I've argued](/blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/) that learning analytics in Universities has all hallmarks of yet another fad.
 
-As I mentioned [in this presentation](/blog2/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/) my argument isn't that "Learning analytics == crap". My argument is that "How universities (and most organisations) for that matter implement learning analytics == crap". After all - to paraphrase some Sir Ken Robinson schtick about lifting standards - no-one is arguing against data-driven decision making (which is a main claim of big data). All decisions should be based on data. The problem is the reality of most implementations will be that the data provided by learning analytics is likely to be horribly flawed, provided to the wrong people, and used to make decisions very badly.
+As I mentioned [in this presentation](/blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/) my argument isn't that "Learning analytics == crap". My argument is that "How universities (and most organisations) for that matter implement learning analytics == crap". After all - to paraphrase some Sir Ken Robinson schtick about lifting standards - no-one is arguing against data-driven decision making (which is a main claim of big data). All decisions should be based on data. The problem is the reality of most implementations will be that the data provided by learning analytics is likely to be horribly flawed, provided to the wrong people, and used to make decisions very badly.
 
-As it happens, [Damien](http://damosworld.wordpress.com/), [Col](http://beerc.wordpress.com/) and I are all working on various related projects that are trying to figure out how to implement learning analytics within universities in a way that doesn't equate to animal waste product. The following summarises some thinking out loud and the following of some initial ideas and will hopefully inform what I'll be [talking about](/blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) at Moodlemoot'AU 2013 in a couple of weeks.
+As it happens, [Damien](http://damosworld.wordpress.com/), [Col](http://beerc.wordpress.com/) and I are all working on various related projects that are trying to figure out how to implement learning analytics within universities in a way that doesn't equate to animal waste product. The following summarises some thinking out loud and the following of some initial ideas and will hopefully inform what I'll be [talking about](/blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) at Moodlemoot'AU 2013 in a couple of weeks.
 
 In the end, this is more just an early exploration of Performance Support Systems literature that has shown some level of support for a direction we're exploring, i.e. embedding learning analytics into the LMS and other tools currently being used to better enable action.
 

@@ -4,10 +4,10 @@ categories:
 date: 2010-08-20 16:20:27+10:00
 next:
   text: Minimum course presence and the tension between centralisation and de-centralisation
-  url: /blog2/2010/08/21/minimum-course-presence-and-the-tension-between-centralisation-and-de-centralisation/
+  url: /blog/2010/08/21/minimum-course-presence-and-the-tension-between-centralisation-and-de-centralisation/
 previous:
   text: The curse of simple diagrams
-  url: /blog2/2010/08/20/the-curse-of-simple-diagrams/
+  url: /blog/2010/08/20/the-curse-of-simple-diagrams/
 title: Off to see the dinosaurs
 type: post
 template: blog-post.html

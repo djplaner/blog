@@ -4,17 +4,17 @@ categories:
 date: 2016-05-13 12:19:52+10:00
 next:
   text: Organizing for Innovation in the Digitized world
-  url: /blog2/2016/05/16/organizing-for-innovation-in-the-digitized-world/
+  url: /blog/2016/05/16/organizing-for-innovation-in-the-digitized-world/
 previous:
   text: Testing out the Moodle search book block
-  url: /blog2/2016/05/10/testing-out-the-moodle-book-search/
+  url: /blog/2016/05/10/testing-out-the-moodle-book-search/
 title: '"Testing out the Heatmap #moodle block"'
 type: post
 template: blog-post.html
 ---
 Following is a quick report on installing and playing with [the Moodle Heatmap block](https://moodle.org/plugins/block_heatmap) by Michael de Raadt. It's inspired by @damoclarky's [Moodle Activity Viewer (MAV)](https://github.com/damoclark/mav). Both tools modify Moodle web pages by overlaying [a heatmap](https://en.wikipedia.org/wiki/Heat_map).
 
-Knowing Michael I'm assuming the block will work perfectly. But I'm particularly interested to see how broadly it works within Moodle. Based on my vague undestanding of Moodle, I believe it will have some limitations that MAV doesn't. This is of particular interest because the theoretical perspective offered by the [SET and BAD mindsets](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) predicts that Heatmap will have some limitations (and strengths), that MAV doesn't.
+Knowing Michael I'm assuming the block will work perfectly. But I'm particularly interested to see how broadly it works within Moodle. Based on my vague undestanding of Moodle, I believe it will have some limitations that MAV doesn't. This is of particular interest because the theoretical perspective offered by the [SET and BAD mindsets](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) predicts that Heatmap will have some limitations (and strengths), that MAV doesn't.
 
 ### Installation
 

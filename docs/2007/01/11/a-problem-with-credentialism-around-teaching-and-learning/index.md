@@ -6,10 +6,10 @@ categories:
 date: 2007-01-11 10:48:05+10:00
 next:
   text: Freeze and unfreeze - one problem with herding cats
-  url: /blog2/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/
+  url: /blog/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/
 previous:
   text: Issues around staff development for e-learning
-  url: /blog2/2007/01/10/issues-around-staff-development-for-e-learning/
+  url: /blog/2007/01/10/issues-around-staff-development-for-e-learning/
 title: A problem with credentialism around teaching and learning
 type: post
 template: blog-post.html

@@ -6,10 +6,10 @@ categories:
 date: 2011-08-23 11:40:35+10:00
 next:
   text: Some trends with enrolments in IPT
-  url: /blog2/2011/08/27/some-trends-with-enrolments-in-ipt/
+  url: /blog/2011/08/27/some-trends-with-enrolments-in-ipt/
 previous:
   text: Khan academy, gamification, the flipped classroom and mathematics
-  url: /blog2/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/
+  url: /blog/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/
 title: Is IT a service industry, or is it "eating the world"?
 type: post
 template: blog-post.html
@@ -43,7 +43,7 @@ pingbacks:
     []
     
 ---
-In an [earlier post](/blog2/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/) I wondered if how high school classes in Information Technology(IT)/Computer Science(CS) are being taught is turning students off and, if so, is this why enrolment numbers are dropping. In the comments on that post [Tony suggests](/blog2/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/#comment-4195) some other reasons for this decline. Including the observation that IT courses in local schools (both Tony and I live in Queensland, Australia) are primarily seen to serve the needs of students who want to be IT professionals. The further suggestion is that since
+In an [earlier post](/blog/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/) I wondered if how high school classes in Information Technology(IT)/Computer Science(CS) are being taught is turning students off and, if so, is this why enrolment numbers are dropping. In the comments on that post [Tony suggests](/blog/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/#comment-4195) some other reasons for this decline. Including the observation that IT courses in local schools (both Tony and I live in Queensland, Australia) are primarily seen to serve the needs of students who want to be IT professionals. The further suggestion is that since
 
 > IT is a service-based industry, there only needs to be 5%-10% of the population focused on it as a profession
 
@@ -84,6 +84,6 @@ So, obviously more people should enrol in the IT classes in high school.
 
 No, I don't think so. At least not as most stand at the moment.
 
-This connects back to a point from my [initial post](/blog2/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/). I believe that the current curriculum and teaching methods for these courses are generally not appropriate for the purpose of preparing people - beyond just the future IT professionals - for this world that software is eating.
+This connects back to a point from my [initial post](/blog/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/). I believe that the current curriculum and teaching methods for these courses are generally not appropriate for the purpose of preparing people - beyond just the future IT professionals - for this world that software is eating.
 
 The current curriculum appears aimed at providing the service providers. The folk who will keep the infrastructure going. What is needed is curriculum and teaching methods that will prepare the folk who are going to identify opportunities and transform industries. Or on a smaller scale, identify opportunities for how the IT infrastructure can be harnessed to improve their lives.

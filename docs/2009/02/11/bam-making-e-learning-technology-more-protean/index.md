@@ -12,11 +12,11 @@ categories:
 date: 2009-02-11 10:18:01+10:00
 next:
   text: The value of being open
-  url: /blog2/2009/02/11/the-value-of-being-open/
+  url: /blog/2009/02/11/the-value-of-being-open/
 previous:
   text: The protean nature of modern technology - another limitation of most views
     of e-learning
-  url: /blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
+  url: /blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/
 title: BAM - making e-learning technology more protean
 type: post
 template: blog-post.html
@@ -55,9 +55,9 @@ pingbacks:
       user_id: '0'
     
 ---
-In [a post](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) yesterday I talked about how most applications of e-learning within universities seems to actively prevent students and staff leveraging the protean nature of information technology. That is the nature of computer software to be flexible, malleable and customisable.
+In [a post](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) yesterday I talked about how most applications of e-learning within universities seems to actively prevent students and staff leveraging the protean nature of information technology. That is the nature of computer software to be flexible, malleable and customisable.
 
-The rise of "web 2.0" and related concepts has made it easier to put in place elearning technology that is designed to be more protean. In this post I talk about the [Blog Aggregation Management (BAM) project](/blog2/research/bam-blog-aggregation-management/) and reflect on some of its ideas and implications for making e-learning technology more protean.
+The rise of "web 2.0" and related concepts has made it easier to put in place elearning technology that is designed to be more protean. In this post I talk about the [Blog Aggregation Management (BAM) project](/blog/research/bam-blog-aggregation-management/) and reflect on some of its ideas and implications for making e-learning technology more protean.
 
 ### What is BAM?
 
@@ -79,7 +79,7 @@ Because of the original context in which BAM was designed (explained in some of 
 BAM started life as a more flexible way of implementing student journals in a particular course with the intent of encouraging reflection, increasing interactions between students and staff and hopefully increasing student performance. The initial use of BAM for this purpose is talked about in a number of places including:
 
 - Two presentations given at [CQUniversity](http://www.cqu.edu.au) in 2006 that are available on Google Video. The [first](http://video.google.com/videoplay?docid=965377384627246106#3m50s) talks about the initial design ideas while [the second](http://video.google.com/videoplay?docid=961814934919323661#3m30s) reflects on the experience about half way through the course.
-- [A paper](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) describing the use in the initial course.
+- [A paper](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) describing the use in the initial course.
 - This initial use was also covered in the [ELI Guide To Blogging](http://www.educause.edu/eli/guidetoblogging/13558) as [one](http://www.educause.edu/eli/guidetoblogging/13558) of the three case studies.
 
 ### System usage - examples of the protean nature

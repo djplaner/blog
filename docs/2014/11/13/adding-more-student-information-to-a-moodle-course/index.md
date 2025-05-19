@@ -6,11 +6,11 @@ date: 2014-11-13 16:50:48+10:00
 next:
   text: '"What is" and "what might be" - evidence of a problem with institutional
     e-learning?'
-  url: /blog2/2014/12/15/what-is-and-what-might-be-evidence-of-a-problem-with-institutional-e-learning/
+  url: /blog/2014/12/15/what-is-and-what-might-be-evidence-of-a-problem-with-institutional-e-learning/
 previous:
   text: 'Established versus Affordances: part of the reason institutional e-learning
     is like teenage sex'
-  url: /blog2/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
+  url: /blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
 title: Adding more student information to a Moodle course
 type: post
 template: blog-post.html
@@ -73,12 +73,12 @@ moreStudentDetails.user.js is a Greasemonkey script I've written to provide more
 
 The script adds a link titled \[details\] to the Moodle page whenever it finds a link to a user profile (see above). When you click on that link a small dialog box pops up with some more student details. For my purposes, I'm particularly interested in what type of pre-service teacher they are and their mode/campus.
 
-This script uses much the same technology as the gradebook fix mentioned in [this post](/blog2/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/) and @damoclarky's [Moodle Activity Viewer](http://damosworld.wordpress.com/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/). The work on these scripts is part of an on-going project to identify some theories/principles that can be used to enhance institutional e-learning (see [this paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) for early development of these ideas).
+This script uses much the same technology as the gradebook fix mentioned in [this post](/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/) and @damoclarky's [Moodle Activity Viewer](http://damosworld.wordpress.com/2013/08/30/the-moodle-activity-viewer-mav-heatmaps-of-student-activity/). The work on these scripts is part of an on-going project to identify some theories/principles that can be used to enhance institutional e-learning (see [this paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) for early development of these ideas).
 
 The rest of this post is divided into two parts
 
-1. Recent developments - documents thinking about how to transform this simple script into something that provides more useful and specific process analytics (see [this post](/blog2/2013/08/14/aligning-learning-analytics-with-learning-design/) for a definition of process analytics). Also documents early attempts to share this script via github.
-2. [Initial development](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) - a development diary of early steps in developing this script.
+1. Recent developments - documents thinking about how to transform this simple script into something that provides more useful and specific process analytics (see [this post](/blog/2013/08/14/aligning-learning-analytics-with-learning-design/) for a definition of process analytics). Also documents early attempts to share this script via github.
+2. [Initial development](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) - a development diary of early steps in developing this script.
 
 # Recent developments
 
@@ -86,20 +86,20 @@ The rest of this post is divided into two parts
 
 Have just created the [BAD repository](https://github.com/djplaner/bad) on github. It currently hosts two scripts
 
-1. gradebookFix.user.js - briefly mentioned in [this post](/blog2/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/) this script modifies the Peoplesoft gradebook to highlight special cases.
+1. gradebookFix.user.js - briefly mentioned in [this post](/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/) this script modifies the Peoplesoft gradebook to highlight special cases.
 2. moreStudentDetails.user.js - the script described here. Only the client script, not the server at the moment.
 
 Much of this code is still quite ugly and probably not at all useful by others (though the gradebookFix.user.js should be useful by any course examiner from USQ).
 
 Creating the repository at the moment is more about having the scripts under source control, stored off my laptop and to start playing with the process and mechanisms of sharing these types of scripts.
 
-The name "BAD" is based on the BAD (Bricolage/Affordances/Distributed) mindset formulated in [the paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/).
+The name "BAD" is based on the BAD (Bricolage/Affordances/Distributed) mindset formulated in [the paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/).
 
 ## Extending it to include process analytics
 
 Lockyer et al (2013) define process analytics as analytics that "provide direct insight into learner information processing and application" (p. 1448). i.e. analysis and representations that provide some additional detail about how the learning is progressing. I'm keen to add more of this to the "more student details" script. The following explains what I'd like to add and some reflection about how this might be best done with the technologies available.
 
-As it happens, @Edu\_K has just [commented](/blog2/2013/08/14/aligning-learning-analytics-with-learning-design/#comment-7067) on a post and described nicely what I'm trying to achieve
+As it happens, @Edu\_K has just [commented](/blog/2013/08/14/aligning-learning-analytics-with-learning-design/#comment-7067) on a post and described nicely what I'm trying to achieve
 
 > I like your idea of in-built LA functions into the existing tools. This can help their use to adjust teaching “on-the-go” in response to needs of the particular cohort – which is one of the most important abilities of a good educator
 
@@ -108,7 +108,7 @@ As it happens, @Edu\_K has just [commented](/blog2/2013/08/14/aligning-learning-
 I'm looking to add two additional groups of information about students specific to this course to the dialog box
 
 1. Activity completion; and, Each week of the course has a learning path of set activities. Students get some marks for completing these activities and Moodle's activity completion functionality is used to track their work. Having a usable summary of each student's activity completion available in this dialog would help understand where they are up to in the learning path.
-2. Blog post activity. The course requires the students to create and post to their own external blog. The [BIM Moodle module](/blog2/research/bam-blog-aggregation-management/) is used to mirror blog posts and help award marks to students based on # of posts, word count etc. Adding a summary of the student's blog posts, related statistics and perhaps other analytics (e.g. emotion etc) could also be useful.
+2. Blog post activity. The course requires the students to create and post to their own external blog. The [BIM Moodle module](/blog/research/bam-blog-aggregation-management/) is used to mirror blog posts and help award marks to students based on # of posts, word count etc. Adding a summary of the student's blog posts, related statistics and perhaps other analytics (e.g. emotion etc) could also be useful.
 
 ### The mockup
 

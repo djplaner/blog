@@ -9,10 +9,10 @@ categories:
 date: 2009-05-15 15:12:59+10:00
 next:
   text: '"Phd Update #11 - very short week"'
-  url: /blog2/2009/05/15/phd-update-11-very-short-week/
+  url: /blog/2009/05/15/phd-update-11-very-short-week/
 previous:
   text: Some initial thoughts on e-learning and innovation
-  url: /blog2/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
+  url: /blog/2009/05/13/some-initial-thoughts-on-e-learning-and-innovation/
 title: Institution - another part of place
 type: post
 template: blog-post.html
@@ -96,13 +96,13 @@ pingbacks:
       user_id: '0'
     
 ---
-For longer than I care to remember, I've been working on the [Place](/blog2/2009/05/06/place-component-of-the-ps-framework/) component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog2/research/phd-thesis/). This post brings the penultimate section for the Ps component - institution. The last section will be the "lessons from place" section that attempts to draw some lessons from the Place component for the practice of e-learning. Who knows when that will arrive.
+For longer than I care to remember, I've been working on the [Place](/blog/2009/05/06/place-component-of-the-ps-framework/) component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog/research/phd-thesis/). This post brings the penultimate section for the Ps component - institution. The last section will be the "lessons from place" section that attempts to draw some lessons from the Place component for the practice of e-learning. Who knows when that will arrive.
 
 As with previous parts of the thesis, this is a first draft with only a modicum of re-reading. There are likely to be mistakes. More in-depth editing will wait for a later time.
 
 ### Institution
 
-The previous sections have focused on the nature of changes to the society ([2.1.1 - Society](/blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/)) and the impact of these changes on the higher education sector ([2.1.2 - Sector](/blog2/2009/05/08/sector-another-part-of-place/)). This section moves toward examining the factors associated with individual institutions that can enable, hinder and inform the implementation of e-learning. The institutional context plays a dominant role in shaping the content and process of user participation and change management in systems development (Butler and Fitzgerald 2001). An understanding of the driving and restraining forces within an individual academic context is important to determining whether a broad-scale e-learning strategy is feasible (Parchoma 2006). In terms of the adoption of e-learning, institutional context is all important (Nichols 2007).
+The previous sections have focused on the nature of changes to the society ([2.1.1 - Society](/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/)) and the impact of these changes on the higher education sector ([2.1.2 - Sector](/blog/2009/05/08/sector-another-part-of-place/)). This section moves toward examining the factors associated with individual institutions that can enable, hinder and inform the implementation of e-learning. The institutional context plays a dominant role in shaping the content and process of user participation and change management in systems development (Butler and Fitzgerald 2001). An understanding of the driving and restraining forces within an individual academic context is important to determining whether a broad-scale e-learning strategy is feasible (Parchoma 2006). In terms of the adoption of e-learning, institutional context is all important (Nichols 2007).
 
 This section examines institutional factors through three parts. First, it examines the differences that are visible between different approaches to understanding universities and organizations more broadly. Finally, the nature and features of the culture and sub-cultures within higher education are examined. The next section (2.1.4 - Lessons from Place) seeks to draw on the information presented as part of the Place component of the Ps Framework to identify some lessons for e-learning implementation within universities.
 

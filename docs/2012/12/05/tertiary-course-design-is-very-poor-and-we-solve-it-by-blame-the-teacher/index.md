@@ -5,10 +5,10 @@ date: 2012-12-05 09:13:27+10:00
 next:
   text: Can/will learning analytics challenge the current QA mentality of university
     teaching
-  url: /blog2/2012/12/11/canwill-learning-analytics-challenge-the-current-qa-mentality-of-university-teaching/
+  url: /blog/2012/12/11/canwill-learning-analytics-challenge-the-current-qa-mentality-of-university-teaching/
 previous:
   text: '#ascilite2012 technical support and the tail wagging the dog'
-  url: /blog2/2012/12/02/tail-wagging-the-dog/
+  url: /blog/2012/12/02/tail-wagging-the-dog/
 title: Tertiary course design is very poor, and we solve it by "blame the teacher"
 type: post
 template: blog-post.html

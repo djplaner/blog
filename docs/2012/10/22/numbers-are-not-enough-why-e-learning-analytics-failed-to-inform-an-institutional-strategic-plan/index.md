@@ -6,10 +6,10 @@ categories:
 date: 2012-10-22 12:34:56+10:00
 next:
   text: '"The quest to make sense of information: A research commentary"'
-  url: /blog2/2012/10/25/the-quest-to-make-sense-of-information-a-research-commentary/
+  url: /blog/2012/10/25/the-quest-to-make-sense-of-information-a-research-commentary/
 previous:
   text: The Texas sharpshooter fallacy and other issues for learning analytics
-  url: /blog2/2012/10/18/the-texas-sharpshooter-fallacy-and-other-issues-for-learning-analytics/
+  url: /blog/2012/10/18/the-texas-sharpshooter-fallacy-and-other-issues-for-learning-analytics/
 title: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
   Strategic Plan
 type: post
@@ -108,7 +108,7 @@ The intro is divided into the following named sections
     - Institutions and senior administrators are "key users and stakeholders" with "enhancement of institutional decision-making processes and resource allocation as core objectives".
     - And more interesting "the postmodern context of constant and dynamic change in higher education and technological innovation" increases the value of learning analytics as a tool for those folk to figure out actions that are (citing Kavanagh & Ashkanasy, 2006) "achievable within the capacity of the organisation to absorb change and resource constraints".
     
-    I've long [argued/thought](/blog2/2012/06/28/the-e-learning-process-limitations-and-an-alternative/) that if change is so core to the context, then the type of process that involves institutions and senior administrators (and the nature of the people themselves) are inappropriate. Using analytics to improve those existing processes reminds me of the Drucker quote "Management is doing things right; leadership is doing the right things".
+    I've long [argued/thought](/blog/2012/06/28/the-e-learning-process-limitations-and-an-alternative/) that if change is so core to the context, then the type of process that involves institutions and senior administrators (and the nature of the people themselves) are inappropriate. Using analytics to improve those existing processes reminds me of the Drucker quote "Management is doing things right; leadership is doing the right things".
     
     There's also the argument about whether or not the analysis of past practice is a useful guide for the future in a rapidly changing context.
     
@@ -180,7 +180,7 @@ This type of analysis feeds benchmarking.
     Of course this isn't based on data, but perceptions of the people surveyed.
 - This institution is at 21%. 70% of teaching staff did not use it. But 80% of students take at least on LMS course.
 
-The staff figure is reminiscent of [the chasm](/blog2/2009/08/09/the-chasm/). I wonder whether the low level of use of the LMS was considered in the LMS evaluation?
+The staff figure is reminiscent of [the chasm](/blog/2009/08/09/the-chasm/). I wonder whether the low level of use of the LMS was considered in the LMS evaluation?
 
 Makes the argument that for online courses, that the activity data "begin to provide lead indicators of the appropriateness of the course load as a result of the implemented learning activities".
 

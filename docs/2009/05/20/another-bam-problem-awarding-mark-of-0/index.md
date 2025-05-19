@@ -4,10 +4,10 @@ categories:
 date: 2009-05-20 12:33:24+10:00
 next:
   text: Another cultural conflict
-  url: /blog2/2009/05/20/another-cultural-conflict/
+  url: /blog/2009/05/20/another-cultural-conflict/
 previous:
   text: Innovation role as Trickster
-  url: /blog2/2009/05/19/innovation-role-as-trickster/
+  url: /blog/2009/05/19/innovation-role-as-trickster/
 title: Another BAM problem - awarding mark of 0
 type: post
 template: blog-post.html
@@ -50,7 +50,7 @@ pingbacks:
     []
     
 ---
-Following on from [yesterday's start](/blog2/2009/05/19/diagnosing-and-recording-a-problem-with-bam/) of using the blog to record fixes to software, here comes another one.
+Following on from [yesterday's start](/blog/2009/05/19/diagnosing-and-recording-a-problem-with-bam/) of using the blog to record fixes to software, here comes another one.
 
 ### Problem
 

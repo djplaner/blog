@@ -4,10 +4,10 @@ categories:
 date: 2015-01-13 10:54:56+10:00
 next:
   text: '"Choosing a research publication outlet: Part II"'
-  url: /blog2/2015/01/14/choosing-a-research-publication-outlet-part-ii/
+  url: /blog/2015/01/14/choosing-a-research-publication-outlet-part-ii/
 previous:
   text: '&quot;Do it with&quot; teachers or students?'
-  url: /blog2/2015/01/12/do-it-with-teachers-or-students/
+  url: /blog/2015/01/12/do-it-with-teachers-or-students/
 title: This year it's all about the connections
 type: post
 template: blog-post.html
@@ -209,19 +209,19 @@ All of the above links to the problem I'm trying to fix. i.e. that a typical Uni
 
 My last three publications have all been attempts to understand the problem and identify potential ways forward. In summary,
 
-1. [Breaking Bad](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) (Jones & Clark, 2014);
+1. [Breaking Bad](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) (Jones & Clark, 2014);
     
-    Initial description of the BAD and the SET mindsets. The SET mindset is what I see informing the implementation of most institutional approaches to network learning. The BAD mindset is what I see as the more useful approach. This is illustrated by showing how the SET mindset has created a couple of [concrete lounges](/blog2/2014/12/18/concrete-lounge/) and how the BAD mindset can help make it possible to live with a concrete lounge.
+    Initial description of the BAD and the SET mindsets. The SET mindset is what I see informing the implementation of most institutional approaches to network learning. The BAD mindset is what I see as the more useful approach. This is illustrated by showing how the SET mindset has created a couple of [concrete lounges](/blog/2014/12/18/concrete-lounge/) and how the BAD mindset can help make it possible to live with a concrete lounge.
     
     The question is whether the BAD and SET mindsets can be fruitfully combined. Something I hope the following will help explore.
     
-2. [Three paths](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) (Beer, Jones & Tickner, 2014); and,
+2. [Three paths](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) (Beer, Jones & Tickner, 2014); and,
     
     Proposes three paths for change in institutional network learning: do it to, for and with. Typically most practice is in the form of "do it to" and "do it for" and ignores "do it with". The "S" in the SET mindset stands for strategic, which is what the "do it to" and "do it for" paths best represent. The "B" in the BAD mindset stands for bricolage, which is what the "do it with" approach best represents.
     
     The paper illustrates how a successful institutional learning analytics project arose from a combination of all three. The argument being that without the "do it with" path - which would have been missing from a typical institutional project - this project would not have succeeded. The broader proposition is that network learning within a university is best served by a combination of the paths. (Almost by definition if you're focusing on personal/individual learning you must by definition take a "do it with" approach, you can't "do it to" yourself, can you?)
     
-3. [TPACK as shared practice](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (Jones, Heffernan & Albion, 2015).
+3. [TPACK as shared practice](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (Jones, Heffernan & Albion, 2015).
     
     Uses four themes of associated with a distributed view of learning to analyse the experiences of three teacher educators as they try to develop the knowledge required for effective integration of ICT into teaching (TPACK). Illustrates how the practices undertaken by the three teacher educators use a distributed/social approach to learning to overcome the limitations of institutional systems and support. Thereby partially illustrating the advantages of the "D" (for Distributed) in the BAD mindset over the "T" (for tree-like or hierarchical) in the SET mindset.
     
@@ -268,7 +268,7 @@ Some additional questions
 
 An oft repeated refrain around here is, "we don't have those conversations about teaching anymore". Those hallway and lunch-room conversations where colleagues share insights and experiences about teaching don't appear to be happening any more. Lots of causes for this including the massification of higher education, multiple campus institutions, increasing workload etc.
 
-But another under-estimated cause is that the institutional network learning technologies are not designed to enable and encourage social conversations about teaching. [Jones et al (2015)](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) shares a story about how a small group of us set up a shared blog to support some of this, but I think we can do better.
+But another under-estimated cause is that the institutional network learning technologies are not designed to enable and encourage social conversations about teaching. [Jones et al (2015)](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) shares a story about how a small group of us set up a shared blog to support some of this, but I think we can do better.
 
 Two early questions that arose were
 
@@ -277,7 +277,7 @@ Two early questions that arose were
 
 ### Distributed
 
-[Jones and Clark (2014)](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) argues that too must of university e-learning is influenced by a tree-like (hierarchical) conception. i.e. that the world can be divided up into a neat hierarchical structure of separate components that are controlled by a particular group/individual and that these components can be combined to produce a larger whole without losing anything. Perhaps most importantly, each of the components can only make connections that are approved by the hierarchy (if at all).
+[Jones and Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) argues that too must of university e-learning is influenced by a tree-like (hierarchical) conception. i.e. that the world can be divided up into a neat hierarchical structure of separate components that are controlled by a particular group/individual and that these components can be combined to produce a larger whole without losing anything. Perhaps most importantly, each of the components can only make connections that are approved by the hierarchy (if at all).
 
 Early questions include
 
@@ -286,12 +286,12 @@ Early questions include
     For example, if I'm creating a lesson plan to help meet [this content descriptor](http://www.australiancurriculum.edu.au/curriculum/contentdescription/ACMNA230) from the Australian Curriculum I have to manually copy the content descriptor into the unit plan. I also have to manually search the Scootle database/community for resources and discussions associated with this content descriptor. I have to manually search online for other lesson plans that aim to cover this content descriptor.
     
     More immediately important to my teaching. The students, markers and I have to manually check a completed lesson plan to see that that the content descriptors and the assessment criteria are aligned as per the curriculum. Rather than have the unit plan template automatically populate the plan with the appropriate criteria based on the selected content descriptors.
-- Is it possible to measure the digital fluency of a university, rather than focus on its teaching staff? The [recent claim](/blog2/2014/09/12/you-want-digitally-fluent-faculty/) that the lack of digital fluency of teaching staff is the #1 "significant challenge impeding higher education technology adoption" strikes me as blaming the boxes at the bottom of the hierarchy for the problems of the whole. The knowledge of how to effectively integrate technology into learning and teaching isn't something that's solely in the head of teaching staff. It's knowledge that is distributed across the many connections that make up the university.
+- Is it possible to measure the digital fluency of a university, rather than focus on its teaching staff? The [recent claim](/blog/2014/09/12/you-want-digitally-fluent-faculty/) that the lack of digital fluency of teaching staff is the #1 "significant challenge impeding higher education technology adoption" strikes me as blaming the boxes at the bottom of the hierarchy for the problems of the whole. The knowledge of how to effectively integrate technology into learning and teaching isn't something that's solely in the head of teaching staff. It's knowledge that is distributed across the many connections that make up the university.
     
     I'd argue that if digital fluency is a challenge to technology adoption, then it's the lack of fluency held by the entire network, not the individual teachers that's the problem.
     
     How would you measure the digital fluency of a university?
-- Can the LMS (and other systems) be [more like the Globe Theatre](/blog2/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/)? The LMS and other systems used to implement e-learning within universities provide little or not additional intelligence to the design and orchestration of learning. All (the vast majority of) the intelligence comes from the designer(s)/teacher(s). The Globe Theatre was set up to help actors meet the demands of their task, can the LMS be similarly enhanced? This is linked to the CASA idea below.
+- Can the LMS (and other systems) be [more like the Globe Theatre](/blog/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/)? The LMS and other systems used to implement e-learning within universities provide little or not additional intelligence to the design and orchestration of learning. All (the vast majority of) the intelligence comes from the designer(s)/teacher(s). The Globe Theatre was set up to help actors meet the demands of their task, can the LMS be similarly enhanced? This is linked to the CASA idea below.
 
 Encouraging more distribution also raises questions about
 
@@ -304,13 +304,13 @@ Encouraging more distribution also raises questions about
 
 ### Protean
 
-The argument in both Jones et al (2015) and [Jones and Clark (2014)](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) is that typically universities see digital technologies as established. i.e. they are very difficult (if not impossible) to modify and what changes can be made are only done by qualified people under very strict governance structures. The argument is that this destroys/ignores the inherently protean nature of digital technologies. These are technologies that can be and should be changed.
+The argument in both Jones et al (2015) and [Jones and Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) is that typically universities see digital technologies as established. i.e. they are very difficult (if not impossible) to modify and what changes can be made are only done by qualified people under very strict governance structures. The argument is that this destroys/ignores the inherently protean nature of digital technologies. These are technologies that can be and should be changed.
 
 Both those papers have the early stages of the development of an argument that good e-learning must involve an element of digital renovation by both learners and teachers. i.e. the learners and teachers must be able to modify the technologies to best suit their needs.
 
 Some questions include
 
-1. Can the outputs of digital renovation practices by individual staff be shared? Currently a small number of staff (including myself) engage in a range of digital renovation practices. We implement kludges to make [the concrete lounges](/blog2/2014/12/18/concrete-lounge/) that infest institutional e-learning into something approaching comfortable. These changes are typically very unique to our contexts (they are situated) and abilities and can't be shared.
+1. Can the outputs of digital renovation practices by individual staff be shared? Currently a small number of staff (including myself) engage in a range of digital renovation practices. We implement kludges to make [the concrete lounges](/blog/2014/12/18/concrete-lounge/) that infest institutional e-learning into something approaching comfortable. These changes are typically very unique to our contexts (they are situated) and abilities and can't be shared.
     
     Being able to share these practices could potentially provide some advantage. If only in being aware of where the concrete lounges are, but also perhaps as a way to address the resourcing issue that arises in institutional e-learning.
 2. How can institutions encourage innovation through digital renovation? Some of this connects back to the idea of APIs above. Assuming digital renovation is a good thing, how can an institution encourage and benefit from the innovations that would arise from more widespread digital renovation.
@@ -331,7 +331,7 @@ Tim also has [a post](http://timklapdor.wordpress.com/2015/01/09/the-fedwiki-hap
 
 ### Looking for and bridging the chasm
 
-The presentation given for [Jones & Clark (2014)](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) was structured around the idea of a chasm between what was possible with existing institutional systems, and what was actually need to efficiently perform a task. The paper identifies two examples of a chasm that we bridged using the BAD mindset.
+The presentation given for [Jones & Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) was structured around the idea of a chasm between what was possible with existing institutional systems, and what was actually need to efficiently perform a task. The paper identifies two examples of a chasm that we bridged using the BAD mindset.
 
 Very briefly at the end of the presentation a "process" was suggested as a possible way forward. This process was thrown together late the night before the presentation after enjoying a post-conference drink or two. It's not great, but a starting point. The process was based around the following questions
 
@@ -362,7 +362,7 @@ However, such a system isn't possible because the generic tools the institution 
 
 To bridge this gap there appears to be a need for context-appropriate scaffolding assemblages. i.e. collections of technologies and other resources that are appropriate to the context and which scaffold the performance of important tasks. Not as entire new systems, but rather as ways to glue together different existing systems.
 
-This is not a new idea. My PhD work suggested the idea of [scaffolding, context-sensitive conglomerations](/blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/). There are two reasons for the shift to CASA
+This is not a new idea. My PhD work suggested the idea of [scaffolding, context-sensitive conglomerations](/blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/). There are two reasons for the shift to CASA
 
 1. Obtain a decent acronym; and
 2. More strongly connect with socio-material perspectives.
@@ -373,7 +373,7 @@ Honan (2004) suggests understanding teachers as
 
 The idea of CASA is that for quality learning in a contemporary university setting, it is no longer appropriate for it to be the teacher alone who is doing this. Taking the distributed and social perspective on learning and knowledge it is necessary that the organisation take on the role of bricoleurs who gather an assemblage of ......
 
-The [fix to the Peoplesoft gradebook](/blog2/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/) implemented last year is an early example of a CASA. A greasemonkey script is used to create an assemblage that makes for a more meaningful/appropriate practice. Both this example and the supplementary assessment problem above are more administrative, than pedagogical. The challenge is to explore how and what CASAs can be developed to aid learning and teaching.
+The [fix to the Peoplesoft gradebook](/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/) implemented last year is an early example of a CASA. A greasemonkey script is used to create an assemblage that makes for a more meaningful/appropriate practice. Both this example and the supplementary assessment problem above are more administrative, than pedagogical. The challenge is to explore how and what CASAs can be developed to aid learning and teaching.
 
 ## References
 

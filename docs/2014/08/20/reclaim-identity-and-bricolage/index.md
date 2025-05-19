@@ -4,10 +4,10 @@ categories:
 date: 2014-08-20 13:34:51+10:00
 next:
   text: Evaluating the use of blogs/reflective journals
-  url: /blog2/2014/08/21/evaluating-the-use-of-blogsreflective-journals/
+  url: /blog/2014/08/21/evaluating-the-use-of-blogsreflective-journals/
 previous:
   text: Part C of catching up on NGL
-  url: /blog2/2014/08/18/part-c-of-catching-up-on-ngl/
+  url: /blog/2014/08/18/part-c-of-catching-up-on-ngl/
 title: Reclaim, identity, and bricolage
 type: post
 template: blog-post.html

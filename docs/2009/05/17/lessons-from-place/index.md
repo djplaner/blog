@@ -9,10 +9,10 @@ categories:
 date: 2009-05-17 21:55:27+10:00
 next:
   text: Over emphasis on design and bugger all on maintenance
-  url: /blog2/2009/05/18/over-emphasis-on-design-and-bugger-all-on-maintenance/
+  url: /blog/2009/05/18/over-emphasis-on-design-and-bugger-all-on-maintenance/
 previous:
   text: 'Phd Update #11 - very short week'
-  url: /blog2/2009/05/15/phd-update-11-very-short-week/
+  url: /blog/2009/05/15/phd-update-11-very-short-week/
 title: Lessons from place
 type: post
 template: blog-post.html
@@ -37,7 +37,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the last part of the [Place section](/blog2/2009/05/06/place-component-of-the-ps-framework/) of chatper 2 of [my thesis](/blog2/research/phd-thesis/). It's not that good, but enough has been done to get it out and await feedback.
+The following is the last part of the [Place section](/blog/2009/05/06/place-component-of-the-ps-framework/) of chatper 2 of [my thesis](/blog/research/phd-thesis/). It's not that good, but enough has been done to get it out and await feedback.
 
 ### Lessons from place
 

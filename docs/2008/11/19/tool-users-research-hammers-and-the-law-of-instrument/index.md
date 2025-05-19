@@ -9,10 +9,10 @@ categories:
 date: 2008-11-19 14:40:30+10:00
 next:
   text: More on the expert designer - efficiency and effectiveness
-  url: /blog2/2008/11/21/more-on-the-expert-designer-efficiency-and-effectiveness/
+  url: /blog/2008/11/21/more-on-the-expert-designer-efficiency-and-effectiveness/
 previous:
   text: The model underpinning blackboard and how ACCT19064 uses it
-  url: /blog2/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/
+  url: /blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/
 title: Tool users, research, hammers and the law of instrument
 type: post
 template: blog-post.html

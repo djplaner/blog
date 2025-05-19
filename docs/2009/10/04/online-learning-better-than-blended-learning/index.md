@@ -4,10 +4,10 @@ categories:
 date: 2009-10-04 07:30:27+10:00
 next:
   text: Learning theories and e-learning
-  url: /blog2/2009/10/04/learning-theories-and-e-learning/
+  url: /blog/2009/10/04/learning-theories-and-e-learning/
 previous:
   text: Herding cats and behaviour change
-  url: /blog2/2009/10/02/herding-cats-and-behaviour-change/
+  url: /blog/2009/10/02/herding-cats-and-behaviour-change/
 title: Online learning better than blended learning?
 type: post
 template: blog-post.html

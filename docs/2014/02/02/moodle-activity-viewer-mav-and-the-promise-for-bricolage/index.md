@@ -5,10 +5,10 @@ categories:
 date: 2014-02-02 12:01:49+10:00
 next:
   text: '"MAV, #moodle, process analytics and how I''m an idiot"'
-  url: /blog2/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/
+  url: /blog/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/
 previous:
   text: What should be covered in EDC3100?
-  url: /blog2/2014/01/22/what-should-be-covered-in-edc3100/
+  url: /blog/2014/01/22/what-should-be-covered-in-edc3100/
 tags:
 - mav
 title: '"#moodle Activity Viewer (MAV) and the promise for bricolage"'

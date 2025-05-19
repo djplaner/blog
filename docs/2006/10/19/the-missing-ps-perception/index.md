@@ -5,10 +5,10 @@ categories:
 date: 2006-10-19 21:30:31+10:00
 next:
   text: Teleological approach to organisational reviews and change projects
-  url: /blog2/2006/10/22/teleological-approach-to-organisational-reviews-and-change-projects/
+  url: /blog/2006/10/22/teleological-approach-to-organisational-reviews-and-change-projects/
 previous:
   text: The missing P - Product
-  url: /blog2/2006/10/19/the-missing-p-product/
+  url: /blog/2006/10/19/the-missing-p-product/
 title: The missing Ps - Perception
 type: post
 template: blog-post.html

@@ -4,21 +4,21 @@ categories:
 date: 2010-02-20 14:33:30+10:00
 next:
   text: Fixes to BIM
-  url: /blog2/2010/02/25/fixes-to-bim/
+  url: /blog/2010/02/25/fixes-to-bim/
 previous:
   text: How to make curriculum mapping useful to university academics
-  url: /blog2/2010/02/17/how-to-make-curriculum-mapping-useful-to-university-academics/
+  url: /blog/2010/02/17/how-to-make-curriculum-mapping-useful-to-university-academics/
 title: The current state of curriculum mapping in/with Moodle
 type: post
 template: blog-post.html
 ---
-As part of looking into a [project](/blog2/research/curriculum-mapping/) around curriculum mapping I need to take a look at the current state of play around curriculum mapping in the Moodle community. This is a summary of what I can find at the moment.
+As part of looking into a [project](/blog/research/curriculum-mapping/) around curriculum mapping I need to take a look at the current state of play around curriculum mapping in the Moodle community. This is a summary of what I can find at the moment.
 
 Moodle is used in both schools and universities. My impression is that schools have a longer history and broader use of curriculum mapping, however, mapping in universities is hotting up.
 
 In summary, there are a few examples of Moodle "tools" that claim to do some aspect of curriculum mapping. However, none of them seems to provide the services I'm suggesting. There does appear to be some call for this type of service.
 
-> **UPDATE:** More [recent exploration](/blog2/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/) is based around Moodle's existing outcomes support which might offer a foundation on which to build curriculum mapping.
+> **UPDATE:** More [recent exploration](/blog/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/) is based around Moodle's existing outcomes support which might offer a foundation on which to build curriculum mapping.
 
 ### Discussion threads
 

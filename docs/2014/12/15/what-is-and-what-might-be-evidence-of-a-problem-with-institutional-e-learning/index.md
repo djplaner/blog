@@ -5,10 +5,10 @@ categories:
 date: 2014-12-15 13:39:15+10:00
 next:
   text: '"Initial steps with the #FedWikiHappening happening"'
-  url: /blog2/2014/12/16/initial-steps-with-the-fedwikihappening-happening/
+  url: /blog/2014/12/16/initial-steps-with-the-fedwikihappening-happening/
 previous:
   text: Adding more student information to a Moodle course
-  url: /blog2/2014/11/13/adding-more-student-information-to-a-moodle-course/
+  url: /blog/2014/11/13/adding-more-student-information-to-a-moodle-course/
 title: '"What is" and "what might be" - evidence of a problem with institutional e-learning?'
 type: post
 template: blog-post.html
@@ -19,9 +19,9 @@ The following does a compare and contrast between the "what is" of university e-
 2. What is - describes how that task is completed in existing institutions (using Moodle). The point of this post isn't to suggest that Moodle is bad. I'm sure that other similar systems would have similar problems. If not for this task, there would be other tasks for which they are bad. This is also not meant to be a criticism of the LMS. I could do a similar description with an e-portfolio tool. I could do a similar task for [BIM](https://moodle.org/plugins/view.php?plugin=mod_bim) (something I wrote).
 3. What might be - describes an alternative (much better) approach to achieve the same task in much the same environment. An alternative that is built upon/around Moodle and is largely only possible because Moodle is open source.
 
-The argument is that for many common tasks required for "good" learning and teaching, there is a huge chasm between "what is" and "what might be". A chasm that I know from personal experience exists with many, many other tasks (e.g. [one](/blog2/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/) and [two](/blog2/2014/11/13/adding-more-student-information-to-a-moodle-course/)). The existence of these chasms raise a number of questions that I'd like to explore further
+The argument is that for many common tasks required for "good" learning and teaching, there is a huge chasm between "what is" and "what might be". A chasm that I know from personal experience exists with many, many other tasks (e.g. [one](/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/) and [two](/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/)). The existence of these chasms raise a number of questions that I'd like to explore further
 
-1. Why do these chasms exist? The [paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) this stuff comes from proposes one explanation.
+1. Why do these chasms exist? The [paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) this stuff comes from proposes one explanation.
 2. What other chasms exist? A very [wise invited speaker](https://twitter.com/shaned07) at [ASCILITE14](http://ascilite2014.otago.ac.nz/) suggested that "Innovation comes from solving problems". These chasms appear to be problems crying out to generate some innovation. Mapping out what chasms there are and analysing them would appear to be interesting and useful from a number of perspectives.
 3. What impact do these chasms have on the quality of learning and teaching? I believe they have a fairly large negative impact. Would be interesting and useful to identify that impact and its size.
 4. How can these chasms be closed? How can and should universities change how they develop and support their e-learning to close up these gaps.

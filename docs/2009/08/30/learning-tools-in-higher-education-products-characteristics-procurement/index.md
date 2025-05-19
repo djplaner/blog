@@ -9,10 +9,10 @@ categories:
 date: 2009-08-30 08:28:40+10:00
 next:
   text: '"Procurement and software: alternate models for e-learning"'
-  url: /blog2/2009/08/31/procurement-and-software-alternate-models-for-e-learning/
+  url: /blog/2009/08/31/procurement-and-software-alternate-models-for-e-learning/
 previous:
   text: Comparisons between LMS - the need for system independence
-  url: /blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
+  url: /blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/
 title: '"Learning Tools in Higher Education: Products, Characteristics, Procurement"'
 type: post
 template: blog-post.html

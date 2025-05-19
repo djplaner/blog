@@ -4,10 +4,10 @@ categories:
 date: 2017-03-16 08:05:25+10:00
 next:
   text: Observations on university L&T portals
-  url: /blog2/2017/03/17/observations-on-university-lt-portals/
+  url: /blog/2017/03/17/observations-on-university-lt-portals/
 previous:
   text: Sharing "indicators platform" via github
-  url: /blog2/2017/03/13/sharing-indicators-platform-via-github/
+  url: /blog/2017/03/13/sharing-indicators-platform-via-github/
 title: Adding a custom library and a semi-real application - Indicators notebook(s)
 type: post
 template: blog-post.html

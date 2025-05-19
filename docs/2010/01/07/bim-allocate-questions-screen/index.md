@@ -4,10 +4,10 @@ categories:
 date: 2010-01-07 12:02:53+10:00
 next:
   text: BIM - getting navigation bread crumbs and tabs working
-  url: /blog2/2010/01/09/bim-getting-navigation-bread-crumbs-and-tabs-working/
+  url: /blog/2010/01/09/bim-getting-navigation-bread-crumbs-and-tabs-working/
 previous:
   text: BIM - the show student posts screen
-  url: /blog2/2009/12/26/bim-the-show-student-posts-screen/
+  url: /blog/2009/12/26/bim-the-show-student-posts-screen/
 title: BIM - Allocate questions screen
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-[The last bit of work](/blog2/2009/12/26/bim-the-show-student-posts-screen/) I did on BIM continue the current trend of getting screens mostly working without some of the extra effort required for a production system. This is in part driven by my desire to become more familiar with differing aspects of Moodle development.
+[The last bit of work](/blog/2009/12/26/bim-the-show-student-posts-screen/) I did on BIM continue the current trend of getting screens mostly working without some of the extra effort required for a production system. This is in part driven by my desire to become more familiar with differing aspects of Moodle development.
 
 This post continues that trend by describing the implementation of the "allocate questions screen". This is the screen used by a teacher to change the allocation of student posts to questions. A basic premise of BIM is that for a given course students are expected to respond to particular questions. BIM attempts to automatically detect student posts that answer a question and allocate them appropriately. Sometimes, however, there is a need for some manual intervention.
 

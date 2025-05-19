@@ -4,10 +4,10 @@ categories:
 date: 2008-11-21 16:44:08+10:00
 next:
   text: '"Information Systems Epistemology: An Historical Perspective"'
-  url: /blog2/2008/11/23/information-systems-epistemology-an-historical-perspective/
+  url: /blog/2008/11/23/information-systems-epistemology-an-historical-perspective/
 previous:
   text: Kant - separation of reason and experience
-  url: /blog2/2008/11/21/kant-separation-of-reason-and-experience/
+  url: /blog/2008/11/21/kant-separation-of-reason-and-experience/
 title: First photo
 type: post
 template: blog-post.html

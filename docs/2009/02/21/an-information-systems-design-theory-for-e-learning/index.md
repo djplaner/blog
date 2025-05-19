@@ -7,11 +7,11 @@ categories:
 date: 2009-02-21 03:58:09+10:00
 next:
   text: '"An ISDT for e-learning" - Audio is now synchronized'
-  url: /blog2/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
+  url: /blog/2009/02/22/an-isdt-for-e-learning-audio-is-now-synchronized/
 previous:
   text: Reliability - an argument against using Web 2.0 services in learning? Probably
     not.
-  url: /blog2/2009/02/18/reliability-an-argument-against-using-web-20-services-in-learning/
+  url: /blog/2009/02/18/reliability-an-argument-against-using-web-20-services-in-learning/
 tags:
 - lms-cms
 title: An information systems design theory for e-learning
@@ -53,7 +53,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Yesterday I gave a presentation at [the Australian National University](http://www.anu.edu.au/) on my [PhD](/blog2/research/phd-thesis/). I'm doing it through ANU and this 30 minute presentation is a standard requirement of study. The slides are up on [slideshare](http://slideshare.net/) (embedded below). I recorded the audio and will be trying to put that online later on today and make the slides into a slidecast.
+Yesterday I gave a presentation at [the Australian National University](http://www.anu.edu.au/) on my [PhD](/blog/research/phd-thesis/). I'm doing it through ANU and this 30 minute presentation is a standard requirement of study. The slides are up on [slideshare](http://slideshare.net/) (embedded below). I recorded the audio and will be trying to put that online later on today and make the slides into a slidecast.
 
 ### The presentation
 
@@ -65,9 +65,9 @@ It appears embedding the presentation in this post isn't working at the moment. 
 
 It's been a while since I worked directly on the PhD and creating this presentation was a way to become deeply familiar with the thesis again, in preparation for writing it up. So the presentation is structured in line with the thesis and provides a high level overview of the whole thing.
 
-While the information systems design theory (ISDT) that is the main product of the thesis gets a mention, explaining the design theory is not the primary goal of the presentation. Such descriptions have been given in other papers ([Jones and Gregor, 2002](https://djon.es/Publications/isdt.pdf); [Jones and Gregor, 2004](/blog2/publications/the-formulation-of-an-isdt-for-e-learning/)). Instead the emphasis of the presentation is on the other components of the thesis that are in need of some extra work.
+While the information systems design theory (ISDT) that is the main product of the thesis gets a mention, explaining the design theory is not the primary goal of the presentation. Such descriptions have been given in other papers ([Jones and Gregor, 2002](https://djon.es/Publications/isdt.pdf); [Jones and Gregor, 2004](/blog/publications/the-formulation-of-an-isdt-for-e-learning/)). Instead the emphasis of the presentation is on the other components of the thesis that are in need of some extra work.
 
-Most of the content of the presentation is focused on chapter 2 and the [Ps Framework](/blog2/2009/02/16/frameworks-and-representation-tidy-versus-messy/). In fact, must of it is related around the [content of a paper](/blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) I've proposed for later in the year.
+Most of the content of the presentation is focused on chapter 2 and the [Ps Framework](/blog/2009/02/16/frameworks-and-representation-tidy-versus-messy/). In fact, must of it is related around the [content of a paper](/blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) I've proposed for later in the year.
 
 Essentially the idea is that the practice of e-learning within universities has a definite orthodoxy (which LMS will we adopt). I suggest that for a number of reasons the understandings that underpin that orthodoxy are entirely inappropriate and this is why most university e-learning implementations are plagued by less than widespread use by academics, low quality learning by those that do use it and some concerns around return on investment.
 

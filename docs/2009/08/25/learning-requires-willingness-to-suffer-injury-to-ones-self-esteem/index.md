@@ -8,10 +8,10 @@ categories:
 date: 2009-08-25 09:15:45+10:00
 next:
   text: E-Learning 2.0 and reliability of external services
-  url: /blog2/2009/08/26/e-learning-2-0-and-reliability-of-external-services/
+  url: /blog/2009/08/26/e-learning-2-0-and-reliability-of-external-services/
 previous:
   text: Identifying file distribution on Webfuse course sites
-  url: /blog2/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/
+  url: /blog/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/
 title: Learning requires willingness to suffer injury to one's self-esteem
 type: post
 template: blog-post.html
@@ -117,11 +117,11 @@ I came across this quote via a tweet by [Gardner Campbell](http://www.gardnercam
 
 Szasz suggests you have to be willing to suffer through injury to your self-esteem to learn. To get it wrong. This connects with many of the other insights, quotes and perspectives on learning that I've seen and discussed on the blog. I'm sure there are many more.
 
-Additional support for this idea comes from [confirmation bias, the Tolstoy syndrome and pattern entrainment](/blog2/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/) and not to mention [the Golden Hammer law](/blog2/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/) and [status quo adherence](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/#statusQuo). All summed up nicely by a quote from Tolstoy
+Additional support for this idea comes from [confirmation bias, the Tolstoy syndrome and pattern entrainment](/blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/) and not to mention [the Golden Hammer law](/blog/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/) and [status quo adherence](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/#statusQuo). All summed up nicely by a quote from Tolstoy
 
 > The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him.
 
-In order to learn something new you have to be prepared to think anew, critically examine what you currently take for granted and hold it up to the light of new insights to see if it is found wanting. While learning something new, you will make mistakes. In fact, there are any number of [quotes around innovation](/blog2/2009/05/13/quotes-about-innovation-and-creativity/) that posit the importance of failure
+In order to learn something new you have to be prepared to think anew, critically examine what you currently take for granted and hold it up to the light of new insights to see if it is found wanting. While learning something new, you will make mistakes. In fact, there are any number of [quotes around innovation](/blog/2009/05/13/quotes-about-innovation-and-creativity/) that posit the importance of failure
 
 > If you’re not failing every now and again, it’s a sign you’re not doing anything very innovative. -- Woody Allen
 
@@ -143,11 +143,11 @@ As Gardner Campbell observes in [this article](http://www.educause.edu/EDUCAUSE+
 
 ### Fear of failure is made worse by managerialism
 
-For quite some time I have been arguing that [teleological approaches](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/) to online learning - and I know expand that to broader styles of management - within higher education is ill-suited to the challenge (Jons, Luck, McConachie and Daner, 2005; Jones and Muldoon, 2007). Approaches to leadership and management that are driven by current over-emphasis on efficiency and accountability are based heavily on teleological assumptions and because of the mismatch end up damaging universities.
+For quite some time I have been arguing that [teleological approaches](/blog/2009/06/05/teleological-design-definition-and-weaknesses/) to online learning - and I know expand that to broader styles of management - within higher education is ill-suited to the challenge (Jons, Luck, McConachie and Daner, 2005; Jones and Muldoon, 2007). Approaches to leadership and management that are driven by current over-emphasis on efficiency and accountability are based heavily on teleological assumptions and because of the mismatch end up damaging universities.
 
 But worse, at least from the perspective of learning, such approaches to leadership - at least as often practiced - are hugely fearful of failure. They seek to avoid it as much as possible. The [SNAFU principle](http://catb.org/~esr/jargon/html/S/SNAFU-principle.html) is a humourous explanation of this tendency for authoritarian hierarchies to screw up.
 
-Of course there is also much written in the management and organisational research about this tendency. [This post](/blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/) covers a small sample of it and includes the following quote from Argyris and Schon (1978, p116)
+Of course there is also much written in the management and organisational research about this tendency. [This post](/blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/) covers a small sample of it and includes the following quote from Argyris and Schon (1978, p116)
 
 > In a Model 1 behavioral world, the discovery of uncorrectable errors is a source of personal and organisational vulnerability. The response to vulnerability is unilateral self-protection, which can take several forms. Uncorrectable errors, and the processes that lead to them, can be hidden, disguised, or denied (all of which we call ‘camouflage’); and individuals and groups can protect themselves further by sealing themselves off from blame, should camouflage fail.
 

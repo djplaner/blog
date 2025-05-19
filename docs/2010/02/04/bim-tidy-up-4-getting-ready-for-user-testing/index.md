@@ -5,10 +5,10 @@ date: 2010-02-04 13:58:43+10:00
 next:
   text: '"Challenges in developing innovative pedagogy in blended learning: The case
     of BIM"'
-  url: /blog2/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/
+  url: /blog/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/
 previous:
   text: 'BIM - Tidy up #4 - Security checks'
-  url: /blog2/2010/02/03/bim-tidy-up-4-security-checks/
+  url: /blog/2010/02/03/bim-tidy-up-4-security-checks/
 title: '"BIM - Tidy up #4 - Getting ready for user testing"'
 type: post
 template: blog-post.html
@@ -196,9 +196,9 @@ The following bullet list will list the different roles and the actions they can
 - **TO DO:** Add a timereleased to bim\_marking.
 - **TO DO:** Get timereleased set when released.???? code is in, can't see why it isn't working. Might be due to database change. Will need to keep an eye on this.
 - Check cron is working.
-- Gradebook stuff. - moving to [another post](/blog2/2010/02/07/bim-talking-to-the-gradebook/)
+- Gradebook stuff. - moving to [another post](/blog/2010/02/07/bim-talking-to-the-gradebook/)
 - Deleting BIMs.
-- Backing BIMs up/restoring - [Leave till later](/blog2/2010/02/07/bim-backup-and-restore/)
+- Backing BIMs up/restoring - [Leave till later](/blog/2010/02/07/bim-backup-and-restore/)
 - Check whether a student blog url, has already been registered for this bim.
 
 ### New problem - instance in course\_module

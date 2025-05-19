@@ -5,10 +5,10 @@ categories:
 date: 2014-09-02 10:36:37+10:00
 next:
   text: Learning how to make waves
-  url: /blog2/2014/09/03/learning-how-to-make-waves/
+  url: /blog/2014/09/03/learning-how-to-make-waves/
 previous:
   text: Signing up for Connected Courses
-  url: /blog2/2014/09/02/signing-up-for-connected-courses/
+  url: /blog/2014/09/02/signing-up-for-connected-courses/
 title: Too much stuff, not enough time
 type: post
 template: blog-post.html
@@ -95,6 +95,6 @@ pingbacks:
       user_id: '0'
     
 ---
-The plan by now was that I would have spent a few weeks engaging with the readings from [NETGL](http://netgl.wordpress.com) and figuring out what they can offer some insights for enhancing and transforming [the two courses](/blog2/2014/07/27/me-as-a-teacher/) I currently teach. By this time I'd also have set up my [new domain](http://djon.es/) (something I have actually done) and moved this blog to that domain. But that was not to be. [Connected courses](http://connectedcourses.net/) is starting soon and it's to relevant and interesting to not engage.
+The plan by now was that I would have spent a few weeks engaging with the readings from [NETGL](http://netgl.wordpress.com) and figuring out what they can offer some insights for enhancing and transforming [the two courses](/blog/2014/07/27/me-as-a-teacher/) I currently teach. By this time I'd also have set up my [new domain](http://djon.es/) (something I have actually done) and moved this blog to that domain. But that was not to be. [Connected courses](http://connectedcourses.net/) is starting soon and it's to relevant and interesting to not engage.
 
 I don't have a good track record of engaging with "MOOCs". Not off to a good start with this one, at least in my head. But perhaps as the participants of NGL have learned over the last few weeks, part of the trick is figuring out what you can do with the time you have (and having the discipline to make sure you make some time). Time for me to feel a little of their pain and see just how well I can handle it.

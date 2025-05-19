@@ -9,17 +9,17 @@ categories:
 date: 2009-07-29 23:53:00+10:00
 next:
   text: '"BAM into Moodle #8 - finishing the eStudyGuide building block"'
-  url: /blog2/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
+  url: /blog/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
 previous:
   text: The design and implementation of Webfuse - Part 2
-  url: /blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-2/
+  url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/
 title: The design and implementation of Webfuse - Part 3
 type: post
 template: blog-post.html
 ---
-The following is the last of, what is now, a three part series of blog posts outlining the design and implementation of the Webfuse system. These are part of chapter four of [my thesis](/blog2/research/phd-thesis/). The previous two parts are [here](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/) and [here](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-2/).
+The following is the last of, what is now, a three part series of blog posts outlining the design and implementation of the Webfuse system. These are part of chapter four of [my thesis](/blog/research/phd-thesis/). The previous two parts are [here](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/) and [here](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/).
 
-The structure of this section is based on the design guidelines developed for Webfuse and outlined in a section in [this post](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/). Each of the three posts outlining the design and implementation of Webfuse are using the design guidelines as the structure through which to explain the implementation of Webfuse. This post closes out the implementation by looking at the final two guidlines - be flexible and support diversity, and encourage adoption.
+The structure of this section is based on the design guidelines developed for Webfuse and outlined in a section in [this post](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/). Each of the three posts outlining the design and implementation of Webfuse are using the design guidelines as the structure through which to explain the implementation of Webfuse. This post closes out the implementation by looking at the final two guidlines - be flexible and support diversity, and encourage adoption.
 
 ### Webfuse will be flexible and support diversity
 

@@ -1,7 +1,6 @@
 
 site_name: "Some Assemblage Required"
-site_url: https://djon.es/blog2/
-#site_url: http://localhost:8000/blog2/
+site_url: https://djon.es/blog/
 repo_url: https://github.com/djplaner/blog
 site_author: "David Jones"
 site_dir: ../blog2 # stick HTML outside main repo

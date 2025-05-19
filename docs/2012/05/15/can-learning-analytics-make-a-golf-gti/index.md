@@ -4,10 +4,10 @@ categories:
 date: 2012-05-15 18:01:37+10:00
 next:
   text: '"A #pstn story, so far"'
-  url: /blog2/2012/05/17/a-pstn-story-so-far/
+  url: /blog/2012/05/17/a-pstn-story-so-far/
 previous:
   text: A CRM for the LMS?
-  url: /blog2/2012/05/05/a-crm-for-the-lms/
+  url: /blog/2012/05/05/a-crm-for-the-lms/
 title: Can learning analytics make a Golf GTI
 type: post
 template: blog-post.html
@@ -124,7 +124,7 @@ The Learning Management Systems used by most Universities remind me a great deal
 
 Some colleagues and I are currently throwing around an idea to use analytics to make the LMS (in our case Moodle) - or perhaps the broader institutional learning environment - more like a Golf GTI than a Magna.
 
-Perhaps the original or best known example of this is the [Signals work at Purdue University](http://www.itap.purdue.edu/learning/tools/signals/). In part, we'd be looking to replicate something like this, but this is only part of the story. We'd also be aiming to identify how a range of the other patterns that have been identified through analytics can be leveraged to modify the LMS to be a more pro-active member of the distributed cognitive system that is learning and teaching within a university (i.e. make the LMS [more like the Globe Theatre](/blog2/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/)). The theory being that if the quality of cognitive processes within the institutional learning systems is better, then the (student learning) outcomes should also be better.
+Perhaps the original or best known example of this is the [Signals work at Purdue University](http://www.itap.purdue.edu/learning/tools/signals/). In part, we'd be looking to replicate something like this, but this is only part of the story. We'd also be aiming to identify how a range of the other patterns that have been identified through analytics can be leveraged to modify the LMS to be a more pro-active member of the distributed cognitive system that is learning and teaching within a university (i.e. make the LMS [more like the Globe Theatre](/blog/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/)). The theory being that if the quality of cognitive processes within the institutional learning systems is better, then the (student learning) outcomes should also be better.
 
 This is one approach to responding to the learning analytics challenge identified by Dawson et al (2008, p. 222)
 

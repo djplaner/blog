@@ -4,10 +4,10 @@ categories:
 date: 2008-11-21 09:08:32+10:00
 next:
   text: Kant - separation of reason and experience
-  url: /blog2/2008/11/21/kant-separation-of-reason-and-experience/
+  url: /blog/2008/11/21/kant-separation-of-reason-and-experience/
 previous:
   text: More on the expert designer - efficiency and effectiveness
-  url: /blog2/2008/11/21/more-on-the-expert-designer-efficiency-and-effectiveness/
+  url: /blog/2008/11/21/more-on-the-expert-designer-efficiency-and-effectiveness/
 title: Starting a new journey and hobby - photography
 type: post
 template: blog-post.html

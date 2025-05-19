@@ -8,10 +8,10 @@ categories:
 date: 2009-01-21 09:16:34+10:00
 next:
   text: Open source learning management systems - the latest fad in e-learning
-  url: /blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/
+  url: /blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/
 previous:
   text: Is all diversity good/bad - a taxonomy of diversity in the IS discipline
-  url: /blog2/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
+  url: /blog/2009/01/18/is-all-diversity-goodbad-a-taxonomy-of-diversity-in-the-is-discipline/
 tags:
 - eportfolio-e-portfolio-psframework-elearning-e-learning
 title: Why am I a ePortfolio skeptic?
@@ -640,9 +640,9 @@ pingbacks:
 
 16 September, 2012 - for some reason today has seen a fair bit of interest in this post from over 3 years ago. I though I'd take the opportunity to move this particular argument up a level.
 
-Proposition: Attempts to improve or - heaven forbid - "innovate" university teaching and learning is largely driven by mindless innovation, fads and fashions. eportfolios was just one such fad. There have been and will be many more. Some of the more recent include: e-learning, the LMS, the enterprise LMS, the open source LMS (e.g. [an earlier post](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) where I proposed that the open source LMS was yet another fad), and more recently MOOCs.
+Proposition: Attempts to improve or - heaven forbid - "innovate" university teaching and learning is largely driven by mindless innovation, fads and fashions. eportfolios was just one such fad. There have been and will be many more. Some of the more recent include: e-learning, the LMS, the enterprise LMS, the open source LMS (e.g. [an earlier post](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) where I proposed that the open source LMS was yet another fad), and more recently MOOCs.
 
-[@downes seemed slightly annoyed](http://www.downes.ca/post/58911) when I wrote in this [earlier post](/blog2/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/)
+[@downes seemed slightly annoyed](http://www.downes.ca/post/58911) when I wrote in this [earlier post](/blog/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/)
 
 > MOOCs are the latest fad to hit higher education.
 
@@ -652,7 +652,7 @@ My argument is that rather than mindfully innovating - or simply improving - lea
 
 When I say I'm an eportfolio skeptic, I'm not necessarily denigrating eportfolios (or MOOCs or the LMS or any other fad, fashion or buzzword). I'm critiquing the institutional leadership and management that continues to be driven by these fads, fashions and buzzwords and is apparently unaware of the problems this entails.
 
-Both this original post and [this post "Justificatory knowledge"](/blog2/2010/09/17/justificatory-knowledge/) use Swanson and Ramiller (2004) on innovating mindfully with technology. The "justificatory" post includes the following summary.
+Both this original post and [this post "Justificatory knowledge"](/blog/2010/09/17/justificatory-knowledge/) use Swanson and Ramiller (2004) on innovating mindfully with technology. The "justificatory" post includes the following summary.
 
 > An organisation which is mindful in innovating with IT, uses reasoning grounded in its own organisational facts and specifics when thinking about the innovation, the organisation recognises that context matters (Swanson and Ramiller 2004). Within mindful innovation, management have a responsibility to foster conditions that prompt collective mindfulness (Swanson and Ramiller 2004).
 
@@ -676,9 +676,9 @@ I'm going to try and get this post published today to achieve something and also
 
 ### Yet another fad - ignorance of place, emphasis on product
 
-In an [earlier post](/blog2/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/) I started some of this complaint. In the session which that post reports on there were lots of gleams of interest from [CQUniversity](http://www.cqu.edu.au/) folk when e-portfolios and [elgg](http://elgg.org/) were mentioned. I could see people, who had little or no idea about what e-portfolios or elgg were, becoming interested in looking at them. At the time I said
+In an [earlier post](/blog/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/) I started some of this complaint. In the session which that post reports on there were lots of gleams of interest from [CQUniversity](http://www.cqu.edu.au/) folk when e-portfolios and [elgg](http://elgg.org/) were mentioned. I could see people, who had little or no idea about what e-portfolios or elgg were, becoming interested in looking at them. At the time I said
 
-> This is one example of how the “product” (in terms of the [Ps Framework](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/)) overwhelms consideration of “place”, of context. This is exactly how fads and fashions arise in educational technology and organisational/management practice in general.
+> This is one example of how the “product” (in terms of the [Ps Framework](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/)) overwhelms consideration of “place”, of context. This is exactly how fads and fashions arise in educational technology and organisational/management practice in general.
 
 Here's what Swanson and Ramiller (2004) said about fads and fashions.
 

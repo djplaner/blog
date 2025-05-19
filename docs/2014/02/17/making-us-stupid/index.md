@@ -4,10 +4,10 @@ categories:
 date: 2014-02-17 11:58:01+10:00
 next:
   text: '"Looking for a new "icebreaker" for #edc3100"'
-  url: /blog2/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/
+  url: /blog/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/
 previous:
   text: Needed updates to cc_attrib.pl
-  url: /blog2/2014/02/15/needed-updates-to-cc_attrib-pl/
+  url: /blog/2014/02/15/needed-updates-to-cc_attrib-pl/
 title: It's making us stupid
 type: post
 template: blog-post.html
@@ -61,7 +61,7 @@ The new process for **changing a student's result** is email based and requires 
 
 Then you have the problem that people have to get the right email address. For example, if you type in "David Jones" into an institutional email client, you won't get my email address. Instead, you'll get an old David Jones email address for some guy that worked at USQ ages ago and apparently doesn't read his email any more. At least that's my conclusion after a student's supplementary assessment piece was sent to his email address and nothing was done about it for a couple of months.
 
-But what's really gotten my goat is that I've now found a Peoplesoft implementation that was worse than my prior institutions. Peoplesoft gives each term/semester a four digit code. As explained in [an earlier paper](/blog2/publications/how-to-live-with-erp-systems-and-thrive/#strm) the prior institution's four digit code was calculated as CYYT where C = century, YY = year and T = T. So, semester 2, 2013 would be 2132.
+But what's really gotten my goat is that I've now found a Peoplesoft implementation that was worse than my prior institutions. Peoplesoft gives each term/semester a four digit code. As explained in [an earlier paper](/blog/publications/how-to-live-with-erp-systems-and-thrive/#strm) the prior institution's four digit code was calculated as CYYT where C = century, YY = year and T = T. So, semester 2, 2013 would be 2132.
 
 The four digit code for semester 2, 2013 at my current institution is 2420.
 

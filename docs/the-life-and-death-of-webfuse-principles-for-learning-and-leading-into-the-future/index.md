@@ -97,7 +97,7 @@ David Jones (University of Southern Queensland)
 
 Paper presented at [ASCILITE'2012](http://www.ascilite2012.org/)
 
-Other resources available include the [proceedings version of the paper](http://www.ascilite2012.org/images/custom/jones,_david_-_the_life_and_death_of_webfuse.pdf) and the [presentation page](/blog2/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/) that includes copies of the presentation slides.
+Other resources available include the [proceedings version of the paper](http://www.ascilite2012.org/images/custom/jones,_david_-_the_life_and_death_of_webfuse.pdf) and the [presentation page](/blog/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/) that includes copies of the presentation slides.
 
 ### Abstract
 

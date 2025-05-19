@@ -4,10 +4,10 @@ categories:
 date: 2014-01-22 15:46:34+10:00
 next:
   text: '"#moodle Activity Viewer (MAV) and the promise for bricolage"'
-  url: /blog2/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/
+  url: /blog/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/
 previous:
   text: 'A #moodle course site wide &quot;macro&quot; facility?'
-  url: /blog2/2014/01/22/a-moodle-course-site-wide-macro-facility/
+  url: /blog/2014/01/22/a-moodle-course-site-wide-macro-facility/
 title: What should be covered in EDC3100?
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the next step in thinking about the course I teach. The rough process and background is available [in the first post](/blog2/2014/01/13/evaluating-edc3100-in-2013-step-1/). The first post and [the most recent](/blog2/2014/01/15/analysing-some-course-evaluation-comments/) in this series considered student feedback. This post moves onto to thinking about the course itself, what it covers, and whether that's any good.
+The following is the next step in thinking about the course I teach. The rough process and background is available [in the first post](/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/). The first post and [the most recent](/blog/2014/01/15/analysing-some-course-evaluation-comments/) in this series considered student feedback. This post moves onto to thinking about the course itself, what it covers, and whether that's any good.
 
 In the end this post is perhaps more of a description of the current state of play, some newish requirements and some ad hoc observations. More thinking required.
 

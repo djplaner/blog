@@ -5,11 +5,11 @@ categories:
 date: 2009-03-27 13:23:41+10:00
 next:
   text: Prescription, adaptation and failure around improving univeristy teaching
-  url: /blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
+  url: /blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/
 previous:
   text: '&quot;One ring to rule them all&quot;: Limitations and implications of the
     LMS/VLE product model'
-  url: /blog2/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
+  url: /blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/
 title: '"PhD Update #5 - a new low"'
 type: post
 template: blog-post.html
@@ -49,17 +49,17 @@ Last week I wanted to try and
 
 In terms of PhD related blog posts, this week has produced:
 
-- [one ring to rule them all](/blog2/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/);  
+- [one ring to rule them all](/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/);  
     Fairly good start on one section of the "Product" part of chapter 2, some good references and points starting to be developed. (at least I'm happy with them).
-- [Myth of rationality](/blog2/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/);  
+- [Myth of rationality](/blog/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/);  
     Some good components of what will go into the "Process" part of the Ps Framework. Including some literature to suggest that the supposedly rational process is far from it.
-- [Poor crafstman](/blog2/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/);  
+- [Poor crafstman](/blog/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/);  
     More related to "Past experience" and "People" to do with the technology not improving L&T.
-- [Making the LMS mythic](/blog2/2009/03/23/making-the-lmsvle-mythic/);  
+- [Making the LMS mythic](/blog/2009/03/23/making-the-lmsvle-mythic/);  
     More criticisms of the LMS approach to e-learning, drawing on some literature and Postman's ideas about 5 things to know about technological change.
-- [Postman's 5 things about technology change](/blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/); and  
+- [Postman's 5 things about technology change](/blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/); and  
     Came across a speech by Postman in which he outlines 5 things to know about technology change. Definite resonances/application in the Ps Framework.
-- [Cognition - we're not rational](/blog2/2009/03/20/cognition-were-not-rational-and-how-it-impacts-e-learning/).  
+- [Cognition - we're not rational](/blog/2009/03/20/cognition-were-not-rational-and-how-it-impacts-e-learning/).  
     Early steps, sparked by another post, on developing some ideas for the "People" component of the Ps Framework.
 
 ### What to do next week?

@@ -6,18 +6,18 @@ coverImage: trough.jpg
 date: 2020-06-02 09:50:33+10:00
 next:
   text: Designing a personal "memex" with Foam
-  url: /blog2/2020/07/06/designing-a-personal-memex-with-foam/
+  url: /blog/2020/07/06/designing-a-personal-memex-with-foam/
 previous:
   text: What are the impediments to quality teaching and what can be done to remove
     them?
-  url: /blog2/2020/05/30/what-are-the-impediments-to-quality-teaching-and-what-can-be-done-to-remove-them/
+  url: /blog/2020/05/30/what-are-the-impediments-to-quality-teaching-and-what-can-be-done-to-remove-them/
 title: Understanding (digital) education through workarounds and quality indicators
 type: post
 template: blog-post.html
 ---
 COVID-19 and the subsequent #pivotonline has higher education paying a lot more attention to the use of digital and online technology for learning and teaching (digital education). COVID-19 has made digital education necessary. COVID-19 has made any form of education – and just about anything else – more difficult. For everyone. COVID-19 and it’s impact is rewriting what higher education will be after. COVID-19 is raising hopes and fears that what will come after will be (positively?) transformative. Not beholden to previous conceptions and corporate mores.
 
-Most of that’s beyond me. Too big to consider. Too far beyond my control and my personal limitations. Hence I’ll retreat to my limited experience, practices, and conceptions. Exploring those more familiar and possibly understandable landscapes in order to reveal something that might be useful for the brave new post-COVID-19 world of university digital education. A world that I’m not confident has any hope of being positively transformed. Regardless of what the experts, prognosticators, futurists and vendors are selling. But I’m well-known for [being a pessimist](/blog2/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/).
+Most of that’s beyond me. Too big to consider. Too far beyond my control and my personal limitations. Hence I’ll retreat to my limited experience, practices, and conceptions. Exploring those more familiar and possibly understandable landscapes in order to reveal something that might be useful for the brave new post-COVID-19 world of university digital education. A world that I’m not confident has any hope of being positively transformed. Regardless of what the experts, prognosticators, futurists and vendors are selling. But I’m well-known for [being a pessimist](/blog/2014/08/28/on-trying-to-be-optimistic-in-a-stupid-world/).
 
 Echoing Phipps and Lanclos (2019) I believe that making changes in digital education needs to be grounded in “an understanding of the practices that staff undertake and the challenges they face” (p. 68). Some colleagues and I have started identifying our practices and challenges by documenting the workarounds we’ve used and developed. Alter (2014) defines workarounds as
 
@@ -77,15 +77,15 @@ Is this a workaround? It’s so specific to a particular course and a particular
 
 **Open Learning Computing Platform**
 
-Better example from the same course went by the acryonym [OLCP (open learning computing platform)](/blog2/publications/a-work-station-in-every-home/) (Jones, 1994). The recommended computer systems almost all distance education students were using (Windows 3.1/95) was not up to the requirements of the course (Systems Administration). To workaround this limitation we distributed a version of Linux (Jones, 1996a), eventually relying on commercial distributions. Without Linux the course couldn’t be taught.
+Better example from the same course went by the acryonym [OLCP (open learning computing platform)](/blog/publications/a-work-station-in-every-home/) (Jones, 1994). The recommended computer systems almost all distance education students were using (Windows 3.1/95) was not up to the requirements of the course (Systems Administration). To workaround this limitation we distributed a version of Linux (Jones, 1996a), eventually relying on commercial distributions. Without Linux the course couldn’t be taught.
 
 **Personal Blogs, not ePortfolios**
 
-Arguably, my predilection for requiring students to use their choice of public blogging engines, rather than institutional ePotfolio tools was also driven by a desire for authenticity. Not to mention my skepticism about the value of [institutional ePortfolio systems](http://djon.es/blog/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/) (which got me in trouble one time). Initially, individual student blogs were an extension of journaling (introduced in Sys Admin) and an encouragement to engage in open reflection and discussion. Intended to mirror good practice for IT professionals and first used in a Web Engineering course in 2002. Later evolving into the [BAM and BIM tools](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) to encourage reflection for assessment purposes and to encourage the development of a professional learning network.
+Arguably, my predilection for requiring students to use their choice of public blogging engines, rather than institutional ePotfolio tools was also driven by a desire for authenticity. Not to mention my skepticism about the value of [institutional ePortfolio systems](http://djon.es/blog/2014/02/27/a-story-about-the-failure-of-institutional-eportfolios/) (which got me in trouble one time). Initially, individual student blogs were an extension of journaling (introduced in Sys Admin) and an encouragement to engage in open reflection and discussion. Intended to mirror good practice for IT professionals and first used in a Web Engineering course in 2002. Later evolving into the [BAM and BIM tools](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) to encourage reflection for assessment purposes and to encourage the development of a professional learning network.
 
 **Alignment and curriculum mapping**
 
-In terms of alignment of assessments and learning activities I’ve used and more often seen people use [bespoke Word documents](/blog2/2012/07/20/starting-the-re-design-of-edc3100/) and spreadsheets to engage in mapping of courses and programs. Mainly because institutions did not have any practice of encouraging such practices, let alone systems to do it (e.g. [this from 2009](/blog2/2009/12/21/supporting-curriculum-mapping/)). There’s been a lot more attention paid and importance placed on mapping, but generally it remains an area of bespoke documents and spreadsheets. Perceived shortfalls that led to some [design work on alternatives](http://djon.es/blog/research/curriculum-mapping/).
+In terms of alignment of assessments and learning activities I’ve used and more often seen people use [bespoke Word documents](/blog/2012/07/20/starting-the-re-design-of-edc3100/) and spreadsheets to engage in mapping of courses and programs. Mainly because institutions did not have any practice of encouraging such practices, let alone systems to do it (e.g. [this from 2009](/blog/2009/12/21/supporting-curriculum-mapping/)). There’s been a lot more attention paid and importance placed on mapping, but generally it remains an area of bespoke documents and spreadsheets. Perceived shortfalls that led to some [design work on alternatives](http://djon.es/blog/research/curriculum-mapping/).
 
 ### Organisation
 
@@ -109,23 +109,23 @@ Since the in-built Moodle reports aren’t that good and because I really wanted
 
 **Evernote to search a course site?**
 
-On of the on-going challenges with using Moodle was the [absence of a search engine](/blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/), a fairly widespread and important part of navigating any website. I did [consider a number of different options](/blog2/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/) and ended up trying out a kludge with Evernote. But only for one offering.
+On of the on-going challenges with using Moodle was the [absence of a search engine](/blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/), a fairly widespread and important part of navigating any website. I did [consider a number of different options](/blog/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/) and ended up trying out a kludge with Evernote. But only for one offering.
 
-[Modifying the Moodle search book block](/blog2/2016/05/10/testing-out-the-moodle-book-search/)
+[Modifying the Moodle search book block](/blog/2016/05/10/testing-out-the-moodle-book-search/)
 
 **Hosting course content on a Wordpress blog**
 
-In 2012 I took over a Masters course titled Network and Global Learning. Given the focus of the course, hosting the learning environment in a closed LMS site didn’t seem appropriate. Instead, I decided to [try it as an open course](/blog2/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/). It ended up as [a Wordpress site](https://netgl.wordpress.com/) and has since been taken over by another academic...at least for one offering. Looks like it probably ended up back in the LMS.
+In 2012 I took over a Masters course titled Network and Global Learning. Given the focus of the course, hosting the learning environment in a closed LMS site didn’t seem appropriate. Instead, I decided to [try it as an open course](/blog/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/). It ended up as [a Wordpress site](https://netgl.wordpress.com/) and has since been taken over by another academic...at least for one offering. Looks like it probably ended up back in the LMS.
 
 **Diigo for course revision**
 
-Given NGL was hosted on a course blog, this raised questions about how to take notes about what wasn’t working and ponder options for re-design. In Word, this could be done with the comments feature. For the Web [I used Diigo](/blog2/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/) to produce annotations like the following.
+Given NGL was hosted on a course blog, this raised questions about how to take notes about what wasn’t working and ponder options for re-design. In Word, this could be done with the comments feature. For the Web [I used Diigo](/blog/2015/07/15/revising-week-1-of-edu8117-networked-and-global-learning/) to produce annotations like the following.
 
 ![](images/diigo.png)
 
 **Card Interface**
 
-Late 2018 saw me stepping backwards to Blackboard 9.1. A very flexible system for structuring a site, but incredibly hard to make look good without a lot of knowledge. How to enable lots of people organise their course sites effectively? Enter [the Card Interface](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/). Easily convert a standard Blackboard content page into a contemporary, visual user interface.
+Late 2018 saw me stepping backwards to Blackboard 9.1. A very flexible system for structuring a site, but incredibly hard to make look good without a lot of knowledge. How to enable lots of people organise their course sites effectively? Enter [the Card Interface](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/). Easily convert a standard Blackboard content page into a contemporary, visual user interface.
 
 |   ![](images/blackboard.png)   |   ![](images/cards.png)   |
 | --- | --- |
@@ -136,9 +136,9 @@ Late 2018 saw me stepping backwards to Blackboard 9.1. A very flexible system fo
 
 Over a number of years of iterative design improvements I’d gotten to the stage of having quite a detailed Assessment section on my course site. Echoing much of the online course quality indicators say about support: description of grading and assessment plan; clear instructions and directions;…. This required some extra lifting on my part to add to the base LMS functionality.
 
-Eventually, the institution figured out that the difficulty of this needed to be reduced and instroduced a [new standard course design](/blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/). The problem was that the new institution standard provided less support than I was already providing. Not just assessment, but other areas as well.
+Eventually, the institution figured out that the difficulty of this needed to be reduced and instroduced a [new standard course design](/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/). The problem was that the new institution standard provided less support than I was already providing. Not just assessment, but other areas as well.
 
-My solution was to [use jQuery](/blog2/2015/01/21/learning-to-live-with-a-standard-look-and-feel/) to modify the default course site so that it would point to my resources, not the limited standard.
+My solution was to [use jQuery](/blog/2015/01/21/learning-to-live-with-a-standard-look-and-feel/) to modify the default course site so that it would point to my resources, not the limited standard.
 
 ### Clarity
 
@@ -146,39 +146,39 @@ I’m assuming that there is meant to be some overlap between support and clarit
 
 **Course macro system**
 
-A key part of clarity is knowing when something is meant to happen. When an assignment is due. When semester starts etc. Some of the events the occur in a course design occur in every offering of the course. The main difference is that the specific dates change. The simplest solution is to [use week numbers](/blog2/2015/06/26/and-the-little-one-said-roll-over-roll-over/). A practice commonly used from the days of distance education until now. The problem is that this approach sacrifices a little bit of clarity.
+A key part of clarity is knowing when something is meant to happen. When an assignment is due. When semester starts etc. Some of the events the occur in a course design occur in every offering of the course. The main difference is that the specific dates change. The simplest solution is to [use week numbers](/blog/2015/06/26/and-the-little-one-said-roll-over-roll-over/). A practice commonly used from the days of distance education until now. The problem is that this approach sacrifices a little bit of clarity.
 
-My solution was a [“course macro” system](/blog2/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/). Rather than put _Week 5_ as the due date, I would put _{A1\_DUE\_DATE}_. The braces indicating that this was a variable. Before anyone see the variable, the macro system would replace the variable with the correct value. The macro system knows what course you’re looking at and know the right value to show you.
+My solution was a [“course macro” system](/blog/2015/02/03/concrete-lounge-1-helping-learners-find-correct-up-to-date-course-information/). Rather than put _Week 5_ as the due date, I would put _{A1\_DUE\_DATE}_. The braces indicating that this was a variable. Before anyone see the variable, the macro system would replace the variable with the correct value. The macro system knows what course you’re looking at and know the right value to show you.
 
 It wasn’t just for dates. The macro system was useful for any information that would be repeated in multiple places, but which could vary over time. Using the macro system meant I could easily change all usage of the information, without having to remembering where it was used.
 
 **Auto-marking contributions and activity**
 
-Since what the student does I decided – for better or worse – to target extrinsic motivation and give a small percentage of a course assessment based on whether or not course activities were completed, including the quantity and characteristics of the posts students made to their individual blog. The calculation of this mark was [done by Perl scripts](/blog2/2013/06/10/the-kludge-for-marking-learning-journals/) that I wrote. Students were notified of their progress via emails also sent by Perl scripts.
+Since what the student does I decided – for better or worse – to target extrinsic motivation and give a small percentage of a course assessment based on whether or not course activities were completed, including the quantity and characteristics of the posts students made to their individual blog. The calculation of this mark was [done by Perl scripts](/blog/2013/06/10/the-kludge-for-marking-learning-journals/) that I wrote. Students were notified of their progress via emails also sent by Perl scripts.
 
 **Student Evaluation of Course Leaderboard**
 
-For better or worse, response rates on institutional end of term student evaluation surveys was deemed important. Response rates were also low across the board. One solution I [developed](/blog2/creating-a-set-leaderboard/) and which was then adopted by others was the [development of an “evaluation leaderboard”](/blog2/2017/06/17/nudging-up-myopinion-response-rates-using-a-gamified-leaderboard/). While the surveys were available a table was added to the top of the course site. That table listed each student cohort and show the number and percentage of that cohort who had responded. The table along with appropriate prompting from teaching staff increased response rates by 12 to 15%. There’s even [a poster](http://djon.es/Leaderboard/June2017Poster.pdf) about the idea.
+For better or worse, response rates on institutional end of term student evaluation surveys was deemed important. Response rates were also low across the board. One solution I [developed](/blog/creating-a-set-leaderboard/) and which was then adopted by others was the [development of an “evaluation leaderboard”](/blog/2017/06/17/nudging-up-myopinion-response-rates-using-a-gamified-leaderboard/). While the surveys were available a table was added to the top of the course site. That table listed each student cohort and show the number and percentage of that cohort who had responded. The table along with appropriate prompting from teaching staff increased response rates by 12 to 15%. There’s even [a poster](http://djon.es/Leaderboard/June2017Poster.pdf) about the idea.
 
 ### Instructor – interaction
 
 **Course barometers**
 
-My teaching journey has always involved distance education. First print-based and then online. One of the biggest problems I ever had with distance education – especially print-based - was the loss of informal student feedback ([Jones, 2002](/blog2/student-feedback-anonymity-observable-change-and-course-barometers/)). Then I stumbled across the idea of a course barometer (Svensson et al., 1999). I implemented the functionality in an LMS I was writing and used it in [my courses](https://web.archive.org/web/20040423113723/http://www.infocom.cqu.edu.au/Courses/aut2001/85321/Resources/Course_Barometer/). Initially, other staff could add a barometer to their course. Eventually and for a couple of years, a course barometer became a standard part of all courses. Moving onto Moodle I wanted the same functionality, and kludged something using [the Moodle Feedback module](/blog2/2012/03/05/implementing-a-course-barometer-in-moodle-a-kludge/).
+My teaching journey has always involved distance education. First print-based and then online. One of the biggest problems I ever had with distance education – especially print-based - was the loss of informal student feedback ([Jones, 2002](/blog/student-feedback-anonymity-observable-change-and-course-barometers/)). Then I stumbled across the idea of a course barometer (Svensson et al., 1999). I implemented the functionality in an LMS I was writing and used it in [my courses](https://web.archive.org/web/20040423113723/http://www.infocom.cqu.edu.au/Courses/aut2001/85321/Resources/Course_Barometer/). Initially, other staff could add a barometer to their course. Eventually and for a couple of years, a course barometer became a standard part of all courses. Moving onto Moodle I wanted the same functionality, and kludged something using [the Moodle Feedback module](/blog/2012/03/05/implementing-a-course-barometer-in-moodle-a-kludge/).
 
 **Minute Papers via BAM and Google Forms**
 
-In on-campus teaching I had used [minute papers](https://oncourseworkshop.com/self-awareness/one-minute-paper/) as another method to gain insight into student progress. For distance education students, minute papers were implemented as part of the use of individual student blogs and [the BAM tool](http://djon.es/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) (Jones & Luck, 2009). I’ve also used Google forms to [implement the IMPACT procedure](/blog2/2013/03/04/how-are-they-going/). An extended version of the minute paper. Student feedback was then run through Tagxedo
+In on-campus teaching I had used [minute papers](https://oncourseworkshop.com/self-awareness/one-minute-paper/) as another method to gain insight into student progress. For distance education students, minute papers were implemented as part of the use of individual student blogs and [the BAM tool](http://djon.es/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) (Jones & Luck, 2009). I’ve also used Google forms to [implement the IMPACT procedure](/blog/2013/03/04/how-are-they-going/). An extended version of the minute paper. Student feedback was then run through Tagxedo
 
 ![](images/cloud.png)
 
 **Use my blog to publicly reflect on my teaching**
 
-That word cloud image above was a course taken by pre-service teachers titled ICT and pedagogy. A key message of that course was that reflection is important for learning, that good teaching relies on learning, and that reflection can help teachers. Hence students in this course were encouraged to use their individual blogs to reflect and I modelled this reflection by using my blog to reflect on what was happening in this course. An example of that is the blog post sharing the tag clouds. A blog post that had a couple of [comments from students](/blog2/2013/03/04/how-are-they-going/).
+That word cloud image above was a course taken by pre-service teachers titled ICT and pedagogy. A key message of that course was that reflection is important for learning, that good teaching relies on learning, and that reflection can help teachers. Hence students in this course were encouraged to use their individual blogs to reflect and I modelled this reflection by using my blog to reflect on what was happening in this course. An example of that is the blog post sharing the tag clouds. A blog post that had a couple of [comments from students](/blog/2013/03/04/how-are-they-going/).
 
 **Staff MyCQU**
 
-A key enabler of effective instructor/learner interaction is the amount of knowledge the instructor has about the student and how effectively they use that knowledge to guide interaction. I’ve never experienced a University who has solved the challenge of getting. [Staff MyInfocom/MyCQU](/blog2/2010/06/13/workarounds/) was a simple web portal that showed the courses someone was teaching and provided various lists of student details. Ended up being used by the entire University.
+A key enabler of effective instructor/learner interaction is the amount of knowledge the instructor has about the student and how effectively they use that knowledge to guide interaction. I’ve never experienced a University who has solved the challenge of getting. [Staff MyInfocom/MyCQU](/blog/2010/06/13/workarounds/) was a simple web portal that showed the courses someone was teaching and provided various lists of student details. Ended up being used by the entire University.
 
 **Know thy student**
 
@@ -190,13 +190,13 @@ Trends in funding for Australian higher education are starting to focus attentio
 
 **Finding a time to reschedule a face-to-face session**
 
-Unforeseen circumstances meant that a teacher couldn’t make a timetabled session. Needed to identify the impacted students, contact them to find the best alternate time and book it. The process I used to do this [was documented](/blog2/2015/02/19/organising-a-change-in-session-time/) and ended up relying on copy and pasting from a Moodle site, some manual editing, email, and setting up a Moodle quiz to ask for times.
+Unforeseen circumstances meant that a teacher couldn’t make a timetabled session. Needed to identify the impacted students, contact them to find the best alternate time and book it. The process I used to do this [was documented](/blog/2015/02/19/organising-a-change-in-session-time/) and ended up relying on copy and pasting from a Moodle site, some manual editing, email, and setting up a Moodle quiz to ask for times.
 
 ### Peer – interaction
 
 **Blogs, learning journals and BIM**
 
-To encourage reflection and peer interaction students [were encouraged to](/blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/): maintain a personal blog; regularly post to the blog; and, actively follow and comment on blog posts from other students. Supporting this learning design led to numerous work arounds
+To encourage reflection and peer interaction students [were encouraged to](/blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/): maintain a personal blog; regularly post to the blog; and, actively follow and comment on blog posts from other students. Supporting this learning design led to numerous work arounds
 
 Writing (and updating) the BIM Moodle plugin and arguing its inclusion in the institutional Moodle instance.
 
@@ -206,15 +206,15 @@ Manually [producing OPML files](http://djon.es/blog/2016/03/06/producing-opml-fi
 
 Writing Perl scripts to perform sentiment analysis on student blog posts and integrating that analysis into the _Know thy student_ tool.
 
-Write Perl scripts to [automatically mark student blog activity](/blog2/2013/06/10/the-kludge-for-marking-learning-journals/) against defined criteria; and, email students their progress (as mentioned earlier).
+Write Perl scripts to [automatically mark student blog activity](/blog/2013/06/10/the-kludge-for-marking-learning-journals/) against defined criteria; and, email students their progress (as mentioned earlier).
 
 **Integrating Webfuse discussions forums into Blackboard groups**
 
-The Blackboard LMS was unable to correctly support a [specific group-based learning design](/blog2/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/). To implement it we needed to [integrate discussion forums](/blog2/2010/06/13/workarounds/) from Webfuse (my LMS) into Blackboard. That course and learning design won a national teaching citation.
+The Blackboard LMS was unable to correctly support a [specific group-based learning design](/blog/2008/11/19/the-model-underpinning-blackboard-and-how-acct19064-uses-it/). To implement it we needed to [integrate discussion forums](/blog/2010/06/13/workarounds/) from Webfuse (my LMS) into Blackboard. That course and learning design won a national teaching citation.
 
 **Google doc to share course problems and solutions**
 
-With 100s of students taking a course focused on exploring the use of different digital technologies for teaching there were always going to be challenges. With 100s of students many would discover new and intersting problems and solutions. We wanted them to [share their experience](/blog2/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/).
+With 100s of students taking a course focused on exploring the use of different digital technologies for teaching there were always going to be challenges. With 100s of students many would discover new and intersting problems and solutions. We wanted them to [share their experience](/blog/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/).
 
 We did this via a Google doc. Students were encouraged to add any problems they were having with the course and to also add suggested solutions.
 
@@ -226,7 +226,7 @@ Social bookmarking allows a group of people to share and annotate the good stuff
 
 **Shared attentions**
 
-But it wasn’t just sharing links. Diigo allowed shared annotations and for some readings, students were encouraged to [make annotations](/blog2/2014/08/15/joining-the-swarm-what-a-course-might-be/). With the standard practice of starting with a new course site each offering, the opinions and discussions shared via these means would normally be lost. Using Diigo meant they were still visible. Providing what Riel and Polin (2004) describe as the “residue of experience” (p. 18) that in good online learning communities “remains available to newcomers in the tools, tales, talk, and traditions of the group” (p. 18). The residue of experience provides a richer learning environment.
+But it wasn’t just sharing links. Diigo allowed shared annotations and for some readings, students were encouraged to [make annotations](/blog/2014/08/15/joining-the-swarm-what-a-course-might-be/). With the standard practice of starting with a new course site each offering, the opinions and discussions shared via these means would normally be lost. Using Diigo meant they were still visible. Providing what Riel and Polin (2004) describe as the “residue of experience” (p. 18) that in good online learning communities “remains available to newcomers in the tools, tales, talk, and traditions of the group” (p. 18). The residue of experience provides a richer learning environment.
 
 **Use Diigo as method to collaboratively create a podcast**
 
@@ -244,19 +244,19 @@ One of the advantages (and disadvantages) of courses with large distance educati
 
 **Camera ready distance education study guides**
 
-Back in the early to mid 90s I taught dual mode courses taken by both on-campus and distance education students. In this pre-Online world distance education students received print-based study guides. Study guides produced by an industrial strength pipeline of copy editors and desk top publishers. At this stage Wordstar on MS-DOS was the high point of available text editors. The industrial strength pipeline was needed. The standardisation of these study guides couldn’t handle the unique [requirements of Prolog](/blog2/publications/computing-by-distance-education-problems-and-solutions/) and required long lead times (Jones, 1996). First response to this harnessed the rise of Word to starting producing camera ready PDF documents. Bypassing the industrial pipeline.
+Back in the early to mid 90s I taught dual mode courses taken by both on-campus and distance education students. In this pre-Online world distance education students received print-based study guides. Study guides produced by an industrial strength pipeline of copy editors and desk top publishers. At this stage Wordstar on MS-DOS was the high point of available text editors. The industrial strength pipeline was needed. The standardisation of these study guides couldn’t handle the unique [requirements of Prolog](/blog/publications/computing-by-distance-education-problems-and-solutions/) and required long lead times (Jones, 1996). First response to this harnessed the rise of Word to starting producing camera ready PDF documents. Bypassing the industrial pipeline.
 
 **Online textbook**
 
-That evolved into a method for producing [a hypermedia textbook](/blog2/publications/solving-some-problems-of-university-education-a-case-study/) (Jones, 1996b) that you can still [peruse today](https://web.archive.org/web/19970809020334/http://mc.cqu.edu.au/subjects/85321/study-guide/chap4/sec1p2.html), including [the online index](https://web.archive.org/web/19970809015030/http://mc.cqu.edu.au/subjects/85321/study-guide/index/index.html) (Thanks to the Internet Archive’s WayBack Machine).
+That evolved into a method for producing [a hypermedia textbook](/blog/publications/solving-some-problems-of-university-education-a-case-study/) (Jones, 1996b) that you can still [peruse today](https://web.archive.org/web/19970809020334/http://mc.cqu.edu.au/subjects/85321/study-guide/chap4/sec1p2.html), including [the online index](https://web.archive.org/web/19970809015030/http://mc.cqu.edu.au/subjects/85321/study-guide/index/index.html) (Thanks to the Internet Archive’s WayBack Machine).
 
 **Authoring Moodle Book from HTML**
 
-Almost 20 years later and I was using the Moodle Book plugin to produce online content. Authoring for the Moodle Book wasn’t that great. [An alternative](/blog2/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) was needed that fit my practices. Resulting process allowed me to create content in a HTML file. That was run through a script to produce something that could be imported into the Moodle Book.
+Almost 20 years later and I was using the Moodle Book plugin to produce online content. Authoring for the Moodle Book wasn’t that great. [An alternative](/blog/2015/02/08/kludging-an-authoring-process-with-moodle-books-etc/) was needed that fit my practices. Resulting process allowed me to create content in a HTML file. That was run through a script to produce something that could be imported into the Moodle Book.
 
 **Integrating the Moodle book with github**
 
-20 years later I started work on [the Moodle “open” book project](/blog2/the-moodle-open-book-module-project/). An attempt to modify the Moodle Book plugin to integrate it with github. Initial development completed, but never used in anger. Beyond the open-washing the main aim of this project was to make it easier to create and maintain online resources.
+20 years later I started work on [the Moodle “open” book project](/blog/the-moodle-open-book-module-project/). An attempt to modify the Moodle Book plugin to integrate it with github. Initial development completed, but never used in anger. Beyond the open-washing the main aim of this project was to make it easier to create and maintain online resources.
 
 **Content Interface**
 
@@ -266,7 +266,7 @@ Fast forward a few years to another institution and another LMS and [the Content
 
 Back in the 90s I used to teach information technology students about the internal data structures and algorithms used in operating systems. This involved pretty complex, abstract, dynamic concepts. Visualisation of these concepts was hard.
 
-Working with (really relying upon) a couple of project students we developed a sequence of [Flash-based (it was the 90s) animations](/blog2/2008/12/30/operating-systems-animations-and-other-resources/). Animations that were used in the course long after I moved on and were also used across the world.
+Working with (really relying upon) a couple of project students we developed a sequence of [Flash-based (it was the 90s) animations](/blog/2008/12/30/operating-systems-animations-and-other-resources/). Animations that were used in the course long after I moved on and were also used across the world.
 
 **Animated, simulated operating systems of learning dynamic, abstract concepts**
 
@@ -284,7 +284,7 @@ Echoing an approach I’d used earlier.
 
 **Slide casts for faculty professional development on Slideshare**
 
-Almost 10 years later we wanted to produce slidecasts for professional development sessions. By 2007/2008 PowerPoint provided the ability to record narration but didn’t provide a decent method to disseminate the slides/audio on the web. To [work around this](/blog2/2008/08/07/creating-slidecasts-on-slideshare-e-learning-support/) some shell scripts we used to transform and concatenate the PowerPoint audio files to produce a format that could be linked with the PowerPoint slides on Slideshare.
+Almost 10 years later we wanted to produce slidecasts for professional development sessions. By 2007/2008 PowerPoint provided the ability to record narration but didn’t provide a decent method to disseminate the slides/audio on the web. To [work around this](/blog/2008/08/07/creating-slidecasts-on-slideshare-e-learning-support/) some shell scripts we used to transform and concatenate the PowerPoint audio files to produce a format that could be linked with the PowerPoint slides on Slideshare.
 
 I’m pretty sure that Slideshare doesn’t support this functionality anymore.
 
@@ -292,7 +292,7 @@ I’m pretty sure that Slideshare doesn’t support this functionality anymore.
 
 **User authentication and access control**
 
-In the mid-1990s I was developing a web information system used by multiple students and staff. We need to implement a form of user authentication and access control. Intially we didn’t have access to the institutional authentication systems. This was well before the days of “single-sign on” (has any organisation ever really had single sign on?). Subsequently, the institutional authentication system didn’t support the types of groups and operations we needed to support. This page provides some description of evolution of our [user auth/access control workaround](/blog2/2010/06/13/workarounds/).
+In the mid-1990s I was developing a web information system used by multiple students and staff. We need to implement a form of user authentication and access control. Intially we didn’t have access to the institutional authentication systems. This was well before the days of “single-sign on” (has any organisation ever really had single sign on?). Subsequently, the institutional authentication system didn’t support the types of groups and operations we needed to support. This page provides some description of evolution of our [user auth/access control workaround](/blog/2010/06/13/workarounds/).
 
 **Visualising student locations**
 
@@ -300,15 +300,15 @@ Most of my teaching has occurred at institutions with large numbers of distance 
 
 **Numerous adminstrative applications**
 
-Webuse provided [numerous different administrative applications](/blog2/2010/06/13/workarounds/). A personalised timetable generator for teachers and students. More teacher administration centric examples were an academic misconduct database, assignment extensions system, academic staff allocations, and informal review of grade systems.
+Webuse provided [numerous different administrative applications](/blog/2010/06/13/workarounds/). A personalised timetable generator for teachers and students. More teacher administration centric examples were an academic misconduct database, assignment extensions system, academic staff allocations, and informal review of grade systems.
 
 **Graduation checker**
 
-I’m currently working on a [graduation checker application](/blog2/2020/05/20/playing-with-react-js-as-a-technology-for-casa/) of a degree with a complex structure. A complexity that can make it difficult for some students to visualise what they need to do (and when) to graduate.
+I’m currently working on a [graduation checker application](/blog/2020/05/20/playing-with-react-js-as-a-technology-for-casa/) of a degree with a complex structure. A complexity that can make it difficult for some students to visualise what they need to do (and when) to graduate.
 
 **Analysing results of student evaluations of learning and teaching**
 
-Almost every university has a standard teaching/course evluation process that happens each time a course is offered. The purpose of which would be for teaching staff to reflect on the feedback provided and take action. But typically the evaluation systems [don’t enable this](/blog2/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/). Particularly doing analysis of free text feedback. I’ve manually extracted that [information and used NVIVO](/blog2/2014/01/15/analysing-some-course-evaluation-comments/) for the analysis. Then I wrote a GreaseMonkey script that would [automate the extraction](/blog2/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/) of all the data into a spreadsheet for further anaysis. A tool that was eventually used to support others, particularly those applying for teaching awards.
+Almost every university has a standard teaching/course evluation process that happens each time a course is offered. The purpose of which would be for teaching staff to reflect on the feedback provided and take action. But typically the evaluation systems [don’t enable this](/blog/2014/01/10/missing-affordances-a-partial-explanation-for-the-quality-of-university-lt/). Particularly doing analysis of free text feedback. I’ve manually extracted that [information and used NVIVO](/blog/2014/01/15/analysing-some-course-evaluation-comments/) for the analysis. Then I wrote a GreaseMonkey script that would [automate the extraction](/blog/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/) of all the data into a spreadsheet for further anaysis. A tool that was eventually used to support others, particularly those applying for teaching awards.
 
 **Filtering LMS email “spam”**
 
@@ -318,13 +318,13 @@ The solution was to employ email filter rules to throw away all but the relevant
 
 **Kludges to make final results processing better**
 
-At the end of a course, most University academics have to distill student outcomes into a mark and a grade and upload that distallation into an enterprise system. There is typically a huge gulf between what the teacher’s distallation naturally produces and what the enterprise system expects to see. That gulf typically means a lot of manual work (and checking) by the teaching staff. To make this process easier, I’ve written Perl scripts to help with the distallation. I’ve also [written GreaseMonkey scripts](/blog2/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/) to modify the interface of the Enterprise System to make the process quicker and more correct. [More detail here](/blog2/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/). One of my colleagues used the kludge and [commented](/blog2/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/)
+At the end of a course, most University academics have to distill student outcomes into a mark and a grade and upload that distallation into an enterprise system. There is typically a huge gulf between what the teacher’s distallation naturally produces and what the enterprise system expects to see. That gulf typically means a lot of manual work (and checking) by the teaching staff. To make this process easier, I’ve written Perl scripts to help with the distallation. I’ve also [written GreaseMonkey scripts](/blog/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/) to modify the interface of the Enterprise System to make the process quicker and more correct. [More detail here](/blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/). One of my colleagues used the kludge and [commented](/blog/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/)
 
 > That really should be built into any sensible system but it’s nice that you can make it happen regardless of the clunky system
 
 **Check status of Blackboard course site**
 
-We noticed that there were some fairly common errors being made with preparing Blackboard course sites. But there was no automated method to proactively check for these common errors. We wrote a script to [automate this process](/blog2/2008/08/28/getting-started-on-blackboard-indicators/) and reported it to the L&T leaders responsible.
+We noticed that there were some fairly common errors being made with preparing Blackboard course sites. But there was no automated method to proactively check for these common errors. We wrote a script to [automate this process](/blog/2008/08/28/getting-started-on-blackboard-indicators/) and reported it to the L&T leaders responsible.
 
 **Check presence of Tweak**
 

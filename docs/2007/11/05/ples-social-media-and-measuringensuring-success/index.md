@@ -4,10 +4,10 @@ categories:
 date: 2007-11-05 08:41:16+10:00
 next:
   text: Integrated VLEs/LMSs - benefits and fixes
-  url: /blog2/2007/11/09/integrated-vleslmss-benefits-and-fixes/
+  url: /blog/2007/11/09/integrated-vleslmss-benefits-and-fixes/
 previous:
   text: Personal learning environments @ CQU
-  url: /blog2/2007/10/28/personal-learning-environments-cqu/
+  url: /blog/2007/10/28/personal-learning-environments-cqu/
 title: PLEs ("social media") and measuring/ensuring success
 type: post
 template: blog-post.html

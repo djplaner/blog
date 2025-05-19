@@ -9,10 +9,10 @@ categories:
 date: 2009-06-05 08:58:09+10:00
 next:
   text: Ateleological processes - definition and weaknesses
-  url: /blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/
+  url: /blog/2009/06/05/ateleological-processes-definition-and-weaknesses/
 previous:
   text: Tell a story about your garden - narrative and SenseMaker
-  url: /blog2/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
+  url: /blog/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
 title: Teleological design - definition and weaknesses
 type: post
 template: blog-post.html
@@ -167,7 +167,7 @@ pingbacks:
       user_id: '0'
     
 ---
-After a long pause due to holidays and work, here's the next installment of the process component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog2/research/phd-thesis/). A [previous post](/blog2/2009/05/25/teleological-and-ateleological-processes/) gave a brief overview of teleological and ateleological processes. The purpose of this post is to go into more detail about teleological processes. A subsequent post will do the same for ateleological.
+After a long pause due to holidays and work, here's the next installment of the process component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog/research/phd-thesis/). A [previous post](/blog/2009/05/25/teleological-and-ateleological-processes/) gave a brief overview of teleological and ateleological processes. The purpose of this post is to go into more detail about teleological processes. A subsequent post will do the same for ateleological.
 
 This is still a first draft, so comments and feedback are welcome.
 

@@ -12,11 +12,11 @@ categories:
 date: 2008-03-16 20:36:33+10:00
 next:
   text: Understanding approaches to improving a course
-  url: /blog2/2008/05/18/understanding-approaches-to-improving-a-course/
+  url: /blog/2008/05/18/understanding-approaches-to-improving-a-course/
 previous:
   text: From scarcity to over abundance - paradigm change for IT departments (and
     others)
-  url: /blog2/2008/03/15/from-scarcity-to-over-abundance-paradigm-change-for-it-departments-and-others/
+  url: /blog/2008/03/15/from-scarcity-to-over-abundance-paradigm-change-for-it-departments-and-others/
 tags:
 - cogedge
 - complexity

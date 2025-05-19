@@ -5,22 +5,22 @@ coverImage: 36379213_b65e65ed62_o.jpg
 date: 2021-03-12 12:02:59+10:00
 next:
   text: What are the symbols in digital education/design for learning?
-  url: /blog2/2021/03/24/what-are-the-symbols-in-digital-education-design-for-learning/
+  url: /blog/2021/03/24/what-are-the-symbols-in-digital-education-design-for-learning/
 previous:
   text: Do the little things matter in design for learning?
-  url: /blog2/2021/03/06/do-the-little-things-matter-in-design-for-learning/
+  url: /blog/2021/03/06/do-the-little-things-matter-in-design-for-learning/
 title: Reflecting on the spread of the Card Interface for Blackboard Learn
 type: post
 template: blog-post.html
 ---
-In late 2018 I started work at an institution using [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn). My first project helping "put online" a group of 7 courses highlighted just how ugly Blackboard sites could be and how hard it was to do anything about it. By January 2019 [I shared the solution](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) I'd developed - [the Card Interface](https://github.com/djplaner/Card-Interface-Tweak). Below is a before/after image illustrating how the Card Interface 'tweaks' a standard Blackboard Learn content area into something more visual and contemporary. To do this you add some provided Javascript to the page and then add some card meta data to the other items.
+In late 2018 I started work at an institution using [Blackboard Learn](https://en.wikipedia.org/wiki/Blackboard_Learn). My first project helping "put online" a group of 7 courses highlighted just how ugly Blackboard sites could be and how hard it was to do anything about it. By January 2019 [I shared the solution](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) I'd developed - [the Card Interface](https://github.com/djplaner/Card-Interface-Tweak). Below is a before/after image illustrating how the Card Interface 'tweaks' a standard Blackboard Learn content area into something more visual and contemporary. To do this you add some provided Javascript to the page and then add some card meta data to the other items.
 
 ![](images/2021-03-12-05-20-10.png)
 
 Since 2019, the work has since grown in three ways:
 
-1. The addition of [the Content Interface](https://github.com/djplaner/Content-Interface-Tweak) as a way to [design and maintain online content](/blog2/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/#problem-developing-and-maintaining-online-learning-content) and refinement of both the Card and Content Interfaces.
-2. Conceptually through the [development of some design principles](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4) for this type of artefact (dubbed Contextually Appropriate Scaffolding Assemblages - CASA).
+1. The addition of [the Content Interface](https://github.com/djplaner/Content-Interface-Tweak) as a way to [design and maintain online content](/blog/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/#problem-developing-and-maintaining-online-learning-content) and refinement of both the Card and Content Interfaces.
+2. Conceptually through the [development of some design principles](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4) for this type of artefact (dubbed Contextually Appropriate Scaffolding Assemblages - CASA).
 3. Uptake of the Card Interface (and to a lesser extent the Content Interface) within my institution and beyond.
 
 ## The spread - Card Interface Usage - Jan-March 2021
@@ -39,7 +39,7 @@ Adoption beyond the original institution - especially in Ireland - was sparked b
 
 So why has it played out this way?
 
-What follows are my current reflections bundled up with the [CASA design princples](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4).
+What follows are my current reflections bundled up with the [CASA design princples](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/#initial-design-principles-adr-stage-4).
 
 Would be interesting (to me at least) to actually ask and find out.
 
@@ -69,7 +69,7 @@ But these tools remain accepted but not formally recognised.
 
 ### 4\. CASA should package appropriate design knowledge to enable (re-)use by teachers and students.
 
-To [paraphrase Stephen Downes](https://www.downes.ca/post/72056) this is where a CASA does things right thereby "allowing designers to focus on the big things". Just the ability to implement a card interface is a good first start, but I also wonder how much some of the more contextual design knowledge built into the Card and Content Interface influence use? e.g. the [university date feature](/blog2/2021/03/06/do-the-little-things-matter-in-design-for-learning/) of both.
+To [paraphrase Stephen Downes](https://www.downes.ca/post/72056) this is where a CASA does things right thereby "allowing designers to focus on the big things". Just the ability to implement a card interface is a good first start, but I also wonder how much some of the more contextual design knowledge built into the Card and Content Interface influence use? e.g. the [university date feature](/blog/2021/03/06/do-the-little-things-matter-in-design-for-learning/) of both.
 
 It would be good to test this hypotheses. Also to find out what impact this has on the designer/teacher and the students.
 

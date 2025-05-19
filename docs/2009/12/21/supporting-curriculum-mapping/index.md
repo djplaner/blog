@@ -2,10 +2,10 @@
 date: 2009-12-21 13:38:15+10:00
 next:
   text: BIM - Creating the test data, completing dbase design
-  url: /blog2/2009/12/22/bim-creating-the-test-data-completing-dbase-design/
+  url: /blog/2009/12/22/bim-creating-the-test-data-completing-dbase-design/
 previous:
   text: BIM - Saving/manipulating RSS files
-  url: /blog2/2009/12/20/bim-savingmanipulating-rss-files/
+  url: /blog/2009/12/20/bim-savingmanipulating-rss-files/
 tags:
 - curriculummapping
 - ga

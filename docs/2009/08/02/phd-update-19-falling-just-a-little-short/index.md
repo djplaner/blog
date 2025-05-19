@@ -8,10 +8,10 @@ categories:
 date: 2009-08-02 13:44:37+10:00
 next:
   text: How will universities change over ten years?
-  url: /blog2/2009/08/04/how-will-universities-change-over-ten-years/
+  url: /blog/2009/08/04/how-will-universities-change-over-ten-years/
 previous:
   text: 'Evaluation of Webfuse course site feature usage: 2006 through 2009'
-  url: /blog2/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
+  url: /blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
 title: '"PhD Update #19 - Falling just a little short"'
 type: post
 template: blog-post.html
@@ -40,16 +40,16 @@ I've fallen a bit short of what I wanted to achieve this week, however, overall 
 
 ### What I've done
 
-In the [last update](/blog2/2009/07/26/phd-update-18-moving-along/) I said I would get a draft of chapter 4 complete and off to the supervisor.
+In the [last update](/blog/2009/07/26/phd-update-18-moving-along/) I said I would get a draft of chapter 4 complete and off to the supervisor.
 
 Well, that didn't happen but I'm just about there. Here's a breakdown of progress on chapter 4 so far:
 
 - Introduction (4.1) and problem definition (4.2) - done.  
-    The [e-learning@CQU post](/blog2/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/) this week was the last part of section 4.2.
+    The [e-learning@CQU post](/blog/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/) this week was the last part of section 4.2.
 - Intervention (4.3) - done  
-    This is where I spent most of this week and its covered in these posts: [early section on why build a system](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/) and design guidelines and three posts on the design and implementation of Webfuse ([1](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/), [2](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-2/) and [3](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-3/))
+    This is where I spent most of this week and its covered in these posts: [early section on why build a system](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/) and design guidelines and three posts on the design and implementation of Webfuse ([1](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/), [2](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/) and [3](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-3/))
 - Evaluation (4.4) - basically done.  
-    I've spent the last couple of days thinking about, preparing and doing some initial evaluation of the use of Webfuse from 1996 through 1999. Explained somewhat in three posts: [early thinking](/blog2/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/), [some more thinking and some early results](/blog2/2009/07/31/some-early-results-from-webfuse-evaluation/) and [results of evaluation for 2006-2009](/blog2/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/).
+    I've spent the last couple of days thinking about, preparing and doing some initial evaluation of the use of Webfuse from 1996 through 1999. Explained somewhat in three posts: [early thinking](/blog/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/), [some more thinking and some early results](/blog/2009/07/31/some-early-results-from-webfuse-evaluation/) and [results of evaluation for 2006-2009](/blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/).
     
     This is taking a bit longer because I'm essentially establishing the evaluation process that I'll use in both chapters 4 and 5. I'm also having to grab the necessary archives so I can perform the evaluations.
     

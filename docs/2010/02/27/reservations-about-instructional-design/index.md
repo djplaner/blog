@@ -7,10 +7,10 @@ categories:
 date: 2010-02-27 06:37:56+10:00
 next:
   text: Implications of cognitive theory for instructional design
-  url: /blog2/2010/02/27/implications-of-cognitive-theory-for-instructional-design/
+  url: /blog/2010/02/27/implications-of-cognitive-theory-for-instructional-design/
 previous:
   text: Fixes to BIM
-  url: /blog2/2010/02/25/fixes-to-bim/
+  url: /blog/2010/02/25/fixes-to-bim/
 title: Reservations about instructional design
 type: post
 template: blog-post.html
@@ -70,11 +70,11 @@ The following is at first a rambling diatribe outlining some of my reservations 
 
 > This article examines some of the implications of recent developments in cognitive theory for instmctional design. It is argued that behavioral theory is inadequate to prescribe instructional strategies that teach for understanding. Examples of how instructional designers have adopted relevant aspects of cognitive theory are described. However, it is argued that such adoption is only a first step. The growing body of evidence for the indeterminism of human cognition requires even further changes in how instructional designers think and act. A number of bodies of scholarly research and opinion are cited in support of this claim. Three implications of cognitive theory for design are offered: instructional strategies need to be developed to counter the reductienism implicit in task analysis; design needs to be integrated into the implementation of instruction; designers should work from a thorough knowledge of theory not just from design proceduts.
 
-Actually, I'm running out of time, this post will be just the diatribe. The summary/reflection on Winn (1990) will have to [wait till later](/blog2/2010/02/27/implications-of-cognitive-theory-for-instructional-design/).
+Actually, I'm running out of time, this post will be just the diatribe. The summary/reflection on Winn (1990) will have to [wait till later](/blog/2010/02/27/implications-of-cognitive-theory-for-instructional-design/).
 
 ### Some context
 
-The following line of thought is part of an on-going attempt to identify potential problems in the practice of instructional design because I work within a [Curriculum Design & Development Unit](http://cddu.cqu.edu.au/) at a [University](http://www.cqu.edu.au/). I am trying to identify and understand these problems as an attempt to move toward something that might be more effective (but would likely have its own problems). The current attempt at moving toward a solution will hopefully arise out of some ideas around [curriculum mapping](/blog2/research/curriculum-mapping/).
+The following line of thought is part of an on-going attempt to identify potential problems in the practice of instructional design because I work within a [Curriculum Design & Development Unit](http://cddu.cqu.edu.au/) at a [University](http://www.cqu.edu.au/). I am trying to identify and understand these problems as an attempt to move toward something that might be more effective (but would likely have its own problems). The current attempt at moving toward a solution will hopefully arise out of some ideas around [curriculum mapping](/blog/research/curriculum-mapping/).
 
 ### The diatribe
 

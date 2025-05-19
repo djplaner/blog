@@ -5,10 +5,10 @@ categories:
 date: 2018-04-19 10:58:52+10:00
 next:
   text: '"Software engineering for computational science : past, present, future"'
-  url: /blog2/2018/05/10/software-engineering-for-computational-science-past-present-future/
+  url: /blog/2018/05/10/software-engineering-for-computational-science-past-present-future/
 previous:
   text: Some notes on behaviour change and improving L&T
-  url: /blog2/2018/04/05/some-notes-on-behaviour-change-and-improving-lt/
+  url: /blog/2018/04/05/some-notes-on-behaviour-change-and-improving-lt/
 title: Repository - differences between Open Source and OER and implications
 type: post
 template: blog-post.html

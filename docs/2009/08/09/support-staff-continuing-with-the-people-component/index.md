@@ -8,10 +8,10 @@ categories:
 date: 2009-08-09 11:40:27+10:00
 next:
   text: The chasm
-  url: /blog2/2009/08/09/the-chasm/
+  url: /blog/2009/08/09/the-chasm/
 previous:
   text: The limiting impacts of a PhD and the writing up phase
-  url: /blog2/2009/08/09/the-limiting-impacts-of-a-phd-and-the-writing-up-phase/
+  url: /blog/2009/08/09/the-limiting-impacts-of-a-phd-and-the-writing-up-phase/
 title: Support staff - continuing with the People component
 type: post
 template: blog-post.html
@@ -48,7 +48,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm back to working on the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) for chapter 2 of [my thesis](/blog2/research/phd-thesis/). The [last post in the blog](/blog2/2009/07/17/leaders-and-managers-the-next-bit-of-people/) from this section was back in mid July and examined leaders and managers. This section moves onto "support staff". It's the last of the sections examining groups/roles associated with e-learning.
+I'm back to working on the People component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) for chapter 2 of [my thesis](/blog/research/phd-thesis/). The [last post in the blog](/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/) from this section was back in mid July and examined leaders and managers. This section moves onto "support staff". It's the last of the sections examining groups/roles associated with e-learning.
 
 ### Support staff
 

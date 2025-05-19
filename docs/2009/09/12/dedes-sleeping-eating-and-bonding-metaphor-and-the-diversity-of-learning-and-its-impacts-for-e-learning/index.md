@@ -9,10 +9,10 @@ categories:
 date: 2009-09-12 11:35:59+10:00
 next:
   text: Getting started with CCK09
-  url: /blog2/2009/09/14/getting-started-with-cck09/
+  url: /blog/2009/09/14/getting-started-with-cck09/
 previous:
   text: 'PhD Update #24: off to the crocodile form'
-  url: /blog2/2009/09/11/phd-update-24-off-to-the-crocodile-form/
+  url: /blog/2009/09/11/phd-update-24-off-to-the-crocodile-form/
 title: Dede's "sleeping, eating and bonding" metaphor and the diversity of learning
   and its impacts for e-learning
 type: post
@@ -41,7 +41,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Earlier this year I posted on [Disruption and the “mythic” technologies of education](/blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/) and my views about consistency and diversity when applied to learning, especially e-learning within universities.
+Earlier this year I posted on [Disruption and the “mythic” technologies of education](/blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/) and my views about consistency and diversity when applied to learning, especially e-learning within universities.
 
 That post was sparked by a [presentation](http://www.gardnercampbell.net/blog1/?p=734) by [Gardner Campbell](http://www.gardnercampbell.net/blog1/). Of the many things I found striking was the video of [Chris Dede](http://gseweb.harvard.edu/~dedech/) using "eating, sleeping and bonding" as a framework to understand the diversity inherent in learning.
 

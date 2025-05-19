@@ -5,10 +5,10 @@ categories:
 date: 2006-12-16 12:35:29+10:00
 next:
   text: Adoption of innovations and the "not invented here" syndrome
-  url: /blog2/2006/12/16/adoption-of-innovations-and-the-not-invented-here-syndrome/
+  url: /blog/2006/12/16/adoption-of-innovations-and-the-not-invented-here-syndrome/
 previous:
   text: Mao&#039;s &quot;four pests&quot; campaign - problems with herding cats
-  url: /blog2/2006/12/15/maos-four-pests-campaign-problems-with-herding-cats/
+  url: /blog/2006/12/15/maos-four-pests-campaign-problems-with-herding-cats/
 title: Underpinnings for the REACT approach
 type: post
 template: blog-post.html

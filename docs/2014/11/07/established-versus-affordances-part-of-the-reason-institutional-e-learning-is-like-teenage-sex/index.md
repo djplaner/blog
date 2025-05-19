@@ -4,10 +4,10 @@ categories:
 date: 2014-11-07 10:29:06+10:00
 next:
   text: Adding more student information to a Moodle course
-  url: /blog2/2014/11/13/adding-more-student-information-to-a-moodle-course/
+  url: /blog/2014/11/13/adding-more-student-information-to-a-moodle-course/
 previous:
   text: Some more tweaks to gradebook
-  url: /blog2/2014/11/05/some-more-tweaks-to-gradebook/
+  url: /blog/2014/11/05/some-more-tweaks-to-gradebook/
 title: '"Established versus Affordances: part of the reason institutional e-learning
   is like teenage sex"'
 type: post
@@ -58,7 +58,7 @@ The paper draws on our experience in an attempt to identify some reasons why ins
 1. the SET mindset - **S**trategic, **E**stablished, and **T**ree-like. The most common (and the cause of all the problems, we think).
 2. the BAD mindset - **B**ricolage, **A**ffordances, and **D**istribution. Which better describes the mindset we use in our own practice.
 
-Even though these two mindset are incommensurable, we think that institutional e-learning is to SET in it's thinking and needs to break BAD a little (maybe a lot) more often. [This table](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) summarises and compares the two mindsets.
+Even though these two mindset are incommensurable, we think that institutional e-learning is to SET in it's thinking and needs to break BAD a little (maybe a lot) more often. [This table](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) summarises and compares the two mindsets.
 
 This post - at the title suggests - is going to look at the 2nd of the three components of these mindsets. i.e. How is Information and Communication Technologies (mostly software) (ICT) perceived?
 
@@ -149,7 +149,7 @@ In short, the affordance mindset not only knows that ICT can be changed, it shou
 
 [![Churchill modified - affordance of ICTs](images/15541523037_43d8bdf019_n.jpg)](https://www.flickr.com/photos/david_jones/15541523037 "Churchill modified - affordance of ICTs by David Jones, on Flickr")
 
-This mindset is not new. People have always done it. There are in fact entire sections of literature devoted to talking about people doing this. For example, there's literature on ["shadow systems"](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/) in the information systems field that sees such practices as a threat/risk to organisational integrity, efficiency and apple pie. There's a similar literature - mostly in computer science and management - under terms such as work-arounds, make-work and kludges (Koopman & Hoffman, 2003).
+This mindset is not new. People have always done it. There are in fact entire sections of literature devoted to talking about people doing this. For example, there's literature on ["shadow systems"](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/) in the information systems field that sees such practices as a threat/risk to organisational integrity, efficiency and apple pie. There's a similar literature - mostly in computer science and management - under terms such as work-arounds, make-work and kludges (Koopman & Hoffman, 2003).
 
 The increasingly digital nature of life and the increasing availability and functionality of enabling technologies (like Greasemonkey) are only making the affordance mindset more widely available. The problem is that not many organisations are yet to recognise it.
 

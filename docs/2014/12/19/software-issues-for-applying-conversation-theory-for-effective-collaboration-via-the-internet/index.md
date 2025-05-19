@@ -4,10 +4,10 @@ categories:
 date: 2014-12-19 17:07:39+10:00
 next:
   text: FedWiki 7, 8 and 9 - Moving, catching up and engaging
-  url: /blog2/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
+  url: /blog/2014/12/26/fedwiki-7-8-and-9-moving-catching-up-and-engaging/
 previous:
   text: Concrete Lounge
-  url: /blog2/2014/12/18/concrete-lounge/
+  url: /blog/2014/12/18/concrete-lounge/
 tags:
 - fedwikihappening
 title: '"FedWiki Daily #6 - Mining, fracking and exploring the process"'
@@ -80,9 +80,9 @@ Lots of things I need to read, but I came across Klemm (2002) today while markin
 
 > Conversation is central to human interaction. The usual way to conduct asynchronous “conversations” over the Internet is to post e-mail messages on an electronic bulletin board, with messages organized by topic. However, such environments do not allow us to exploit the richness of conversation theory for effective collaboration. This presentation will review key elements of conversation theory and describe our collaboration experiences with Forum MATRIX, a software application that runs in a Web browser and allows users to share and edit multi-media documents, plus make in-context links and notes
 
-This is where Idea Mining (and perhaps fed wiki) bumps up against my normal approach for sharing what I read. Idea mining is focused on producing a short nugget summarising a particular idea. When I normally share what I read, it's a summary of the whole paper (e.g. [this one](/blog2/2010/03/17/embedding-behaviour-modification-paper-summary/)) not of an idea.
+This is where Idea Mining (and perhaps fed wiki) bumps up against my normal approach for sharing what I read. Idea mining is focused on producing a short nugget summarising a particular idea. When I normally share what I read, it's a summary of the whole paper (e.g. [this one](/blog/2010/03/17/embedding-behaviour-modification-paper-summary/)) not of an idea.
 
-Sadly the paper didn't delivery what I'd expected/hoped. See [my standard summary](/blog2/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/) if interested.
+Sadly the paper didn't delivery what I'd expected/hoped. See [my standard summary](/blog/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/) if interested.
 
 Running out of time, so perhaps straight onto catching up. Engaging is probably a more beneficial practice right now anyway
 

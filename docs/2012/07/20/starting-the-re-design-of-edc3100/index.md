@@ -5,10 +5,10 @@ date: 2012-07-20 11:29:29+10:00
 next:
   text: '"Enabling academics to apply learning analytics to individual pedagogical
     practice: how and with what impacts?"'
-  url: /blog2/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
+  url: /blog/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
 previous:
   text: Is there a link between managerialisation and learning analytics?
-  url: /blog2/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
+  url: /blog/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
 title: Starting the re-design of EDC3100
 type: post
 template: blog-post.html
@@ -147,7 +147,7 @@ A major focus is on "ensuring compliance with [AITSL](http://www.teacherstandard
 
 If there is a course within the faculty that should have ICTs embedded within it, EDC3100 should be it. In fact, there's an argument to be made that EDC3100 should be leading this push.
 
-Apparently there is a "tool" to help embedding ICTs within courses that align with the professional standards. It appears that this is a table in a Word document that helps map activities and resources from the course against the standards. Given my [prior thinking](/blog2/2010/05/13/more-thinking-about-the-alignment-project/) around alignment and mapping projects, I'm not convinced that this sort of is a really big help as it never becomes integrated into everyday practice. It's a good first move, but has known problems.
+Apparently there is a "tool" to help embedding ICTs within courses that align with the professional standards. It appears that this is a table in a Word document that helps map activities and resources from the course against the standards. Given my [prior thinking](/blog/2010/05/13/more-thinking-about-the-alignment-project/) around alignment and mapping projects, I'm not convinced that this sort of is a really big help as it never becomes integrated into everyday practice. It's a good first move, but has known problems.
 
 I will have to engage with the tool and will aim to do so publicly. But first I'll have to ask permission to make the tool public.
 
@@ -164,7 +164,7 @@ What follows is an ad hoc list of the problems, there is overlap, I see with the
 - Under engagement of students in using ICTs.  
     This is a 3rd year course, the students have generally done a fair bit of teaching on prac and theory about teaching in courses. I'm not sure the course currently encourages the students to engage with a broad array of technologies. This lack of awareness of technologies limits what they can use in their teaching. There's a similar query around the depth of engagement, there's value in gaining deep experience/knowledge with a tool.
 - The students don't see themselves as, or act as teachers.  
-    Mentioned briefly [here](/blog2/2012/07/15/redesigning-the-weekly-ramble/). There's a lot of factors here, but the nature of the assessment and the pedagogy doesn't help.
+    Mentioned briefly [here](/blog/2012/07/15/redesigning-the-weekly-ramble/). There's a lot of factors here, but the nature of the assessment and the pedagogy doesn't help.
 - The breadth of sectors.  
     Students in this course range from early childhood through to VET teachers. The absence of a direct connection to their context/interest impacts on engagement/motivation etc.
 - The students are generally confined to the course.  
@@ -174,7 +174,7 @@ What follows is an ad hoc list of the problems, there is overlap, I see with the
 - The professional standards mean nothing to the students.  
     If these are seen as important, then they should be more prevalent through the course.
 - The constraints of the LMS and institutional eportfolios.  
-    From some perspectives, the institution and its perspective of e-learning seems somewhat stuck in the ["industrial e-learning" paradigm](/blog2/2009/04/20/the-paradigms-of-e-learning/). The LMS and the institutional policies seem to want to keep online learning constrained to the institutional systems. I'd like to break out of that (see the bit above about walking the walk).
+    From some perspectives, the institution and its perspective of e-learning seems somewhat stuck in the ["industrial e-learning" paradigm](/blog/2009/04/20/the-paradigms-of-e-learning/). The LMS and the institutional policies seem to want to keep online learning constrained to the institutional systems. I'd like to break out of that (see the bit above about walking the walk).
 - Multiple campuses.  
     There's a tendency for students in multiple campuses to be separated into groups. This does provide some benefits, but also some tensions.
 - The tyranny of 250+ students.  
@@ -194,6 +194,6 @@ What I'd like to do will be impacted upon by a range of constraints including or
 - Have no fixed sequence in the course, instead structure what resources/activities there are against the standards/statements and allow the students to pick and choose how they attack it.
 - Move the academics role in this course away from giving lectures, running tutorials and marking assignments towards participating in the network and responding to student needs.
 - Have some form of technology that supports both the students and the staff in all of this.  
-    As a man with a hammer (as in "if you have a hammer, everything looks like a nail") I can see [BIM](/blog2/research/bam-blog-aggregation-management/) being able to do this with a few tweaks. Seems a logical extension.
+    As a man with a hammer (as in "if you have a hammer, everything looks like a nail") I can see [BIM](/blog/research/bam-blog-aggregation-management/) being able to do this with a few tweaks. Seems a logical extension.
 
 I'll wake up now and think about something that won't kill me with overwork and threaten both the students and the institution with its difference.

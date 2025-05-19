@@ -4,10 +4,10 @@ categories:
 date: 2009-12-22 11:29:59+10:00
 next:
   text: BIM - cron and view student details screen
-  url: /blog2/2009/12/22/bim-cron-and-view-student-details-screen/
+  url: /blog/2009/12/22/bim-cron-and-view-student-details-screen/
 previous:
   text: Supporting curriculum mapping?
-  url: /blog2/2009/12/21/supporting-curriculum-mapping/
+  url: /blog/2009/12/21/supporting-curriculum-mapping/
 title: BIM - Creating the test data, completing dbase design
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The [last bit of BIM work](/blog2/2009/12/20/bim-savingmanipulating-rss-files/) resulted in getting the show student details screen up and going, mostly. Any more of these screens will draw on, at least in part, other data from other tables. Time to get those populated. This will be done using data from BAM currently being used.
+The [last bit of BIM work](/blog/2009/12/20/bim-savingmanipulating-rss-files/) resulted in getting the show student details screen up and going, mostly. Any more of these screens will draw on, at least in part, other data from other tables. Time to get those populated. This will be done using data from BAM currently being used.
 
 ### Creating the table
 

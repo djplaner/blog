@@ -6,10 +6,10 @@ categories:
 date: 2010-05-26 14:41:56+10:00
 next:
   text: Fixing BIM's back up and restore
-  url: /blog2/2010/05/27/fixing-bims-back-up-and-restore/
+  url: /blog/2010/05/27/fixing-bims-back-up-and-restore/
 previous:
   text: 'Understanding what teachers do: First step in improving L&#038;T'
-  url: /blog2/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
+  url: /blog/2010/05/25/understanding-what-teachers-do-first-step-in-improving-lt/
 title: Adding multiple visualisation approaches to Indicators block
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This post is a summary of work being done to update the [Moodle indicators block](/blog2/2010/05/09/requirements-for-an-indicators-moodle-block/) so that it can support multiple visualisation tools and approaches.
+This post is a summary of work being done to update the [Moodle indicators block](/blog/2010/05/09/requirements-for-an-indicators-moodle-block/) so that it can support multiple visualisation tools and approaches.
 
 ### Problem
 
@@ -46,7 +46,7 @@ A simple example of this comes from the only "data" the indicators block current
 
 [![Next step in indicators block](images/4602759472_713e932696_m.jpg)](http://www.flickr.com/photos/david_jones/4602759472/ "Next step in indicators block by David T Jones, on Flickr")
 
-Alan [commented](/blog2/2010/05/13/getting-started-with-cols-indicators-block/#comment-3182) that he didn't like the dial/meter visualisation in that it seems to encourage a simplistic "more is better" perception. Alan would prefer some sort of traffic light visualisation. After a very quick look, I don't think the Google chart tools provide a traffic light visualisation. Regardless, you get the idea.
+Alan [commented](/blog/2010/05/13/getting-started-with-cols-indicators-block/#comment-3182) that he didn't like the dial/meter visualisation in that it seems to encourage a simplistic "more is better" perception. Alan would prefer some sort of traffic light visualisation. After a very quick look, I don't think the Google chart tools provide a traffic light visualisation. Regardless, you get the idea.
 
 Rather than force someone to use only one visualisation, it would seem better if the Moodle indicators block allowed people to choose (and implement) the ones they preferred. i.e. support for multiple visualisations.
 

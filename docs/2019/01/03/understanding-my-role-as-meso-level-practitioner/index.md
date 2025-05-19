@@ -5,10 +5,10 @@ coverImage: 3311829635_0080586412_o-scaled-e1601494373689.jpg
 date: 2019-01-03 10:02:28+10:00
 next:
   text: '"Trying out" needs agency and control'
-  url: /blog2/2019/01/18/trying-out-needs-agency-and-control/
+  url: /blog/2019/01/18/trying-out-needs-agency-and-control/
 previous:
   text: Testing h5p
-  url: /blog2/2018/12/11/testing-h5p/
+  url: /blog/2018/12/11/testing-h5p/
 title: Meso-level practitioners and generative technologies?
 type: post
 template: blog-post.html
@@ -61,7 +61,7 @@ IMHO, generative technologies appear to be necessary to be able to bridge the ga
 
 ### Needed more in a distributed ecosystem?
 
-But that's just the LMS. The institution is also pushing the idea of a distributed ecosystem of learning tools that can be selected for use. In essence the institution is moving from a single, integrated system model (the old LMS provides all the tools) to a best-of-breed model (choose the best tool for a specific purpose). Light et al (2001) provide a comparion of these two architectures, a comparison that is explained in more detail in [this blog post](/blog2/2009/08/31/product-models-lms-bob-and-alternatives/).
+But that's just the LMS. The institution is also pushing the idea of a distributed ecosystem of learning tools that can be selected for use. In essence the institution is moving from a single, integrated system model (the old LMS provides all the tools) to a best-of-breed model (choose the best tool for a specific purpose). Light et al (2001) provide a comparion of these two architectures, a comparison that is explained in more detail in [this blog post](/blog/2009/08/31/product-models-lms-bob-and-alternatives/).
 
 One of the identified challenges with the best-of-breed model is that integration between applications from different vendors is time consuming. Rather than having a single system already integrated, time and effort has to be expended ensuring that each of the separate components work together. While standards and technologies like LTI and xAPI help enable this integration, they don't make integration easy or seamless. There are often gaps in functionality. For example, I know of one academic who has refused to adopt an external tool that provides an educationally effective feature because the integration with the marking system places too much of a load on causual teaching staff.
 

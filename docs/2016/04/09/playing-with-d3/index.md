@@ -6,11 +6,11 @@ categories:
 date: 2016-04-09 11:16:20+10:00
 next:
   text: Designing a collection of analytics to explore "engagement"
-  url: /blog2/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/
+  url: /blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/
 previous:
   text: 'Learning analytics should not promote one size fits all: The effects of instructional
     conditions in predicting academic success'
-  url: /blog2/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/
+  url: /blog/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/
 title: Playing with D3
 type: post
 template: blog-post.html

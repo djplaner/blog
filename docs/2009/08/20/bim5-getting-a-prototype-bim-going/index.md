@@ -6,10 +6,10 @@ categories:
 date: 2009-08-20 11:43:15+10:00
 next:
   text: '"PhD Update #21 - End in sight for chapter 2"'
-  url: /blog2/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/
+  url: /blog/2009/08/21/phd-update-21-end-in-sight-for-chapter-2/
 previous:
   text: 'eLearning and Innovation Specialist report #1: 4-20 August'
-  url: /blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/
+  url: /blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/
 title: '"BIM#5: Getting a prototype BIM going"'
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In the last [bit of work](/blog2/2009/08/17/bim-4-re-jigging-how-bim-works/) I did on BIM, I got to the stage of having some initial working code for BIM module that allow someone to create a BIM activity and have that data saved to the database. The activity wouldn't do anything, but it's a start.
+In the last [bit of work](/blog/2009/08/17/bim-4-re-jigging-how-bim-works/) I did on BIM, I got to the stage of having some initial working code for BIM module that allow someone to create a BIM activity and have that data saved to the database. The activity wouldn't do anything, but it's a start.
 
 The aim today is to try and make some progress on getting a prototype up and going. i.e. some working Moodle code that academic staff can interact with and get some idea of how BIM will work. I'm still uncertain how far I will go with this. I have two main options:
 

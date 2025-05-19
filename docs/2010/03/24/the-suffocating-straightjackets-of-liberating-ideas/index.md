@@ -4,10 +4,10 @@ categories:
 date: 2010-03-24 10:28:12+10:00
 next:
   text: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
-  url: /blog2/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/
+  url: /blog/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/
 previous:
   text: First step in &quot;Moodle curriculum mapping&quot;
-  url: /blog2/2010/03/23/first-step-in-moodle-curriculum-mapping/
+  url: /blog/2010/03/23/first-step-in-moodle-curriculum-mapping/
 title: The suffocating straightjackets of liberating ideas
 type: post
 template: blog-post.html
@@ -18,7 +18,7 @@ Doing some reading and came across the following quote which I had to store for 
 
 Chua (1986) uses it as a intro to alternate views of research perspectives. But it applies to so much.
 
-For me the most obvious application, the one I'm dealing with day to day, is the practice of e-learning within universities. Post-thesis I think I need to figure out how to effectively engage more in this two stage process. I think the [Ps Framework](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) provides one small part of a tool to help this process, need to figure out what needs to be wrapped around it to encourage both steps to happen.
+For me the most obvious application, the one I'm dealing with day to day, is the practice of e-learning within universities. Post-thesis I think I need to figure out how to effectively engage more in this two stage process. I think the [Ps Framework](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) provides one small part of a tool to help this process, need to figure out what needs to be wrapped around it to encourage both steps to happen.
 
 ### References
 

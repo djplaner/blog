@@ -8,10 +8,10 @@ categories:
 date: 2008-11-17 11:29:28+10:00
 next:
   text: '"PLEs@CQUni: Origins, rationale and outcomes so far"'
-  url: /blog2/2008/11/17/plescquni-origins-rationale-and-outcomes-so-far-2/
+  url: /blog/2008/11/17/plescquni-origins-rationale-and-outcomes-so-far-2/
 previous:
   text: '&quot;Big&quot; systems - another assumption &quot;PLEs&quot; overthrow'
-  url: /blog2/2008/11/16/big-systems-another-assumption-ples-overthrow/
+  url: /blog/2008/11/16/big-systems-another-assumption-ples-overthrow/
 tags:
 - lms
 title: The dissonance gap in systems and LMS evaluations
@@ -42,7 +42,7 @@ Ania Lian writes in the paper [Knowledge transfer and technology in education: t
 
 > It is argued that technology itself is neither liberating, empowering nor enabling one to be with other people but that it will serve whichever goals motivate its incorporation.
 
-In a couple of papers (e.g. [this one](/blog2/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/)) I've paraphrased this as
+In a couple of papers (e.g. [this one](/blog/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/)) I've paraphrased this as
 
 > Technology is not, of itself, liberating or empowering but serves the goals of those who guide its design and use (Lian, 2000).
 
@@ -50,7 +50,7 @@ This posts tries to explain why this is the case and also to explain what releva
 
 ### Why is this the case?
 
-A learning management system is a piece of information technology. As a piece of information technology it has been designed by a [small group of expert designers](/blog2/2008/11/15/expert-designer-another-assumption-ples-question/). Typically a company or open source community (individual).
+A learning management system is a piece of information technology. As a piece of information technology it has been designed by a [small group of expert designers](/blog/2008/11/15/expert-designer-another-assumption-ples-question/). Typically a company or open source community (individual).
 
 This group of expert designers analyse the problem, identify some sort of solution and then turn that solution into code. They do not do this is a purely sequential nor objective manner. Their past experiences, lessons learned and new knowledge all impact on this process.
 
@@ -68,7 +68,7 @@ Guess what label Peoplesoft uses? (Remember it's origins and the impact of the o
 
 ### What relevance does this pose?
 
-When a university is seeking to select a new learning management system it is selecting an enterprise information system. As such any selection will have embedded in it a certain world view. Even the notion of an LMS embodies a certain world view. That of the ["big" system](/blog2/2008/11/16/big-systems-another-assumption-ples-overthrow/). This world view brings certain positives and negatives. The impact of the original designers will play a part in how effective the choice is, it will limit or enable what learning and teaching can occur, what staff and students can do.
+When a university is seeking to select a new learning management system it is selecting an enterprise information system. As such any selection will have embedded in it a certain world view. Even the notion of an LMS embodies a certain world view. That of the ["big" system](/blog/2008/11/16/big-systems-another-assumption-ples-overthrow/). This world view brings certain positives and negatives. The impact of the original designers will play a part in how effective the choice is, it will limit or enable what learning and teaching can occur, what staff and students can do.
 
 #### Discussion forums in Blackboard
 
@@ -97,7 +97,7 @@ Conseqently, it is well known that you would be really stupid to use the Blackbo
 
 A dissonance between the needs of a systems users and its embedded world view lead to a number of problems. The dissonance becomes a gap between the users and the system. A gap that prevents the adoption of certain approaches or which creates additional workload as people attempt to work around the gap.
 
-Eventually, this dissonance gap will lead users to attempting to use alternate means. Of creating [shadow systems](/blog2/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/).
+Eventually, this dissonance gap will lead users to attempting to use alternate means. Of creating [shadow systems](/blog/2008/10/31/between-the-idea-and-the-reality-falls-the-shadow/).
 
 #### Understand the gap as part of the valuation
 

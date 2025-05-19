@@ -4,10 +4,10 @@ categories:
 date: 2012-03-28 14:02:22+10:00
 next:
   text: Explorations of narrative research
-  url: /blog2/2012/03/29/explorations-of-narrative-research/
+  url: /blog/2012/03/29/explorations-of-narrative-research/
 previous:
   text: 'Learning analytics and study behaviour: A pilot study'
-  url: /blog2/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/
+  url: /blog/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/
 title: '"Here I stand" - Campbell''s concerns on analytics and other stuff'
 type: post
 template: blog-post.html
@@ -66,7 +66,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Continuing a [re-engagement with analytics](/blog2/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/) I spent some time listening to [Gardner Campbell's](http://www.gardnercampbell.net/) talk to the LAK'12 MOOC - [Here I Stand](http://lak12.wikispaces.com/Recordings) and from there followed various links.
+Continuing a [re-engagement with analytics](/blog/2012/03/27/learning-analytics-and-study-behaviour-a-pilot-study/) I spent some time listening to [Gardner Campbell's](http://www.gardnercampbell.net/) talk to the LAK'12 MOOC - [Here I Stand](http://lak12.wikispaces.com/Recordings) and from there followed various links.
 
 Gardner captures one of my major concerns with how analytics may proceed, especially within institutions that are increasingly driven by accountability, efficiency and other concerns. Concerns that they are responding to with top-down management. Gardner's uses the metaphor of the human mind/learning being as [complex as M-Theory](http://en.wikipedia.org/wiki/M-theory) (actually more complex) and that learning analytics as commonly thought of is equivalent to measuring M-Theory using a simple cartesian graph.
 

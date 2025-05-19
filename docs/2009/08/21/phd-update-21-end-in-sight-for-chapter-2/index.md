@@ -9,10 +9,10 @@ categories:
 date: 2009-08-21 09:43:06+10:00
 next:
   text: What is an LMS?
-  url: /blog2/2009/08/21/what-is-an-lms/
+  url: /blog/2009/08/21/what-is-an-lms/
 previous:
   text: 'BIM#5: Getting a prototype BIM going'
-  url: /blog2/2009/08/20/bim5-getting-a-prototype-bim-going/
+  url: /blog/2009/08/20/bim5-getting-a-prototype-bim-going/
 title: '"PhD Update #21 - End in sight for chapter 2"'
 type: post
 template: blog-post.html
@@ -40,13 +40,13 @@ A bit of progress made on chapter 2 this week, sufficient to suggest that the en
 
 ### What I've done this week
 
-In [the last update](/blog2/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/) I said I'd complete the People component and get going on either pedagogy or product. I chose product.
+In [the last update](/blog/2009/08/14/phd-update-20-progress-slowness-and-techno-rationality/) I said I'd complete the People component and get going on either pedagogy or product. I chose product.
 
 In the last week I've
 
-- Completed the [People, cognition, rationality and e-learning](/blog2/2009/08/16/people-cognition-rationality-and-e-learning/) section of the People component.
-- Completed the [Lessons for e-learning from People](/blog2/2009/08/17/lessons-for-e-learning-from-people/) section which is the last section of the People component.
-- Completed the [introduction and conceptions of technology section](/blog2/2009/08/19/the-product-component-of-the-ps-framework/) from the Product component.
+- Completed the [People, cognition, rationality and e-learning](/blog/2009/08/16/people-cognition-rationality-and-e-learning/) section of the People component.
+- Completed the [Lessons for e-learning from People](/blog/2009/08/17/lessons-for-e-learning-from-people/) section which is the last section of the People component.
+- Completed the [introduction and conceptions of technology section](/blog/2009/08/19/the-product-component-of-the-ps-framework/) from the Product component.
 - Worked out the structure and re-organised most of the literature for the remaining sections of the Product component.  
     The current planned structure is a little different than that outlined in the introduction. The current structure is
     - Conceptions of technology - DONE  

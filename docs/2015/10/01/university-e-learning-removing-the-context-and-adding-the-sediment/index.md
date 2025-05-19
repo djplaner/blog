@@ -5,11 +5,11 @@ categories:
 date: 2015-10-01 12:50:10+10:00
 next:
   text: Teachers as designers of technology enhance learning?
-  url: /blog2/2015/10/06/teachers-as-digital-renovators/
+  url: /blog/2015/10/06/teachers-as-digital-renovators/
 previous:
   text: Self-assertive and integrative tendencies and the connection to the BAD/SET
     mindsets
-  url: /blog2/2015/09/17/self-assertive-and-integrative-tendencies-and-the-connection-to-the-badset-mindsets/
+  url: /blog/2015/09/17/self-assertive-and-integrative-tendencies-and-the-connection-to-the-badset-mindsets/
 title: '"University e-learning: Removing context and adding sediment"'
 type: post
 template: blog-post.html
@@ -66,7 +66,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the outlines the core of the argument used in a talk to folk at UniSA today titled ["The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning"](/blog2/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/). The argument is that the mindset underpinning the implementation of institutional e-learning within Universities focuses on widespread reuse across an institution (and sometimes beyond). As a result institutional e-learning has a tendency to remove considerations of context, which in turn reduces/removes any chance of learners and teachers perceiving any usefulness or ease-of-use from the provided systems and processes.
+The following is the outlines the core of the argument used in a talk to folk at UniSA today titled ["The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning"](/blog/2015/09/03/the-perceived-uselessness-of-the-technology-acceptance-model-tam-for-e-learning/). The argument is that the mindset underpinning the implementation of institutional e-learning within Universities focuses on widespread reuse across an institution (and sometimes beyond). As a result institutional e-learning has a tendency to remove considerations of context, which in turn reduces/removes any chance of learners and teachers perceiving any usefulness or ease-of-use from the provided systems and processes.
 
 The end result is that rather than enabling high quality learning experiences, institutional e-learning practices are [creating sediment](http://blog.edtechie.net/vle/the-vle-isnt-the-problem-the-sediment-is/) that clogs up any attempt to create high quality learning experiences. The following offers on possible explanation for why this is the case and offers a possible solution.
 
@@ -107,7 +107,7 @@ Given that this is blindingly obvious, and that both Dawson et al (2008) and Cor
 
 ## SET mindset - removing context, usefulness, and ease of use
 
-Institutional e-learning - like much in contemporary corporate Universities - is driven by [a SET mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset).
+Institutional e-learning - like much in contemporary corporate Universities - is driven by [a SET mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset).
 
 Amongst the many problems with the SET mindset is that it must focus on reuse. The learning objects/systems that the SET mindset creates must be usable (at least) across an entire institution. This is contributed to by each of the components of the SET mindset.
 
@@ -121,7 +121,7 @@ In terms of [the reusability paradox](http://cnx.org/contents/dad41956-c2b2-4e01
 
 ## BAD mindset - adding context, usefulness, and ease of use
 
-On the other hand, [the BAD mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) tends to put context back into the learning objects/systems. It responds to the needs of a specific context and focuses on maximising usefulness and ease of use within the confines of that context. As a result, the BAD mindset tends to reduce the capability to reuse the learning object/system.
+On the other hand, [the BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) tends to put context back into the learning objects/systems. It responds to the needs of a specific context and focuses on maximising usefulness and ease of use within the confines of that context. As a result, the BAD mindset tends to reduce the capability to reuse the learning object/system.
 
 [![Choice2](images/18917714583_e3af2bae99_n.jpg)](https://www.flickr.com/photos/david_jones/18917714583/in/photolist-uPGesP-vLyp5T/ "Choice2")
 
@@ -133,7 +133,7 @@ This tendency is contributed to by each of the parts of the BAD mindset
 
 ## The BAD solution to "know thy student"
 
-Using the BAD mindset, I've implemented a solution to the "know thy student" problem that I've used this year. Another post offers a [more detailed description of that solution](/blog2/2015/09/15/helping-teachers-know-thy-students/#more). The above argument suggests that the BAD solution should be hugely more contextually appropriate and thus useful and easy to use than the SET solution. The following table provides a simple comparison between the SET and BAD solutions.
+Using the BAD mindset, I've implemented a solution to the "know thy student" problem that I've used this year. Another post offers a [more detailed description of that solution](/blog/2015/09/15/helping-teachers-know-thy-students/#more). The above argument suggests that the BAD solution should be hugely more contextually appropriate and thus useful and easy to use than the SET solution. The following table provides a simple comparison between the SET and BAD solutions.
 
 | Mindset | Where | How long |
 | --- | --- | --- |
@@ -152,7 +152,7 @@ Some of the technologies I use won't scale to other people. However, the general
 
 For example, Peter Albion has customised [the Moodle Assignment activity](http://dralb.albion.id.au/?p=4429) to better suit his needs. Peter's customisation should (with little or no modification) be able to be used by any teacher who is using the Moodle assignment activity. (It should be especially easy if you are using the Firefox browser, but not all that difficult if you are [using another browser](http://www.mturkgrind.com/threads/which-browsers-can-you-run-userscripts-in-and-how.27432/))
 
-But not everyone can code. University e-learning systems currently have [a starvation problem](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/). That is, a range of projects that should get implemented can't because there aren't enough development resources. Customising everything to each specific context/learning design is never going to happen, unless perhaps everyone can do their own coding.
+But not everyone can code. University e-learning systems currently have [a starvation problem](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/). That is, a range of projects that should get implemented can't because there aren't enough development resources. Customising everything to each specific context/learning design is never going to happen, unless perhaps everyone can do their own coding.
 
 But that's the point of a **D**istributed perspective. Not everyone needs to be able to code, though it might be a huge benefit. All you need to do is be connected through your various links and connections to someone who can code. You also need to be within an environment that actively enables people who can code to share what they do in a way that can be re-used, customised, and re-shared.
 
@@ -219,7 +219,7 @@ Lockyer et al (2013) define learning process analytics as
 
 > data and analysis (that) provide direct insight into learner information processing and knowledge application...within the tasks that the student completes as part of the learning design (p. 1448)
 
-One of the learning designs I use early in my course is an [ice breaker activity](/blog2/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/) using a discussion forum. Students are asked to post an introduction to themselves and then read through the introductions provided by other students. Their aim is to located someone they think is the "same" as them and someone who is "different". Once identified they are asked to say "Hi" to those individuals.
+One of the learning designs I use early in my course is an [ice breaker activity](/blog/2014/02/18/looking-for-a-new-icebreaker-for-edc3100/) using a discussion forum. Students are asked to post an introduction to themselves and then read through the introductions provided by other students. Their aim is to located someone they think is the "same" as them and someone who is "different". Once identified they are asked to say "Hi" to those individuals.
 
 It's not a bad activity. However, because the Moodle discussion forum is designed to be re-used in the broadest possible collection of contexts, it provides no scaffolding specific to this particular learning design. This is where a CASA specific to this learning design could help. Either when I create the discussion forum, or perhaps later when I configure it, I would specify that this discussion forum is being used for this specific learning design.
 
@@ -233,7 +233,7 @@ The CASA might also modify my "know thy students" CASA so that while I'm within 
 
 ### A CASA for CASA?
 
-The talk also briefly touched on the idea of a CASA for CASA. This idea was previously described in a post [looking at a BAD approach to developing distributed TPACK](/blog2/2015/09/05/design-of-a-bad-approach-to-developing-tpack/).
+The talk also briefly touched on the idea of a CASA for CASA. This idea was previously described in a post [looking at a BAD approach to developing distributed TPACK](/blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/).
 
 ## What's next?
 

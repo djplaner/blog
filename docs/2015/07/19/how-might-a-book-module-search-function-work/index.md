@@ -4,15 +4,15 @@ categories:
 date: 2015-07-19 16:22:41+10:00
 next:
   text: Updating "more student details"
-  url: /blog2/2015/07/23/updating-more-student-details/
+  url: /blog/2015/07/23/updating-more-student-details/
 previous:
   text: Mocking up a search facility for the Moodle book module
-  url: /blog2/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/
+  url: /blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/
 title: How might a Book module search function work?
 type: post
 template: blog-post.html
 ---
-What follows is some explorations of the technology behind Moodle to see how [the mockups of a Book module search function](/blog2/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/) might be implemented. Building my own knowledge of how it works and testing whether it might be possible. It's largely an exploration of how the Search forum block works on the assumption that mirroring that will be a reasonable way to implement a search facility for the Book module.
+What follows is some explorations of the technology behind Moodle to see how [the mockups of a Book module search function](/blog/2015/07/19/mocking-up-a-search-facility-for-the-moodle-book-module/) might be implemented. Building my own knowledge of how it works and testing whether it might be possible. It's largely an exploration of how the Search forum block works on the assumption that mirroring that will be a reasonable way to implement a search facility for the Book module.
 
 Two parts to this. First, a look at how the Search forum block is implemented. Second, some rough exploration of how what might need to be done for the Search book block.
 

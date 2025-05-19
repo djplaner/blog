@@ -5,10 +5,10 @@ categories:
 date: 2009-12-02 13:30:05+10:00
 next:
   text: Self-reporting considered harmful?
-  url: /blog2/2009/12/08/self-reporting-considered-harmful/
+  url: /blog/2009/12/08/self-reporting-considered-harmful/
 previous:
   text: What research groups are looking at the future of education
-  url: /blog2/2009/12/01/what-research-groups-are-looking-at-the-future-of-education/
+  url: /blog/2009/12/01/what-research-groups-are-looking-at-the-future-of-education/
 title: Barriers to harnessing academic analytics
 type: post
 template: blog-post.html

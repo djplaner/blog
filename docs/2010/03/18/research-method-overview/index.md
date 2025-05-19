@@ -7,10 +7,10 @@ categories:
 date: 2010-03-18 21:17:42+10:00
 next:
   text: '"Limits in developing innovative pedagogy with Moodle: The story of BIM"'
-  url: /blog2/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
+  url: /blog/2010/03/19/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/
 previous:
   text: Embedding behaviour modification - paper summary
-  url: /blog2/2010/03/17/embedding-behaviour-modification-paper-summary/
+  url: /blog/2010/03/17/embedding-behaviour-modification-paper-summary/
 title: Research Method - Overview
 type: post
 template: blog-post.html
@@ -79,7 +79,7 @@ pingbacks:
 ---
 The following is the first part of chapter 3 of my thesis. The aim of this part is to explain the broad view of research that informs the work. The second part will give more specific details about the specific method used. Over the next week, I'm re-reading this chapter, when the fixes are done, I will upload a completed version.
 
-**Update:** The latest version of the complete chapter is available [from this page](/blog2/research/phd-thesis/)
+**Update:** The latest version of the complete chapter is available [from this page](/blog/research/phd-thesis/)
 
 ### Introduction
 

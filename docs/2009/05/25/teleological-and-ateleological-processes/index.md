@@ -10,10 +10,10 @@ date: 2009-05-25 10:10:23+10:00
 next:
   text: What are the conditions that are conducive to the creation of a variety of
     new ideas?
-  url: /blog2/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
+  url: /blog/2009/05/25/what-are-the-conditions-that-are-conducive-to-the-creation-of-a-variety-of-new-ideas/
 previous:
   text: Continuing to bash the consultant model
-  url: /blog2/2009/05/24/continuing-to-bash-the-consultant-model/
+  url: /blog/2009/05/24/continuing-to-bash-the-consultant-model/
 title: Teleological and ateleological processes
 type: post
 template: blog-post.html
@@ -338,7 +338,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is an early section on the Process component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) and is intended as part of chapter 2 of [my thesis](/blog2/research/phd-thesis/). Still fairly rough, but somewhat cleaner than some of the thesis sections I've shared here.
+The following is an early section on the Process component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) and is intended as part of chapter 2 of [my thesis](/blog/research/phd-thesis/). Still fairly rough, but somewhat cleaner than some of the thesis sections I've shared here.
 
 ### Teleological and ateleological processes
 

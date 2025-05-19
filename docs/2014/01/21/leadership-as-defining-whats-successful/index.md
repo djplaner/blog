@@ -9,10 +9,10 @@ categories:
 date: 2014-01-21 10:52:01+10:00
 next:
   text: '"A #moodle course site wide "macro" facility?"'
-  url: /blog2/2014/01/22/a-moodle-course-site-wide-macro-facility/
+  url: /blog/2014/01/22/a-moodle-course-site-wide-macro-facility/
 previous:
   text: Analysing some course evaluation comments
-  url: /blog2/2014/01/15/analysing-some-course-evaluation-comments/
+  url: /blog/2014/01/15/analysing-some-course-evaluation-comments/
 tags:
 - leadership
 title: Leadership as defining what's successful

@@ -5,10 +5,10 @@ categories:
 date: 2015-01-30 15:49:11+10:00
 next:
   text: Learning analytics is better when.....?
-  url: /blog2/2015/02/02/learning-analytics-is-better-when/
+  url: /blog/2015/02/02/learning-analytics-is-better-when/
 previous:
   text: Adding some learning process analytics to EDC3100
-  url: /blog2/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
+  url: /blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/
 title: Using the PIRAC - Thinking about an "integrated dashboard"
 type: post
 template: blog-post.html
@@ -63,7 +63,7 @@ pingbacks:
       user_id: '0'
     
 ---
-On Monday I'm off to a rather large meeting to talk about what data might be usefully syndicated into a integrated dashboard. The following is an attempt to think out lod about the (P)IRAC framework ([Jones, Beer and Clark, 2013](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/)) in the context of this local project. To help prepare me for the meeting, but also to ponder some recent thoughts about the framework.
+On Monday I'm off to a rather large meeting to talk about what data might be usefully syndicated into a integrated dashboard. The following is an attempt to think out lod about the (P)IRAC framework ([Jones, Beer and Clark, 2013](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/)) in the context of this local project. To help prepare me for the meeting, but also to ponder some recent thoughts about the framework.
 
 This is still a work in progress.
 
@@ -71,7 +71,7 @@ This is still a work in progress.
 
 Dashboards sux!!
 
-I have a long-term negative view of the value of dashboards and traditional data warehouses/business intelligence type systems. A view that has risen out of both experience and research. For example, the following is a slide from [this invited presentation](/blog2/2013/09/22/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-3/). There's also a [a paper](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) (Beer, Jones, & Tickner, 2014) that evolved from that presentation.
+I have a long-term negative view of the value of dashboards and traditional data warehouses/business intelligence type systems. A view that has risen out of both experience and research. For example, the following is a slide from [this invited presentation](/blog/2013/09/22/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-3/). There's also a [a paper](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) (Beer, Jones, & Tickner, 2014) that evolved from that presentation.
 
 [![Slide19](images/9861539345_cf4b69251a_n.jpg)](https://www.flickr.com/photos/david_jones/9861539345 "Slide19 by David Jones, on Flickr")
 
@@ -92,7 +92,7 @@ Now, leaving that aside.
 
 After a few years of doing learning analytics stuff, we put together the IRAC framework as an attempt to guide learning analytics projects. Broaden the outlook and what needed to be considered. Especially what needed to be considered to ensure that the project outcome was widely and effectively used. The idea is that the four elements of the framework could help ponder what was available and what might be required. The four original components of IRAC are summarised in the following table.
 
-IRAC Framework (adapted from [Jones et al 2013](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/))
+IRAC Framework (adapted from [Jones et al 2013](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/))
 | Component | Description |
 | --- | --- |
 | **I**nformation |   - the information we collect is usually about “those things that are easiest to identify and count or measure” but which may have “little or no connection with those factors of greatest importance” (Norman, 1993, p. 13). - Verhulst’s observation (cited in Bollier & Firestone, 2010) that “big data is driven more by storage capabilities than by superior ways to ascertain useful knowledge” (p. 14). - Is the information required technically and ethically available for use? - How is the information to be cleaned, analysed and manipulated? - Is the information sufficient to fulfill the needs of the task? - In particular, does the information captured provide a reasonable basis upon which to “contribute to the understanding of student learning in a complex social context such as higher education” (Lodge & Lewis, 2012, p. 563)?   |
@@ -102,7 +102,7 @@ IRAC Framework (adapted from [Jones et al 2013](/blog2/2013/10/03/the-irac-frame
 
 ### Adding purpose
 
-Whilst on holiday enjoying the Queenstown view below and various refreshments, @beerc and I discussed a range of issues, including the IRAC framework and what might be missing. Both @beerc and @damoclarky have identified potential elements to be added, but I've always been reluctant. However, one of the common themes underpinning much of the discussion of learning analytics at ASCILITE'2014 was for whom was learning analytics being done? We raised this question somewhat in [our paper](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) when we suggested that much of learning analytics (and educational technology) is mostly done to academics (and students). Typically in the service of some _purpose_ serving the needs of senior management or central services. But the issue was also raised by many others.
+Whilst on holiday enjoying the Queenstown view below and various refreshments, @beerc and I discussed a range of issues, including the IRAC framework and what might be missing. Both @beerc and @damoclarky have identified potential elements to be added, but I've always been reluctant. However, one of the common themes underpinning much of the discussion of learning analytics at ASCILITE'2014 was for whom was learning analytics being done? We raised this question somewhat in [our paper](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) when we suggested that much of learning analytics (and educational technology) is mostly done to academics (and students). Typically in the service of some _purpose_ serving the needs of senior management or central services. But the issue was also raised by many others.
 
 Which got us thinking about **P**urpose.
 
@@ -144,7 +144,7 @@ What follows is a more concerted effort to use PIRAC to think about the project.
     - What is the difference in purpose in using the BI/data warehouse tool versus Moodle analytics plugins or standard Moodle reports?
 - Task Without knowing what the tool can do I'm left with pondering what information related tasks that are currently frustrating or limited. A list might include
     
-    1. Knowing who my students are, where they are, what they are studying, what they've studied and when the add/drop the course (in a way that I can leverage). Which is part of what I'm [doing here](/blog2/2015/01/23/adding-some-learning-process-analytics-to-edc3100/).
+    1. Knowing who my students are, where they are, what they are studying, what they've studied and when the add/drop the course (in a way that I can leverage). Which is part of what I'm [doing here](/blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/).
     2. Having access to the results of course evaluation surveys in a form that I can analyse (e.g. with NVivo).
     3. How do I identify students who are not engaging, struggling, not learning, doing fantastic and intervene?
     

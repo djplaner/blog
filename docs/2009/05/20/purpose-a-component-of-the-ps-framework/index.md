@@ -9,10 +9,10 @@ categories:
 date: 2009-05-20 23:01:41+10:00
 next:
   text: Where's the inspiration? Where's the desire to improve?
-  url: /blog2/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/
+  url: /blog/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/
 previous:
   text: Another cultural conflict
-  url: /blog2/2009/05/20/another-cultural-conflict/
+  url: /blog/2009/05/20/another-cultural-conflict/
 title: Purpose - a component of the Ps Framework
 type: post
 template: blog-post.html
@@ -37,9 +37,9 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is yet another section from chapter two of my [thesis](/blog2/research/phd-thesis/). As with previous sections, this is an early first draft, it will change.
+The following is yet another section from chapter two of my [thesis](/blog/research/phd-thesis/). As with previous sections, this is an early first draft, it will change.
 
-This section attempts to give a brief overview of the Purpose component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/).
+This section attempts to give a brief overview of the Purpose component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/).
 
 ### Purpose
 

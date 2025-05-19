@@ -4,10 +4,10 @@ categories:
 date: 2007-01-05 08:41:25+10:00
 next:
   text: Process and product are inextricably linked
-  url: /blog2/2007/01/10/process-and-product-are-inextricably-linked/
+  url: /blog/2007/01/10/process-and-product-are-inextricably-linked/
 previous:
   text: LMS usage data and value
-  url: /blog2/2006/12/31/lms-usage-data-and-value/
+  url: /blog/2006/12/31/lms-usage-data-and-value/
 title: Participatory design as the basis for staff development and course design
 type: post
 template: blog-post.html

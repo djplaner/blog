@@ -5,15 +5,15 @@ date: 2012-04-25 22:26:05+10:00
 next:
   text: '"Enabling and analysing cross-institutional patterns in learning analytics:
     A foundation for research and action"'
-  url: /blog2/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/
+  url: /blog/2012/05/04/enabling-and-analysing-cross-institutional-patterns-in-learning-analytics-a-foundation-for-research-and-action/
 previous:
   text: Mind the gap - a big problem with institutional e-learning
-  url: /blog2/2012/04/13/mind-the-gap-a-big-problem-with-institutional-e-learning/
+  url: /blog/2012/04/13/mind-the-gap-a-big-problem-with-institutional-e-learning/
 title: Questions and insights on (education) hack days/hackathons
 type: post
 template: blog-post.html
 ---
-A few weeks ago, inspired by [@sthcrft](http://twitter.com/#!/sthcrft), I [speculated around the idea](/blog2/2012/03/16/eduhacking-a-better-use-for-part-of-academic-conferences/) of having a eduhack session at [ASCILITE'2012](http://www.ascilite2012.org/home). There was some interest and I had other tasks, but now it's time to think a bit more about it.
+A few weeks ago, inspired by [@sthcrft](http://twitter.com/#!/sthcrft), I [speculated around the idea](/blog/2012/03/16/eduhacking-a-better-use-for-part-of-academic-conferences/) of having a eduhack session at [ASCILITE'2012](http://www.ascilite2012.org/home). There was some interest and I had other tasks, but now it's time to think a bit more about it.
 
 The following is :
 

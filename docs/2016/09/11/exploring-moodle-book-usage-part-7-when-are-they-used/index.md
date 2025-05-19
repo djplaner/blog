@@ -6,10 +6,10 @@ categories:
 date: 2016-09-11 18:19:26+10:00
 next:
   text: Your experience of organisational digital technology?
-  url: /blog2/2016/09/20/your-experience-of-institutional-digital-technology/
+  url: /blog/2016/09/20/your-experience-of-institutional-digital-technology/
 previous:
   text: Which comes first? Pedagogy or technology?
-  url: /blog2/2016/09/11/which-comes-first-pedagogy-or-technology/
+  url: /blog/2016/09/11/which-comes-first-pedagogy-or-technology/
 title: "Exploring Moodle Book usage \u2013 Part 7 \u2013 When are they used?"
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The [last post](/blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/) in this series looked briefly at the contents of Moodle Book resources. This post is going to look at when the book resources are used, including:
+The [last post](/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/) in this series looked briefly at the contents of Moodle Book resources. This post is going to look at when the book resources are used, including:
 
 - What time of day are the books used?
 - When in the semester are they used?

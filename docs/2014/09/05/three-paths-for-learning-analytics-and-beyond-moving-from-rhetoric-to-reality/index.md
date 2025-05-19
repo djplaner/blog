@@ -5,10 +5,10 @@ categories:
 date: 2014-09-05 15:14:51+10:00
 next:
   text: You want digitally fluent faculty?
-  url: /blog2/2014/09/12/you-want-digitally-fluent-faculty/
+  url: /blog/2014/09/12/you-want-digitally-fluent-faculty/
 previous:
   text: Breaking BAD to bridge the e-learning reality/rhetoric chasm
-  url: /blog2/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/
+  url: /blog/2014/09/05/breaking-bad-to-bridge-the-e-learning-realityrhetoric-chasm/
 title: '"Three paths for learning analytics and beyond: Moving from rhetoric to reality"'
 type: post
 template: blog-post.html

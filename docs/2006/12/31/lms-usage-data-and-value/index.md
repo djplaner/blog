@@ -4,10 +4,10 @@ categories:
 date: 2006-12-31 11:20:40+10:00
 next:
   text: Participatory design as the basis for staff development and course design
-  url: /blog2/2007/01/05/participatory-design-as-the-basis-for-staff-development-and-course-design/
+  url: /blog/2007/01/05/participatory-design-as-the-basis-for-staff-development-and-course-design/
 previous:
   text: Evaluating the drivers for LMS adoption
-  url: /blog2/2006/12/28/evaluating-the-drivers-for-lms-adoption/
+  url: /blog/2006/12/28/evaluating-the-drivers-for-lms-adoption/
 title: LMS usage data and value
 type: post
 template: blog-post.html

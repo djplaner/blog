@@ -4,10 +4,10 @@ categories:
 date: 2007-12-11 16:06:33+10:00
 next:
   text: Why is one not necessarily cheaper than two
-  url: /blog2/2007/12/13/why-is-one-not-necessarily-cheaper-than-two/
+  url: /blog/2007/12/13/why-is-one-not-necessarily-cheaper-than-two/
 previous:
   text: Extreme learning and teaching
-  url: /blog2/2007/11/21/extreme-learning-and-teaching/
+  url: /blog/2007/11/21/extreme-learning-and-teaching/
 tags:
 - cddu-curriculumdesign-complexity-c2d2
 title: New approaches to curriculum design informed by complexity

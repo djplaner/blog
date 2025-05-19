@@ -5,10 +5,10 @@ categories:
 date: 2010-08-22 10:31:06+10:00
 next:
   text: Extracting case study research and multiple contexts?
-  url: /blog2/2010/08/22/extracting-case-study-research-and-multiple-contexts/
+  url: /blog/2010/08/22/extracting-case-study-research-and-multiple-contexts/
 previous:
   text: Minimum course presence and the tension between centralisation and de-centralisation
-  url: /blog2/2010/08/21/minimum-course-presence-and-the-tension-between-centralisation-and-de-centralisation/
+  url: /blog/2010/08/21/minimum-course-presence-and-the-tension-between-centralisation-and-de-centralisation/
 title: '"PhD Update #28 - minimal work, feedback arrived"'
 type: post
 template: blog-post.html
@@ -21,7 +21,7 @@ Am going to try a more evolutionary, to do list oriented approach to this post a
 
 Two fairly small bits of work done this week:
 
-- Completed a draft of the ["lessons learned"](/blog2/2010/08/19/lessons-learned-from-webfuse-2000-onwards/) section of chapter 5. 
+- Completed a draft of the ["lessons learned"](/blog/2010/08/19/lessons-learned-from-webfuse-2000-onwards/) section of chapter 5. 
     This is still fairly early and will be revised, but wanted to get something down on paper, so to speak.
 - Received and started processing some feedback from my esteemed supervisor.
 
@@ -48,7 +48,7 @@ A growing list of tasks to do:
     - Start thinking about form of ISDT for chapter 5.
     - Make more general changes to chapter 4 and the rest of the thesis
         - Rework the Chapter 4 introduction, and perhaps other parts of the chapter, to better orient the reader to the purpose and the structure of the chapter.
-        - Look at how much of the design work in the thesis was done prior to commencing the thesis and how this is outlined within the thesis, with some connection to the extractive case study concept - **[NO](/blog2/2010/08/22/extracting-case-study-research-and-multiple-contexts/)**.
+        - Look at how much of the design work in the thesis was done prior to commencing the thesis and how this is outlined within the thesis, with some connection to the extractive case study concept - **[NO](/blog/2010/08/22/extracting-case-study-research-and-multiple-contexts/)**.
 - Complete evaluation section of chapter 5.
     - What can be evidenced about the trend in feature and broader user adoption about Webfuse systems post 2004/2005.
 - Revisit chapter 1 and get to final draft, start sending around.

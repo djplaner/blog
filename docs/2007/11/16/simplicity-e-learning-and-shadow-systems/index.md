@@ -6,10 +6,10 @@ categories:
 date: 2007-11-16 08:34:01+10:00
 next:
   text: Extreme learning and teaching
-  url: /blog2/2007/11/21/extreme-learning-and-teaching/
+  url: /blog/2007/11/21/extreme-learning-and-teaching/
 previous:
   text: Integrated VLEs/LMSs - benefits and fixes
-  url: /blog2/2007/11/09/integrated-vleslmss-benefits-and-fixes/
+  url: /blog/2007/11/09/integrated-vleslmss-benefits-and-fixes/
 title: Simplicity, e-learning and shadow systems
 type: post
 template: blog-post.html

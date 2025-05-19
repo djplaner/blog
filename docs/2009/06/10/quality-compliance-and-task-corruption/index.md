@@ -4,10 +4,10 @@ categories:
 date: 2009-06-10 10:05:19+10:00
 next:
   text: Institutional learning and teaching strategies
-  url: /blog2/2009/06/11/institutional-learning-and-teaching-strategies/
+  url: /blog/2009/06/11/institutional-learning-and-teaching-strategies/
 previous:
   text: An ill-informed observation on connectivism and other learning theories
-  url: /blog2/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
+  url: /blog/2009/06/09/an-ill-informed-observation-on-connectivism-and-other-learning-theories/
 title: Quality, compliance and task corruption
 type: post
 template: blog-post.html
@@ -59,7 +59,7 @@ My suggestion, based on local observations, is that quality assurance quickly de
 
 I see this happening in the local context now. A small group of people are identifying what needs to be done to comply with AUQA's visit. They are now asking/prescribing folk throughout the institution to do lots of things in preparation for the visit. The people asked to carry out these tasks are annoyed that they are being asked to perform these one off tasks on top of everything else they do and are consequently seeking to comply with the requirements with the minimum of effort - though with a maximum of complaining.
 
-This brings me back to my point about [reflective alignment](/blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/) (my knock off and remixing of Biggs' constructive alignment) and prescription. Quality assurance has become about level 2 of reflective alignment - what management does.
+This brings me back to my point about [reflective alignment](/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/) (my knock off and remixing of Biggs' constructive alignment) and prescription. Quality assurance has become about level 2 of reflective alignment - what management does.
 
 Quality never transforms, in my experience, because it never embeds itself within the journey of staff. It's always a bolt on because the quality folk think more about the destination prescribed by quality than about the teaching and learning.
 

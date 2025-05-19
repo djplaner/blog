@@ -4,10 +4,10 @@ categories:
 date: 2006-07-25 12:20:37+10:00
 next:
   text: Limitations of incoming students and Gantt charts
-  url: /blog2/2006/07/25/limitations-of-incoming-students-and-gantt-charts/
+  url: /blog/2006/07/25/limitations-of-incoming-students-and-gantt-charts/
 previous:
   text: 'BAM Progress #1'
-  url: /blog2/2006/07/23/bam-progress-1/
+  url: /blog/2006/07/23/bam-progress-1/
 title: '"Design research: IS or CS - importance of "no overlap""'
 type: post
 template: blog-post.html

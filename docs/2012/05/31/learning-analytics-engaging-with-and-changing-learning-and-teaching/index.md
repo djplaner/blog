@@ -7,10 +7,10 @@ date: 2012-05-31 11:39:41+10:00
 next:
   text: '"The life and death of Webfuse: lessons for learning and leading into the
     future"'
-  url: /blog2/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
+  url: /blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/
 previous:
   text: Harnessing learning analytics to inform/improve learning and teaching
-  url: /blog2/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
+  url: /blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/
 title: '"Learning Analytics: engaging with and changing learning and teaching"'
 type: post
 template: blog-post.html
@@ -49,7 +49,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is an attempt to build a bit more on [an earlier idea](/blog2/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/) around the use of learning analytics. It's an attempt to frame a different approach to the use of learning analytics and to share these ideas in preparation for a potential project.
+The following is an attempt to build a bit more on [an earlier idea](/blog/2012/05/20/harnessing-learning-analytics-to-informimprove-learning-and-teaching/) around the use of learning analytics. It's an attempt to frame a different approach to the use of learning analytics and to share these ideas in preparation for a potential project.
 
 In part, the project is based on the assumption that the current predominant applications of learning analytics are
 

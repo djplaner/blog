@@ -5,10 +5,10 @@ categories:
 date: 2013-02-26 11:31:57+10:00
 next:
   text: Diagnosing a BIM problem
-  url: /blog2/2013/02/27/diagnosing-a-bim-problem/
+  url: /blog/2013/02/27/diagnosing-a-bim-problem/
 previous:
   text: The assessment of learning journals - ideas for BIM
-  url: /blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/
+  url: /blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/
 title: And it starts again, edc3100 in 2013
 type: post
 template: blog-post.html
@@ -80,7 +80,7 @@ pingbacks:
     []
     
 ---
-It's that time of year again - week 1, semester 1 - and after almost three-quarters of a year there are face-to-face students to tutor and lecture. Have to love the pedagogical assumptions built into the fabric of the technology that is a University education (a good example of technology becoming [mythic](/blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/)). The following captures a few thoughts from the first lecture/tutorial.
+It's that time of year again - week 1, semester 1 - and after almost three-quarters of a year there are face-to-face students to tutor and lecture. Have to love the pedagogical assumptions built into the fabric of the technology that is a University education (a good example of technology becoming [mythic](/blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/)). The following captures a few thoughts from the first lecture/tutorial.
 
 ## The need to define ICTs by example?
 

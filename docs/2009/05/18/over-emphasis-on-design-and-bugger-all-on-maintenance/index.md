@@ -5,10 +5,10 @@ categories:
 date: 2009-05-18 11:00:44+10:00
 next:
   text: Quality assurance of learning and teaching
-  url: /blog2/2009/05/18/quality-assurance-of-learning-and-teaching/
+  url: /blog/2009/05/18/quality-assurance-of-learning-and-teaching/
 previous:
   text: Lessons from place
-  url: /blog2/2009/05/17/lessons-from-place/
+  url: /blog/2009/05/17/lessons-from-place/
 title: Over emphasis on design and bugger all on maintenance
 type: post
 template: blog-post.html

@@ -5,10 +5,10 @@ categories:
 date: 2010-04-02 18:13:06+10:00
 next:
   text: What are good designs/design principles for Moodle
-  url: /blog2/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
+  url: /blog/2010/04/03/what-are-good-designsdesign-principles-for-moodle/
 previous:
   text: Moodle curriculum mapping - Step 3
-  url: /blog2/2010/04/02/moodle-curriculum-mapping-step-3/
+  url: /blog/2010/04/02/moodle-curriculum-mapping-step-3/
 title: '"PhD Update #25: A return to discipline?"'
 type: post
 template: blog-post.html
@@ -32,9 +32,9 @@ pingbacks:
       user_id: '0'
     
 ---
-The [last PhD update](/blog2/2009/09/11/phd-update-24-off-to-the-crocodile-form/) I posted here was in early November last year. It's time to get back into the discipline of posting these updates, especially now I'm in the downhill stretch.
+The [last PhD update](/blog/2009/09/11/phd-update-24-off-to-the-crocodile-form/) I posted here was in early November last year. It's time to get back into the discipline of posting these updates, especially now I'm in the downhill stretch.
 
-The rationale/excuse for not having posted in the last 3 or 4 months has been work and Christmas. For most of November, I was traveling to or working on conference presentations. I also visited Canberra in that time to work a bit on the thesis and received feedback from my supervisor - reduce content!. December was holidays and then, the great plan to spend January on holiday, working on the thesis went pear shape. For various silly, contextual issues I spent most of January and February working on [BIM](/blog2/research/bam-blog-aggregation-management/) so folk could use it starting around March. This will hopefully bring some benefits, but it didn't help thesis completion.
+The rationale/excuse for not having posted in the last 3 or 4 months has been work and Christmas. For most of November, I was traveling to or working on conference presentations. I also visited Canberra in that time to work a bit on the thesis and received feedback from my supervisor - reduce content!. December was holidays and then, the great plan to spend January on holiday, working on the thesis went pear shape. For various silly, contextual issues I spent most of January and February working on [BIM](/blog/research/bam-blog-aggregation-management/) so folk could use it starting around March. This will hopefully bring some benefits, but it didn't help thesis completion.
 
 ### What I did last week
 

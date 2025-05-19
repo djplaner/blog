@@ -9,10 +9,10 @@ categories:
 date: 2009-08-23 10:28:52+10:00
 next:
   text: Other information systems in higher education
-  url: /blog2/2009/08/23/other-information-systems-in-higher-education/
+  url: /blog/2009/08/23/other-information-systems-in-higher-education/
 previous:
   text: What is an LMS?
-  url: /blog2/2009/08/21/what-is-an-lms/
+  url: /blog/2009/08/21/what-is-an-lms/
 title: LMS characteristics and limitations
 type: post
 template: blog-post.html
@@ -76,7 +76,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This post follows on from [previous posts](/blog2/2009/08/21/what-is-an-lms/) and contributes the next bit of the Product component of [my thesis](/blog2/research/phd-thesis/).
+This post follows on from [previous posts](/blog/2009/08/21/what-is-an-lms/) and contributes the next bit of the Product component of [my thesis](/blog/research/phd-thesis/).
 
 Having given an overview of what an learning management system (LMS) is in the last post, this post looks at some of the characteristics and limitations of the LMS model. It's not complete, but it's a start.
 

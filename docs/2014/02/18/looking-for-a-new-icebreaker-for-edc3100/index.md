@@ -5,10 +5,10 @@ categories:
 date: 2014-02-18 10:05:49+10:00
 next:
   text: '"Does GPA make any difference to #moodle course usage?"'
-  url: /blog2/2014/02/20/does-gpa-make-any-difference-to-moodle-course-usage/
+  url: /blog/2014/02/20/does-gpa-make-any-difference-to-moodle-course-usage/
 previous:
   text: It&#039;s making us stupid
-  url: /blog2/2014/02/17/making-us-stupid/
+  url: /blog/2014/02/17/making-us-stupid/
 title: '"Looking for a new "icebreaker" for #edc3100"'
 type: post
 template: blog-post.html
@@ -176,7 +176,7 @@ pingbacks:
       user_id: '0'
     
 ---
-As [mentioned previously](/blog2/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/) the simplistic (lazy) introductory forum for #edc3100 didn't achieve it's ill-defined goals. I need to find a new one.
+As [mentioned previously](/blog/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/) the simplistic (lazy) introductory forum for #edc3100 didn't achieve it's ill-defined goals. I need to find a new one.
 
 Given I hate ice-breaker activities, I doubt this is going to be very creative. Plus time is against me.
 

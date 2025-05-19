@@ -7,10 +7,10 @@ categories:
 date: 2016-02-14 11:17:00+10:00
 next:
   text: '"Can video be emedded in ePub exported from #moodle book?"'
-  url: /blog2/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
+  url: /blog/2016/02/17/can-video-be-emedded-in-epub-exported-from-moodle-book/
 previous:
   text: Minimalism, constructivism and use of Moodle or any other e-learning tool
-  url: /blog2/2016/02/11/minimalism-constructivism-and-use-of-moodle-or-anyother-e-learning-tool/
+  url: /blog/2016/02/11/minimalism-constructivism-and-use-of-moodle-or-anyother-e-learning-tool/
 title: Sentiment analysis of student blog posts
 type: post
 template: blog-post.html
@@ -69,9 +69,9 @@ pingbacks:
     []
     
 ---
-In June last year [I started an exploration](/blog2/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/) into the value of sentiment analysis of student blog posts. This morning I've actually gotten it to work. There may be some value, but further exploration is required. Here's the visible representation of what I've done.
+In June last year [I started an exploration](/blog/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/) into the value of sentiment analysis of student blog posts. This morning I've actually gotten it to work. There may be some value, but further exploration is required. Here's the visible representation of what I've done.
 
-The following is a screen shot of the modified ["know thy student" kludge](/blog2/2015/09/15/helping-teachers-know-thy-students/) I've implemented for my course. The window shows some details for an individual student from second semester last year (I've blurred out identifying elements). The current focus is on the blog posts the student has written. [![Sentiment analysis of blog posts](images/24713913780_28a2460275.jpg)](https://www.flickr.com/photos/david_jones/24713913780/in/dateposted-public/ "Sentiment analysis of blog posts")
+The following is a screen shot of the modified ["know thy student" kludge](/blog/2015/09/15/helping-teachers-know-thy-students/) I've implemented for my course. The window shows some details for an individual student from second semester last year (I've blurred out identifying elements). The current focus is on the blog posts the student has written. [![Sentiment analysis of blog posts](images/24713913780_28a2460275.jpg)](https://www.flickr.com/photos/david_jones/24713913780/in/dateposted-public/ "Sentiment analysis of blog posts")
 
 Each row in the above corresponds to an individual blog post. It used to show how long ago the post was written, the post's title, and provide a link to the blog post. The modified version has the background colour for the cell modified to represent the sentiment of the blog post content. A red background indicates a negative post, a green background indicates a positive post, and a yellow background indicates somewhere in the middle.
 
@@ -107,7 +107,7 @@ Appears that the following are required/might be useful
 
 1. Explore different representations and analysis So far I've only looked at the student by student representation. Another forms of analysis/representation would seem potentially useful. Are there differences/patterns across semester, between students that are the same/different on certain characteristics, between different offerings of the course etc.How can and should this representation be made visible to the students?
 2. Set this in place for Semester 1. In a couple of weeks the 300+ student version of this course runs. Having the sentiment analysis working live during that semester could be useful.
-3. Explore useful affordances. One of the points of the [PIRAC framework](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) is that this form of learning analytics is only as useful as the affordances for action that it supports. What functionality can be added to this to help me and the students take action in response?
+3. Explore useful affordances. One of the points of the [PIRAC framework](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) is that this form of learning analytics is only as useful as the affordances for action that it supports. What functionality can be added to this to help me and the students take action in response?
 
 ### Reflection
 

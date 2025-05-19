@@ -5,10 +5,10 @@ coverImage: 36379213_b65e65ed62_o.jpg
 date: 2020-11-16 07:49:12+10:00
 next:
   text: Do the little things matter in design for learning?
-  url: /blog2/2021/03/06/do-the-little-things-matter-in-design-for-learning/
+  url: /blog/2021/03/06/do-the-little-things-matter-in-design-for-learning/
 previous:
   text: Supporting the design of discipline-specific digital learning activities
-  url: /blog2/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/
+  url: /blog/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/
 title: Reflections on "How learning design systems can help scale and accelerate learning
   design"
 type: post
@@ -22,7 +22,7 @@ Joyce's work is important work because it engages with one of the more challengi
 
 aka. how do Universities [move beyond providing guidance and actually help](https://lawriephipps.co.uk/reflections-week-twelve-people-wanted-help-we-gave-them-guidance/) with the provision of digital education.
 
-The literature (e.g. the intro of [Jones, 2019](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/)) recognises this question as essential to higher education, but also identifies significant problems with existing solutions. Buying new technology, running PD sessions outlining the "5 guidelines for X", or doing ad hoc instructional design projects aren't cutting it. The work Joyce and her colleagues are doing with Learning Design Systems draws on successful practices from a different realm in an attempt to systematically answer the question.
+The literature (e.g. the intro of [Jones, 2019](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/)) recognises this question as essential to higher education, but also identifies significant problems with existing solutions. Buying new technology, running PD sessions outlining the "5 guidelines for X", or doing ad hoc instructional design projects aren't cutting it. The work Joyce and her colleagues are doing with Learning Design Systems draws on successful practices from a different realm in an attempt to systematically answer the question.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iBU76mlA0_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -119,7 +119,7 @@ Somewhere in here is also where [the PSU web component work](https://webcomponen
 
 Dimitriadis and Goodyear ([2013](https://journal.alt.ac.uk/index.php/rlt/article/view/1402)) argue that design for learning (aka learning design) needs to be more forward-oriented. That is, there's a need to move away from the view of design as producing a course (learning task/environment etc) so it's ready for the start of semester. To move away from the idea that design is somehow separate from the other stages in the lifecycle of a course. Instead, when designing, there's a need to actively consider what will be required during configuration, orchestration, evaluation, and reflection and respond to that.
 
-Extending that to components, a learning activity component should not only embody design knowledge that helps with creating an effective, consistent interface. It needs to offer functionality that embodies design knowledge that helps learners and teachers during learntime (orchestration) etc. As a simple example, a component that [displays options for watching films](/blog2/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/) within learning material in a consistent, effective way (see image below) depending on how the institution has been able to provide access. A component that recognises the film availability changes and hence the learning materials need to be kept up to date. A process that can be painful if the film is mentioned multiple times. A component that supports configuration by drawing film availability from a spreadsheet. Allowing the teacher to change a single line and have that automatically applied throughout the learning materials.
+Extending that to components, a learning activity component should not only embody design knowledge that helps with creating an effective, consistent interface. It needs to offer functionality that embodies design knowledge that helps learners and teachers during learntime (orchestration) etc. As a simple example, a component that [displays options for watching films](/blog/2020/08/15/supporting-the-design-of-discipline-specific-digital-learning-activities/) within learning material in a consistent, effective way (see image below) depending on how the institution has been able to provide access. A component that recognises the film availability changes and hence the learning materials need to be kept up to date. A process that can be painful if the film is mentioned multiple times. A component that supports configuration by drawing film availability from a spreadsheet. Allowing the teacher to change a single line and have that automatically applied throughout the learning materials.
 
 ![](images/filmWatchOptions.png)
 
@@ -145,7 +145,7 @@ The [card interface](https://djplaner.github.io/Card-Interface-Tweak/) is one of
 
 The Future Learn design system, the Atomic Design methodology on which it is based, and the work described by Suarez et al (n.d) are all based on the assumption that you've building websites and that you are able to create reusable components. There are two issues with that: 1) the limited forms of integration support by current common digital learning tools; and, 2) the increasing move away from the web.
 
-The Card Interface is possible because Blackboard Learn (Classic) is at some level a collection of HTML pages and we can insert web components within it. The next generation systems - Blackboard Learn Ultra - removes this capability. Echoing the move away from the web to the app and [higher education platforms and cloud infrastructures](https://codeactsineducation.wordpress.com/2020/11/10/higher-education-platforms-cloud-infrastructures-dataist-state/). Most of the other common digital learning tools (e.g. PebblePad, Echo360) generally don't play well together. When they do play together they are limited to [LTI lego block integration](/blog2/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/#lti-the-problematic-lego-approach-metaphor-of-integration).
+The Card Interface is possible because Blackboard Learn (Classic) is at some level a collection of HTML pages and we can insert web components within it. The next generation systems - Blackboard Learn Ultra - removes this capability. Echoing the move away from the web to the app and [higher education platforms and cloud infrastructures](https://codeactsineducation.wordpress.com/2020/11/10/higher-education-platforms-cloud-infrastructures-dataist-state/). Most of the other common digital learning tools (e.g. PebblePad, Echo360) generally don't play well together. When they do play together they are limited to [LTI lego block integration](/blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/#lti-the-problematic-lego-approach-metaphor-of-integration).
 
 At the other end of the spectrum are web components ([e.g. the PSU web component work](https://webcomponents.psu.edu/styleguide/?path=/story/about-getting-started--using-penn-state-cdn)). Web components provide an effective way to package and reuse work like the Card Interface. But it requires a different type of infrastructure and approach than the pay for a platform (e.g. O365) and support it approach that most higher education institutions are curently using.
 
@@ -169,7 +169,7 @@ Goodyear, P. (2015). [Teaching As Design](http://www.herdsa.org.au/herdsa-review
 
 Hatton, E. (1989). Levi-Strauss's Bricolage and Theorizing Teachers' Work. _Anthropology and Education Quarterly_, _20_(2), 74--96.
 
-Jones, D., Stewart, S., & Power, L. (1999). Patterns: Using Proven Experience to Develop Online Learning. _ASCILITE_, 155-162. [/blog2/publications/patterns-using-proven-experience-to-develop-online-learning/](/blog2/publications/patterns-using-proven-experience-to-develop-online-learning/)
+Jones, D., Stewart, S., & Power, L. (1999). Patterns: Using Proven Experience to Develop Online Learning. _ASCILITE_, 155-162. [/blog/publications/patterns-using-proven-experience-to-develop-online-learning/](/blog/publications/patterns-using-proven-experience-to-develop-online-learning/)
 
 McIlroy, M. D. (1968). _Mass-produced software components_. Software Engineering, Garmisch, Germany.
 

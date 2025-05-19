@@ -4,10 +4,10 @@ categories:
 date: 2010-08-15 13:35:06+10:00
 next:
   text: How people learn and implications for academic development
-  url: /blog2/2010/08/19/how-people-learn-and-implications-for-academic-development/
+  url: /blog/2010/08/19/how-people-learn-and-implications-for-academic-development/
 previous:
   text: 'PhD Update #27 - New context'
-  url: /blog2/2010/08/13/phd-update-27-new-context/
+  url: /blog/2010/08/13/phd-update-27-new-context/
 tags:
 - andrew-keen
 - business

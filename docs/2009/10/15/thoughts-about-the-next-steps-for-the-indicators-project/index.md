@@ -4,10 +4,10 @@ categories:
 date: 2009-10-15 09:50:30+10:00
 next:
   text: '"Podcast for presentations at the PLEs &#038; PLNs symposium"'
-  url: /blog2/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/
+  url: /blog/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/
 previous:
   text: The indicators project and what it means for me
-  url: /blog2/2009/10/12/the-indicators-project-and-what-it-means-for-me/
+  url: /blog/2009/10/12/the-indicators-project-and-what-it-means-for-me/
 title: Thoughts about the next steps for the indicators project
 type: post
 template: blog-post.html

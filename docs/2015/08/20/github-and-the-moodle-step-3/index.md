@@ -4,21 +4,21 @@ categories:
 date: 2015-08-20 11:15:08+10:00
 next:
   text: Refining a visualisation
-  url: /blog2/2015/08/21/refining-a-visualisation/
+  url: /blog/2015/08/21/refining-a-visualisation/
 previous:
   text: Visualising locations of students etc
-  url: /blog2/2015/08/18/visualising-locations-of-students-etc/
+  url: /blog/2015/08/18/visualising-locations-of-students-etc/
 title: github and the Moodle - Step 3
 type: post
 template: blog-post.html
 ---
-Time to follow up [step 2](/blog2/2015/08/16/github-and-the-moodle-book-step-2/) in connecting github and the Moodle book module.
+Time to follow up [step 2](/blog/2015/08/16/github-and-the-moodle-book-step-2/) in connecting github and the Moodle book module.
 
 ## Current status
 
 1. Initial Book tool set up and a [github repo](https://github.com/djplaner/moodle-booktool_github) created.
 2. Identified a PHP client for the github api that looks useful.
-3. [Explored](/blog2/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/) how to complete various required tasks with that API from command line php.
+3. [Explored](/blog/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/) how to complete various required tasks with that API from command line php.
 
 ## To do here
 

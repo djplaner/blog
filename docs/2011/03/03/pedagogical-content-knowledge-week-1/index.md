@@ -5,10 +5,10 @@ categories:
 date: 2011-03-03 16:31:16+10:00
 next:
   text: A question (or two) on the similarity of "neuronal" and "networked" knowledge
-  url: /blog2/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/
+  url: /blog/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/
 previous:
   text: A PMI of constructivism
-  url: /blog2/2011/03/03/a-pmi-of-constructivism/
+  url: /blog/2011/03/03/a-pmi-of-constructivism/
 title: '"Pedagogical Content Knowledge: Week 1"'
 type: post
 template: blog-post.html
@@ -246,7 +246,7 @@ From that perspective, again a very connectivist approach teaching becomes the a
 
 Within this course/program, perhaps even the current education paradigm, the focus is on constructivism. In such a paradigm, where learning is seen as constructing meaning, the role of teaching seems to become creating experiences that enable and encourage students to construct meaning.
 
-As argued briefly above and [previously](/blog2/2011/02/28/thoughts-and-applications-of-connectivism/) I would probably argue that the concepts of "meaning" and "networks" have a lot of overlap/similarity. i.e. in constructivism teaching is influencing/shaping student meaning making, in connectivism teaching is influencing/shaping student network making (and traversal).
+As argued briefly above and [previously](/blog/2011/02/28/thoughts-and-applications-of-connectivism/) I would probably argue that the concepts of "meaning" and "networks" have a lot of overlap/similarity. i.e. in constructivism teaching is influencing/shaping student meaning making, in connectivism teaching is influencing/shaping student network making (and traversal).
 
 I wonder if Siemens' 7 roles from above can be merged/overlapped with some more "traditional" constructivist approaches.
 

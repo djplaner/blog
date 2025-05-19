@@ -6,10 +6,10 @@ categories:
 date: 2012-01-30 15:29:12+10:00
 next:
   text: '"Thinking about the Preservice teaching networking (#pstn) project"'
-  url: /blog2/2012/01/31/thinking-about-the-preservice-teaching-networking-pstn-project/
+  url: /blog/2012/01/31/thinking-about-the-preservice-teaching-networking-pstn-project/
 previous:
   text: Understanding trends around ICTs
-  url: /blog2/2012/01/26/understanding-trends-around-icts/
+  url: /blog/2012/01/26/understanding-trends-around-icts/
 title: Models of Teacher PD  for ICT integration
 type: post
 template: blog-post.html
@@ -20,7 +20,7 @@ The following quote from page 23 of the report gives a good summary of its purpo
 
 > Stated briefly, the goal of this Report is to answer the question, ‘How can the professional development of teachers and educational leaders facilitate the integration of new technologies into classroom practice?’. More specifically, it asks ‘What models of teacher professional development exist, in Australia and around the world, to support the integration of information and communication technologies into classroom practice?’ and ‘What advice does the current research literature provide about which of these models are most effective for this purpose?’.
 
-I've come to the report via the [set text](/blog2/2012/01/26/understanding-trends-around-icts/) for the course I'll be teaching. I'm interested in the report for what insight it might reveal for the course and in particular the [PSTN project](http://universityofawesome.org/pstn/).
+I've come to the report via the [set text](/blog/2012/01/26/understanding-trends-around-icts/) for the course I'll be teaching. I'm interested in the report for what insight it might reveal for the course and in particular the [PSTN project](http://universityofawesome.org/pstn/).
 
 ### Misc. considerations
 

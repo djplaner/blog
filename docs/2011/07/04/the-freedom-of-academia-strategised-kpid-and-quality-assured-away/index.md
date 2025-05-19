@@ -4,10 +4,10 @@ categories:
 date: 2011-07-04 11:02:43+10:00
 next:
   text: How do you increase sharing? Create an interactive website?
-  url: /blog2/2011/07/04/how-do-you-increase-sharing-create-an-interactive-website/
+  url: /blog/2011/07/04/how-do-you-increase-sharing-create-an-interactive-website/
 previous:
   text: Myself as teacher and learner
-  url: /blog2/2011/07/03/myself-as-teacher-and-learner/
+  url: /blog/2011/07/03/myself-as-teacher-and-learner/
 title: '"The freedom of academia: strategised, KPI''d, and quality assured away"'
 type: post
 template: blog-post.html

@@ -5,10 +5,10 @@ categories:
 date: 2011-06-16 21:24:30+10:00
 next:
   text: A new term dawns
-  url: /blog2/2011/06/20/a-new-term-dawns/
+  url: /blog/2011/06/20/a-new-term-dawns/
 previous:
   text: Design Rationale - ICTs for E-Learning A3
-  url: /blog2/2011/06/05/design-rationale-icts-for-e-learning-a3-part-2/
+  url: /blog/2011/06/05/design-rationale-icts-for-e-learning-a3-part-2/
 title: A simple class management plan for beginning teachers
 type: post
 template: blog-post.html

@@ -192,7 +192,7 @@ University of Southern Queensland
 
 David Jones, Jo Luck, Jeanne McConachie, P. A. Danaher, The teleological brake on ICTs in open and distance learning, To appear in Proceedings of ODLAA’2005
 
-see also [publications page](/blog2/publications/)
+see also [publications page](/blog/publications/)
 
 ### Abstract
 

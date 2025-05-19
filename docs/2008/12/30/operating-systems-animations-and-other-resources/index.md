@@ -5,10 +5,10 @@ categories:
 date: 2008-12-30 09:09:03+10:00
 next:
   text: Webfuse usage statistics - Quizzes
-  url: /blog2/2009/01/05/webfuse-usage-statistics-quizzes/
+  url: /blog/2009/01/05/webfuse-usage-statistics-quizzes/
 previous:
   text: Plans for implementing rotating banner image
-  url: /blog2/2008/12/28/plans-for-implementing-rotating-banner-image/
+  url: /blog/2008/12/28/plans-for-implementing-rotating-banner-image/
 tags:
 - operatingsystems-animation
 title: Operating Systems animations and other resources

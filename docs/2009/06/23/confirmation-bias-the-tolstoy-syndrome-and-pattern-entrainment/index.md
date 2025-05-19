@@ -6,10 +6,10 @@ categories:
 date: 2009-06-23 09:59:29+10:00
 next:
   text: Students and e-learning - a start to the People section
-  url: /blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/
+  url: /blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/
 previous:
   text: 'PhD Update #15 - Some progress and an absence'
-  url: /blog2/2009/06/21/phd-update-15-some-progress-and-an-absence/
+  url: /blog/2009/06/21/phd-update-15-some-progress-and-an-absence/
 title: Confirmation bias, the Tolstoy Syndrome and pattern entrainment
 type: post
 template: blog-post.html
@@ -76,7 +76,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm currently working on the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) as part of [my thesis](/blog2/research/phd-thesis/). One of the sections of the People component will be "People and cognition". It will seek to illustrate that people are not rational decision-makers, that we have all sorts of significant flaws in how we make decisions and that these flaws significant impact upon the implementation and practice of e-learning (the topic of the thesis).
+I'm currently working on the People component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) as part of [my thesis](/blog/research/phd-thesis/). One of the sections of the People component will be "People and cognition". It will seek to illustrate that people are not rational decision-makers, that we have all sorts of significant flaws in how we make decisions and that these flaws significant impact upon the implementation and practice of e-learning (the topic of the thesis).
 
 In writing another blog post I visited the [Wikipedia article on conformation bias](http://en.wikipedia.org/wiki/Confirmation_bias) and found out about ["Tolstoy syndrome"](http://en.wikipedia.org/wiki/Confirmation_bias#Tolstoy_syndrome) from which the following two quotes come.
 
@@ -92,14 +92,14 @@ If you want some idea of how important this particular cognitive bias is, then l
 
 Other connections include:
 
-- [pattern entrainment](/blog2/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/#patternEntrainment) from [Dave Snowden](http://en.wikipedia.org/wiki/Dave_Snowden);
-- [Kaplan's law of instrument](/blog2/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/); and  
+- [pattern entrainment](/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/#patternEntrainment) from [Dave Snowden](http://en.wikipedia.org/wiki/Dave_Snowden);
+- [Kaplan's law of instrument](/blog/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/); and  
     Which thanks to [Damien](http://damosworld.wordpress.com/) and [Wikipedia](http://en.wikipedia.org/wiki/Law_of_the_instrument) looks like it should be "Maslow's hammer" or simply the "Golden Hammer".
-- [status quo adherence](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/#statusQuo) from McDonald and Gibbons (nd)
+- [status quo adherence](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/#statusQuo) from McDonald and Gibbons (nd)
 
 ### Implications for e-learning
 
-When it comes to learning and teaching at universities the folk most likely to be accused of suffering from "Tolstoy's syndrome" are the teaching staff. If only those recalcitrant academics would accept new and more modern (i.e. effective) ideas around learning and teaching everything would be okay. This often results in prescriptive approaches to improving learning and teaching (e.g. all courses shall use PBL) which I think are destined to fail and be effected by [technology gravity](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/).
+When it comes to learning and teaching at universities the folk most likely to be accused of suffering from "Tolstoy's syndrome" are the teaching staff. If only those recalcitrant academics would accept new and more modern (i.e. effective) ideas around learning and teaching everything would be okay. This often results in prescriptive approaches to improving learning and teaching (e.g. all courses shall use PBL) which I think are destined to fail and be effected by [technology gravity](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/).
 
 In the People section I'm working on I'm looking at the following groups of people: students, teaching staff, instructional designers, managers and leaders, and technical staff. As these are all (generally) people they all suffer from Tolstoy's syndrome and consequently it's a major issue in e-learning implementation and use.
 

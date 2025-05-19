@@ -7,10 +7,10 @@ categories:
 date: 2013-07-14 21:58:00+10:00
 next:
   text: How are they feeling - Semester 2 - Part 1
-  url: /blog2/2013/07/18/how-are-they-feeling-semester-2-part-1/
+  url: /blog/2013/07/18/how-are-they-feeling-semester-2-part-1/
 previous:
   text: A quick search for a Google reader alternative
-  url: /blog2/2013/07/07/a-quick-search-for-a-google-reader-alternative/
+  url: /blog/2013/07/07/a-quick-search-for-a-google-reader-alternative/
 title: IRAC - Four questions for learning analytics interventions
 type: post
 template: blog-post.html
@@ -77,7 +77,7 @@ The following is an early description of work arising out of [The Indicators Pro
 
 ## Why?
 
-The spark for this work is based on observations made in a [presentation](/blog2/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/) from last year. In summary, the argument is that learning analytics has become a management fashion/fad in higher education and how this generally means most implementation of learning analytics is not likely to be very mindful. In turn it is very likely to be limited in its impact on learning and teaching. Having much in common with the raft of expenditure in data warehouses some years ago. Let alone examples such as: graduate attributes, eportfolios, the LMS, open learning, learning objects etc. It would nice to avoid this yet again.
+The spark for this work is based on observations made in a [presentation](/blog/2012/11/01/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics/) from last year. In summary, the argument is that learning analytics has become a management fashion/fad in higher education and how this generally means most implementation of learning analytics is not likely to be very mindful. In turn it is very likely to be limited in its impact on learning and teaching. Having much in common with the raft of expenditure in data warehouses some years ago. Let alone examples such as: graduate attributes, eportfolios, the LMS, open learning, learning objects etc. It would nice to avoid this yet again.
 
 There are characteristics of learning analytics that make the difficulties associated with developing appropriate innovations beyond the faddish adoption of analytics. One of the major contributors is that the use of learning analytics encompasses many different bodies of literature both within and outside learning and teaching. In fact, many of these different bodies of literature have developed important insights that can directly help inform the use of learning analytics to improve learning and teaching. What's worse is that early indications are that - not unsurprisingly - most institutional projects around learning analytics are apparently ignorant of the insights and lessons gained from this prior work.
 

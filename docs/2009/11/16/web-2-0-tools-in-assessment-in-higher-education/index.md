@@ -4,10 +4,10 @@ categories:
 date: 2009-11-16 09:51:35+10:00
 next:
   text: Business intelligence and PEBKAC
-  url: /blog2/2009/11/20/business-intelligence-and-pebkac/
+  url: /blog/2009/11/20/business-intelligence-and-pebkac/
 previous:
   text: Twitter back channels, conferences, sessions and engaging the audience
-  url: /blog2/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
+  url: /blog/2009/11/13/twitter-back-channels-conferences-sessions-and-engaging-the-audience/
 tags:
 - web2-0-socialmedia
 title: Web 2.0 tools in assessment in higher education

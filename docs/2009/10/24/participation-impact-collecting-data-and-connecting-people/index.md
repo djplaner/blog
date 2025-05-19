@@ -5,10 +5,10 @@ categories:
 date: 2009-10-24 08:58:00+10:00
 next:
   text: The bureaucratic model and the grammar and future of universities
-  url: /blog2/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
+  url: /blog/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
 previous:
   text: Alternate ways to get the real story in organisations
-  url: /blog2/2009/10/21/alternate-ways-to-get-the-real-story-in-organisations/
+  url: /blog/2009/10/21/alternate-ways-to-get-the-real-story-in-organisations/
 tags:
 - vle-cms-lms
 title: Participation, impact, collecting data and connecting people
@@ -85,7 +85,7 @@ My fear is that this type of finding will be used to "bring people together" in 
     After all, at least at my institution it's increasingly management that have access to the dashboards, not the academic staff.
 - The data mining dweebs and management will tell stories about these recalcitrant "super-low" academics and their silliness.
 - A policy will be formulated, probably as part of "minimum standards" (aka maximum requirements), that academics must average at least X (probably 3000 or more) hits on their course website in a term.
-- As with any such approach [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) will reign supreme.
+- As with any such approach [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) will reign supreme.
 
 While the indicators project is a research project focused on trying to generate some data, we also have to give some thought and be vocal about how the data could be used appropriately. Here are some initial thoughts on some steps that might help:
 

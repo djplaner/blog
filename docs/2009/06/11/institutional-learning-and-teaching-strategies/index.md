@@ -8,10 +8,10 @@ categories:
 date: 2009-06-11 11:35:26+10:00
 next:
   text: Another ill-informed point about connectivism versus behaviourism and cognitivism
-  url: /blog2/2009/06/12/another-ill-informed-point-about-connectivism-versus-behaviourism-and-cognitivism/
+  url: /blog/2009/06/12/another-ill-informed-point-about-connectivism-versus-behaviourism-and-cognitivism/
 previous:
   text: Quality, compliance and task corruption
-  url: /blog2/2009/06/10/quality-compliance-and-task-corruption/
+  url: /blog/2009/06/10/quality-compliance-and-task-corruption/
 title: Institutional learning and teaching strategies
 type: post
 template: blog-post.html
@@ -48,7 +48,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the next section of the [Process](/blog2/2009/05/25/teleological-and-ateleological-processes/) component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) section of my [thesis](/blog2/research/phd-thesis). I have an inkling that my bias towards [ateleological processes](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/) comes through a bit strong in this. May have to balance it up with some additions later on.
+The following is the next section of the [Process](/blog/2009/05/25/teleological-and-ateleological-processes/) component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) section of my [thesis](/blog/research/phd-thesis). I have an inkling that my bias towards [ateleological processes](/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/) comes through a bit strong in this. May have to balance it up with some additions later on.
 
 Does anyone have some literature references that are friendly towards the idea of institutional learning and teaching strategies? (Beyond some of the following)
 

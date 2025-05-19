@@ -6,11 +6,11 @@ categories:
 date: 2014-10-09 11:24:43+10:00
 next:
   text: Fixing one part of the peoplesoft gradebook
-  url: /blog2/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/
+  url: /blog/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/
 previous:
   text: What do new views of knowledge &#038; thinking have to say about research
     on teacher learning?
-  url: /blog2/2014/10/03/what-do-new-views-of-knowledge-thinking-have-to-say-about-research-on-teacher-learning/
+  url: /blog/2014/10/03/what-do-new-views-of-knowledge-thinking-have-to-say-about-research-on-teacher-learning/
 title: On the difference between "rational", "possible" and "desirable"
 type: post
 template: blog-post.html
@@ -86,7 +86,7 @@ At that stage, "management" couldn't grasp the value of this process and it neve
 
 ### Fear of management rising
 
-Not long after that - as the learning analytics fad started to rise - Col and I were worried about what management would do once they joined the band wagon. In particular, we wondered when they might identify the problems that ideas like "Web 2.0 tools" (blogs, Second Life etc) or Personal Learning Environments (another fad [we were playing](/blog2/publications/ples-framing-one-future-for-lifelong-learning-e-learning-and-universities/) with at the time) would pose for learning analytics. i.e. to run "learning analytics" you need to have access to the data and a University generally won't have access to the data from tools that are personal to the learner and external to the institution.
+Not long after that - as the learning analytics fad started to rise - Col and I were worried about what management would do once they joined the band wagon. In particular, we wondered when they might identify the problems that ideas like "Web 2.0 tools" (blogs, Second Life etc) or Personal Learning Environments (another fad [we were playing](/blog/publications/ples-framing-one-future-for-lifelong-learning-e-learning-and-universities/) with at the time) would pose for learning analytics. i.e. to run "learning analytics" you need to have access to the data and a University generally won't have access to the data from tools that are personal to the learner and external to the institution.
 
 Given Kate's identification of management's purpose around learning - "governance of the processes that assure that learning has happened in agreed ways" - Col and I have been waiting to hear of Universities banning the use of external/personal tools for learning/teaching because it broke their "learning analytics". Around the same time as Kate's post, I heard that on southern University was indeed going down that route, and [that's the comment](http://musicfordeckchairs.wordpress.com/2014/09/27/what-next-for-the-lms/#comment-2604) I made on Kate's post.
 
@@ -115,7 +115,7 @@ The last option contributes to the problem that Chris Dede identifies [in this c
 
 ### The three paths
 
-In an [ASCILITE'2014 paper](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) we identify three paths that might be followed with learning analytics
+In an [ASCILITE'2014 paper](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) we identify three paths that might be followed with learning analytics
 
 1. Do it to.
 2. Do it for.

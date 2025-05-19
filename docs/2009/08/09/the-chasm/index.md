@@ -8,10 +8,10 @@ categories:
 date: 2009-08-09 11:52:00+10:00
 next:
   text: Big Z's first progeny
-  url: /blog2/2009/08/11/big-zs-first-progeny/
+  url: /blog/2009/08/11/big-zs-first-progeny/
 previous:
   text: Support staff - continuing with the People component
-  url: /blog2/2009/08/09/support-staff-continuing-with-the-people-component/
+  url: /blog/2009/08/09/support-staff-continuing-with-the-people-component/
 title: The chasm
 type: post
 template: blog-post.html
@@ -174,7 +174,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the next section for the People component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) for chapter 2 of [my thesis](/blog2/research/phd-thesis/). It starts the trend away from specific roles/groups within e-learning to some more abstract descriptions of the people involved. This one talks about the chasm.
+The following is the next section for the People component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) for chapter 2 of [my thesis](/blog/research/phd-thesis/). It starts the trend away from specific roles/groups within e-learning to some more abstract descriptions of the people involved. This one talks about the chasm.
 
 Remember, this is a cut down version for the thesis that is in rough first draft stage. I think the idea of the "chasm" has a great deal of applicability to say about the current practice of e-learning within universities.
 

@@ -10,10 +10,10 @@ date: 2009-04-06 21:40:55+10:00
 next:
   text: '"Edupunk rules: Technology I, II and 3 - understanding and improving the
     practice of instructional technology"'
-  url: /blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/
+  url: /blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/
 previous:
   text: Birnbaum&#039;s fad cycle in higher education
-  url: /blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/
+  url: /blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/
 title: Early indications of "blame the student" that continues today
 type: post
 template: blog-post.html

@@ -95,9 +95,9 @@ pingbacks:
       user_id: '0'
     
 ---
-A much expanded and more recent description of the rationale and design of this system is available in three recent blog posts: [design guidelines](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/), [design and implementation - part 1](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/) and [design and implementation - part 2](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-2/)
+A much expanded and more recent description of the rationale and design of this system is available in three recent blog posts: [design guidelines](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/), [design and implementation - part 1](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/) and [design and implementation - part 2](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/)
 
-This paper represents the first published account of what would go on to become my [PhD thesis](/blog2/research/phd-thesis/). Take a look at the complete thesis for a more informed perspective.
+This paper represents the first published account of what would go on to become my [PhD thesis](/blog/research/phd-thesis/). Take a look at the complete thesis for a more informed perspective.
 
 David Jones, Renay Buchanan, The Design of an Integrated Online Learning Environment, Making New Connections, Proceedings of ASCILITE'96 Adelaide, Allan Christie, Patrick James, Beverley Vaughan, pp 331-345
 

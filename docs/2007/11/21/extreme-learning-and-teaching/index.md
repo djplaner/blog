@@ -6,10 +6,10 @@ categories:
 date: 2007-11-21 10:38:24+10:00
 next:
   text: New approaches to curriculum design informed by complexity
-  url: /blog2/2007/12/11/new-approaches-to-curriculum-design-informed-by-complexity/
+  url: /blog/2007/12/11/new-approaches-to-curriculum-design-informed-by-complexity/
 previous:
   text: Simplicity, e-learning and shadow systems
-  url: /blog2/2007/11/16/simplicity-e-learning-and-shadow-systems/
+  url: /blog/2007/11/16/simplicity-e-learning-and-shadow-systems/
 title: Extreme learning and teaching
 type: post
 template: blog-post.html

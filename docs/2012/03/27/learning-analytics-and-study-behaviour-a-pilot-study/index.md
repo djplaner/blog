@@ -4,10 +4,10 @@ categories:
 date: 2012-03-27 22:13:51+10:00
 next:
   text: '"Here I stand" - Campbell''s concerns on analytics and other stuff'
-  url: /blog2/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/
+  url: /blog/2012/03/28/here-i-stand-campbells-concerns-on-analytics-and-other-stuff/
 previous:
   text: My on-going concerns with ePortfolios
-  url: /blog2/2012/03/21/my-on-going-concerns-with-eportfolios/
+  url: /blog/2012/03/21/my-on-going-concerns-with-eportfolios/
 title: '"Learning analytics and study behaviour: A pilot study"'
 type: post
 template: blog-post.html

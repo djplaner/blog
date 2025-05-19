@@ -4,11 +4,11 @@ categories:
 date: 2012-01-11 18:02:30+10:00
 next:
   text: Initial thoughts on an ICT and Pedagogy course
-  url: /blog2/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/
+  url: /blog/2012/01/20/initial-thoughts-on-an-ict-and-pedagogy-course/
 previous:
   text: 'Ateleological travels in a teleological world: Past and future journeys around
     ICTs in education'
-  url: /blog2/2011/12/09/ateleological-travels-in-a-teleological-world-past-and-future-journeys-around-icts-in-education/
+  url: /blog/2011/12/09/ateleological-travels-in-a-teleological-world-past-and-future-journeys-around-icts-in-education/
 tags:
 - computer-science-education
 - high-school-computer-science
@@ -68,7 +68,7 @@ Some of the problems England's school system will face include
 1. Intro computer science at University is troubled.  
     Do a quick literature search in the area of computer science education - especially around the first year and programming - and you will find some problems. [In this paper](http://djon.es/blog/wp-content/uploads/2008/12/react1.pdf) I reference a range of literature quoting failure figures of 30/40/50% in first year programming courses. Remember, the cohort in these first year University programming courses is significantly more selective than what you are going to find in high school.
 2. IPT at Queensland high schools is failing the relevance test.  
-    [In this post](/blog2/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/) I references research that shows that Australian students are finding high school "computer science" courses boring and irrelevant.
+    [In this post](/blog/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/) I references research that shows that Australian students are finding high school "computer science" courses boring and irrelevant.
     
     Now both this and the previous problem could be ascribed to poor quality courses. The English are suggesting they'll take a better approach. But that better approach is still going to have to be implemented in a large number of schools and overcome existing student beliefs. This is going to be hard. I hope they do it well.
     

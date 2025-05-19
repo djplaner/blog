@@ -9,10 +9,10 @@ categories:
 date: 2010-06-04 17:01:40+10:00
 next:
   text: The road not taken
-  url: /blog2/2010/06/05/the-road-not-taken/
+  url: /blog/2010/06/05/the-road-not-taken/
 previous:
   text: The design of a Moodle course site
-  url: /blog2/2010/06/02/the-design-of-a-moodle-course-site/
+  url: /blog/2010/06/02/the-design-of-a-moodle-course-site/
 title: Adopter focused development and diffusion theory
 type: post
 template: blog-post.html
@@ -78,7 +78,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a first draft of the next section in Chapter 5 of the [thesis](/blog2/research/phd-thesis/). It's the first section which starts describing the various different changes that were made to Webfuse and how it was supported from 2000 and on. IMHO, this particular change is something that continues to be missing from almost all university attempts to support e-learning. If not missing, they simply haven't recognised the need for greater levels of skills. It is particularly sad that my current institution, the institution at which these changes/lesson were first implemented and written about 10+years ago, still hasn't learnt the lesson - or perhaps the lesson just isn't important enough.
+The following is a first draft of the next section in Chapter 5 of the [thesis](/blog/research/phd-thesis/). It's the first section which starts describing the various different changes that were made to Webfuse and how it was supported from 2000 and on. IMHO, this particular change is something that continues to be missing from almost all university attempts to support e-learning. If not missing, they simply haven't recognised the need for greater levels of skills. It is particularly sad that my current institution, the institution at which these changes/lesson were first implemented and written about 10+years ago, still hasn't learnt the lesson - or perhaps the lesson just isn't important enough.
 
 #### Adopter focused development and diffusion theory
 

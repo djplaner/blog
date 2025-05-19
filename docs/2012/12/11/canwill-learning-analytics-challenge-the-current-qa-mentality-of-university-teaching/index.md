@@ -4,10 +4,10 @@ categories:
 date: 2012-12-11 11:31:12+10:00
 next:
   text: Understanding management students' reflective practice through blogging
-  url: /blog2/2012/12/12/understanding-management-students-reflective-practice-through-blogging/
+  url: /blog/2012/12/12/understanding-management-students-reflective-practice-through-blogging/
 previous:
   text: Tertiary course design is very poor, and we solve it by &quot;blame the teacher&quot;
-  url: /blog2/2012/12/05/tertiary-course-design-is-very-poor-and-we-solve-it-by-blame-the-teacher/
+  url: /blog/2012/12/05/tertiary-course-design-is-very-poor-and-we-solve-it-by-blame-the-teacher/
 title: Can/will learning analytics challenge the current QA mentality of university
   teaching
 type: post
@@ -65,9 +65,9 @@ At it's best these projects will not impact on the actual learning experience. T
 
 ## How to change this?
 
-The argument we put forward in a [recent presentation](/blog2/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/) was that the institutional implementation of learning analytics needs to focus on "doing it with academics/students" rather than on doing it "for" and "to" academics/students. The argument here is that the "for" and "to" paths for learning analytics continues the tradition of treating the course as a black box. On the other hand, the "with" path requires direct engagement with academics within the course context to explore and learn how and with what impacts learning analytics can help improve the quality of the student learning experience.
+The argument we put forward in a [recent presentation](/blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/) was that the institutional implementation of learning analytics needs to focus on "doing it with academics/students" rather than on doing it "for" and "to" academics/students. The argument here is that the "for" and "to" paths for learning analytics continues the tradition of treating the course as a black box. On the other hand, the "with" path requires direct engagement with academics within the course context to explore and learn how and with what impacts learning analytics can help improve the quality of the student learning experience.
 
-In the [presentation](/blog2/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/) Trigwell's (2001) model of factors that impact upon the learning of a student was used to illustrate the difference. The following is a representation of that model.
+In the [presentation](/blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/) Trigwell's (2001) model of factors that impact upon the learning of a student was used to illustrate the difference. The following is a representation of that model.
 
 [![Trigwell's model of teaching](images/3232493287_786abcefd5_m.jpg)](http://www.flickr.com/photos/david_jones/3232493287/ "Trigwell's model of teaching by David T Jones, on Flickr")
 
@@ -97,7 +97,7 @@ In this model, a group of people (including academics/students) work together to
 
 The course is treated as an open box.
 
-This is the approach which our [failed OLT application](/blog2/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/) was trying to engage in. We're thinking about going around again, if you're interested then let me know.
+This is the approach which our [failed OLT application](/blog/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/) was trying to engage in. We're thinking about going around again, if you're interested then let me know.
 
 ## The challenge of analytics to strategy
 

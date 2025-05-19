@@ -5,10 +5,10 @@ categories:
 date: 2009-06-21 14:55:15+10:00
 next:
   text: Confirmation bias, the Tolstoy Syndrome and pattern entrainment
-  url: /blog2/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
+  url: /blog/2009/06/23/confirmation-bias-the-tolstoy-syndrome-and-pattern-entrainment/
 previous:
   text: Lessons from process for university e-learning
-  url: /blog2/2009/06/21/lessons-from-process-for-university-e-learning/
+  url: /blog/2009/06/21/lessons-from-process-for-university-e-learning/
 title: '"PhD Update #15 - Some progress and an absence"'
 type: post
 template: blog-post.html
@@ -37,12 +37,12 @@ Some progress made this week, but it comes as a prelude to a week in which not m
 
 ### What I've done
 
-[Last week](/blog2/2009/06/14/phd-update-14-moving-to-a-new-day/) I said that I would
+[Last week](/blog/2009/06/14/phd-update-14-moving-to-a-new-day/) I said that I would
 
 - Complete the process component. - **DONE**
 - Make significant progress on the People component. - not even started.
 
-I've just posted the last section of the Process component ([Lessons from process](/blog2/2009/06/21/lessons-from-process-for-university-e-learning/)) and completed the other section earlier in the week ([Learning and teaching processes](/blog2/2009/06/19/learning-and-teaching-processes/)).
+I've just posted the last section of the Process component ([Lessons from process](/blog/2009/06/21/lessons-from-process-for-university-e-learning/)) and completed the other section earlier in the week ([Learning and teaching processes](/blog/2009/06/19/learning-and-teaching-processes/)).
 
 ### What I'll do next week
 

@@ -5,10 +5,10 @@ categories:
 date: 2009-08-02 08:17:53+10:00
 next:
   text: '"Evaluation of Webfuse course site feature usage: 2006 through 2009"'
-  url: /blog2/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
+  url: /blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/
 previous:
   text: Some early results from Webfuse evaluation
-  url: /blog2/2009/07/31/some-early-results-from-webfuse-evaluation/
+  url: /blog/2009/07/31/some-early-results-from-webfuse-evaluation/
 tags:
 - vle-lms
 title: '"How the LMS - as enterprise system - warps the practice of L&#038;T"'
@@ -47,7 +47,7 @@ Which makes me wonder why the focus on one particular implementation technology?
 
 Enterprise systems, like institutional LMSes, are usually fairly substantial investments. The cost the organisation a lot and are implemented using fairly traditional teleological approaches. A main feature of that is that everything the organisation does must be aimed, or at least seen to be aimed, at the enterprise system.
 
-This is one of the reasons the immediate response to [detecting shadow systems](/blog2/2009/07/31/gaps-shadow-systems-and-the-vlelms/) is to seek their elimination. Shadow systems aren't part of the shadow system and consequently must be eliminated. The same goes for any practice or process that doesn't fit within the confines of the enterprise system. Given the inherent inflexibility of enterprise systems, this is particularly troubling as it limits innovation and change and reinforces the "design for replacement" practice of most institutional IT systems and the problem of stable systems drag.
+This is one of the reasons the immediate response to [detecting shadow systems](/blog/2009/07/31/gaps-shadow-systems-and-the-vlelms/) is to seek their elimination. Shadow systems aren't part of the shadow system and consequently must be eliminated. The same goes for any practice or process that doesn't fit within the confines of the enterprise system. Given the inherent inflexibility of enterprise systems, this is particularly troubling as it limits innovation and change and reinforces the "design for replacement" practice of most institutional IT systems and the problem of stable systems drag.
 
 But there is also another problem with this need to show alignment with the enterprise system. A whole range of practices, policies, arguments and projects, some of them questionable, seek to encourage acceptance by labeling themselves with the enterprise system. Even when they have little or no connection with the enterprise system. The idea is that the cost and subsequently the importance of the enterprise system provides a certain level of attention and respect that can help other ideas.
 

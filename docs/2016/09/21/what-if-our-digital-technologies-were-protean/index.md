@@ -5,10 +5,10 @@ categories:
 date: 2016-09-21 12:12:34+10:00
 next:
   text: OEP, institutions and culture
-  url: /blog2/2016/09/21/oep-institutions-and-culture/
+  url: /blog/2016/09/21/oep-institutions-and-culture/
 previous:
   text: Exploring Moodle Book usage - Part 7a) - when are they modified
-  url: /blog2/2016/09/20/exploring-moodle-book-usage-part-7a-when-are-they-modified/
+  url: /blog/2016/09/20/exploring-moodle-book-usage-part-7a-when-are-they-modified/
 title: What if our digital technologies were protean?
 type: post
 template: blog-post.html
@@ -39,11 +39,11 @@ pingbacks:
 ---
 [![Proteus by skooksie, on Flickr](images/16539525746_c241fd7be8_m.jpg "Proteus by skooksie, on Flickr")](https://www.flickr.com/photos/skooksie/16539525746/) "[Proteus](https://www.flickr.com/photos/skooksie/16539525746/)" ([CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)) by [skooksie](https://www.flickr.com/people/skooksie/)
 
-On Friday the 30th September 2016 I will present the paper - [What if our digital technologies were protean? Implications for computational thinking, learning, and teaching](/blog2/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) - co-written by [Elke Schneider](http://elketeaches.wordpress.com/) and I at the [ACCE'2016 conference](http://www.aomevents.com/ACCE2016).
+On Friday the 30th September 2016 I will present the paper - [What if our digital technologies were protean? Implications for computational thinking, learning, and teaching](/blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) - co-written by [Elke Schneider](http://elketeaches.wordpress.com/) and I at the [ACCE'2016 conference](http://www.aomevents.com/ACCE2016).
 
 Other resources include:
 
-- [A 1 question poll](/blog2/2016/09/20/your-experience-of-institutional-digital-technology/); and An attempt to explore whether people experience their organisational information systems as protean or not.If you haven't already, do please take the time to complete the poll.
+- [A 1 question poll](/blog/2016/09/20/your-experience-of-institutional-digital-technology/); and An attempt to explore whether people experience their organisational information systems as protean or not.If you haven't already, do please take the time to complete the poll.
 - [Stories of digital modification](https://docs.google.com/document/d/1Npouuf0UwaPoqsAtxVikk8i4yR8zUok_1-GAyTYCskE/edit?usp=sharing). A copy of the Google doc we originally used to gather the data for the paper. This data was then analysed for themes.
 
 

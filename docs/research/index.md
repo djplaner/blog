@@ -21,11 +21,11 @@ Hence my main research interest is in understanding why and designing alternativ
 
 Current research projects are interested in questions such as:
 
-- [How might higher education effectively maximise the quality, accessibility, and cost efficiency ("stretch the iron triangle") of learning and teaching?](/blog2/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/) - which might translate to:
+- [How might higher education effectively maximise the quality, accessibility, and cost efficiency ("stretch the iron triangle") of learning and teaching?](/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/) - which might translate to:
     - How do we (all stakeholders) develop, support, and evolve the type of digital tools identified by Laurillard?
     - Why haven't we done this already?
-- [How to share design knowledge in design for learning](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/)?
-- [What are the disconnects between what higher education teachers find between what is needed and what is provided to support quality teaching](/blog2/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/)?
+- [How to share design knowledge in design for learning](/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/)?
+- [What are the disconnects between what higher education teachers find between what is needed and what is provided to support quality teaching](/blog/2020/06/02/understanding-digital-education-through-workarounds-and-quality-indicators/)?
 
 ### References
 
@@ -37,7 +37,7 @@ Laurillard, D. (2012). _Teaching as a Design Science: Building Pedagogical Patte
 
 The following summarises some of the research and projects I've been associated with since the early 90s. Most of it is of historical interest only.
 
-There's also an ad hoc list of [current research projects](/blog2/current-research-projects/)
+There's also an ad hoc list of [current research projects](/blog/current-research-projects/)
 
 ## Research interests
 
@@ -59,7 +59,7 @@ Consequently some of my current interests include, but aren't limited to
 
 In particular, I think a lot of the teleological assumptions that underly systems development (and management practices) are inappropriate for modern organisations, especially those engaged in knowledge work. I am particularly interested in demonstrating this inadequacy and developing methods to enable organisations to adopt more ateleological practices.
 
-My [publications](/blog2/publications/) and blog posts put some more detail on this summary.
+My [publications](/blog/publications/) and blog posts put some more detail on this summary.
 
 ### EROS
 

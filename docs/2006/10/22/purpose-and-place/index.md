@@ -6,10 +6,10 @@ categories:
 date: 2006-10-22 22:13:23+10:00
 next:
   text: Moving beyond functional evaluation - scenario-based evaluation
-  url: /blog2/2006/10/22/moving-beyond-functional-evaluation-scenario-based-evaluation/
+  url: /blog/2006/10/22/moving-beyond-functional-evaluation-scenario-based-evaluation/
 previous:
   text: Teleological approach to organisational reviews and change projects
-  url: /blog2/2006/10/22/teleological-approach-to-organisational-reviews-and-change-projects/
+  url: /blog/2006/10/22/teleological-approach-to-organisational-reviews-and-change-projects/
 title: The missing Ps - Purpose and place
 type: post
 template: blog-post.html

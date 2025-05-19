@@ -4,10 +4,10 @@ categories:
 date: 2011-02-13 09:40:53+10:00
 next:
   text: '"bim2: Starting on the coordinator models"'
-  url: /blog2/2011/02/13/bim2-starting-on-the-coordinator-models/
+  url: /blog/2011/02/13/bim2-starting-on-the-coordinator-models/
 previous:
   text: 'bim2: the greater coordinator conversion'
-  url: /blog2/2011/02/06/bim2-the-greater-coordinator-conversion/
+  url: /blog/2011/02/06/bim2-the-greater-coordinator-conversion/
 title: Standardised testing is bad, but what is the alternative?
 type: post
 template: blog-post.html
@@ -133,7 +133,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Spent yesterday playing cricket in the local competition. A first step in returning to a "normal" life. As it happens one of the guys I was playing with - and have known for a long time - is also a Deputy Principal at one of the local primary schools. He asked if I was still working at the Uni and I explained no, I was heading into high school teaching. From there the discussion turned to teaching and its issues and benefits. Before too long I asked about NAPLAN testing and its impact. "It's all we're teaching at the moment", was the response, essentially much the same as I [I mentioned in a previous post](/blog2/2011/02/01/naplan-tests-task-corruption-and-teaching-to-the-test/).
+Spent yesterday playing cricket in the local competition. A first step in returning to a "normal" life. As it happens one of the guys I was playing with - and have known for a long time - is also a Deputy Principal at one of the local primary schools. He asked if I was still working at the Uni and I explained no, I was heading into high school teaching. From there the discussion turned to teaching and its issues and benefits. Before too long I asked about NAPLAN testing and its impact. "It's all we're teaching at the moment", was the response, essentially much the same as I [I mentioned in a previous post](/blog/2011/02/01/naplan-tests-task-corruption-and-teaching-to-the-test/).
 
 Over the last six months or so, I've been [listening to](http://www.futureofeducation.com/) and reading a lot of K12 education related material. All of it, especially that by folk with first-hand knowledge of actual teaching, has been aware of the negative implications of standardised testing, especially when tied to rankings or funding. It corrupts the teaching process and becomes the almost primary focus of learning. At the core, this seems to be a wonderful example of [Goodhart's law](http://en.wikipedia.org/wiki/Goodhart's_law) which Wikipedia describes as
 
@@ -143,7 +143,7 @@ It is obvious that school performance on the NAPLAN test has become a target. Sc
 
 ### What is the alternative
 
-The idea of standardised testing, like the NAPLAN tests, arise from the idea of managerialisation which is seen by some as a key component of [globalisation](/blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/). It is the idea that it is important for government to measure and assure the quality of services like education. Measurement that requires objective, quantifiable measures. It is unlikely that this requirement for measurement is going to disappear anytime soon.
+The idea of standardised testing, like the NAPLAN tests, arise from the idea of managerialisation which is seen by some as a key component of [globalisation](/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/). It is the idea that it is important for government to measure and assure the quality of services like education. Measurement that requires objective, quantifiable measures. It is unlikely that this requirement for measurement is going to disappear anytime soon.
 
 Given, as described above, that I believe the current approach to this measurement is having extremely negative effects on what it is trying to measure. Then the question is, what are the alternatives? Is there a way to provide government and society with the "measurement" that shows the quality of the education being provided to children?
 

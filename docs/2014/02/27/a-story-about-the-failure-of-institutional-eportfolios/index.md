@@ -4,10 +4,10 @@ categories:
 date: 2014-02-27 10:39:59+10:00
 next:
   text: '"Some areas of improvement for #edc3100"'
-  url: /blog2/2014/03/28/some-areas-of-improvement-for-edc3100/
+  url: /blog/2014/03/28/some-areas-of-improvement-for-edc3100/
 previous:
   text: 'Evernote as a &quot;solution&quot; to a #moodle &quot;problem&quot;'
-  url: /blog2/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/
+  url: /blog/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/
 tags:
 - eportfolio
 title: A story about the failure of institutional eportfolios
@@ -120,7 +120,7 @@ pingbacks:
 ---
 In which I relate a personal story about how the one eportfolio I was required as a student to make on an institutional eportfolio system has now disappeared for good (to me) with no communication from the institution.
 
-I'm a long-term skeptic when it comes to institutionally chosen eportfolio systems like Mahara, PebblePad etc. Back in January 2009 I expressed [my first disquiet](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/) with eportfolios in terms of how institutions approach innovation around e-learning. i.e. Ohh, everyone is installing eportfolios, let's leap on that bandwagon and expends lots of resources encouraging/requiring everyone to use this fad while we ignore all the contextual opportunities and issues within the institution. This is a cycle you can see repeated with new values for eportfolio: open source LMS, learning analytics, OERs, MOOCs....
+I'm a long-term skeptic when it comes to institutionally chosen eportfolio systems like Mahara, PebblePad etc. Back in January 2009 I expressed [my first disquiet](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/) with eportfolios in terms of how institutions approach innovation around e-learning. i.e. Ohh, everyone is installing eportfolios, let's leap on that bandwagon and expends lots of resources encouraging/requiring everyone to use this fad while we ignore all the contextual opportunities and issues within the institution. This is a cycle you can see repeated with new values for eportfolio: open source LMS, learning analytics, OERs, MOOCs....
 
 I've also wondered just how long institutions were going to continue supporting the eportfolios created by their students. I know have an answer for one institution, about 3 years.
 

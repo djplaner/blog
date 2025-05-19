@@ -5,10 +5,10 @@ categories:
 date: 2016-05-10 10:08:04+10:00
 next:
   text: '"Testing out the Heatmap #moodle block"'
-  url: /blog2/2016/05/13/testing-out-the-heatmap-moodle-block/
+  url: /blog/2016/05/13/testing-out-the-heatmap-moodle-block/
 previous:
   text: How does BIM allocate blog posts to prompts
-  url: /blog2/2016/05/09/how-does-bim-allocate-blog-posts-to-prompts/
+  url: /blog/2016/05/09/how-does-bim-allocate-blog-posts-to-prompts/
 title: Testing out the Moodle search book block
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Earlier this year - as part of the [Moodle Open Book project](/blog2/the-moodle-open-book-module-project/) - I [made some changes](/blog2/2016/01/17/finishing-tweaks-to-moodle-book-search-block/) to [Search Book block](https://github.com/stronk7/moodle-block_search_books) for Moodle. The hope being that my institution might install this on it's Moodle installation, which in turn would allow my students and I to search the ~70 Moodle books that make up the "learning path" for my course.
+Earlier this year - as part of the [Moodle Open Book project](/blog/the-moodle-open-book-module-project/) - I [made some changes](/blog/2016/01/17/finishing-tweaks-to-moodle-book-search-block/) to [Search Book block](https://github.com/stronk7/moodle-block_search_books) for Moodle. The hope being that my institution might install this on it's Moodle installation, which in turn would allow my students and I to search the ~70 Moodle books that make up the "learning path" for my course.
 
 Well it is almost there. It's in the test environment and the following reports on some testing of the Search Book block. In summary, it all appears to be working.
 

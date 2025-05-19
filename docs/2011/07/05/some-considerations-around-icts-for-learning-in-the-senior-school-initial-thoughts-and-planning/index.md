@@ -6,10 +6,10 @@ date: 2011-07-05 13:23:28+10:00
 next:
   text: '"Social bookmarks, curriculum and resources: A search for a visualisation
     tool"'
-  url: /blog2/2011/07/08/social-bookmarks-curriculum-and-resources-a-search-for-a-visualisation-tool/
+  url: /blog/2011/07/08/social-bookmarks-curriculum-and-resources-a-search-for-a-visualisation-tool/
 previous:
   text: How do you increase sharing? Create an interactive website?
-  url: /blog2/2011/07/04/how-do-you-increase-sharing-create-an-interactive-website/
+  url: /blog/2011/07/04/how-do-you-increase-sharing-create-an-interactive-website/
 title: '"Some considerations around ICTs for learning in the Senior School: initial
   thoughts and planning"'
 type: post
@@ -42,7 +42,7 @@ The rest of this has some initial ideas for factors to consider and an initial s
 
 ### The Ps Framework
 
-Rather than simply generate a list of considerations I am going to use the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) to structure the list. Yes, it's my own framework, but then if I don't use it, no-one else will. It's proven reasonably useful in the past ([Jones, Vallack, and Hood](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/), 2008; [Jones](/blog2/publications/ples-framing-one-future-for-lifelong-learning-e-learning-and-universities/), 2008) in terms of understanding the broader implications of e-learning.
+Rather than simply generate a list of considerations I am going to use the [Ps Framework](/blog/2009/03/18/the-ps-framework/) to structure the list. Yes, it's my own framework, but then if I don't use it, no-one else will. It's proven reasonably useful in the past ([Jones, Vallack, and Hood](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/), 2008; [Jones](/blog/publications/ples-framing-one-future-for-lifelong-learning-e-learning-and-universities/), 2008) in terms of understanding the broader implications of e-learning.
 
 What follows is a quick brainstorm of potential considerations and example of how the Ps Framework might be used.
 

@@ -4,10 +4,10 @@ categories:
 date: 2013-11-03 11:14:50+10:00
 next:
   text: Big data in education - part 2
-  url: /blog2/2013/11/03/big-data-in-education-part-1-2/
+  url: /blog/2013/11/03/big-data-in-education-part-1-2/
 previous:
   text: BIM and broken moodle capabilities
-  url: /blog2/2013/11/01/bim-and-broken-moodle-capabilities/
+  url: /blog/2013/11/01/bim-and-broken-moodle-capabilities/
 title: Big data in education - part 1
 type: post
 template: blog-post.html

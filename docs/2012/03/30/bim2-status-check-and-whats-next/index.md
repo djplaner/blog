@@ -4,17 +4,17 @@ categories:
 date: 2012-03-30 22:40:51+10:00
 next:
   text: bim2 - student and marker fixes
-  url: /blog2/2012/03/31/bim2-student-and-marker-fixes/
+  url: /blog/2012/03/31/bim2-student-and-marker-fixes/
 previous:
   text: Curriculum innovation as an educational technology trend
-  url: /blog2/2012/03/30/curriculum-innovation-as-an-educational-technology-trend/
+  url: /blog/2012/03/30/curriculum-innovation-as-an-educational-technology-trend/
 title: bim2 - status check and what's next
 type: post
 template: blog-post.html
 ---
-So it appears that bim2.0 is increasingly needed (if you don't know what bim is, check [this out](/blog2/research/bam-blog-aggregation-management/)). University of Canberra have gone to Moodle 2 and CQU are about to, the only two places I know that bim is being used. Most importantly, I'm now teaching at a Moodle Uni and am seriously thinking about using bim, and my Uni is about to move to Moodle 2.
+So it appears that bim2.0 is increasingly needed (if you don't know what bim is, check [this out](/blog/research/bam-blog-aggregation-management/)). University of Canberra have gone to Moodle 2 and CQU are about to, the only two places I know that bim is being used. Most importantly, I'm now teaching at a Moodle Uni and am seriously thinking about using bim, and my Uni is about to move to Moodle 2.
 
-In keeping with my practice, this post is another in [a list of posts](/blog2/category/bim/bim2/) that serve as a development journal (mainly because I'm coding so infrequently now I need to remember how to do this stuff). The aim here is to figure out where the porting is up to and perhaps identify where next.
+In keeping with my practice, this post is another in [a list of posts](/blog/category/bim/bim2/) that serve as a development journal (mainly because I'm coding so infrequently now I need to remember how to do this stuff). The aim here is to figure out where the porting is up to and perhaps identify where next.
 
 The current code for bim2 can be found [in this branch](https://github.com/djplaner/BIM/tree/bim2) on github. I'll try to keep it up to date.
 

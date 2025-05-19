@@ -6,15 +6,15 @@ categories:
 date: 2015-10-07 13:11:46+10:00
 next:
   text: What is theory and why use theories?
-  url: /blog2/2015/10/08/what-is-theory-and-why-use-theories/
+  url: /blog/2015/10/08/what-is-theory-and-why-use-theories/
 previous:
   text: Teachers as designers of technology enhance learning?
-  url: /blog2/2015/10/06/teachers-as-digital-renovators/
+  url: /blog/2015/10/06/teachers-as-digital-renovators/
 title: Technology required by teachers to customise technology-enhanced units
 type: post
 template: blog-post.html
 ---
-This is the 2nd post ([first here](/blog2/2015/10/06/teachers-as-digital-renovators/)) looking at [Instructional Science 43(2)](http://link.springer.com/journal/11251/43/2/page/1) on the topic of "Teachers as designers of technology enhanced learning". This post looks at [Matuk et al (2015)](http://link.springer.com/article/10.1007/s11251-014-9338-1)
+This is the 2nd post ([first here](/blog/2015/10/06/teachers-as-digital-renovators/)) looking at [Instructional Science 43(2)](http://link.springer.com/journal/11251/43/2/page/1) on the topic of "Teachers as designers of technology enhanced learning". This post looks at [Matuk et al (2015)](http://link.springer.com/article/10.1007/s11251-014-9338-1)
 
 ## In summary
 
@@ -54,7 +54,7 @@ Some of the findings echo some of the ideas from learning analytics, but more di
 
 1. The participants and context for this study was fairly limited. What types of customisations and features to support customisations might be identified by examining the work of other teachers in other contexts. Especially contexts that make significantly greater use of digital technologies (e.g. largely online university courses)?
 2. This paper appears to focus on teacher's redesigning technology-enhanced "curriculum materials", almost a content focus. What differences do you have to consider if you see digital technology as part of the learning space? As the environment in which learning occurs, not just the curriculum?
-3. The idea of _educative curriculum materials_ - "curriculum materials with an additional tools and resources to aid teachers in attending to changing classroom dynamics, reflecting on their practices, and seeking new approaches to solving problems" (p. 233) - resonates with the idea of [Context Appropriate Scaffolding Assemblages (CASA)](/blog2/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/#casa) including the idea of a CASA that allows course designers (teacher educators) to annotate their digital learning spaces (course sites) with explanations and rationalisations behind the designs. Perhaps something useful for other teacher educators, but also for pre-service teachers (links to an idea that @palbion has previously mentioned).
+3. The idea of _educative curriculum materials_ - "curriculum materials with an additional tools and resources to aid teachers in attending to changing classroom dynamics, reflecting on their practices, and seeking new approaches to solving problems" (p. 233) - resonates with the idea of [Context Appropriate Scaffolding Assemblages (CASA)](/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/#casa) including the idea of a CASA that allows course designers (teacher educators) to annotate their digital learning spaces (course sites) with explanations and rationalisations behind the designs. Perhaps something useful for other teacher educators, but also for pre-service teachers (links to an idea that @palbion has previously mentioned).
 4. How does this papers purpose/context
     
     > existing research establishes that technology can support teachers’ customizations. It also characterizes broad categories of the kinds of customizations teachers make. Still, little is known about the specific ways by which technology enables customizations, especially those based in students’ ideas.

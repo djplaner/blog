@@ -7,10 +7,10 @@ categories:
 date: 2010-04-14 13:02:32+10:00
 next:
   text: '"Further thinking - behaviour change and improving L&#038;T"'
-  url: /blog2/2010/04/15/further-thinking-behaviour-change-and-improving-lt/
+  url: /blog/2010/04/15/further-thinking-behaviour-change-and-improving-lt/
 previous:
   text: Two types of process and what university e-learning continues to get wrong
-  url: /blog2/2010/04/12/two-types-of-process-and-what-university-e-learning-continues-to-get-wrong/
+  url: /blog/2010/04/12/two-types-of-process-and-what-university-e-learning-continues-to-get-wrong/
 title: '"Identifying and designing interventions to improve L&#038;T - a behaviour
   change framework?"'
 type: post
@@ -63,7 +63,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is an attempt to describe early attempts at developing a framework for evaluating existing and developing new interventions aimed at improving learning and teaching within universities. It builds on some ideas from an [earlier post](/blog2/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/).
+The following is an attempt to describe early attempts at developing a framework for evaluating existing and developing new interventions aimed at improving learning and teaching within universities. It builds on some ideas from an [earlier post](/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/).
 
 Sorry, but the first couple of sections seem necessary to convince myself that this is connected with some of my earlier thinking.
 
@@ -73,23 +73,23 @@ As mentioned many times on this blog, I think most attempts to improve learning 
 
 ### Empathy driven innovation
 
-While the following uses a framework from psychology, the basic message is the same as a range of other work. That message is, focus on the academics, understand what they are currently doing and experiencing, and design interventions that connect with that experience. Most recently this was discussed in a [a post on empathy-driven innovation](/blog2/2010/04/12/two-types-of-process-and-what-university-e-learning-continues-to-get-wrong/).
+While the following uses a framework from psychology, the basic message is the same as a range of other work. That message is, focus on the academics, understand what they are currently doing and experiencing, and design interventions that connect with that experience. Most recently this was discussed in a [a post on empathy-driven innovation](/blog/2010/04/12/two-types-of-process-and-what-university-e-learning-continues-to-get-wrong/).
 
 Much of my thinking around improving learning and teaching is based on this sort of approach, the following tries and provide some additional guidance into how to do this. But underpinning it all, is a focus on the actual teaching experience of the academic staff (and the learning experience of the students) as the primary focus.
 
-The aim is to understand what they are experiencing and develop ideas about how that experience can be improved, as **perceived by the staff and students** and not as perceived by management, the government or some research ideal. The focus is on [what the teacher does, not what management does](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels).
+The aim is to understand what they are experiencing and develop ideas about how that experience can be improved, as **perceived by the staff and students** and not as perceived by management, the government or some research ideal. The focus is on [what the teacher does, not what management does](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels).
 
 #### Improving L&T is an attempt to change behaviour
 
 An assumption underpinning this thinking is that when you are trying to improve learning and teaching, what you are actually trying to do is to change the behaviour of the teaching academics. If you don't change the behaviour of the academics, then there is no way you can expect the quality of learning and teaching to change.
 
-This is perhaps the main problem that I have with existing methods being employed to improve learning and teaching at Universities. Existing methods don't actually consistently result in behaviour change amongst a significant percentage of university teaching staff. I've argued [before that they don't work](/blog2/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/) and that there is evidence to support this.
+This is perhaps the main problem that I have with existing methods being employed to improve learning and teaching at Universities. Existing methods don't actually consistently result in behaviour change amongst a significant percentage of university teaching staff. I've argued [before that they don't work](/blog/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/) and that there is evidence to support this.
 
 The question is, what's the solution?
 
 #### Conceptions and teaching
 
-An example of this mismatch can be seen with the on-going focus on teacher qualifications. For example, the Australian government has introduced KPIs for university learning and teaching that include the use of the % of university teaching staff with teaching qualifications as a KPI. [I've argued](/blog2/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/) this this attempt will encourage compliance behaviour on the part of institutions and academics.
+An example of this mismatch can be seen with the on-going focus on teacher qualifications. For example, the Australian government has introduced KPIs for university learning and teaching that include the use of the % of university teaching staff with teaching qualifications as a KPI. [I've argued](/blog/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/) this this attempt will encourage compliance behaviour on the part of institutions and academics.
 
 The institutions are already at it. My current institution is currently introducing a new "desirable criteria" for people in charge of courses - having a formal teaching qualification. The assumption is that this will increase the quality of teaching. It won't.
 
@@ -103,7 +103,7 @@ That is, even with a formal teaching qualification, if the context, disciplinary
 
 How to change behaviour is something that the psychologists study. This current line of work is a collaboration between myself and a [psychologist colleague](http://mathehu.wordpress.com/). The current aim is to try and distill what is known about behaviour change in psychology into a form that helps explain how someone - with a deep knowledge of the current experience of academics - can encourage and enable behaviour change that results in improved learning and teaching.
 
-In [earlier work](/blog2/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/) I've drawn on insights from Roger's (1995) diffusion theory as a guide. There are definite connections between diffusion theory and the following.
+In [earlier work](/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/) I've drawn on insights from Roger's (1995) diffusion theory as a guide. There are definite connections between diffusion theory and the following.
 
 The initial spark for this thinking is a paper by Michie et al (2008) which suggests that:
 
@@ -131,11 +131,11 @@ From a L&T perspective, the application of this knowledge seems to be something 
 
 ### An example
 
-In [a previous post](/blog2/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/) that seeks to summarise the Michie et al (2008) paper, I use the following example of the level of interaction or participation of staff in a course site. In the following, I compare/contrast the more traditional approach and the type of approach that I think might work better.
+In [a previous post](/blog/2010/03/25/from-theory-to-intervention-mapping-theoretically-derived-behavioural-determinants-to-behaviour-change-techniques/) that seeks to summarise the Michie et al (2008) paper, I use the following example of the level of interaction or participation of staff in a course site. In the following, I compare/contrast the more traditional approach and the type of approach that I think might work better.
 
 #### The traditional approach
 
-The more traditional approach is what I suggests is ["what management does"](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). Management will see that there is a problem, i.e. staff aren't participating enough. They then take it upon themselves to perform some action, which might include:
+The more traditional approach is what I suggests is ["what management does"](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). Management will see that there is a problem, i.e. staff aren't participating enough. They then take it upon themselves to perform some action, which might include:
 
 - Require staff to get a teaching qualification.  
     The assumption being that with a teaching qualification they know more about the importance of staff interaction and hence will increase their interaction.

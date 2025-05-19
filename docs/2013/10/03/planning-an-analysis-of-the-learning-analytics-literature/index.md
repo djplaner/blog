@@ -6,10 +6,10 @@ categories:
 date: 2013-10-03 13:50:09+10:00
 next:
   text: Dissenting views of institutional e-learning
-  url: /blog2/2013/10/09/dissenting-views-of-institutional-e-learning/
+  url: /blog/2013/10/09/dissenting-views-of-institutional-e-learning/
 previous:
   text: 'The IRAC framework: Locating the performance zone for learning analytics'
-  url: /blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/
+  url: /blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/
 title: Planning an analysis of the learning analytics literature
 type: post
 template: blog-post.html
@@ -75,7 +75,7 @@ pingbacks:
       user_id: '0'
     
 ---
-With the vague idea of the [IRAC framework done](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/), it's time to take the next step, i.e. "to use the framework to analyse the extant learning analytics literature". The following is some initial thinking behind why, what and how we're thinking of doing.
+With the vague idea of the [IRAC framework done](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/), it's time to take the next step, i.e. "to use the framework to analyse the extant learning analytics literature". The following is some initial thinking behind why, what and how we're thinking of doing.
 
 The main question we have here is "how?". Trying to figure out the best tools and process to help do this analysis. I've come up with two possibilities below, any better ones?
 
@@ -92,7 +92,7 @@ The plan is to analyse the learning analytics literature - initially we'll proba
 1. Identify the relative frequency with which the literature talks about the four components of the IRAC framework, i.e. Information, Representation, Affordance and Change.
 2. Identify what aspects of each of the four components are covered in the literature.
 
-We think this is sensible because of the theory/principles we've [built the IRAC framework on](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) and some suggestion from the learning analytics literature that the IRAC components apply to learning analytics.
+We think this is sensible because of the theory/principles we've [built the IRAC framework on](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) and some suggestion from the learning analytics literature that the IRAC components apply to learning analytics.
 
 The foundation of the following image is Siemens (2013) analytics model. Over the top of that model we've applied the IRAC framework components. Not only does this suggest that the IRAC components aren't entirely divorced from learning analytics, it also suggests the potential over emphasis that we're worried about. The image shows how the Information component - gathering the information and analysing it - takes up more than three-quarters of the model. While this is an essential component of learning analytics, our argument is that the Affordances and Change components need significantly greater consideration if learning analytics is to be integrated into learning and teaching processes.
 

@@ -6,10 +6,10 @@ categories:
 date: 2009-05-21 16:48:22+10:00
 next:
   text: The perils of re-organisation - Gaius Petronius
-  url: /blog2/2009/05/21/the-perils-of-re-organisation-gaius-petronius/
+  url: /blog/2009/05/21/the-perils-of-re-organisation-gaius-petronius/
 previous:
   text: Where&#039;s the inspiration? Where&#039;s the desire to improve?
-  url: /blog2/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/
+  url: /blog/2009/05/21/wheres-the-inspiration-wheres-the-desire-to-improve/
 title: '"Learning spaces: expenditure and time spent learning"'
 type: post
 template: blog-post.html
@@ -26,4 +26,4 @@ There's a growing interest at my current institution in the question of learning
 
 And yet, much of our expenditure, our concerns, our learning and teaching practice and our management and workload calculations are built around the assumption of the classroom. Even though it is increasingly problematic.
 
-It's as if, in the [words of Postman](/blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/), that the lecture and its associated goods and chattels continue to be mythic.
+It's as if, in the [words of Postman](/blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/), that the lecture and its associated goods and chattels continue to be mythic.

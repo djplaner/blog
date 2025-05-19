@@ -6,15 +6,15 @@ categories:
 date: 2015-01-12 09:39:28+10:00
 next:
   text: This year it's all about the connections
-  url: /blog2/2015/01/13/this-year-its-all-about-the-connections/
+  url: /blog/2015/01/13/this-year-its-all-about-the-connections/
 previous:
   text: 'TPACK as shared practice: Toward a research agenda'
-  url: /blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/
+  url: /blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/
 title: '"Do it with" teachers or students?'
 type: post
 template: blog-post.html
 ---
-Late last year @salvetore read and [commented on](https://moodle.org/mod/forum/discuss.php?d=276835) the ["three paths" paper](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) that @beerc and @rolley wrote for ASCILITE'2014. (Always nice to know that someone reads a paper). The following is a response I've just added to the thread on the Moodle research discussion forum. In particular, picking up on two suggestions from Sean Dicks, which badly summarised are
+Late last year @salvetore read and [commented on](https://moodle.org/mod/forum/discuss.php?d=276835) the ["three paths" paper](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/) that @beerc and @rolley wrote for ASCILITE'2014. (Always nice to know that someone reads a paper). The following is a response I've just added to the thread on the Moodle research discussion forum. In particular, picking up on two suggestions from Sean Dicks, which badly summarised are
 
 1. That the focus should be on doing it with students, rather than teachers.
 2. That the use of Trigwell's model (see images below) "seems somewhat incongruent with the earlier statement that in complex systems part are all "interacting and evolving so that we cannot understand any of the agents or systems without reference to the others"

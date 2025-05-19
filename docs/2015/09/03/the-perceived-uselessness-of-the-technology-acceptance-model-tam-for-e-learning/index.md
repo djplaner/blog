@@ -7,10 +7,10 @@ categories:
 date: 2015-09-03 15:37:51+10:00
 next:
   text: '"Educational technology: deja vu all over again"'
-  url: /blog2/2015/09/03/educational-technology-deja-vu-all-over-again/
+  url: /blog/2015/09/03/educational-technology-deja-vu-all-over-again/
 previous:
   text: It's not how bad you start, but how quickly you get better
-  url: /blog2/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
+  url: /blog/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
 title: The perceived uselessness of the Technology Acceptance Model (TAM) for e-learning
 type: post
 template: blog-post.html
@@ -34,7 +34,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Below you will find the slides, abstract, and references for a talk given to folk from the University of South Australia on 1 October, 2015. A later blog post [outlines core parts of the argument.](/blog2/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/)
+Below you will find the slides, abstract, and references for a talk given to folk from the University of South Australia on 1 October, 2015. A later blog post [outlines core parts of the argument.](/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/)
 
 ## Slides
 
@@ -82,7 +82,7 @@ Introna, L. (2013). Epilogue: Performativity and the Becoming of Sociomaterial A
 
 Jasperson, S., Carter, P. E., & Zmud, R. W. (2005). A Comprehensive Conceptualization of Post-Adaptive Behaviors Associated with Information Technology Enabled Work Systems. MIS Quarterly, 29(3), 525–557.
 
-Jones, D., & Clark, D. (2014). [Breaking BAD to bridge the reality/rhetoric chasm](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/). In B. Hegarty, J. McDonald, & S. Loke (Eds.), Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014 (pp. 262–272). Dunedin.
+Jones, D., & Clark, D. (2014). [Breaking BAD to bridge the reality/rhetoric chasm](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/). In B. Hegarty, J. McDonald, & S. Loke (Eds.), Rhetoric and Reality: Critical perspectives on educational technology. Proceedings ascilite Dunedin 2014 (pp. 262–272). Dunedin.
 
 Kay, A. (1984). Computer Software. Scientific American, 251(3), 53–59.
 

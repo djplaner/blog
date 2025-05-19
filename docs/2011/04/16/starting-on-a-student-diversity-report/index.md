@@ -5,15 +5,15 @@ categories:
 date: 2011-04-16 22:19:44+10:00
 next:
   text: iPhone tracking as a teaching tool
-  url: /blog2/2011/04/21/iphone-tracking-as-a-teaching-tool/
+  url: /blog/2011/04/21/iphone-tracking-as-a-teaching-tool/
 previous:
   text: Analysis of digital technologies
-  url: /blog2/2011/04/15/analysis-of-digital-technologies/
+  url: /blog/2011/04/15/analysis-of-digital-technologies/
 title: Starting on a "student diversity report"
 type: post
 template: blog-post.html
 ---
-Ahh, the life of a student. No sooner is [one assignment](/blog2/2011/04/15/analysis-of-digital-technologies/) completed, is another one underway. In this case, one I've essentially ignored/forgotten about until a week out from being due.
+Ahh, the life of a student. No sooner is [one assignment](/blog/2011/04/15/analysis-of-digital-technologies/) completed, is another one underway. In this case, one I've essentially ignored/forgotten about until a week out from being due.
 
 This post documents some early thinking about how I'm going to start my "Student diversity report". The assignment description essentially boils down to
 
@@ -35,7 +35,7 @@ For this assignment, as for some of the others, I'm trying to quieten these ques
 
 The first question is which form of diversity should I select? One approach was to select a form of diversity that I'm likely to experience as a new teacher. Hence the report can at the least serve one real life student teacher, me.
 
-A while ago I used the Australian governments ["My Schools 2"](http://www.myschools.edu.au/) website to [compare the three schools](/blog2/2011/03/05/a-comparison-of-schools-enabled-by-myschools-v2-0/) I had listed as my preference for Embedded Professional Learning (EPL - i.e. prac teaching). In the end I wasn't allocated to either of those three choices. But I still retain an interest in teaching at one of the schools. One of the defining features of that school is that, according to MySchools, 21% of the student population are indigenous students. That's compared to 1% and 4% for the other two schools.
+A while ago I used the Australian governments ["My Schools 2"](http://www.myschools.edu.au/) website to [compare the three schools](/blog/2011/03/05/a-comparison-of-schools-enabled-by-myschools-v2-0/) I had listed as my preference for Embedded Professional Learning (EPL - i.e. prac teaching). In the end I wasn't allocated to either of those three choices. But I still retain an interest in teaching at one of the schools. One of the defining features of that school is that, according to MySchools, 21% of the student population are indigenous students. That's compared to 1% and 4% for the other two schools.
 
 So, at this stage, I am going to focus on indigenous students as the topic for this report.
 

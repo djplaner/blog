@@ -6,10 +6,10 @@ categories:
 date: 2009-09-30 10:21:48+10:00
 next:
   text: What is there to know about clickers?
-  url: /blog2/2009/09/30/what-is-there-to-know-about-clickers/
+  url: /blog/2009/09/30/what-is-there-to-know-about-clickers/
 previous:
   text: What&#039;s the best route for improving your teaching (post-thesis)?
-  url: /blog2/2009/09/29/whats-the-best-route-for-improving-your-teaching-post-thesis/
+  url: /blog/2009/09/29/whats-the-best-route-for-improving-your-teaching-post-thesis/
 title: Teaching, academic staff development, mastery and separation
 type: post
 template: blog-post.html
@@ -108,7 +108,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In a [recent post](/blog2/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/) reflecting on a presentation I referenced a [TED talk by Dan Pink](http://www.ted.com/talks/dan_pink_on_motivation.html) in which he proposed a new operating system for companies based on staff having:
+In a [recent post](/blog/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/) reflecting on a presentation I referenced a [TED talk by Dan Pink](http://www.ted.com/talks/dan_pink_on_motivation.html) in which he proposed a new operating system for companies based on staff having:
 
 1. Autonomy;
 2. Mastery; and
@@ -183,7 +183,7 @@ For me, this is a much better solution than the separation of responsibility for
 
 However, simply creating this integrated structure doesn't necessarily solve the separation of knowledge and separation of process.
 
-In terms of knowledge, too often integrated units, especially if they are large, can start to focus on the objective value of the knowledge (i.e. my theory/technology is good) rather than the value it can provide to a standard academic. Too often these units become the home for the [technologists alliance](/blog2/2009/08/09/the-chasm/).
+In terms of knowledge, too often integrated units, especially if they are large, can start to focus on the objective value of the knowledge (i.e. my theory/technology is good) rather than the value it can provide to a standard academic. Too often these units become the home for the [technologists alliance](/blog/2009/08/09/the-chasm/).
 
 In terms of process, integrated/centralised organisational units can have their involvement in the teaching process limited to at the beginning and the end. They often don't actively work with and help academics during the teaching process. The idea of secondments for academic staff into these units is an example of this. The unit works with these staff in a setting divorced from their actual teaching.
 

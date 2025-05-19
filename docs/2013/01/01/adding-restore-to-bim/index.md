@@ -5,15 +5,15 @@ categories:
 date: 2013-01-01 16:09:38+10:00
 next:
   text: BIM 2.0 - cleaning up issues - Part 1
-  url: /blog2/2013/01/01/bim-2-0-cleaning-up-issues-part-1/
+  url: /blog/2013/01/01/bim-2-0-cleaning-up-issues-part-1/
 previous:
   text: Backup for BIM 2.0
-  url: /blog2/2012/12/29/backup-for-bim-2-0/
+  url: /blog/2012/12/29/backup-for-bim-2-0/
 title: Adding restore to BIM
 type: post
 template: blog-post.html
 ---
-The following reports on the process to complete the backup/restore functionality for [BIM 2.0](/blog2/research/bam-blog-aggregation-management/). Backup is currently working. Time to add the ability to restore those backups. It draws on the process described in [this documentation - "Restore 2.0 for developers"](http://docs.moodle.org/dev/Restore_2.0_for_developers). Which doesn't appear anywhere as detailed/sequential as the backup 2.0 documentation.
+The following reports on the process to complete the backup/restore functionality for [BIM 2.0](/blog/research/bam-blog-aggregation-management/). Backup is currently working. Time to add the ability to restore those backups. It draws on the process described in [this documentation - "Restore 2.0 for developers"](http://docs.moodle.org/dev/Restore_2.0_for_developers). Which doesn't appear anywhere as detailed/sequential as the backup 2.0 documentation.
 
 This and some simple mistakes on my part meant the following was spread over a couple of days, rather than a hours as I'd hoped. Restore is currently working, at least according to the tests I've done.
 

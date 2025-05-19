@@ -2,10 +2,10 @@
 date: 2010-05-16 12:39:50+10:00
 next:
   text: Moving the indicators Moodle block to a factory class
-  url: /blog2/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
+  url: /blog/2010/05/17/moving-the-indicators-moodle-block-a-factory-class/
 previous:
   text: Some tweaks to the indicators block
-  url: /blog2/2010/05/14/some-tweaks-to-the-indicators-block/
+  url: /blog/2010/05/14/some-tweaks-to-the-indicators-block/
 title: Is there more to communities of practice?
 type: post
 template: blog-post.html
@@ -18,7 +18,7 @@ It's main outcomes will likely be to encourage me to read and understand more ab
 
 ### A cynical, ill-informed view of communities of practice
 
-My knowledge of communities practice is limited to my observations of local attempts to implement then and having purchased and skimmed one of Wegner's books on the topic. Based on the vastly ill-informed perspective my current opinion is that communities of practice suck. I've [previously outlined](/blog2/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/#cop) two of the reasons I don't think they are working to improve L&T within universities. On reflection, my problems with CoP are the following, (most based on observations of local context, hence generalisability is somewhat limited)
+My knowledge of communities practice is limited to my observations of local attempts to implement then and having purchased and skimmed one of Wegner's books on the topic. Based on the vastly ill-informed perspective my current opinion is that communities of practice suck. I've [previously outlined](/blog/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/#cop) two of the reasons I don't think they are working to improve L&T within universities. On reflection, my problems with CoP are the following, (most based on observations of local context, hence generalisability is somewhat limited)
 
 - If voluntary, they attract the folk who least need them.  
     A voluntary CoP around assessment within a university is likely to attract people who are intrinsically interested in assessment. People who aren't interested won't join. I suggest that it's the folk who won't join that are more likely to be the folk who need to join.
@@ -37,7 +37,7 @@ At the moment, the most interesting aspect of distributive leadership for me is 
 
 This is important, if you limit leadership to just the formal leaders or the people you are missing the point. I also think this is the bit most people don't get and one I'm still figuring out how to explain. Is this a point of departure from CoP, inclusion of systems/processes as well as people into consideration?
 
-How about we consider what leadership is? What does it entail? Some [previous reading and thinking](/blog2/2010/04/29/the-alignment-project-as-leadership/) identified two functions that are thought to be indispensable to leadership (Sourthwell and Morgan, 2009; Leithwood an Levin, 2005):
+How about we consider what leadership is? What does it entail? Some [previous reading and thinking](/blog/2010/04/29/the-alignment-project-as-leadership/) identified two functions that are thought to be indispensable to leadership (Sourthwell and Morgan, 2009; Leithwood an Levin, 2005):
 
 - Direction-setting; and  
     What is the direction or purpose considered valuable/appropriate?

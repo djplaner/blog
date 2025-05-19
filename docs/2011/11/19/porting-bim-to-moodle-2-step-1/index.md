@@ -4,17 +4,17 @@ categories:
 date: 2011-11-19 16:43:31+10:00
 next:
   text: Twitter, pre-service teachers and creating networks
-  url: /blog2/2011/11/21/twitter-pre-service-teachers-and-creating-networks/
+  url: /blog/2011/11/21/twitter-pre-service-teachers-and-creating-networks/
 previous:
   text: Do any universities know what&#039;s happening with their LMS?
-  url: /blog2/2011/11/15/do-any-universities-know-whats-happening-with-their-lms/
+  url: /blog/2011/11/15/do-any-universities-know-whats-happening-with-their-lms/
 title: Porting BIM to Moodle 2 - Step 1
 type: post
 template: blog-post.html
 ---
 The wife's out for some culture so I find myself late on a Saturday night taking the initial steps in the second attempt to port BIM to Moodle 2. Started reading Mike Churchward's blog series on [porting modules to Moodle 2](http://tandl.churchward.ca/2011/10/converting-m19-plug-ins-to-m2.html).
 
-Time moves on, and almost a week later I'm putting the finishing touches on this post/development journal entry. It gives a brief summary (mostly for my records) of what I've done to get a version of [BIM](/blog2/research/bam-blog-aggregation-management/) that is being recognised by Moodle 2.1. Not sure how well it is working, but Moodle 2.1 is creating tables and recognising the plugin as being available for use in courses.
+Time moves on, and almost a week later I'm putting the finishing touches on this post/development journal entry. It gives a brief summary (mostly for my records) of what I've done to get a version of [BIM](/blog/research/bam-blog-aggregation-management/) that is being recognised by Moodle 2.1. Not sure how well it is working, but Moodle 2.1 is creating tables and recognising the plugin as being available for use in courses.
 
 The next step will involve experimenting with just how well BIM is working with Moodle 2.1 and fixing what needs to be done. This will involve finishing some of the following.
 

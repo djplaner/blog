@@ -14,14 +14,14 @@ I've shifted out of a teaching role into one that helps teachers.
 
 Have shifted disciplines. Now teaching education at the [University of Southern Queensland](http://www.usq.edu.au). USQ uses Moodle and the course sites are generally restricted. Teaching responsibilities have included
 
-- EDC3100, ICT and Pedagogy (2012-2016) [Blog posts](/blog2/category/edc3100/) related to the course.
-- EDU8117, [Networked and Global Learning](http://www.usq.edu.au/course/specification/2015/EDU8117-S2-2015-WEB-TWMBA.html) (2013-2016)- with a [public site](http://netgl.wordpress.com). [Blog posts](/blog2/category/edu8117/) related to the course.
-- EDS4406, [Secondary Computing Curriculum and Pedagogy](http://www.usq.edu.au/course/synopses/2015/EDS4406.html) (2015-2016) [Blog posts](/blog2/category/eds4406/) related to the course.
+- EDC3100, ICT and Pedagogy (2012-2016) [Blog posts](/blog/category/edc3100/) related to the course.
+- EDU8117, [Networked and Global Learning](http://www.usq.edu.au/course/specification/2015/EDU8117-S2-2015-WEB-TWMBA.html) (2013-2016)- with a [public site](http://netgl.wordpress.com). [Blog posts](/blog/category/edu8117/) related to the course.
+- EDS4406, [Secondary Computing Curriculum and Pedagogy](http://www.usq.edu.au/course/synopses/2015/EDS4406.html) (2015-2016) [Blog posts](/blog/category/eds4406/) related to the course.
 - EDM8006, Humanities Curriculum & Pedagogical Studies 2: Arts & Technologies (2016)
 
 ### 2007-2010
 
-2007-2010 I have been employed by Central Queensland University in a [role designed](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ (and the odd other role) to help academics improve their learning and teaching.
+2007-2010 I have been employed by Central Queensland University in a [role designed](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ (and the odd other role) to help academics improve their learning and teaching.
 
 ### 2006
 

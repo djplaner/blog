@@ -4,10 +4,10 @@ categories:
 date: 2010-01-10 11:38:09+10:00
 next:
   text: BIM - getting capabilities working properly
-  url: /blog2/2010/01/10/bim-getting-capabilities-working-properly/
+  url: /blog/2010/01/10/bim-getting-capabilities-working-properly/
 previous:
   text: BIM - Design of &quot;Manage Marking&quot; and other features for Coordinators
-  url: /blog2/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/
+  url: /blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/
 title: BIM - Mark Post screen
 type: post
 template: blog-post.html

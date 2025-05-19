@@ -6,10 +6,10 @@ categories:
 date: 2010-07-30 10:49:27+10:00
 next:
   text: Usage of Webfuse course sites
-  url: /blog2/2010/08/01/usage-of-webfuse-course-sites/
+  url: /blog/2010/08/01/usage-of-webfuse-course-sites/
 previous:
   text: First the fridge dies, and then...
-  url: /blog2/2010/07/28/first-the-fridge-dies-and-then/
+  url: /blog/2010/07/28/first-the-fridge-dies-and-then/
 title: The grammar of school, psychological dissonance and all professors are rather
   ludditical
 type: post
@@ -158,9 +158,9 @@ pingbacks:
     []
     
 ---
-Yesterday, via a tweet from [@marksmithers](http://twitter.com/marksmithers) I read [this post](http://diyubook.com/2010/07/vast-majority-of-professors-are-rather-ludditical/) from the author of the DIYU book titled "Vast Majority of Professors Are Rather Ludditical". This is somewhat typical of the [defict model](/blog2/2009/12/09/change-the-environment-not-the-culture/) of academics which is fairly prevalent and rather pointless. It's pointless for a number of reasons, but the main one is that it is not a helpful starting point for bringing a out change as it ignores the broader problem and consequently most solutions that arise from a deficit model won't work.
+Yesterday, via a tweet from [@marksmithers](http://twitter.com/marksmithers) I read [this post](http://diyubook.com/2010/07/vast-majority-of-professors-are-rather-ludditical/) from the author of the DIYU book titled "Vast Majority of Professors Are Rather Ludditical". This is somewhat typical of the [defict model](/blog/2009/12/09/change-the-environment-not-the-culture/) of academics which is fairly prevalent and rather pointless. It's pointless for a number of reasons, but the main one is that it is not a helpful starting point for bringing a out change as it ignores the broader problem and consequently most solutions that arise from a deficit model won't work.
 
-One of the major problems this approach tends to ignore is the broader impact of the [grammar of school](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) (first from Tyack and Cuban and then Papert). I'm currently reading [The nature of technology](http://www.amazon.com/gp/product/1416544054/ref=pd_luc_wl_04_03) (more on this later) by W. Brian Arthur. The following is a summary and a little bit of reflection upon a section titled "Lock-in and Adaptive Stretch", which seems to connect closely with the grammar of school idea.
+One of the major problems this approach tends to ignore is the broader impact of the [grammar of school](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) (first from Tyack and Cuban and then Papert). I'm currently reading [The nature of technology](http://www.amazon.com/gp/product/1416544054/ref=pd_luc_wl_04_03) (more on this later) by W. Brian Arthur. The following is a summary and a little bit of reflection upon a section titled "Lock-in and Adaptive Stretch", which seems to connect closely with the grammar of school idea.
 
 ### Psychological dissonance and adaptive stretch
 
@@ -205,7 +205,7 @@ What's worse, a number of academics were able to look at the [7 principles](http
 
 ### So, the solution is?
 
-I return to a quote from Cavallo (2004) that [I've used before](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/)
+I return to a quote from Cavallo (2004) that [I've used before](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/)
 
 > As we see it, real change is inherently a kind of learning. For people to change the way they think about and practice education, rather than merely being told what to do differently, we believe that practitioners must have experiences that enable appropriation of new modes of teaching and learning that enable them to reconsider and restructure their thinking and practice.
 

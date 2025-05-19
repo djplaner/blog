@@ -8,10 +8,10 @@ categories:
 date: 2008-11-12 15:12:34+10:00
 next:
   text: Another assumption which PLEs over throws
-  url: /blog2/2008/11/13/another-assumption-which-ples-over-throws/
+  url: /blog/2008/11/13/another-assumption-which-ples-over-throws/
 previous:
   text: 'Extending the classroom: Open content and open teaching: Summary and reflection'
-  url: /blog2/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/
+  url: /blog/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/
 title: What are the assumptions which PLEs/Learning 2.0 etc overthrow
 type: post
 template: blog-post.html
@@ -117,7 +117,7 @@ The first place I go to find an answer to a question is [Google](http://www.goog
 The first place I go if I want to
 
 - put a powerpoint file online is [Slideshare](http://www.slideshare.net/my-slideshows);
-- share an opinion or a publication is [Wordpress](/blog2/blog-home.md);
+- share an opinion or a publication is [Wordpress](/blog/blog-home.md);
 - engage in some collaborative editing of a paper is [Google docs](http://docs.google.com); or
 - share some images is [Flickr](http://flickr.com/photos/david_jones/).
 
@@ -125,7 +125,7 @@ And each of the above tend towards being open.
 
 Knowledge and internet services are now abundant. As George Siemens mentioned in a recent talk "When you have 3 dogs you give them names. When you have 10,000 cattle you don't bother". Number or amount matters. You do different things when resources are scarce than when they are abundant. Practices have to change.
 
-[We](http://cddu.cqu.edu.au/) have already started thinking and doing playing with how this might change in terms of providing course websites with out [first Web 2.0 course site](/blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/).
+[We](http://cddu.cqu.edu.au/) have already started thinking and doing playing with how this might change in terms of providing course websites with out [first Web 2.0 course site](/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/).
 
 ### Primacy of formal learning
 

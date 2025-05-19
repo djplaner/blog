@@ -95,7 +95,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The [BIM](/blog2/research/bam-blog-aggregation-management/) (BAM into Moodle) tool is an activity module for Moodle that implements the same functionality as BAM, the tool discussed in this paper.
+The [BIM](/blog/research/bam-blog-aggregation-management/) (BAM into Moodle) tool is an activity module for Moodle that implements the same functionality as BAM, the tool discussed in this paper.
 
 ### Abstract
 
@@ -270,9 +270,9 @@ Ellison, N. (2006). "Non-pseudonymous student blogging: Ethical and legal concer
 
 James, R., C. McInnis, et al. (2002). Assessing Learning in Australian Universities. Melbourne, Australia, Centre for the Study of Higher Education, The University of Melbourne for the Australian Universities Teaching Committee.
 
-Jones, D. (2006). "Enhancing the learning journey for distance education students in an introductory programming course." from [/blog2/publications/enhancing-the-learning-journey-for-distance-education-students-in-an-introductory-programming-course/](/blog2/publications/enhancing-the-learning-journey-for-distance-education-students-in-an-introductory-programming-course/).
+Jones, D. (2006). "Enhancing the learning journey for distance education students in an introductory programming course." from [/blog/publications/enhancing-the-learning-journey-for-distance-education-students-in-an-introductory-programming-course/](/blog/publications/enhancing-the-learning-journey-for-distance-education-students-in-an-introductory-programming-course/).
 
-Jones, D. (2007, 7th Nov 2008). "CQU's first "web 2.0 course site" goes live."   Retrieved 29 April, 2009, from [/blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/](/blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/).
+Jones, D. (2007, 7th Nov 2008). "CQU's first "web 2.0 course site" goes live."   Retrieved 29 April, 2009, from [/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/](/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/).
 
 Jones, D. and S. Gregor (2006). _The formulation of an Information Systems Design Theory for E-Learning_. First International Conference on Design Science Research in Information Systems and Technology, Claremont, CA.
 

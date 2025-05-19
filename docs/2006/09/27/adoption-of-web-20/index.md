@@ -4,10 +4,10 @@ categories:
 date: 2006-09-27 08:16:11+10:00
 next:
   text: Web 2.0 - change in people and society
-  url: /blog2/2006/09/28/web-20-change-in-people-and-society/
+  url: /blog/2006/09/28/web-20-change-in-people-and-society/
 previous:
   text: groups and networks
-  url: /blog2/2006/09/27/groups-and-networks/
+  url: /blog/2006/09/27/groups-and-networks/
 title: Adoption of Web 2.0
 type: post
 template: blog-post.html

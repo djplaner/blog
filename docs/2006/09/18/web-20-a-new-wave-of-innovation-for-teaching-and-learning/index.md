@@ -4,10 +4,10 @@ categories:
 date: 2006-09-18 21:33:42+10:00
 next:
   text: Experiment with Google and open course content
-  url: /blog2/2006/09/19/experiment-with-google-and-open-course-content/
+  url: /blog/2006/09/19/experiment-with-google-and-open-course-content/
 previous:
   text: Web 2.0 Course Sites and the organisational challenge
-  url: /blog2/2006/09/18/web-20-course-sites-and-the-organisational-challenge/
+  url: /blog/2006/09/18/web-20-course-sites-and-the-organisational-challenge/
 title: '"Web 2.0: A New Wave of innovation for teaching and learning?"'
 type: post
 template: blog-post.html

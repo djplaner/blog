@@ -5,10 +5,10 @@ categories:
 date: 2016-09-26 06:49:39+10:00
 next:
   text: Some findings from initial exploration of Moodle Book usage
-  url: /blog2/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
+  url: /blog/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
 previous:
   text: Exploring Moodle Book usage - Part 8 - linking to and from
-  url: /blog2/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/
+  url: /blog/2016/09/22/exploring-moodle-book-usage-part-8-linking-to-and-from/
 title: Exploring Moodle Book usage - part 9 - Strange courses
 type: post
 template: blog-post.html
@@ -22,7 +22,7 @@ Time to explore some of the strange courses that have been identified.  There a
 
 ### Courses with many books
 
-Back in [part 2](/blog2/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/) there appear to be a number of courses that have more than 50 individual book resources.  That seems a bit excessive.  Wonder what that indicates? What are these courses (one of mine might be part of this group)? Is there something wrong hidden in these figures (e.g. are some of them hidden)?
+Back in [part 2](/blog/2016/08/16/exploring-moodle-book-usage-part-2-overall-use/) there appear to be a number of courses that have more than 50 individual book resources.  That seems a bit excessive.  Wonder what that indicates? What are these courses (one of mine might be part of this group)? Is there something wrong hidden in these figures (e.g. are some of them hidden)?
 
 There are 15 course offerings with more than 30 Books.  7 of these are offerings of the course I teach.  The remaining 8 are split between 3 different bridging/preparation courses.
 
@@ -30,7 +30,7 @@ If the line is drawn at 20 books, then there are 23 course offerings drawn from 
 
 ### Courses with huge books
 
-In [part 6](/blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/) it was discovered that there are books with 100 chapters (individual web pages). Most of the books had less than 20.
+In [part 6](/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/) it was discovered that there are books with 100 chapters (individual web pages). Most of the books had less than 20.
 
 There are 51 offerings with books with greater than 26 chapters (25 is the upper limit for 2015).  This converts into 20 courses with a number being offered multiple times.
 
@@ -38,7 +38,7 @@ _**Further stats about these courses - as per the Word doc**_
 
 ### Imported books
 
-[Part 6](/blog2/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/) in the series also outlines details of the number of books that were imported - only 9.8% of chapters imported, from 10.2% of books, from 11.8% of courses.
+[Part 6](/blog/2016/09/04/exploring-moodle-book-usage-part-6-what-do-they-contain/) in the series also outlines details of the number of books that were imported - only 9.8% of chapters imported, from 10.2% of books, from 11.8% of courses.
 
 ## Comparisons
 

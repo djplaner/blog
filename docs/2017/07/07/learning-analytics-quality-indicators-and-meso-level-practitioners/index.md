@@ -9,10 +9,10 @@ categories:
 date: 2017-07-07 16:54:17+10:00
 next:
   text: My current context and some initial issues
-  url: /blog2/2017/07/09/my-current-context-and-some-initial-issues/
+  url: /blog/2017/07/09/my-current-context-and-some-initial-issues/
 previous:
   text: Nudging up MyOpinion response rates using a gamified leaderboard
-  url: /blog2/2017/06/17/nudging-up-myopinion-response-rates-using-a-gamified-leaderboard/
+  url: /blog/2017/06/17/nudging-up-myopinion-response-rates-using-a-gamified-leaderboard/
 title: Learning analytics, quality indicators and meso-level practitioners
 type: post
 template: blog-post.html

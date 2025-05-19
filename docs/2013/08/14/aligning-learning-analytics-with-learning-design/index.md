@@ -4,10 +4,10 @@ categories:
 date: 2013-08-14 14:56:10+10:00
 next:
   text: Neither strategy nor "space" to innovate is enough
-  url: /blog2/2013/08/16/neither-strategy-nor-space-to-innovate-is-enough/
+  url: /blog/2013/08/16/neither-strategy-nor-space-to-innovate-is-enough/
 previous:
   text: Bugger analytics, just give me useful information
-  url: /blog2/2013/08/12/bugger-analytics-just-give-me-useful-information/
+  url: /blog/2013/08/12/bugger-analytics-just-give-me-useful-information/
 title: Aligning learning analytics with learning design
 type: post
 template: blog-post.html
@@ -218,7 +218,7 @@ Learning design aims for reusability across educational contexts. Hence reposito
 
 The paper claims that learning design can be used "as a framework for design of analytics to support faculty in their learning and teaching decisions". But given the current nature of the tools available, just how realistic is this?
 
-On a more personally interesting note, is the idea that learning designs describe pedagogical intent, but not how students are engaged in that design during or post-implementation. Perhaps giving a focus for how learning analytics can be integrated into a tool like [BIM](/blog2/research/bam-blog-aggregation-management/).
+On a more personally interesting note, is the idea that learning designs describe pedagogical intent, but not how students are engaged in that design during or post-implementation. Perhaps giving a focus for how learning analytics can be integrated into a tool like [BIM](/blog/research/bam-blog-aggregation-management/).
 
 The paper argues that the critical step is a marriage between learning design and learning analytics? I wonder if a more concrete step is the marriage between learning analytics and the e-learning tools being used to implement the learning designs? If there is difficulty in understanding, then surely the tools can/should help? Wonder if they address this?
 

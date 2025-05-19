@@ -8,10 +8,10 @@ categories:
 date: 2009-03-13 21:34:03+10:00
 next:
   text: '"Comparing VLEs/LMS to the past: flaws and implications for development models"'
-  url: /blog2/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
+  url: /blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/
 previous:
   text: 'PhD update - week #3'
-  url: /blog2/2009/03/13/phd-update-week-3/
+  url: /blog/2009/03/13/phd-update-week-3/
 title: '"Virtual learning environments: three implementation perspectives"'
 type: post
 template: blog-post.html
@@ -103,7 +103,7 @@ The rest of the introduction is broken up into sections:
 - Virtual learning environments;  
     Mentions that e-learning encompasses an awful lot. Narrows things down to VLEs and defines what they are.
 - Concept of implementation;  
-    This is the bit the explains that the instructional design view of VLE implementation is somewhat narrow - has some references. Argues for the view of VLE implementation that sees the VLE as an information system and the university as being an organisation. Outlines a number of different theoretical views of information systems implementation - most around initiation, development and implementation/termination. Includes mention of [Lewin's freeze/unfreeze model](/blog2/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/), but makes this point
+    This is the bit the explains that the instructional design view of VLE implementation is somewhat narrow - has some references. Argues for the view of VLE implementation that sees the VLE as an information system and the university as being an organisation. Outlines a number of different theoretical views of information systems implementation - most around initiation, development and implementation/termination. Includes mention of [Lewin's freeze/unfreeze model](/blog/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/), but makes this point
     
     > six-phase view of the information systems implementation process compared to Lewin’s model of organizational change (adapted from Kwon & Zmud, 1987) Within these models, implementation is seen as a continuous process. This is in accordance with Mintzberg and Quinn’s (1996) view of implementation as being intertwined with formulation of organizational goals in a complex interactive process.
     
@@ -116,7 +116,7 @@ The concept of implementation section refers to a figure like the following to s
 
 [![IS Implementation Phases and Lewin's organisational change](images/3350260757_d1fba0e4e7_m.jpg)](http://www.flickr.com/photos/david_jones/3350260757/ "IS Implementation Phases and Lewin's organisational change by David T Jones, on Flickr")
 
-There seems to be some connection with [George Siemens' IRIS model](http://www.elearnspace.org/blog/2009/03/05/iris-model/), some similarities and some differences. I've expressed some reservations about both [the IRIS model](/blog2/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/) and also [Lewins model](/blog2/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/). A few things have come together that mean I do need to revisit these.
+There seems to be some connection with [George Siemens' IRIS model](http://www.elearnspace.org/blog/2009/03/05/iris-model/), some similarities and some differences. I've expressed some reservations about both [the IRIS model](/blog/2009/03/06/the-iris-model-of-technology-adoption-neat-and-incomplete/) and also [Lewins model](/blog/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/). A few things have come together that mean I do need to revisit these.
 
 ### Implementation as technology acceptance
 
@@ -148,7 +148,7 @@ This is where 8 of the influential models of user acceptance have been integrate
 
 ### Implementation as diffusion of innovations
 
-Mostly drawing on Rogers diffusion of innovation work - we gave a summary of this in [this paper](/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/). Though I did like this quote, particularly the last part
+Mostly drawing on Rogers diffusion of innovation work - we gave a summary of this in [this paper](/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/). Though I did like this quote, particularly the last part
 
 > Innovation research indicates that there is a significant positive relationship between participation in innovation decisions and rate of adoption of innovations (Jahre & Sannes, 1991) and that internally induced innovations are more likely to be accepted than those induced externally (Marcus & Weber, 2000).
 
@@ -162,7 +162,7 @@ Uses the following structure to suggest how the innovation process occurs within
     2. Clarifying - meaning of innovation becomes more clear to members of the organisation and use broadens
     3. Routinizing - the innovation becomes a part of the organisation and ceases to be an innovation.
 
-Damn, that's a [teleological view](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) of diffusion. No surprise in guessing I don't like that characterisation. But I guess that is how it is likely to be used within an organisation.
+Damn, that's a [teleological view](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) of diffusion. No surprise in guessing I don't like that characterisation. But I guess that is how it is likely to be used within an organisation.
 
 ### Implementation as a process of learning
 

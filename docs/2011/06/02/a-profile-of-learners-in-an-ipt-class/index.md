@@ -6,10 +6,10 @@ categories:
 date: 2011-06-02 10:00:56+10:00
 next:
   text: Learner profile - ICTs for E-Learning A3 - Part 1
-  url: /blog2/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/
+  url: /blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/
 previous:
   text: Requirements and ideas for an eLearning design for IPT
-  url: /blog2/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/
+  url: /blog/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/
 title: A profile of learners in an IPT class
 type: post
 template: blog-post.html
@@ -65,7 +65,7 @@ It is also likely that the students enrolling in IPT will not be representative 
 
 ### Where does the learner need/want to be?
 
-This is where I'll need to draw on some of the information [from the last post](/blog2/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/) which briefly examined the IPT syllabus for Queensland schools.
+This is where I'll need to draw on some of the information [from the last post](/blog/2011/06/01/requirements-and-ideas-for-an-elearning-design-for-ipt/) which briefly examined the IPT syllabus for Queensland schools.
 
 In terms of a [hidden curriculum](http://en.wikipedia.org/wiki/Hidden_curriculum) some of the following are potential candidates
 
@@ -82,7 +82,7 @@ The book "How People Learn" (Committee on Developments in the Science of Learnin
 2. To develop competence in an area of inquiry, students must: (a) have a deep foundation of factual knowledge, (b) understand facts and ideas in the context of a conceptual framework, and (c) organize knowledge in ways that facilitate retrieval and application.
 3. A “metacognitive” approach to instruction can help students learn to take control of their own learning by defining learning goals and monitoring their progress in achieving them.
 
-As mentioned in [previous work for this course](/blog2/2011/03/15/reflection-and-conclusions-learning-brief/)
+As mentioned in [previous work for this course](/blog/2011/03/15/reflection-and-conclusions-learning-brief/)
 
 > Too many IT courses rely on simple and narrow problems in order to focus on the principles. The readings on constructivism, connectivism, and Engagement Theory (Kearsley & Shneiderman, 1998) have reinforced the learning and motivational advantages of engaging students in authentic problems.
 

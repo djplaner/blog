@@ -7,10 +7,10 @@ categories:
 date: 2013-03-22 10:15:06+10:00
 next:
   text: Meaningless freedom and auto-marking the learning journals
-  url: /blog2/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
+  url: /blog/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
 previous:
   text: Professional development is created, not provided
-  url: /blog2/2013/03/20/professional-development-is-created-not-provided/
+  url: /blog/2013/03/20/professional-development-is-created-not-provided/
 title: Does institutional e-learning have a TPACK problem?
 type: post
 template: blog-post.html
@@ -109,8 +109,8 @@ pingbacks:
 ---
 The following is the first attempt to expand upon an idea that's been bubbling along for the last few weeks. It arises from a combination of recent experiences, including
 
-- Working through the [institutional processes](/blog2/2013/03/18/bim-why-and-what/) to get [BIM](/blog2/research/bam-blog-aggregation-management/) installed on the institutional Moodle.
-- Using BIM in my own teaching and the [resulting changes](/blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) (and maybe something [along these lines](/blog2/2013/03/18/visualising-the-blog-network-of-edc3100-students/)) that will be made.
+- Working through the [institutional processes](/blog/2013/03/18/bim-why-and-what/) to get [BIM](/blog/research/bam-blog-aggregation-management/) installed on the institutional Moodle.
+- Using BIM in my own teaching and the [resulting changes](/blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) (and maybe something [along these lines](/blog/2013/03/18/visualising-the-blog-network-of-edc3100-students/)) that will be made.
 - Talking about [TPACK](http://tpack.org/) to students in the ICTs and Pedagogy course.
 - On-going observations of what passes for institutional e-learning within some Australian Universities (and which is likely fairly common across the sector).
 
@@ -131,7 +131,7 @@ Well one answer was that a quick Google search of the institution's course speci
 
 I was quite surprised to find 30+ courses already doing this. This generated some questions
 
-- How are they managing the workload and the limitations of traditional approaches? The [origins of BIM](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) go back to when I took over a course that was using a reflective journal assessment task. Implemented by students keeping them as Word documents and submitting at the end of semester. There were problems.
+- How are they managing the workload and the limitations of traditional approaches? The [origins of BIM](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) go back to when I took over a course that was using a reflective journal assessment task. Implemented by students keeping them as Word documents and submitting at the end of semester. There were problems.
 - I wonder how many of the IT and central L&T people knew that there were 30+ courses already using this approach? In this context, it would be quite easy to draw the conclusion that the IT and central L&T folk are there to help people with the existing tools and keep their own workload to a minimum by controlling what new tools are added to the mix. Rather than look for opportunities for innovation within the institution. Which leads to..
 - I wonder why the institution wasn't already actively looking for tools to help these folk? Especially given that reflective learning journals (diaries etc) are "recognised as a significant tool in promoting active learning" (Thorpe, 2004, p. 327) but at the same time the are also "demanding and time-consuming for both students and educators" (Thorpe, 2004, p. 339)
 
@@ -210,7 +210,7 @@ One of the concerns raised in the committee that had to approve the adoption of 
 This is a valid concern. But I believe there are two asumptions underpinning it which I'd like to question and explore alternatives. The observations are
 
 1. You can't learn how to use the tool, simply by using the tool. If you buy a good computer/console game, you don't need to read the instructions. Stick it in and play. The games are designed to scaffold your entry into the game. I haven't yet met an institutional e-learning tool that can claim the same. Some of this arises, I believe, from the limited amount of TPK most tools provide. But it's also how the tool is designed. How can BIM be designed to support this?
-2. The introduction of anything new has to be accompanied by professional development and other forms of formal support. This arises from the previous point but it also connected to [a previous post](/blog2/2013/03/20/professional-development-is-created-not-provided/) titled "Professional development is created, not provided". In part, this is because the IT folk and the central L&T folk see their job as (and some have their effectiveness measured by) providing professional development sessions or the number of helpdesk calls they process.
+2. The introduction of anything new has to be accompanied by professional development and other forms of formal support. This arises from the previous point but it also connected to [a previous post](/blog/2013/03/20/professional-development-is-created-not-provided/) titled "Professional development is created, not provided". In part, this is because the IT folk and the central L&T folk see their job as (and some have their effectiveness measured by) providing professional development sessions or the number of helpdesk calls they process.
 
 ## It's difficult to generate TPACK
 

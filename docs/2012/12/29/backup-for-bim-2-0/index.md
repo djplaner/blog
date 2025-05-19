@@ -5,15 +5,15 @@ categories:
 date: 2012-12-29 17:46:05+10:00
 next:
   text: Adding restore to BIM
-  url: /blog2/2013/01/01/adding-restore-to-bim/
+  url: /blog/2013/01/01/adding-restore-to-bim/
 previous:
   text: Major (Moodle) requirements for BIM 2.0
-  url: /blog2/2012/12/29/major-moodle-requirements-for-bim-2-0/
+  url: /blog/2012/12/29/major-moodle-requirements-for-bim-2-0/
 title: Backup for BIM 2.0
 type: post
 template: blog-post.html
 ---
-What follows is a journal of the attempt to bring [BIM 2.0's](/blog2/research/bam-blog-aggregation-management/) backup functionality into line with the new approach in Moodle 2.x.
+What follows is a journal of the attempt to bring [BIM 2.0's](/blog/research/bam-blog-aggregation-management/) backup functionality into line with the new approach in Moodle 2.x.
 
 Done. Appears to be all working. Will work on restore next and do some testing.
 
@@ -69,7 +69,7 @@ Steps required
 
 ## BIM Data
 
-The following is based on [this 2010 post](/blog2/2010/02/07/bim-backup-and-restore/) documenting the development work on the backup process for BIM 1.0. With some extra work based on the preparation information from above.
+The following is based on [this 2010 post](/blog/2010/02/07/bim-backup-and-restore/) documenting the development work on the backup process for BIM 1.0. With some extra work based on the preparation information from above.
 
 The bim data hierarchy (bullet points represent table names)
 

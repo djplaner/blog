@@ -4,10 +4,10 @@ categories:
 date: 2014-07-27 11:40:55+10:00
 next:
   text: Give them a fish, or teach them to fish?
-  url: /blog2/2014/07/27/give-them-a-fish-or-teach-them-to-fish/
+  url: /blog/2014/07/27/give-them-a-fish-or-teach-them-to-fish/
 previous:
   text: Identity, community and trajectories - Jawitz (2009)
-  url: /blog2/2014/07/26/identity-community-and-trajectories-jawitz-2009/
+  url: /blog/2014/07/26/identity-community-and-trajectories-jawitz-2009/
 title: Me as a teacher
 type: post
 template: blog-post.html
@@ -120,9 +120,9 @@ One of the tasks asked of participants in the [NGL course](https://netgl.wordpre
 
 According to the HR systems I'm a Senior Lecturer in what used to be the Faculty of Education at [USQ](http://www.usq.edu.au/). In terms of workload allocation for 2014 my main teaching roles are as course examiner in two courses: [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/synopses/2014/EDC3100.html), and [EDU8117, Network and Global Learning](http://www.usq.edu.au/course/specification/2014/EDU8117-S2-2014-WEB-TWMBA.html).
 
-In a [previous post](/blog2/2014/07/26/identity-community-and-trajectories-jawitz-2009/) I give a potted history of the trajectory of my University teaching career (apart from a couple of months teaching in schools as part of a Grad Dip in Learning and Teaching, all my teaching has been in a University) from teaching Information Technology in 1990 through now. While the institution and the discipline may have changed, a common theme throughout my teaching career is that most of my students are not on-campus. That has influenced my approach to teaching, what I see as my role.
+In a [previous post](/blog/2014/07/26/identity-community-and-trajectories-jawitz-2009/) I give a potted history of the trajectory of my University teaching career (apart from a couple of months teaching in schools as part of a Grad Dip in Learning and Teaching, all my teaching has been in a University) from teaching Information Technology in 1990 through now. While the institution and the discipline may have changed, a common theme throughout my teaching career is that most of my students are not on-campus. That has influenced my approach to teaching, what I see as my role.
 
-Perhaps the biggest example of that that I think [lectures suck](/blog2/2012/02/10/how-to-replace-the-lecture/). In fact, I have a dislike for most face-to-face teaching practices in a University context. I have - what Bali and Meier describe as - an affinity for [asynchronous learning](http://www.hybridpedagogy.com/journal/affinity-asynchronous-learning/). As you might imagine, this doesn't necessarily fit well with many of my colleagues, but it does mean I'm naturally inclined towards NGL.
+Perhaps the biggest example of that that I think [lectures suck](/blog/2012/02/10/how-to-replace-the-lecture/). In fact, I have a dislike for most face-to-face teaching practices in a University context. I have - what Bali and Meier describe as - an affinity for [asynchronous learning](http://www.hybridpedagogy.com/journal/affinity-asynchronous-learning/). As you might imagine, this doesn't necessarily fit well with many of my colleagues, but it does mean I'm naturally inclined towards NGL.
 
 Print-based distance education - as practiced in the very early 1990s, when I got started - revolved around the provision of a study guide. A skeleton set of connective pieces and activities written around a larger textbook that would guide the student through what they had to learn. That's where I started and being an academic I was never happy with the available textbooks and so a colleague and I ended up writing our own and published it online. You can still find copies [floating about](https://www.google.com.au/search?q=%22introduction+to+linux+systems+administration%22&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&channel=sb&gfe_rd=cr&ei=X0nTU7P2F6uN8QeLlYC4DA#channel=sb&q=%22introduction+to+linux+systems+administration%22+jones+jamieson&rls=org.mozilla:en-US:official). That book took much the same approach, guiding the student through a set of activities. You could make the argument that I see my role as teacher as being the "guide on the side" rather than the "sage on the stage". Though I must admit to always disliking that term. Have grown to like the McWilliam's (2009) idea of the "meddler in the middle" which is described as
 
@@ -180,7 +180,7 @@ Though the requirement for close supervision and direction is interesting. Just 
 
 ### Participants use their own devices - 21st Century Skills
 
-I have long been and continue to be an [eportfolio skeptic](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/). I'm not skeptical of the idea of it being important for students to use some form of electronic portfolio to track and present their learning. I'm skeptical of the organisational practice of selecting and mandating a particular eportfolio tool that all students should use. That's such an ancient way of looking at the world and one that is fraught with danger.
+I have long been and continue to be an [eportfolio skeptic](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/). I'm not skeptical of the idea of it being important for students to use some form of electronic portfolio to track and present their learning. I'm skeptical of the organisational practice of selecting and mandating a particular eportfolio tool that all students should use. That's such an ancient way of looking at the world and one that is fraught with danger.
 
 One danger is that the institutional system is just crap. Sorry, but Mahara still doesn't compete with Wordpress (or any other of numerous freely available online alternatives). In reflecting on her ["as teacher" Anne](http://astrethewey.wordpress.com/2014/07/24/me-as-teacher/) relates a similar story around one school's pilot program with Microsoft where each student has their own tablet device "but the device is not able to be taken home".
 
@@ -204,7 +204,7 @@ The immediate aim is to explore how the EDC3100 learning environment can be twea
 
 I'm particularly interested in how we more effectively harness the collective artefacts of past and current EDC3100 students? There are 1000s of blog posts from EDC3100 students online. Are current students using those prior posts? How? What can be done with those? We have 100s of student assignments describing why and how they are using ICTs in schools and reflecting on those experiences. How can those insights be harnessed by new students? Increasingly there are online information used by teachers and EDC3100 students (e.g. the [Australian Curriculum website](http://www.australiancurriculum.edu.au/), [Scootle](http://www.scootle.edu.au/ec/p/home), and [Australian Curriculum Lessons](http://www.australiancurriculumlessons.com.au/)) that are all disparate sites. Is there value in adding a layer of connections between those sites and the experiences of educators? What might that look like?
 
-How can NGL be used to address limitations of institutional systems? e.g. the fact that you can't search the EDC3100 Moodle site and I've had to [resort to a kludge using Evernote](/blog2/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/).
+How can NGL be used to address limitations of institutional systems? e.g. the fact that you can't search the EDC3100 Moodle site and I've had to [resort to a kludge using Evernote](/blog/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/).
 
 ## What difficulties might you face with implementation?
 

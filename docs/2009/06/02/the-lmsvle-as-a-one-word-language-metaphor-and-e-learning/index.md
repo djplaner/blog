@@ -9,10 +9,10 @@ categories:
 date: 2009-06-02 09:41:18+10:00
 next:
   text: Attending lectures is 'old school' - what else is?
-  url: /blog2/2009/06/02/attending-lectures-is-old-school-what-else-is/
+  url: /blog/2009/06/02/attending-lectures-is-old-school-what-else-is/
 previous:
   text: A night at Ezard
-  url: /blog2/2009/05/27/a-night-at-ezard/
+  url: /blog/2009/05/27/a-night-at-ezard/
 title: The LMS/VLE as a one word language - metaphor and e-learning
 type: post
 template: blog-post.html
@@ -37,7 +37,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm currently back from a holiday restarting work on [my thesis](/blog2/research/phd-thesis/) and in particular on the [process component](/blog2/2009/05/25/teleological-and-ateleological-processes/) of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). I'm currently working on the section that describes the two extremes, I'm using Introna's (1996) distinction between teleological design and ateleological design.
+I'm currently back from a holiday restarting work on [my thesis](/blog/research/phd-thesis/) and in particular on the [process component](/blog/2009/05/25/teleological-and-ateleological-processes/) of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). I'm currently working on the section that describes the two extremes, I'm using Introna's (1996) distinction between teleological design and ateleological design.
 
 The following arises out of re-reading Introna (1996) and picking up some new insights that resonate with some recent thoughts I've been having about e-learning and Learning Management Systems (LMSs/VLEs). The following is an attempt to make sense of Introna (1996) - which is not the easiest paper to follow - and integrate it with some of my thinking.
 
@@ -81,9 +81,9 @@ While accepting that the system metaphor has been beneficial he also suggests th
 
 ### So what?
 
-Most immediately for me is the potential avenue these thoughts might provide for the [innovation role](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to be taking on. I can currently see two immediately useful applications of this thinking:
+Most immediately for me is the potential avenue these thoughts might provide for the [innovation role](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I'm meant to be taking on. I can currently see two immediately useful applications of this thinking:
 
-1. Using metaphor to map the current ["grammar of school"](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) at the host institution in order to identify what current conceptions are and evaluate whether they are limiting what is possible.  
+1. Using metaphor to map the current ["grammar of school"](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) at the host institution in order to identify what current conceptions are and evaluate whether they are limiting what is possible.  
     I think it's fairly obvious from what I've said on this blog that I think this is the case. It also helps, or perhaps increases my pattern entrainment, that there is a connection between this and with [some work](http://emergentresearchers.wordpress.com/2009/01/16/metaphor-meaning-and-myth-exploring-diversity-in-information-systems-research/) my wife is doing.
 2. Developing different metaphors to develop innovative approaches to e-learning.
 

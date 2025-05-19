@@ -4,10 +4,10 @@ categories:
 date: 2011-07-24 15:14:51+10:00
 next:
   text: Residents and visitors, are builders the forgotten category?
-  url: /blog2/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/
+  url: /blog/2011/07/31/residents-and-visitors-are-builders-the-forgotten-category/
 previous:
   text: Can you be a native in a world that is always changing?
-  url: /blog2/2011/07/20/4033/
+  url: /blog/2011/07/20/4033/
 title: What story do the numbers tell?
 type: post
 template: blog-post.html

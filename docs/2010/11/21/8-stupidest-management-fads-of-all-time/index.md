@@ -4,15 +4,15 @@ categories:
 date: 2010-11-21 08:21:15+10:00
 next:
   text: Charity begins at home, doesn't it?
-  url: /blog2/2010/11/28/charity-begins-at-home-doesnt-it/
+  url: /blog/2010/11/28/charity-begins-at-home-doesnt-it/
 previous:
   text: Changing times and connectivism
-  url: /blog2/2010/11/21/changing-times-and-connectivism/
+  url: /blog/2010/11/21/changing-times-and-connectivism/
 title: 8 stupidest management fads of all time
 type: post
 template: blog-post.html
 ---
-Increasingly I think most of management is driven by fads. Even if the "fad" has some good underlying principles, or is perhaps simply a bit better than previous options. It is still implemented by management as a fad. As if we only implement this successfully, we will have the silver bullet that solves all our problems. Within higher education I have previously argued that [open source learning management systems](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) are one of the more recent fads.
+Increasingly I think most of management is driven by fads. Even if the "fad" has some good underlying principles, or is perhaps simply a bit better than previous options. It is still implemented by management as a fad. As if we only implement this successfully, we will have the silver bullet that solves all our problems. Within higher education I have previously argued that [open source learning management systems](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) are one of the more recent fads.
 
 > _Aside:_ and it becomes a self-fulfilling prophecy. e.g. moving to an open source LMS needs senior management buy in. Which means the implementation of the open source LMS must be seen as a success. So, even if the implementation fails miserably (e.g. first term of go live the new LMS doesn't play well with the chosen database and falls over if more than 5 people login resulting in a need to pay more for an external consultant to fix the problem) the implementation team will receive an organisational award, because it has to be seen as a success.
 
@@ -30,7 +30,7 @@ At the time, I did a quick literature search and found the following quote (Goh 
 
 > In fact, administratively, conformance is required in Six Sigma not just with respect to process output but in terms of employee participation as well. Regimentation via a hierarchy of ‘Master Black Belts’, ‘Black Belts’, and so on would go against the very culture in a community of academics and researchers, even students. The bottom line approach taken in Six Sigma cannot be the driving factor in the pursuit of academic excellence. Cynicism, well before anything else, would be the first reaction if the leadership of a university is to tell everyone ‘Take Six Sigma— or this organization is not for you’, a proclamation made famous by Jack Welch as CEO of General Electric. It is little wonder that to date, nothing is heard about any university proclaiming itself a Six Sigma institution.
 
-Funnily enough, at least 5 years earlier I had been involved in projects that were making [effective interventions into these problems](/blog2/publications/how-to-live-with-erp-systems-and-thrive/#irog). But these interventions were done in a contextual way, responding to real problems experienced by those involved and trying to help them based on the deep understanding of the system provided by being a part of the system. Not being an external analyst with no historical connection or understanding of the context.
+Funnily enough, at least 5 years earlier I had been involved in projects that were making [effective interventions into these problems](/blog/publications/how-to-live-with-erp-systems-and-thrive/#irog). But these interventions were done in a contextual way, responding to real problems experienced by those involved and trying to help them based on the deep understanding of the system provided by being a part of the system. Not being an external analyst with no historical connection or understanding of the context.
 
 ### [2\. Business process re-engineering](http://www.bnet.com/blog/salesmachine/the-8-stupidest-management-fads-of-all-time/12307?pg=3)
 

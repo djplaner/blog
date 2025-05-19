@@ -2,10 +2,10 @@
 date: 2007-07-11 21:00:54+10:00
 next:
   text: '"Further reflection on creating innovative, good quality L&#038;T"'
-  url: /blog2/2007/07/12/further-reflection-on-creating-innovative-good-quality-lt/
+  url: /blog/2007/07/12/further-reflection-on-creating-innovative-good-quality-lt/
 previous:
   text: CQU&#039;s first &quot;web 2.0 course site&quot; goes live
-  url: /blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/
+  url: /blog/2007/07/11/cqus-first-web-20-course-site-goes-live/
 title: Some short-term futures for learning @ CQU
 type: post
 template: blog-post.html

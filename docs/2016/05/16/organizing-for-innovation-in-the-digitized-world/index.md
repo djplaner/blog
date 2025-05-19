@@ -4,10 +4,10 @@ categories:
 date: 2016-05-16 10:04:04+10:00
 next:
   text: Building a CASA for student evaluation of teaching results
-  url: /blog2/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
+  url: /blog/2016/05/18/building-a-casa-for-student-evaluation-of-teaching-results/
 previous:
   text: 'Testing out the Heatmap #moodle block'
-  url: /blog2/2016/05/13/testing-out-the-heatmap-moodle-block/
+  url: /blog/2016/05/13/testing-out-the-heatmap-moodle-block/
 title: Organizing for Innovation in the Digitized world
 type: post
 template: blog-post.html
@@ -28,7 +28,7 @@ Some random personal thoughts follow, before a summary of the paper below.
 
 ### Pervasive digital technology, simluation, generativity and divergence
 
-The first important point that I think many people (and organisations) still haven't grasped is the pervasiveness of digital technology. Organisations in particular have a problem with this when they have policies that say you must use technology X to perform task Y. They don't realise that with pervasive digital technology if performing task Y with their chosen technology X is way to onerous, then I'll find technology Z that works much better for me. Even if I have to figure out how to simluate (see [corruption and simulation](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/)) the use of technology X.
+The first important point that I think many people (and organisations) still haven't grasped is the pervasiveness of digital technology. Organisations in particular have a problem with this when they have policies that say you must use technology X to perform task Y. They don't realise that with pervasive digital technology if performing task Y with their chosen technology X is way to onerous, then I'll find technology Z that works much better for me. Even if I have to figure out how to simluate (see [corruption and simulation](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/)) the use of technology X.
 
 I wonder if this is a form of generativity that the authors haven't considered? Is it an example of how digital technology actually enables divergence? Where organisational actors no longer have to converge into the one organisationally mandated system.
 

@@ -8,10 +8,10 @@ categories:
 date: 2010-05-30 10:45:36+10:00
 next:
   text: Institutional changes - 2000 and beyond - and their impact
-  url: /blog2/2010/05/30/institutional-changes-2000-and-beyond-and-their-impact/
+  url: /blog/2010/05/30/institutional-changes-2000-and-beyond-and-their-impact/
 previous:
   text: One potential approach to provide a Moodle email merge facility
-  url: /blog2/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/
+  url: /blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/
 title: Focusing on integration - chapter 5
 type: post
 template: blog-post.html

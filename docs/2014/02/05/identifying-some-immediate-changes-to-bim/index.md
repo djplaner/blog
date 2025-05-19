@@ -5,10 +5,10 @@ categories:
 date: 2014-02-05 15:35:29+10:00
 next:
   text: BIM testing and fixes
-  url: /blog2/2014/02/07/bim-testing-and-fixes/
+  url: /blog/2014/02/07/bim-testing-and-fixes/
 previous:
   text: Analysing EDC3100 using MAV
-  url: /blog2/2014/02/03/analysing-edc3100-using-mav/
+  url: /blog/2014/02/03/analysing-edc3100-using-mav/
 title: Identifying some immediate changes to BIM
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I have until the 21st of February to get [BIM](/blog2/research/bam-blog-aggregation-management/) tested and ready for installation into the institutional Moodle instance. The following is some initial planning of what I'd like to get done in that time frame. A list that will then need to be further whittled away to what I can get done in that time frame. There are three categories of changes
+I have until the 21st of February to get [BIM](/blog/research/bam-blog-aggregation-management/) tested and ready for installation into the institutional Moodle instance. The following is some initial planning of what I'd like to get done in that time frame. A list that will then need to be further whittled away to what I can get done in that time frame. There are three categories of changes
 
 1. Changes to better support the pedagogy I'm currently using.
 2. Changes from the BIM issues list.

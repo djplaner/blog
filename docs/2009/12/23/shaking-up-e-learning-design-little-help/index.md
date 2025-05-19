@@ -5,10 +5,10 @@ categories:
 date: 2009-12-23 09:28:50+10:00
 next:
   text: '"Herding cats and losing weight: the vimeo video"'
-  url: /blog2/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/
+  url: /blog/2009/12/23/herding-cats-and-losing-weight-the-vimeo-video/
 previous:
   text: BIM - cron and view student details screen
-  url: /blog2/2009/12/22/bim-cron-and-view-student-details-screen/
+  url: /blog/2009/12/22/bim-cron-and-view-student-details-screen/
 title: Shaking up e-learning "design" - little help?
 type: post
 template: blog-post.html
@@ -70,7 +70,7 @@ It arises from the confluence of at least three separate threads over the last c
 
 1. Some talk on Cloudworks about [motivating teachers to use technologies](http://cloudworks.ac.uk//cloud/view/2809);
 2. A [blog post](http://www.acagamic.com/specials/advent-2009/11-designing-a-game-changer-how-game-mechanics-are-leveraged-in-interaction-design/) and associated presentation about bringing aspects of game design to boring tasks; and
-3. My current task on developing [BIM](/blog2/research/bam-blog-aggregation-management/), particularly the interface.
+3. My current task on developing [BIM](/blog/research/bam-blog-aggregation-management/), particularly the interface.
 
 ### The premise
 

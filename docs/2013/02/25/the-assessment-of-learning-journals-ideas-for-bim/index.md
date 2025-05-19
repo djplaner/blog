@@ -4,10 +4,10 @@ categories:
 date: 2013-02-25 09:53:59+10:00
 next:
   text: And it starts again, edc3100 in 2013
-  url: /blog2/2013/02/26/and-it-starts-again-edc3100-in-2013/
+  url: /blog/2013/02/26/and-it-starts-again-edc3100-in-2013/
 previous:
   text: Exploring using the Wii/Augmented Reality to teach proportion
-  url: /blog2/2013/02/20/exploring-using-the-wiiaugmented-reality-to-teach-proportion/
+  url: /blog/2013/02/20/exploring-using-the-wiiaugmented-reality-to-teach-proportion/
 title: The assessment of learning journals - ideas for BIM
 type: post
 template: blog-post.html
@@ -128,7 +128,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In the course I'm currently teaching the students will be expected to keep a learning journal. They'll be keeping this on a personal blog that they register on the course Moodle site (but not with [BIMM](/blog2/research/bam-blog-aggregation-management/), the institutional process to get BIM installed is underway). The following floats some initial ideas about how the "assessment" of the learning journal will be automated.
+In the course I'm currently teaching the students will be expected to keep a learning journal. They'll be keeping this on a personal blog that they register on the course Moodle site (but not with [BIMM](/blog/research/bam-blog-aggregation-management/), the institutional process to get BIM installed is underway). The following floats some initial ideas about how the "assessment" of the learning journal will be automated.
 
 Reactions, criticisms and pointers welcome.
 

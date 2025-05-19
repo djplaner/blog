@@ -11,10 +11,10 @@ coverImage: 2153105227_341c4ee602_o-e1627001406797.jpg
 date: 2010-04-25 12:40:40+10:00
 next:
   text: '"The realities of the ERA and L&#038;T support services"'
-  url: /blog2/2010/04/28/the-realities-of-the-era-and-lt-support-services/
+  url: /blog/2010/04/28/the-realities-of-the-era-and-lt-support-services/
 previous:
   text: Clarification of the alignment project
-  url: /blog2/2010/04/22/clarification-of-the-alignment-project/
+  url: /blog/2010/04/22/clarification-of-the-alignment-project/
 title: Inside out, Outside in or both?
 type: post
 template: blog-post.html
@@ -252,7 +252,7 @@ pingbacks:
       user_id: '0'
     
 ---
-During the last week I have been in Canberra for various events, including [giving a presentation](/blog2/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/) on [BIM](/blog2/research/bam-blog-aggregation-management/) at University of Canberra. Somewhat surprisingly (as last I knew, he was in New Zealand), [Leigh Blackall](http://leighblackall.blogspot.com/) was in "audience" at the presentation, and as is Leigh's wont, he asked some serious questions. I was troubled by those questions and needed time to reflect on what an answer might be.
+During the last week I have been in Canberra for various events, including [giving a presentation](/blog/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/) on [BIM](/blog/research/bam-blog-aggregation-management/) at University of Canberra. Somewhat surprisingly (as last I knew, he was in New Zealand), [Leigh Blackall](http://leighblackall.blogspot.com/) was in "audience" at the presentation, and as is Leigh's wont, he asked some serious questions. I was troubled by those questions and needed time to reflect on what an answer might be.
 
 This is an attempt to develop an answer to why I was troubled. In part, this attempts to [pick up a comment](http://leighblackall.blogspot.com/2010/04/on-system-that-manages-learning.html#comment-2932560188421168672) I'd made earlier on Leigh's blog about thesis, anti-thesis and synthesis
 
@@ -294,7 +294,7 @@ There are many within current institutions that react negatively to this perspec
 
 ### Limits in developing innovative pedagogy with Moodle
 
-In fact, I'm hoping to use the development of BIM and the limitations of this approach as the basis for a couple of publications, including a presentation at [MoodleMoot AU 2010](http://moodlemoot.org.au/). (still waiting to hear if the submission has been successful). The "theme" for this conference is "without limits....". Rather than accepting that Moodle is "without limits", [I argue](/blog2/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/) that
+In fact, I'm hoping to use the development of BIM and the limitations of this approach as the basis for a couple of publications, including a presentation at [MoodleMoot AU 2010](http://moodlemoot.org.au/). (still waiting to hear if the submission has been successful). The "theme" for this conference is "without limits....". Rather than accepting that Moodle is "without limits", [I argue](/blog/2010/03/25/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim-2/) that
 
 > e-learning with Moodle, as currently practised, has a number of limits and that progress can be made through the recognition, understanding and removal of those limits.
 
@@ -312,7 +312,7 @@ However, there is also a need - at least at the moment - for folk who are taking
 
 ### Inside-out is currently failing
 
-As stated above and numerous times on this blog, I think the current approaches being used within universities are failing. Most L&T at universities is poor quality by traditional standards, let alone if measured by adoption of social media. For me, this is not a sign that it is impossible, it's a sign that the principles of current approaches are just plain wrong. This is [what my current work](/blog2/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) is looking at.
+As stated above and numerous times on this blog, I think the current approaches being used within universities are failing. Most L&T at universities is poor quality by traditional standards, let alone if measured by adoption of social media. For me, this is not a sign that it is impossible, it's a sign that the principles of current approaches are just plain wrong. This is [what my current work](/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) is looking at.
 
 ### Why is it failing?
 
@@ -343,7 +343,7 @@ As an inside-out person, I believe any success comes from having deep knowledge 
 
 ### But it's not enough
 
-This is what really troubled me, and now I'm becoming repetitive in the same post. The above by itself is not enough. As a measly [e-learning and innovation specialist](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I have no power to make the further changes in the environment that are necessary to make BIM truly attractive.
+This is what really troubled me, and now I'm becoming repetitive in the same post. The above by itself is not enough. As a measly [e-learning and innovation specialist](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I have no power to make the further changes in the environment that are necessary to make BIM truly attractive.
 
 I guess the real reason why Leigh's questions troubled me, is that I'm frustrated at my inability to make the change and the on-going blindness of institutional leadership.
 

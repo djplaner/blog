@@ -4,10 +4,10 @@ categories:
 date: 2010-01-09 11:47:06+10:00
 next:
   text: BIM - Design of "Manage Marking" and other features for Coordinators
-  url: /blog2/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/
+  url: /blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/
 previous:
   text: BIM - Allocate questions screen
-  url: /blog2/2010/01/07/bim-allocate-questions-screen/
+  url: /blog/2010/01/07/bim-allocate-questions-screen/
 title: BIM - getting navigation bread crumbs and tabs working
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In the [last bit of work](/blog2/2010/01/07/bim-allocate-questions-screen/) on BIM I got the Allocate Posts page working. This created the issue of getting the navigation/bread crumbs trail work in a useful way. I made an initial start on that, this post tries to get it complete. It will also be an attempt to get the "tabbed" screen for the coordinator working.
+In the [last bit of work](/blog/2010/01/07/bim-allocate-questions-screen/) on BIM I got the Allocate Posts page working. This created the issue of getting the navigation/bread crumbs trail work in a useful way. I made an initial start on that, this post tries to get it complete. It will also be an attempt to get the "tabbed" screen for the coordinator working.
 
 Work to do includes:
 

@@ -8,10 +8,10 @@ categories:
 date: 2009-01-09 17:50:20+10:00
 next:
   text: Using metaphor to examine diversity (or lack thereof) in research
-  url: /blog2/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/
+  url: /blog/2009/01/16/using-metaphor-to-examine-diversity-or-lack-thereof-in-research/
 previous:
   text: Content, redirects and impact on Google ranking
-  url: /blog2/2009/01/07/content-redirects-and-impact-on-google-ranking/
+  url: /blog/2009/01/07/content-redirects-and-impact-on-google-ranking/
 title: '"Seven principles of knowledge management and applications to e-learning,
   curriculum design and L&#038;T in universities"'
 type: post

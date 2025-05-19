@@ -5,10 +5,10 @@ categories:
 date: 2011-03-06 14:08:10+10:00
 next:
   text: '"Literacy and Numeracy: Week 1"'
-  url: /blog2/2011/03/06/literacy-and-numeracy-week-1/
+  url: /blog/2011/03/06/literacy-and-numeracy-week-1/
 previous:
   text: A comparison of schools - enabled by MySchools v2.0
-  url: /blog2/2011/03/05/a-comparison-of-schools-enabled-by-myschools-v2-0/
+  url: /blog/2011/03/05/a-comparison-of-schools-enabled-by-myschools-v2-0/
 title: '"Supportive Learning Environments: Week 1"'
 type: post
 template: blog-post.html

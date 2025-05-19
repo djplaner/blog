@@ -8,10 +8,10 @@ categories:
 date: 2010-03-17 21:51:43+10:00
 next:
   text: Research Method - Overview
-  url: /blog2/2010/03/18/research-method-overview/
+  url: /blog/2010/03/18/research-method-overview/
 previous:
   text: The story of BIM - the slow expansion of BAM
-  url: /blog2/2010/03/17/the-story-of-bim-the-slow-expansion-of-bam/
+  url: /blog/2010/03/17/the-story-of-bim-the-slow-expansion-of-bam/
 title: Embedding behaviour modification - paper summary
 type: post
 template: blog-post.html

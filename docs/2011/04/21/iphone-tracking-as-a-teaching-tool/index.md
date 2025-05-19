@@ -4,10 +4,10 @@ categories:
 date: 2011-04-21 10:15:19+10:00
 next:
   text: '"ICTs for Learning Design: Week 7"'
-  url: /blog2/2011/04/21/icts-for-learning-design-week-7/
+  url: /blog/2011/04/21/icts-for-learning-design-week-7/
 previous:
   text: Starting on a &quot;student diversity report&quot;
-  url: /blog2/2011/04/16/starting-on-a-student-diversity-report/
+  url: /blog/2011/04/16/starting-on-a-student-diversity-report/
 title: iPhone tracking as a teaching tool
 type: post
 template: blog-post.html

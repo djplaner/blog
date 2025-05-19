@@ -4,10 +4,10 @@ categories:
 date: 2015-01-06 08:37:21+10:00
 next:
   text: '"Do it with" teachers or students?'
-  url: /blog2/2015/01/12/do-it-with-teachers-or-students/
+  url: /blog/2015/01/12/do-it-with-teachers-or-students/
 previous:
   text: An illustration of the difficulty of learning about network learning
-  url: /blog2/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
+  url: /blog/2014/12/31/an-illustration-of-the-difficulty-of-learning-about-network-learning/
 title: '"TPACK as shared practice: Toward a research agenda"'
 type: post
 template: blog-post.html
@@ -278,7 +278,7 @@ The following is a draft of a paper that has been accepted at the [SITE'2015 con
 
 Authors: [Peter Albion](http://peter.albion.id.au/), [Amanda Heffernan](http://staffsearch.usq.edu.au/profile/Amanda-Heffernan) and myself.
 
-Jones, D., Heffernan, A., & Albion, P. R. (2015). [TPACK as shared practice: Toward a research agenda](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/). In D. Slykhuis & G. Marks (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2015 (pp. 3287–3294). Las Vegas, NV: AACE. **Best paper award**
+Jones, D., Heffernan, A., & Albion, P. R. (2015). [TPACK as shared practice: Toward a research agenda](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/). In D. Slykhuis & G. Marks (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2015 (pp. 3287–3294). Las Vegas, NV: AACE. **Best paper award**
 
 ### Abstract
 

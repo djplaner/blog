@@ -6,10 +6,10 @@ categories:
 date: 2006-12-21 12:39:23+10:00
 next:
   text: Collaboration, Design and Innovation
-  url: /blog2/2006/12/22/collaboration-design-and-innovation/
+  url: /blog/2006/12/22/collaboration-design-and-innovation/
 previous:
   text: Software as a service - Google apps for your domain
-  url: /blog2/2006/12/21/software-as-a-service-google-apps-for-your-domain/
+  url: /blog/2006/12/21/software-as-a-service-google-apps-for-your-domain/
 title: Prototyping a Web 2.0 Course site
 type: post
 template: blog-post.html

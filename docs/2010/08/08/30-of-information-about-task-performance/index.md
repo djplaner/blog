@@ -12,10 +12,10 @@ categories:
 date: 2010-08-08 14:00:56+10:00
 next:
   text: Wicked problems and the need to engage with differing perspectives
-  url: /blog2/2010/08/08/wicked-problems-and-the-need-to-engage-with-differing-perspectives/
+  url: /blog/2010/08/08/wicked-problems-and-the-need-to-engage-with-differing-perspectives/
 previous:
   text: Usage of dynamic web applications by staff and students
-  url: /blog2/2010/08/05/usage-of-dynamic-web-applications-by-staff-and-students/
+  url: /blog/2010/08/05/usage-of-dynamic-web-applications-by-staff-and-students/
 title: 30% of information about task performance
 type: post
 template: blog-post.html
@@ -55,7 +55,7 @@ A related example.
 
 ### The StaffMyCQU Example
 
-Some colleagues and I - over a period of almost 10 years - designed, supported, and evolved an information system call Staff MyCQU. An early part of it's evolution is described in the "Student Records" section of [this paper](/blog2/publications/how-to-live-with-erp-systems-and-thrive/). It was a fairly simple web application that provided university staff with access to student records and range of related services. Over it's life cycle, a range of new and different features were added and existing features tweaked, all in response to interactions with the system's users.
+Some colleagues and I - over a period of almost 10 years - designed, supported, and evolved an information system call Staff MyCQU. An early part of it's evolution is described in the "Student Records" section of [this paper](/blog/publications/how-to-live-with-erp-systems-and-thrive/). It was a fairly simple web application that provided university staff with access to student records and range of related services. Over it's life cycle, a range of new and different features were added and existing features tweaked, all in response to interactions with the system's users.
 
 Importantly, the systems developers were also generally the people handling user queries and problems on the "helpdesk". Quite often, changes to the system would result in tweaks and changes. Rather than being designed up front, the system grew and changed with people using it.
 

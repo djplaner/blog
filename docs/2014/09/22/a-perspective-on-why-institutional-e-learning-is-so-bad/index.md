@@ -5,10 +5,10 @@ categories:
 date: 2014-09-22 15:26:06+10:00
 next:
   text: Unintended consequences of technology in education
-  url: /blog2/2014/10/02/unintended-consequences-of-technology-in-education/
+  url: /blog/2014/10/02/unintended-consequences-of-technology-in-education/
 previous:
   text: Breaking BAD to bridge the reality/rhetoric chasm
-  url: /blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/
+  url: /blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/
 title: A perspective on why institutional e-learning is so bad
 type: post
 template: blog-post.html
@@ -90,15 +90,15 @@ pingbacks:
 ---
 [![Sunset attack by TheGiantVermin, on Flickr](images/14298841188_7e8f06b80b_m.jpg "Sunset attack by TheGiantVermin, on Flickr")](https://www.flickr.com/photos/tudor/14298841188/) [![Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License")](http://creativecommons.org/licenses/by-nc-nd/2.0/)   by  [](https://www.flickr.com/people/tudor/)[TheGiantVermin](https://www.flickr.com/people/tudor/) [](http://www.imagecodr.org/)
 
-It's about time to tilt at the same windmill again. For as long as I can remember I've thought institutional e-learning was done badly. Here's another attempt to explain why and map out a way forward. The following is based heavily on on [this paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) that will be presented at [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) and is a slightly re-worked version of something I shared as part of my current institution's attempts to formulate operational plans.
+It's about time to tilt at the same windmill again. For as long as I can remember I've thought institutional e-learning was done badly. Here's another attempt to explain why and map out a way forward. The following is based heavily on on [this paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) that will be presented at [ASCILITE'2014](http://ascilite2014.otago.ac.nz/) and is a slightly re-worked version of something I shared as part of my current institution's attempts to formulate operational plans.
 
-The argument is that institutional e-learning is based entirely on the wrong mindset. To see any hope of improvement it needs to integrate a little of another largely incommensurable mindset. I use a problem specific to my practice below to illustrate the argument. My co-author [shares a different problem](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#MAV) in the paper that illustrates the same point, but his problem is potentially more interesting.
+The argument is that institutional e-learning is based entirely on the wrong mindset. To see any hope of improvement it needs to integrate a little of another largely incommensurable mindset. I use a problem specific to my practice below to illustrate the argument. My co-author [shares a different problem](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#MAV) in the paper that illustrates the same point, but his problem is potentially more interesting.
 
 ### My problem
 
 I teach [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/specification/2014/EDC3100-S1-2014-ONC-WIBAY.html) a third year core course in the Bachelor of Education. The first semester enrolment typically consists of 300 plus pre-service teachers; studying to become every type of teacher from early childhood, primary, secondary, and VET; located at each of USQ's campuses, Malaysia and about 170 of the students via online learning. Some of these students - due to exemptions - are in their first semester of University study. Others are into the 6th, 7th and beyond year of study at USQ.
 
-As a course that is teaching teachers about how to use Information and Communication Technologies to enhance/transform their pedagogy, the course requires all students to make heavy use of ICTs. Many of these students are [not "digital natives"](/blog2/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/). Even those with years of online study at USQ show surprising levels of digital illiteracy. Hence there are lots of questions from students that need answering. Almost all of these questions are asked on discussion forums.
+As a course that is teaching teachers about how to use Information and Communication Technologies to enhance/transform their pedagogy, the course requires all students to make heavy use of ICTs. Many of these students are [not "digital natives"](/blog/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/). Even those with years of online study at USQ show surprising levels of digital illiteracy. Hence there are lots of questions from students that need answering. Almost all of these questions are asked on discussion forums.
 
 When I respond to a question on a course discussion forum it's often important/useful to cater the response to the specifics of the student. In particular, it's not unusual to see the need to customise a response based on
 
@@ -132,7 +132,7 @@ The following figure shows what it looks like. Note:
 
  
 
-Currently, this only works via a web browser running on my laptop. It's a personal solution. It is based on a particular [set of technologies](/blog2/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/) developed by and currently being used at CQUni for a strategic project around retention.
+Currently, this only works via a web browser running on my laptop. It's a personal solution. It is based on a particular [set of technologies](/blog/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/) developed by and currently being used at CQUni for a strategic project around retention.
 
 ### Why can't USQ have more solutions like this? SET in our ways
 
@@ -158,7 +158,7 @@ It answers the three questions this way
 
 ### Implications
 
-[The paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) that goes into this in more detail closes with this
+[The paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) that goes into this in more detail closes with this
 
 The suggestion here is not that institutions should see the BAD framework as a replacement for the SET framework, but rather that they should engage in some bricolage and explore how contextually appropriate mixtures of both frameworks can help bridge their e-learning reality/rhetoric chasm. Perhaps universities need to break a little BAD?
 

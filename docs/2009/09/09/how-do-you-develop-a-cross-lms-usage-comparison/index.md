@@ -11,15 +11,15 @@ categories:
 date: 2009-09-09 15:59:10+10:00
 next:
   text: '"PhD Update #24: off to the crocodile form"'
-  url: /blog2/2009/09/11/phd-update-24-off-to-the-crocodile-form/
+  url: /blog/2009/09/11/phd-update-24-off-to-the-crocodile-form/
 previous:
   text: BIM#7 - Getting the prototype up
-  url: /blog2/2009/09/08/bim7-getting-the-prototype-up/
+  url: /blog/2009/09/08/bim7-getting-the-prototype-up/
 title: How do you develop a cross-LMS usage comparison?
 type: post
 template: blog-post.html
 ---
-I [recently posted](/blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) about the need to develop an approach that allows for the simple and consistent comparison of usage and feature adoption between different Learning Management Systems (aka LMS, Virtual Learning Environments - VLEs - see [What is an LMS?](/blog2/2009/08/21/what-is-an-lms/)). That [last post on the need](/blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) didn't really establish the need. The aim of this post is to explain the need and make some first steps in identifying how you might go about enabling this sort of comparison.
+I [recently posted](/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) about the need to develop an approach that allows for the simple and consistent comparison of usage and feature adoption between different Learning Management Systems (aka LMS, Virtual Learning Environments - VLEs - see [What is an LMS?](/blog/2009/08/21/what-is-an-lms/)). That [last post on the need](/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) didn't really establish the need. The aim of this post is to explain the need and make some first steps in identifying how you might go about enabling this sort of comparison.
 
 The main aim is to get my colleagues in this project thinking and writing about what they think we should and how we might do it.
 
@@ -42,7 +42,7 @@ The main reason is that there currently appears to be no simple, effective metho
 At the moment, I am thinking that you need the following:
 
 - a model;  
-    An cross-platform representation of the data required to do the comparison. In the [last post](/blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) the model by Malikowski et al (2007) was mentioned. It's a good start, but has doesn't cover everything.
+    An cross-platform representation of the data required to do the comparison. In the [last post](/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) the model by Malikowski et al (2007) was mentioned. It's a good start, but has doesn't cover everything.
     
     As a first crack the model might include the following sets of information:
     

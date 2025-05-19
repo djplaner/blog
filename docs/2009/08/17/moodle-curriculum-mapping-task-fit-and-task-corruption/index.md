@@ -2,10 +2,10 @@
 date: 2009-08-17 10:48:54+10:00
 next:
   text: Lessons for e-learning from people
-  url: /blog2/2009/08/17/lessons-for-e-learning-from-people/
+  url: /blog/2009/08/17/lessons-for-e-learning-from-people/
 previous:
   text: 'BIM #4: Re-jigging how BIM works'
-  url: /blog2/2009/08/17/bim-4-re-jigging-how-bim-works/
+  url: /blog/2009/08/17/bim-4-re-jigging-how-bim-works/
 tags:
 - moodle-curriculummapping
 title: Moodle, curriculum mapping, task fit and task corruption
@@ -98,7 +98,7 @@ If the goal is to enable curriculum mapping, I would suggest not changing academ
 
 When it comes to change in teaching practice with university academics, it's very hard. Most (there is a minority of innovators that are an exception) tend not to change their practice.
 
-When the push for this change is from the top-down (i.e. management), it is even less likely that academics will change teaching practice. If pushed the end result is, at best compliance, and at worst [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/). This tends to defeat the purpose of any change in the first place.
+When the push for this change is from the top-down (i.e. management), it is even less likely that academics will change teaching practice. If pushed the end result is, at best compliance, and at worst [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/). This tends to defeat the purpose of any change in the first place.
 
 The need for curriculum mapping is mostly top-down. It's needed for accreditation and accountability reasons - mostly concerns for management. My fear is that any requirement for academics to produce/contribute to curriculum maps is likely to be seen as an additional impost and either they won't participate or they will be seen to comply.
 
@@ -128,7 +128,7 @@ Especially when Moodle is the system the academics will be using throughout the 
 
 ### Evaluating potential innovations
 
-Back in 2003, some colleagues and I proposed a model, drawing heavily on Rogers (1995), for evaluating potential web-based innovations [(Jones, Jamieson and Clark, 2003](/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/)). The claim was
+Back in 2003, some colleagues and I proposed a model, drawing heavily on Rogers (1995), for evaluating potential web-based innovations [(Jones, Jamieson and Clark, 2003](/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/)). The claim was
 
 > innovations are largely promoted on the basis of a collection of supposedly objective benefits. The implementation of these innovations often ignores contextual issues that can cause problems with adoption of the innovations. This paper has proposed the use of a model from diffusion theory through which educators can increase their awareness of potential implementation issues, estimate the likelihood of reinvention, and predict the amount and type of effort required to achieve successful implementation of specific WBE innovations.
 
@@ -138,7 +138,7 @@ For example, given that the psychology folk are fairly motivated about curriculu
 
 ### A solution?
 
-Based on the above background and sparked by Ger's observation of the difference between top-down and bottom-up, the following idea came to me overnight. It's also informed by some [recent experience I gathered](/blog2/2009/08/17/bim-4-re-jigging-how-bim-works/) while trying to become familiar with Moodle (which means I'm still new to Moodle so take the following with a grain of salt).
+Based on the above background and sparked by Ger's observation of the difference between top-down and bottom-up, the following idea came to me overnight. It's also informed by some [recent experience I gathered](/blog/2009/08/17/bim-4-re-jigging-how-bim-works/) while trying to become familiar with Moodle (which means I'm still new to Moodle so take the following with a grain of salt).
 
 The basic idea is to modify the operation of Moodle so that everytime an academic edits or adds a resource or activity to a Moodle course they can easily select which of the course and program outcomes that resource or activity is associated with. This would provide a database with the information necessary to create a curriculum map.
 
@@ -190,6 +190,6 @@ This is still an initial thought, a rough idea. It will have significant flaws. 
 
 ### References
 
-Jones, D., K. Jamieson, D. Clark. (2003). [A model for evaluating potential Web-based education innovations](/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/). 36th Annual Hawaii International Conference on System Sciences, Hawaii, IEEE.
+Jones, D., K. Jamieson, D. Clark. (2003). [A model for evaluating potential Web-based education innovations](/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/). 36th Annual Hawaii International Conference on System Sciences, Hawaii, IEEE.
 
 Rogers, E. (1995). Diffusion of Innovations. New York, The Free Press.

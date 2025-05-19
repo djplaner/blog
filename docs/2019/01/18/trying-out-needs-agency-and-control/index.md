@@ -4,10 +4,10 @@ categories:
 date: 2019-01-18 13:50:26+10:00
 next:
   text: Improving reuse of design knowledge in a LMS
-  url: /blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/
+  url: /blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/
 previous:
   text: Meso-level practitioners and generative technologies?
-  url: /blog2/2019/01/03/understanding-my-role-as-meso-level-practitioner/
+  url: /blog/2019/01/03/understanding-my-role-as-meso-level-practitioner/
 title: '"Trying out" needs agency and control'
 type: post
 template: blog-post.html

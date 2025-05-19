@@ -4,11 +4,11 @@ categories:
 date: 2016-02-02 10:12:04+10:00
 next:
   text: Using social bookmarking to enrich the learning environment
-  url: /blog2/2016/02/04/using-social-bookmarking-to-enrich-the-learning-environment/
+  url: /blog/2016/02/04/using-social-bookmarking-to-enrich-the-learning-environment/
 previous:
   text: What if our digital technologies were protean? Implications for computational
     thinking, learning, and teaching
-  url: /blog2/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/
+  url: /blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/
 title: Blog for learning. Why? What? How?
 type: post
 template: blog-post.html

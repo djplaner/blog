@@ -4,11 +4,11 @@ categories:
 date: 2012-08-07 09:23:47+10:00
 next:
   text: Lessons for the meta-level of networked learning?
-  url: /blog2/2012/08/13/lessons-for-the-meta-level-of-networked-learning/
+  url: /blog/2012/08/13/lessons-for-the-meta-level-of-networked-learning/
 previous:
   text: 'Enabling academics to apply learning analytics to individual pedagogical
     practice: how and with what impacts?'
-  url: /blog2/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
+  url: /blog/2012/07/25/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts/
 title: Using the NetSpot Innovation fund to enhance bim
 type: post
 template: blog-post.html
@@ -17,7 +17,7 @@ So the [2013 NetSpot Innovation Fund](http://netspot.com.au/innovationfund.html#
 
 > it is essentially a software development project
 
-It sounds like a perfect opportunity to enhance [BIM](/blog2/research/bam-blog-aggregation-management/) - Blog Aggregation Management Into Moodle - plugin. The following provides soem ideas for what shape that expansion/enhancement might take and serves the purpose of seeing if there's broader buy in for some of this work and also make suggestions that I've missed.
+It sounds like a perfect opportunity to enhance [BIM](/blog/research/bam-blog-aggregation-management/) - Blog Aggregation Management Into Moodle - plugin. The following provides soem ideas for what shape that expansion/enhancement might take and serves the purpose of seeing if there's broader buy in for some of this work and also make suggestions that I've missed.
 
 If you are interested in this, let me know.
 
@@ -32,7 +32,7 @@ The assumption here is that I have finished porting BIM into Moodle 2.x. This wo
 
 Yes, I'm aware that there could be significant questions about how you could explore different paradigms within the constraints of an institutional LMS. There are inherent constraints.
 
-[Leigh Blackall](http://www.leighblackall.com/) and I [had this conversation a while ago](/blog2/2010/04/25/inside-out-outside-in-or-both/). There are minuses in this approach, but there are some plusses as well and there aren't many opportunities of getting access to some experienced developers the other way.
+[Leigh Blackall](http://www.leighblackall.com/) and I [had this conversation a while ago](/blog/2010/04/25/inside-out-outside-in-or-both/). There are minuses in this approach, but there are some plusses as well and there aren't many opportunities of getting access to some experienced developers the other way.
 
 ### The enhancements
 
@@ -90,7 +90,7 @@ The following are some ideas intended to explore how e-learning systems can be i
     Which leads to the broader consideration of how to gather and display useful analytics and visualisations of what's going on in a BIM activity.
 Embedded galleries of BIM use.  
 A method by which uses of BIM can be shared between all users of BIM and that is embedded within BIM itself.- A "game-like" introduction interface.  
-    Not gamification itself (that will get a mention later) but rather something [more like I talked about here](/blog2/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/). Designing a good BIM activity is hard. The current interface doesn't really help. Large-scale computer games are hard. But you can often get going in the game without referring to a manual. Can we design something for BIM that gives the same sort of learning experience for staff (and students?).
+    Not gamification itself (that will get a mention later) but rather something [more like I talked about here](/blog/2011/09/23/can-e-learning-tools-be-more-like-plants-vs-zombies/). Designing a good BIM activity is hard. The current interface doesn't really help. Large-scale computer games are hard. But you can often get going in the game without referring to a manual. Can we design something for BIM that gives the same sort of learning experience for staff (and students?).
 - Badges.  
     There are some minuses with this idea. But integrating BIM with a badging infrastructure (e.g. [Mozilla's Open Badges](http://openbadges.org/en-US/)) might open up some space for interesting experiments.
 - Pedagogical "skins".  

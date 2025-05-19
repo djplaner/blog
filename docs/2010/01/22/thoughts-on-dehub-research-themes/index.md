@@ -4,10 +4,10 @@ categories:
 date: 2010-01-22 10:43:03+10:00
 next:
   text: BIM - Allocating markers
-  url: /blog2/2010/01/24/bim-allocating-markers/
+  url: /blog/2010/01/24/bim-allocating-markers/
 previous:
   text: Plans for a AJET paper around the indicators project
-  url: /blog2/2010/01/20/plans-for-a-ajet-paper-around-the-indicators-project/
+  url: /blog/2010/01/20/plans-for-a-ajet-paper-around-the-indicators-project/
 tags:
 - dehub
 title: Thoughts on DEHub research themes
@@ -66,4 +66,4 @@ To some extent this is a symptom of the overly mechanical/techno-rational approa
 
 ### Further work
 
-There's obviously connections between what [I'm meant to be doing](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ and DEHub. I'll need to look further into how and what form this connection can make, what connection can be formed with other members of the [unit I work with](http://cddu.cqu.edu.au/), and how some of the disagreements may be discussed, researched and harnessed.
+There's obviously connections between what [I'm meant to be doing](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ and DEHub. I'll need to look further into how and what form this connection can make, what connection can be formed with other members of the [unit I work with](http://cddu.cqu.edu.au/), and how some of the disagreements may be discussed, researched and harnessed.

@@ -5,10 +5,10 @@ categories:
 date: 2006-09-18 12:24:31+10:00
 next:
   text: BAM, blogs and problems with spam blog lockouts
-  url: /blog2/2006/09/18/bam-blogs-and-problems-with-spam-blog-lockouts/
+  url: /blog/2006/09/18/bam-blogs-and-problems-with-spam-blog-lockouts/
 previous:
   text: Helpdesk and training - first step in SDO
-  url: /blog2/2006/09/18/helpdesk-and-training-first-step-in-sdo/
+  url: /blog/2006/09/18/helpdesk-and-training-first-step-in-sdo/
 title: Google video as a host for streaming/lectures
 type: post
 template: blog-post.html

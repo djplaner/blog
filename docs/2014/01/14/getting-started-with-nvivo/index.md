@@ -5,10 +5,10 @@ categories:
 date: 2014-01-14 15:39:07+10:00
 next:
   text: Analysing some course evaluation comments
-  url: /blog2/2014/01/15/analysing-some-course-evaluation-comments/
+  url: /blog/2014/01/15/analysing-some-course-evaluation-comments/
 previous:
   text: Evaluating EDC3100 in 2013 - step 1
-  url: /blog2/2014/01/13/evaluating-edc3100-in-2013-step-1/
+  url: /blog/2014/01/13/evaluating-edc3100-in-2013-step-1/
 title: Getting started with NVivo
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-What follows is some initial explorations into the use of [NVivo](http://www.qsrinternational.com/products_nvivo.aspx) for the qualitative analysis of content. I'm going to use the task of [analysing student comments](/blog2/2014/01/13/evaluating-edc3100-in-2013-step-1/) from the evaluation of a course as a test case.
+What follows is some initial explorations into the use of [NVivo](http://www.qsrinternational.com/products_nvivo.aspx) for the qualitative analysis of content. I'm going to use the task of [analysing student comments](/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/) from the evaluation of a course as a test case.
 
 **Aside:** Just been told that "raw" data (i.e. de-identified course evaluation data with responses grouped by student) "is not given out in any form". So rather than having useful data to import easily, I'll have to kludge up the importation of some hamstrung data.
 

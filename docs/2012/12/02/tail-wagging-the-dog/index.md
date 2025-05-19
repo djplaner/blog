@@ -5,11 +5,11 @@ categories:
 date: 2012-12-02 10:27:47+10:00
 next:
   text: Tertiary course design is very poor, and we solve it by "blame the teacher"
-  url: /blog2/2012/12/05/tertiary-course-design-is-very-poor-and-we-solve-it-by-blame-the-teacher/
+  url: /blog/2012/12/05/tertiary-course-design-is-very-poor-and-we-solve-it-by-blame-the-teacher/
 previous:
   text: 'Enabling academics to apply learning analytics to individual pedagogical
     practice: how and with what impacts?'
-  url: /blog2/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
+  url: /blog/2012/12/01/enabling-academics-to-apply-learning-analytics-to-individual-pedagogical-practice-how-and-with-what-impacts-2/
 tags:
 - flareaus
 title: '"#ascilite2012 technical support and the tail wagging the dog"'
@@ -92,7 +92,7 @@ For at least the last 10 years I've been taking laptops to conferences. For me -
 
 Theoretically, this necessary change was not possible.
 
-Which is somewhat ironic given that the aim of the [presentation](/blog2/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/), the [paper](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) and my [thesis](/blog2/research/phd-thesis/) was to argue that university e-learning suffers from exactly the same problem.
+Which is somewhat ironic given that the aim of the [presentation](/blog/2012/11/26/the-life-and-death-of-webfuse-whats-wrong-with-industrial-e-learning-and-how-to-fix-it/), the [paper](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) and my [thesis](/blog/research/phd-thesis/) was to argue that university e-learning suffers from exactly the same problem.
 
 Especially when the #ascilite2012 call for papers is talking about
 
@@ -100,7 +100,7 @@ Especially when the #ascilite2012 call for papers is talking about
 
 ### Doing it with academics not possible
 
-An extension to this proposition is that since the people, process and product of university e-learning is inflexible, then university e-learning by definition is either done "to" or "for" the academics. i.e. the tail wags the dog. The practice of e-learning is constrained by the people, process and product. This prevents university being done "with" the academics. i.e. as a learning process. This was the theme picked up in our [#FlareAus presentation](/blog2/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/).
+An extension to this proposition is that since the people, process and product of university e-learning is inflexible, then university e-learning by definition is either done "to" or "for" the academics. i.e. the tail wags the dog. The practice of e-learning is constrained by the people, process and product. This prevents university being done "with" the academics. i.e. as a learning process. This was the theme picked up in our [#FlareAus presentation](/blog/2012/11/29/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-2/).
 
 The proposal being that learning analytics within universities will largely be done "to" and "for" academics, rather than "with". Subsequent to this will be a whole range of pitfalls and eventually the likely end result that learning analytics will become yet another fashion, fad or band-wagon.
 

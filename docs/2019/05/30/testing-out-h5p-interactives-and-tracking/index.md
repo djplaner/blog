@@ -5,10 +5,10 @@ date: 2019-05-30 08:45:48+10:00
 next:
   text: '"Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive
     templates and CASA"'
-  url: /blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/
+  url: /blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/
 previous:
   text: Exploring knowledge reuse in design for digital learning
-  url: /blog2/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/
+  url: /blog/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/
 title: Testing out h5p interactives and tracking
 type: post
 template: blog-post.html

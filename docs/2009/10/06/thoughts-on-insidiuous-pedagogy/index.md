@@ -8,10 +8,10 @@ categories:
 date: 2009-10-06 11:04:04+10:00
 next:
   text: Using Votapedia
-  url: /blog2/2009/10/06/using-votapedia/
+  url: /blog/2009/10/06/using-votapedia/
 previous:
   text: 'Lectures and the LMS: Alternatives and experiments'
-  url: /blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
+  url: /blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/
 title: Thoughts on "Insidious pedagogy"
 type: post
 template: blog-post.html
@@ -79,7 +79,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a reflection on and response to a paper by [Lisa Lane](http://lisahistory.net/wordpress/) (2009) in [First Monday](http://firstmonday.org/) titled ["Insidious pedagogy: How course management systems impact teaching"](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2530/2303). I've been struggling with keeping up with reading, but this topics is closely connected to [my thesis](/blog2/research/phd-thesis/) and [the presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) I'll be giving soon.
+The following is a reflection on and response to a paper by [Lisa Lane](http://lisahistory.net/wordpress/) (2009) in [First Monday](http://firstmonday.org/) titled ["Insidious pedagogy: How course management systems impact teaching"](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2530/2303). I've been struggling with keeping up with reading, but this topics is closely connected to [my thesis](/blog/research/phd-thesis/) and [the presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) I'll be giving soon.
 
 The post starts with my thoughts and reactions to the paper and has a summary of the paper at the end.
 
@@ -118,7 +118,7 @@ There are many other potential solutions, I will be talking about the main ones 
     > More time teaching is a negative influence on academic pay....The trend is worsening most rapidly in institutions whose central missionfocuses on teaching and learning
     
     Until universities truly value learning and teaching and treat it as such.......
-- [Adopt a best of breed approach](/blog2/2009/08/31/product-models-lms-bob-and-alternatives/) for the CMS.
+- [Adopt a best of breed approach](/blog/2009/08/31/product-models-lms-bob-and-alternatives/) for the CMS.
 
 ### Other thoughts
 
@@ -153,7 +153,7 @@ I agree with that to some extent, however, this customization has some limits:
 - your installation allows it.  
     There is an important distinction to be made between what the CMS allows you to customize and what the particular installation of the CMS you are using allows you to customize. The decisions made by specific institutions can further constrain the level of customization. The simplest example is the choice at the institutional level not to install "module X". But in some CMS there are also installation level configuration decisions that constrain customization.
 
-I've argued [elsewhere](/blog2/2009/08/31/product-models-lms-bob-and-alternatives/) that the basic model of a CMS is based on that of an integrated, enterprise system - a product model well known to be inflexible. In fact, best practice information systems literature suggests that for such systems you must "implement vanilla" to minimise costs.
+I've argued [elsewhere](/blog/2009/08/31/product-models-lms-bob-and-alternatives/) that the basic model of a CMS is based on that of an integrated, enterprise system - a product model well known to be inflexible. In fact, best practice information systems literature suggests that for such systems you must "implement vanilla" to minimise costs.
 
 #### Designed to focus on instructor effeciency?
 

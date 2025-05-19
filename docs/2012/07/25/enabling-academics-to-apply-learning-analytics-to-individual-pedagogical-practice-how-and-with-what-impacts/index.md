@@ -7,10 +7,10 @@ categories:
 date: 2012-07-25 09:11:44+10:00
 next:
   text: Using the NetSpot Innovation fund to enhance bim
-  url: /blog2/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
+  url: /blog/2012/08/07/using-the-netspot-innovation-fund-to-enhance-bim/
 previous:
   text: Starting the re-design of EDC3100
-  url: /blog2/2012/07/20/starting-the-re-design-of-edc3100/
+  url: /blog/2012/07/20/starting-the-re-design-of-edc3100/
 title: '"Enabling academics to apply learning analytics to individual pedagogical
   practice: how and with what impacts?"'
 type: post
@@ -38,7 +38,7 @@ pingbacks:
 ---
 Thanks to @cj13 for the heads up about the [EDUCAUSE analytics sprint](http://www.educause.edu/events/educause-analytics-sprint/) in the midst of moving, conferences, end/start of term and grant writing I missed it. Found it interesting that the first thing the struck my eye was a link [to this discussion titled "Faculty need how-to information for the data they do have"](http://educause.ideascale.com/a/dtd/Faculty-need-how-to-information-for-the-data-they-do-have./376570-12956). It's interesting because the grant application I'm writing is directly aimed in this general area. Though we perhaps have a slightly different take on the problem.
 
-As it happens, I'm about to reframe the "outcomes and rationale" section of the grant. So, rather than lose the existing content I'm going to post it below to share the thoughts and see what interesting connections arise. Some early thoughts on the project [are here](/blog2/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/) and we're aiming for [OLT funding](http://www.olt.gov.au/grantsandprojects).
+As it happens, I'm about to reframe the "outcomes and rationale" section of the grant. So, rather than lose the existing content I'm going to post it below to share the thoughts and see what interesting connections arise. Some early thoughts on the project [are here](/blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/) and we're aiming for [OLT funding](http://www.olt.gov.au/grantsandprojects).
 
 The project team for this application includes myself, Prof Lorelle Burton (USQ), Dr Angela Murphy (CQU), Prof Bobby Harreveld (CQUni), Colin Beer (CQUni), Damien Clark (CQUni), and last, but no means least, Dr Shane Dawson (UBC).
 

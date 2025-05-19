@@ -4,11 +4,11 @@ categories:
 date: 2011-06-21 19:05:26+10:00
 next:
   text: Myself as teacher and learner
-  url: /blog2/2011/07/03/myself-as-teacher-and-learner/
+  url: /blog/2011/07/03/myself-as-teacher-and-learner/
 previous:
   text: 'The death of learning in higher education: quality nazis, &quot;strategic&quot;
     leadership, blinkered project managers and idiot academics'
-  url: /blog2/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/
+  url: /blog/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/
 title: '"Death of learning in universities: Part II. Explanation, origins, rampaging
   researchers and catastrophic consultants"'
 type: post
@@ -40,11 +40,11 @@ pingbacks:
     []
     
 ---
-This is a follow-up to [a post](/blog2/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/) from yesterday that appears to have struck a chord. This post offers some additional explanation about the purpose and origins of the post and adds two more archetypes.
+This is a follow-up to [a post](/blog/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/) from yesterday that appears to have struck a chord. This post offers some additional explanation about the purpose and origins of the post and adds two more archetypes.
 
 ### Explanation
 
-As explained [in this comment](/blog2/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/#comment-4106) on the original post, the intent wasn't to suggest that there is no place for project managers, leaders/senior executive, quality assurance folk, or academics. It was also not my intent to suggest that all project managers are blinkered etc.
+As explained [in this comment](/blog/2011/06/20/the-death-of-learning-in-higher-education-quality-nazis-strategic-leadership-blinkered-project-managers-and-idiot-academics/#comment-4106) on the original post, the intent wasn't to suggest that there is no place for project managers, leaders/senior executive, quality assurance folk, or academics. It was also not my intent to suggest that all project managers are blinkered etc.
 
 The intent was to suggest that when taken to extreme - as in the archetypes - then this is a major factor in the death of learning and teaching in universities. I also suggest that, as we're all human, most of us will have suffered archetypal moments. I would also suggest that increasingly the environment in many universities (especially those not in the upper echelon) is actively encouraging these archetypes.
 

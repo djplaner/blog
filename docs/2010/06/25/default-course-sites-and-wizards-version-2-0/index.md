@@ -8,10 +8,10 @@ categories:
 date: 2010-06-25 11:06:29+10:00
 next:
   text: An integrated OLE
-  url: /blog2/2010/06/26/an-integrated-ole/
+  url: /blog/2010/06/26/an-integrated-ole/
 previous:
   text: Webfuse as a web publishing tool - 2000 through 2004
-  url: /blog2/2010/06/22/webfuse-as-a-web-publishing-tool-2000-through-2004/
+  url: /blog/2010/06/22/webfuse-as-a-web-publishing-tool-2000-through-2004/
 title: Default course sites and wizards - version 2.0
 type: post
 template: blog-post.html
@@ -49,9 +49,9 @@ pingbacks:
       user_id: '0'
     
 ---
-This is the second version of an [earlier post](/blog2/2010/06/07/default-course-sites-and-wizards/). As I wrote more of the chapter I felt the need to revisit and expand the idea (though the following is still at a rough draft stage). The following describes the rationale and implementation behind the implementation of the default course sites approach within Webfuse. This approach was used at [CQU](http://www.cqu.edu.au/) from 2001 through 2009. It has similarities with what Mark Smithers [calls a minimium online presence policy (MOPP)](http://www.masmithers.com/2010/05/16/the-problem-with-mopps/), though (I think) my take on the value of MOPP differs a little from Mark's. Not surprising given the following.
+This is the second version of an [earlier post](/blog/2010/06/07/default-course-sites-and-wizards/). As I wrote more of the chapter I felt the need to revisit and expand the idea (though the following is still at a rough draft stage). The following describes the rationale and implementation behind the implementation of the default course sites approach within Webfuse. This approach was used at [CQU](http://www.cqu.edu.au/) from 2001 through 2009. It has similarities with what Mark Smithers [calls a minimium online presence policy (MOPP)](http://www.masmithers.com/2010/05/16/the-problem-with-mopps/), though (I think) my take on the value of MOPP differs a little from Mark's. Not surprising given the following.
 
-As part of writing the [thesis](/blog2/research/phd-thesis/) I am having to abstract out what I felt was good/important/interesting about the Webfuse work. The "default course site" approach, at least in terms of the principles behind it rather than the specific implementation, is probably going to be part of that. I still have to work on this some more, hopefully in coming weeks, but I've put some early [thoughts](/blog2/2010/06/14/academics-course-websites-and-power-laws/) out there.
+As part of writing the [thesis](/blog/research/phd-thesis/) I am having to abstract out what I felt was good/important/interesting about the Webfuse work. The "default course site" approach, at least in terms of the principles behind it rather than the specific implementation, is probably going to be part of that. I still have to work on this some more, hopefully in coming weeks, but I've put some early [thoughts](/blog/2010/06/14/academics-course-websites-and-power-laws/) out there.
 
 Hopefully I can work on this argument soon.
 

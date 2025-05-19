@@ -7,10 +7,10 @@ categories:
 date: 2009-03-12 16:24:50+10:00
 next:
   text: '"PhD update - week #3"'
-  url: /blog2/2009/03/13/phd-update-week-3/
+  url: /blog/2009/03/13/phd-update-week-3/
 previous:
   text: Another perspective for the indicators project
-  url: /blog2/2009/03/12/another-perspective-for-the-indicators-project/
+  url: /blog/2009/03/12/another-perspective-for-the-indicators-project/
 title: Moving from scarcity to abundance changes things - music
 type: post
 template: blog-post.html

@@ -11,10 +11,10 @@ categories:
 date: 2009-04-14 10:57:58+10:00
 next:
   text: Theory and practice - quote and connection with e-learning?
-  url: /blog2/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/
+  url: /blog/2009/04/15/theory-and-practice-quote-and-connection-with-e-learning/
 previous:
   text: Wordpress eating posts
-  url: /blog2/2009/04/11/wordpress-eating-posts/
+  url: /blog/2009/04/11/wordpress-eating-posts/
 title: Disruption and the "mythic" technologies of education
 type: post
 template: blog-post.html
@@ -168,7 +168,7 @@ pingbacks:
 ---
 I told myself I wouldn't blog anything more not directly related to the PhD - I'm breaking that promise because a few things I've read over this weekend resonate strongly with the problems that are frustrating me the most with the current practice of higher education and its management.
 
-The blog post connects ideas from a [presentation titled "Disruption and Transformation"](http://www.gardnercampbell.net/blog1/?p=734) by [Gardner Campbell](http://www.gardnercampbell.net/blog1/) (I wish the other talks in [the session](http://www.ucea.edu/profdev/2009annconf/distance.html) were available online - should look), an [article titled "Why School Reform is Impossible](http://www.papert.org/articles/school_reform.html) (Pappert, 1995) by [Seymour Papert](http://www.papert.org/), [Postman's](http://en.wikipedia.org/wiki/Neil_Postman) 5th of [5 things to know about technology change](/blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/) - technology becomes mythic, and my own views about the roles played by [consistency](/blog2/2008/11/13/another-assumption-which-ples-over-throws/) (bad) and [diversity](/blog2/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/) (good).
+The blog post connects ideas from a [presentation titled "Disruption and Transformation"](http://www.gardnercampbell.net/blog1/?p=734) by [Gardner Campbell](http://www.gardnercampbell.net/blog1/) (I wish the other talks in [the session](http://www.ucea.edu/profdev/2009annconf/distance.html) were available online - should look), an [article titled "Why School Reform is Impossible](http://www.papert.org/articles/school_reform.html) (Pappert, 1995) by [Seymour Papert](http://www.papert.org/), [Postman's](http://en.wikipedia.org/wiki/Neil_Postman) 5th of [5 things to know about technology change](/blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/) - technology becomes mythic, and my own views about the roles played by [consistency](/blog/2008/11/13/another-assumption-which-ples-over-throws/) (bad) and [diversity](/blog/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/) (good).
 
 ### Gardner's observations
 
@@ -189,7 +189,7 @@ More on this below.
 
 ### Consistency has become "mythic"
 
-In Postman's [5 things to know about technological change"](/blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/), number 5 is
+In Postman's [5 things to know about technological change"](/blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/), number 5 is
 
 > Technology becomes mythic, it becomes seen as part of the natural order of things.
 
@@ -256,7 +256,7 @@ and suggests that effective fostering of radical change means
 
 > rejecting the concept of a planned reform and concentrating on creating the obvious conditions for Darwinian evolution: Allow rich diversity to play itself out.
 
-Sounds like "Now is the time for experiments, lots and lots of experiments" to me. Which brings me back to [a previous post](/blog2/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/) and the concept of safe-fail design from Dave Snowden.
+Sounds like "Now is the time for experiments, lots and lots of experiments" to me. Which brings me back to [a previous post](/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/) and the concept of safe-fail design from Dave Snowden.
 
 ### The source of my frustration
 

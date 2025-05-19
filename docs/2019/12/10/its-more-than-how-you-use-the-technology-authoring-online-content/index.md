@@ -4,10 +4,10 @@ categories:
 date: 2019-12-10 07:44:28+10:00
 next:
   text: '"The conceptualisation of e-learning: Lessons and implications"'
-  url: /blog2/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/
+  url: /blog/2019/12/19/the-conceptualisation-of-e-learning-lessons-and-implications/
 previous:
   text: How to share design knowledge in design for digital learning?
-  url: /blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/
+  url: /blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/
 title: It's more than how you use the technology - authoring online content
 type: post
 template: blog-post.html
@@ -26,7 +26,7 @@ My argument is that the activity system – the complex combination of learner, 
 
 (The title I've given this section could be easily seen as focusing on the technology. Boo! Hiss!. The important word is _integrating_. Integrating into these technologies into the stupid existing activity system for producing online course modules in Blackboard. Figuring out how to use the technology to make it easier for others to use the technology to effectively achieve the desired "pedagogy".)
 
-Part of my work for the last year has been paying attention to the activity system within which online course modules are created and maintained. This work has been seen in [earlier blog posts](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) and in the [ASCILITE paper](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/). Part of this was embedding the production of online content for Blackboard within the broader authoring practices of academics. i.e. allowing them to write content in Word – thereby drawing on facilities such as citation management, track changes, grammar checking etc. – and import it into Blackboard.
+Part of my work for the last year has been paying attention to the activity system within which online course modules are created and maintained. This work has been seen in [earlier blog posts](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) and in the [ASCILITE paper](/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/). Part of this was embedding the production of online content for Blackboard within the broader authoring practices of academics. i.e. allowing them to write content in Word – thereby drawing on facilities such as citation management, track changes, grammar checking etc. – and import it into Blackboard.
 
 Until recently, the importing into Blackboard was a bit too manual. The video below illustrates the new process. It's an example of an on-going improvement to the activity system.
 

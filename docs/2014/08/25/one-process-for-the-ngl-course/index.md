@@ -4,10 +4,10 @@ categories:
 date: 2014-08-25 11:41:15+10:00
 next:
   text: The cost of being flexible and pushing the boundaries
-  url: /blog2/2014/08/25/the-cost-of-being-flexible-and-pushing-the-boundaries/
+  url: /blog/2014/08/25/the-cost-of-being-flexible-and-pushing-the-boundaries/
 previous:
   text: Ahh Mendeley and freemium tools
-  url: /blog2/2014/08/23/ahh-mendeley-and-freemium-tools/
+  url: /blog/2014/08/23/ahh-mendeley-and-freemium-tools/
 title: One process for the NGL course
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ Second, whenever I’m doing or reading anything about the course or NGL in gene
 2. As teacher – same questions almost but connected to my thinking about how I’ll evolve both courses I teach (this one and EDC3100).
 3. As student – focused more on how I’m thinking about and engaging with the course readings, the blog posts of others and the resources shared via Diigo. How does the experience of using my PKM process compare with other approaches to learning? How does it fit (or not) with how I like to learn? What can I do to change and improve my learning in this course? Etc.
 
-For me, an important part of the “sense” phase is to write summary blogs of any readings. For example, [this one](/blog2/2014/07/29/some-readings-on-networked-learning/). These are meant not to only give a summary of the reading, but also to record my initial reactions to the paper and what linkages I think might exist with what I’m thinking about as learner, teacher and student. This does take longer than simply reading an article, but it does encourage me to read and consider the article more deeply (something I need) and it also provides a record of my thoughts that I can come back to at a later date.
+For me, an important part of the “sense” phase is to write summary blogs of any readings. For example, [this one](/blog/2014/07/29/some-readings-on-networked-learning/). These are meant not to only give a summary of the reading, but also to record my initial reactions to the paper and what linkages I think might exist with what I’m thinking about as learner, teacher and student. This does take longer than simply reading an article, but it does encourage me to read and consider the article more deeply (something I need) and it also provides a record of my thoughts that I can come back to at a later date.
 
 ### Share
 

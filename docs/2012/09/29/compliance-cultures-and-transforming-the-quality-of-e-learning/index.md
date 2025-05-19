@@ -4,10 +4,10 @@ categories:
 date: 2012-09-29 12:10:22+10:00
 next:
   text: Three likely paths for learning analytics and academics
-  url: /blog2/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/
+  url: /blog/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/
 previous:
   text: 'Chasing dreams and recognising realities: teachers&#039; responses to ICT'
-  url: /blog2/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/
+  url: /blog/2012/09/17/chasing-dreams-and-recognising-realities-teachers-responses-to-ict/
 title: Compliance cultures and transforming the quality of e-learning
 type: post
 template: blog-post.html
@@ -110,7 +110,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In putting the finishing touches on [this ASCILITE paper](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) I discovered that Tuesday will be the 2 year anniversary of when I first put together much of the following on attempts by universities to improve/transform the quality of e-learning through checklists and other "quality assurance" methods. Given that I still see this tendency from central L&T folk in Universities - especially those in management - and that the original checklist the sparked the following has been largely gotten rid of, I thought I'd share this.
+In putting the finishing touches on [this ASCILITE paper](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) I discovered that Tuesday will be the 2 year anniversary of when I first put together much of the following on attempts by universities to improve/transform the quality of e-learning through checklists and other "quality assurance" methods. Given that I still see this tendency from central L&T folk in Universities - especially those in management - and that the original checklist the sparked the following has been largely gotten rid of, I thought I'd share this.
 
 The anecdotal spark will be briefly touched upon in the ASCILITE paper, the quick summary of some literature won't be due to space constraints. But I do find it increasingly interesting/frightening/sad that these approaches are still being adopted, even with the widespread knowledge of what actually happens.
 

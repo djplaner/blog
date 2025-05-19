@@ -11,10 +11,10 @@ date: 2009-04-02 14:05:10+10:00
 next:
   text: Measuring the design process - implications for learning design, e-learning
     and university teaching
-  url: /blog2/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
+  url: /blog/2009/04/05/measuring-the-design-process-implications-for-learning-design-e-learning-and-university-teaching/
 previous:
   text: 'PhD Update #6 - start of shortened weeks'
-  url: /blog2/2009/04/02/phd-update-6-start-of-shortened-weeks/
+  url: /blog/2009/04/02/phd-update-6-start-of-shortened-weeks/
 title: '"The fad cycle in learning &#038; teaching - a historical perspective"'
 type: post
 template: blog-post.html
@@ -71,9 +71,9 @@ pingbacks:
       user_id: '0'
     
 ---
-In the next week [I've promised](/blog2/2009/04/02/phd-update-6-start-of-shortened-weeks/) to get a more complete and academic version of the following onto the blog. But I have 30 minutes to spare so I thought I'd get a rough and ready version out.
+In the next week [I've promised](/blog/2009/04/02/phd-update-6-start-of-shortened-weeks/) to get a more complete and academic version of the following onto the blog. But I have 30 minutes to spare so I thought I'd get a rough and ready version out.
 
-The following continues some themes I've been focusing on over the last couple of weeks including [the failure of prescription](/blog2/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/) as a method for improving learning and teaching, the tendency towards [faddish or fashionable adoption](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) of learning technologies (including e-portfolios and open source LMSes), the negative impacts [of the technologists alliance](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/), and [an attempt to learn from history](/blog2/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/).
+The following continues some themes I've been focusing on over the last couple of weeks including [the failure of prescription](/blog/2009/03/30/prescription-adaptation-and-failure-around-improving-univeristy-teaching/) as a method for improving learning and teaching, the tendency towards [faddish or fashionable adoption](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) of learning technologies (including e-portfolios and open source LMSes), the negative impacts [of the technologists alliance](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/), and [an attempt to learn from history](/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/).
 
 Using the "learn from history" approach, this post suggests that there is a recognisable cycle in the literature around new technologies used in education. This cycle is somewhat similar to the one [Birnbaum identifies in his book](http://www.amazon.com/Management-Fads-Higher-Education-education/dp/0787944564/ref=sr_1_1?ie=UTF8&s=books&qid=1238643326&sr=8-1) on management fads in higher education. It argues that this recognisable cycle is based on the predominance of the technologists' alliance, their ignorance of People and Place and their emphasis on prescription.
 
@@ -160,7 +160,7 @@ So the process goes something like:
 
 It is **NOT** to project manage the roll-out of the prescription in a more effective or appropriate way. It's the act of prescribing change to academics that is the flaw, not the implementation of the prescription.
 
-The solution is to work with academics to develop an approach that works within the local context. Much like what I [suggest here](/blog2/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/).
+The solution is to work with academics to develop an approach that works within the local context. Much like what I [suggest here](/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/).
 
 ### No chance of revolutionary change
 

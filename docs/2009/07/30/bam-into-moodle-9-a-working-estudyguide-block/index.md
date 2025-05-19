@@ -4,10 +4,10 @@ categories:
 date: 2009-07-30 15:53:48+10:00
 next:
   text: Gaps, shadow systems and the VLE/LMS
-  url: /blog2/2009/07/31/gaps-shadow-systems-and-the-vlelms/
+  url: /blog/2009/07/31/gaps-shadow-systems-and-the-vlelms/
 previous:
   text: 'BAM into Moodle #8 - finishing the eStudyGuide building block'
-  url: /blog2/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
+  url: /blog/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/
 title: '"BAM into Moodle #9 - a working eStudyGuide block?"'
 type: post
 template: blog-post.html
@@ -30,7 +30,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The [last post](/blog2/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/) finalised some bits of knowledge I needed, now it is time to put it into action and complete the eStudyGuide block to a barely useful level.
+The [last post](/blog/2009/07/30/bam-into-moodle-8-finishing-the-estudyguide-building-block/) finalised some bits of knowledge I needed, now it is time to put it into action and complete the eStudyGuide block to a barely useful level.
 
 Steps required include:
 

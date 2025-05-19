@@ -6,10 +6,10 @@ date: 2016-03-22 10:02:00+10:00
 next:
   text: '"Mapping the digital practices of teacher educators: Implications for teacher
     education in changing digital landscapes"'
-  url: /blog2/2016/03/24/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes-2/
+  url: /blog/2016/03/24/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes-2/
 previous:
   text: 'OEP and Initial Teacher Education: Moving on from the horsey, horseless carriage'
-  url: /blog2/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/
+  url: /blog/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/
 title: What to expect/look for from SITE'2016?
 type: post
 template: blog-post.html
@@ -30,7 +30,7 @@ As I'm far from being an extroverted and expert networker, I instead rely on act
 
 ### Join a clique?
 
-While [our paper](/blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/) didn't get an overall paper award, it was successful in winning a TPACK SIG Paper Award.  Given that [our previous paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) was also TPACK related and won a paper award. This might suggest a "clique" with which I might have some connection, and there are a couple of related papers that sound interesting.
+While [our paper](/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/) didn't get an overall paper award, it was successful in winning a TPACK SIG Paper Award.  Given that [our previous paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) was also TPACK related and won a paper award. This might suggest a "clique" with which I might have some connection, and there are a couple of related papers that sound interesting.
 
 There also appear to be other "cliques" based around computational thinking, design thinking/technologies, and ICT integration by pre-service teachers (more generally than TPACK).  All of these are interests of mine, they connect directly to teaching.
 

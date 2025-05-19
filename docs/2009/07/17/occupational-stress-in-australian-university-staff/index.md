@@ -9,15 +9,15 @@ categories:
 date: 2009-07-17 14:03:09+10:00
 next:
   text: Leaders and managers - the next bit of People
-  url: /blog2/2009/07/17/leaders-and-managers-the-next-bit-of-people/
+  url: /blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/
 previous:
   text: When senior management lose the plot
-  url: /blog2/2009/07/17/when-senior-management-lose-the-plot/
+  url: /blog/2009/07/17/when-senior-management-lose-the-plot/
 title: Occupational stress in Australian University Staff
 type: post
 template: blog-post.html
 ---
-Currently reading Winefield et al (2003) as part of writing [my thesis](/blog2/research/phd-thesis/), thought I'd share some of the points and reflections here.
+Currently reading Winefield et al (2003) as part of writing [my thesis](/blog/research/phd-thesis/), thought I'd share some of the points and reflections here.
 
 ### University well-being and staff well-being
 

@@ -4,10 +4,10 @@ categories:
 date: 2016-02-09 13:25:06+10:00
 next:
   text: Minimalism, constructivism and use of Moodle or any other e-learning tool
-  url: /blog2/2016/02/11/minimalism-constructivism-and-use-of-moodle-or-anyother-e-learning-tool/
+  url: /blog/2016/02/11/minimalism-constructivism-and-use-of-moodle-or-anyother-e-learning-tool/
 previous:
   text: Extending a little thought experiment
-  url: /blog2/2016/02/05/extending-a-little-thought-experiment/
+  url: /blog/2016/02/05/extending-a-little-thought-experiment/
 title: Exploring the relationship between learning design and OEP
 type: post
 template: blog-post.html

@@ -4,10 +4,10 @@ categories:
 date: 2011-09-23 10:10:31+10:00
 next:
   text: A hassle map for Year 10 mathematics? You can't focus on the negatives?
-  url: /blog2/2011/09/25/a-hassle-map-for-year-10-mathematics-you-cant-focus-on-the-negatives/
+  url: /blog/2011/09/25/a-hassle-map-for-year-10-mathematics-you-cant-focus-on-the-negatives/
 previous:
   text: A course outline to increase relevance of IPT
-  url: /blog2/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/
+  url: /blog/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/
 title: Can e-learning tools be more like Plants vs Zombies?
 type: post
 template: blog-post.html
@@ -62,7 +62,7 @@ The metaphors/terminology used by Mahara aren't straight forward. For example, t
 
 Once you know, it's easy. But trying to determine the model/metaphor used by software designers can be difficult.
 
-I'm sure the few folk that have used [BIM](/blog2/research/bam-blog-aggregation-management/) - the Moodle module I wrote - have often thought the same thing. In fact, having observed my wife use BIM in a course she's teaching, I know it's difficult.
+I'm sure the few folk that have used [BIM](/blog/research/bam-blog-aggregation-management/) - the Moodle module I wrote - have often thought the same thing. In fact, having observed my wife use BIM in a course she's teaching, I know it's difficult.
 
 ### Learning from games, can it be done?
 

@@ -10,10 +10,10 @@ categories:
 date: 2011-01-06 10:43:11+10:00
 next:
   text: Thesis acknowledgements version 0.5
-  url: /blog2/2011/01/07/thesis-acknowledgements-version-0-5/
+  url: /blog/2011/01/07/thesis-acknowledgements-version-0-5/
 previous:
   text: Progressing the student interface for bim2
-  url: /blog2/2010/12/30/progressing-the-student-interface-for-bim2/
+  url: /blog/2010/12/30/progressing-the-student-interface-for-bim2/
 title: A command for organisations? Program or be programmed
 type: post
 template: blog-post.html
@@ -86,7 +86,7 @@ I'm wondering if there is anyone doing research how to make systems like Moodle 
 
 One reason this will be hard is that not everyone wants to program. Recently, D'Arcy Norman [wrote a post](http://www.darcynorman.net/2010/12/29/on-breaking-away-from-hosted-silos/) talking about the difference between the geeks and folk like his dad. His dad doesn't want to bother with this techy stuff, he doesn't want to "program".
 
-This sort of problem is made worse if you have an IT division that has senior management with backgrounds in non-IT work. For example, an IT director with a background in facilities management isn't going to understand that [IT is protean](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/), that it can be programmed. Familiar with the relative permanence of physical buildings and infrastructure such a person isn't going to understand that IT can be changed, that it should be optimized for the human beings using the system.
+This sort of problem is made worse if you have an IT division that has senior management with backgrounds in non-IT work. For example, an IT director with a background in facilities management isn't going to understand that [IT is protean](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/), that it can be programmed. Familiar with the relative permanence of physical buildings and infrastructure such a person isn't going to understand that IT can be changed, that it should be optimized for the human beings using the system.
 
 ### Organisational structures and processes prevent programming
 

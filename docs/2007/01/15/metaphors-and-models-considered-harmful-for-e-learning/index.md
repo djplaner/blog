@@ -4,10 +4,10 @@ categories:
 date: 2007-01-15 13:41:24+10:00
 next:
   text: LMS Governance Report - a summary and reflection
-  url: /blog2/2007/01/15/lms-governance-report-a-summary-and-reflection/
+  url: /blog/2007/01/15/lms-governance-report-a-summary-and-reflection/
 previous:
   text: Breakthrough learning - what lessons for staff development of academics?
-  url: /blog2/2007/01/12/breakthrough-learning-what-lessons-for-staff-development-of-academics/
+  url: /blog/2007/01/12/breakthrough-learning-what-lessons-for-staff-development-of-academics/
 title: Metaphors and models considered harmful for e-learning
 type: post
 template: blog-post.html

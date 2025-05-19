@@ -4,10 +4,10 @@ categories:
 date: 2006-10-03 10:04:01+10:00
 next:
   text: Web 2.0 and the enterprise
-  url: /blog2/2006/10/03/web-20-and-the-enterprise/
+  url: /blog/2006/10/03/web-20-and-the-enterprise/
 previous:
   text: LMS implementation - which development methodology
-  url: /blog2/2006/10/02/lms-implementation-which-development-methodology/
+  url: /blog/2006/10/02/lms-implementation-which-development-methodology/
 title: Enterprises - do they need to "let go"?
 type: post
 template: blog-post.html

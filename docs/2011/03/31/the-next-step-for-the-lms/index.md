@@ -4,10 +4,10 @@ categories:
 date: 2011-03-31 08:00:52+10:00
 next:
   text: '"Pedagogical Content Knowledge: Week 4"'
-  url: /blog2/2011/03/31/pedagogical-content-knowledge-week-4/
+  url: /blog/2011/03/31/pedagogical-content-knowledge-week-4/
 previous:
   text: 'Supportive Learning Environments: Week 3, 4, 5 and 6'
-  url: /blog2/2011/03/30/supportive-learning-environments-week-3-4-5-and-6/
+  url: /blog/2011/03/30/supportive-learning-environments-week-3-4-5-and-6/
 tags:
 - learning
 - learning-objects

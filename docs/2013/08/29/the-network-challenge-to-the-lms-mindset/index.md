@@ -5,10 +5,10 @@ categories:
 date: 2013-08-29 06:30:00+10:00
 next:
   text: An overview of learning analytics
-  url: /blog2/2013/08/31/an-overview-of-learning-analytics/
+  url: /blog/2013/08/31/an-overview-of-learning-analytics/
 previous:
   text: Neither strategy nor &quot;space&quot; to innovate is enough
-  url: /blog2/2013/08/16/neither-strategy-nor-space-to-innovate-is-enough/
+  url: /blog/2013/08/16/neither-strategy-nor-space-to-innovate-is-enough/
 title: The network challenge to the LMS mindset
 type: post
 template: blog-post.html
@@ -322,11 +322,11 @@ It's been an intellectually draining few days with a range of visitors to the in
 
 The LMS is an integrated, enterprise system sourced from a single vendor. The institution as a whole decides upon which of the different available systems it will choose and then implements it on a server. The students and staff of that institution must now make use of that system. Changes to that system are controlled by a governance structure that may/may not approve the addition or removal of functionality into the enterprise system. Only a designated IT group (outsourced or local) are actually able to make the change. The "network" has a single node.
 
-The typical mindset encouraged by an LMS when designing learning is not what is the best way to engage student learning. It's the best way to engage student learning within the constraints of the functionality currently provided by the LMS. I wrote more about the limitations of this model in [Jones (2012)](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) and almost incessantly over the last few years. Chapter 2 of the [PhD thesis](/blog2/research/phd-thesis/) a fair bit of this argument.
+The typical mindset encouraged by an LMS when designing learning is not what is the best way to engage student learning. It's the best way to engage student learning within the constraints of the functionality currently provided by the LMS. I wrote more about the limitations of this model in [Jones (2012)](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/) and almost incessantly over the last few years. Chapter 2 of the [PhD thesis](/blog/research/phd-thesis/) a fair bit of this argument.
 
 Over recent years most institutions have realised that a single node network consisting of the LMS isn't sufficient for their needs. The network has had a few new nodes such as a lecture capture system, a content repository, an eportfolio system and a range of others. However, this "network" of services isn't really a distributed network in that it's still only the institution approved processes that can add to the network. I as an academic, or one of my students, can't decide we'd like to add a service that is integrated into this institutional network.
 
-Sure we can use standard hyperlinks to link off to Google docs or any one of the huge array of external services that are out there. An extreme example is my [kludge](/blog2/2013/06/10/the-kludge-for-marking-learning-journals/) for using BIM this year. Where I'm hosting a version of BIM on my laptop because for various reasons (including many of my own making) BIM couldn't get installed into the institutional version of Moodle in time.
+Sure we can use standard hyperlinks to link off to Google docs or any one of the huge array of external services that are out there. An extreme example is my [kludge](/blog/2013/06/10/the-kludge-for-marking-learning-journals/) for using BIM this year. Where I'm hosting a version of BIM on my laptop because for various reasons (including many of my own making) BIM couldn't get installed into the institutional version of Moodle in time.
 
 The trouble is that these kludges are not members of the distributed learning systems network associated with the institution. The most obvious indicator of this is the amount of manual work I need to engage in to get information about students from the institutional system into my local install of BIM and then to get information out of my local install of BIM back into the institutional ecosystem.
 
@@ -404,8 +404,8 @@ Which brings me back to the my questions above, will the organisational folk
     How long before the LTI consumer module in the institutional LMS is turned off?
     
 
-LTI seems to continue what I see as the inexorable trend to a more networked approach, or as framed earlier as enabling the [best of breed approach](/blog2/2012/04/06/why-learning-management-systems-will-probably-go-away/) to developing these systems. LTI enables the loose coupling of systems. Interesting times ahead.
+LTI seems to continue what I see as the inexorable trend to a more networked approach, or as framed earlier as enabling the [best of breed approach](/blog/2012/04/06/why-learning-management-systems-will-probably-go-away/) to developing these systems. LTI enables the loose coupling of systems. Interesting times ahead.
 
 ### References
 
-Jones, D. (2012). [The life and death of Webfuse : principles for learning and leading into the future](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/). In M. Brown, M. Hartnett, & T. Stewart (Eds.), Future challenges, sustainable futures. Proceedings ascilite Wellington 2012 (pp. 414–423). Wellington, NZ.
+Jones, D. (2012). [The life and death of Webfuse : principles for learning and leading into the future](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/). In M. Brown, M. Hartnett, & T. Stewart (Eds.), Future challenges, sustainable futures. Proceedings ascilite Wellington 2012 (pp. 414–423). Wellington, NZ.

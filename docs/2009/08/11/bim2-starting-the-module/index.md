@@ -4,10 +4,10 @@ categories:
 date: 2009-08-11 15:20:00+10:00
 next:
   text: '"BIM #3: Getting the module work, making some progress?"'
-  url: /blog2/2009/08/13/bim-3-getting-the-module-work-making-some-progress/
+  url: /blog/2009/08/13/bim-3-getting-the-module-work-making-some-progress/
 previous:
   text: 'BIM #1: Working on the prototype'
-  url: /blog2/2009/08/11/bim-1-working-on-the-prototype/
+  url: /blog/2009/08/11/bim-1-working-on-the-prototype/
 title: '"BIM#2 - Starting the module"'
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-As outlined in the [last BIM post](/blog2/2009/08/11/bim-1-working-on-the-prototype/) the aim here is to take the "template" NEWMODULE and start creating a BIM module. Initially, this will contain hard-coded HTML or perhaps some initial non-functioning forms, we might progress onto some canned examples and finally to the real thing.
+As outlined in the [last BIM post](/blog/2009/08/11/bim-1-working-on-the-prototype/) the aim here is to take the "template" NEWMODULE and start creating a BIM module. Initially, this will contain hard-coded HTML or perhaps some initial non-functioning forms, we might progress onto some canned examples and finally to the real thing.
 
 ### The NEWMODULE template
 

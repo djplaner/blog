@@ -9,10 +9,10 @@ date: 2009-03-11 09:12:53+10:00
 next:
   text: Initial steps toward an education aggregation taxonomy - community versus
     individual?
-  url: /blog2/2009/03/11/an-alternate-bam-related-idea/
+  url: /blog/2009/03/11/an-alternate-bam-related-idea/
 previous:
   text: Getting feeds out of BAM - the first steps
-  url: /blog2/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
+  url: /blog/2009/03/10/getting-feeds-out-of-bam-the-first-steps/
 title: Cooked course feeds - An approach to bringing the PLEs@CQUni, BAM and Indicators
   projects together?
 type: post
@@ -83,7 +83,7 @@ The [PLEs@CQUNi project](http://cddu.cqu.edu.au/index.php/PLEs%40CQUni) already 
 
 The above slideshow uses the idea of the ["come to me" web](http://personalinfocloud.com/2006/01/the_come_to_me_.html). This meme is encompasses one reason why doing this might be a good thing. It saves time, it makes information more visible to the staff and the students. Information they can draw upon to decide what to do next. Information in a form that allows them to re-purpose and reuse for tasks that make sense to them, but would never be apparent to a central designer.
 
-**BAM.** The [Blog Aggregation Management (BAM) project](/blog2/research/bam-blog-aggregation-management/) now generates an OPML feed unique for each individual staff member to track their students' blog posts. The slidecast below outlines how they can use it.
+**BAM.** The [Blog Aggregation Management (BAM) project](/blog/research/bam-blog-aggregation-management/) now generates an OPML feed unique for each individual staff member to track their students' blog posts. The slidecast below outlines how they can use it.
 
 
 !!! warning "Outdated content no longer available"
@@ -103,4 +103,4 @@ Having the indicators project generating RSS posts summarising important lead in
 
 This is also encompassed in the idea of BAM generating feeds and the very idea of BAM in the first place. It allows staff to see which students are or are not progressing (lead indicator) and then take action they deem appropriate.
 
-It's also a part of the ideas behind [reflective alignment](/blog2/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/). That [post](/blog2/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/) also has some suggestions about how to implement this sort of thing.
+It's also a part of the ideas behind [reflective alignment](/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/). That [post](/blog/2009/03/09/how-to-improve-lt-and-e-learning-at-universities/) also has some suggestions about how to implement this sort of thing.

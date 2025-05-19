@@ -10,10 +10,10 @@ date: 2009-09-11 07:30:00+10:00
 next:
   text: Dede's "sleeping, eating and bonding" metaphor and the diversity of learning
     and its impacts for e-learning
-  url: /blog2/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/
+  url: /blog/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/
 previous:
   text: How do you develop a cross-LMS usage comparison?
-  url: /blog2/2009/09/09/how-do-you-develop-a-cross-lms-usage-comparison/
+  url: /blog/2009/09/09/how-do-you-develop-a-cross-lms-usage-comparison/
 title: '"PhD Update #24: off to the crocodile form"'
 type: post
 template: blog-post.html
@@ -42,7 +42,7 @@ Another early update today - off to the Crocodile Farm as an excursion [with the
 
 ### What I've done
 
-The aim for this week was to complete the pedagogy component. The component will have three sections: [The centrality of the pedagogue](/blog2/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/) (done); Learning theories, research and advice for pedagogues (about half done); and Lessons from Pedagogy for e-learning (most of the ideas in place - these are generally quick to get done).
+The aim for this week was to complete the pedagogy component. The component will have three sections: [The centrality of the pedagogue](/blog/2009/09/07/pedagogy-the-centrality-of-the-pedagogue-and-what-they-believe/) (done); Learning theories, research and advice for pedagogues (about half done); and Lessons from Pedagogy for e-learning (most of the ideas in place - these are generally quick to get done).
 
 ### What I'll do in the next week
 

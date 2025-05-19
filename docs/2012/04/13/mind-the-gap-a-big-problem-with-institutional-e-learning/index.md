@@ -5,10 +5,10 @@ categories:
 date: 2012-04-13 13:14:00+10:00
 next:
   text: Questions and insights on (education) hack days/hackathons
-  url: /blog2/2012/04/25/questions-and-insights-on-edhackathons/
+  url: /blog/2012/04/25/questions-and-insights-on-edhackathons/
 previous:
   text: bim2 - working on coordinator - part 1
-  url: /blog2/2012/04/11/bim2-working-on-coordinator-part-1/
+  url: /blog/2012/04/11/bim2-working-on-coordinator-part-1/
 title: Mind the gap - a big problem with institutional e-learning
 type: post
 template: blog-post.html
@@ -131,4 +131,4 @@ Using an approach better suited to filling the gaps we implemented an online ass
 
 For almost 10 years there have been institutions of higher education using online assignment submission systems that are wasting time and money. And this is just one of those boring, administrative jobs at the current core of higher education. Imagine all the other unfulfilled gaps and opportunities that have been missed.
 
-A more in-depth extension of this argument and one proposed solution forms the [foundation of my thesis](/blog2/research/phd-thesis/).
+A more in-depth extension of this argument and one proposed solution forms the [foundation of my thesis](/blog/research/phd-thesis/).

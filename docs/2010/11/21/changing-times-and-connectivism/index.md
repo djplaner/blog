@@ -5,10 +5,10 @@ categories:
 date: 2010-11-21 07:46:48+10:00
 next:
   text: 8 stupidest management fads of all time
-  url: /blog2/2010/11/21/8-stupidest-management-fads-of-all-time/
+  url: /blog/2010/11/21/8-stupidest-management-fads-of-all-time/
 previous:
   text: Interesting times ahead
-  url: /blog2/2010/11/20/interesting-times-ahead/
+  url: /blog/2010/11/20/interesting-times-ahead/
 title: Changing times and connectivism
 type: post
 template: blog-post.html

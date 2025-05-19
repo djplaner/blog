@@ -12,10 +12,10 @@ date: 2009-03-30 12:26:22+10:00
 next:
   text: '"Implementing an institution-wide learning and teaching strategy: lessons
     in managing change"'
-  url: /blog2/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/
+  url: /blog/2009/03/30/implementing-an-institution-wide-learning-and-teaching-strategy-lessons-in-managing-change/
 previous:
   text: 'PhD Update #5 - a new low'
-  url: /blog2/2009/03/27/phd-update-5-a-new-low/
+  url: /blog/2009/03/27/phd-update-5-a-new-low/
 title: Prescription, adaptation and failure around improving univeristy teaching
 type: post
 template: blog-post.html
@@ -181,7 +181,7 @@ Damien writes in [his post](http://damosworld.wordpress.com/2009/03/27/improving
 
 > It occurs to me that prescribing any particular learning theory (such as constructive alignment) is not the answer
 
-Absolutely, this is the problem I have with most of what is practiced around improving teaching at universities, it seeks to make prescriptions. This is one example of what I label within the [reflective alignment](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) idea as "level 2" knowledge, which is defined as:
+Absolutely, this is the problem I have with most of what is practiced around improving teaching at universities, it seeks to make prescriptions. This is one example of what I label within the [reflective alignment](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) idea as "level 2" knowledge, which is defined as:
 
 > 2. What the management does.  
 >     This is the horrible simplistic approach taken by most managers and typically takes the forms of fads. i.e. where they think X (where X might be generic skills, quality assurance, problem-based learning or even, if they are really silly, a new bit of technology) will make all the difference and proceed to take on the heroic task of making sure everyone is doing X. The task is heroic because it usually involves a large project and radical change. It requires the leadership to be “leaders”. To wield power, to re-organise i.e. complex change that is destined to fail.
@@ -198,7 +198,7 @@ Knight and Trowler (2000) argue that Ramsden's (1998) suggestions for improving 
 
 This resonates strongly with me and my experience. Just last year I saw an attempt at "forming groups of staff" fail after a couple of meetings. And I see this all the time with the "prescriptions" that are rolled out by institutions.
 
-The prescription approach ignores the findings from work on workarounds (Ferneley and Sobreperez, 2006), [shadow systems](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/) (Jones et al, 2004) and [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/). It ignores that nature of academics and teaching process.
+The prescription approach ignores the findings from work on workarounds (Ferneley and Sobreperez, 2006), [shadow systems](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/) (Jones et al, 2004) and [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/). It ignores that nature of academics and teaching process.
 
 Most importantly and pragmatically, **it does NOT work**. Knight and Trowler (2000)
 
@@ -220,7 +220,7 @@ Why do I think this approach fails? Well, there are the empirical results arisin
 
 [![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
 
-In the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) I have identified "Place" as the environment in which it all takes place. It is the foundation. The nature of the "Place" (or the context) in which teaching takes place is an essential influence on what is possible and what happens. Importantly, there is also the idea that "Place" is unique. The institution I work for is different others. The departmental culture you belong to is different from the one I belong to.
+In the [Ps Framework](/blog/2009/03/18/the-ps-framework/) I have identified "Place" as the environment in which it all takes place. It is the foundation. The nature of the "Place" (or the context) in which teaching takes place is an essential influence on what is possible and what happens. Importantly, there is also the idea that "Place" is unique. The institution I work for is different others. The departmental culture you belong to is different from the one I belong to.
 
 Knight and Trowler (2000) suggest
 
@@ -270,7 +270,7 @@ My [eldest son](http://www.flickr.com/photos/david_jones/sets/739762/) has a gro
 
 > Cars didn't drive on it to make great time. They drove on it to have a great time.
 
-The prescription approach is an example of [teleological design](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/). Teleological design places an emphasis on the destination, not the journey. Ateleological design reverses that.
+The prescription approach is an example of [teleological design](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/). Teleological design places an emphasis on the destination, not the journey. Ateleological design reverses that.
 
 I'm suggesting that improving teaching requires a much more ateleological approach. In attempting to explain the difference my co-authors (Jones, Luck et al, 2005) and I came up with the following
 
@@ -311,9 +311,9 @@ Fullan, M. (1991). [The New Meaning of Educational Change](http://www.amazon.com
 
 Gonzalez, C. (2009). "Conceptions of, and approaches to, teaching online: a study of lecturers teaching postgraduate distance courses." Higher Education 57(3): 299-314
 
-Jones, D., S. Behrens, et al. (2004). [The rise and fall of a shadow system: Lessons for enterprise system implementation](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/). Managing New Wave Information Systems: Enterprise, Government and Society, Proceedings of the 15th Australasian Conference on Information Systems, Hobart, Tasmania.
+Jones, D., S. Behrens, et al. (2004). [The rise and fall of a shadow system: Lessons for enterprise system implementation](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/). Managing New Wave Information Systems: Enterprise, Government and Society, Proceedings of the 15th Australasian Conference on Information Systems, Hobart, Tasmania.
 
-Jones, D., J. Luck, et al. (2005). [The teleological brake on ICTs in open and distance learning](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/). Conference of the Open and Distance Learning Association of Australia'2005, Adelaide.
+Jones, D., J. Luck, et al. (2005). [The teleological brake on ICTs in open and distance learning](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/). Conference of the Open and Distance Learning Association of Australia'2005, Adelaide.
 
 Knight, P. and P. Trowler (2000). "Department-level Cultures and the Improvement of Learning and Teaching." Studies in Higher Education 25(1): 69-83.
 

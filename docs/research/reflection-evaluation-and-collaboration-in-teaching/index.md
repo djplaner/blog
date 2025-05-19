@@ -30,11 +30,6 @@ For various contextual reasons (and perhaps some inherent in the project) it did
 
 ## REACT - What is it?
 
-- Goals
-- Principles
-- Process
-- About REACT
-
 ## Goals
 
 **R**eflection, **E**valuation, **a**nd **C**ollaboration in **T**eaching (REACT) seeks to improve the quality of learning and teaching at CQU by supporting a culture of innovative practice through the dissemination and adoption of project outcomes.
@@ -58,14 +53,14 @@ The project is founded on knowledge from a broad array of disciplines and seeks 
 3. **Collaboration**  
     To use a collegial process that encourages collaboration during design of innovations and the formation of communities of practice. Use of a fixed paper structure also encourages collaboration by making it easier to compare and contrast current papers with earlier papers.
 
-- [Foundations for REACT](/blog2/research/reflection-evaluation-and-collaboration-in-teaching/react-foundations/)
+- [Foundations for REACT](/blog/research/reflection-evaluation-and-collaboration-in-teaching/react-foundations/)
 
 ## Process
 
 Based on these principles, a process has been designed to help in the development of papers describing innovations in teaching and learning that are based on research, informed by multiple perspectives and evaluated. Two important aspects of this process are the use of collaborative writer's workshops and a structured format for the papers that are written.
 
-- [Writing Process](/blog2/research/reflection-evaluation-and-collaboration-in-teaching/react-process/)
-- [Paper Format](/blog2/research/reflection-evaluation-and-collaboration-in-teaching/reacts-paper-format/)
+- [Writing Process](/blog/research/reflection-evaluation-and-collaboration-in-teaching/react-process/)
+- [Paper Format](/blog/research/reflection-evaluation-and-collaboration-in-teaching/reacts-paper-format/)
 - [Presentation - REACT Workshop (video stream of a writer's workshop)](http://www.learning.cqu.edu.au/staff_development/presentations.htm)
 - [Sample REACT paper](http://cq-pan.cqu.edu.au/david-jones/Publications/Papers_and_Books/react1.pdf)
 

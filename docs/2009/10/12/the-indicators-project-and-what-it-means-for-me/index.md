@@ -5,10 +5,10 @@ categories:
 date: 2009-10-12 14:52:30+10:00
 next:
   text: Thoughts about the next steps for the indicators project
-  url: /blog2/2009/10/15/thoughts-about-the-next-steps-for-the-indicators-project/
+  url: /blog/2009/10/15/thoughts-about-the-next-steps-for-the-indicators-project/
 previous:
   text: 'The learning pyramid: true, false, hoax or myth?'
-  url: /blog2/2009/10/11/the-learning-pyramid-true-false-hoax-or-myth/
+  url: /blog/2009/10/11/the-learning-pyramid-true-false-hoax-or-myth/
 title: The indicators project and what it means for me
 type: post
 template: blog-post.html

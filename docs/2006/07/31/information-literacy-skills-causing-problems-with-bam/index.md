@@ -4,10 +4,10 @@ categories:
 date: 2006-07-31 16:04:54+10:00
 next:
   text: Including Dojo in pages
-  url: /blog2/2006/08/01/including-dojo-in-pages/
+  url: /blog/2006/08/01/including-dojo-in-pages/
 previous:
   text: Further issues with BamRegistration
-  url: /blog2/2006/07/31/further-issues-with-bamregistration/
+  url: /blog/2006/07/31/further-issues-with-bamregistration/
 title: Information literacy skills causing problems with BAM
 type: post
 template: blog-post.html

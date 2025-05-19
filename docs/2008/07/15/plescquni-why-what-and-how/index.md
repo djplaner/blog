@@ -5,10 +5,10 @@ categories:
 date: 2008-07-15 13:35:57+10:00
 next:
   text: The Ps Framework - using it to think about PLE implementation at CQU
-  url: /blog2/2008/07/26/the-ps-framework-using-it-to-think-about-ple-implementation-at-cqu/
+  url: /blog/2008/07/26/the-ps-framework-using-it-to-think-about-ple-implementation-at-cqu/
 previous:
   text: Encouraging use of learning networks - and dealing with me
-  url: /blog2/2008/07/15/encouraging-use-of-learning-networks-and-dealing-with-me/
+  url: /blog/2008/07/15/encouraging-use-of-learning-networks-and-dealing-with-me/
 title: '"PLEs@CQUni: Why, What and How"'
 type: post
 template: blog-post.html

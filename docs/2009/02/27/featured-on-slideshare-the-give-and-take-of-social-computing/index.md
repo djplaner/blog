@@ -7,10 +7,10 @@ date: 2009-02-27 17:31:21+10:00
 next:
   text: Dimensions delimiting conceptions of online teaching - something to guide
     the indicators and the evaluation of LMS data?
-  url: /blog2/2009/02/28/dimensions-delimiting-conceptions-of-online-teaching-something-to-guide-the-indicators-and-the-evaluation-of-lms-data/
+  url: /blog/2009/02/28/dimensions-delimiting-conceptions-of-online-teaching-something-to-guide-the-indicators-and-the-evaluation-of-lms-data/
 previous:
   text: 'PhD update #1 - the start of a tradition?'
-  url: /blog2/2009/02/27/phd-update-1-the-start-of-a-tradition/
+  url: /blog/2009/02/27/phd-update-1-the-start-of-a-tradition/
 title: Featured on slideshare - the give and take of social computing
 type: post
 template: blog-post.html
@@ -34,7 +34,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The editorial team over at [Slideshare](http://slideshare.net/) have decided my [recent PhD presentation](/blog2/2009/02/21/an-information-systems-design-theory-for-e-learning/) is worth of featuring on the Slideshare home page. The following screen shot of the Slideshare home page is included as proof and also as a record. 105 views before being featured. How high can you go?
+The editorial team over at [Slideshare](http://slideshare.net/) have decided my [recent PhD presentation](/blog/2009/02/21/an-information-systems-design-theory-for-e-learning/) is worth of featuring on the Slideshare home page. The following screen shot of the Slideshare home page is included as proof and also as a record. 105 views before being featured. How high can you go?
 
 [![Featured on slideshare](images/3312821107_b2521bc35c_m.jpg)](http://www.flickr.com/photos/david_jones/3312821107/ "Featured on slideshare by David T Jones, on Flickr")
 
@@ -48,7 +48,7 @@ Of course the $64K is, "what value is all of this"?. Well, apart from the small 
 
 There may not be any positive value in it, at least not to me, at least not this time. However, there could also be something really valuable and something that would never have happened otherwise.
 
-Just this week, a [post of mine on patterns for e-learning](/blog2/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/) has started a conversation with the head of an Art and Design Research centre in the UK about design and some of the very interesting work that he and his students/colleagues are doing. Without the blog post, I would never have made that connection.
+Just this week, a [post of mine on patterns for e-learning](/blog/2009/02/22/patterns-for-e-learning-a-lost-opportunity-or-destined-to-fail/) has started a conversation with the head of an Art and Design Research centre in the UK about design and some of the very interesting work that he and his students/colleagues are doing. Without the blog post, I would never have made that connection.
 
 Punya Mishra [posted something](http://punya.educ.msu.edu/2009/02/21/gandhi-ambigrams-creativity-the-power-of-small-pieces-loosely-joined/) this week on this same topic. His post makes the point much more poetically than mine and he uses a good term for it "serendipitous connectabilty".
 

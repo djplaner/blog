@@ -6,10 +6,10 @@ categories:
 date: 2006-10-12 18:35:46+10:00
 next:
   text: Question allocation difficulties - BAM
-  url: /blog2/2006/10/16/question-allocation-difficulties-bam/
+  url: /blog/2006/10/16/question-allocation-difficulties-bam/
 previous:
   text: The missing ground rule for Enterprise 2.0
-  url: /blog2/2006/10/12/the-missing-ground-rule-for-enterprise-20/
+  url: /blog/2006/10/12/the-missing-ground-rule-for-enterprise-20/
 title: The missing Ps in LMS adoption decisions
 type: post
 template: blog-post.html

@@ -920,8 +920,8 @@ The major components of the 1999 online learning approach include
 - CD-ROM mirror of the web site  
     Students are able to purchase the CD-ROM mirror of the web site for use at home while disconnected from the Internet.
 
-**Table 9  
-85321 Assessment for 1999**
+**Table 9  85321 Assessment for 1999**
+
 | Assignment | Worth | Due | Description |
 | --- | --- | --- | --- |
 | Log book | 20% | Weeks: 2, 4, 6, 8, 10 | Reflective log book with set sections including a record of work completed |

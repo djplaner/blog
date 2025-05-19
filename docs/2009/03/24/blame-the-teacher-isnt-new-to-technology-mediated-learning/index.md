@@ -8,10 +8,10 @@ categories:
 date: 2009-03-24 22:27:56+10:00
 next:
   text: The myth of rationality in the selection of learning management systems/VLEs
-  url: /blog2/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
+  url: /blog/2009/03/25/the-myth-of-rationality-in-the-selection-of-learning-management-systemsvles/
 previous:
   text: Poor craftsman - or the &quot;blame the teachers&quot; excuse
-  url: /blog2/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/
+  url: /blog/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/
 title: '"Blame the teacher" isn''t new to technology-mediated learning'
 type: post
 template: blog-post.html
@@ -34,7 +34,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I've been [banging on about](/blog2/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/) the tendency for educational technology folk, especially those in the technologists alliance to "blame the teacher" as the reason why technology-mediated learning hasn't achieved all of its promise.
+I've been [banging on about](/blog/2009/03/23/poor-craftsman-or-the-blame-the-teachers-excuse/) the tendency for educational technology folk, especially those in the technologists alliance to "blame the teacher" as the reason why technology-mediated learning hasn't achieved all of its promise.
 
 I came across a paper that illustrates just how long this tendency as been around. Petrina (2004) passes a critical eye over Pressey's early work on the first teaching machines in the early 1920s and what broader lessons there might be. But it also includes a couple of quotes that illustrate Pressey's tendency to "blame the teacher" for the failure of his utopian dreams.
 

@@ -4,10 +4,10 @@ categories:
 date: 2013-04-10 12:28:40+10:00
 next:
   text: And they don't even know enough to expect better
-  url: /blog2/2013/04/16/and-they-dont-even-know-enough-to-expect-better/
+  url: /blog/2013/04/16/and-they-dont-even-know-enough-to-expect-better/
 previous:
   text: More evidence of the limits of student technical knowledge
-  url: /blog2/2013/04/08/more-evidence-of-the-limits-of-student-technical-knowledge/
+  url: /blog/2013/04/08/more-evidence-of-the-limits-of-student-technical-knowledge/
 title: Application or targeted learning analytics - another scope?
 type: post
 template: blog-post.html

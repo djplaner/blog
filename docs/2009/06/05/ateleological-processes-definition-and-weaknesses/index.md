@@ -9,10 +9,10 @@ categories:
 date: 2009-06-05 09:08:50+10:00
 next:
   text: The teaching/research nexus - an example?
-  url: /blog2/2009/06/05/the-teachingresearch-nexus-an-example/
+  url: /blog/2009/06/05/the-teachingresearch-nexus-an-example/
 previous:
   text: Teleological design - definition and weaknesses
-  url: /blog2/2009/06/05/teleological-design-definition-and-weaknesses/
+  url: /blog/2009/06/05/teleological-design-definition-and-weaknesses/
 title: Ateleological processes - definition and weaknesses
 type: post
 template: blog-post.html
@@ -140,7 +140,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following post offers a description of ateleological processes and their weaknesses. It's a version 1 draft from the process components of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog2/research/phd-thesis/). A [previous post](/blog2/2009/05/25/teleological-and-ateleological-processes/) gave a brief overview of teleological and ateleological processes and another [described teleological processes and their weaknesses](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/).
+The following post offers a description of ateleological processes and their weaknesses. It's a version 1 draft from the process components of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) for chapter 2 of my [thesis](/blog/research/phd-thesis/). A [previous post](/blog/2009/05/25/teleological-and-ateleological-processes/) gave a brief overview of teleological and ateleological processes and another [described teleological processes and their weaknesses](/blog/2009/06/05/teleological-design-definition-and-weaknesses/).
 
 ### Ateleological design processes
 

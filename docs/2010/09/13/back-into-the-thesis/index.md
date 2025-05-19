@@ -5,10 +5,10 @@ categories:
 date: 2010-09-13 13:50:18+10:00
 next:
   text: How strict a blueprint do ISDTs provide?
-  url: /blog2/2010/09/13/how-strict-a-blueprint-do-isdts-provide/
+  url: /blog/2010/09/13/how-strict-a-blueprint-do-isdts-provide/
 previous:
   text: More problems with BIM and special characters
-  url: /blog2/2010/09/05/more-problems-with-bim-and-special-characters/
+  url: /blog/2010/09/05/more-problems-with-bim-and-special-characters/
 title: Back into the thesis
 type: post
 template: blog-post.html
@@ -18,7 +18,7 @@ After a week away traveling with my sons in Western Queensland, I have to get ba
 The outstanding work can essentially be broken into two parts:
 
 1. Make modifications to existing chapters; and  
-    The [last PhD update](/blog2/2010/08/22/phd-update-28-minimal-work-feedback-arrived/) has a good summary of much of this work.
+    The [last PhD update](/blog/2010/08/22/phd-update-28-minimal-work-feedback-arrived/) has a good summary of much of this work.
 2. Complete the last chapter.  
     Chapter 5 is the last chapter not yet in first draft stage, and it's not far from it with only two sections not really there yet. So, the focus has to be on finalising those: the ISDT and Evaluation.
 
@@ -31,7 +31,7 @@ This is the major product of the thesis. Much of it is written, what's remaining
 - Define the purpose of constructs and double check the list in the table
 - Principles of form and function
     - Get a few broader definitions of architecture, especially leaning towards the inclusive idea.
-    - Explain the scaffolding idea a bit more, perhaps borrow from [this post](/blog2/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/).
+    - Explain the scaffolding idea a bit more, perhaps borrow from [this post](/blog/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/).
     - Better explanation of human support as an aspect of scaffolding.
 - Principles of implemenation
     - Work in a connection with learning.

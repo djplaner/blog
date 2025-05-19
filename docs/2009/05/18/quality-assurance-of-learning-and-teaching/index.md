@@ -4,10 +4,10 @@ categories:
 date: 2009-05-18 17:11:10+10:00
 next:
   text: Diagnosing and recording a problem with BAM
-  url: /blog2/2009/05/19/diagnosing-and-recording-a-problem-with-bam/
+  url: /blog/2009/05/19/diagnosing-and-recording-a-problem-with-bam/
 previous:
   text: Over emphasis on design and bugger all on maintenance
-  url: /blog2/2009/05/18/over-emphasis-on-design-and-bugger-all-on-maintenance/
+  url: /blog/2009/05/18/over-emphasis-on-design-and-bugger-all-on-maintenance/
 title: Quality assurance of learning and teaching
 type: post
 template: blog-post.html
@@ -23,6 +23,6 @@ This definition seems to suggest two main questions to answer:
 1. What do we say we want in terms of student learning?
 2. How do we know if our teaching programmes are producing those results?
 
-Given what [I've had to say](/blog2/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/) about difficulties associated with measuring the effectivness of learning and teaching, I'm not confident that that the second question can be answered by many universities.
+Given what [I've had to say](/blog/2009/03/06/the-biggest-flaw-in-university-lte-learning-and-how-to-avoid-it/) about difficulties associated with measuring the effectivness of learning and teaching, I'm not confident that that the second question can be answered by many universities.
 
-Given that [level 1 smile sheets](/blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) do not work what do you do?
+Given that [level 1 smile sheets](/blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) do not work what do you do?

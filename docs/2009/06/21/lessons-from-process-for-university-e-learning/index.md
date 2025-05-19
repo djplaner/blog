@@ -9,11 +9,11 @@ categories:
 date: 2009-06-21 14:46:41+10:00
 next:
   text: '"PhD Update #15 - Some progress and an absence"'
-  url: /blog2/2009/06/21/phd-update-15-some-progress-and-an-absence/
+  url: /blog/2009/06/21/phd-update-15-some-progress-and-an-absence/
 previous:
   text: "The reason *insert label* talk about gurus is because they can\u2019t spell\
     \ the word charlatan"
-  url: /blog2/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-cant-spell-the-word-charlatan/
+  url: /blog/2009/06/21/the-reason-insert-label-talk-about-gurus-is-because-they-cant-spell-the-word-charlatan/
 title: Lessons from process for university e-learning
 type: post
 template: blog-post.html
@@ -39,7 +39,7 @@ pingbacks:
 ---
 I told myself that I would get this section completed today before I went home and I have achieved that goal. Perhaps, however, I have engaged in a bit of "task corruption". A couple of days ago I was listening to a podcast about how the United States education system might be improved. One of the panelists suggested that one of the strategies employed by various school sectors to improve graduation was to make it easier to graduate. Just perhaps, in order to get this posted, I've relaxed my standards more than normal. Time will tell if it is too far.
 
-In case you haven't been following along, this is the last section of a part of chapter two of my [thesis](/blog2/research/phd-thesis/). Chapter 2 is meant to be a "review" of the literature around e-learning in an attempt to demonstrate my understanding of the field and to identify what I think might be some holes in current knowledge. Holes that my brilliant thesis will fill through one potential approach. I'm using the idea of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/) to structure my Chapter 2. This is the last component of the Process part of the Ps Framework.
+In case you haven't been following along, this is the last section of a part of chapter two of my [thesis](/blog/research/phd-thesis/). Chapter 2 is meant to be a "review" of the literature around e-learning in an attempt to demonstrate my understanding of the field and to identify what I think might be some holes in current knowledge. Holes that my brilliant thesis will fill through one potential approach. I'm using the idea of the [Ps Framework](/blog/2009/03/18/the-ps-framework/) to structure my Chapter 2. This is the last component of the Process part of the Ps Framework.
 
 As I'm finishing sections of the thesis I'm posting them to this blog. Mostly to provide a sense of achievement and/or completion (associated with that is to produce visible outputs for my supervisor who resides a few thousand kilometers away). But also in the hope/belief that making this stuff available might provide some level of help to others or perhaps to me.
 
@@ -58,11 +58,11 @@ Taken as a whole these lessons would appear to suggest that an over-reliance on 
 
 #### The assumptions of teleological processes appear not to hold
 
-Introna (1996) identifies three assumptions that must be met in order for teleological design processes to be possible: stable and predictable behaviour, designers able to manipulate system behaviour and the ability to accurately determine goals. As demonstrated in the section titled Weaknesses of teleological design there is a plethora of evidence to suggest that these three assumptions do not hold in many modern organizations. It would appear, due to the nature of universities and their main participants, to be less likely to exist within universities and their practice of e-learning. It would appear possible that many of the perceived limitations and problems with e-learning within universities (cross reference to [Lessons from Past Experience](/blog2/2009/04/25/lessons-for-e-learning/)) may arise from the adoption of processes approaches based on non-existent assumptions. It has been suggested that despite its prevalence and its status as the dominant discourse, the teleological approach seems not to have provided the returns required by organisations seeking to maximise value from information and communication technologies (McConachie, Danaher et al. 2005).
+Introna (1996) identifies three assumptions that must be met in order for teleological design processes to be possible: stable and predictable behaviour, designers able to manipulate system behaviour and the ability to accurately determine goals. As demonstrated in the section titled Weaknesses of teleological design there is a plethora of evidence to suggest that these three assumptions do not hold in many modern organizations. It would appear, due to the nature of universities and their main participants, to be less likely to exist within universities and their practice of e-learning. It would appear possible that many of the perceived limitations and problems with e-learning within universities (cross reference to [Lessons from Past Experience](/blog/2009/04/25/lessons-for-e-learning/)) may arise from the adoption of processes approaches based on non-existent assumptions. It has been suggested that despite its prevalence and its status as the dominant discourse, the teleological approach seems not to have provided the returns required by organisations seeking to maximise value from information and communication technologies (McConachie, Danaher et al. 2005).
 
 #### Process must be aware of and match the context
 
-The Institution section ([insert cross reference](/blog2/2009/05/15/institution-another-part-of-place/)) of this chapter sought to show the differences that exist within universities as an institution working on the assumption, illustrated through perspectives from a number of authors (Butler and Fitzgerald 2001; Parchoma 2006; Nichols 2007), that such an understanding was important for successful implementation of e-learning. The examination of process in the preceding sections reinforces the importance of context in two important ways: the inappropriateness of teleological processes to the university context and the importance of responding to the specific, local context.
+The Institution section ([insert cross reference](/blog/2009/05/15/institution-another-part-of-place/)) of this chapter sought to show the differences that exist within universities as an institution working on the assumption, illustrated through perspectives from a number of authors (Butler and Fitzgerald 2001; Parchoma 2006; Nichols 2007), that such an understanding was important for successful implementation of e-learning. The examination of process in the preceding sections reinforces the importance of context in two important ways: the inappropriateness of teleological processes to the university context and the importance of responding to the specific, local context.
 
 There is limited support from research to support teleological models as effective for facilitating change within universities (Kezar 2001). Contributing factors to the poor results of teleological models include: the inability to clearly state missions and goals, lack of centralised decision-making, short-term orientation of teleological models and the inertia of long-standing structures (Birnbaum 2000). These findings are suggestive that, as per the previous section, the assumptions necessary for teleological approaches to operate, do not hold within universities.
 

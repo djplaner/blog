@@ -4,10 +4,10 @@ categories:
 date: 2009-12-22 15:42:01+10:00
 next:
   text: Shaking up e-learning "design" - little help?
-  url: /blog2/2009/12/23/shaking-up-e-learning-design-little-help/
+  url: /blog/2009/12/23/shaking-up-e-learning-design-little-help/
 previous:
   text: BIM - Creating the test data, completing dbase design
-  url: /blog2/2009/12/22/bim-creating-the-test-data-completing-dbase-design/
+  url: /blog/2009/12/22/bim-creating-the-test-data-completing-dbase-design/
 title: BIM - cron and view student details screen
 type: post
 template: blog-post.html
@@ -32,9 +32,9 @@ pingbacks:
       user_id: '0'
     
 ---
-In the [last bit of BIM work](/blog2/2009/12/22/bim-creating-the-test-data-completing-dbase-design/) I'd successfully created some test data and laid out some rough plans for what is next.
+In the [last bit of BIM work](/blog/2009/12/22/bim-creating-the-test-data-completing-dbase-design/) I'd successfully created some test data and laid out some rough plans for what is next.
 
-The aim of this post is to document the bit of work done on the show details screen up and going. The initial work on the screen was [documented here](/blog2/2009/12/20/bim-savingmanipulating-rss-files/). This post draws on the test data, adds some support functions to manipulate it and improves the screen.
+The aim of this post is to document the bit of work done on the show details screen up and going. The initial work on the screen was [documented here](/blog/2009/12/20/bim-savingmanipulating-rss-files/). This post draws on the test data, adds some support functions to manipulate it and improves the screen.
 
 Should be fairly simple.
 

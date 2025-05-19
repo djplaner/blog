@@ -4,10 +4,10 @@ categories:
 date: 2016-04-23 16:28:48+10:00
 next:
   text: The need for technopedagogues and will it ever go away?
-  url: /blog2/2016/04/25/the-need-for-technopedagogues-and-will-it-ever-go-away/
+  url: /blog/2016/04/25/the-need-for-technopedagogues-and-will-it-ever-go-away/
 previous:
   text: Designing a collection of analytics to explore &quot;engagement&quot;
-  url: /blog2/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/
+  url: /blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/
 title: Playing with Wikity
 type: post
 template: blog-post.html
@@ -229,10 +229,10 @@ All that seems to be working.
 
 I can see some definite applications personally, as long as I have the discipline. Wonder if Diigo's days are numbered? At least for personal use.
 
-Beyond that there are some potentially interesting contributions Wikity can help with ideas around the BAD mindset, [CASA](/blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/), and some sort of foundation for a ["distributed TPACK" approach](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/).
+Beyond that there are some potentially interesting contributions Wikity can help with ideas around the BAD mindset, [CASA](/blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/), and some sort of foundation for a ["distributed TPACK" approach](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/).
 
 Also some potential for teaching.  It would be a good fit for Networked and Global Learning.
 
 All I need is time.
 
-The immediate application might be to [this project](/blog2/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/) that is supporting a group of teacher educators using analytics to understand what's going on in the courses.
+The immediate application might be to [this project](/blog/2016/04/14/designing-a-collection-of-analytics-to-explore-engagement/) that is supporting a group of teacher educators using analytics to understand what's going on in the courses.

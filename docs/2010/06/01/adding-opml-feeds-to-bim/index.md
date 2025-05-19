@@ -5,19 +5,19 @@ categories:
 date: 2010-06-01 14:04:04+10:00
 next:
   text: The role of experience
-  url: /blog2/2010/06/02/the-role-of-experience/
+  url: /blog/2010/06/02/the-role-of-experience/
 previous:
   text: The need for a third way
-  url: /blog2/2010/05/31/the-need-for-a-third-way/
+  url: /blog/2010/05/31/the-need-for-a-third-way/
 title: Adding OPML feeds to BIM
 type: post
 template: blog-post.html
 ---
-The following describes the process of adding support for the provision of [OPML](http://en.wikipedia.org/wiki/OPML) files to the Moodle activity module [BIM](/blog2/research/bam-blog-aggregation-management/).
+The following describes the process of adding support for the provision of [OPML](http://en.wikipedia.org/wiki/OPML) files to the Moodle activity module [BIM](/blog/research/bam-blog-aggregation-management/).
 
 ### Requirement
 
-[BIM](/blog2/research/bam-blog-aggregation-management/) allows students to register external blogs with Moodle and provides support for teaching staff to track, manage and mark the student blogs. Rather than use BIM and Moodle to find out which students have posted recently, it would nice to allow teaching staff (initially) to download an OPML file for all their students. This file could be imported into most newsreaders and used to track student submissions.
+[BIM](/blog/research/bam-blog-aggregation-management/) allows students to register external blogs with Moodle and provides support for teaching staff to track, manage and mark the student blogs. Rather than use BIM and Moodle to find out which students have posted recently, it would nice to allow teaching staff (initially) to download an OPML file for all their students. This file could be imported into most newsreaders and used to track student submissions.
 
 The aim is to start simple and only provide an OPML file for each teaching staff member's "your students". Given the nature of OPML, if the staff wanted to share this with students, they could simply give them the file, but that's their choice.
 

@@ -4,10 +4,10 @@ categories:
 date: 2009-11-24 08:42:42+10:00
 next:
   text: Any one for a grant application/research project?
-  url: /blog2/2009/11/27/any-one-for-a-grant-applicationresearch-project/
+  url: /blog/2009/11/27/any-one-for-a-grant-applicationresearch-project/
 previous:
   text: Web 2.0 in assessment - an opening statement?
-  url: /blog2/2009/11/22/web-2-0-in-assessment-an-opening-statement/
+  url: /blog/2009/11/22/web-2-0-in-assessment-an-opening-statement/
 tags:
 - asw2a
 title: Reflections on asw2a
@@ -167,7 +167,7 @@ And in this paragraph
 
 > What is required though, is a fundamental rethinking of the idea of learning spaces to recognise distributed, learner-centric designs, and then having done that, a look at the available mechanisms – such as RSS and tagging – that will enable courses, programs or instructors to filter out only the content that is relevant to them and re-purpose it in a format that will streamline administrative, assessment, or grading requirements of the course.
 
-Mike describes something similar to my [first experiment with using open blogs](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) for individual student reflection.
+Mike describes something similar to my [first experiment with using open blogs](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) for individual student reflection.
 
 The rest of his post also reinforces for me one of the drawbacks and one of the difficulties encountered in this experiment. The drawback was that we didn't design the assignment to encourage connections between students. We focused solely on the individual student blog as a way to make the learning visible to the staff member. I think encouraging (not necessarily requiring) student blog posts to be visible to other students would have opened up unexpected benefits. It may also have been somewhat difficult.
 
@@ -193,13 +193,13 @@ The majority of academics at universities are on the right hand side of the chas
 
 Any of the principles from the roundtable are likely to be better suited for the innovators, not the majority. Hence, they are likely not to work.
 
-The analogy I [used in this blog post](/blog2/2009/11/22/web-2-0-in-assessment-an-opening-statement/) about super-fit, nutritionists generating principles for obese people to lose weight still resonates here.
+The analogy I [used in this blog post](/blog/2009/11/22/web-2-0-in-assessment-an-opening-statement/) about super-fit, nutritionists generating principles for obese people to lose weight still resonates here.
 
 ### Yet another fad
 
 12 years ago I was told the Director of the Distance Education division at my then institution had said in a meeting something along the lines "The World-Wide Web will have little or no impact on distance education". Last year, when the idea of Web 2.0 tools possibly offering an alternative to the LMS as the institutional response to e-learning another senior person said "That's just an opinion.". I was an early adopter of both the Web and Web 2.0. I saw the Division of Distance Education take control of web-based learning about 10 years ago and I fully expect the institution to leap onto Web 2.0 in the next couple of years.
 
-At this stage, I see the use of Web 2.0 being yet another fad in technology mediated learning within universities. The focus will be on project managing the implementation of the technology with little or no notice that the entire policy, practice and structure of higher education is actively constraining innovative learning and teaching. For this reason, I don't expect there to be any significant change or improvement in the pedagogy used in higher education through the introduction of Web 2.0. There will be too much [herding cats, and not enough focus on creating an environment that enables weight loss](/blog2/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/).
+At this stage, I see the use of Web 2.0 being yet another fad in technology mediated learning within universities. The focus will be on project managing the implementation of the technology with little or no notice that the entire policy, practice and structure of higher education is actively constraining innovative learning and teaching. For this reason, I don't expect there to be any significant change or improvement in the pedagogy used in higher education through the introduction of Web 2.0. There will be too much [herding cats, and not enough focus on creating an environment that enables weight loss](/blog/2009/09/28/reflection-and-moving-on-herding-cats-and-losing-weight/).
 
 ### References
 

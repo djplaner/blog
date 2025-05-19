@@ -5,10 +5,10 @@ categories:
 date: 2007-06-27 07:56:50+10:00
 next:
   text: CQU's first "web 2.0 course site" goes live
-  url: /blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/
+  url: /blog/2007/07/11/cqus-first-web-20-course-site-goes-live/
 previous:
   text: Thoughts on Carrick Awards Forum
-  url: /blog2/2007/06/13/thoughts-on-carrick-awards-forum/
+  url: /blog/2007/06/13/thoughts-on-carrick-awards-forum/
 title: Possible Futures v2.0
 type: post
 template: blog-post.html

@@ -6,10 +6,10 @@ date: 2008-09-24 11:17:31+10:00
 next:
   text: '"Design as reification, commodification and ideology: A critical view of
     IS design science"'
-  url: /blog2/2008/09/24/design-as-reification-commodification-and-ideology-a-critical-view-of-is-design-science/
+  url: /blog/2008/09/24/design-as-reification-commodification-and-ideology-a-critical-view-of-is-design-science/
 previous:
   text: What is research?  How do you do it?
-  url: /blog2/2008/09/19/what-is-research-how-do-you-do-it/
+  url: /blog/2008/09/19/what-is-research-how-do-you-do-it/
 title: What underpins student-centered education
 type: post
 template: blog-post.html

@@ -4,10 +4,10 @@ categories:
 date: 2015-08-03 13:09:12+10:00
 next:
   text: Does learning about teaching in formal education match this?
-  url: /blog2/2015/08/06/does-learning-about-teaching-in-formal-education-match-this/
+  url: /blog/2015/08/06/does-learning-about-teaching-in-formal-education-match-this/
 previous:
   text: What do &quot;scale&quot; and &quot;mainstreaming&quot; mean in higher education?
-  url: /blog2/2015/07/29/what-do-scale-and-mainstreaming-mean-in-higher-education/
+  url: /blog/2015/07/29/what-do-scale-and-mainstreaming-mean-in-higher-education/
 title: An experiment with the oerpub editor
 type: post
 template: blog-post.html

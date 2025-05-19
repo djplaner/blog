@@ -10,10 +10,10 @@ categories:
 date: 2010-07-01 12:41:07+10:00
 next:
   text: Webfuse feature adoption - 1997 through 2009
-  url: /blog2/2010/07/01/webfuse-feature-adoption-1997-through-2009/
+  url: /blog/2010/07/01/webfuse-feature-adoption-1997-through-2009/
 previous:
   text: An integrated OLE
-  url: /blog2/2010/06/26/an-integrated-ole/
+  url: /blog/2010/06/26/an-integrated-ole/
 title: Examining feature adoption - slightly better approach
 type: post
 template: blog-post.html
@@ -37,7 +37,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm in the throws of finalising the second last bit of data analysis [for the thesis](/blog2/research/phd-thesis/). For this I'm trying to examine the level of feature adoption within courses supported by the Webfuse system (the main product for the the thesis). The following describes an attempt to formalise the process for this evaluation.
+I'm in the throws of finalising the second last bit of data analysis [for the thesis](/blog/research/phd-thesis/). For this I'm trying to examine the level of feature adoption within courses supported by the Webfuse system (the main product for the the thesis). The following describes an attempt to formalise the process for this evaluation.
 
 This has been under construction for almost a week. It's complete. The following just documents what was done. Probably not all that interesting. Will present some results in the next post.
 
@@ -58,7 +58,7 @@ There are three reasons to do this:
 
 The aim is to understand what features of an e-learning system are being used. i.e. how many courses are using the discussion forum, the quiz system etc. The aim is not to just understand this in the context of a single term, single institution or a single e-learning system. The idea is to examine feature adoption across systems, time and institutions in order to see if there are interesting patterns that need further investigation. This is the underlying aim of the [Indicators project](http://indicatorsproject.wordpress.com/) and more immediately important for me, what I have to do for my thesis around the Webfuse system.
 
-So, I need to gather all the information about Webfuse feature adoption and turn it into a form that can be compared with other systems. I've done this before. It was first [blogged about](/blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) and then became part of an [ASCILITE paper](http://indicatorsproject.wordpress.com/2009/10/09/the-indicators-project-identifying-effective-learning-adoption-activity-grades-and-external-factors/) (Beer et al, 2009)
+So, I need to gather all the information about Webfuse feature adoption and turn it into a form that can be compared with other systems. I've done this before. It was first [blogged about](/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/) and then became part of an [ASCILITE paper](http://indicatorsproject.wordpress.com/2009/10/09/the-indicators-project-identifying-effective-learning-adoption-activity-grades-and-external-factors/) (Beer et al, 2009)
 
 But since that work, I've gotten some additional Webfuse data and also had the opportunity to revisit the design and implementation of Webfuse through writing this second last chapter. I've also come up with a slightly different way to interpret the data. This means I need to revisit this usage data with some new insights.
 

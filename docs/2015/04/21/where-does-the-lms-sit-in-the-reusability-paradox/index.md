@@ -4,11 +4,11 @@ categories:
 date: 2015-04-21 15:54:45+10:00
 next:
   text: Why is e-learning like teenage sex and what can be done about it?
-  url: /blog2/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/
+  url: /blog/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/
 previous:
   text: What&#039;s good for &quot;open content&quot; is good for the LMS/virtual
     learning space?
-  url: /blog2/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
+  url: /blog/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/
 tags:
 - bad
 - e-learning
@@ -123,7 +123,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This post [continues the adaptation](/blog2/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/) of the original work of [David Wiley](https://davidwiley.org) around the reuse and remixing of open content and applying that knowledge to the LMS and other institutional e-learning systems and practices. The idea is that explicitly ignoring the distinction between the "content" and the digital systems (and perhaps also the physical equipment) that are used in contemporary learning/teaching spaces is useful in identifying problems with current practice and identifying alternatives.
+This post [continues the adaptation](/blog/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/) of the original work of [David Wiley](https://davidwiley.org) around the reuse and remixing of open content and applying that knowledge to the LMS and other institutional e-learning systems and practices. The idea is that explicitly ignoring the distinction between the "content" and the digital systems (and perhaps also the physical equipment) that are used in contemporary learning/teaching spaces is useful in identifying problems with current practice and identifying alternatives.
 
 ### The Reusability Paradox
 
@@ -137,7 +137,7 @@ Thus to make a learning object portable, you have to minimise those elaborate, c
 
 ### What's good for "open content" is good for the LMS
 
-[My last post](/blog2/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/) sought to apply Wiley's 5Rs Framework to the LMS. The aim here is to explore what might be revealed by applying the Reusability Paradox to the LMS.
+[My last post](/blog/2015/04/15/whats-good-for-the-open-content-is-good-for-the-lmsvirtual-learning-space/) sought to apply Wiley's 5Rs Framework to the LMS. The aim here is to explore what might be revealed by applying the Reusability Paradox to the LMS.
 
 The Learning Management System (LMS) is designed to be general. To be reusable across different institutions and people. For example, the Moodle LMS [is described as](https://docs.moodle.org/28/en/About_Moodle)
 
@@ -150,9 +150,9 @@ More recently you can see evidence of the code being written by people to make t
 1. @palbion's [creation of a Greasemonkey script](http://dralb.albion.id.au/?p=4429) last weekend to add important functionality to the Moodle assignment module.
 2. The 10 (so far) Perl scripts I use to manipulate Moodle and other institutional systems to achieve the learning outcomes I want with my course.
     
-    Including those required to implement the [process analytics](/blog2/2015/01/23/adding-some-learning-process-analytics-to-edc3100/) I've added to my course.
+    Including those required to implement the [process analytics](/blog/2015/01/23/adding-some-learning-process-analytics-to-edc3100/) I've added to my course.
     
-3. The work @damoclarky has done to replace a more useful [reporting mechanism for Moodle with MAV](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#mav).
+3. The work @damoclarky has done to replace a more useful [reporting mechanism for Moodle with MAV](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#mav).
 
 At this point, I should strongly point out that **the problem here is not Moodle**. The problem is the implications that the Reusability Paradox has for systems like a LMS that are trying to be reusable across contexts. Almost by definition such systems will have a gap between what they offer and the requirements of the context. Someone or something has to make those connections, and sadly most institutions don't seem to be doing a good job of it.
 
@@ -181,7 +181,7 @@ Of course, learners and teachers won't sit still in this paradox. They won't acc
 
 ### One university and minimum course standards
 
-At the same time, there is a growing trend for institutional management to promulgate ideas such as minimum course standards. Where it is argued that it is better for students and the institution if all course sites look the same and have - at least at some minimum standard - the same functionality. A level of consistency that smacks head long into the Reusability Paradox and causes no end of trouble. Especially for those of us expected to [step backwards](/blog2/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/#standard) to meet the minimal standard.
+At the same time, there is a growing trend for institutional management to promulgate ideas such as minimum course standards. Where it is argued that it is better for students and the institution if all course sites look the same and have - at least at some minimum standard - the same functionality. A level of consistency that smacks head long into the Reusability Paradox and causes no end of trouble. Especially for those of us expected to [step backwards](/blog/2015/01/20/what-might-the-3-levels-of-organisational-culture-reveal-about-university-e-learning/#standard) to meet the minimal standard.
 
 ### Allow and enable for contextual modification of the learning object
 

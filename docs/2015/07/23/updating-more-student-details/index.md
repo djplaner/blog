@@ -6,10 +6,10 @@ categories:
 date: 2015-07-23 12:39:09+10:00
 next:
   text: '"Me as teacher" - the 2015 focus for NGL'
-  url: /blog2/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
+  url: /blog/2015/07/23/me-as-teacher-the-2015-focus-for-ngl/
 previous:
   text: How might a Book module search function work?
-  url: /blog2/2015/07/19/how-might-a-book-module-search-function-work/
+  url: /blog/2015/07/19/how-might-a-book-module-search-function-work/
 title: Updating "more student details"
 type: post
 template: blog-post.html
@@ -50,9 +50,9 @@ pingbacks:
       user_id: '0'
     
 ---
-["More student details"](/blog2/2014/11/13/adding-more-student-information-to-a-moodle-course/) (see image below) is the most visible part of the additional systems I've put in place to make teaching bearable ([this presentation](http://www.usq.edu.au/learning-teaching/USQSalon/JonesAlbion) talks more about it). The problem I'm dealing with here is that a new semester has started, which means I need to re-configure these feral systems to work with the new semester.
+["More student details"](/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/) (see image below) is the most visible part of the additional systems I've put in place to make teaching bearable ([this presentation](http://www.usq.edu.au/learning-teaching/USQSalon/JonesAlbion) talks more about it). The problem I'm dealing with here is that a new semester has started, which means I need to re-configure these feral systems to work with the new semester.
 
-And while I'm at it, I'm hoping I might be able to add [a bit of sentiment analysis](/blog2/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/) to it.
+And while I'm at it, I'm hoping I might be able to add [a bit of sentiment analysis](/blog/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/) to it.
 
 [![MoreStudentDetails](images/18657245938_225d364f57.jpg)](https://www.flickr.com/photos/david_jones/18657245938/in/dateposted-public/ "MoreStudentDetails")
 

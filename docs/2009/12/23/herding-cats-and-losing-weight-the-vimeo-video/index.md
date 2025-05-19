@@ -9,10 +9,10 @@ categories:
 date: 2009-12-23 13:25:40+10:00
 next:
   text: BIM - minor fixes to show student details
-  url: /blog2/2009/12/24/bim-minor-fixes-to-show-student-details/
+  url: /blog/2009/12/24/bim-minor-fixes-to-show-student-details/
 previous:
   text: Shaking up e-learning &quot;design&quot; - little help?
-  url: /blog2/2009/12/23/shaking-up-e-learning-design-little-help/
+  url: /blog/2009/12/23/shaking-up-e-learning-design-little-help/
 title: '"Herding cats and losing weight: the vimeo video"'
 type: post
 template: blog-post.html

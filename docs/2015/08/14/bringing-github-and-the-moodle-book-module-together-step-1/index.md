@@ -6,10 +6,10 @@ categories:
 date: 2015-08-14 17:36:42+10:00
 next:
   text: github and the Moodle book - Step 2
-  url: /blog2/2015/08/16/github-and-the-moodle-book-step-2/
+  url: /blog/2015/08/16/github-and-the-moodle-book-step-2/
 previous:
   text: 'Homogeneity: the inevitable result of a strategic approach?'
-  url: /blog2/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
+  url: /blog/2015/08/14/homogeneity-the-inevitable-result-of-a-strategic-approach/
 title: Bringing github and the Moodle book module together - step 1
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is the first step in actually implementing some of the ideas outlined in [an earlier post](/blog2/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/) about bringing [and the](http://github.com/) [Moodle Book module](https://docs.moodle.org/29/en/Book_module) together. The major steps covered here are
+The following is the first step in actually implementing some of the ideas outlined in [an earlier post](/blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/) about bringing [and the](http://github.com/) [Moodle Book module](https://docs.moodle.org/29/en/Book_module) together. The major steps covered here are
 
 1. Explore the requirements of a book tool.
 2. Name and set up an initial book tool.

@@ -5,15 +5,15 @@ categories:
 date: 2013-04-05 16:46:07+10:00
 next:
   text: An ad hoc exploration ethnographic research
-  url: /blog2/2013/04/07/an-ad-hoc-exploration-ethnographic-research/
+  url: /blog/2013/04/07/an-ad-hoc-exploration-ethnographic-research/
 previous:
   text: Meaningless freedom and auto-marking the learning journals
-  url: /blog2/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
+  url: /blog/2013/04/01/meaningless-freedom-and-auto-marking-the-learning-journals/
 title: Adding bim 2.0 to "CONTRIB"
 type: post
 template: blog-post.html
 ---
-Next step in the development of [bim v2.0](/blog2/research/bam-blog-aggregation-management/) is to start the process of submitting it to [CONTRIB](http://docs.moodle.org/dev/contrib). i.e. essentially getting out officially into the Moodle community.
+Next step in the development of [bim v2.0](/blog/research/bam-blog-aggregation-management/) is to start the process of submitting it to [CONTRIB](http://docs.moodle.org/dev/contrib). i.e. essentially getting out officially into the Moodle community.
 
 The following is my attempt to figure out and record the process for doing this. This was actually started a couple of months ago but then semester started, a bit of breathing space now and I need to catch up on this.
 
@@ -52,7 +52,7 @@ Make sure the code is tested. Here's what I've done to date
 
 - A range of testing while under development.
 - Including some testing of BIM under versions 2.4.1, 2.3.4, 2.2.7 and 1.9.19 of Moodle.
-- Thanks to a bug report from a Russian user of BIM [solved a problem](/blog2/2013/03/03/bim2-and-disable_form_change_checker/) with 2.3.2 version of Moodle.
+- Thanks to a bug report from a Russian user of BIM [solved a problem](/blog/2013/03/03/bim2-and-disable_form_change_checker/) with 2.3.2 version of Moodle.
 - Been using BIM for my current teaching. Not in a full on way but it's getting some testing.
 
 Some more work to do

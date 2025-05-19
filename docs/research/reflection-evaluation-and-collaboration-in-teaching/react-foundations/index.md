@@ -4,16 +4,18 @@ title: REACT Foundations
 type: page
 template: blog-post.html
 ---
-Most institutions of higher education recognise the problem associated with the level of innovation and quality in teaching and learning and most have formulated some sort of response. Many of these responses seem limited, have little effect and often don't address the following issues. [REACT](/blog2/research/reflection-evaluation-and-collaboration-in-teaching/) is based on a foundation drawing on knowledge from a broad array of disciplines. It also has connections with a number of other activities. This page offers a description of some of these foundations and connections.
+Most institutions of higher education recognise the problem associated with the level of innovation and quality in teaching and learning and most have formulated some sort of response. Many of these responses seem limited, have little effect and often don't address the following issues. [REACT](/blog/research/reflection-evaluation-and-collaboration-in-teaching/) is based on a foundation drawing on knowledge from a broad array of disciplines. It also has connections with a number of other activities. This page offers a description of some of these foundations and connections.
 
 REACT's foundations and connections include (but aren't limited to):
 
 - Scholarship of Teaching and Learning
-- Research in Education
-- Design Research
-- Design Patterns
-- Writers' Workshops
-- Communities of Practice
+- Research in education
+- Design research
+- Design patterns
+- Writers workshops
+- Communities of practice
+- Teleological and ateleological processes
+- References
 
 ## Scholarship of Teaching and Learning
 
@@ -29,7 +31,7 @@ The REACT project engages with ideas about the scholarship of learning and teach
 - **Peer review**  
     Provided by REACT's use of a mentor and also its two-stage peer review process.
 
-REACT's 7-step [writing process](process.htm) also resonates strongly with the scholarship of teaching model developed by Trigwell, Martin, Benjamin and Prosser (2000)
+REACT's 7-step writing process also resonates strongly with the scholarship of teaching model developed by Trigwell, Martin, Benjamin and Prosser (2000)
 
 1. being informed about learning and teaching generally and in the teachers' own discipline;
 

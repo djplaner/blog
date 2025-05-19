@@ -5,10 +5,10 @@ categories:
 date: 2012-07-15 11:26:42+10:00
 next:
   text: Is there a link between managerialisation and learning analytics?
-  url: /blog2/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
+  url: /blog/2012/07/15/is-there-a-link-between-managerialisation-and-learning-analytics/
 previous:
   text: Why do (social) networks matter in teaching &#038; learning?
-  url: /blog2/2012/07/07/why-do-social-networks-matter-in-teaching-learning/
+  url: /blog/2012/07/07/why-do-social-networks-matter-in-teaching-learning/
 title: Redesigning the weekly ramble
 type: post
 template: blog-post.html
@@ -156,7 +156,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The reflections on my couple of days at [the PLE Conference](http://pleconf.org) in Melbourne will have to wait a couple of days. Semester starts on Monday and I have some course preparation to engage with. The following is an attempt to capture some thinking about the re-design of the [Weekly Ramble](/blog2/2012/02/19/designing-the-weekly-ramble/)
+The reflections on my couple of days at [the PLE Conference](http://pleconf.org) in Melbourne will have to wait a couple of days. Semester starts on Monday and I have some course preparation to engage with. The following is an attempt to capture some thinking about the re-design of the [Weekly Ramble](/blog/2012/02/19/designing-the-weekly-ramble/)
 
 ### The old ramble
 

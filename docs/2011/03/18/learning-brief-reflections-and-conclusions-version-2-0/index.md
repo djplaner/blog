@@ -5,15 +5,15 @@ categories:
 date: 2011-03-18 10:21:07+10:00
 next:
   text: '"Literacy and Numeracy: Week 3"'
-  url: /blog2/2011/03/20/literacy-and-numeracy-week-3/
+  url: /blog/2011/03/20/literacy-and-numeracy-week-3/
 previous:
   text: 'Reflection and conclusions: Learning brief'
-  url: /blog2/2011/03/15/reflection-and-conclusions-learning-brief/
+  url: /blog/2011/03/15/reflection-and-conclusions-learning-brief/
 title: Learning brief - Reflections and conclusions - version 2.0
 type: post
 template: blog-post.html
 ---
-This is version 2 of an attempt at the [first assignment](/blog2/2011/03/15/reflection-and-conclusions-learning-brief/) for the ICTs for Learning Design course.
+This is version 2 of an attempt at the [first assignment](/blog/2011/03/15/reflection-and-conclusions-learning-brief/) for the ICTs for Learning Design course.
 
 ### Introduction
 
@@ -65,21 +65,21 @@ Develop more effective methods for gathering, evaluating, using, and reflecting 
 
 Davis, B., & Sumara, D. (2002). Constructivist discourses and the field of education: Problems and possibilities. _Educational Theory_, _52_(4), 409-428.
 
-Jones, D. (2011a). Reflection on the profile Wiki: ICTs for Learning Design. Retrieved March 18, 2011, from [/blog2/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/](/blog2/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/).
+Jones, D. (2011a). Reflection on the profile Wiki: ICTs for Learning Design. Retrieved March 18, 2011, from [/blog/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/](/blog/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/).
 
-Jones, D. (2011b). Reflection on the learning theories wiki. Retrieved March 18, 2011, from [/blog2/2011/03/07/reflection-on-the-learning-theories-wiki/](/blog2/2011/03/07/reflection-on-the-learning-theories-wiki/).
+Jones, D. (2011b). Reflection on the learning theories wiki. Retrieved March 18, 2011, from [/blog/2011/03/07/reflection-on-the-learning-theories-wiki/](/blog/2011/03/07/reflection-on-the-learning-theories-wiki/).
 
-Jones, D. (2011c). Reflection on the mobile phones wiki. Retrieved March 18, 2011, from [/blog2/2011/03/08/reflection-on-the-mobile-phones-wiki/](/blog2/2011/03/08/reflection-on-the-mobile-phones-wiki/).
+Jones, D. (2011c). Reflection on the mobile phones wiki. Retrieved March 18, 2011, from [/blog/2011/03/08/reflection-on-the-mobile-phones-wiki/](/blog/2011/03/08/reflection-on-the-mobile-phones-wiki/).
 
-Jones, D. (2011d). ICTs for learning design - the first week. Retrieved March 18, 2011, from [/blog2/2011/02/28/icts-for-learning-design-the-first-week/](/blog2/2011/02/28/icts-for-learning-design-the-first-week/).
+Jones, D. (2011d). ICTs for learning design - the first week. Retrieved March 18, 2011, from [/blog/2011/02/28/icts-for-learning-design-the-first-week/](/blog/2011/02/28/icts-for-learning-design-the-first-week/).
 
-Jones, D. (2011e). ICTs for Learning Design: Week 2. Retrieved March 18, 2011, from [/blog2/2011/03/08/icts-for-learning-design-week-2/](/blog2/2011/03/08/icts-for-learning-design-week-2/).
+Jones, D. (2011e). ICTs for Learning Design: Week 2. Retrieved March 18, 2011, from [/blog/2011/03/08/icts-for-learning-design-week-2/](/blog/2011/03/08/icts-for-learning-design-week-2/).
 
-Jones, D. (2011f). A PMI of constructivism. Retrieved March 18, 2011, from [/blog2/2011/03/03/a-pmi-of-constructivism/](/blog2/2011/03/03/a-pmi-of-constructivism/).
+Jones, D. (2011f). A PMI of constructivism. Retrieved March 18, 2011, from [/blog/2011/03/03/a-pmi-of-constructivism/](/blog/2011/03/03/a-pmi-of-constructivism/).
 
-Jones, D. (2011g). A question (or two) on the similarity of "neuronal" and "networked" knowledge. Retrieved March 18, 2011, from [/blog2/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/](/blog2/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/).
+Jones, D. (2011g). A question (or two) on the similarity of "neuronal" and "networked" knowledge. Retrieved March 18, 2011, from [/blog/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/](/blog/2011/03/05/a-question-or-two-on-the-similarity-of-neuronal-and-networked-knowledge/).
 
-Jones, D. (2011h). Reflection and conclusions: Learning brief. Retrieved March 18, 2011, from [/blog2/2011/03/15/reflection-and-conclusions-learning-brief/](/blog2/2011/03/15/reflection-and-conclusions-learning-brief/).
+Jones, D. (2011h). Reflection and conclusions: Learning brief. Retrieved March 18, 2011, from [/blog/2011/03/15/reflection-and-conclusions-learning-brief/](/blog/2011/03/15/reflection-and-conclusions-learning-brief/).
 
 Kroesbergen, E. H., Van Luit, J. E. H., & Maas, C. J. M. (2004). Effectiveness of Explicit and Constructivist Mathematics Instruction for Low-Achieving Students in the Netherlands. _The Elementary School Journal_, _104_(3), 233–251. JSTOR. Retrieved March 3, 2011, from [http://www.jstor.org/stable/3202951](http://www.jstor.org/stable/3202951).
 

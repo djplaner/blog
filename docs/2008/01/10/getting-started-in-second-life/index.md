@@ -6,10 +6,10 @@ categories:
 date: 2008-01-10 08:50:22+10:00
 next:
   text: Traditional buildings in Second Life - hassle to navigate
-  url: /blog2/2008/01/10/traditional-buildings-in-second-life-hassle-to-navigate/
+  url: /blog/2008/01/10/traditional-buildings-in-second-life-hassle-to-navigate/
 previous:
   text: Why is one not necessarily cheaper than two
-  url: /blog2/2007/12/13/why-is-one-not-necessarily-cheaper-than-two/
+  url: /blog/2007/12/13/why-is-one-not-necessarily-cheaper-than-two/
 tags:
 - secondlife-cddu-web3dx-muve-elearning
 title: Getting started in Second Life

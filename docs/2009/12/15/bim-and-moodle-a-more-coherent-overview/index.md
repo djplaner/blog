@@ -4,10 +4,10 @@ categories:
 date: 2009-12-15 15:53:40+10:00
 next:
   text: BIM - getting student registration working
-  url: /blog2/2009/12/17/bim-getting-student-registration-working/
+  url: /blog/2009/12/17/bim-getting-student-registration-working/
 previous:
   text: Here come the indicators, wait for the task corruption
-  url: /blog2/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/
+  url: /blog/2009/12/15/here-come-the-indicators-wait-for-the-task-corruption/
 tags:
 - moodle
 title: BIM and Moodle development - a more coherent overview found?
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Today has been a fairly frustrating today with a mixture of organisational "stuff" and an increasing level of annoyance at the state of the public documentation around Moodle development slowing down [BIM](/blog2/2009/12/14/getting-back-into-bim-summary-and-way-forward/) development. That state is essentially with stuff all over the place, no coherent path through it and regularly discrepancies between advice from different sources, or sometimes the same. But that's the nature of documentation and open source projects.
+Today has been a fairly frustrating today with a mixture of organisational "stuff" and an increasing level of annoyance at the state of the public documentation around Moodle development slowing down [BIM](/blog/2009/12/14/getting-back-into-bim-summary-and-way-forward/) development. That state is essentially with stuff all over the place, no coherent path through it and regularly discrepancies between advice from different sources, or sometimes the same. But that's the nature of documentation and open source projects.
 
 The one bright spot today has been stumbling over [this book](http://www.packtpub.com/moodle-1-9-extension-development/book) which appears to fill the hole. Even if it is commercial. Having said that, the realease as writing nature of the book and some other aspects (donations to moodle) seems to indicate an enlightened company. On first skim the book looks good. Time will tell. Though, I am guessing that due to the nature of the type of book, complexity of the task and that it's still being written there will be some rough edges (already submitted my first errata), or areas not covered.
 

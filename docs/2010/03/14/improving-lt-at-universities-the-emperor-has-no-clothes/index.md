@@ -2,10 +2,10 @@
 date: 2010-03-14 07:53:21+10:00
 next:
   text: The story of BIM - Origins - blogs and minute papers
-  url: /blog2/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
+  url: /blog/2010/03/15/the-story-of-bim-origins-blogs-and-minute-papers/
 previous:
   text: The conditions for Anna&#039;s phone
-  url: /blog2/2010/03/13/the-conditions-for-annas-phone/
+  url: /blog/2010/03/13/the-conditions-for-annas-phone/
 tags:
 - learning
 - staffdevelopment
@@ -214,7 +214,7 @@ As for the other strategies?
 - New practices, policies etc.  
     While academics see the greatest rewards from research, they will game the system. Policies won't change that.
 - Communities of practice.  
-    I haven't seen research on this, but I've seen what's happened in the local context (so the foundation of this particular argument is fairly weak). Initially the CoP here were based around a particular method or interest (portfolios, active learning, peer learning etc.). That is examples of [Technology I or II and technological gravity](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/). None of these had any demonstrable widespread (approaching 50%) difference.
+    I haven't seen research on this, but I've seen what's happened in the local context (so the foundation of this particular argument is fairly weak). Initially the CoP here were based around a particular method or interest (portfolios, active learning, peer learning etc.). That is examples of [Technology I or II and technological gravity](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/). None of these had any demonstrable widespread (approaching 50%) difference.
     
     The CoP approach has now morped to a focus on heads of program. Ad hoc feedback indicates a much greater engagement. Which is not surprising given that the head of program job is a thankless task and that the incumbents in these positions have a set of common problems. There'll probably be some good work done here.
     
@@ -229,7 +229,7 @@ If you change their day to day experience, you can change what is right and what
 
 This isn't about big bang changes, because they rarely work, are rarely successful and consequently rarely change conceptions. Instead it is about a system that focuses on the day to day experience of the academic and helps make it better. That shows that this day to day experience is important to the university and consequently should be important to the academic. A continual experience of successful change that makes their life easier and improves the quality of teaching and learning in ways that are consistent with teachers conceptions lays the groundwork for on-going change in conceptions.
 
-If universities [continue to focus on the wrong time frame](/blog2/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/), I believe they will continue to fail to make improvements in learning and teaching.
+If universities [continue to focus on the wrong time frame](/blog/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/), I believe they will continue to fail to make improvements in learning and teaching.
 
 Some of the above strategies may be useful, but only after the system has started to successfully focus on the day to day experience of the academic. They'll never be truly useful (in terms of gaining levels of approvment approaching 50% of all teaching) before that focus occurs. Before the focus occurs, the above approaches may well help a small percentage of staff, but they ignore the vast majority. And I feel that this is wrong. Especially when the small percentage success is trumpeted as major achievement while hiding the reality of very, very limited overall change.
 

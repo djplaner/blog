@@ -4,10 +4,10 @@ categories:
 date: 2014-08-15 12:29:19+10:00
 next:
   text: Do not fear perfection, you'll never achieve it
-  url: /blog2/2014/08/17/do-not-fear-perfection-youll-never-achieve-it/
+  url: /blog/2014/08/17/do-not-fear-perfection-youll-never-achieve-it/
 previous:
   text: 'Joining the &quot;swarm&quot;: what a course might be?'
-  url: /blog2/2014/08/15/joining-the-swarm-what-a-course-might-be/
+  url: /blog/2014/08/15/joining-the-swarm-what-a-course-might-be/
 title: Catching up on the NGL participation - part B
 type: post
 template: blog-post.html
@@ -50,7 +50,7 @@ pingbacks:
     []
     
 ---
-So Part B of the [NGL catch up](/blog2/2014/08/12/catching-up-on-the-ngl-participation/). Main focus here will be on the 11 participants blogs I haven't yet caught up on and a to do list to follow up on.
+So Part B of the [NGL catch up](/blog/2014/08/12/catching-up-on-the-ngl-participation/). Main focus here will be on the 11 participants blogs I haven't yet caught up on and a to do list to follow up on.
 
 ## The challenge of now knowing
 

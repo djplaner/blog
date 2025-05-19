@@ -6,11 +6,11 @@ categories:
 date: 2016-02-02 08:49:13+10:00
 next:
   text: Blog for learning. Why? What? How?
-  url: /blog2/2016/02/02/blog-for-learning-why-what-how/
+  url: /blog/2016/02/02/blog-for-learning-why-what-how/
 previous:
   text: 'Mapping the digital practices of teacher educators: Implications for teacher
     education in changing digital landscapes'
-  url: /blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/
+  url: /blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/
 title: What if our digital technologies were protean? Implications for computational
   thinking, learning, and teaching
 type: post
@@ -168,7 +168,7 @@ pingbacks:
 ---
 David Jones, Elke Schneider
 
-To be presented at  [ACCE'2016](http://www.aomevents.com/ACCE2016) and an extension of [Albion et al (2016)](/blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/).
+To be presented at  [ACCE'2016](http://www.aomevents.com/ACCE2016) and an extension of [Albion et al (2016)](/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/).
 
 # Abstract
 

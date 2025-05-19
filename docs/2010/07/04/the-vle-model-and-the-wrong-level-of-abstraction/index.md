@@ -10,10 +10,10 @@ categories:
 date: 2010-07-04 10:24:05+10:00
 next:
   text: McGuffins, learning, teaching and universities
-  url: /blog2/2010/07/04/mcguffins-learning-teaching-and-universities/
+  url: /blog/2010/07/04/mcguffins-learning-teaching-and-universities/
 previous:
   text: Webfuse feature adoption - 1997 through 2009
-  url: /blog2/2010/07/01/webfuse-feature-adoption-1997-through-2009/
+  url: /blog/2010/07/01/webfuse-feature-adoption-1997-through-2009/
 title: The VLE model and the wrong level of abstraction
 type: post
 template: blog-post.html
@@ -58,7 +58,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm currently trying to formalise the information systems design theory for e-learning that is meant to be the contribution of [my thesis](/blog2/research/phd-thesis/). i.e. what is the model, set of principles etc that I think is important.
+I'm currently trying to formalise the information systems design theory for e-learning that is meant to be the contribution of [my thesis](/blog/research/phd-thesis/). i.e. what is the model, set of principles etc that I think is important.
 
 As it happens, I recently came across [this post](http://vle.barkingcollege.ac.uk/techblog/?p=3312) on models around the use of VLEs/LMS from Barking College. It's part of a discussion involving a group of folk ([James Clay](http://elearningstuff.wordpress.com/2010/03/20/a-five-stage-model-for-using-the-vle/), [David Sugden](http://eduvel.wordpress.com/2010/06/09/building-vles/), and [Louise Jakobsen](http://loujak78.wordpress.com/2010/02/19/from_repository_to_interactivity/)) talking about models for getting academics to use the complete functionality of the VLE/LMS.
 
@@ -80,7 +80,7 @@ This low level of abstraction is necessary to enable the broadest possible flexi
 
 ### The CQU eStudyGuides
 
-One example of what I mean here is the [CQU eStudyGuide Moodle block](/blog2/2009/07/28/bam-into-moodle-7-an-estudyguide-block/) I played with last year. Some brief context:
+One example of what I mean here is the [CQU eStudyGuide Moodle block](/blog/2009/07/28/bam-into-moodle-7-an-estudyguide-block/) I played with last year. Some brief context:
 
 - [CQU](http://www.cqu.edu.au/) has a long history of being a print-based distance education provider.
 - A print-based study guide was a standard component of the package of materials traditionally provided to distance education students.
@@ -119,6 +119,6 @@ A greater level of abstraction also removes some flexibility from what the user 
 
 ### Other examples
 
-Providing a high level of abstraction to the VLE is almost certainly going to be a component of my ISDT, of my model. This is exactly what the [default course site](/blog2/2010/06/25/default-course-sites-and-wizards-version-2-0/) approach attempted to do. Provide a much higher level of abstraction on top of the VLE.
+Providing a high level of abstraction to the VLE is almost certainly going to be a component of my ISDT, of my model. This is exactly what the [default course site](/blog/2010/06/25/default-course-sites-and-wizards-version-2-0/) approach attempted to do. Provide a much higher level of abstraction on top of the VLE.
 
 Into the future, it's also a key part of what I'm interested in investigating. I think the addition of a "default course site" approach to Moodle, especially one that increases the level of abstraction but at the same time can be used at multiple institutions, is especially interesting.

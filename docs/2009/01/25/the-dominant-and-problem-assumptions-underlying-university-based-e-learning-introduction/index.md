@@ -8,10 +8,10 @@ categories:
 date: 2009-01-25 13:53:47+10:00
 next:
   text: Some possible reasons why comparison of information systems are broken
-  url: /blog2/2009/01/27/some-possible-reasons-why-comparison-of-information-systems-are-broken/
+  url: /blog/2009/01/27/some-possible-reasons-why-comparison-of-information-systems-are-broken/
 previous:
   text: Somethings that are broken with evaluation of university teaching
-  url: /blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/
+  url: /blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/
 title: '"The "dominant" assumptions underlying university-based e-learning: an introduction"'
 type: post
 template: blog-post.html
@@ -50,7 +50,7 @@ pingbacks:
       user_id: '0'
     
 ---
-As part of working on my [thesis](/blog2/research/phd-thesis/) I'm working on chapter 2. As the traditional literature review one purpose of the chapter is to demonstrate what I know about the topic and to highlight what I think are the flaws or holes in current research and practice that I believe my research will address. The following builds on some initial ideas from a [previous blog post](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) and serves as some practice in formulating my ideas. So it will still be rough. Feel free to suggest improvements, point out problems and disagree.
+As part of working on my [thesis](/blog/research/phd-thesis/) I'm working on chapter 2. As the traditional literature review one purpose of the chapter is to demonstrate what I know about the topic and to highlight what I think are the flaws or holes in current research and practice that I believe my research will address. The following builds on some initial ideas from a [previous blog post](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) and serves as some practice in formulating my ideas. So it will still be rough. Feel free to suggest improvements, point out problems and disagree.
 
 I was going to leap headlong in describing the flaws of university based e-learning that I perceive. However, before getting to those I thought I'd address what I see as the source of these problems - the "dominant assumptions".
 
@@ -66,7 +66,7 @@ This is because of the complexity of the factors to be considered in order to ma
 
 ### Introducting the Ps Framework
 
-The Ps Framework is defined in [this paper](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) (Jones, Vallack and Fitzgerald-Hood, 2008) as
+The Ps Framework is defined in [this paper](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) (Jones, Vallack and Fitzgerald-Hood, 2008) as
 
 > As a descriptive theory, the Ps Framework is proposed as a tool to make some sense of the complex, uncertain and contradictory information surrounding the organisational adoption of educational technology. The seven components of the Ps Framework identify many (any claim to exhaustive coverage would require additional research) of the important factors to be considered in such decisions.
 
@@ -110,7 +110,7 @@ The relationship between the seven components can be explained as starting with 
 
 ## The dominant assumptions
 
-In [the previous post](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) that this one has grown out of I argued near the end that
+In [the previous post](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) that this one has grown out of I argued near the end that
 
 > E-learning in universities generally suffers from bandwagons because the decision makers draw upon a number of dominant assumptions the negative influence what they do.
 

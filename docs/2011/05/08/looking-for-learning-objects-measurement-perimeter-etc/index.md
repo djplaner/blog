@@ -5,10 +5,10 @@ categories:
 date: 2011-05-08 21:47:21+10:00
 next:
   text: Where are all the innovative high school IT/CS classes?
-  url: /blog2/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/
+  url: /blog/2011/05/14/where-are-all-the-innovative-high-school-itcs-classes/
 previous:
   text: Real life, mathematics, partial proportion and race horses
-  url: /blog2/2011/05/07/real-life-mathematics-partial-proportion-and-race-horses/
+  url: /blog/2011/05/07/real-life-mathematics-partial-proportion-and-race-horses/
 title: Looking for "learning objects" measurement, perimeter etc.
 type: post
 template: blog-post.html

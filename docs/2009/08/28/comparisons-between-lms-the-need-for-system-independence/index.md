@@ -9,10 +9,10 @@ categories:
 date: 2009-08-28 15:31:57+10:00
 next:
   text: '"Learning Tools in Higher Education: Products, Characteristics, Procurement"'
-  url: /blog2/2009/08/30/learning-tools-in-higher-education-products-characteristics-procurement/
+  url: /blog/2009/08/30/learning-tools-in-higher-education-products-characteristics-procurement/
 previous:
   text: 'PhD Update #22 - one day active, but some movement'
-  url: /blog2/2009/08/28/phd-update-22-one-day-active-but-some-movement/
+  url: /blog/2009/08/28/phd-update-22-one-day-active-but-some-movement/
 title: Comparisons between LMS - the need for system independence
 type: post
 template: blog-post.html
@@ -70,7 +70,7 @@ The only published approach we're aware of that attempts to make a first step to
 
 > ...This article recommends a model for CMS research that equally considers technical features and research about how people learn.....This model should also ease the process of synthesizing research in CMSs created by different vendors, which contain similar features but label them differently.
 
-I've talked about and used the model previously ([first](/blog2/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/), [second](/blog2/2009/08/07/breadth-of-webfuse-use-1997-through-2009/) and other places). For the purposes of the paper we produced a different representation of the Malikowski et al (2007) model.
+I've talked about and used the model previously ([first](/blog/2009/08/02/evaluation-of-webfuse-course-site-feature-usage-2006-through-2009/), [second](/blog/2009/08/07/breadth-of-webfuse-use-1997-through-2009/) and other places). For the purposes of the paper we produced a different representation of the Malikowski et al (2007) model.
 
 [![Reworked Malikowski model](images/3858116950_aa68b05446_m.jpg)](http://www.flickr.com/photos/david_jones/3858116950/ "Reworked Malikowski model by David T Jones, on Flickr")
 

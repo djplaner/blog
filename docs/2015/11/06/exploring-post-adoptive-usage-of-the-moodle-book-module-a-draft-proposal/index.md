@@ -7,10 +7,10 @@ categories:
 date: 2015-11-06 15:39:36+10:00
 next:
   text: '"Opening up and enhancing #moodle books with GitHub, ePub, etc."'
-  url: /blog2/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/
+  url: /blog/2015/11/30/opening-up-and-enhancing-moodle-books-with-github-epub-etc/
 previous:
   text: Anyone capturing users&#039; post-adoptive behaviours for the LMS? Implications?
-  url: /blog2/2015/10/31/anyone-capturing-users-post-adoptive-behaviours-for-the-lms-implications/
+  url: /blog/2015/10/31/anyone-capturing-users-post-adoptive-behaviours-for-the-lms-implications/
 title: '"Exploring "post adoptive usage" of the #moodle Book module - a draft proposal"'
 type: post
 template: blog-post.html
@@ -57,7 +57,7 @@ There are only two main types of changes made to these systems. First, is upgrad
 It's my suggestion that changes to specific features of a system (e.g. LMS) that would benefit end users are either
 
 1. simply not known about; or, Due to the organisations lack of any ability to understand what people are experiencing and doing with the features of the system.
-2. are [starved of attention](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/). Since these are complex systems. Changing them is expensive. Thus only strategic changes can be made. Changes to fix features used by small subsets of people can never be seen as passing the cost/benefit analysis.
+2. are [starved of attention](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/). Since these are complex systems. Changing them is expensive. Thus only strategic changes can be made. Changes to fix features used by small subsets of people can never be seen as passing the cost/benefit analysis.
 
 I'm interested in developing a rich understanding of the post-adoptive behaviours and experiences of university teachers using digital learning technologies. I'm working on this because I want to identify what is being done with the features of these technologies and understand what is working and what is not. It is hoped that this will reveal something interesting about the ability of universities to manage digital technologies in ways that enable effective utilization and perhaps identify areas for improvement and further exploration.
 
@@ -89,11 +89,11 @@ Appear to be three main methods
 
 1. Interviews; On the plus side, rich data. On the negative side, "expensive" to implement and scale to largish numbers and a large geographic area.
 2. Surveys with largely open-ended questions; or, On the plus side, cheaper, easier to scale to largish numbers and a large geographic area etc. On the negative side, more work on the part of the respondents (having to type their responses) and less ability to follow up on responses and potentially dig deeper.
-3. LMS/system community spaces. An open source LMS like Moodle has openly available community spaces in which users/developers of the system interact. Some of the Moodle features have discussion forums where people using the feature can discuss. [Content analysis](/blog2/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/) of the relevant forum might reveal patterns. The [actual source code](https://github.com/moodle/moodle) for Moodle as well as [plans and discussion](https://tracker.moodle.org/secure/Dashboard.jspa) about the development of Moodle occur in systems that can also be analysed. On the plus side, there is a fair bit of content in these spaces and there are established methods for analysing them. Is there a negative side?
+3. LMS/system community spaces. An open source LMS like Moodle has openly available community spaces in which users/developers of the system interact. Some of the Moodle features have discussion forums where people using the feature can discuss. [Content analysis](/blog/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/) of the relevant forum might reveal patterns. The [actual source code](https://github.com/moodle/moodle) for Moodle as well as [plans and discussion](https://tracker.moodle.org/secure/Dashboard.jspa) about the development of Moodle occur in systems that can also be analysed. On the plus side, there is a fair bit of content in these spaces and there are established methods for analysing them. Is there a negative side?
 
 ### What's currently planned
 
-Which translates into an initial project that is going to examine usage of [the Moodle Book module](https://docs.moodle.org/29/en/Book_module) (Book). This particular feature was chosen because of [this current project](/blog2/the-moodle-open-book-module-project/). If anything interesting comes of this, the next plan is to repeat a similar process for the Moodle Assignment module.
+Which translates into an initial project that is going to examine usage of [the Moodle Book module](https://docs.moodle.org/29/en/Book_module) (Book). This particular feature was chosen because of [this current project](/blog/the-moodle-open-book-module-project/). If anything interesting comes of this, the next plan is to repeat a similar process for the Moodle Assignment module.
 
 Three sources of data to be analysed initially
 

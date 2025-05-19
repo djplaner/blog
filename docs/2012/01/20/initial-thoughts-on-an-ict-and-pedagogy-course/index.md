@@ -4,10 +4,10 @@ categories:
 date: 2012-01-20 15:53:40+10:00
 next:
   text: Reflections on understanding context
-  url: /blog2/2012/01/23/reflections-on-understanding-context/
+  url: /blog/2012/01/23/reflections-on-understanding-context/
 previous:
   text: Teaching computer science considered harmful?
-  url: /blog2/2012/01/11/teaching-computer-science-considered-harmful/
+  url: /blog/2012/01/11/teaching-computer-science-considered-harmful/
 title: Initial thoughts on an ICT and Pedagogy course
 type: post
 template: blog-post.html

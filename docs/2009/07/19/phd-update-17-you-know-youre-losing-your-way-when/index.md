@@ -6,10 +6,10 @@ categories:
 date: 2009-07-19 14:32:50+10:00
 next:
   text: '"BAM into Moodle - Step #2: configuration and questions"'
-  url: /blog2/2009/07/21/bam-into-moodle-step-2-configuration-and-questions/
+  url: /blog/2009/07/21/bam-into-moodle-step-2-configuration-and-questions/
 previous:
   text: Leaders and managers - the next bit of People
-  url: /blog2/2009/07/17/leaders-and-managers-the-next-bit-of-people/
+  url: /blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/
 title: '"PhD update #17 - You know you''re losing your way when...."'
 type: post
 template: blog-post.html
@@ -52,14 +52,14 @@ It's been a fortnight since the last PhD update due to last weekend's personal, 
 
 ### What I've done
 
-In the [last update](/blog2/2009/07/05/phd-update-16-return-from-a-break/) I said I would
+In the [last update](/blog/2009/07/05/phd-update-16-return-from-a-break/) I said I would
 
 - Make as much progress as possible on the People component.
 
 Consequently, I completed two more sections of the people component
 
-- [Academics](/blog2/2009/07/07/academics-the-next-part-of-the-people-section/), and
-- [Management](/blog2/2009/07/17/leaders-and-managers-the-next-bit-of-people/).
+- [Academics](/blog/2009/07/07/academics-the-next-part-of-the-people-section/), and
+- [Management](/blog/2009/07/17/leaders-and-managers-the-next-bit-of-people/).
 
 It was at this stage that the insight struck.
 

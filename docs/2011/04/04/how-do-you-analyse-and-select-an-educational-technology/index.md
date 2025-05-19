@@ -6,10 +6,10 @@ categories:
 date: 2011-04-04 15:07:36+10:00
 next:
   text: Building a collaborative CV09 podcast
-  url: /blog2/2011/04/06/building-a-collaborative-cv09-podcast/
+  url: /blog/2011/04/06/building-a-collaborative-cv09-podcast/
 previous:
   text: Making and using an OPML feed of student blogs
-  url: /blog2/2011/04/04/making-and-using-an-opml-feed-of-student-blogs/
+  url: /blog/2011/04/04/making-and-using-an-opml-feed-of-student-blogs/
 title: How do you analyse and select an educational technology
 type: post
 template: blog-post.html
@@ -70,7 +70,7 @@ For my situation, I'm analysing how well a technology is going to work in a high
 
 ### And here's one I prepared earlier
 
-As it happens, I actually did [prepare one earlier](/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/) (Jones, Jamieson and Clark, 2003). It made such an impression, I only remembered it this morning.
+As it happens, I actually did [prepare one earlier](/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/) (Jones, Jamieson and Clark, 2003). It made such an impression, I only remembered it this morning.
 
 Here's the abstract
 
@@ -88,4 +88,4 @@ Will I use it? Might be overkill.
 
 ### References
 
-Jones, D., Jamieson, K., & Clark, D. (2003). A model for evaluating potential Web-based education innovations. Hawaii International Conference on System Sciences (pp. 154-161). Hawaii: IEEE. Retrieved from /blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/.
+Jones, D., Jamieson, K., & Clark, D. (2003). A model for evaluating potential Web-based education innovations. Hawaii International Conference on System Sciences (pp. 154-161). Hawaii: IEEE. Retrieved from /blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/.

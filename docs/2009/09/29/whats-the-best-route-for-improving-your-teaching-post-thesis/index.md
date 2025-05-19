@@ -2,10 +2,10 @@
 date: 2009-09-29 13:45:03+10:00
 next:
   text: Teaching, academic staff development, mastery and separation
-  url: /blog2/2009/09/30/teaching-academic-staff-development-mastery-and-separation/
+  url: /blog/2009/09/30/teaching-academic-staff-development-mastery-and-separation/
 previous:
   text: 'e&#038;i report #4 - 15th to 29th September, 2009'
-  url: /blog2/2009/09/29/ei-report-4-15th-to-29th-september-2009/
+  url: /blog/2009/09/29/ei-report-4-15th-to-29th-september-2009/
 title: What's the best route for improving your teaching (post-thesis)?
 type: post
 template: blog-post.html

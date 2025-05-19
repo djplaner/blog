@@ -74,7 +74,7 @@ pingbacks:
     []
     
 ---
-This page acts as a repository for frequently asked questions for the [Blog Aggregation Management (BAM) project](/blog2/research/bam-blog-aggregation-management/).
+This page acts as a repository for frequently asked questions for the [Blog Aggregation Management (BAM) project](/blog/research/bam-blog-aggregation-management/).
 
 A similar resource for BIM, is starting to grow on [BIM's github site](http://wiki.github.com/djplaner/BIM/)
 

@@ -5,15 +5,15 @@ date: 2014-11-05 11:12:45+10:00
 next:
   text: '"Established versus Affordances: part of the reason institutional e-learning
     is like teenage sex"'
-  url: /blog2/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
+  url: /blog/2014/11/07/established-versus-affordances-part-of-the-reason-institutional-e-learning-is-like-teenage-sex/
 previous:
   text: Fixing one part of the peoplesoft gradebook
-  url: /blog2/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/
+  url: /blog/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/
 title: Some more tweaks to gradebook
 type: post
 template: blog-post.html
 ---
-This is a development log of a few additions to the [recent fixes to the Peoplesoft gradebook](/blog2/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/). The following documents attempts to implement the following
+This is a development log of a few additions to the [recent fixes to the Peoplesoft gradebook](/blog/2014/10/14/fixing-one-part-of-the-peoplesoft-gradebook/). The following documents attempts to implement the following
 
 1. **Highlight students in the supp range** DONE Students with a mark between 44.5 and 49.5 need the grade to be set to IM and a note inserted.
 2. **PE overrides** DONE Courses with a professional experience component need to have the default FNC over-ridden when they don't have a PE mark yet. And a comment also needs inserting.

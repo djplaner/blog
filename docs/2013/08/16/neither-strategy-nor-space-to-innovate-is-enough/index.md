@@ -4,10 +4,10 @@ categories:
 date: 2013-08-16 15:32:43+10:00
 next:
   text: The network challenge to the LMS mindset
-  url: /blog2/2013/08/29/the-network-challenge-to-the-lms-mindset/
+  url: /blog/2013/08/29/the-network-challenge-to-the-lms-mindset/
 previous:
   text: Aligning learning analytics with learning design
-  url: /blog2/2013/08/14/aligning-learning-analytics-with-learning-design/
+  url: /blog/2013/08/14/aligning-learning-analytics-with-learning-design/
 title: Neither strategy nor "space" to innovate is enough
 type: post
 template: blog-post.html
@@ -73,7 +73,7 @@ pingbacks:
     []
     
 ---
-Read [this piece](http://www.edtechmagazine.com/higher/article/2013/08/why-cios-it-and-faculty-need-find-common-ground-technology) - Why CIO's, IT and Faculty need to find common ground on technology - by David Wiley yesterday as it did the rounds. The article argues that the focus of the CIO/IT on highly reliable systems is a mismatch for the needs of innovation in learning and teaching. It brings up the tension between standard systems and rogue systems (aka [shadow systems](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/)). The solution to this is a space - a policy space - that enables innovation.
+Read [this piece](http://www.edtechmagazine.com/higher/article/2013/08/why-cios-it-and-faculty-need-find-common-ground-technology) - Why CIO's, IT and Faculty need to find common ground on technology - by David Wiley yesterday as it did the rounds. The article argues that the focus of the CIO/IT on highly reliable systems is a mismatch for the needs of innovation in learning and teaching. It brings up the tension between standard systems and rogue systems (aka [shadow systems](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/)). The solution to this is a space - a policy space - that enables innovation.
 
 In general, I am sympathetic to this argument, but I also don't think it truly captures what is required for innovation in contemporary learning and teaching.
 
@@ -83,4 +83,4 @@ I'm not convinced that either side has found the solution.
 
 The idea that strategic thinking by a CIO will result in innovation in learning and teaching is, based on the literature and research I've seen, essentially wrong. That's not where innovation originates. There are a variety of reasons, but one of the main ones is that being strategic inevitably leads to large scale projects and projects are based on incorrect understanding of the world. [This essay](http://www.vergilden.com/essays/2013/5/31/the-seemingly-peculiar-property-of-projects.html) - The seemingly peculiar property of projects - explains these problems and offers the solution - Tinkering.
 
-And tinkering is where the "space" for innovation faces a challenge. I haven't gotten to the stage of abstract principles, so instead I'll talk about specifics. I'm currently using [BIM](/blog2/research/bam-blog-aggregation-management/) in my teaching. To tinker with BIM while I'm using it, BIM needs to both have access to the institutional data/systems and yet be in a space where I can play. Without the institutional data I can't use it effectively within the rest of the organisation. But without the space to play, I can't tinker. There's more, but taxi duty awaits.
+And tinkering is where the "space" for innovation faces a challenge. I haven't gotten to the stage of abstract principles, so instead I'll talk about specifics. I'm currently using [BIM](/blog/research/bam-blog-aggregation-management/) in my teaching. To tinker with BIM while I'm using it, BIM needs to both have access to the institutional data/systems and yet be in a space where I can play. Without the institutional data I can't use it effectively within the rest of the organisation. But without the space to play, I can't tinker. There's more, but taxi duty awaits.

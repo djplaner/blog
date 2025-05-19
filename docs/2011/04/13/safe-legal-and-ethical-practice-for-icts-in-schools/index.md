@@ -5,10 +5,10 @@ categories:
 date: 2011-04-13 10:54:31+10:00
 next:
   text: Analysis of digital technologies
-  url: /blog2/2011/04/15/analysis-of-digital-technologies/
+  url: /blog/2011/04/15/analysis-of-digital-technologies/
 previous:
   text: Exploring minecraft
-  url: /blog2/2011/04/12/exploring-minecraft/
+  url: /blog/2011/04/12/exploring-minecraft/
 title: Safe, legal and ethical practice for ICTs in schools
 type: post
 template: blog-post.html

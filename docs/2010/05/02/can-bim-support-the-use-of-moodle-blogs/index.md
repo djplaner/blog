@@ -4,10 +4,10 @@ categories:
 date: 2010-05-02 16:56:18+10:00
 next:
   text: Leadership as appreciating resistance
-  url: /blog2/2010/05/03/leadership-as-appreciating-resistance/
+  url: /blog/2010/05/03/leadership-as-appreciating-resistance/
 previous:
   text: Adding &quot;deleted&quot; to BIM
-  url: /blog2/2010/04/30/adding-deleted-to-bim/
+  url: /blog/2010/04/30/adding-deleted-to-bim/
 title: Can BIM support the use of Moodle blogs?
 type: post
 template: blog-post.html
@@ -71,7 +71,7 @@ pingbacks:
 ---
 ### Problem
 
-[BIM](/blog2/research/bam-blog-aggregation-management/) is a Moodle activity module that helps academic staff manage the use of individual student blogs, where those blogs are hosted on the students' choice of blog service (e.g. Wordpress.com etc.). An in-built assumption/limitation in how BIM works is that each student's blog must be open to the world. If access to the blog is restricted, BIM can't mirror it.
+[BIM](/blog/research/bam-blog-aggregation-management/) is a Moodle activity module that helps academic staff manage the use of individual student blogs, where those blogs are hosted on the students' choice of blog service (e.g. Wordpress.com etc.). An in-built assumption/limitation in how BIM works is that each student's blog must be open to the world. If access to the blog is restricted, BIM can't mirror it.
 
 For many folk this is not a problem. However, there are occasions where teaching staff want students to use individual blogs, but what the students post should be kept private, to some extent.
 

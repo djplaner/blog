@@ -11,10 +11,10 @@ categories:
 date: 2010-08-30 21:51:37+10:00
 next:
   text: Scaffolding, context-sensitive conglomerations in e-learning systems
-  url: /blog2/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/
+  url: /blog/2010/09/03/scaffolding-context-sensitive-conglomerations-in-e-learning-systems/
 previous:
   text: The rider, elephant, and shaping the path
-  url: /blog2/2010/08/30/rider-elephant-path/
+  url: /blog/2010/08/30/rider-elephant-path/
 title: Situated shared practice, curriculum design and academic development
 type: post
 template: blog-post.html
@@ -118,7 +118,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Am currently reading Faegri et al (2010) as part of developing the justificatory knowledge for the final ISDT for e-learning that is meant to be the contribution of [the thesis](/blog2/research/phd-thesis/). The principle from the ISDT that this paper connects with is the idea of a "Multi-skilled, integrated development and support team" (the name is a work in progress). The following is simply a placeholder for a quote from the paper and a brief connection with the ISDT and what I think it means for curriculum design and academic development.
+Am currently reading Faegri et al (2010) as part of developing the justificatory knowledge for the final ISDT for e-learning that is meant to be the contribution of [the thesis](/blog/research/phd-thesis/). The principle from the ISDT that this paper connects with is the idea of a "Multi-skilled, integrated development and support team" (the name is a work in progress). The following is simply a placeholder for a quote from the paper and a brief connection with the ISDT and what I think it means for curriculum design and academic development.
 
 ### The quote
 

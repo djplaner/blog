@@ -7,17 +7,17 @@ categories:
 date: 2009-07-31 11:51:19+10:00
 next:
   text: Thinking about evaluating Webfuse (1996 through 1999) - evaluation of an LMS?
-  url: /blog2/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/
+  url: /blog/2009/07/31/thinking-about-evaluating-webfuse-1996-through-1999-evaluation-of-an-lms/
 previous:
   text: 'BAM into Moodle #9 - a working eStudyGuide block?'
-  url: /blog2/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/
+  url: /blog/2009/07/30/bam-into-moodle-9-a-working-estudyguide-block/
 tags:
 - vle
 title: Gaps, shadow systems and the VLE/LMS
 type: post
 template: blog-post.html
 ---
-One of my continuing "rants" that long-time readers of this blog will be familiar with is the lack of fit between enterprise systems and what people want to do with them. I've [blogged about this with enterprise systems](/blog2/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/), learned to [live and thrive](/blog2/publications/how-to-live-with-erp-systems-and-thrive/) in spite of that gap and [drawn some lessons from it](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/) for enterprise systems.
+One of my continuing "rants" that long-time readers of this blog will be familiar with is the lack of fit between enterprise systems and what people want to do with them. I've [blogged about this with enterprise systems](/blog/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/), learned to [live and thrive](/blog/publications/how-to-live-with-erp-systems-and-thrive/) in spite of that gap and [drawn some lessons from it](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/) for enterprise systems.
 
 It's even become a bit of a family activity with my wife's Masters research being aimed at attempting to explain the most common response to the lack of fit between people's requirements and the enterprise systems put in place to fulfill them - shadow systems. The following image is of the model that arose out of Sandy's work (Behrens and Sedera, 2004).
 
@@ -36,7 +36,7 @@ My current institution is in the process of adopting [Moodle](http://moodle.org/
 - How will the organisation respond?  
     The traditional, almost reactionary, response from organisations is that shadow systems are evil and need to be stamped out. That is, if the organisation even becomes aware of them.
 - What are more appropriate ways for the organisation to respond?  
-    Some colleagues and I have [made suggestions previously](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/).
+    Some colleagues and I have [made suggestions previously](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/).
 - Where will the gaps arise?
 
 ### Where will the gaps arise? An example.
@@ -72,7 +72,7 @@ Lastly, those people that have the knowledge and time (a very small minority) wi
 
 Well, there's probably quite a few interesting little research projects and publications in keeping a close eye on how this rolls out. What are the gaps that people face?
 
-Even more interesting would be putting in processes and resources that would enable people to effectively respond to these gaps. And this doesn't mean using the [traditional process](/blog2/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/) for requirements gathering with enterprise systems.
+Even more interesting would be putting in processes and resources that would enable people to effectively respond to these gaps. And this doesn't mean using the [traditional process](/blog/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/) for requirements gathering with enterprise systems.
 
 ### References
 

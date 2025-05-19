@@ -4,10 +4,10 @@ categories:
 date: 2014-07-07 15:42:54+10:00
 next:
   text: Next step for NGL
-  url: /blog2/2014/07/19/next-step-for-ngl/
+  url: /blog/2014/07/19/next-step-for-ngl/
 previous:
   text: Tracking task corruption with Moodle activity completion
-  url: /blog2/2014/06/14/tracking-task-corruption-with-moodle-activity-completion/
+  url: /blog/2014/06/14/tracking-task-corruption-with-moodle-activity-completion/
 title: Designing a course on "Networked and Global Learning" - scope, thoughts and
   call for suggestions
 type: post

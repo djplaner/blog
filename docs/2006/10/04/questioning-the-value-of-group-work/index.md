@@ -2,10 +2,10 @@
 date: 2006-10-04 21:21:07+10:00
 next:
   text: When will enterprises truly embrace Enterprise 2.0 applications?
-  url: /blog2/2006/10/10/when-will-enterprises-truly-embrace-enterprise-20-applications/
+  url: /blog/2006/10/10/when-will-enterprises-truly-embrace-enterprise-20-applications/
 previous:
   text: A limitation of the Wefuse implementation
-  url: /blog2/2006/10/03/a-limitation-of-the-wefuse-implementation/
+  url: /blog/2006/10/03/a-limitation-of-the-wefuse-implementation/
 title: Questioning the value of group work
 type: post
 template: blog-post.html

@@ -4,11 +4,11 @@ categories:
 date: 2014-12-16 15:34:43+10:00
 next:
   text: Can I roll my own federated wiki? (not yet)
-  url: /blog2/2014/12/18/can-i-roll-my-own-federated-wiki-not-yet/
+  url: /blog/2014/12/18/can-i-roll-my-own-federated-wiki-not-yet/
 previous:
   text: '&quot;What is&quot; and &quot;what might be&quot; - evidence of a problem
     with institutional e-learning?'
-  url: /blog2/2014/12/15/what-is-and-what-might-be-evidence-of-a-problem-with-institutional-e-learning/
+  url: /blog/2014/12/15/what-is-and-what-might-be-evidence-of-a-problem-with-institutional-e-learning/
 tags:
 - fedwiki
 title: '"Initial steps with the #FedWikiHappening happening"'

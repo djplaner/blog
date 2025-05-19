@@ -6,10 +6,10 @@ date: 2015-07-18 15:53:46+10:00
 next:
   text: '"Predicting System Success using the Technology Acceptance Model: A Case
     Study"'
-  url: /blog2/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/
+  url: /blog/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/
 previous:
   text: 'Me as learner: 2015 and learning analytics'
-  url: /blog2/2015/07/16/me-as-learner-2015-and-learning-analytics/
+  url: /blog/2015/07/16/me-as-learner-2015-and-learning-analytics/
 title: '"Import and the Book module: a case of knowledge loss?"'
 type: post
 template: blog-post.html
@@ -52,7 +52,7 @@ Costello (2014) points out that the "perception that Moodle is easier for instit
 
 ### The import problem
 
-As outlined in [this post](/blog2/2015/02/10/how-to-help-improve-the-moodle-book-module/) I had a problem with the [Moodle Book module](https://docs.moodle.org/28/en/Book_module) and its import functionality. A problem illustrated by the following image. In short, the import functionality allows you to provide a zip file containing multiple HTML files. The import should unpack that zip file and place each of the HTML files into the book as separate chapters.
+As outlined in [this post](/blog/2015/02/10/how-to-help-improve-the-moodle-book-module/) I had a problem with the [Moodle Book module](https://docs.moodle.org/28/en/Book_module) and its import functionality. A problem illustrated by the following image. In short, the import functionality allows you to provide a zip file containing multiple HTML files. The import should unpack that zip file and place each of the HTML files into the book as separate chapters.
 
 [![Problem with Moodle book import](images/19397517716_5a80851d0f.jpg)](https://www.flickr.com/photos/david_jones/19397517716/in/dateposted-public/ "Problem with Moodle book import")
 
@@ -124,7 +124,7 @@ A lot of that time has been spent learning or re-learning knowledge about how to
 
 For an individual (or organisation) to get their head around all that requires quite a large investment of resources/knowledge. Moodle core have the technical knowledge down pat and are adding more developers, but what about the knowledge of the user experience? They are also taking steps in that direction, but that in itself is going to generate a need for more resources.
 
-Leading to questions of prioritisation, which inevitably leads to [the problem of stavation](/blog2/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/).
+Leading to questions of prioritisation, which inevitably leads to [the problem of stavation](/blog/2015/06/16/types-of-e-learning-projects-and-the-problem-of-starvation/).
 
 Has me wondering if it's time (and possible) to add another layer of abstraction here. Is something like Moodle at too low a level of technical abstraction?
 

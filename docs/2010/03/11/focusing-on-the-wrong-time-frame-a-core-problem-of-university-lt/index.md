@@ -9,10 +9,10 @@ categories:
 date: 2010-03-11 10:04:21+10:00
 next:
   text: Different perspectives on the purpose of the LMS
-  url: /blog2/2010/03/12/different-perspectives-on-the-purpose-of-the-lms/
+  url: /blog/2010/03/12/different-perspectives-on-the-purpose-of-the-lms/
 previous:
   text: Webfuse is dead! Long live Webfuse!
-  url: /blog2/2010/03/10/webfuse-is-dead-long-live-webfuse/
+  url: /blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
 title: '"Focusing on the wrong time frame - a core problem of university L&#038;T?"'
 type: post
 template: blog-post.html
@@ -55,6 +55,6 @@ That disconnect means that:
 
 ### One solution
 
-Engaging with the problems of the day to day experience is what [Webfuse](/blog2/2010/03/10/webfuse-is-dead-long-live-webfuse/) did at its best.
+Engaging with the problems of the day to day experience is what [Webfuse](/blog/2010/03/10/webfuse-is-dead-long-live-webfuse/) did at its best.
 
 It's an approach that focused on improving the quantity and quality of the connections around the day to day experience of teaching and learning. And this is what [learning is all about.](http://www.connectivism.ca/?p=234)

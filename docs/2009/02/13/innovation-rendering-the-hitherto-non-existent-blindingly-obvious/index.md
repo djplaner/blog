@@ -6,11 +6,11 @@ date: 2009-02-13 14:48:33+10:00
 next:
   text: '"Alternatives for the institutional implementation of e-learning: Lessons
     from 12 years of  Webfuse"'
-  url: /blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/
+  url: /blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/
 previous:
   text: The emperor has no clothes - why is the learning and teaching peformance fund
     naked
-  url: /blog2/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/
+  url: /blog/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/
 title: Innovation - rendering the hitherto non-existent blindingly obvious
 type: post
 template: blog-post.html

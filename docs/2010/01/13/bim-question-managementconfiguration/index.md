@@ -4,10 +4,10 @@ categories:
 date: 2010-01-13 21:57:08+10:00
 next:
   text: BIM - Manage Marking
-  url: /blog2/2010/01/17/bim-manage-marking/
+  url: /blog/2010/01/17/bim-manage-marking/
 previous:
   text: Another idea for research project arising from the indicators project
-  url: /blog2/2010/01/12/another-idea-for-research-project-arising-from-the-indicators-project/
+  url: /blog/2010/01/12/another-idea-for-research-project-arising-from-the-indicators-project/
 title: BIM - question management/configuration
 type: post
 template: blog-post.html

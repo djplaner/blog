@@ -5,10 +5,10 @@ categories:
 date: 2011-03-02 21:57:04+10:00
 next:
   text: A PMI of constructivism
-  url: /blog2/2011/03/03/a-pmi-of-constructivism/
+  url: /blog/2011/03/03/a-pmi-of-constructivism/
 previous:
   text: ICTs for learning design - the first week
-  url: /blog2/2011/02/28/icts-for-learning-design-the-first-week/
+  url: /blog/2011/02/28/icts-for-learning-design-the-first-week/
 title: The dissonance between the constructivist paradigm and the implementation of
   institutional e-learning
 type: post
@@ -36,7 +36,7 @@ This post is sparked by a combination of recent personal experience and recent d
 
 It's my argument that there exists a dissonance between the philosophical underpinnings expected of good teaching and learning and the philosophical underpinnings of how universities attempt to encourage and enable good teaching and learning, especially in e-learning. In terms of e-learning, I'm going to argue that this dissonance is enhanced by the lack of flexibility inherent in the tools, policies, and procedures being used to implement it.
 
-This is a first attempt (and not a great one - to many diversions) to make this argument in this form, but it certainly has strong resonances with a lot of my earlier posts and the work in [my thesis](/blog2/research/phd-thesis/) (which I'd argue describes an attempt to significantly reduce this dissonance).
+This is a first attempt (and not a great one - to many diversions) to make this argument in this form, but it certainly has strong resonances with a lot of my earlier posts and the work in [my thesis](/blog/research/phd-thesis/) (which I'd argue describes an attempt to significantly reduce this dissonance).
 
 ### What am I talking about
 
@@ -108,11 +108,11 @@ Assumption #6 of a constructivist classroom
 
 Replace teacher with some of the following terms and ask yourself if the focus is on interaction and negotiation: Moodle, Mahara, the Information Technology Division, university policies, and perspectives of senior management.
 
-As I've argued before, the nature of a technology like an LMS (an enterprise information system) and the governance and support processes used to implement that technology within an institution are directly the opposite of interaction and negotiation. The aim of the helpdesk for an LMS is primarily focused on helping people use what is already inherent in the LMS, not on negotiating about how the LMS works or the services it provides. That's a completely [different set of processes](/blog2/2007/06/08/governance-e-learning-and-learning-design/) that is overly teleological and can really only ever [engage in interaction and negotiations at the strategic level](/blog2/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/). There's much more to say here, but for another time.
+As I've argued before, the nature of a technology like an LMS (an enterprise information system) and the governance and support processes used to implement that technology within an institution are directly the opposite of interaction and negotiation. The aim of the helpdesk for an LMS is primarily focused on helping people use what is already inherent in the LMS, not on negotiating about how the LMS works or the services it provides. That's a completely [different set of processes](/blog/2007/06/08/governance-e-learning-and-learning-design/) that is overly teleological and can really only ever [engage in interaction and negotiations at the strategic level](/blog/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/). There's much more to say here, but for another time.
 
 ### The broader issues
 
-These limitations move beyond the LMS and e-learning and extend to learning and teaching. For all the typical reasons associated with globalisation and other factors, universities are increasingly being managed as businesses. i.e. a techno-rational perspective of management dominantes. Here's a quick summary of "techno-rational" from [part of my thesis](/blog2/2009/08/16/people-cognition-rationality-and-e-learning/)
+These limitations move beyond the LMS and e-learning and extend to learning and teaching. For all the typical reasons associated with globalisation and other factors, universities are increasingly being managed as businesses. i.e. a techno-rational perspective of management dominantes. Here's a quick summary of "techno-rational" from [part of my thesis](/blog/2009/08/16/people-cognition-rationality-and-e-learning/)
 
 > A techno-rational discourse seeks the use of quantitative data and measurement to ensure accountability (Kappler 2004). Enterprise systems are an extreme application of a techno-rational perspective (Dillard and Yuthas 2006). A techno-rational approach to management sees it as a scientifically rational and efficient application of neutral knowledge on a par with the natural sciences (Morgan 1992). It is a school of through aimed at marginalizing the role of intuitive thinking through the use of analytical tools and technical solutions (Vanharanta and Easton 2009).
 
@@ -124,8 +124,8 @@ It's this techno-rational view that sees academics as inter-changeable parts of 
 
 Hence, it is no surprise to me that there is a gap between what academics understand and what the experts expect. The academics are working in a system that doesn't encourage nor enable them to learn. Those that do, do it in spite of the system, not because of it.
 
-So, how do you change this. Well, chapter 5 of <a href="[my thesis](/blog2/research/phd-thesis/) outlines one approach. It's not **the** solution, but then that's the point of a constructivist perspective.
+So, how do you change this. Well, chapter 5 of <a href="[my thesis](/blog/research/phd-thesis/) outlines one approach. It's not **the** solution, but then that's the point of a constructivist perspective.
 
 ### On learning theory paradigms
 
-I should point out that I'd probably claim to be leaning more towards connectivism as a learning theory/paradigm and I would probably describe the theory for e-learning implementation in my thesis as arising from that paradigm, rather than constructivism. But constructivism is what I was reading today and had a pointer to the resource. In addition, [earlier this week](/blog2/2011/02/28/thoughts-and-applications-of-connectivism/) I explained how I thought - that from a certain point of view - there are some connections between the two.
+I should point out that I'd probably claim to be leaning more towards connectivism as a learning theory/paradigm and I would probably describe the theory for e-learning implementation in my thesis as arising from that paradigm, rather than constructivism. But constructivism is what I was reading today and had a pointer to the resource. In addition, [earlier this week](/blog/2011/02/28/thoughts-and-applications-of-connectivism/) I explained how I thought - that from a certain point of view - there are some connections between the two.

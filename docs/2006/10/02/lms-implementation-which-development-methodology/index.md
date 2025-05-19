@@ -4,10 +4,10 @@ categories:
 date: 2006-10-02 14:26:41+10:00
 next:
   text: Enterprises - do they need to "let go"?
-  url: /blog2/2006/10/03/enterprises-do-they-need-to-let-go/
+  url: /blog/2006/10/03/enterprises-do-they-need-to-let-go/
 previous:
   text: Everything old is new again - working around copy detection
-  url: /blog2/2006/10/02/everything-old-is-new-again-working-around-copy-detection/
+  url: /blog/2006/10/02/everything-old-is-new-again-working-around-copy-detection/
 title: LMS implementation - which development methodology
 type: post
 template: blog-post.html

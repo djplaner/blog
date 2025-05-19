@@ -5,10 +5,10 @@ date: 2010-02-01 14:38:13+10:00
 next:
   text: '"Loosing weight, nudging and changing the L&#038;T environment - early foundations
     of my work"'
-  url: /blog2/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
+  url: /blog/2010/02/03/loosing-weight-nudging-and-changing-the-lt-environment-early-foundations-of-my-work/
 previous:
   text: Week 10 - don&#039;t know why I&#039;m testing ignore
-  url: /blog2/2010/02/01/week-10-dont-know-why-im-testing-ignore/
+  url: /blog/2010/02/01/week-10-dont-know-why-im-testing-ignore/
 title: '"BIM - Tidy up #3"'
 type: post
 template: blog-post.html

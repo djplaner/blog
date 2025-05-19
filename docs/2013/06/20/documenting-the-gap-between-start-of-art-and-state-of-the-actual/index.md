@@ -9,10 +9,10 @@ categories:
 date: 2013-06-20 11:33:17+10:00
 next:
   text: Identifying and filling some TPACK holes
-  url: /blog2/2013/07/02/identifying-and-filling-some-tpack-holes/
+  url: /blog/2013/07/02/identifying-and-filling-some-tpack-holes/
 previous:
   text: Comparing Automatically Detected Reflective Texts with Human Judgements
-  url: /blog2/2013/06/19/comparing-automatically-detected-reflective-texts-with-human-judgements/
+  url: /blog/2013/06/19/comparing-automatically-detected-reflective-texts-with-human-judgements/
 title: Documenting the gap between "start of art" and "state of the actual"
 type: post
 template: blog-post.html

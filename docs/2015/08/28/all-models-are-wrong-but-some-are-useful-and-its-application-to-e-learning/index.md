@@ -6,10 +6,10 @@ categories:
 date: 2015-08-28 09:03:40+10:00
 next:
   text: It's not how bad you start, but how quickly you get better
-  url: /blog2/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
+  url: /blog/2015/09/03/its-not-how-bad-you-start-but-how-quickly-you-get-better/
 previous:
   text: Refining a visualisation
-  url: /blog2/2015/08/21/refining-a-visualisation/
+  url: /blog/2015/08/21/refining-a-visualisation/
 title: All models are wrong, but some are useful and its application to e-learning
 type: post
 template: blog-post.html
@@ -357,14 +357,14 @@ But a new model can never be **"the"** solution. Especially as the size of the i
 
 This is my 25th year working in Universities. I've spent my entire 25 years identifying and fixing the problems that exist with whatever model the institution has used. Almost my entire research career has been built around this. A selection of the titles from my publications illustrates the point
 
-1. [Computing by Distance Education: Problems and Solutions](/blog2/publications/computing-by-distance-education-problems-and-solutions/)
-2. [Solving some problems of University Education: A Case Study](/blog2/publications/solving-some-problems-of-university-education-a-case-study/)
-3. [Solving some problems with University Education: Part II](/blog2/publications/solving-some-problems-with-university-education-part-ii/)
-4. [How to live with ERP systems and thrive](/blog2/publications/how-to-live-with-erp-systems-and-thrive/).
-5. [The rise and fall of a shadow system: Lessons for Enterprise System Implementation](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/)
-6. [Limits in developing innovative pedagogy with Moodle: The story of BIM](/blog2/publications/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/)
-7. [The life and death of Webfuse: principles for learning and learning into the future](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/)
-8. [Breaking BAD to bridge the reality/rhetoric chasm](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/).
+1. [Computing by Distance Education: Problems and Solutions](/blog/publications/computing-by-distance-education-problems-and-solutions/)
+2. [Solving some problems of University Education: A Case Study](/blog/publications/solving-some-problems-of-university-education-a-case-study/)
+3. [Solving some problems with University Education: Part II](/blog/publications/solving-some-problems-with-university-education-part-ii/)
+4. [How to live with ERP systems and thrive](/blog/publications/how-to-live-with-erp-systems-and-thrive/).
+5. [The rise and fall of a shadow system: Lessons for Enterprise System Implementation](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/)
+6. [Limits in developing innovative pedagogy with Moodle: The story of BIM](/blog/publications/limits-in-developing-innovative-pedagogy-with-moodle-the-story-of-bim/)
+7. [The life and death of Webfuse: principles for learning and learning into the future](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/)
+8. [Breaking BAD to bridge the reality/rhetoric chasm](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/).
 
 And I'm not alone. Scratch the surface at any University and you will find numerous examples of individual or small groups of academics identifying and fixing problems with whatever models the institutions has adopted. e.g. A workshop at [CSU](http://www.csu.edu.au) earlier this year included academics from CSU presenting a raft of systems they've had to develop to solve problems with the institutional models.
 
@@ -412,7 +412,7 @@ For me this means, stop focusing on your new model of the ideal future. e.g. If 
 
 This doesn't mean doing away with strategic projects, it just means scaling them back a bit and focusing more on helping all the members of the organisation learn more about the unique collection of model mixtures that work best in the multitude of contexts that make up the organisation.
 
-My suggestion is that there needs to be a more fruitful combination of [the BAD and SET frameworks](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) and a particular focus on developing [the organisation's distributed capacity to develop it's TPACK](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/).
+My suggestion is that there needs to be a more fruitful combination of [the BAD and SET frameworks](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) and a particular focus on developing [the organisation's distributed capacity to develop it's TPACK](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/).
 
 ## References
 

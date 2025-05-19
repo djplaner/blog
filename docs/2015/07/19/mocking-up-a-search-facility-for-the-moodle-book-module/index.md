@@ -4,17 +4,17 @@ categories:
 date: 2015-07-19 15:07:22+10:00
 next:
   text: How might a Book module search function work?
-  url: /blog2/2015/07/19/how-might-a-book-module-search-function-work/
+  url: /blog/2015/07/19/how-might-a-book-module-search-function-work/
 previous:
   text: 'Predicting System Success using the Technology Acceptance Model: A Case Study'
-  url: /blog2/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/
+  url: /blog/2015/07/19/predicting-system-success-using-the-technology-acceptance-model-a-case-study/
 tags:
 - moodle
 title: Mocking up a search facility for the Moodle book module
 type: post
 template: blog-post.html
 ---
-Time to start generating a mock up of one of the itches identified in [this presentation](http://www.slideshare.net/davidj/can-the-book-module-be-open-and-other-enhancements-what-would-you-like-to-see) and from the [Moodle "open" book project](/blog2/the-moodle-open-book-module-project/). Perhaps best summed up from this comment from a past EDC3100 student
+Time to start generating a mock up of one of the itches identified in [this presentation](http://www.slideshare.net/davidj/can-the-book-module-be-open-and-other-enhancements-what-would-you-like-to-see) and from the [Moodle "open" book project](/blog/the-moodle-open-book-module-project/). Perhaps best summed up from this comment from a past EDC3100 student
 
 > It is impossible to go back and remember where to find information…At least on a PDF I can use the Find function
 

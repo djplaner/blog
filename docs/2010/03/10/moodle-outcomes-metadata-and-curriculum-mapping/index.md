@@ -4,10 +4,10 @@ categories:
 date: 2010-03-10 10:21:33+10:00
 next:
   text: Webfuse is dead! Long live Webfuse!
-  url: /blog2/2010/03/10/webfuse-is-dead-long-live-webfuse/
+  url: /blog/2010/03/10/webfuse-is-dead-long-live-webfuse/
 previous:
   text: Outcomes and Moodle
-  url: /blog2/2010/03/09/outcomes-and-moodle/
+  url: /blog/2010/03/09/outcomes-and-moodle/
 title: Moodle, outcomes, metadata and curriculum mapping
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This summarises some [continued investigation](/blog2/2010/03/09/outcomes-and-moodle/) of Moodle support for outcomes as part of preparing for the [curriculum mapping project](/blog2/research/curriculum-mapping/).
+This summarises some [continued investigation](/blog/2010/03/09/outcomes-and-moodle/) of Moodle support for outcomes as part of preparing for the [curriculum mapping project](/blog/research/curriculum-mapping/).
 
 Current summary of what I think I've learned is that Moodle 2.0 will have significant support for progress tracking, which involves connecting student progress with outcomes etc. This draws on very similar "infrastructure" as would be required by curriculum mapping. Curriculum mapping, however, requires different "reporting" mechanisms. It appears a fruitful marriage may be possible. Need to learn more.
 

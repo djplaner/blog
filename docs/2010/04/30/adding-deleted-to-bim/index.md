@@ -5,15 +5,15 @@ categories:
 date: 2010-04-30 13:37:36+10:00
 next:
   text: Can BIM support the use of Moodle blogs?
-  url: /blog2/2010/05/02/can-bim-support-the-use-of-moodle-blogs/
+  url: /blog/2010/05/02/can-bim-support-the-use-of-moodle-blogs/
 previous:
   text: The alignment project as leadership
-  url: /blog2/2010/04/29/the-alignment-project-as-leadership/
+  url: /blog/2010/04/29/the-alignment-project-as-leadership/
 title: Adding "deleted" to BIM
 type: post
 template: blog-post.html
 ---
-The following is a record of the process of adding a "deleted" state for a blog post in [BIM](/blog2/research/bam-blog-aggregation-management/). This is in response to [an issue](http://github.com/djplaner/BIM/issues#issue/8) that has arisen out of BIM usage at CQU.
+The following is a record of the process of adding a "deleted" state for a blog post in [BIM](/blog/research/bam-blog-aggregation-management/). This is in response to [an issue](http://github.com/djplaner/BIM/issues#issue/8) that has arisen out of BIM usage at CQU.
 
 ### The problem
 

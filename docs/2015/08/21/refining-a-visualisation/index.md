@@ -4,15 +4,15 @@ categories:
 date: 2015-08-21 13:36:42+10:00
 next:
   text: All models are wrong, but some are useful and its application to e-learning
-  url: /blog2/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
+  url: /blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/
 previous:
   text: github and the Moodle - Step 3
-  url: /blog2/2015/08/20/github-and-the-moodle-step-3/
+  url: /blog/2015/08/20/github-and-the-moodle-step-3/
 title: Refining a visualisation
 type: post
 template: blog-post.html
 ---
-Time to [refine the visualisation](/blog2/2015/08/18/visualising-locations-of-students-etc/) of students by postcodes started earlier this week. Have another set of data to work with.
+Time to [refine the visualisation](/blog/2015/08/18/visualising-locations-of-students-etc/) of students by postcodes started earlier this week. Have another set of data to work with.
 
 1. Remove the identifying data.
 2. Clean the data. I had to remind myself the options for the sort comment - losing it. The following provide some idea of the mess. \[code lang="sh"\]\[/code\] :1,$s/"\* Sport,Health&PE+Secondry.\*"/HPE\_Secondary/ :1,$s/"\* Sport, Health & PE+Secondry.\*"/HPE\_Secondary/ :1,$s/Health & PE Secondary/HPE\_Secondary/ :1,$s/\* Secondary.\*/Secondary/ :1,$s/\* Secondry.\*/Secondary/ :1,$s/\* Secondy.\*/Secondary/ :1,$s/Secondary.\*/Secondary/ :1,$s/\* Secdary.\*/Secondary/ :1,$s/\* TechVocEdu.\*/TechVocEdu/

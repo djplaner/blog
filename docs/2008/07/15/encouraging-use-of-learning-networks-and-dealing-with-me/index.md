@@ -4,10 +4,10 @@ categories:
 date: 2008-07-15 09:13:13+10:00
 next:
   text: '"PLEs@CQUni: Why, What and How"'
-  url: /blog2/2008/07/15/plescquni-why-what-and-how/
+  url: /blog/2008/07/15/plescquni-why-what-and-how/
 previous:
   text: Scavenger hunt and other methods for getting into systems
-  url: /blog2/2008/07/15/scavenger-hunt-and-other-methods-for-getting-into-systems/
+  url: /blog/2008/07/15/scavenger-hunt-and-other-methods-for-getting-into-systems/
 title: Encouraging use of learning networks - and dealing with me
 type: post
 template: blog-post.html

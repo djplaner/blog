@@ -5,10 +5,10 @@ categories:
 date: 2009-04-24 15:01:03+10:00
 next:
   text: Lessons for from past experience
-  url: /blog2/2009/04/25/lessons-for-e-learning/
+  url: /blog/2009/04/25/lessons-for-e-learning/
 previous:
   text: Models of growth - responding to the grammar of school
-  url: /blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
+  url: /blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/
 title: '"Phd Update #8 - steaming ahead"'
 type: post
 template: blog-post.html
@@ -33,27 +33,27 @@ pingbacks:
       user_id: '0'
     
 ---
-The week since my last [PhD update](/blog2/2009/04/17/phd-update-7-a-fortnight-in-review/) has been a good one. The most productive (in terms of completed first drafts of thesis sections) since I started this series of updates. I feel I'm getting into a routine and slowly developing pragmatic ideas and techniques for producing a thesis that is "good enough". In reality, I'm probably still to far up the scale towards "too good", but I'm getting there. It's a journey.
+The week since my last [PhD update](/blog/2009/04/17/phd-update-7-a-fortnight-in-review/) has been a good one. The most productive (in terms of completed first drafts of thesis sections) since I started this series of updates. I feel I'm getting into a routine and slowly developing pragmatic ideas and techniques for producing a thesis that is "good enough". In reality, I'm probably still to far up the scale towards "too good", but I'm getting there. It's a journey.
 
 ### What I've done
 
 I almost completed all of what I predicted I would complete. I said I wanted to have posted to this blog material on:
 
-- [paradigms of e-learning](/blog2/2009/04/20/the-paradigms-of-e-learning/). **DONE!**
-- Usage of e-learning: [quantity](/blog2/2009/04/23/usage-of-e-learning-quantity/) and [quality](/blog2/2009/04/22/e-learning-usage-quality/) (which has had a couple of comments - including a typo fix). **DONE!**
+- [paradigms of e-learning](/blog/2009/04/20/the-paradigms-of-e-learning/). **DONE!**
+- Usage of e-learning: [quantity](/blog/2009/04/23/usage-of-e-learning-quantity/) and [quality](/blog/2009/04/22/e-learning-usage-quality/) (which has had a couple of comments - including a typo fix). **DONE!**
 - Lessons from past experience  
-    This one is just about complete, a couple of paragraphs to go. I got sidetracked by [this](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/). I aim to post this section tonight, or at the latest tomorrow night.
+    This one is just about complete, a couple of paragraphs to go. I got sidetracked by [this](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/). I aim to post this section tonight, or at the latest tomorrow night.
 
 In addition to the above, I've authored the following blog posts that are somewhat related:
 
-- [Performance degradation - impact of new LMS implementation](/blog2/2009/04/20/performance-degradation-impact-of-new-lms-implementation/),
-- [Pedagogy of the impressed - how teachers become victims of technology vision](/blog2/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/) ,
-- [Models of growth - responding to the grammar of school](/blog2/2009/04/22/e-learning-usage-quality/)  
+- [Performance degradation - impact of new LMS implementation](/blog/2009/04/20/performance-degradation-impact-of-new-lms-implementation/),
+- [Pedagogy of the impressed - how teachers become victims of technology vision](/blog/2009/04/22/pedagogy-of-the-impressed-how-teachers-become-victims-of-technology-vision/) ,
+- [Models of growth - responding to the grammar of school](/blog/2009/04/22/e-learning-usage-quality/)  
     This post talks briefly about a potentially very useful paper from MIT talking about emergent design in education. Something that is at the core of my thesis.
 
 ### What I'll do for next
 
-Essentially, I have finised the "Past Experience" component of the [Ps Framework](/blog2/2009/03/18/the-ps-framework/). Time to pick another component. So, "Place" it is and probably "Purpose" after that. The aim is that by the end of next week I will have:
+Essentially, I have finised the "Past Experience" component of the [Ps Framework](/blog/2009/03/18/the-ps-framework/). Time to pick another component. So, "Place" it is and probably "Purpose" after that. The aim is that by the end of next week I will have:
 
 - Nutted out a structure for "Place".
 - Posted a first draft for "Place".

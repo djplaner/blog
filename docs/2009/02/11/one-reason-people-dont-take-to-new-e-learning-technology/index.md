@@ -12,10 +12,10 @@ date: 2009-02-11 14:39:05+10:00
 next:
   text: '"Barriers to innovation in organisations: teleological processes, organisational
     structures and stepwise refinement"'
-  url: /blog2/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
+  url: /blog/2009/02/11/barriers-to-innovation-in-organisations-teleological-processes-organisational-structures-and-stepwise-refinement/
 previous:
   text: The value of being open
-  url: /blog2/2009/02/11/the-value-of-being-open/
+  url: /blog/2009/02/11/the-value-of-being-open/
 title: One reason people don't take to new e-learning technology
 type: post
 template: blog-post.html
@@ -71,7 +71,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In a [recent post](/blog2/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/) I started my collection of quotes on this blog. I also talked about the "mere exposure effect" and suggested it's one reason behind the horseless carriage approach to using new technology. It's also one reason why people resist new technology - especially e-learning/computer technology.
+In a [recent post](/blog/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/) I started my collection of quotes on this blog. I also talked about the "mere exposure effect" and suggested it's one reason behind the horseless carriage approach to using new technology. It's also one reason why people resist new technology - especially e-learning/computer technology.
 
 In working on another post, one directly related to the PhD, I came across [this article](http://connect.educause.edu/Library/EDUCAUSE+Quarterly/TheThreeEStrategyforOverc/47686) from EDUCAUSE Quarterly titled "The Three-E Strategy for Overcoming Resistance to Technological Change ".
 
@@ -106,7 +106,7 @@ suggests that the solution is a strategy for gaining acceptance of technology th
 2. Easy to use - to avoid feelings of adequacy.
 3. Essential - as part of going about their business.
 
-Sort of sounds a bit like the insights from TAM and [Diffusion of Innovations](/blog2/publications/a-model-for-evaluating-potential-web-based-education-innovations/).
+Sort of sounds a bit like the insights from TAM and [Diffusion of Innovations](/blog/publications/a-model-for-evaluating-potential-web-based-education-innovations/).
 
 ### The wrong view
 

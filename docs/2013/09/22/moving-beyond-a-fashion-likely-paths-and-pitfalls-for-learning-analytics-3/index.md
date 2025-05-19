@@ -7,10 +7,10 @@ categories:
 date: 2013-09-22 11:50:35+10:00
 next:
   text: Data mining with Weka - Class 2 - Evaluation
-  url: /blog2/2013/09/22/data-mining-with-weka-class-2-evaluation/
+  url: /blog/2013/09/22/data-mining-with-weka-class-2-evaluation/
 previous:
   text: Getting started with Weka
-  url: /blog2/2013/09/21/getting-started-with-weka/
+  url: /blog/2013/09/21/getting-started-with-weka/
 title: '"Moving beyond a fashion: Likely paths and pitfalls for learning analytics"'
 type: post
 template: blog-post.html

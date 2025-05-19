@@ -5,11 +5,11 @@ categories:
 date: 2015-09-17 10:16:06+10:00
 next:
   text: '"University e-learning: Removing context and adding sediment"'
-  url: /blog2/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+  url: /blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
 previous:
   text: Computers &#039;do not improve&#039; pupil results, just like wood &#039;does
     not improve&#039; houses
-  url: /blog2/2015/09/16/computers-do-not-improve-pupil-results-just-like-wood-does-not-improve-houses/
+  url: /blog/2015/09/16/computers-do-not-improve-pupil-results-just-like-wood-does-not-improve-houses/
 title: Self-assertive and integrative tendencies and the connection to the BAD/SET
   mindsets
 type: post
@@ -64,13 +64,13 @@ pingbacks:
       user_id: '0'
     
 ---
-I've just started reading [Capra & Luigi Luisi (2014)](http://www.cambridge.org/us/academic/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/systems-view-life-unifying-vision), in large part because I think that the shift in scientific thinking they apparently describe in the book may have some useful insights for [BAD/SET mindsets](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) and trying to understand and improve digital learning.
+I've just started reading [Capra & Luigi Luisi (2014)](http://www.cambridge.org/us/academic/subjects/life-sciences/genomics-bioinformatics-and-systems-biology/systems-view-life-unifying-vision), in large part because I think that the shift in scientific thinking they apparently describe in the book may have some useful insights for [BAD/SET mindsets](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) and trying to understand and improve digital learning.
 
 In the first chapter they propose
 
 > two tendencies - the self-assertive and the integrative - are both essential aspects of all living systems. Neither of them is intrinsically good or bad. What is good, or healthy, is a dynamic balance; what is bad, or unhelathy, is imblance - overemphasis on one tendency and neglect of the other. When we look at our modern industrial culture, we see that we have overemphasized the self-assertive and neglected the integrative tendencies
 
-A perspective that echoes the point [@damoclarky and I made](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) in conjunction with digital learning and the BAD/SET mindsets
+A perspective that echoes the point [@damoclarky and I made](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) in conjunction with digital learning and the BAD/SET mindsets
 
 Capra and Luigi Luisi (2014) then present a table that compare and contrast the two tendencies and their "thinking" and "values". I've split it into two separate
 

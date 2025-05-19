@@ -2,10 +2,10 @@
 date: 2009-09-01 15:32:14+10:00
 next:
   text: Lessons from product for e-learning
-  url: /blog2/2009/09/02/lessons-from-product-for-e-learning/
+  url: /blog/2009/09/02/lessons-from-product-for-e-learning/
 previous:
   text: 'e&#038;i report #2 - 20th August - 1st September'
-  url: /blog2/2009/09/01/ei-report-2-20-25th-august/
+  url: /blog/2009/09/01/ei-report-2-20-25th-august/
 title: Curriculum mapping, process, technology and higher education - some questions
 type: post
 template: blog-post.html
@@ -148,7 +148,7 @@ pingbacks:
       user_id: '0'
     
 ---
-A long-running problem at my institution - I don't think we're alone, I think most universities are in this boat - has been the absence of any support or processes around curriculum mapping. I've written [briefly about this before](/blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/), but now I have to produce a report with some background and recommendations.
+A long-running problem at my institution - I don't think we're alone, I think most universities are in this boat - has been the absence of any support or processes around curriculum mapping. I've written [briefly about this before](/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/), but now I have to produce a report with some background and recommendations.
 
 The following is an attempt to ask questions and see if anyone can provide some additional insights. The following is based on the little bit of searching I've done so far.
 
@@ -160,7 +160,7 @@ Some of the questions I have:
 - Has anyone been able to do it with a large group of university academics in a way that is embedded into the group i.e. it's long-term and sustainable? How?
 - What's the good literature in this area?
 - What tools are people using?
-- Is anyone [going bottom up rather than top-down](/blog2/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/)?
+- Is anyone [going bottom up rather than top-down](/blog/2009/08/17/moodle-curriculum-mapping-task-fit-and-task-corruption/)?
 
 ### Some definitions
 

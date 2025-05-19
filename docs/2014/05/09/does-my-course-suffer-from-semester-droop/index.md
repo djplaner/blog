@@ -6,10 +6,10 @@ categories:
 date: 2014-05-09 10:09:32+10:00
 next:
   text: Making BIM ready for Moodle 2.6
-  url: /blog2/2014/05/19/making-bim-ready-for-moodle-2-6/
+  url: /blog/2014/05/19/making-bim-ready-for-moodle-2-6/
 previous:
   text: 'From thinking to tinkering: The grassroots of strategic information systems'
-  url: /blog2/2014/05/08/from-thinking-to-tinkering-the-grassroots-of-strategic-information-systems/
+  url: /blog/2014/05/08/from-thinking-to-tinkering-the-grassroots-of-strategic-information-systems/
 title: Does my course suffer from semester droop?
 type: post
 template: blog-post.html
@@ -143,7 +143,7 @@ I thought this would be interesting because
 
 ### How?
 
-Created two views of the S2, 2013 EDC3100 course site using [MAV](/blog2/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/)
+Created two views of the S2, 2013 EDC3100 course site using [MAV](/blog/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/)
 
 1. [Clicks](https://www.flickr.com/photos/david_jones/13948920688/sizes/o/); and,
     

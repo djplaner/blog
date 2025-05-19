@@ -4,10 +4,10 @@ categories:
 date: 2025-01-12 15:19:03+10:00
 next:
   text: Home
-  url: /blog2/index.html
+  url: /blog/index.html
 previous:
   text: Announcing (finally) Canvas Collections
-  url: /blog2/2023/08/18/announcing-finally-canvas-collections/
+  url: /blog/2023/08/18/announcing-finally-canvas-collections/
 title: What now?
 type: post
 template: blog-post.html
@@ -62,7 +62,7 @@ I do intend to maintain the content and domain name. If only to prevent question
 
 I have some early thoughts on how I'll leverage online/digital tools to support this new focus.
 
-- I will keep and expand use of ["my Memex"](/blog2/2020/07/06/designing-a-personal-memex-with-foam/) for knowledge management.
+- I will keep and expand use of ["my Memex"](/blog/2020/07/06/designing-a-personal-memex-with-foam/) for knowledge management.
 - Will likely move my [Mastodon account](https://indieweb.social/@djplaner) away from the [Indieweb server](https://indieweb.social/explore) to a better match.
 - WIll be exploring integration with other tools and services (e.g. [eBird](https://ebird.org/home) and [iNaturalist](https://inaturalist.ala.org.au/)).
 
@@ -72,7 +72,7 @@ More detail follows.
 
 Since my last blog post a bit has changed. I "lost" a parent. Ended my ~30 year career in tertiary education. Reached a joint decision with any prospective employers that full-time employment was not the direction for me. This and other events encouraged some reflection on what brings me joy.
 
-A lot of people who have looked at my work in higher education probably (e.g. my wife) will assume playing with digital technology was what brought me joy. I've always been labelled as the "technology guy". Sure there was a lot of playing with digital technologies and I enjoyed much of it but technologies were just the tools for building [contextually-appropriate scaffolding assemblages (CASA)](/blog2/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/#casa-context-appropriate-scaffolding-assemblages). Tools for engaging in [bricolage](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#what-work-gets-done-bricolage-or-strategic) with available services and technologies to [gather, weave, and augment](/blog2/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/) the current environment and what was possible with learning and teaching.
+A lot of people who have looked at my work in higher education probably (e.g. my wife) will assume playing with digital technology was what brought me joy. I've always been labelled as the "technology guy". Sure there was a lot of playing with digital technologies and I enjoyed much of it but technologies were just the tools for building [contextually-appropriate scaffolding assemblages (CASA)](/blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/#casa-context-appropriate-scaffolding-assemblages). Tools for engaging in [bricolage](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#what-work-gets-done-bricolage-or-strategic) with available services and technologies to [gather, weave, and augment](/blog/2023/02/09/gathers-weavers-and-augmenters-three-principles-for-dynamic-and-sustainable-delivery-of-quality-learning-and-teaching/) the current environment and what was possible with learning and teaching.
 
 Throughout my work in higher education the focus understanding the local environment and out how to sustainably make real improvements to it. A big part of what's changed for me is the local environment. No longer will it be learning and teaching in higher education. It's been replaced with living within [Postmans Ridge](https://en.wikipedia.org/wiki/Postmans_Ridge,_Queensland) and surrounds. In particular, our [10 acre home block](https://djplaner.github.io/memex/sense/landscape-garden/wood-duck-meadows.html). How do I _gather_ and _weave_ in order to _augument_ this new local environment?
 
@@ -84,7 +84,7 @@ The digital practices I use in everyday life and to maintain my online presence 
 
 1. Aging infrastructure.
     
-    Much of the infrastructure is so 00s. Showing my [Web 2.0 roots](/blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/) (and age). Based on shared hosting server rather than containers. Still using a bloated blog software (Wordpress) rather than something small (e.g [small web](https://benhoyt.com/writings/the-small-web-is-beautiful/) and [smolweb](https://smolweb.org/index.html)). Relying on "free" technology (Github) where I'm [not the customer so I'm probably the product](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/).
+    Much of the infrastructure is so 00s. Showing my [Web 2.0 roots](/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/) (and age). Based on shared hosting server rather than containers. Still using a bloated blog software (Wordpress) rather than something small (e.g [small web](https://benhoyt.com/writings/the-small-web-is-beautiful/) and [smolweb](https://smolweb.org/index.html)). Relying on "free" technology (Github) where I'm [not the customer so I'm probably the product](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/).
     
     Another example is that Wordpress xmlrpc (how I used to publish blog posts) is [now deprecated](https://www.hostinger.com/tutorials/xmlrpc-wordpress#Why_you_should_disable_xmlrpcphp).
 2. Misdirected audience/purpose.

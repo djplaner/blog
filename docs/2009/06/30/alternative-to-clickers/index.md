@@ -4,10 +4,10 @@ categories:
 date: 2009-06-30 10:36:27+10:00
 next:
   text: How do you "apprehend the future"
-  url: /blog2/2009/07/01/how-do-you-apprehend-the-future/
+  url: /blog/2009/07/01/how-do-you-apprehend-the-future/
 previous:
   text: Students and e-learning - a start to the People section
-  url: /blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/
+  url: /blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/
 title: Alternative to clickers - freeing up the physical location limitation
 type: post
 template: blog-post.html
@@ -151,7 +151,7 @@ pingbacks:
     []
     
 ---
-In [a previous post](/blog2/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/) I outlined some broad ideas of how to understand "lectures". At the crux of it was an initial stab at a "taxonomy/framework" for understanding characteristics of lectures. In this initial stab there were three main dimensions: participants, physical space, and time. Each had some additional sub-points.
+In [a previous post](/blog/2009/06/09/you-only-get-this-type-of-education-in-class-mythic-attributes-of-the-lecture/) I outlined some broad ideas of how to understand "lectures". At the crux of it was an initial stab at a "taxonomy/framework" for understanding characteristics of lectures. In this initial stab there were three main dimensions: participants, physical space, and time. Each had some additional sub-points.
 
 As one example, a sub-point of physical space was physical co-location. i.e. for most lectures there is a requirement that you be within the same physical space. There are various ways around this limitation. For example, my institution has a significant physical, networking and support infrastructure around video-conferencing that allows folk to be in a number of physical locations - though still generally on the institution's campus.
 

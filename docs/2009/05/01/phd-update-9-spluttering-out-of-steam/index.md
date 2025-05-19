@@ -7,10 +7,10 @@ categories:
 date: 2009-05-01 16:08:08+10:00
 next:
   text: Place - component of the Ps Framework
-  url: /blog2/2009/05/06/place-component-of-the-ps-framework/
+  url: /blog/2009/05/06/place-component-of-the-ps-framework/
 previous:
   text: First official BAM paper done
-  url: /blog2/2009/04/30/first-official-bam-paper-done/
+  url: /blog/2009/04/30/first-official-bam-paper-done/
 title: '"PhD Update #9 - spluttering out of steam"'
 type: post
 template: blog-post.html
@@ -32,15 +32,15 @@ pingbacks:
       user_id: '0'
     
 ---
-It's that time of week again, time to report on the progress of the PhD. This week has been one of those weeks where progress has not been as much as desired, but perhaps isn't quite as bad. As often happens, [last week's](/blog2/2009/04/24/phd-update-8-steaming-ahead/) optimistic claims of "speeding up" spluttered out a bit.
+It's that time of week again, time to report on the progress of the PhD. This week has been one of those weeks where progress has not been as much as desired, but perhaps isn't quite as bad. As often happens, [last week's](/blog/2009/04/24/phd-update-8-steaming-ahead/) optimistic claims of "speeding up" spluttered out a bit.
 
 There has been some news on the work front which may remove some of the more troubling aspects of the last 6 months or so. So this may help speed things up. At the very least, it removes yet another excuse.
 
 ### What I've done
 
-[Last week](/blog2/2009/04/24/phd-update-8-steaming-ahead/) I said I would, by now, have
+[Last week](/blog/2009/04/24/phd-update-8-steaming-ahead/) I said I would, by now, have
 
-- Post [Lessons from Past Experience](/blog2/2009/04/25/lessons-for-e-learning/) **DONE**  
+- Post [Lessons from Past Experience](/blog/2009/04/25/lessons-for-e-learning/) **DONE**  
     This was almost finished last week. Got it posted on Saturday and have made a few minor changes since.
 - Nutted out a structure for “Place”. **DONE**  
     The structure is
@@ -56,10 +56,10 @@ There has been some news on the work front which may remove some of the more tro
 
 In terms of PhD related blog posts, only two, and that's a bit of stretch.
 
-- [Integration with professional lives of academics](/blog2/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/)  
+- [Integration with professional lives of academics](/blog/2009/04/29/integration-with-professional-lives-of-academics-why-industrial-e-learning-fails-and-why-post-industrial-might-work/)  
     This arose out of a reference I collected and read as part of working on the "Place" component. It connected a few dots in my thinking about e-learning in general and some of the reasons why I believe Webfuse and its approach may have been more successful. It's a question of how integrated the academic perceives the e-learning system to be to their everyday professional and personal life. Webfuse worked, to the extent it did, because it integrated with a lot of the administrative tasks as well as learning. LMSs work less well because, by their very nature they are limited to how well they can integrate with other aspects of an academics life.
-- [The first BAM paper](/blog2/2009/04/30/first-official-bam-paper-done/)  
-    I spent at least a day this week updating a [paper](/blog2/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) that tells the initial story of BAM. It's linked to PhD because BAM is an extension of one of the ideals (i.e. the university doesn't seek to supply all the software, but to integrate existing software) of Webfuse into the Web 2.0 arena.
+- [The first BAM paper](/blog/2009/04/30/first-official-bam-paper-done/)  
+    I spent at least a day this week updating a [paper](/blog/publications/blog-aggregation-management-reducing-the-aggravation-of-managing-student-blogging/) that tells the initial story of BAM. It's linked to PhD because BAM is an extension of one of the ideals (i.e. the university doesn't seek to supply all the software, but to integrate existing software) of Webfuse into the Web 2.0 arena.
 
 ### What I'll do next week
 

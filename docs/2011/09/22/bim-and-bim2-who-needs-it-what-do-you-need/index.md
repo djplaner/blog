@@ -5,10 +5,10 @@ categories:
 date: 2011-09-22 11:04:05+10:00
 next:
   text: A course outline to increase relevance of IPT
-  url: /blog2/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/
+  url: /blog/2011/09/22/a-course-outline-to-increase-relevance-of-ipt/
 previous:
   text: 'The final plan: Khan Academy, gamification and the flipped classroom'
-  url: /blog2/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/
+  url: /blog/2011/09/21/the-final-plan-khan-academy-gamification-and-the-flipped-classroom/
 title: BIM and BIM2 - Who needs it? What do you need?
 type: post
 template: blog-post.html
@@ -72,7 +72,7 @@ pingbacks:
     []
     
 ---
-Earlier this year, as the assignments mounted with my Graduate Diploma of Learning and Teaching, I put the [development of BIM on the back burner](/blog2/2011/04/07/bim-on-the-back-burner/). As my study to become a teacher winds down (stops for good on November 11 at the end of a 6 week internship) I'm thinking of re-starting work on BIM. Before I do that, I'm have a couple of questions
+Earlier this year, as the assignments mounted with my Graduate Diploma of Learning and Teaching, I put the [development of BIM on the back burner](/blog/2011/04/07/bim-on-the-back-burner/). As my study to become a teacher winds down (stops for good on November 11 at the end of a 6 week internship) I'm thinking of re-starting work on BIM. Before I do that, I'm have a couple of questions
 
 1. Who out there is in the market for BIM and BIM2?  
     Is anyone actually using BIM or wanting to use BIM2? If usage of BIM has flatlined, then....

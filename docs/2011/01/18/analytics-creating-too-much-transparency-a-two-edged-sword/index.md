@@ -5,10 +5,10 @@ categories:
 date: 2011-01-18 10:16:27+10:00
 next:
   text: The difference between utopian and dystopian visions
-  url: /blog2/2011/01/19/the-difference-between-utopian-and-dystopian-visions/
+  url: /blog/2011/01/19/the-difference-between-utopian-and-dystopian-visions/
 previous:
   text: Creating a podcast for LAK11 presentations
-  url: /blog2/2011/01/15/creating-a-podcast-for-lak11-presentations/
+  url: /blog/2011/01/15/creating-a-podcast-for-lak11-presentations/
 tags:
 - lak11
 title: Analytics creating too much transparency? A two-edged sword?
@@ -41,7 +41,7 @@ He uses the example of expense accounts to illustrate the point. At one stage he
 
 This rings a bell at the moment, because of the current [discussion about the problems with learning analytics](http://scope.bccampus.ca/mod/forum/discuss.php?d=16477) and in particular George Siemens' [list of concerns](http://scope.bccampus.ca/mod/forum/discuss.php?d=16477#p66915).
 
-In the dim dark past of the 90s, when I was an innovative, young university academic no-one took any notice of what I did within the courses I was teaching. I could do a lot of very different things that are documented in [my publications from that time](/blog2/publications/). Not all of them worked as I planned, but they all helped something interesting grow.
+In the dim dark past of the 90s, when I was an innovative, young university academic no-one took any notice of what I did within the courses I was teaching. I could do a lot of very different things that are documented in [my publications from that time](/blog/publications/). Not all of them worked as I planned, but they all helped something interesting grow.
 
 In part this was possible because of the very problem that often worried me about some of my colleagues. At that time, there were at least 2 or 3 of my fellow academics who were fairly widely known as being really bad educators. Even though one or two claimed to be great teachers, even a cursory glance at their practice and resources or a chat with a range of their students would confirm some really, really bad practice. What annoyed me at the time was that the system allowed their practice to be opaque. As long as they met various deadlines (even though they were often late) and had a reasonable grade distribution there practice was allowed to continue.
 

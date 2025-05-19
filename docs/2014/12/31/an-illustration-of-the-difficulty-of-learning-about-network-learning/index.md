@@ -4,10 +4,10 @@ categories:
 date: 2014-12-31 15:27:27+10:00
 next:
   text: '"TPACK as shared practice: Toward a research agenda"'
-  url: /blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/
+  url: /blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/
 previous:
   text: 'Random #fedwikihappening ramblings'
-  url: /blog2/2014/12/29/random-fedwikihappening-ramblings/
+  url: /blog/2014/12/29/random-fedwikihappening-ramblings/
 title: An illustration of the difficulty of learning about network learning
 type: post
 template: blog-post.html
@@ -75,7 +75,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a summary of what it takes for a teacher to find support resources around e-learning/network learning within the existing USQ systems. I had started this as part of another blog post that was going to draw upon [my research](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) to suggest an alternative approach. I had thought this would provide a useful comparison. However, as I stepped through the process it became obvious that what exists is far worse than I thought existed. Part of me wonders whether I've missed something simple, can't it really be this bad?
+The following is a summary of what it takes for a teacher to find support resources around e-learning/network learning within the existing USQ systems. I had started this as part of another blog post that was going to draw upon [my research](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) to suggest an alternative approach. I had thought this would provide a useful comparison. However, as I stepped through the process it became obvious that what exists is far worse than I thought existed. Part of me wonders whether I've missed something simple, can't it really be this bad?
 
 Hence this post has been kept password protected.
 

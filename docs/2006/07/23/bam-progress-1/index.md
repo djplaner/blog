@@ -4,10 +4,10 @@ categories:
 date: 2006-07-23 18:03:20+10:00
 next:
   text: '"Design research: IS or CS - importance of "no overlap""'
-  url: /blog2/2006/07/25/design-research-is-or-cs-importance-of-no-overlap/
+  url: /blog/2006/07/25/design-research-is-or-cs-importance-of-no-overlap/
 previous:
   text: Drucker on Adaptive vs Plan-driven
-  url: /blog2/2006/07/14/drucker-on-adaptive-vs-plan-driven/
+  url: /blog/2006/07/14/drucker-on-adaptive-vs-plan-driven/
 title: '"BAM Progress #1"'
 type: post
 template: blog-post.html
@@ -18,7 +18,7 @@ pingbacks:
     []
     
 ---
-It's now the end of week 2 of [CQU's](http://www.cqu.edu.au/) Term 2 for 2006. This is the first attempt at a log entry for the first test of the [BAM project](/blog2/research/bam-blog-aggregation-management/) in the CQU course [COIS20025, Systems Development Overview](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/)
+It's now the end of week 2 of [CQU's](http://www.cqu.edu.au/) Term 2 for 2006. This is the first attempt at a log entry for the first test of the [BAM project](/blog/research/bam-blog-aggregation-management/) in the CQU course [COIS20025, Systems Development Overview](http://webfuse.cqu.edu.au/Courses/2006/T2/COIS20025/)
 
 Key events this week
 

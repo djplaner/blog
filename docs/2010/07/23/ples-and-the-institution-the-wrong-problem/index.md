@@ -5,15 +5,15 @@ categories:
 date: 2010-07-23 10:04:20+10:00
 next:
   text: First the fridge dies, and then...
-  url: /blog2/2010/07/28/first-the-fridge-dies-and-then/
+  url: /blog/2010/07/28/first-the-fridge-dies-and-then/
 previous:
   text: How to handle the marriage of PLEs and institutions
-  url: /blog2/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
+  url: /blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/
 title: '"PLEs and the institution: the wrong problem"'
 type: post
 template: blog-post.html
 ---
-Yesterday, I [rehashed/summarised](/blog2/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/) some earlier thoughts about "handling the marriage of PLEs and institutions. Since then, I've been reflecting on that post. Am coming to the belief that this is just the wrong problem, or perhaps just a symptom of a deeper problem. (Signal the start of the broken record).
+Yesterday, I [rehashed/summarised](/blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/) some earlier thoughts about "handling the marriage of PLEs and institutions. Since then, I've been reflecting on that post. Am coming to the belief that this is just the wrong problem, or perhaps just a symptom of a deeper problem. (Signal the start of the broken record).
 
 All of the students and academic staff (the learners) of a university have always had their own PLEs. It's only with the rise of Web 2.0, e-learning 2.0 and related movements/fads that the PLE (and/or PLN) label has become a concern. And only because of this has the question of how, or indeed if, an institution should provide a PLE arisen. In much the same way that universities - at least within Australia - have had to deal with distance education, flexible learning, lifelong learning, open learning, blended learning and a whole range of similar labels and fads.
 
@@ -25,7 +25,7 @@ Various factors such as short term contracts for senior managers; top-down manag
 
 ### The process focus
 
-What I described as a way [to handle the marriage of PLEs and institutions](/blog2/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/) is no different from the approach we used to implement Webfuse and no different from the process I would use to attempt to support and improve learning and teaching within any university. It's an approach that doesn't focus on a particular "X", but instead on adopting a process that enables the institution to learn and respond to what happens within its own context and outside.
+What I described as a way [to handle the marriage of PLEs and institutions](/blog/2010/07/22/how-to-handle-the-marriage-of-ples-and-institutions/) is no different from the approach we used to implement Webfuse and no different from the process I would use to attempt to support and improve learning and teaching within any university. It's an approach that doesn't focus on a particular "X", but instead on adopting a process that enables the institution to learn and respond to what happens within its own context and outside.
 
 Some broad steps:
 

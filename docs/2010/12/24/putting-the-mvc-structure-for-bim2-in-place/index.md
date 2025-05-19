@@ -5,17 +5,17 @@ categories:
 date: 2010-12-24 10:31:11+10:00
 next:
   text: The student controller for bim2 - models and view
-  url: /blog2/2010/12/28/the-student-controller-for-bim2-models-and-view/
+  url: /blog/2010/12/28/the-student-controller-for-bim2-models-and-view/
 previous:
   text: Adding a bim2 activity - development progress
-  url: /blog2/2010/12/20/adding-a-bim2-activity-development-progress/
+  url: /blog/2010/12/20/adding-a-bim2-activity-development-progress/
 title: Putting the MVC structure for bim2 in place
 type: post
 template: blog-post.html
 ---
-So, bim2 is up and going, [at least in terms of being able to create an instance of the activity within a course](/blog2/2010/12/20/adding-a-bim2-activity-development-progress/). The trouble is that it can't do anything. This post starts the process of implementing the design of the user interactions with bim2. The intent is to go with a Model-View-Controller type structure in the hope that this will improve flexibility and reuse.
+So, bim2 is up and going, [at least in terms of being able to create an instance of the activity within a course](/blog/2010/12/20/adding-a-bim2-activity-development-progress/). The trouble is that it can't do anything. This post starts the process of implementing the design of the user interactions with bim2. The intent is to go with a Model-View-Controller type structure in the hope that this will improve flexibility and reuse.
 
-The plan is to reuse some of the very early work that was done with the [indicators module](/blog2/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/) (work that has yet to be completed). The plan here is hopefully to have the basic structure of the MVC approach working in bim2, however, it won't actually do anything real. The idea is that once the structure is in place, I can work on each of the user groups separately.
+The plan is to reuse some of the very early work that was done with the [indicators module](/blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/) (work that has yet to be completed). The plan here is hopefully to have the basic structure of the MVC approach working in bim2, however, it won't actually do anything real. The idea is that once the structure is in place, I can work on each of the user groups separately.
 
 ### Users and state machines
 

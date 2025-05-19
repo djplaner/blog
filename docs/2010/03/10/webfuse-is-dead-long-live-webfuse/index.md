@@ -8,10 +8,10 @@ categories:
 date: 2010-03-10 17:08:22+10:00
 next:
   text: '"Focusing on the wrong time frame - a core problem of university L&#038;T?"'
-  url: /blog2/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
+  url: /blog/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
 previous:
   text: Moodle, outcomes, metadata and curriculum mapping
-  url: /blog2/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
+  url: /blog/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
 title: Webfuse is dead! Long live Webfuse!
 type: post
 template: blog-post.html
@@ -35,7 +35,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Since about 1996 much of my research and development around e-learning has found "concrete" form in a system call [Webfuse](http://webfuse.cqu.edu.au). First described in [Jones and Buchanan](/blog2/publications/the-design-of-an-integrated-online-learning-environment/) (1996) Webfuse became an essential part of [CQU's](http://www.cqu.edu.au/) operations. The unkindest (and basically wrong) description of Webfuse is that it was a proprietary, single institution learning management system.
+Since about 1996 much of my research and development around e-learning has found "concrete" form in a system call [Webfuse](http://webfuse.cqu.edu.au). First described in [Jones and Buchanan](/blog/publications/the-design-of-an-integrated-online-learning-environment/) (1996) Webfuse became an essential part of [CQU's](http://www.cqu.edu.au/) operations. The unkindest (and basically wrong) description of Webfuse is that it was a proprietary, single institution learning management system.
 
 Based on the definition, Webfuse is dead.
 
@@ -49,9 +49,9 @@ This was possible because the group understood the technology and were able to p
 
 This rapid change was only possible because there were no barriers between the developers - the people who could change the technology - and the staff and students - the people using the technology. The developers saw first hand in conversations and in the tea room what the academics were going through. They had deep knowledge of the context.
 
-The developers had a much greater [commonality of meaning](/blog2/2010/02/11/implications-arising-from-the-absence-of-the-sameness-of-meaning/) with the academics than traditionally possible.
+The developers had a much greater [commonality of meaning](/blog/2010/02/11/implications-arising-from-the-absence-of-the-sameness-of-meaning/) with the academics than traditionally possible.
 
-Just one simple example of the benefits this bring can be found in the Webfuse online assignment submission system ([Jones and Behrens, 2003](/blog2/publications/online-assignment-submission-an-evolutionary-tale/)). The features of this system fit the local contextual needs and offer a different set of features than in any other LMS-based online assignment submission system. It's not a copy, it's different and it's better. For example, [CQU"s](http://www.cqu.edu.au/) IT folk are currently modifying the Moodle assignment submission system to provide the same features.
+Just one simple example of the benefits this bring can be found in the Webfuse online assignment submission system ([Jones and Behrens, 2003](/blog/publications/online-assignment-submission-an-evolutionary-tale/)). The features of this system fit the local contextual needs and offer a different set of features than in any other LMS-based online assignment submission system. It's not a copy, it's different and it's better. For example, [CQU"s](http://www.cqu.edu.au/) IT folk are currently modifying the Moodle assignment submission system to provide the same features.
 
 Webfuse and its developers were not limited to course sites. Webfuse also contains an array of management/adminstrative type features that made life easier. They could make connections between different aspects.
 

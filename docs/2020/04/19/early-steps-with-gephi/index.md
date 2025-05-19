@@ -5,10 +5,10 @@ coverImage: lantana-scaled.jpg
 date: 2020-04-19 11:06:22+10:00
 next:
   text: Exploring auto-coding with NVivo
-  url: /blog2/2020/04/30/exploring-auto-coding-with-nvivo/
+  url: /blog/2020/04/30/exploring-auto-coding-with-nvivo/
 previous:
   text: Three mashup types for digital learning and teaching
-  url: /blog2/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/
+  url: /blog/2020/01/30/three-mashup-types-for-digital-learning-and-teaching/
 title: Early steps with Gephi
 type: post
 template: blog-post.html

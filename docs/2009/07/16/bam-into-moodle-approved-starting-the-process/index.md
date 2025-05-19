@@ -4,10 +4,10 @@ categories:
 date: 2009-07-16 10:58:38+10:00
 next:
   text: Installing Moodle - first step in BAM/MoodleAM
-  url: /blog2/2009/07/16/installing-moodle-first-step-in-bammoodleam/
+  url: /blog/2009/07/16/installing-moodle-first-step-in-bammoodleam/
 previous:
   text: Predictably irrational - implications for L&#038;T at Universities
-  url: /blog2/2009/07/15/predictably-irrational-implications-for-lt-at-universities/
+  url: /blog/2009/07/15/predictably-irrational-implications-for-lt-at-universities/
 title: BAM into Moodle approved - starting the process
 type: post
 template: blog-post.html
@@ -44,16 +44,16 @@ pingbacks:
       user_id: '0'
     
 ---
-Received formal institutional approval yesterday to commence the process of porting [BAM](/blog2/research/bam-blog-aggregation-management/) into Moodle. This has two implications that spring to mind:
+Received formal institutional approval yesterday to commence the process of porting [BAM](/blog/research/bam-blog-aggregation-management/) into Moodle. This has two implications that spring to mind:
 
 1. I get to learn a new development environment; and  
     For the last 13-15 years I've been doing my development in Perl. In the last 10 years or so, nice OO perl within a framework of my own devising. Now I have take a step backwards to PHP, and from what little I hear fairly primitive procedural PHP.
     
     I remember having a Perl versus PHP argument through proxy with a "young" developer about 7 or so years ago. I thought PHP was a recipe for horrible code - procedural, mixing HTML and code....uggh. And guess what I'm doing now?
     
-2. There's finally a fairly clear project/direction for the [new position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
+2. There's finally a fairly clear project/direction for the [new position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/.
 
-Three of the accountabilities for the [new position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ include: relationships, communicate and public and continuous improvement. As part of fulfilling these accountabilities I plan to document the process of porting BAM into Moodle on this blog via the [BAM category](/blog2/category/bam/).
+Three of the accountabilities for the [new position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ include: relationships, communicate and public and continuous improvement. As part of fulfilling these accountabilities I plan to document the process of porting BAM into Moodle on this blog via the [BAM category](/blog/category/bam/).
 
 It is possible, that as I learn more about Moodle, that the notion of BAM will change significantly in terms of implementation. i.e. BAM may not become a stand alone module. If there are other tools/services within Moodle that can provide the functionality (and I become aware of them), I'll lean towards using them.
 

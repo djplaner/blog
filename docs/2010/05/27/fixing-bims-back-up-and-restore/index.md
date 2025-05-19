@@ -4,15 +4,15 @@ categories:
 date: 2010-05-27 15:44:14+10:00
 next:
   text: One potential approach to provide a Moodle email merge facility
-  url: /blog2/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/
+  url: /blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/
 previous:
   text: Adding multiple visualisation approaches to Indicators block
-  url: /blog2/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/
+  url: /blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/
 title: Fixing BIM's back up and restore
 type: post
 template: blog-post.html
 ---
-The following outlines steps to continue work on [BIM's backup and restore functionality](/blog2/2010/02/07/bim-backup-and-restore/). As per [this issue](http://github.com/djplaner/BIM/issues#issue/1) the user part of the back up has errors.
+The following outlines steps to continue work on [BIM's backup and restore functionality](/blog/2010/02/07/bim-backup-and-restore/). As per [this issue](http://github.com/djplaner/BIM/issues#issue/1) the user part of the back up has errors.
 
 It appears that the code was actually working.
 

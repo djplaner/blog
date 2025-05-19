@@ -4,10 +4,10 @@ categories:
 date: 2009-12-15 14:02:22+10:00
 next:
   text: BIM and Moodle development - a more coherent overview found?
-  url: /blog2/2009/12/15/bim-and-moodle-a-more-coherent-overview/
+  url: /blog/2009/12/15/bim-and-moodle-a-more-coherent-overview/
 previous:
   text: 'Getting back into BIM: Summary and way forward'
-  url: /blog2/2009/12/14/getting-back-into-bim-summary-and-way-forward/
+  url: /blog/2009/12/14/getting-back-into-bim-summary-and-way-forward/
 tags:
 - quality-performance-kpi
 title: Here come the indicators, wait for the task corruption
@@ -124,7 +124,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Over the weekend it was reported in various media outlets that the Australian government has a [new plan for higher education](http://www.theaustralian.com.au/higher-education/julia-gillard-warns-universities-over-results-based-funding/story-e6frgcjx-1225808652486). A plan that includes words like "results-based funding", performance, targets, quality and "readily available". They cynical tone that I hope you are hearing, is not solely - or even mainly - due to some opposition to the idea of universities being accountable or effective. It's mainly due to the belief that I think for the majority of teaching at universities this move will encourage more [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) than it will actual real improvement in the quality of teaching.
+Over the weekend it was reported in various media outlets that the Australian government has a [new plan for higher education](http://www.theaustralian.com.au/higher-education/julia-gillard-warns-universities-over-results-based-funding/story-e6frgcjx-1225808652486). A plan that includes words like "results-based funding", performance, targets, quality and "readily available". They cynical tone that I hope you are hearing, is not solely - or even mainly - due to some opposition to the idea of universities being accountable or effective. It's mainly due to the belief that I think for the majority of teaching at universities this move will encourage more [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/) than it will actual real improvement in the quality of teaching.
 
 This post argues for that perception. A bit further down (and in the comments), there is an argument against the practice of requiring new university teaching staff to complete teaching qualifications.
 
@@ -191,7 +191,7 @@ This section is included here because some folk complain that I am quick to poin
 
 The broadest solution I've suggested is given in [this presentation](http://www.vimeo.com/8160473). It requires quite a significant mind shift from the current simplistic, quasi-corporate decision making being adopted around learning and teaching to an approach more informed by what we know about complex systems and the motivations and cognition of human beings.
 
-The simplest solution is embedded in [this suggestion](/blog2/2009/07/23/improving-ceq-outcomes/) on how to improve outcomes on course experience questionnaires. An approach that essentially requires the identification of the smallest changes that can be made to bring courses into line with what we know about student preferences and ensuring that appropriate resources are allocated.
+The simplest solution is embedded in [this suggestion](/blog/2009/07/23/improving-ceq-outcomes/) on how to improve outcomes on course experience questionnaires. An approach that essentially requires the identification of the smallest changes that can be made to bring courses into line with what we know about student preferences and ensuring that appropriate resources are allocated.
 
 Another solution I've suggested is [the REACT process](http://sleid.cqu.edu.au/REACT/), especially if it were resources the right way. Done correctly, I think it can fulfill one of the [main findings](http://www.oecd.org/document/54/0,3343,en_2649_35961291_42771318_1_1_1_1,00.html#Main_findings) from a recent OECD report on teaching quality. i.e.
 

@@ -8,10 +8,10 @@ categories:
 date: 2010-03-12 09:29:48+10:00
 next:
   text: The value of lurking - another research idea for the indicators project
-  url: /blog2/2010/03/12/the-value-of-lurking-another-research-idea-for-the-indicators-project/
+  url: /blog/2010/03/12/the-value-of-lurking-another-research-idea-for-the-indicators-project/
 previous:
   text: Focusing on the wrong time frame - a core problem of university L&#038;T?
-  url: /blog2/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
+  url: /blog/2010/03/11/focusing-on-the-wrong-time-frame-a-core-problem-of-university-lt/
 title: Different perspectives on the purpose of the LMS
 type: post
 template: blog-post.html
@@ -56,7 +56,7 @@ If all you have is an LMS, every pedagogical problem is solved by the applicatio
 
 ### What should the purpose of an LMS be?
 
-[BIM](/blog2/research/bam-blog-aggregation-management/) is a representation of what I think the purpose of an LMS should be. i.e. the LMS should provide the services that are necessary/fundamental to the university/institution, and only those. Increasingly, most of the services should be fulfilled by services and resources that students and staff already use and control.
+[BIM](/blog/research/bam-blog-aggregation-management/) is a representation of what I think the purpose of an LMS should be. i.e. the LMS should provide the services that are necessary/fundamental to the university/institution, and only those. Increasingly, most of the services should be fulfilled by services and resources that students and staff already use and control.
 
 BIM provides academics teaching a course a way to aggregate blog posts from students and, if they want to, mark them. Those marks are integrated into the Moodle gradebook. The assumption is that marking/accreditation is one of the main tasks a university performs and that there aren't external services that currently provide that service.
 

@@ -6,15 +6,15 @@ categories:
 date: 2012-03-05 10:49:12+10:00
 next:
   text: And it's back to a lecture
-  url: /blog2/2012/03/06/and-its-back-to-a-lecture/
+  url: /blog/2012/03/06/and-its-back-to-a-lecture/
 previous:
   text: Gilstrap, Martin and the definition of a lecture
-  url: /blog2/2012/03/04/gilstrap-martin-and-the-definition-of-a-lecture/
+  url: /blog/2012/03/04/gilstrap-martin-and-the-definition-of-a-lecture/
 title: '"Implementing a course barometer in Moodle: A kludge"'
 type: post
 template: blog-post.html
 ---
-It's the start of the second week of the course I'm teaching. I'm directly responsible for 60 odd on-campus students and 130 or so online/distance students. That split reminds me a lot of my teaching at [CQU](http://www.cqu.edu.au/) in the mid-1990s. The deja vu continues in terms of getting a feel for how the students are going, how are they responding to the course, its model and content? Back at CQU the solution was inspired by [course barometer idea](/blog2/student-feedback-anonymity-observable-change-and-course-barometers/) from some University folk in Sweeden.
+It's the start of the second week of the course I'm teaching. I'm directly responsible for 60 odd on-campus students and 130 or so online/distance students. That split reminds me a lot of my teaching at [CQU](http://www.cqu.edu.au/) in the mid-1990s. The deja vu continues in terms of getting a feel for how the students are going, how are they responding to the course, its model and content? Back at CQU the solution was inspired by [course barometer idea](/blog/student-feedback-anonymity-observable-change-and-course-barometers/) from some University folk in Sweeden.
 
 The original course barometer was a purpose-built application in Webfuse, an "LMS" used at CQU from 1996 through 2009. This post records an initial attempt to recreate something simliar using standard Moodle 1.9 modules.
 
@@ -25,7 +25,7 @@ The barometer is meant to be a simple form that allows the students to
 - Indicate whether how they are feeling about the course at the moment: good, bad, or indifferent.
 - Provide some free-text comments to supplement the feeling.
 
-Preferably this is done anonymously - [previous research](/blog2/student-feedback-anonymity-observable-change-and-course-barometers/) has shown that anonymity isn't as important as doing something with the feedback - and would allow us to break up the students by campus/mode of study.
+Preferably this is done anonymously - [previous research](/blog/student-feedback-anonymity-observable-change-and-course-barometers/) has shown that anonymity isn't as important as doing something with the feedback - and would allow us to break up the students by campus/mode of study.
 
 Some form of report should be generated to allow teaching staff to analyse student responses. One the nice list is a method for staff to respond.
 

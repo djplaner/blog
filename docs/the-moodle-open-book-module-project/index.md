@@ -266,7 +266,7 @@ Starting in mid-2015 this project is being initially funded by a [USQ grant](htt
 3. Test those changes on the 60+ Moodle book resources in the course [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/specification/2015/EDC3100-S1-2015-WEB-TWMBA.html).
 4. Contribute those changes back to the Moodle community and help encourage their adoption.
 
-The hope is that this project will also be a vehicle for some research around the institutional implementation of e-learning. In particular, an exploration of how and with what impacts aspects of the LMS can be encouraged to break BAD as per [Jones and Clark (2014)](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/).
+The hope is that this project will also be a vehicle for some research around the institutional implementation of e-learning. In particular, an exploration of how and with what impacts aspects of the LMS can be encouraged to break BAD as per [Jones and Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/).
 
 In terms of "open", the project is seeking to explore what happens when an existing institutional tool for creating learning material is modified to make it easier to release course learning materials into the open. Rather than produce a brand new tool that requires transformation from teachers, the aim is to start where teachers are now and evolve.
 
@@ -279,4 +279,4 @@ The project [Github repository](https://github.com/djplaner/moodle-booktool_gith
 - Project [GitHub repository](https://github.com/djplaner/moodle-booktool_github); The code will push/pull content from Moodle to GitHub, but requires refinement before being widely usable.
 - Moodlemoot'AU 2015 presentation (July, 2015): [Can the Moodle book module be made open and other enhancements](http://bit.ly/mobmoot).
 - USQ project presentation (December, 2015): [Opening up and enhancing #moodle books with GitHub, ePub, etc](https://bit.ly/omgmbook).
-- Related [blog posts](/blog2/category/moodleopenbook/).
+- Related [blog posts](/blog/category/moodleopenbook/).

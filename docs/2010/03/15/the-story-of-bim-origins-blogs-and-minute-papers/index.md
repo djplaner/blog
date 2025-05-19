@@ -4,10 +4,10 @@ categories:
 date: 2010-03-15 15:11:44+10:00
 next:
   text: The story of BIM - Development of BAM
-  url: /blog2/2010/03/17/the-story-of-bim-development-of-bam/
+  url: /blog/2010/03/17/the-story-of-bim-development-of-bam/
 previous:
   text: Improving L&#038;T at Universities - The emperor has no clothes
-  url: /blog2/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
+  url: /blog/2010/03/14/improving-lt-at-universities-the-emperor-has-no-clothes/
 title: The story of BIM - Origins - blogs and minute papers
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a start of trying to capture the story of BAM and BIM. The aim is to use this as part of a case study for a [paper](/blog2/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/) for [MoodleMoot'AU 2010](http://moodlemoot.org.au/).
+The following is a start of trying to capture the story of BAM and BIM. The aim is to use this as part of a case study for a [paper](/blog/2010/02/06/challenges-in-developing-innovative-pedagogy-in-blended-learning-the-case-of-bim/) for [MoodleMoot'AU 2010](http://moodlemoot.org.au/).
 
 As well as trying to re-create the story of BIM from various publications, email archives and presentations the aim of the following is also to identify the challenges faced while developing BIM. This will be the first in a sequence of posts as I attempt to re-create the history.
 
@@ -53,7 +53,7 @@ There were only 17 or so distance education students, so while it was more work,
 
 > **CHALLENGE #1:** Organisational processes and policies, especially workload, don't easily respond to changes in workload balance.
 
-Checking my email archives for the course, I find the first mention of this blog. Apparently, I set up this blog to serve as an example for the students in this course. [Here's the first post](/blog2/2006/03/02/writing-and-sending-the-email-to-students-using-blogs/) reflecting on the early stages of this process.
+Checking my email archives for the course, I find the first mention of this blog. Apparently, I set up this blog to serve as an example for the students in this course. [Here's the first post](/blog/2006/03/02/writing-and-sending-the-email-to-students-using-blogs/) reflecting on the early stages of this process.
 
 Those same email archives reveal 3 students sending me the URLs for their blogs. 1 of those blogs is empty, no posts. Another has a couple of posts from the student and some comments from me. I remember this student. We ended up moving discussions to email and those discussions were quite extensive. The last blog had a regular post each week, for most weeks, and also had a comment from me on each one. Is that a 33% success rate? Of the students one failed (no posts), one got a credit (2 posts) and one got a HD (lots of posts). Is that a correlation between engagement on the blog and final result? It's been since suggested that blogs are a good predictor of student results for high and low achievers.
 

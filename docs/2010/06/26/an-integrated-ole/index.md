@@ -9,15 +9,15 @@ categories:
 date: 2010-06-26 15:39:30+10:00
 next:
   text: Examining feature adoption - slightly better approach
-  url: /blog2/2010/07/01/examining-feature-adoption-slightly-better-approach/
+  url: /blog/2010/07/01/examining-feature-adoption-slightly-better-approach/
 previous:
   text: Default course sites and wizards - version 2.0
-  url: /blog2/2010/06/25/default-course-sites-and-wizards-version-2-0/
+  url: /blog/2010/06/25/default-course-sites-and-wizards-version-2-0/
 title: An integrated OLE
 type: post
 template: blog-post.html
 ---
-The following is the next part of the evaluation section of chapter 5 of [my thesis](/blog2/research/phd-thesis/). It seeks to evaluate how well the Webfuse system fulfilled the guideline of "an integrated online learning environment" for the period 2000-2004. This is only the first section which talks about the provision of course sites. Subsequent sections will talk about feature adoption, staff and student usage of course sites, and staff and student usage of Wf applications.
+The following is the next part of the evaluation section of chapter 5 of [my thesis](/blog/research/phd-thesis/). It seeks to evaluate how well the Webfuse system fulfilled the guideline of "an integrated online learning environment" for the period 2000-2004. This is only the first section which talks about the provision of course sites. Subsequent sections will talk about feature adoption, staff and student usage of course sites, and staff and student usage of Wf applications.
 
 ### An integrated OLE
 

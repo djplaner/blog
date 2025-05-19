@@ -4,10 +4,10 @@ categories:
 date: 2010-03-09 14:19:49+10:00
 next:
   text: Moodle, outcomes, metadata and curriculum mapping
-  url: /blog2/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
+  url: /blog/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/
 previous:
   text: Fixes and reflections on the early use of BIM
-  url: /blog2/2010/03/09/fixes-and-reflections-on-the-early-use-of-bim/
+  url: /blog/2010/03/09/fixes-and-reflections-on-the-early-use-of-bim/
 title: Outcomes and Moodle
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-It's time to think about the reality of the [curriculum mapping idea](/blog2/research/curriculum-mapping/) that's been kicking around. i.e. how hard/impossible would it be to implement this idea in Moodle.
+It's time to think about the reality of the [curriculum mapping idea](/blog/research/curriculum-mapping/) that's been kicking around. i.e. how hard/impossible would it be to implement this idea in Moodle.
 
 As part of developing BIM I came across the fact that Moodle already supports Outcomes. Something that has some connections with the idea of curriculum mapping. This post is about finding out some more about outcomes as they already existing in Moodle. In fact, it's basically a look at two videos about how to use them.
 

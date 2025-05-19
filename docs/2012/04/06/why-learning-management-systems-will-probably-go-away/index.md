@@ -5,10 +5,10 @@ categories:
 date: 2012-04-06 12:34:22+10:00
 next:
   text: bim2 - working on coordinator - part 1
-  url: /blog2/2012/04/11/bim2-working-on-coordinator-part-1/
+  url: /blog/2012/04/11/bim2-working-on-coordinator-part-1/
 previous:
   text: bim2 - What&#039;s working for coordinator
-  url: /blog2/2012/04/05/bim2-whats-working-for-coordinator/
+  url: /blog/2012/04/05/bim2-whats-working-for-coordinator/
 title: Why learning management systems will probably go away
 type: post
 template: blog-post.html
@@ -565,7 +565,7 @@ Bates' [lists four reasons](http://www.tonybates.ca/2012/04/04/why-learning-mana
     Frankly I don't say anything in an online medium - public or private - that I won't stand by because I'm aware that there's always a chance what was private could become public.
     
 - The choice is not either an LMS or web 2.0 tools  
-    I agree with this one. I've been working on [BAM/BIM](/blog2/research/bam-blog-aggregation-management/) since 2006 as an example of this trend. We also did some work around a "[Web 2.0 course site](/blog2/2007/06/12/cqus-first-web-20-course-site/)" in 2007, see the image below. Based on this experience, however, I do believe that when an "LMS" really starts to work effectively with Web 2.0 tools, then the very nature of the system and how it is supported also needs to change. In particular, it moves away from the "you can only use what's in the integrated system (LMS)" approach currently popular. This will be a challenge, just a few weeks ago I was told "not to use any non-ICT approved cloud services".
+    I agree with this one. I've been working on [BAM/BIM](/blog/research/bam-blog-aggregation-management/) since 2006 as an example of this trend. We also did some work around a "[Web 2.0 course site](/blog/2007/06/12/cqus-first-web-20-course-site/)" in 2007, see the image below. Based on this experience, however, I do believe that when an "LMS" really starts to work effectively with Web 2.0 tools, then the very nature of the system and how it is supported also needs to change. In particular, it moves away from the "you can only use what's in the integrated system (LMS)" approach currently popular. This will be a challenge, just a few weeks ago I was told "not to use any non-ICT approved cloud services".
     
     [![Home page for Web 2.0 course site](images/4677968716_99cc6a2cd0_m.jpg)](http://www.flickr.com/photos/david_jones/4677968716/ "Home page for Web 2.0 course site by David T Jones, on Flickr")
     

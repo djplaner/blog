@@ -11,10 +11,10 @@ categories:
 date: 2009-03-20 14:07:22+10:00
 next:
   text: Postman's - 5 things to know about technological change and e-learning
-  url: /blog2/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/
+  url: /blog/2009/03/20/postmans-5-things-to-know-about-technological-change-and-e-learning/
 previous:
   text: 'PhD Update - Week #4 - Frustration and progress'
-  url: /blog2/2009/03/20/phd-update-week-4-frustration-and-progress/
+  url: /blog/2009/03/20/phd-update-week-4-frustration-and-progress/
 title: Cognition - we're not rational and how it impacts e-learning
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ If you can help, please comment on [his post](http://corzandeffect.wordpress.com
 
 My particular interest in cognition is that most information systems processes (e.g. governance, software development) are based on the assumption of rational people making object decisions drawing on all available evidence. My experience suggests that this is neither possible nor true. For me, this observation explains most of the limitations and failures associated with the design and support of information systems for e-learning (and information systems more generally).
 
-I've written about [aspects of this before](/blog2/2009/01/27/some-possible-reasons-why-comparison-of-information-systems-are-broken/) and [again](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/).
+I've written about [aspects of this before](/blog/2009/01/27/some-possible-reasons-why-comparison-of-information-systems-are-broken/) and [again](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/).
 
 So, as time progresses I'm hoping to add to this list in terms of references, examples and additional aspects.
 
@@ -59,7 +59,7 @@ So, as time progresses I'm hoping to add to this list in terms of references, ex
     
     > This builds on naturalistic decision theory in particular the experimental and observational work of Gary Klein (1944) now validated by neuro-science, that the basis of human decision is a first fit pattern matching with past experience or extrapolated possible experience. Humans see the world both visually and conceptually as a series of spot observations and they fill in the gaps from previous experience, either personal or narrative in nature. Interviewed they will rationalize the decision in whatever is acceptable to the society to which they belong: “a tree spirit spoke to me” and “I made a rational decision having considered all the available facts” have the same relationship to reality
     
-    I'm guessing that [Kaplan's law of instrument](/blog2/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/) is somewhat related.
+    I'm guessing that [Kaplan's law of instrument](/blog/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/) is somewhat related.
     
 - The fight or flight reaction.
 - We make assumptions.

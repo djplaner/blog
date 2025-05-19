@@ -4,10 +4,10 @@ categories:
 date: 2011-08-08 14:03:52+10:00
 next:
   text: Some literature on perceptions of IPT and IT/CS courses
-  url: /blog2/2011/08/08/some-literature-on-perceptions-of-ipt-and-itcs-courses/
+  url: /blog/2011/08/08/some-literature-on-perceptions-of-ipt-and-itcs-courses/
 previous:
   text: Is the teaching of IT/CS in high school turning people off?
-  url: /blog2/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/
+  url: /blog/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/
 title: What is important when testing students?
 type: post
 template: blog-post.html

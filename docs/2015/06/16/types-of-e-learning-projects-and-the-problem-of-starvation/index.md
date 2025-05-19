@@ -7,10 +7,10 @@ date: 2015-06-16 10:55:59+10:00
 next:
   text: Exploring BIM + sentiment analysis - what might it say about student blog
     posts
-  url: /blog2/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
+  url: /blog/2015/06/16/exploring-bim-sentiment-analysis-what-might-it-say-about-student-blog-posts/
 previous:
   text: Import/export ePubs into the Moodle book module
-  url: /blog2/2015/06/15/importexport-epubs-into-the-moodle-book-module/
+  url: /blog/2015/06/15/importexport-epubs-into-the-moodle-book-module/
 title: Types of e-learning projects and the problem of starvation
 type: post
 template: blog-post.html
@@ -209,7 +209,7 @@ This information is not in any database. It's mostly a collection of email messa
 
 ### Send the email
 
-Now it's time to send the email. In a perfect world I would like to send a personalised email message. A message that includes the student's name and perhaps other details about their participation in the course. Moodle doesn't appear to [provide an email merge facility](/blog2/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/). In theory Office provides some functionality this way but I use a Mac and the Office stuff never seems to work easily on the Mac (and I'm biased against Office).
+Now it's time to send the email. In a perfect world I would like to send a personalised email message. A message that includes the student's name and perhaps other details about their participation in the course. Moodle doesn't appear to [provide an email merge facility](/blog/2010/05/28/one-potential-approach-to-provide-a-moodle-email-merge-facility/). In theory Office provides some functionality this way but I use a Mac and the Office stuff never seems to work easily on the Mac (and I'm biased against Office).
 
 So I don't send out a personalised email. Just the one email message to these specific students but with only generic content. Many still appear to appreciate the practice. For example, this is a response from one of the students who received one of these emails for a prior assignment (emphasis added)
 
@@ -259,7 +259,7 @@ In some discussions with @beerc and @damoclarky we've identified five separate t
     
 5. Course or pedagogical design specific projects.
     
-    These are projects that are specific to a particular pedagogical design. Perhaps unique to a single course. e.g. the ["more student details" Greasemonkey script](/blog2/2014/11/13/adding-more-student-information-to-a-moodle-course/) (see more recent screenshot below) that I've implemented for EDC3100. The pedagogical design for this course makes use of both Moodle's [activity completion facility](https://docs.moodle.org/29/en/Activity_completion) and the [BIM module](https://moodle.org/plugins/view/mod_bim).
+    These are projects that are specific to a particular pedagogical design. Perhaps unique to a single course. e.g. the ["more student details" Greasemonkey script](/blog/2014/11/13/adding-more-student-information-to-a-moodle-course/) (see more recent screenshot below) that I've implemented for EDC3100. The pedagogical design for this course makes use of both Moodle's [activity completion facility](https://docs.moodle.org/29/en/Activity_completion) and the [BIM module](https://moodle.org/plugins/view/mod_bim).
     
     I'm willing to bet large amounts of money that my course is currently the only course that uses this particular combination. This specific version of the tool is unlikely to be valuable to other people. It won't scale (though the principles behind it might). There's no point in trying to scale this tool, but it provides real benefit to me and the students in my course.
     

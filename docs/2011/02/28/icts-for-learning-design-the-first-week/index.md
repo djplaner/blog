@@ -6,10 +6,10 @@ date: 2011-02-28 10:40:22+10:00
 next:
   text: The dissonance between the constructivist paradigm and the implementation
     of institutional e-learning
-  url: /blog2/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
+  url: /blog/2011/03/02/the-dissonance-between-the-constructivist-paradigm-and-institutional-e-learning/
 previous:
   text: Thoughts and applications of connectivism
-  url: /blog2/2011/02/28/thoughts-and-applications-of-connectivism/
+  url: /blog/2011/02/28/thoughts-and-applications-of-connectivism/
 title: ICTs for learning design - the first week
 type: post
 template: blog-post.html
@@ -159,7 +159,7 @@ And so, we're into learning styles, multiple intelligences etc as the way to kno
 
 Okay, so now I'm doing [the survey](http://www.engr.ncsu.edu/learningstyles/ilsweb.html) and finding myself saying "neither a nor b", "it depends", "sometimes a bit of a and a bit of b". Another concern I have about these instruments.
 
-Seems I have to [post another entry](/blog2/2011/02/25/learning-styles-teaching-and-digital-pedagogy/) on this question.
+Seems I have to [post another entry](/blog/2011/02/25/learning-styles-teaching-and-digital-pedagogy/) on this question.
 
 #### Multiple intelligences
 
@@ -217,7 +217,7 @@ First up, the [Engage me or enrage me article](http://net.educause.edu/ir/librar
 
 Then there's an argument about how the top 3 selling games of the era offer vast and engaging experiences that kids aren't getting at school - this is showing how backward school is. But [this 2008 US survey](http://www.theesa.com/facts/pdfs/ESA_EF_2008.pdf) suggests that the average age of gamers is 35. Only 25% of gamers is under 18, 75% are over. So it's perhaps not the students purchasing those games.
 
-Okay, now there is a point about students being able to handle systems or problems much more complex than what they are being given at school. There's the example of a 4yo gamer being bored to tears by "learning games". Mmm, final [blog post](/blog2/2011/02/27/prensky-immigrants-and-old-problems-in-new-bottles/) on this section.
+Okay, now there is a point about students being able to handle systems or problems much more complex than what they are being given at school. There's the example of a 4yo gamer being bored to tears by "learning games". Mmm, final [blog post](/blog/2011/02/27/prensky-immigrants-and-old-problems-in-new-bottles/) on this section.
 
 #### A brief overview of learning theory
 

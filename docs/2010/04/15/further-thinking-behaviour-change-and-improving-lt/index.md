@@ -6,11 +6,11 @@ categories:
 date: 2010-04-15 11:03:58+10:00
 next:
   text: Framing a body of research and innovation
-  url: /blog2/2010/04/15/framing-a-body-of-research-and-innovation/
+  url: /blog/2010/04/15/framing-a-body-of-research-and-innovation/
 previous:
   text: Identifying and designing interventions to improve L&#038;T - a behaviour
     change framework?
-  url: /blog2/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
+  url: /blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/
 title: '"Further thinking - behaviour change and improving L&#038;T"'
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This post is an attempt to synthesize and reflect more upon two posts from yesterday. [One from me](/blog2/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) trying to explain an early form of a framework for improving L&T based on findings from psychology behavior change research. [The second](http://mathehu.wordpress.com/2010/04/14/is-behaviour-change-the-best-approach-to-improve-learning-and-teaching-at-universities/) from Markus that expands on the potential psychological foundations for this thinking by mentioning:
+This post is an attempt to synthesize and reflect more upon two posts from yesterday. [One from me](/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/) trying to explain an early form of a framework for improving L&T based on findings from psychology behavior change research. [The second](http://mathehu.wordpress.com/2010/04/14/is-behaviour-change-the-best-approach-to-improve-learning-and-teaching-at-universities/) from Markus that expands on the potential psychological foundations for this thinking by mentioning:
 
 - The [recommendations section](http://egap.evidence.nhs.uk/PH06/guidance/section_3) of a UK National Health Service (NHS) document outlining some generic principles for initiatives to support attitude and behaviour change.
 - The concept of [salutogensis](http://heapro.oxfordjournals.org/cgi/content/full/21/3/238), at least as a cliff hanger for a subsequent post.
@@ -45,7 +45,7 @@ The following is my attempt to summarise and make some initial connections betwe
 The NHS document is said to highlight the need for "interventions and programmes aimed at changing behaviour" to:
 
 - Be based on a sound knowledge of community needs and should build upon the existing skills and resources within a community.  
-    To me, for improving and learning and teaching this speaks of a need for [empathy-driven innovation and for a focus on what the teacher does](/blog2/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/#empathy).
+    To me, for improving and learning and teaching this speaks of a need for [empathy-driven innovation and for a focus on what the teacher does](/blog/2010/04/14/identifying-and-designing-interventions-to-improve-lt-a-behaviour-change-framework/#empathy).
 - Equip practitioners with the necessary competencies and skills to support behaviour change, using evidence-based tools.  
     My understanding is that "practitioners" refer to the people helping the change, not the actual teachers. Interesting.
 - Evaluate all interventions.  

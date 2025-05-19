@@ -4,17 +4,17 @@ categories:
 date: 2014-02-03 15:22:35+10:00
 next:
   text: Identifying some immediate changes to BIM
-  url: /blog2/2014/02/05/identifying-some-immediate-changes-to-bim/
+  url: /blog/2014/02/05/identifying-some-immediate-changes-to-bim/
 previous:
   text: 'MAV, #moodle, process analytics and how I&#039;m an idiot'
-  url: /blog2/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/
+  url: /blog/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/
 tags:
 - mav
 title: Analysing EDC3100 using MAV
 type: post
 template: blog-post.html
 ---
-Now that I have the [Moodle Activity Viewer (MAV)](/blog2/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/) working, I can [continue the analysis](/blog2/2014/01/22/what-should-be-covered-in-edc3100/) of the course I teach, [EDC3100, ICTs and Pedagogy](http://www.usq.edu.au/course/synopses/2014/EDC3100.html). This post documents some reflections on the existing collection of activities and resources in the course informed somewhat by the insights provided by MAV.
+Now that I have the [Moodle Activity Viewer (MAV)](/blog/2014/02/02/moodle-activity-viewer-mav-and-the-promise-for-bricolage/) working, I can [continue the analysis](/blog/2014/01/22/what-should-be-covered-in-edc3100/) of the course I teach, [EDC3100, ICTs and Pedagogy](http://www.usq.edu.au/course/synopses/2014/EDC3100.html). This post documents some reflections on the existing collection of activities and resources in the course informed somewhat by the insights provided by MAV.
 
 [This rather long image](http://www.flickr.com/photos/david_jones/12259871663/sizes/o/) shows MAV's modification of the semester 1 course site for EDC3100. In the following I'll be focusing on the Semester 2 offering as its the latest and greatest version. The shortcoming of analysing this offering is that it's only taken by on-campus students.
 
@@ -172,7 +172,7 @@ Further questions/tasks
         
     - Share your introductions Forum (574 clicks, 96 students)
     
-    Where the students are meant to post their introductions. This is where MAV is particularly interesting, so much so it sparked [another blog post](/blog2/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/). In short, I need to revisit this activity.
+    Where the students are meant to post their introductions. This is where MAV is particularly interesting, so much so it sparked [another blog post](/blog/2014/02/03/mav-moodle-process-analytics-and-im-an-idiot/). In short, I need to revisit this activity.
     
 - Overwhelmed? Toolbelt theory, PKM and reflection
     - PKM and Reflection Book (285 clicks, 94 students)

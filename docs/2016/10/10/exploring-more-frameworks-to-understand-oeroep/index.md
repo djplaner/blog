@@ -4,10 +4,10 @@ categories:
 date: 2016-10-10 15:18:54+10:00
 next:
   text: Some MAV tasters
-  url: /blog2/2016/10/28/some-mav-tasters/
+  url: /blog/2016/10/28/some-mav-tasters/
 previous:
   text: Some findings from initial exploration of Moodle Book usage
-  url: /blog2/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
+  url: /blog/2016/10/06/some-findings-from-initial-exploration-of-moodle-book-usage/
 title: Exploring more frameworks to understand OER/OEP
 type: post
 template: blog-post.html
@@ -39,7 +39,7 @@ pingbacks:
     []
     
 ---
-What follows is a continuation of an [earlier exploration](/blog2/2016/09/01/exploring-frameworks-to-understand-oeroep/) into extant "frameworks" to understand OER/OEP.
+What follows is a continuation of an [earlier exploration](/blog/2016/09/01/exploring-frameworks-to-understand-oeroep/) into extant "frameworks" to understand OER/OEP.
 
 ## The OPAL OEP guide
 
@@ -93,7 +93,7 @@ And supplemented it with four dimensions from the OEP social configuration frame
 
 that current OEP evaluation frameworks are not sufficiently comprehensive nor nuanced to capture all of these practices; indeed, the models reduce the three case studies to appearing very similar (p. 184)
 
-Other weaknesses are identified, but I wonder how much of this is simply weaknesses inherent in all models ([they are all wrong](/blog2/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/) at some level/perspective). For example, the following from Coughlan and Perryman (2015)
+Other weaknesses are identified, but I wonder how much of this is simply weaknesses inherent in all models ([they are all wrong](/blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/) at some level/perspective). For example, the following from Coughlan and Perryman (2015)
 
 For example, influential frameworks such as the OPAL matrix, with its language of teachers, courses and educational institutions, are overly narrow and do not map easily outside academia.
 
@@ -103,7 +103,7 @@ OPAL (2011) the proceed to provide a maturity matrix to position an organisation
 
 ## Relationship between OPAL and Stagg
 
-The [last exploration](/blog2/2016/09/01/exploring-frameworks-to-understand-oeroep/) of OEP frameworks was largely focused on Stagg (2014) who developed a continuum of open practice.   Stagg and most of the other frameworks covered in that earlier exploration have an institutional focus. They include consideration of what the institution can/should do to support OEP.
+The [last exploration](/blog/2016/09/01/exploring-frameworks-to-understand-oeroep/) of OEP frameworks was largely focused on Stagg (2014) who developed a continuum of open practice.   Stagg and most of the other frameworks covered in that earlier exploration have an institutional focus. They include consideration of what the institution can/should do to support OEP.
 
 But what about moving beyond the institution? Integrating OEP into teacher education would seem to place some value on engaging with the professions, which is beyond any single university.  How does that work? What is required there?
 

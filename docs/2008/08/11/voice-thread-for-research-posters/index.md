@@ -4,10 +4,10 @@ categories:
 date: 2008-08-11 13:37:07+10:00
 next:
   text: Creating a voice thread presentation
-  url: /blog2/2008/08/11/creating-a-voice-thread-presentation/
+  url: /blog/2008/08/11/creating-a-voice-thread-presentation/
 previous:
   text: Gathering principles for Web 2.0 - PLEs
-  url: /blog2/2008/08/11/gathering-principles-for-web-20-ples/
+  url: /blog/2008/08/11/gathering-principles-for-web-20-ples/
 title: Voice Thread for Research Posters
 type: post
 template: blog-post.html

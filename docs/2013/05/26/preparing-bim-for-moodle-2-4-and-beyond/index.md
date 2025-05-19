@@ -4,10 +4,10 @@ categories:
 date: 2013-05-26 09:55:43+10:00
 next:
   text: One-size-fits-all formulas
-  url: /blog2/2013/05/29/one-size-fits-all-formulas/
+  url: /blog/2013/05/29/one-size-fits-all-formulas/
 previous:
   text: Which Moodle (or other LMS) tool is best at support and training?
-  url: /blog2/2013/05/23/which-moodle-or-other-lms-tool-is-best-at-support-and-training/
+  url: /blog/2013/05/23/which-moodle-or-other-lms-tool-is-best-at-support-and-training/
 title: Preparing BIM for Moodle 2.4 (and beyond?)
 type: post
 template: blog-post.html
@@ -32,13 +32,13 @@ pingbacks:
 ---
 Time for a bit of coding. The following has gone on over a few weeks.
 
-[BIM](/blog2/research/bam-blog-aggregation-management/) has been added into the [Moodle plugin database](https://moodle.org/plugins/view.php?plugin=mod_bim). A part of this is providing versions of the plugin that work with each of the versions of Moodle. Currently BIM is available for Moodle versions 2.0 through 2.3. I need to provide a version that works with Moodle 2.4 and perhaps explore what, if anything different, is required for the imminent (since released) Moodle 2.5 release. This is a record of that work.
+[BIM](/blog/research/bam-blog-aggregation-management/) has been added into the [Moodle plugin database](https://moodle.org/plugins/view.php?plugin=mod_bim). A part of this is providing versions of the plugin that work with each of the versions of Moodle. Currently BIM is available for Moodle versions 2.0 through 2.3. I need to provide a version that works with Moodle 2.4 and perhaps explore what, if anything different, is required for the imminent (since released) Moodle 2.5 release. This is a record of that work.
 
 ### Misc updates
 
 First, it's time to update the various BIM related pages
 
-- The [BIM page](/blog2/research/bam-blog-aggregation-management/) on this blog needed updating to show that BIM is now available via the Moodle plugin database.
+- The [BIM page](/blog/research/bam-blog-aggregation-management/) on this blog needed updating to show that BIM is now available via the Moodle plugin database.
 - The Moodle docs [BIM page](http://docs.moodle.org/24/en/BIM_module) also needs updating due to this progress.
 
 ### Misc bugs

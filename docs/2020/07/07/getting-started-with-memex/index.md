@@ -5,17 +5,17 @@ coverImage: 2407833520_69e9e59ea4_o-e1594164072247.jpg
 date: 2020-07-07 11:20:22+10:00
 next:
   text: Pondering if and how Hax & web components fit in Blackboard
-  url: /blog2/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/
+  url: /blog/2020/08/01/pondering-if-and-how-hax-web-components-fit-in-blackboard/
 previous:
   text: Designing a personal "memex" with Foam
-  url: /blog2/2020/07/06/designing-a-personal-memex-with-foam/
+  url: /blog/2020/07/06/designing-a-personal-memex-with-foam/
 tags:
 - memex
 title: Getting started with memex
 type: post
 template: blog-post.html
 ---
-My [last post](/blog2/2020/07/06/designing-a-personal-memex-with-foam/) was an exploration of [Foam](https://foambubble.github.io/foam/) (a nascent personal knowledge management and sharing system) and how I might use it. This post documents two steps toward implementation
+My [last post](/blog/2020/07/06/designing-a-personal-memex-with-foam/) was an exploration of [Foam](https://foambubble.github.io/foam/) (a nascent personal knowledge management and sharing system) and how I might use it. This post documents two steps toward implementation
 
 1. Writing blog posts using Foam and syncing to my blog (e.g. this post)
 2. Converting almost 100 notes from [my wikity](http://wikity.djon.es/) into Foam

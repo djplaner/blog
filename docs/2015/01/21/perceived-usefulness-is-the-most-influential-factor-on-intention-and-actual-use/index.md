@@ -5,10 +5,10 @@ categories:
 date: 2015-01-21 15:18:15+10:00
 next:
   text: Trying out a new writing process
-  url: /blog2/2015/01/21/trying-out-a-new-writing-process/
+  url: /blog/2015/01/21/trying-out-a-new-writing-process/
 previous:
   text: Learning to live with a standard look and feel
-  url: /blog2/2015/01/21/learning-to-live-with-a-standard-look-and-feel/
+  url: /blog/2015/01/21/learning-to-live-with-a-standard-look-and-feel/
 title: '"Barriers to higher education technology adoption: Digital fluency or usefulness?"'
 type: post
 template: blog-post.html
@@ -60,7 +60,7 @@ They found that "perceived usefulness (0.50) contributed two times more to inten
 
 > As a result, instructor’s perceived ease of use might not be as important as instructor’s perceived usefulness in this context. Thus, instructors will be more likely to continue to use the system if they consider it useful. Hence, **instructors’ requirements should be taken into consideration when developing web-based learning systems** (Wang & Wang, 2009).
 
-What might that suggest about [the idea](/blog2/2014/09/12/you-want-digitally-fluent-faculty/) from the 2014 Horizon Report that the #1 barrier to higher education technology adoption is the low digital fluency of academic staff?
+What might that suggest about [the idea](/blog/2014/09/12/you-want-digitally-fluent-faculty/) from the 2014 Horizon Report that the #1 barrier to higher education technology adoption is the low digital fluency of academic staff?
 
 Might it suggest that low levels of system adoption says more about the usefulness of the technology, than the fluency of the instructors?Might it suggest that the requirements of instructors aren't being taken into consideration in their development?
 
@@ -74,9 +74,9 @@ Note: In talking about this I'm generally focusing on how institutions implement
 
 Not to surprisingly, this observation has me thinking about the differences between the SET (in their way) mindset used by most institutional e-learning and the (breaking) BAD mindset used by people like myself.
 
-A [SET mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) is takes a **S**trategic approach to deciding what work gets done. It's focus is on achieving the institutional plan or vision. For example, making sure that every course uses the standard look and feel template. Instructors' perceived usefulness of the system is not the prime concern of a SET mindset.
+A [SET mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) is takes a **S**trategic approach to deciding what work gets done. It's focus is on achieving the institutional plan or vision. For example, making sure that every course uses the standard look and feel template. Instructors' perceived usefulness of the system is not the prime concern of a SET mindset.
 
-A [BAD mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) uses bricolage as a way of deciding what work gets done. Ciborra (1992) defined bricolage as the "capability of integrating unique ideas and practical design solutions at the end-user level" (p. 299). Bricolage is about solving the problems experienced by users. Bricolage focuses on enhancing perceived usefulness.
+A [BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) uses bricolage as a way of deciding what work gets done. Ciborra (1992) defined bricolage as the "capability of integrating unique ideas and practical design solutions at the end-user level" (p. 299). Bricolage is about solving the problems experienced by users. Bricolage focuses on enhancing perceived usefulness.
 
 So, would the SET mindset or the BAD mindset contribute to greater levels of adoption?
 

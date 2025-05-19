@@ -4,10 +4,10 @@ categories:
 date: 2009-07-28 15:48:14+10:00
 next:
   text: The design and implementation of Webfuse - Part 1
-  url: /blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/
+  url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/
 previous:
   text: 'BAM into Moodle #6 - Planning and some real coding'
-  url: /blog2/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/
+  url: /blog/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/
 title: '"BAM into Moodle #7 - an eStudyGuide block"'
 type: post
 template: blog-post.html
@@ -88,16 +88,16 @@ pingbacks:
       user_id: '0'
     
 ---
-The [last post](/blog2/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/) provided an overview of what is required to put BAM into Moodle and generated a list of things I have to learn in order to implement it.
+The [last post](/blog/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/) provided an overview of what is required to put BAM into Moodle and generated a list of things I have to learn in order to implement it.
 
-This post will tell at least some of the story of developing my first CQU Moodle block. Whether the block ever gets used in action, is beside the point. The main aim is to give me the opportunity to engage in a bit of [constructionism](http://en.wikipedia.org/wiki/Constructionist_learning). In particular, the block I've decided to have a crack at will help me learn answers to the following questions developed at the end of the [last post](/blog2/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/).
+This post will tell at least some of the story of developing my first CQU Moodle block. Whether the block ever gets used in action, is beside the point. The main aim is to give me the opportunity to engage in a bit of [constructionism](http://en.wikipedia.org/wiki/Constructionist_learning). In particular, the block I've decided to have a crack at will help me learn answers to the following questions developed at the end of the [last post](/blog/2009/07/28/bam-into-moodle-6-planning-and-some-real-coding/).
 
 - In Moodle/PHP, how do you retrieve remote documents over HTTP? Is there a LWP::Simple equivalent?
 - In Moodle/PHP, how do you parse XML?
 
 ### Introducing the eStudyGuide block
 
-[CQU](http://www.cqu.edu.au/) has a history that includes a significant investment in print-based distance education ("The institution" section in [this post](/blog2/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) offers some background). That means that this year there are at least 10,500 students enrolled at CQU studying by distance education. For many of those students the primary scaffolding of their study, which occurs off-campus, is a study guide. A print based guide written by CQU staff that summarises what they should read and do each week.
+[CQU](http://www.cqu.edu.au/) has a history that includes a significant investment in print-based distance education ("The institution" section in [this post](/blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) offers some background). That means that this year there are at least 10,500 students enrolled at CQU studying by distance education. For many of those students the primary scaffolding of their study, which occurs off-campus, is a study guide. A print based guide written by CQU staff that summarises what they should read and do each week.
 
 For the last couple of years [CDDU](http://cddu.cqu.edu.au/) has been working on a [variety of innovations](http://cddu.cqu.edu.au/index.php/Print_material_innovation) around these study guides. Including developing a process that produces better quality versions of study guide in both hard copy and online. Some work has been done to integrate the online study guides with the VLEs used by CQU. However, the institution has now adopted Moodle and while there is a level of integration, it's not great.
 
@@ -146,7 +146,7 @@ The following tells the story of the process I used to put the block together, i
 
 #### Getting a dummy eStudyGuide block
 
-[BAM into Moodle post #5](/blog2/2009/07/23/bam-into-moodle-5-coding-a-block/) details some of the mechanics for this process and it in turn draws heavily on [this page on the Moodle site](http://docs.moodle.org/en/Development:Blocks)
+[BAM into Moodle post #5](/blog/2009/07/23/bam-into-moodle-5-coding-a-block/) details some of the mechanics for this process and it in turn draws heavily on [this page on the Moodle site](http://docs.moodle.org/en/Development:Blocks)
 
 The process goes something like this:
 

@@ -4,10 +4,10 @@ categories:
 date: 2016-02-11 11:36:32+10:00
 next:
   text: Sentiment analysis of student blog posts
-  url: /blog2/2016/02/14/sentiment-analysis-of-student-blog-posts/
+  url: /blog/2016/02/14/sentiment-analysis-of-student-blog-posts/
 previous:
   text: Exploring the relationship between learning design and OEP
-  url: /blog2/2016/02/09/on-the-relationship-between-learning-design-and-oep/
+  url: /blog/2016/02/09/on-the-relationship-between-learning-design-and-oep/
 tags:
 - elearning
 title: Minimalism, constructivism and use of Moodle or any other e-learning tool
@@ -24,7 +24,7 @@ the degree of anthropomorphic volition attributed to the software...."You see th
 
 Given the widespread recognition of the limited use of institutional e-learning information systems (e.g. Moodle), I wonder what a similar experiment focused on teacher and student conceptual understanding would reveal?
 
-I'm willing to bet there might be some significant similarities. Especially given my finding last year [that branding the LMS can hurt "learning"](/blog2/2015/07/07/does-branding-the-lms-hurt-learning/).
+I'm willing to bet there might be some significant similarities. Especially given my finding last year [that branding the LMS can hurt "learning"](/blog/2015/07/07/does-branding-the-lms-hurt-learning/).
 
 I wonder if this offers some explanation about why a tool like Moodle - designed from a socio-constructivist perspective - is rarely used that way?
 

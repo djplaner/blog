@@ -6,10 +6,10 @@ date: 2009-02-17 21:47:24+10:00
 next:
   text: Reliability - an argument against using Web 2.0 services in learning? Probably
     not.
-  url: /blog2/2009/02/18/reliability-an-argument-against-using-web-20-services-in-learning/
+  url: /blog/2009/02/18/reliability-an-argument-against-using-web-20-services-in-learning/
 previous:
   text: Some ideas for e-learning indicators - releasing half-baked ideas
-  url: /blog2/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/
+  url: /blog/2009/02/17/some-ideas-for-e-learning-indicators-releasing-half-baked-ideas/
 title: Down with facebook - why I'm going to minimise my use
 type: post
 template: blog-post.html

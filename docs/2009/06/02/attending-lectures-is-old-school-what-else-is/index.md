@@ -5,10 +5,10 @@ categories:
 date: 2009-06-02 14:16:03+10:00
 next:
   text: Tell a story about your garden - narrative and SenseMaker
-  url: /blog2/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
+  url: /blog/2009/06/04/tell-a-story-about-your-garden-narrative-and-sensemaker/
 previous:
   text: The LMS/VLE as a one word language - metaphor and e-learning
-  url: /blog2/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/
+  url: /blog/2009/06/02/the-lmsvle-as-a-one-word-language-metaphor-and-e-learning/
 title: Attending lectures is 'old school' - what else is?
 type: post
 template: blog-post.html

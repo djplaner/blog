@@ -7,11 +7,11 @@ categories:
 date: 2015-10-30 16:19:40+10:00
 next:
   text: Anyone capturing users' post-adoptive behaviours for the LMS? Implications?
-  url: /blog2/2015/10/31/anyone-capturing-users-post-adoptive-behaviours-for-the-lms-implications/
+  url: /blog/2015/10/31/anyone-capturing-users-post-adoptive-behaviours-for-the-lms-implications/
 previous:
   text: Re-purposing V&#038;R mapping to explore modification of digital learning
     spaces
-  url: /blog2/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
+  url: /blog/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
 title: The CSCW view of Knowledge Management
 type: post
 template: blog-post.html
@@ -28,7 +28,7 @@ What follows are a summary and some thoughts on the paper.
 
 The paper's useful in that it appears to give a good overview of the work from CSCW on this topic. Relevant to some of the problem being faced around digital learning.
 
-All this is especially interesting to me due to my interest in exploring the design and impact of [distributed means of sharing knowledge about digital learning](/blog2/2015/09/05/design-of-a-bad-approach-to-developing-tpack/)
+All this is especially interesting to me due to my interest in exploring the design and impact of [distributed means of sharing knowledge about digital learning](/blog/2015/09/05/design-of-a-bad-approach-to-developing-tpack/)
 
 Look at Cabitza and Simone (2012) - two levels of information, and affording mechanisms - as informing design. Their work on knowledge artifacts (Cabitza et al, 2008) might also be interesting.
 
@@ -46,7 +46,7 @@ The "sharing expertise" approach would appear to assume that the people you're t
 
 ### The shift from system to individual practice
 
-At some level the shift in the CSCW work illustrates a shift from focusing on IT systems to a focus on individual practices. The [V&R mapping](/blog2/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/) process illustrates some of this.
+At some level the shift in the CSCW work illustrates a shift from focusing on IT systems to a focus on individual practices. The [V&R mapping](/blog/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/) process illustrates some of this.
 
 ### Context and embedding is important
 

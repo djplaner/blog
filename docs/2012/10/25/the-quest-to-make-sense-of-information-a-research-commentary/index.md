@@ -5,11 +5,11 @@ categories:
 date: 2012-10-25 14:24:24+10:00
 next:
   text: '"Learning analytics: Anything more than just another fad?"'
-  url: /blog2/2012/10/25/learning-analytics-anything-more-than-just-another-fad/
+  url: /blog/2012/10/25/learning-analytics-anything-more-than-just-another-fad/
 previous:
   text: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
     Strategic Plan
-  url: /blog2/2012/10/22/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan/
+  url: /blog/2012/10/22/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan/
 title: '"The quest to make sense of information: A research commentary"'
 type: post
 template: blog-post.html

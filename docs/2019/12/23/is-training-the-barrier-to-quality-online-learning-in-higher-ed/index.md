@@ -6,10 +6,10 @@ coverImage: race.jpg
 date: 2019-12-23 10:58:01+10:00
 next:
   text: Office365, charismatic technologies, and the ecological perspective
-  url: /blog2/2020/01/13/office365-charismatic-technologies-and-the-ecological-perspective/
+  url: /blog/2020/01/13/office365-charismatic-technologies-and-the-ecological-perspective/
 previous:
   text: Theory of workarounds
-  url: /blog2/2019/12/20/theory-of-workarounds/
+  url: /blog/2019/12/20/theory-of-workarounds/
 title: Is training the barrier to quality online learning in higher ed?
 type: post
 template: blog-post.html
@@ -32,7 +32,7 @@ Lalonde isn’t certain why there is this apparent “massive skills gap among i
 
 ## Is training really the barrier?
 
-The image below is from an [ASCILITE’2019](https://2019conference.ascilite.org/) presentation I’m working on for next week (slides, paper and source code available [from here](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/)). The image is from a Blackboard course site. It is not a site for a real course. However, each design decision present in this “course site” is inspired by a practice from an actual course site that was developed by someone with a formal teaching qualification. In some cases, they had more than one formal teaching qualification. Since it’s for a presentation, this example focused on limitations that were visual. A similar example could be generated focusing on design for learning.
+The image below is from an [ASCILITE’2019](https://2019conference.ascilite.org/) presentation I’m working on for next week (slides, paper and source code available [from here](/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/)). The image is from a Blackboard course site. It is not a site for a real course. However, each design decision present in this “course site” is inspired by a practice from an actual course site that was developed by someone with a formal teaching qualification. In some cases, they had more than one formal teaching qualification. Since it’s for a presentation, this example focused on limitations that were visual. A similar example could be generated focusing on design for learning.
 
 The point is that these practices were taken from courses developed by people with formal teaching qualifications. Exactly the solution being suggested. Given we are now 20+ years into the digital/online learning revolution, this seems to suggest that more training and formal qualifications in (online) learning are not likely to help improve the quality of online learning. Suggesting that the barrier is not (just) a lack of training.
 
@@ -114,7 +114,7 @@ That’s the (significantly more than) $64K question. More training, better (or 
 
 Ellis and Goodyear (Ellis & Goodyear, 2019) offer a research-based book that offers both diagnosis and remedy. The (second) best top-level answer to the question I’ve seen so far.
 
-The work I describe in this [year's ASCILITE paper/presentation](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/) describes one meso-level practitioners attempt at a possible solution derived by combining some of ideas from Ellis and Goodyear (2019) with some other ideas.
+The work I describe in this [year's ASCILITE paper/presentation](/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/) describes one meso-level practitioners attempt at a possible solution derived by combining some of ideas from Ellis and Goodyear (2019) with some other ideas.
 
 Though whether these theoretical answers are good answers is waiting further work.
 

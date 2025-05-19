@@ -9,10 +9,10 @@ categories:
 date: 2009-05-08 12:17:21+10:00
 next:
   text: '"PhD Update #10 - Dragging on"'
-  url: /blog2/2009/05/08/phd-update-10-dragging-on/
+  url: /blog/2009/05/08/phd-update-10-dragging-on/
 previous:
   text: Society - an aspect of Place impacting on e-learning
-  url: /blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
+  url: /blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/
 title: Sector - another part of Place
 type: post
 template: blog-post.html
@@ -65,13 +65,13 @@ pingbacks:
       user_id: '0'
     
 ---
-Looks like I'm on a bit of a roll with the "good enough" approach - soon to halt I'm sure. The following is the next section of the [Place](/blog2/2009/05/06/place-component-of-the-ps-framework/) component of the Ps Framework section for chapter 2 of the thesis.
+Looks like I'm on a bit of a roll with the "good enough" approach - soon to halt I'm sure. The following is the next section of the [Place](/blog/2009/05/06/place-component-of-the-ps-framework/) component of the Ps Framework section for chapter 2 of the thesis.
 
-This section takes the [previously identified societal changes](/blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/) and attempts to illustrate their effect on the higher education sector. Again, the basic aim is not to be exhaustive but to provide an indication that the sector is undergoing lots of change and that the outcomes are unpredictable.
+This section takes the [previously identified societal changes](/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/) and attempts to illustrate their effect on the higher education sector. Again, the basic aim is not to be exhaustive but to provide an indication that the sector is undergoing lots of change and that the outcomes are unpredictable.
 
 ### Sector
 
-The [previous section (2.1.1 - Society)](/blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/) briefly described the societal factors that impact upon both higher education and other parts of society. This section seeks to expand upon the implications those broader societal factors have for the higher education sector. It suggests that the three features of globalisation outlined in the previous section – a minimalist state, entrepreneurialization and managerialization, and the knowledge society – are likely to result in significant and uncertain change in higher education and consequently drive on-going change in the nature and practice of e-learning within higher education. However, drawing on Vaira's (2004) idea of mutual implication, it is suggested that the outcomes of those changes is somewhat uncertain and is likely to emerge from an on-going reflexive process. It argues that the capability to respond and engage in this process of change is perhaps the most important quality required of higher education.
+The [previous section (2.1.1 - Society)](/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/) briefly described the societal factors that impact upon both higher education and other parts of society. This section seeks to expand upon the implications those broader societal factors have for the higher education sector. It suggests that the three features of globalisation outlined in the previous section – a minimalist state, entrepreneurialization and managerialization, and the knowledge society – are likely to result in significant and uncertain change in higher education and consequently drive on-going change in the nature and practice of e-learning within higher education. However, drawing on Vaira's (2004) idea of mutual implication, it is suggested that the outcomes of those changes is somewhat uncertain and is likely to emerge from an on-going reflexive process. It argues that the capability to respond and engage in this process of change is perhaps the most important quality required of higher education.
 
 #### Significant change
 

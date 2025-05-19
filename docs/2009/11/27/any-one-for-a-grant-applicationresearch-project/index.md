@@ -5,10 +5,10 @@ categories:
 date: 2009-11-27 15:36:25+10:00
 next:
   text: What am I doing?
-  url: /blog2/2009/12/01/what-am-i-doing/
+  url: /blog/2009/12/01/what-am-i-doing/
 previous:
   text: Reflections on asw2a
-  url: /blog2/2009/11/24/reflections-on-asw2a/
+  url: /blog/2009/11/24/reflections-on-asw2a/
 title: Any one for a grant application/research project?
 type: post
 template: blog-post.html

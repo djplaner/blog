@@ -5,10 +5,10 @@ categories:
 date: 2011-04-12 15:16:56+10:00
 next:
   text: Exploring minecraft
-  url: /blog2/2011/04/12/exploring-minecraft/
+  url: /blog/2011/04/12/exploring-minecraft/
 previous:
   text: What shapes how we think?
-  url: /blog2/2011/04/12/what-shapes-how-we-think/
+  url: /blog/2011/04/12/what-shapes-how-we-think/
 title: Group 4 Technologies - Activities
 type: post
 template: blog-post.html
@@ -17,7 +17,7 @@ And so the final group of technologies to play with prior to the assignment. Thi
 
 ### Animations and simulations
 
-I have a bit of experience with using and helping create (usually in a fairly minimal role) animations and simulations as evidenced in some publications ([Chernich and Jones, 1994](/blog2/publications/the-design-and-construction-of-a-simulated-operating-system/); [Chernich, Jamieson and Jones, 1995](/blog2/publications/rcos-yet-another-teaching-operating-system/); Jones and Newman, [2001](https://djon.es/Publications/rcos.pdf); [2002](https://djon.es/Publications/rcos1.pdf)). All of those publications were about various versions of Ron Chernich's Operating System (RCOS). RCOS was a simulated operating system in that it actually ran programs and managed I/O devices etc. But it also showed animations of the internal algorithms and data structures that the operating system used to perform these tasks.
+I have a bit of experience with using and helping create (usually in a fairly minimal role) animations and simulations as evidenced in some publications ([Chernich and Jones, 1994](/blog/publications/the-design-and-construction-of-a-simulated-operating-system/); [Chernich, Jamieson and Jones, 1995](/blog/publications/rcos-yet-another-teaching-operating-system/); Jones and Newman, [2001](https://djon.es/Publications/rcos.pdf); [2002](https://djon.es/Publications/rcos1.pdf)). All of those publications were about various versions of Ron Chernich's Operating System (RCOS). RCOS was a simulated operating system in that it actually ran programs and managed I/O devices etc. But it also showed animations of the internal algorithms and data structures that the operating system used to perform these tasks.
 
 The following images show the same basic view. First in RCOS, the MS-DOS version of from the early 1990s.
 
@@ -137,7 +137,7 @@ Which begs the question as to what tool to choose. Some of the possibilities I h
 - [Minecraft](http://www.minecraft.net/) - a construction game which is being [used in teaching](http://minecraftteacher.tumblr.com/) and getting some [positive feedback](http://deangroom.wordpress.com/2011/04/01/how-to-teach-with-minecraft-in-an-hour/).  
     This connects somewhat with the simulation category this week, but goes beyond that. It does lead me to thinking about the role of games in education which is becoming increasingly prevalent.
 - [Scratch](http://scratch.mit.edu/), [Alice](http://alice.org/) or some other introductory programming language.  
-    This is really getting into Papert/constructionist territory. A programming language would normally be seen as something restricted to IT courses, but there's an argument to be made that programming should be something everyone learns (e.g. [Ruskhoff's program or be programmed argument](/blog2/2011/01/06/a-command-for-organisations-program-or-be-programmed/)).
+    This is really getting into Papert/constructionist territory. A programming language would normally be seen as something restricted to IT courses, but there's an argument to be made that programming should be something everyone learns (e.g. [Ruskhoff's program or be programmed argument](/blog/2011/01/06/a-command-for-organisations-program-or-be-programmed/)).
 - Python or some other "real" programming language.  
     For example, [the idea of programming in math/sciences](http://brokenairplane.blogspot.com/p/programming-resources.html).
 - [ManyEyes](http://www-958.ibm.com/software/data/cognos/manyeyes/) or similar data visualisation tool. Especially when used in connection with some of the [open data repositories](http://oad.simmons.edu/oadwiki/Data_repositories) and the ideas associated with quantitative literacies. Or, alternatively, just with data provided by the students.

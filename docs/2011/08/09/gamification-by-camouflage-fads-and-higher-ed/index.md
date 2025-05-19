@@ -4,10 +4,10 @@ categories:
 date: 2011-08-09 08:56:35+10:00
 next:
   text: Khan academy, gamification, the flipped classroom and mathematics
-  url: /blog2/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/
+  url: /blog/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/
 previous:
   text: Some literature on perceptions of IPT and IT/CS courses
-  url: /blog2/2011/08/08/some-literature-on-perceptions-of-ipt-and-itcs-courses/
+  url: /blog/2011/08/08/some-literature-on-perceptions-of-ipt-and-itcs-courses/
 tags:
 - eportfolios
 - gamification
@@ -27,7 +27,7 @@ This all looks very interesting. Given the space and time I'd like to think and 
 Over the next couple of years the ed tech conferences and journals are going to be full of publications about gamification. These publications will fall into the standard categories
 
 1. Various experts offering theoretical insights into why it is a good thing and will change education.
-2. The [Edupunk](/blog2/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/) doing some really interesting things, but struggling against the inertia of the institution and its IT department.
+2. The [Edupunk](/blog/2009/04/09/edupunk-rules-technology-i-ii-and-3-understanding-and-improving-the-practice-of-instructional-technology/) doing some really interesting things, but struggling against the inertia of the institution and its IT department.
 3. Vendor, or early adopter of a tool, arguing why it will be great based on experiment with a class of 10 students doing a game design course (i.e. low lying fruit).
 4. The small scale project with a keen academic/teacher with some support from an IT department or L&T support centre.
 5. Luddite arguing why it will never work and should never be tried. Especially for legal reasons.
@@ -40,4 +40,4 @@ Over the next couple of years the ed tech conferences and journals are going to 
 
 Currently, it looks like we're around about step 1 or 2. The vendors and luddites can't be too far away.
 
-I hope it doesn't go this way, but I'm not confident. It strike me as yet another [fad cycle](/blog2/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/) in the making. Simply because the [grammar of school/university](/blog2/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) will be to strong for the innovation. It will be mutated into something that makes sense within the current grammar, thereby robbing it of its innovative capacity.
+I hope it doesn't go this way, but I'm not confident. It strike me as yet another [fad cycle](/blog/2009/04/02/the-fad-cycle-in-learning-teaching-a-historical-perspective/) in the making. Simply because the [grammar of school/university](/blog/2009/04/24/models-of-growth-responding-to-the-grammar-of-school/) will be to strong for the innovation. It will be mutated into something that makes sense within the current grammar, thereby robbing it of its innovative capacity.

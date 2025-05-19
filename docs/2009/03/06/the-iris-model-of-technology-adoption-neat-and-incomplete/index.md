@@ -9,10 +9,10 @@ categories:
 date: 2009-03-06 09:18:54+10:00
 next:
   text: The weak second album (PhD update)
-  url: /blog2/2009/03/06/the-weak-second-album-phd-update/
+  url: /blog/2009/03/06/the-weak-second-album-phd-update/
 previous:
   text: Place - the industrial society&#039;s impact on schools - and universities?
-  url: /blog2/2009/03/05/place-the-industrial-societys-impact-on-schools-and-universities/
+  url: /blog/2009/03/05/place-the-industrial-societys-impact-on-schools-and-universities/
 title: The IRIS model of Technology Adoption - neat and incomplete?
 type: post
 template: blog-post.html
@@ -55,13 +55,13 @@ At the moment, I think I'm going to identify three sources:
 
 ### It's too neat
 
-[I've argued before](/blog2/2009/02/16/frameworks-and-representation-tidy-versus-messy/) that frameworks and their graphical representations tend to make the inherently messy, too neat.
+[I've argued before](/blog/2009/02/16/frameworks-and-representation-tidy-versus-messy/) that frameworks and their graphical representations tend to make the inherently messy, too neat.
 
 > One of the things I don’t like about frameworks is that they have (for very good reasons) to be tidy. This certainly helps understanding, a key purpose of frameworks, but it also can give the false impression of tidiness, of simplicity of a tame problem. My interest is currently in e-learning within universities, which I consider to be extremely messy. To me it is an example of a wicked problem.
 
 Innovation in any reasonably complex social system is also a wicked problem.
 
-Part of my disquiet about the neatness is how I've seen models, frameworks and taxonomies used within organisations. They've been used as a replacement for recognising, understanding and dealing with the complexities and messiness of the real situation. Some of the [sentiment expressed by Jim Groom](http://bavatuesdays.com/edupunk-battle-royale-part-3/) about leadership captures some of this. I've seen this problem lead too often to [faddish and fashionable adoption](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) of innovations. I tend to think much of the organisational implementation of e-learning is based on fads and fashions.
+Part of my disquiet about the neatness is how I've seen models, frameworks and taxonomies used within organisations. They've been used as a replacement for recognising, understanding and dealing with the complexities and messiness of the real situation. Some of the [sentiment expressed by Jim Groom](http://bavatuesdays.com/edupunk-battle-royale-part-3/) about leadership captures some of this. I've seen this problem lead too often to [faddish and fashionable adoption](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) of innovations. I tend to think much of the organisational implementation of e-learning is based on fads and fashions.
 
 That said, a neat graphical representation is a good way to start understanding, but it's not the end game.
 
@@ -71,13 +71,13 @@ Perhaps getting back to the point about misunderstandings arising from context. 
 
 ### It doesn't go far enough
 
-The IRIS model, as it stands, appears to make (based on my interpretation) the same problem that almost all of these types of models make. It focuses mostly on the development and pays little or no attention to the long term use, adaptation and evolution of innovations. I hesitate to label it as such, but the IRIS model seems to have a very strong basis in [teleological design](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) (Jones et al, 2005; Jones and Muldoon, 2007). Again, this could be the impact of perspective and context. It could be me falling into the hole provided by [Kaplan's law of instrument](/blog2/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/).
+The IRIS model, as it stands, appears to make (based on my interpretation) the same problem that almost all of these types of models make. It focuses mostly on the development and pays little or no attention to the long term use, adaptation and evolution of innovations. I hesitate to label it as such, but the IRIS model seems to have a very strong basis in [teleological design](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) (Jones et al, 2005; Jones and Muldoon, 2007). Again, this could be the impact of perspective and context. It could be me falling into the hole provided by [Kaplan's law of instrument](/blog/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/).
 
 Going back to a major component of my [information systems design theory for e-learning](http://www.slideshare.net/davidj/an-information-systems-design-theory-for-elearning) and a quote from an old paper (Jones, Lynch and Jamieson, 2003)
 
 > The world in which systems are developed is not static and entirely predictable - systems will need to be altered and maintained. Maintenance typically consumes about 40 to 80 percent of software costs and 60% of that maintenance cost is due to enhancement (Glass, 2001). That is, adding new capabilities that were not known of during the analysis phase. If maintenance is such a large part of system development the assumption of a period of low-cost maintenance to recoup costs from the analysis and development phases seems less valid. If an organization is operating in a continually changing context then a large investment in up front analysis is a poor investment as requirements change before the end of the analysis stage (Truex & Klein, 1999).
 
-I think there is another step in the IRIS model - let's call it _Evolution_. It's a step that comes after _Systematization_ and has a cyclical relationship with both _Systematization_ and _Innovation_. No innovation survives in its original form once it starts to be used. A whole range of limitations and unexpected affordances of the innovation are discovered as it is used in new and complex settings. This is especially true if the innovation makes use of [some form protean technology](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) that enables and even encourages the modification of the innovation by people within a given context.
+I think there is another step in the IRIS model - let's call it _Evolution_. It's a step that comes after _Systematization_ and has a cyclical relationship with both _Systematization_ and _Innovation_. No innovation survives in its original form once it starts to be used. A whole range of limitations and unexpected affordances of the innovation are discovered as it is used in new and complex settings. This is especially true if the innovation makes use of [some form protean technology](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/) that enables and even encourages the modification of the innovation by people within a given context.
 
 ### Time for the hobby horse
 

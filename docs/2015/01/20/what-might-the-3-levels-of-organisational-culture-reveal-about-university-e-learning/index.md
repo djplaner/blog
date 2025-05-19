@@ -4,10 +4,10 @@ categories:
 date: 2015-01-20 10:53:58+10:00
 next:
   text: Learning to live with a standard look and feel
-  url: /blog2/2015/01/21/learning-to-live-with-a-standard-look-and-feel/
+  url: /blog/2015/01/21/learning-to-live-with-a-standard-look-and-feel/
 previous:
   text: Learning about case study methodology to research higher education
-  url: /blog2/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/
+  url: /blog/2015/01/16/learning-about-case-study-methodology-to-research-higher-education/
 title: What might the 3 levels of organisational culture reveal about university e-learning
 type: post
 template: blog-post.html
@@ -111,18 +111,18 @@ The support video for the assessment tab also proposes that the assessment tab "
 
 Obviously I do not know what assumptions these beliefs are based upon, but the following perhaps are not a million miles away
 
-- Consistency is generally a good thing for learning. Given the institutional strategic plan putting some significant weight to personalisation, creativity and innovation, having everything the same doesn't seem appropriate. Insights from research around learning, teaching, and educational technology would seem to support that. e.g. some of the points from Chris Dede (Harvard Professor of Education) mentioned in [this post](/blog2/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/).
+- Consistency is generally a good thing for learning. Given the institutional strategic plan putting some significant weight to personalisation, creativity and innovation, having everything the same doesn't seem appropriate. Insights from research around learning, teaching, and educational technology would seem to support that. e.g. some of the points from Chris Dede (Harvard Professor of Education) mentioned in [this post](/blog/2009/09/12/dedes-sleeping-eating-and-bonding-metaphor-and-the-diversity-of-learning-and-its-impacts-for-e-learning/).
 - A consistent look and feel will make information more findable. [Wikipedia suggests](http://en.wikipedia.org/wiki/Findability) that findability involves a bit more than just user interface design. Especially when the user interface design is only really helping users locate very specific bits of information. i.e. The new look and feel does make it easy for students to find the forums, assessment, study schedule, and teaching team for a course. Good. But what about the content included in the resources? More on this below in "What about the resources".In short, if findability is a concern, install a search engine!
 - That it's possible to have a consistent look and feel across the diversity of courses in an institution. The new look and feel does have some features that allow for flexibility. Even though this does raise questions about the consistency espoused belief. If no information is entered for assessment or study schedule the students won't see those options in the menu. In addition, the study schedule page provides some flexibility in terms of how many columns form the study schedule and the column titles. Allowing individual courses to substitute in the language they use. However, there's a limit to how far this goes. More on this below in "Grouping the weeks".
 
 An assumption that appears to underpin this new look and feel is that the focus is student centered. The aim is to enhance the student experience. Now that's a good aim, perhaps the best aim. But the follow on assumption in this case is that teaching staff aren't capable of using the online environment to enhance the student experience and that the institution needs to do something.
 
-From 1997 through 2004 I helped design, implement and support [one approach](/blog2/2010/06/07/default-course-sites-and-wizards/) to an institution doing something about this. Since then I've made [the argument](/blog2/2010/06/07/should-academics-manually-create-course-websites/) for this. However, there are two important points missing from the "new look and feel" at my current institution, they are
+From 1997 through 2004 I helped design, implement and support [one approach](/blog/2010/06/07/default-course-sites-and-wizards/) to an institution doing something about this. Since then I've made [the argument](/blog/2010/06/07/should-academics-manually-create-course-websites/) for this. However, there are two important points missing from the "new look and feel" at my current institution, they are
 
-1. the ability to opt out; and There will always be academics who can and wish to create their own course sites. The [approach](/blog2/2010/06/07/default-course-sites-and-wizards/) provided the opportunity for academics to do this.
+1. the ability to opt out; and There will always be academics who can and wish to create their own course sites. The [approach](/blog/2010/06/07/default-course-sites-and-wizards/) provided the opportunity for academics to do this.
 2. an adopter-focused and emergent development approach to the new look and feel. i.e. it's not sufficient for a project team to design the new look and feel and roll it out. There will be inevitably problems with the look and feel and there will be some really good ideas about how to enhance it that emerge from on-going use. How students and staff are using the new look and feel needs to be closely watched and those insights used to continually develop the new look and feel to solve problems and enhance it.
 
-The absence of these points from the new look and feel suggest that there is an underlying assumption that there is nothing to be learned from the teaching staff and their experience. It's a prime example of the "do it to" and perhaps "do it for" paths and an apparent avoidance of the "do it with" path ([Beer et al, 2014](/blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/)).
+The absence of these points from the new look and feel suggest that there is an underlying assumption that there is nothing to be learned from the teaching staff and their experience. It's a prime example of the "do it to" and perhaps "do it for" paths and an apparent avoidance of the "do it with" path ([Beer et al, 2014](/blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/)).
 
 Interestingly, I've just found the following slide on Flickr that purports to represent Schein's cognitive transformation model for analysing organisational cultures. I'm guessing this was the basis for the consultant/facilitator. What I find particularly relevant to the specific decision is the circle around the outside labelled "organisation iteratively adapts" which I see as resonating with the adopter-focused and emergent development approach mentioned above.
 
@@ -150,7 +150,7 @@ Nothing in the new look and feel will help students find this information.
 
 A search engine would.
 
-It would be nice not to have to [implement this kludge again](/blog2/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/) to enable the search.
+It would be nice not to have to [implement this kludge again](/blog/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/) to enable the search.
 
 ### Duplication and confusion
 
@@ -241,7 +241,7 @@ Based on the above, here's a list of questions to answer
 
 1. Can I change the study schedule and assessment links to my existing approaches? Happy to stay with the menu and the new look and feel, but would prefer that the menu link to the relevant Moodle books.
 2. Can I remove the resources link? I don't think it adds any value in my course and is potentially going to cause confusion. So can I remove it. **Question:** I wonder whether the organisation has done any analysis of student usage of the course sites over Semester 3 (when they've been using the new look and feel)?
-3. Can I implement a macro/API system to insert USQ information? The one really useful addition to the new look and feel is the integration with USQ systems to pull information (e.g. dates for each week, assignment due dates etc). The problem is that this functionality is only available within the assessment and study schedule features from the new look and feel. As above, I don't want to use these. However, it would be really useful if there were a combination API and [course site wide macro facility](/blog2/2014/01/22/a-moodle-course-site-wide-macro-facility/) that would allow me to enter something like the following in the HTML for my course \[code lang="html"\] Assignment 1 due: &lt;div class=&quot;assignment\_1\_due\_date&quot; course=&quot;edc3100&quot; offering=&quot;2015\_1&quot;&gt;&lt;/div&gt;\[/code\] and have it automagically replaced with the appropriate due date.
+3. Can I implement a macro/API system to insert USQ information? The one really useful addition to the new look and feel is the integration with USQ systems to pull information (e.g. dates for each week, assignment due dates etc). The problem is that this functionality is only available within the assessment and study schedule features from the new look and feel. As above, I don't want to use these. However, it would be really useful if there were a combination API and [course site wide macro facility](/blog/2014/01/22/a-moodle-course-site-wide-macro-facility/) that would allow me to enter something like the following in the HTML for my course \[code lang="html"\] Assignment 1 due: &lt;div class=&quot;assignment\_1\_due\_date&quot; course=&quot;edc3100&quot; offering=&quot;2015\_1&quot;&gt;&lt;/div&gt;\[/code\] and have it automagically replaced with the appropriate due date.
 
 The API is a step too far, but some kludges with javascript might make the macro possible.
 
@@ -260,8 +260,8 @@ Arguably I've established above that organisational culture contains strong assu
 
 In the workshop a slide was handed around that showed artifacts, espoused beliefs, and assumptions as three vertically arranged boxes (typical Powerpoint). Between assumptions and espoused beliefs, and espoused beliefs and artifacts, there were two arrows, each pointing from one box to the other. The suggestion being that assumptions influence espoused beliefs and espoused beliefs influence assumptions. Similarly for artifacts.
 
-As we've argued in [this paper](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/), I believe that the organisation works on the assumption that its digital artifacts - such as the new look and feel - are established. i.e. they can't be changed by anyone very easily and certainly not be anyone who hasn't been approved via the appropriate governance structure. Hence the arrow suggesting that anything should be changing the artifact is somewhat attenuated when it comes to digital artifacts in enterprises.
+As we've argued in [this paper](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/), I believe that the organisation works on the assumption that its digital artifacts - such as the new look and feel - are established. i.e. they can't be changed by anyone very easily and certainly not be anyone who hasn't been approved via the appropriate governance structure. Hence the arrow suggesting that anything should be changing the artifact is somewhat attenuated when it comes to digital artifacts in enterprises.
 
-However, as we've argued in [another paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) digital technologies are protean. They are flexible and changeable. Some more so than others. For example, phone apps are hard to change unless you're the developer. But the web environment is definitely protean. Suggesting that the ability to change the artifact is possible from cultures that don't hold the assumptions or espoused beliefs of the dominant organisational culture.
+However, as we've argued in [another paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) digital technologies are protean. They are flexible and changeable. Some more so than others. For example, phone apps are hard to change unless you're the developer. But the web environment is definitely protean. Suggesting that the ability to change the artifact is possible from cultures that don't hold the assumptions or espoused beliefs of the dominant organisational culture.
 
 Of course, the problem is making changes to artifacts set up with the assumption that they are established. Can be harder than you think.

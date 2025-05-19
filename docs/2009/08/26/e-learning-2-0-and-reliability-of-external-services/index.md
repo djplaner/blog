@@ -5,15 +5,15 @@ categories:
 date: 2009-08-26 09:18:10+10:00
 next:
   text: '"PhD Update #22 - one day active, but some movement"'
-  url: /blog2/2009/08/28/phd-update-22-one-day-active-but-some-movement/
+  url: /blog/2009/08/28/phd-update-22-one-day-active-but-some-movement/
 previous:
   text: Learning requires willingness to suffer injury to one&#039;s self-esteem
-  url: /blog2/2009/08/25/learning-requires-willingness-to-suffer-injury-to-ones-self-esteem/
+  url: /blog/2009/08/25/learning-requires-willingness-to-suffer-injury-to-ones-self-esteem/
 title: E-Learning 2.0 and reliability of external services
 type: post
 template: blog-post.html
 ---
-[BAM](/blog2/research/bam-blog-aggregation-management/) is a little project of mine playing at the edges of post-industrial e-learning. Since 2006 it's been relying on students creating and using blogs provided by external service provides - mostly Wordpress.com.
+[BAM](/blog/research/bam-blog-aggregation-management/) is a little project of mine playing at the edges of post-industrial e-learning. Since 2006 it's been relying on students creating and using blogs provided by external service provides - mostly Wordpress.com.
 
 This reliance on external service providers has been one of the "problems" raised by folk who don't like the idea. They fear that because the university doesn't own the technology or have a contract with the service provider there is no certainty about the quality of service. That the students and the staff will be left high and dry as the service is yanked in the middle of term.
 

@@ -6,17 +6,17 @@ coverImage: 23776579774_bb775a0f1f_o-scaled.jpg
 date: 2020-05-20 09:32:59+10:00
 next:
   text: Learning to think in React
-  url: /blog2/2020/05/22/learning-to-think-in-react/
+  url: /blog/2020/05/22/learning-to-think-in-react/
 previous:
   text: Exploring auto-coding with NVivo
-  url: /blog2/2020/04/30/exploring-auto-coding-with-nvivo/
+  url: /blog/2020/04/30/exploring-auto-coding-with-nvivo/
 title: Playing with React.js as a technology for CASA
 type: post
 template: blog-post.html
 ---
 Can React.js help extend CASA support for forward-oriented design?
 
-As the title suggests the aim here is to discover if the [React.js library](https://reactjs.org/) for building web (and other) user interfaces might help address some limitations and add some needed features to the Contextually-Appropriate Scaffolding Assemblage (CASA) idea ([Jones, 2019](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/)). I’m going to be spending a fair bit of time on this, hence the importance of at least trying to be explicit about thinking it through. Not to mention the value of explicitly trying to make sense of all this and recording the process for later referral.
+As the title suggests the aim here is to discover if the [React.js library](https://reactjs.org/) for building web (and other) user interfaces might help address some limitations and add some needed features to the Contextually-Appropriate Scaffolding Assemblage (CASA) idea ([Jones, 2019](/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/)). I’m going to be spending a fair bit of time on this, hence the importance of at least trying to be explicit about thinking it through. Not to mention the value of explicitly trying to make sense of all this and recording the process for later referral.
 
 Any and all comments welcome. Especially technical corrections and disagreements. There’s much more to all of this than I know.
 
@@ -32,13 +32,13 @@ Question #7 – the last question in bold and thus significant? – caught my ey
 
 > **What are the key components that promote a sustainable and an effective teaching and learning ecosystem?**
 
-Not a bad description of my broader interest in digital/online learning within higher education institutions. In last year’s [ASCILITE paper](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/) I argued that current approaches to enabling effective design for learning (I like [Goodyear’s distinction](https://journal.alt.ac.uk/index.php/rlt/article/view/1391/html) between “learning design” and “design for learning”) in higher education is neither sustainable or effective. The largest reason is the mismatch between the nature of encouraging the on-going development of effective learning and teaching and what can be provided by the current focus on using standard strategic/corporate/leadership techniques ([Jones & Clark, 2014](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/)).
+Not a bad description of my broader interest in digital/online learning within higher education institutions. In last year’s [ASCILITE paper](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/) I argued that current approaches to enabling effective design for learning (I like [Goodyear’s distinction](https://journal.alt.ac.uk/index.php/rlt/article/view/1391/html) between “learning design” and “design for learning”) in higher education is neither sustainable or effective. The largest reason is the mismatch between the nature of encouraging the on-going development of effective learning and teaching and what can be provided by the current focus on using standard strategic/corporate/leadership techniques ([Jones & Clark, 2014](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/)).
 
 For example, successfully implementing Microsoft Teams (or Zoom etc) and then offering training on its use will enable the successful completion of an operational plan. It will also enable some examples of good learning and teaching. But it won’t be sufficient for creating (nor a sufficient contribution toward) “a sustainable and an effective teaching and learning ecosystem”.
 
 ## CASA and Forward-oriented design
 
-My [most recent attempt](/blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/) (Jones, 2019) to explore a different answer is the idea of Contextually-Appropriate Scaffolding Assemblages (CASA). CASA are intended to embed necessary design knowledge into a digital technology that is (more easily) embedded into contextually appropriate activity system. An activity system that makes it significantly easier for teachers to engage in forward-oriented design for learning (Dimitriadis & Goodyear, 2013; Goodyear & Dimitriadis, 2013; Sun, 2017) as represented in the following diagram. As argued by others (Dimitriadis & Goodyear, 2013; Goodyear & Dimitriadis, 2013; Sun, 2017) most design for learning stops at _design for configuration_. My argument is that this flaw infects most attempts to build a teaching and learning ecosystem (e.g. introduce Microsoft Teams)
+My [most recent attempt](/blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/) (Jones, 2019) to explore a different answer is the idea of Contextually-Appropriate Scaffolding Assemblages (CASA). CASA are intended to embed necessary design knowledge into a digital technology that is (more easily) embedded into contextually appropriate activity system. An activity system that makes it significantly easier for teachers to engage in forward-oriented design for learning (Dimitriadis & Goodyear, 2013; Goodyear & Dimitriadis, 2013; Sun, 2017) as represented in the following diagram. As argued by others (Dimitriadis & Goodyear, 2013; Goodyear & Dimitriadis, 2013; Sun, 2017) most design for learning stops at _design for configuration_. My argument is that this flaw infects most attempts to build a teaching and learning ecosystem (e.g. introduce Microsoft Teams)
 
 It’s just not sufficient to implement the learning activity. Instead, active thought has to be given to the type of work that the teacher will need to do: while learning is occurring (including thinking about what the learners will do); while reflecting on how well (or not) that learning activity went; and, re-thinking how that learning activity will work next time. Suggesting that an effective teaching and learning ecosystem will provide active support for forward-oriented design. My argument is that such support also needs to encourage and enable individuals to integrate this support into their context-specific assemblage of practices and skills. To be successful in this it the support also needs to be able to respond to the diversity and volatility of the contexts. Otherwise it won’t be used for long, or at all.
 
@@ -48,7 +48,7 @@ Oh, this also must be achieved sustainably.
 
 ## Problems with early CASA
 
-As described in the ASCILITE paper ([Jones, 2019](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/)) we’ve developed and used two example CASA. They have been used in 100s of courses. They fill a need, but they can be better. Some of the current issues
+As described in the ASCILITE paper ([Jones, 2019](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/)) we’ve developed and used two example CASA. They have been used in 100s of courses. They fill a need, but they can be better. Some of the current issues
 
 1. The cost (difficulty)/benefit ratio for one of the CASA is still too high.  
     One of the CASA remains too difficult/different for some (but not all) people to understand and see its benefits. Hence, they can’t see how it fits with their current assemblages. Instead, some are distracted by the “pretty interface” offered by tools such as Microsoft Sway. A tool that is easy to use, but which at best offers very limited design for configuration and nothing else.

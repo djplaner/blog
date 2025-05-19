@@ -4,10 +4,10 @@ categories:
 date: 2010-03-23 14:13:24+10:00
 next:
   text: The suffocating straightjackets of liberating ideas
-  url: /blog2/2010/03/24/the-suffocating-straightjackets-of-liberating-ideas/
+  url: /blog/2010/03/24/the-suffocating-straightjackets-of-liberating-ideas/
 previous:
   text: Why is University/LMS e-learning so ugly?
-  url: /blog2/2010/03/23/why-is-universitylms-e-learning-so-ugly/
+  url: /blog/2010/03/23/why-is-universitylms-e-learning-so-ugly/
 title: First step in "Moodle curriculum mapping"
 type: post
 template: blog-post.html
@@ -59,9 +59,9 @@ pingbacks:
       user_id: '0'
     
 ---
-This is perhaps the first concrete step in a [project](/blog2/research/curriculum-mapping/) that is aiming to look at how the act of curriculum mapping can be embedded into the, increasingly, most common task and tool used by academics. That is, how can an LMS (like [Moodle](http://moodle.org/)) be used/modified to make curriculum mapping a part of what academics do, both in terms of maintaining the mapping, but more importantly using the mapping in interesting and useful ways.
+This is perhaps the first concrete step in a [project](/blog/research/curriculum-mapping/) that is aiming to look at how the act of curriculum mapping can be embedded into the, increasingly, most common task and tool used by academics. That is, how can an LMS (like [Moodle](http://moodle.org/)) be used/modified to make curriculum mapping a part of what academics do, both in terms of maintaining the mapping, but more importantly using the mapping in interesting and useful ways.
 
-As [outlined in a previous post](/blog2/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/) it appears that Moodle (the institutional LMS at my [current institution](http://www.cqu.edu.au/)) already has functions that offer some basic level of support for curriculum mapping. However, they are mostly used/intended for tracking student outcomes/performance. This post documents an initial foray into using these functions to implement some form of curriculum mapping. The plan is:
+As [outlined in a previous post](/blog/2010/03/10/moodle-outcomes-metadata-and-curriculum-mapping/) it appears that Moodle (the institutional LMS at my [current institution](http://www.cqu.edu.au/)) already has functions that offer some basic level of support for curriculum mapping. However, they are mostly used/intended for tracking student outcomes/performance. This post documents an initial foray into using these functions to implement some form of curriculum mapping. The plan is:
 
 - Use existing functions to map a course or two and find out how that works and how it might be made better.
 - Use the data of the mapping to generate some applications that use the data.

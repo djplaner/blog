@@ -4,15 +4,15 @@ categories:
 date: 2019-01-30 14:17:10+10:00
 next:
   text: "Digital learning templates \u2013 adding context and configuration"
-  url: /blog2/2019/02/10/digital-learning-templates-adding-context-and-configuration/
+  url: /blog/2019/02/10/digital-learning-templates-adding-context-and-configuration/
 previous:
   text: '"Trying out" needs agency and control'
-  url: /blog2/2019/01/18/trying-out-needs-agency-and-control/
+  url: /blog/2019/01/18/trying-out-needs-agency-and-control/
 title: Improving reuse of design knowledge in a LMS
 type: post
 template: blog-post.html
 ---
-In October last year I started a new position at Griffith University. A role designed to help improve the quality and quantity of use of the institutional learning ecosystem. An ecosystem that includes Blackboard (both 9.1 and soon Ultra), Office365, PebblePad, Echo360 etc. Pretty early on it became apparent that there was some problems with reusing design knowledge. A problem that had some initial solutions. But these solutions weren't built upon. The following tells the story of those problems and how I've be playing with an old idea of [scaffolding, context sensitive conglomerations](/blog2/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/) (aka constructive templates) to help.
+In October last year I started a new position at Griffith University. A role designed to help improve the quality and quantity of use of the institutional learning ecosystem. An ecosystem that includes Blackboard (both 9.1 and soon Ultra), Office365, PebblePad, Echo360 etc. Pretty early on it became apparent that there was some problems with reusing design knowledge. A problem that had some initial solutions. But these solutions weren't built upon. The following tells the story of those problems and how I've be playing with an old idea of [scaffolding, context sensitive conglomerations](/blog/2010/11/09/scaffolding-context-sensitive-conglomerations-v2-0/) (aka constructive templates) to help.
 
 The example itself is not earth shattering. However, IMHO it does identify the long-term inability of higher education to create a teaching environment that actively helps improve the quality of learning and teaching while reducing the cost of doing so (you/I could argue institutions have been better at/focused on solving the latter by cost shifting, than the former).
 
@@ -45,7 +45,7 @@ This type of interface is intended to help the learner (and teacher) understand 
 
 Blackboard doesn't provide any specific support for this type of resource. Hence it is left to the course teaching team to develop something. As a result, many do not.
 
-Those that do are typically creating the study schedule in Word and either: uploading the Word document into the course site; converting it to a PDF; or, copying and pasting the Word document. None of which works all that well. One of the problems with this is that such tables typically include mention of _Lecture 1_ but rarely actually link to _Lecture 1_ resources. i.e. [it's only](/blog2/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/) **[on](/blog2/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/)** [the web, not](/blog2/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/) **[of](/blog2/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/)** [the web](/blog2/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/) (at a very simple level).
+Those that do are typically creating the study schedule in Word and either: uploading the Word document into the course site; converting it to a PDF; or, copying and pasting the Word document. None of which works all that well. One of the problems with this is that such tables typically include mention of _Lecture 1_ but rarely actually link to _Lecture 1_ resources. i.e. [it's only](/blog/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/) **[on](/blog/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/)** [the web, not](/blog/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/) **[of](/blog/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/)** [the web](/blog/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/) (at a very simple level).
 
 The other alternative, is that they have some specialist design the study schedule themselves. This approach raises questions of sustainability (not many institutions have the resources for this) and turn-around time (any change typically requires the services of the specialist).
 

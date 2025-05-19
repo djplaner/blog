@@ -2,15 +2,15 @@
 date: 2009-09-01 09:41:56+10:00
 next:
   text: Curriculum mapping, process, technology and higher education - some questions
-  url: /blog2/2009/09/01/curriculum-mapping-process-technology-and-higher-education/
+  url: /blog/2009/09/01/curriculum-mapping-process-technology-and-higher-education/
 previous:
   text: Product models - LMS, BoB and alternatives
-  url: /blog2/2009/08/31/product-models-lms-bob-and-alternatives/
+  url: /blog/2009/08/31/product-models-lms-bob-and-alternatives/
 title: '"e&#038;i report #2 - 20th August - 1st September"'
 type: post
 template: blog-post.html
 ---
-This is the second in the fortnightly reports of what I've been doing in my [current position](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ - [here's the first](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/). These posts are made just before the meeting with my supervisor. Due to a change in date for the last meeting, this doesn't report on a full fortnight.
+This is the second in the fortnightly reports of what I've been doing in my [current position](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ - [here's the first](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/). These posts are made just before the meeting with my supervisor. Due to a change in date for the last meeting, this doesn't report on a full fortnight.
 
 ### What I said I'd do
 
@@ -19,10 +19,10 @@ In the last post I planned to be working on the following
 - Help out on a paper for the indicators project.  
     This took up almost all of the time. It took up most of last week, a lot longer than I thought. Typical case of under-estimation of effort required. The paper was completed and submitted to ASCILITE.
     
-    The work on this paper produced two blog posts: [one](/blog2/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/) and [two](/blog2/2009/08/28/comparisons-between-lms-the-need-for-system-independence/). The second post summarises some of the findings and identifies a significant hole that has the potential to generate additional papers and funded research and/or development.
+    The work on this paper produced two blog posts: [one](/blog/2009/08/24/identifying-file-distribution-on-webfuse-course-sites/) and [two](/blog/2009/08/28/comparisons-between-lms-the-need-for-system-independence/). The second post summarises some of the findings and identifies a significant hole that has the potential to generate additional papers and funded research and/or development.
     
 - Progress BIM.  
-    Only limited work on BIM as most of the time was spent on the paper. Some time was spent also on supporting use of BAM - some detail on this necessary support reported [in this blog post](/blog2/2009/08/26/e-learning-2-0-and-reliability-of-external-services/). What work was done on developing BIM is [reported here](/blog2/2009/08/20/bim5-getting-a-prototype-bim-going/). Essentially work has commenced on developing a hard-coded prototype.
+    Only limited work on BIM as most of the time was spent on the paper. Some time was spent also on supporting use of BAM - some detail on this necessary support reported [in this blog post](/blog/2009/08/26/e-learning-2-0-and-reliability-of-external-services/). What work was done on developing BIM is [reported here](/blog/2009/08/20/bim5-getting-a-prototype-bim-going/). Essentially work has commenced on developing a hard-coded prototype.
     
     There have been some nibbles from a program in using BAM to implement the idea of program level e-portfolios.
     

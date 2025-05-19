@@ -7,10 +7,10 @@ coverImage: 3281484480_254917ef79_b.jpg
 date: 2009-02-16 00:24:44+10:00
 next:
   text: Common sense (the things we take for granted) is the big obstacle for innovation
-  url: /blog2/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
+  url: /blog/2009/02/16/common-sense-the-things-we-take-for-granted-is-the-big-obstacle-for-innovation/
 previous:
   text: New ways of thinking - quote
-  url: /blog2/2009/02/15/new-ways-of-thinking-quote/
+  url: /blog/2009/02/15/new-ways-of-thinking-quote/
 title: Frameworks and representation - tidy versus messy
 type: post
 template: blog-post.html
@@ -90,7 +90,7 @@ I'm a fan of frameworks and taxonomies. Also known as theories for understanding
 
 > Having a framework goes beyond merely identifying problems with current approaches; it offers new ways of looking at and perceiving phenomena and offers information on which to base sound, pragmatic decision making.
 
-As it happens, I'm currently doing a lot of work around [one framework and its application](/blog2/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) and the following arises out of that work.
+As it happens, I'm currently doing a lot of work around [one framework and its application](/blog/2009/02/15/alternatives-for-the-institutional-implementation-of-e-learning-lessons-from-13-years-of-webfuse/) and the following arises out of that work.
 
 Two of my current most used frameworks include Dave Snowden's [cynefin framework](http://en.wikipedia.org/wiki/Cynefin) (Snowden and Boone, 2007) and Mischra and Koehler's [TPACK](http://tpack.org/) (2006). Representation is important to frameworks. The cynefin framework, in particular, has a very specific representation that has very specific meaning and purpose.
 

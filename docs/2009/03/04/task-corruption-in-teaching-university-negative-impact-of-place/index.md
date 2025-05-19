@@ -9,10 +9,10 @@ categories:
 date: 2009-03-04 08:08:29+10:00
 next:
   text: The insanity of changing LMSes/VLEs
-  url: /blog2/2009/03/04/the-insanity-of-changing-lmsesvles/
+  url: /blog/2009/03/04/the-insanity-of-changing-lmsesvles/
 previous:
   text: Further evidence of problems with evaluation of teaching
-  url: /blog2/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/
+  url: /blog/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/
 title: Task corruption in teaching @ university - negative impact of Place?
 type: post
 template: blog-post.html
@@ -382,16 +382,16 @@ pingbacks:
       user_id: '0'
     
 ---
-Busy being a good boy working on the [thesis](/blog2/research/phd-thesis/), currently reading a collection of literature to flesh out Chapter 2 which is drawing on the [Ps Framework](/blog2/2009/02/16/frameworks-and-representation-tidy-versus-messy/) to illustrate the current state of e-learning within Universities. As the [last post](/blog2/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/) illustrates, the most recent paper I'm reading is White (2006).
+Busy being a good boy working on the [thesis](/blog/research/phd-thesis/), currently reading a collection of literature to flesh out Chapter 2 which is drawing on the [Ps Framework](/blog/2009/02/16/frameworks-and-representation-tidy-versus-messy/) to illustrate the current state of e-learning within Universities. As the [last post](/blog/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/) illustrates, the most recent paper I'm reading is White (2006).
 
 [![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/)
 
 In her concluding remarks, [White](http://arts.monash.edu.au/sociology/staff/rwhite.php) draws on the idea of task corruption suggested by Jan Chapman (1996) to describe some of the negative impacts of broader societal issues on learning and teaching at Universities. I'm attracted to this idea for two reasons:
 
-1. Increasingly I've thought most learning and teaching at universities is increasingly of [less than stellar quality](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) and "task corruption" provides an interesting (and at current glance, appropriate) perspective on why.
+1. Increasingly I've thought most learning and teaching at universities is increasingly of [less than stellar quality](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/) and "task corruption" provides an interesting (and at current glance, appropriate) perspective on why.
 2. It reinforces the potentially negative impacts that "Place" (one of the components of the Ps Framework) can have on the practice of learning and teaching (again one of many).
 
-In the following, I'm trying to explain what task corruption is and explore what impact it might have on learning and teaching, and particularly e-learning (topic of the [thesis](/blog2/research/phd-thesis/)), within universities.
+In the following, I'm trying to explain what task corruption is and explore what impact it might have on learning and teaching, and particularly e-learning (topic of the [thesis](/blog/research/phd-thesis/)), within universities.
 
 ### What is "task corruption"
 
@@ -428,7 +428,7 @@ My feel is that task corruption is the dirty little secret of learning and teach
 
 A certain sense of abstraction at the senior management level is good, otherwise you'd never get anything done. But perhaps, it's been taken too far. Looking for and talking about the forms of task corruption within a university around learning and teaching could be a good first step in identifying those factors within the organisational and the social setting that are contributing to the task corruption. Hopefully as a first step in addressing these problems (and who says I can't be wildly optimistic).
 
-The problem isn't limited to senior management. In an organisation that places emphasis on top-down, [teleological design procesess](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) the problem is (I believe) likely to occur within instructional design groups, information technology "support" groups etc.
+The problem isn't limited to senior management. In an organisation that places emphasis on top-down, [teleological design procesess](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) the problem is (I believe) likely to occur within instructional design groups, information technology "support" groups etc.
 
 ### References
 

@@ -5,10 +5,10 @@ categories:
 date: 2016-06-27 09:35:23+10:00
 next:
   text: The nature of digital technology? Part 2
-  url: /blog2/2016/06/28/the-nature-of-digital-technology-part-2/
+  url: /blog/2016/06/28/the-nature-of-digital-technology-part-2/
 previous:
   text: Learn to code for data analyis - step 1
-  url: /blog2/2016/06/19/learn-to-code-for-data-analyis-step-1/
+  url: /blog/2016/06/19/learn-to-code-for-data-analyis-step-1/
 title: What is the nature of digital technology? Part 1
 type: post
 template: blog-post.html
@@ -133,7 +133,7 @@ Formal education in most of its forms is still struggling to effectively harness
 
 The technology. Does digital technology have a unique nature/set of capabilities/affordances that sets it apart from other types of technology? If so, what is it? What might understanding the nature of digital technology have to say about how formal education is attempting to use it to transform learning and teaching?
 
-The following is a first attempt to frame some thinking that is moving towards [a presentation](/blog2/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/) I'll be giving in a couple of weeks.  This is only the first step, there'll be follow up posts over the coming week or two. These posts will aim to develop my own understanding of a model that aims to capture the nature of pervasive digital technology. It's a model that will draw largely on the work of Yoo, Boland, Lyytinen, and Majchrzak (2012) combined with a few others (e.g. Papert, 1980; Kay, 1984; Mishra & Koehler, 2006). That model will then be used to look at current attempts within formal education to use digital technology for learning and teaching.
+The following is a first attempt to frame some thinking that is moving towards [a presentation](/blog/2016/05/30/digital-technology-ignorance-and-its-implications-for-learning-and-teaching/) I'll be giving in a couple of weeks.  This is only the first step, there'll be follow up posts over the coming week or two. These posts will aim to develop my own understanding of a model that aims to capture the nature of pervasive digital technology. It's a model that will draw largely on the work of Yoo, Boland, Lyytinen, and Majchrzak (2012) combined with a few others (e.g. Papert, 1980; Kay, 1984; Mishra & Koehler, 2006). That model will then be used to look at current attempts within formal education to use digital technology for learning and teaching.
 
 ## Views of Digital Technology
 

@@ -8,10 +8,10 @@ date: 2016-04-02 11:47:59+10:00
 next:
   text: '"Learning analytics should not promote one size fits all: The effects of
     instructional conditions in predicting academic success"'
-  url: /blog2/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/
+  url: /blog/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/
 previous:
   text: 'Competence with digital technology: Teacher or environment?'
-  url: /blog2/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
+  url: /blog/2016/03/31/competence-with-digital-technology-do-they-see-the-point/
 title: First steps in integrating LATs OER into Moodle open book
 type: post
 template: blog-post.html
@@ -42,17 +42,17 @@ pingbacks:
     []
     
 ---
-The following documents initial explorations into leveraging the [two Learning Activity Types (LATs) short courses](http://activitytypes.wm.edu/shortcourse/) that have been released as Open Educational Resources (OERs) by [Hofer and Harris (2016)](https://www.academicexperts.org/conf/site/2016/papers/49080/). As outlined in a [prior post](/blog2/2016/03/26/lats-oer-tpack-and-github/) my plan is to use these OERs as a test case for [the Moodle open book project](/blog2/the-moodle-open-book-module-project/). The aim being to
+The following documents initial explorations into leveraging the [two Learning Activity Types (LATs) short courses](http://activitytypes.wm.edu/shortcourse/) that have been released as Open Educational Resources (OERs) by [Hofer and Harris (2016)](https://www.academicexperts.org/conf/site/2016/papers/49080/). As outlined in a [prior post](/blog/2016/03/26/lats-oer-tpack-and-github/) my plan is to use these OERs as a test case for [the Moodle open book project](/blog/the-moodle-open-book-module-project/). The aim being to
 
 1. Test and identify areas for improvement for the Moodle open book code using a real OER.
 2. See how/if this OER could be leveraged for [the course](http://www.usq.edu.au/course/specification/2016/EDC3100-S1-2016-ONC-SPRNG.html) I teach and related courses coming down the line.
-3. Eventually exploring how and if this work might connect with broader work around OERs, potential work here around [Open Educational Practices and teacher education](/blog2/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/), and work to encourage adoption and adaptation of the LAT OER.
+3. Eventually exploring how and if this work might connect with broader work around OERs, potential work here around [Open Educational Practices and teacher education](/blog/2016/03/18/oep-and-initial-teacher-education-moving-on-from-the-horsey-horseless-carriage/), and work to encourage adoption and adaptation of the LAT OER.
 
 ### What's **been done**
 
 1. The [Elementary Short Course LMS package](http://activitytypes.wm.edu/shortcourse/learning-activities-taxonomies-elementary-export.imscc) (IMS) has been successfully imported into Moodle (first image below)
 2. The [Web-based Elementary course](http://latselemteachered.weebly.com/) has been converted into a Moodle Book resources (second image below).
-3. The Moodle Book version of the Elementary course has been [exported to GitHub](https://github.com/djplaner/edc3100/blob/master/LAT_OER/Elementary_Course.html) using [the Moodle open book tool](/blog2/the-moodle-open-book-module-project/) (third image below).
+3. The Moodle Book version of the Elementary course has been [exported to GitHub](https://github.com/djplaner/edc3100/blob/master/LAT_OER/Elementary_Course.html) using [the Moodle open book tool](/blog/the-moodle-open-book-module-project/) (third image below).
 
 All that was done quite easily. A couple of minor bugs to report, but nothing major.
 
@@ -163,7 +163,7 @@ Misc observations
 
 ### GitHub version
 
-Background: The [Moodle open book tool](/blog2/the-moodle-open-book-module-project/) enables the [Moodle Book module](https://docs.moodle.org/28/en/Book_module) to export/import content to/from GitHub. Adding all the benefits of GitHub. It does this by combining all the pages in a Moodle book into a single HTML file that is placed onto GitHub. A file that can be split up again and used to modify a Moodle book.
+Background: The [Moodle open book tool](/blog/the-moodle-open-book-module-project/) enables the [Moodle Book module](https://docs.moodle.org/28/en/Book_module) to export/import content to/from GitHub. Adding all the benefits of GitHub. It does this by combining all the pages in a Moodle book into a single HTML file that is placed onto GitHub. A file that can be split up again and used to modify a Moodle book.
 
 The tool is still under development, but it does work.
 

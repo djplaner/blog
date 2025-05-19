@@ -10,10 +10,10 @@ categories:
 date: 2009-07-17 11:21:56+10:00
 next:
   text: Occupational stress in Australian University Staff
-  url: /blog2/2009/07/17/occupational-stress-in-australian-university-staff/
+  url: /blog/2009/07/17/occupational-stress-in-australian-university-staff/
 previous:
   text: Installing Moodle - first step in BAM/MoodleAM
-  url: /blog2/2009/07/16/installing-moodle-first-step-in-bammoodleam/
+  url: /blog/2009/07/16/installing-moodle-first-step-in-bammoodleam/
 title: When senior management lose the plot
 type: post
 template: blog-post.html
@@ -59,7 +59,7 @@ Even if this is seen as a diatribe by a POPO (Geoff Scott's acronym for a "pisse
 
 Any chance of improving learning and teaching in such a context does not have a high probability.
 
-I feel that this perception arises because the new managerial approach focuses too much on [level 2 of reflective alignment](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). It focuses too much on "what management does". They pass policies, minimum standards etc and expect it to be adopted. Instead they are eating the seed-corn.
+I feel that this perception arises because the new managerial approach focuses too much on [level 2 of reflective alignment](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). It focuses too much on "what management does". They pass policies, minimum standards etc and expect it to be adopted. Instead they are eating the seed-corn.
 
 These folk need to stop doing things and start understanding and directly aiding "what academics do". For me, that means institutional attention to institution wide projects like ERPs, LMSes, graduate attributes, minimum standards, eportfolios etc. are all destined to make things worse. As they all ignore the details of the context, of what the academics do in favour of an abstract, institutional level understanding that tends to focus on what management does.
 

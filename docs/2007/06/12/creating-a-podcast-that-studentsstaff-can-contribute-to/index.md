@@ -4,10 +4,10 @@ categories:
 date: 2007-06-12 20:34:17+10:00
 next:
   text: Thoughts on Carrick Awards Forum
-  url: /blog2/2007/06/13/thoughts-on-carrick-awards-forum/
+  url: /blog/2007/06/13/thoughts-on-carrick-awards-forum/
 previous:
   text: CQU&#039;s first Web 2.0 course site?
-  url: /blog2/2007/06/12/cqus-first-web-20-course-site/
+  url: /blog/2007/06/12/cqus-first-web-20-course-site/
 title: Creating a podcast that students/staff can contribute to
 type: post
 template: blog-post.html

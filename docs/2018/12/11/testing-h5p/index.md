@@ -4,10 +4,10 @@ categories:
 date: 2018-12-11 09:46:37+10:00
 next:
   text: Meso-level practitioners and generative technologies?
-  url: /blog2/2019/01/03/understanding-my-role-as-meso-level-practitioner/
+  url: /blog/2019/01/03/understanding-my-role-as-meso-level-practitioner/
 previous:
   text: Contextual ramblings on learning analytics
-  url: /blog2/2018/11/30/contextual-ramblings-on-learning-analytics/
+  url: /blog/2018/11/30/contextual-ramblings-on-learning-analytics/
 title: Testing h5p
 type: post
 template: blog-post.html

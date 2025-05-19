@@ -5,10 +5,10 @@ categories:
 date: 2018-05-26 10:53:44+10:00
 next:
   text: Explaining ISDT and its place in the research process
-  url: /blog2/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/
+  url: /blog/2018/06/12/explaining-isdt-and-its-place-in-the-research-process/
 previous:
   text: 'Software engineering for computational science : past, present, future'
-  url: /blog2/2018/05/10/software-engineering-for-computational-science-past-present-future/
+  url: /blog/2018/05/10/software-engineering-for-computational-science-past-present-future/
 title: Random meandering notes on "digital" and the fourth industrial revolution
 type: post
 template: blog-post.html

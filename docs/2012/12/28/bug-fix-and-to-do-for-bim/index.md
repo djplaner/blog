@@ -4,15 +4,15 @@ categories:
 date: 2012-12-28 11:20:43+10:00
 next:
   text: Major (Moodle) requirements for BIM 2.0
-  url: /blog2/2012/12/29/major-moodle-requirements-for-bim-2-0/
+  url: /blog/2012/12/29/major-moodle-requirements-for-bim-2-0/
 previous:
   text: 'BIM: another restart?'
-  url: /blog2/2012/12/19/bim-another-restart/
+  url: /blog/2012/12/19/bim-another-restart/
 title: Bug fix and to do for BIM
 type: post
 template: blog-post.html
 ---
-After a short Xmas break it's time to continue work on getting [BIM 2.0](/blog2/research/bam-blog-aggregation-management/) up and going. In this post I'm trying to continue the work from [a week or so ago](/blog2/2012/12/19/bim-another-restart/). The main aim is to fix a bug with the manage marking page.
+After a short Xmas break it's time to continue work on getting [BIM 2.0](/blog/research/bam-blog-aggregation-management/) up and going. In this post I'm trying to continue the work from [a week or so ago](/blog/2012/12/19/bim-another-restart/). The main aim is to fix a bug with the manage marking page.
 
 **Status:** The manage marking bug has been fixed. Mostly related to further migration work from Moodle 1.9 to Moodle 2.x
 
@@ -22,7 +22,7 @@ The bug is summarised nicely by the following screen short from the last post.
 
 [![Manage marking has an error](images/8285799460_e2bec760f1_n.jpg)](http://www.flickr.com/photos/david_jones/8285799460/ "Manage marking has an error by David T Jones, on Flickr")
 
-There appears to be a problem with one of the data structures that results in the BIM crashing and burning. There's some evidence of an earlier attempt to investigate this, so time to revisit prior posts on BIM development. [This post](/blog2/2012/04/11/bim2-working-on-coordinator-part-1/) identifies the location of the problem.
+There appears to be a problem with one of the data structures that results in the BIM crashing and burning. There's some evidence of an earlier attempt to investigate this, so time to revisit prior posts on BIM development. [This post](/blog/2012/04/11/bim2-working-on-coordinator-part-1/) identifies the location of the problem.
 
 The problems are all related to the changes in the database API from 1.9 to 2.x
 
@@ -54,7 +54,7 @@ Only the one, but there does appear to be some scope to provide more detailed he
 
 ## To do list
 
-[This post](/blog2/2012/04/05/bim2-whats-working-for-coordinator/) has a list of what was working and not with the coordinator interface and [a later post](/blog2/2012/04/11/bim2-working-on-coordinator-part-1/) updates some of this. Need to revisit these and start a list in basecamp.
+[This post](/blog/2012/04/05/bim2-whats-working-for-coordinator/) has a list of what was working and not with the coordinator interface and [a later post](/blog/2012/04/11/bim2-working-on-coordinator-part-1/) updates some of this. Need to revisit these and start a list in basecamp.
 
 Misc to do
 

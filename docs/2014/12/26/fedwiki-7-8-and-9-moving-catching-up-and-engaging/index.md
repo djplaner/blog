@@ -4,10 +4,10 @@ categories:
 date: 2014-12-26 11:29:22+10:00
 next:
   text: '"Random #fedwikihappening ramblings"'
-  url: /blog2/2014/12/29/random-fedwikihappening-ramblings/
+  url: /blog/2014/12/29/random-fedwikihappening-ramblings/
 previous:
   text: 'FedWiki Daily #6 - Mining, fracking and exploring the process'
-  url: /blog2/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/
+  url: /blog/2014/12/19/software-issues-for-applying-conversation-theory-for-effective-collaboration-via-the-internet/
 title: FedWiki 7, 8 and 9 - Moving, catching up and engaging
 type: post
 template: blog-post.html
@@ -23,7 +23,7 @@ Beyond those, I just have to catch up and delve a bit deeper.
 
 A brainstorm whilst laying in bed on Sunday morning led to the creation of [this page](http://djones.federatedwiki.org/view/welcome-visitors/view/paper-ideas) on ideas for future papers and the creation of the first paper idea page. Nothing earth-shaking in either and I could perhaps just re-create them manually on my new FedWiki. But I want to see if there's a more "fedwiki way" of doing this.
 
-One approach is the one I stumbled [across earlier](/blog2/2014/12/18/starting-to-write-for-fedwiki-daily-4-and-5/)
+One approach is the one I stumbled [across earlier](/blog/2014/12/18/starting-to-write-for-fedwiki-daily-4-and-5/)
 
 1. Visit [the page](http://djones.federatedwiki.org/view/welcome-visitors/view/paper-ideas) and get the URL - http://djones.federatedwiki.org/view/welcome-visitors/view/paper-ideas
 2. Construct a new URL that combines aspects of that URL with my new FedWiki site. The format is my fedwiki's "home page" http://fedwiki.djon.es/view/welcome-visitors/ followed by the _page slug_ for the paper ideas page. The page slug is the
@@ -37,7 +37,7 @@ Done.
 
 ## Updating your icon
 
-Have been replying to [this comment](/blog2/2014/12/16/initial-steps-with-the-fedwikihappening-happening/#comment-7086) on an earlier post and have noticed folk have figured out how to change the icon used to indicate forking etc.
+Have been replying to [this comment](/blog/2014/12/16/initial-steps-with-the-fedwikihappening-happening/#comment-7086) on an earlier post and have noticed folk have figured out how to change the icon used to indicate forking etc.
 
 [![Happening Folks and fancy icons](images/15889765170_bd1d548df7.jpg)](https://www.flickr.com/photos/david_jones/15889765170 "Happening Folks and fancy icons by David Jones, on Flickr")
 
@@ -54,7 +54,7 @@ But the neighbourhood to the rescue. Alex North has shared an [interesting kludg
 
 _Problem:_ Would have liked to copy and paste the curl comment from Alex's wiki page, but SFW supports drag and drop. Trying to drag the mouse over the page moves the paragraph, it doesn't allow you to select. Would have to be a work around for that.
 
-So the command is the following. Appears to be leveraging SFW's reliance on JSON to communicate to send it the new icon. This is a great example of the [BAD mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) - a bit of bricolage leveraging the affordance of technology and relying on distribution. \[code lang="sh"\] curl -X "POST" "http://fedwiki.djon.es/favicon.png" -H "Cookie: YOUR\_COOKIE" -H "Content-type: application/json" -d "{"image:": "\`base64 < ~/Desktop/flag.png\`"}" \[/code\]
+So the command is the following. Appears to be leveraging SFW's reliance on JSON to communicate to send it the new icon. This is a great example of the [BAD mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) - a bit of bricolage leveraging the affordance of technology and relying on distribution. \[code lang="sh"\] curl -X "POST" "http://fedwiki.djon.es/favicon.png" -H "Cookie: YOUR\_COOKIE" -H "Content-type: application/json" -d "{"image:": "\`base64 < ~/Desktop/flag.png\`"}" \[/code\]
 
 Sadly I'm getting a [403 response](http://en.wikipedia.org/wiki/HTTP_403). Verbose output of curl seems to suggest that the cookie is accepted. Appears that the server is saying "can't do that". Perhaps something with the way my server has been configured. The icon is at the [expected location](http://fedwiki.djon.es/favicon.png), perhaps the ownership on the image file is such it can't be over-written?
 

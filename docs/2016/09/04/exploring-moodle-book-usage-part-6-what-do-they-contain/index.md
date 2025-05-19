@@ -6,10 +6,10 @@ categories:
 date: 2016-09-04 22:09:18+10:00
 next:
   text: '"University digital technology: problems, causes, and suggested solutions"'
-  url: /blog2/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+  url: /blog/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
 previous:
   text: Exploring Moodle Book usage - Part 5 - more staff and student use
-  url: /blog2/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/
+  url: /blog/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/
 title: "Exploring Moodle Book usage \u2013 Part 6 \u2013 What do they contain?"
 type: post
 template: blog-post.html
@@ -62,7 +62,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Part 6 of this series diverges a bit from [the last post](/blog2/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/) and moves away from what people are doing with the Book resources to focus on the contents of the Book resources themselves.  Questions I'm hoping to explore in this post include:
+Part 6 of this series diverges a bit from [the last post](/blog/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/) and moves away from what people are doing with the Book resources to focus on the contents of the Book resources themselves.  Questions I'm hoping to explore in this post include:
 
 - How long are the Book resources? Measured perhaps in number of chapters, bytes, and perhaps textual word count.
 - Are the Book's web or print documents? Do they include links? To other books in the course? To external sites? Which sites? Do they include multimedia?

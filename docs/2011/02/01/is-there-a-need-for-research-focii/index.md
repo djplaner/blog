@@ -4,10 +4,10 @@ categories:
 date: 2011-02-01 16:23:07+10:00
 next:
   text: Some stories from teaching awards
-  url: /blog2/2011/02/02/some-stories-from-teaching-awards/
+  url: /blog/2011/02/02/some-stories-from-teaching-awards/
 previous:
   text: NAPLAN tests, task corruption and teaching to the test
-  url: /blog2/2011/02/01/naplan-tests-task-corruption-and-teaching-to-the-test/
+  url: /blog/2011/02/01/naplan-tests-task-corruption-and-teaching-to-the-test/
 title: Is there a need for research focii?
 type: post
 template: blog-post.html
@@ -38,7 +38,7 @@ This highlights the biggest frustration I had with working at the institution. T
 
 ### Task corruption and inhibiting a scholarly culture
 
-It is my proposition that limiting research to a limited number of focii - forcing academics to move into areas of research in which they aren't interested - is not going to encourage the formation of a research culture. Instead it is going to reinforce the existing imbalance and result in [task corruption](/blog2/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/). I'm going to borrow some content from that post.
+It is my proposition that limiting research to a limited number of focii - forcing academics to move into areas of research in which they aren't interested - is not going to encourage the formation of a research culture. Instead it is going to reinforce the existing imbalance and result in [task corruption](/blog/2009/03/04/task-corruption-in-teaching-university-negative-impact-of-place/). I'm going to borrow some content from that post.
 
 Task corruption is defined as
 
@@ -54,7 +54,7 @@ Apart from the very obvious strategies of luring a "big name" and his/her resear
 
 ### Why the absence of a scholarly culture?
 
-There are lots of contributing factors. I talked about some of those factors in a post [about the demise of the ALTC](/blog2/2011/01/28/the-demise-of-altc/). There are many more.
+There are lots of contributing factors. I talked about some of those factors in a post [about the demise of the ALTC](/blog/2011/01/28/the-demise-of-altc/). There are many more.
 
 In summary, I'd argue that the context for most universities is not conducive creating a scholarly culture. Creating such a culture is hard and takes a long time. Which is not something a new VC or DVC (Research) has on a five year contract. Easier to make the standard measurable, task corruption-like steps. And when it doesn't work blame the academics, but not the system or processes.
 

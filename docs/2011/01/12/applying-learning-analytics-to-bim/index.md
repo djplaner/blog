@@ -7,17 +7,17 @@ categories:
 date: 2011-01-12 10:25:27+10:00
 next:
   text: Introducing Hunch
-  url: /blog2/2011/01/13/introducing-hunch/
+  url: /blog/2011/01/13/introducing-hunch/
 previous:
   text: 'Learning analytics: Definitions, processes and potential'
-  url: /blog2/2011/01/10/learning-analytics-definitions-processes-and-potential/
+  url: /blog/2011/01/10/learning-analytics-definitions-processes-and-potential/
 tags:
 - lak11
 title: Applying "learning analytics" to BIM
 type: post
 template: blog-post.html
 ---
-The following floats/records some initial ideas for connection two of my current projects, [BIM](/blog2/research/bam-blog-aggregation-management/) and [lak11](http://www.learninganalytics.net/). The ideas arise out of some discussion with my better half who is currently using BIM in one of the courses she is teaching.
+The following floats/records some initial ideas for connection two of my current projects, [BIM](/blog/research/bam-blog-aggregation-management/) and [lak11](http://www.learninganalytics.net/). The ideas arise out of some discussion with my better half who is currently using BIM in one of the courses she is teaching.
 
 Some brief background, BIM is a Moodle module that allows teaching staff to manage and encourage the use of individual student blogs. The blogs are hosted by an external blog provider of the student's choice, not within Moodle. Typical use is to encourage reflection and make visible student work in order for comments and discussion.
 
@@ -25,7 +25,7 @@ Some brief background, BIM is a Moodle module that allows teaching staff to mana
 
 The discussion started with the observation that by the second or third required blog post it was generally possible to identify the students in a course that would do really good and those that would do really bad. How and when the students provided their blog posts is a good indicator of overall result.
 
-This correlation was first observed with my first use of [BAM in 2006](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/#predictor) (BIM stands for BAM into Moodle) and some findings of others.
+This correlation was first observed with my first use of [BAM in 2006](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/#predictor) (BIM stands for BAM into Moodle) and some findings of others.
 
 This correlation was not something that was new. We were both able to make the observation that similar sorts of patterns exist with most educational practices. The difference is that the nature of the BIM assignments generally makes this more obvious. The discussion turned to what this pattern actually tells us?
 
@@ -45,7 +45,7 @@ A thought that "connects" with me and what I think analytics might be good for. 
 
 > Using analysis to encourage connections
 
-Which going by the definitions given in [one of the early readings](/blog2/2011/01/10/learning-analytics-definitions-processes-and-potential/) is close to what is meant by action analytics.
+Which going by the definitions given in [one of the early readings](/blog/2011/01/10/learning-analytics-definitions-processes-and-potential/) is close to what is meant by action analytics.
 
 In the case of BIM, the idea consists of two tasks
 
@@ -75,6 +75,6 @@ This is very close to the idea behind Michael De Raadt's [progress bar](http://w
 
 ### What "theories" exist?
 
-[One of the initial readings](/blog2/2011/01/10/learning-analytics-definitions-processes-and-potential/) identified four main class of components for learning analytics. One of which is theory, which includes the statistical and data mining techniques that can be applied to the data.
+[One of the initial readings](/blog/2011/01/10/learning-analytics-definitions-processes-and-potential/) identified four main class of components for learning analytics. One of which is theory, which includes the statistical and data mining techniques that can be applied to the data.
 
 I need to spend some time looking at what theories exist that might apply to BIM. e.g. I'm wondering if some of the textual analysis algorithms might provide a good proxy for evaluating the quality of blog posts and whether or not there might be some patterns/correlations with final/overall student results.

@@ -5,17 +5,17 @@ categories:
 date: 2016-03-31 09:46:17+10:00
 next:
   text: First steps in integrating LATs OER into Moodle open book
-  url: /blog2/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
+  url: /blog/2016/04/02/first-steps-in-integrating-lats-oer-into-moodle-open-book/
 previous:
   text: Some simple analysis of student submissions
-  url: /blog2/2016/03/30/some-simple-analysis-of-student-submissions/
+  url: /blog/2016/03/30/some-simple-analysis-of-student-submissions/
 title: '"Competence with digital technology: Teacher or environment?"'
 type: post
 template: blog-post.html
 ---
 [![PEBKAC by Rafa Esteve, on Flickr](images/13928696037_37aa61542a_m.jpg "PEBKAC by Rafa Esteve, on Flickr")](https://www.flickr.com/photos/morosbruts/13928696037/) "[PEBKAC](https://www.flickr.com/photos/morosbruts/13928696037/)" ([CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)) by [Rafa Esteve](https://www.flickr.com/people/morosbruts/) [](http://www.imagecodr.org/)
 
-Apparently there's a [problem with digital skills](https://theconversation.com/students-struggle-with-digital-skills-because-their-teachers-lack-confidence-56071) in Australian schools. Only 52% of Year 10  students achieved a minimum standard of digital competence, and the teachers tasked to help develop that competence [feel they aren't competent](http://www.sciencedirect.com/science/article/pii/S0360131511002065). Closer to home, I've [previously pointed out](/blog2/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/) that the pre-service teachers I work with are far from digital natives harnessing digital technologies seamlessly to achieve the learning, teaching, and life goals.
+Apparently there's a [problem with digital skills](https://theconversation.com/students-struggle-with-digital-skills-because-their-teachers-lack-confidence-56071) in Australian schools. Only 52% of Year 10  students achieved a minimum standard of digital competence, and the teachers tasked to help develop that competence [feel they aren't competent](http://www.sciencedirect.com/science/article/pii/S0360131511002065). Closer to home, I've [previously pointed out](/blog/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/) that the pre-service teachers I work with are far from digital natives harnessing digital technologies seamlessly to achieve the learning, teaching, and life goals.
 
 Given the perceived importance of digital competence, then something must be done. Otherwise ["we run the real risk of creating a generation of digitally illiterate students"](https://theconversation.com/ict-is-failing-in-schools-heres-why-50890).
 
@@ -45,7 +45,7 @@ The limitations of this view means that I don't think that any approach based on
 
 ### A distributive view
 
-In [this paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (Jones, Heffernan, & Albion, 2015) some colleagues and I draw on a distributive view of learning and knowledge to explore our use as teacher educators of digital technologies in our learning and teaching. Borrowing and extending work from Putnam and Borko (2000) we see a distributive view of learning and knowledge focused on digital technologies as involving at least four conceptual themes:
+In [this paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (Jones, Heffernan, & Albion, 2015) some colleagues and I draw on a distributive view of learning and knowledge to explore our use as teacher educators of digital technologies in our learning and teaching. Borrowing and extending work from Putnam and Borko (2000) we see a distributive view of learning and knowledge focused on digital technologies as involving at least four conceptual themes:
 
 1. Learning/knowledge is situated in particular physical and social contexts;
 2. It is social in nature;
@@ -73,11 +73,11 @@ Schools are highly regulated sites of digital technology use (p. 1)...
 3. something that conforms to institutional rather than individual needs;
 4. something that is a directed activity. (p. 15)
 
-As teacher educators with large percentages of online students, our digital environment is significantly more rich in terms of the availability of digital technologies. However, in [our 2015 paper](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (Jones, Heffernan, & Albion, 2015) we report that the digital technologies we use for our teaching matches the description from Selwyn and Bulfin. Our experience echoes Rushkoff's (2010) observation that "instead of optimizing our machines for humanity – or even the benefit of some particular group – we are optimizing humans for machinery" (p. 15). More recently I worked on [a paper](/blog2/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) (Jones and Schneider, in review) with a high school teacher that identified the same problem in schools. Digital technologies that were inefficient, got in the way of effective learning and teaching, and failed to mirror the real world digital technology experience.
+As teacher educators with large percentages of online students, our digital environment is significantly more rich in terms of the availability of digital technologies. However, in [our 2015 paper](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (Jones, Heffernan, & Albion, 2015) we report that the digital technologies we use for our teaching matches the description from Selwyn and Bulfin. Our experience echoes Rushkoff's (2010) observation that "instead of optimizing our machines for humanity – or even the benefit of some particular group – we are optimizing humans for machinery" (p. 15). More recently I worked on [a paper](/blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) (Jones and Schneider, in review) with a high school teacher that identified the same problem in schools. Digital technologies that were inefficient, got in the way of effective learning and teaching, and failed to mirror the real world digital technology experience.
 
 How do students and especially teachers learn to value and develop their digital competence in such an environment?
 
-In the [recent paper](/blog2/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) (Jones and Schneider, in review) we wondered what might happen if this environment was modified to actually enable and encourage staff and student agency with digital technologies. Allow people to optimise the technology for what they want to do, rather than optimise what they want to do to suit the technology. If this was done:
+In the [recent paper](/blog/2016/02/02/what-if-our-digital-technologies-were-protean-implications-for-computational-thinking-learning-and-teaching/) (Jones and Schneider, in review) we wondered what might happen if this environment was modified to actually enable and encourage staff and student agency with digital technologies. Allow people to optimise the technology for what they want to do, rather than optimise what they want to do to suit the technology. If this was done:
 
 - Would it lead to digital environments that were more effective in terms of learning and teaching?
 - Would it demonstrate the value of digital technologies and computational thinking to teachers in their practice?

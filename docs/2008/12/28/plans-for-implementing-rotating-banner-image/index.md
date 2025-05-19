@@ -4,10 +4,10 @@ categories:
 date: 2008-12-28 15:50:08+10:00
 next:
   text: Operating Systems animations and other resources
-  url: /blog2/2008/12/30/operating-systems-animations-and-other-resources/
+  url: /blog/2008/12/30/operating-systems-animations-and-other-resources/
 previous:
   text: Rotating banner images in Wordpress - the last missing puzzle piece
-  url: /blog2/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/
+  url: /blog/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/
 title: Plans for implementing rotating banner image
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-**Problem:** Implement a [rotating banner image](/blog2/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/) on this blog which is hosted by [Wordpress.com](http://wordpress.com/). This means I cannot install any Wordpress themes that automatically support bnner rotation (e.g. the [Mandigo](http://www.onehertz.com/portfolio/wordpress/) theme suggested by [Will Taylor](http://wt.similibus.org/).
+**Problem:** Implement a [rotating banner image](/blog/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/) on this blog which is hosted by [Wordpress.com](http://wordpress.com/). This means I cannot install any Wordpress themes that automatically support bnner rotation (e.g. the [Mandigo](http://www.onehertz.com/portfolio/wordpress/) theme suggested by [Will Taylor](http://wt.similibus.org/).
 
 There is a [known approach](http://en.forums.wordpress.com/topic/random-image-header-tutorial?replies=22#post-36298) that relies upon you having some disk space on a server that will let you run a PHP script. I'd like to avoid using that approach.
 

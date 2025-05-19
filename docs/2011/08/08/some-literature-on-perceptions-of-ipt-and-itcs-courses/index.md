@@ -4,10 +4,10 @@ categories:
 date: 2011-08-08 21:39:36+10:00
 next:
   text: Gamification by camouflage - fads and higher ed
-  url: /blog2/2011/08/09/gamification-by-camouflage-fads-and-higher-ed/
+  url: /blog/2011/08/09/gamification-by-camouflage-fads-and-higher-ed/
 previous:
   text: What is important when testing students?
-  url: /blog2/2011/08/08/what-is-important-when-testing-students/
+  url: /blog/2011/08/08/what-is-important-when-testing-students/
 tags:
 - computer-science-education
 - ipt
@@ -41,7 +41,7 @@ pingbacks:
     []
     
 ---
-Following up on my [previous suggestion](/blog2/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/) that High-school classes in information technology may be turning students off IT, I decided to do a quick literature search to see what was out there. Ain't procrastination grand. Here's what I found. I haven't had a chance to read them, back to the assignment.
+Following up on my [previous suggestion](/blog/2011/08/06/is-the-teaching-of-itcs-in-high-school-turning-people-off/) that High-school classes in information technology may be turning students off IT, I decided to do a quick literature search to see what was out there. Ain't procrastination grand. Here's what I found. I haven't had a chance to read them, back to the assignment.
 
 What I find interesting is that almost all of them are initially focused on the perceptions of girls. My feel is that there's a significant percentage of boys that fit into a similar category.
 

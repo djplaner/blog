@@ -6,10 +6,10 @@ categories:
 date: 2008-11-13 09:31:06+10:00
 next:
   text: PLEs@CQUni - VoiceThread for Research Posters
-  url: /blog2/2008/11/14/plescquni-voicethread-for-research-posters/
+  url: /blog/2008/11/14/plescquni-voicethread-for-research-posters/
 previous:
   text: What are the assumptions which PLEs/Learning 2.0 etc overthrow
-  url: /blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
+  url: /blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/
 title: Another assumption which PLEs over throws
 type: post
 template: blog-post.html
@@ -76,7 +76,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In a [previous post](/blog2/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/) I started developing some ideas about the current assumptions associated with university learning and teaching which the concepts surrounding the nebulous term of PLEs bring into question. This post struggles with suggesting another one - consistency.
+In a [previous post](/blog/2008/11/12/what-are-the-assumptions-which-pleslearning-20-etc-overthrow/) I started developing some ideas about the current assumptions associated with university learning and teaching which the concepts surrounding the nebulous term of PLEs bring into question. This post struggles with suggesting another one - consistency.
 
 !!! warning "Broken image link"
 
@@ -87,7 +87,7 @@ As I travel through my working life within universities I am bombarded with this
 - All course websites should have the same structure and appearance.  
     The idea here is that students are confused, and are complaining about being confused, because the course websites for their courses are all different. They don't know where to find things.
 - All text-based material produced by the university should use the same template.  
-    This is a hang over from the old print-based distance education days and I first wrote about it [back in 1996](/blog2/publications/computing-by-distance-education-problems-and-solutions/).
+    This is a hang over from the old print-based distance education days and I first wrote about it [back in 1996](/blog/publications/computing-by-distance-education-problems-and-solutions/).
 - Consistency of course delivery and student participation.  
     The [Australian Universities Quality Agency](http://www.auqa.edu.au/) in its audit report of [CQUni](http://www.cqu.edu.au/) wrote
     
@@ -117,11 +117,11 @@ Remember, the prime example of quality through consistency is McDonalds. They ar
 
 It's well known within the realm of innovation that one of the necessary (but not sufficient) conditions for innovation is diversity. Aiming for consistency will kill off innovation and open up an organisation to the threat of being unable to respond to changes in the market.
 
-I've written about this [previously](/blog2/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/) and given some pointers to some related thinking.
+I've written about this [previously](/blog/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/) and given some pointers to some related thinking.
 
 **Everything is not the same**
 
-Back in 1996 [I wrote about](/blog2/publications/computing-by-distance-education-problems-and-solutions/) a problem with consistency. The rules to keep consistency didn't recognise an instance where the content was really different. Applying the rules broke the meaning. The rules of consistency didn't apply in every case. There is inherent diversity.
+Back in 1996 [I wrote about](/blog/publications/computing-by-distance-education-problems-and-solutions/) a problem with consistency. The rules to keep consistency didn't recognise an instance where the content was really different. Applying the rules broke the meaning. The rules of consistency didn't apply in every case. There is inherent diversity.
 
 **Everyone is not the same**
 

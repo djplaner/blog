@@ -10,11 +10,11 @@ categories:
 date: 2009-01-27 09:35:45+10:00
 next:
   text: The design of a 6 hour orientation to course analysis and design
-  url: /blog2/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/
+  url: /blog/2009/01/28/the-design-of-a-6-hour-orientation-to-course-analysis-and-design/
 previous:
   text: 'The &quot;dominant&quot; assumptions underlying university-based e-learning:
     an introduction'
-  url: /blog2/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/
+  url: /blog/2009/01/25/the-dominant-and-problem-assumptions-underlying-university-based-e-learning-introduction/
 title: Some possible reasons why comparison of information systems are broken
 type: post
 template: blog-post.html

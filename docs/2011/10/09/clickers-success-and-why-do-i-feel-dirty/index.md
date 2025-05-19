@@ -6,10 +6,10 @@ date: 2011-10-09 14:54:09+10:00
 next:
   text: What arrogance! What an insult to the rich and chaotic variety of the human
     experience
-  url: /blog2/2011/10/16/what-arrogance-what-an-insult-to-the-rich-and-chaotic-variety-of-the-human-experience/
+  url: /blog/2011/10/16/what-arrogance-what-an-insult-to-the-rich-and-chaotic-variety-of-the-human-experience/
 previous:
   text: Results of the Year 10 math hassle map
-  url: /blog2/2011/10/09/results-of-the-year-10-math-hassle-map/
+  url: /blog/2011/10/09/results-of-the-year-10-math-hassle-map/
 title: '"Clickers", success, and why do I feel dirty?'
 type: post
 template: blog-post.html
@@ -126,7 +126,7 @@ pingbacks:
     []
     
 ---
-Apart from [starting the hassle map exercise](/blog2/2011/10/09/results-of-the-year-10-math-hassle-map/) my last lesson in 10 Mathematics also included my first use of the [Active Expression "student learner learner response system"](http://www.prometheanworld.com/server.php?show=nav.15997). While a bit disorganised, I can see some benefits. But I still feel a bit dirty.
+Apart from [starting the hassle map exercise](/blog/2011/10/09/results-of-the-year-10-math-hassle-map/) my last lesson in 10 Mathematics also included my first use of the [Active Expression "student learner learner response system"](http://www.prometheanworld.com/server.php?show=nav.15997). While a bit disorganised, I can see some benefits. But I still feel a bit dirty.
 
 ### What are they?
 
@@ -170,7 +170,7 @@ I've been aware of Mazur's work on [peer instruction](http://en.wikipedia.org/wi
 
 Only now do I realise that one of the assumptions about peer instruction is that it is associated with the "flipped" classroom. i.e. students are expected to do some pre-reading. I can probably modify this a bit, though I should read some more about peer instruction.
 
-I am interested by the possibility of whether or not peer instruction would address some of the issues students have with the boring nature of the class (as revealed in the [hassle map results](/blog2/2011/10/09/results-of-the-year-10-math-hassle-map/)). I wonder if regularly pausing to talk with a peer would be counted as a "fun activity".
+I am interested by the possibility of whether or not peer instruction would address some of the issues students have with the boring nature of the class (as revealed in the [hassle map results](/blog/2011/10/09/results-of-the-year-10-math-hassle-map/)). I wonder if regularly pausing to talk with a peer would be counted as a "fun activity".
 
 Associated with this, I also wonder how engaging the clickers would be for the students if all we did for them was answer the standard mathematics questions. Might the novelty wear off?
 

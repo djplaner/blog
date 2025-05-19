@@ -4,10 +4,10 @@ categories:
 date: 2010-08-21 14:45:31+10:00
 next:
   text: '"PhD Update #28 - minimal work, feedback arrived"'
-  url: /blog2/2010/08/22/phd-update-28-minimal-work-feedback-arrived/
+  url: /blog/2010/08/22/phd-update-28-minimal-work-feedback-arrived/
 previous:
   text: Off to see the dinosaurs
-  url: /blog2/2010/08/20/off-to-see-the-dinosaurs/
+  url: /blog/2010/08/20/off-to-see-the-dinosaurs/
 tags:
 - amar-bhid
 - big-idea

@@ -4,10 +4,10 @@ categories:
 date: 2008-12-16 17:46:14+10:00
 next:
   text: Saturday (13th Dec) - Must be the Musee D'Orsay
-  url: /blog2/2008/12/16/saturday-13th-dec-must-be-the-musee-dorsay/
+  url: /blog/2008/12/16/saturday-13th-dec-must-be-the-musee-dorsay/
 previous:
   text: The Dreyfus Model - From Novice to Expert
-  url: /blog2/2008/12/16/the-dreyfus-model-from-novice-to-expert/
+  url: /blog/2008/12/16/the-dreyfus-model-from-novice-to-expert/
 tags:
 - paris-lassere
 title: A night at Lassere

@@ -6,10 +6,10 @@ categories:
 date: 2009-02-02 13:34:34+10:00
 next:
   text: Data mining of online courses - dominant assumptions and innovation potential
-  url: /blog2/2009/02/02/data-mining-of-online-courses-dominant-assumptions-and-innovation-potential/
+  url: /blog/2009/02/02/data-mining-of-online-courses-dominant-assumptions-and-innovation-potential/
 previous:
   text: Joining the landed gentry - getting a money burner
-  url: /blog2/2009/02/02/joining-the-landed-gentry-getting-a-money-burner/
+  url: /blog/2009/02/02/joining-the-landed-gentry-getting-a-money-burner/
 title: What is a PLE? More than a suite of tools? More than social media?
 type: post
 template: blog-post.html
@@ -98,7 +98,7 @@ pingbacks:
       user_id: '0'
     
 ---
-[Jocene](http://jocene.edublogs.org/) and I are having a bit of a [chat about PLEs](/blog2/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/) and she raises a number of questions or perspectives in her last comment in that discussion that are worth of thought. So, I'm starting a new blog post here, rather than making a comment (the inequity in power and ease of use between the editing tools/interface used to create a post and those used to make a comment - very limited - make an interesting comment about the assumptions and affordances of a blog).
+[Jocene](http://jocene.edublogs.org/) and I are having a bit of a [chat about PLEs](/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/) and she raises a number of questions or perspectives in her last comment in that discussion that are worth of thought. So, I'm starting a new blog post here, rather than making a comment (the inequity in power and ease of use between the editing tools/interface used to create a post and those used to make a comment - very limited - make an interesting comment about the assumptions and affordances of a blog).
 
 The issues raised by Jocene I want to consider include:
 
@@ -107,7 +107,7 @@ The issues raised by Jocene I want to consider include:
 
 ### A PLE is not a collection of Web 2.0 tools
 
-In [her comment](/blog2/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/#comments) Jocene makes the following point
+In [her comment](/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/#comments) Jocene makes the following point
 
 > I keep trying to separate the notion of PLEs and that of Web 2.0 social media tools. The latter may be used to construct various PLEs, but even the sum of these tools, in any PLE context, is still not the PLE itself. A suite of Web 2.0 tools is not a PLE.
 
@@ -163,7 +163,7 @@ I've always believed that it's not the task of the university to build or specif
 
 ### PLEs and university courses
 
-In [her comment](/blog2/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/#comments) Jocene makes the following point
+In [her comment](/blog/2009/01/31/how-do-you-implement-ples-into-higher-education-courses/#comments) Jocene makes the following point
 
 > Conceptually, there is no reason why my PLE needs to service, or make me accountable to a set course (in which I may be enrolled) if my way of knowing (principle 2) does not match that of the course designer. Conceptually, I will learn when I am ready to learn, and I will select the evidence I need from seemingly infinite data, to bring me to the realisation that I know something.
 

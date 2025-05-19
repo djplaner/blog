@@ -5,10 +5,10 @@ categories:
 date: 2009-07-05 14:03:35+10:00
 next:
   text: Academics - the next part of the People section
-  url: /blog2/2009/07/07/academics-the-next-part-of-the-people-section/
+  url: /blog/2009/07/07/academics-the-next-part-of-the-people-section/
 previous:
   text: How do you &quot;apprehend the future&quot;
-  url: /blog2/2009/07/01/how-do-you-apprehend-the-future/
+  url: /blog/2009/07/01/how-do-you-apprehend-the-future/
 title: '"PhD Update #16 - return from a break"'
 type: post
 template: blog-post.html
@@ -31,15 +31,15 @@ pingbacks:
       user_id: '0'
     
 ---
-As mentioned [a fortnight ago](/blog2/2009/06/21/phd-update-15-some-progress-and-an-absence/) I've had much of the last two weeks doing non-PhD stuff including a [road trip to Longreach](http://www.flickr.com/photos/david_jones/tags/longreach/). So this update is somewhat light on.
+As mentioned [a fortnight ago](/blog/2009/06/21/phd-update-15-some-progress-and-an-absence/) I've had much of the last two weeks doing non-PhD stuff including a [road trip to Longreach](http://www.flickr.com/photos/david_jones/tags/longreach/). So this update is somewhat light on.
 
 ### What I've done
 
-[Last update](/blog2/2009/06/21/phd-update-15-some-progress-and-an-absence/) I said I would by now have:
+[Last update](/blog/2009/06/21/phd-update-15-some-progress-and-an-absence/) I said I would by now have:
 
 - Made some progress on the People component of the Ps Framework.
 
-To some extent that's been done. I have a structure and I have completed a draft of the [first major section on Students](/blog2/2009/06/29/students-and-e-learning-a-start-to-the-people-section/). That draft includes an overview of what I think the structure for the People component will be.
+To some extent that's been done. I have a structure and I have completed a draft of the [first major section on Students](/blog/2009/06/29/students-and-e-learning-a-start-to-the-people-section/). That draft includes an overview of what I think the structure for the People component will be.
 
 I've spent today wondering the literature gathering perspectives on some of the other sections. I have sufficient information on this stuff, I need to write it up. That's next week's job.
 

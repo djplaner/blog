@@ -4,15 +4,15 @@ categories:
 date: 2009-07-23 13:12:14+10:00
 next:
   text: '"BAM into Moodle #5 - Coding a block?"'
-  url: /blog2/2009/07/23/bam-into-moodle-5-coding-a-block/
+  url: /blog/2009/07/23/bam-into-moodle-5-coding-a-block/
 previous:
   text: Improving CEQ Outcomes
-  url: /blog2/2009/07/23/improving-ceq-outcomes/
+  url: /blog/2009/07/23/improving-ceq-outcomes/
 title: '"BAM into Moodle Step #4 - Learning more about Moodle"'
 type: post
 template: blog-post.html
 ---
-In [the previous step](/blog2/2009/07/21/bam-into-moodle-step-3-some-initial-development/) I got to know a bit more about the Moodle code base, libraries and idioms. Even got to modify a bit of code - nothing much more complex than hello world. Time to continue that journey.
+In [the previous step](/blog/2009/07/21/bam-into-moodle-step-3-some-initial-development/) I got to know a bit more about the Moodle code base, libraries and idioms. Even got to modify a bit of code - nothing much more complex than hello world. Time to continue that journey.
 
 ### Roles and capabilities
 

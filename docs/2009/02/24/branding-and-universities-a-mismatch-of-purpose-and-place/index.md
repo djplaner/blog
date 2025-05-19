@@ -8,10 +8,10 @@ date: 2009-02-24 00:34:30+10:00
 next:
   text: '"Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
     projects?"'
-  url: /blog2/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/
+  url: /blog/2009/02/24/blogs-in-e-learning-bam-moodle-and-a-taxonomy-of-educational-aggregation-projects/
 previous:
   text: When was this - past experience of e-learning
-  url: /blog2/2009/02/23/when-was-this-past-experience-of-e-learning/
+  url: /blog/2009/02/23/when-was-this-past-experience-of-e-learning/
 title: Branding and universities - a mismatch of purpose and place?
 type: post
 template: blog-post.html
@@ -22,9 +22,9 @@ I'm currently reading Waeraas and Solbakk (2009), a paper titled "Defining the e
 
 [![The Ps Framework: a messy version](images/3281484920_07273d0662_m.jpg)](http://www.flickr.com/photos/david_jones/3281484920/ "The Ps Framework: a messy version by David T Jones, on Flickr")
 
-My interest in this paper arises out of some recent local experience, but mostly because of my [PhD Thesis](/blog2/research/phd-thesis/) and the Purpose and Place components of the Ps Framework that is arising from the PhD.
+My interest in this paper arises out of some recent local experience, but mostly because of my [PhD Thesis](/blog/research/phd-thesis/) and the Purpose and Place components of the Ps Framework that is arising from the PhD.
 
-For me, branding and how it should be carried out is a perfect example of a [teleological design process](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) and the mismatch such a process is for a "place" like a university. A perspective that the authors seem to agree with
+For me, branding and how it should be carried out is a perfect example of a [teleological design process](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/) and the mismatch such a process is for a "place" like a university. A perspective that the authors seem to agree with
 
 > An important finding is that a university may be too complex to be encapsulated by one brand or identity definition
 

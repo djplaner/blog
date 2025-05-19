@@ -5,15 +5,15 @@ categories:
 date: 2009-01-07 16:32:13+10:00
 next:
   text: Content, redirects and impact on Google ranking
-  url: /blog2/2009/01/07/content-redirects-and-impact-on-google-ranking/
+  url: /blog/2009/01/07/content-redirects-and-impact-on-google-ranking/
 previous:
   text: Implementing the rotating banner image
-  url: /blog2/2009/01/06/implementing-the-rotating-banner-image/
+  url: /blog/2009/01/06/implementing-the-rotating-banner-image/
 title: Reflections and Implications from Webfuse - Domain languages
 type: post
 template: blog-post.html
 ---
-As I am currently [writing up the PhD](/blog2/research/phd-thesis/) I have banned myself from working on any new papers. However, as I work through the PhD I will get ideas for papers so rather than waste time writing them in full and even worse forget about them I'm going to try and write about them on the blog and categorise them appropriately. With the hope that post PhD I can come back and have a large collection of papers to write. Alternatively, I'll have a collection of dribble to laugh at.
+As I am currently [writing up the PhD](/blog/research/phd-thesis/) I have banned myself from working on any new papers. However, as I work through the PhD I will get ideas for papers so rather than waste time writing them in full and even worse forget about them I'm going to try and write about them on the blog and categorise them appropriately. With the hope that post PhD I can come back and have a large collection of papers to write. Alternatively, I'll have a collection of dribble to laugh at.
 
 First cab off the rank is the idea of a "webfuse reflections and implications" paper. To some extent this would come from the last chapter of my thesis and capture some of the lessons, reflections etc learned from the 12 or so years working on the thesis and Webfuse (the artifact that arose from/created the thesis).
 
@@ -27,7 +27,7 @@ Some of the initial ideas which will be expanded upon include
 
 ### Domain languages and LMS mismatches
 
-The idea for this one was sparked by [this post on iPhoto and Domain Languages](http://www.37signals.com/svn/posts/1507-iphoto-09-and-domain-language) and some [previous work](/blog2/publications/how-to-live-with-erp-systems-and-thrive/).
+The idea for this one was sparked by [this post on iPhoto and Domain Languages](http://www.37signals.com/svn/posts/1507-iphoto-09-and-domain-language) and some [previous work](/blog/publications/how-to-live-with-erp-systems-and-thrive/).
 
 The definition of domain language [given on the 37signals blog](http://www.37signals.com/svn/posts/1507-iphoto-09-and-domain-language) is
 

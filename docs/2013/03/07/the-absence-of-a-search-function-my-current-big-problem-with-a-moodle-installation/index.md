@@ -6,10 +6,10 @@ categories:
 date: 2013-03-07 13:03:42+10:00
 next:
   text: Many of our students are neither digital natives nor digitally literate
-  url: /blog2/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/
+  url: /blog/2013/03/13/many-of-our-students-are-neither-digital-natives-nor-digitally-literate/
 previous:
   text: How much of a cage should I build?
-  url: /blog2/2013/03/06/how-much-of-a-cage-should-i-build/
+  url: /blog/2013/03/06/how-much-of-a-cage-should-i-build/
 title: The absence of a search function - my current big problem with a Moodle installation
 type: post
 template: blog-post.html
@@ -139,7 +139,7 @@ If this was any other website, we'd follow the [advice](http://www.nngroup.com/a
 
 The "web way" solution would be to have a search engine. But the Moodle installation of the University I teach the course for doesn't appear to provide this functionality. I believe the only way this can occur is to allow Google to have access to all courses on the site. While there may be reasons for this, it's not a solution I'm pushing just to solve my problem.
 
-How can I provide my students with a search function? How can I make my course site ["of the web" and not "on the web"](/blog2/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/)?
+How can I provide my students with a search function? How can I make my course site ["of the web" and not "on the web"](/blog/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/)?
 
 I have heard mention made of being saved by repositories. i.e. Moodle is not a content hosting platform and doesn't try to be. If you want searchable content, place it in a repository. The trouble is we're not talking here about large documentation. Just a lot of small pages that are closely wrapped around specific learning activities in Moodle. I'm yet to see an information repository integration that works as seamlessly as I'd expect.
 

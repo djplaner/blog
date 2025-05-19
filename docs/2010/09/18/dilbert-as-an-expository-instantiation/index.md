@@ -10,17 +10,17 @@ categories:
 date: 2010-09-18 16:05:13+10:00
 next:
   text: BIM, missing students and Moodle groups
-  url: /blog2/2010/09/19/bim-missing-students-and-moodle-groups/
+  url: /blog/2010/09/19/bim-missing-students-and-moodle-groups/
 previous:
   text: The office and more procrastination
-  url: /blog2/2010/09/17/the-office-and-more-procrastination/
+  url: /blog/2010/09/17/the-office-and-more-procrastination/
 title: Dilbert as an expository instantiation
 type: post
 template: blog-post.html
 ---
 A few recent posts have been first draft excerpts from my Information Systems Design Theory (ISDT) from emergent university e-learning systems. Being academics and hence somewhat pedantic about these things there are meant to be a number of specific components of an ISDT. One of these is the expository instantiation that is meant to act as both an explanatory device and a platform for testing (Gregor and Jones, 2007) i.e. it's meant to help explain the theory and also examples of testing the theory.
 
-The trouble is that [today's Dilbert cartoon](http://www.dilbert.com/2010-09-05/) is probably as good an explanation of what is currently the [third principle of implementation](/blog2/2010/09/17/principles-of-implementation/#three) for my ISDT.
+The trouble is that [today's Dilbert cartoon](http://www.dilbert.com/2010-09-05/) is probably as good an explanation of what is currently the [third principle of implementation](/blog/2010/09/17/principles-of-implementation/#three) for my ISDT.
 
 !!! warning "Broken image link"
 

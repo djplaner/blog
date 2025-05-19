@@ -5,10 +5,10 @@ categories:
 date: 2012-10-25 16:02:42+10:00
 next:
   text: '"Technology in education: The track record"'
-  url: /blog2/2012/10/29/technology-in-education-the-track-record/
+  url: /blog/2012/10/29/technology-in-education-the-track-record/
 previous:
   text: 'The quest to make sense of information: A research commentary'
-  url: /blog2/2012/10/25/the-quest-to-make-sense-of-information-a-research-commentary/
+  url: /blog/2012/10/25/the-quest-to-make-sense-of-information-a-research-commentary/
 title: '"Learning analytics: Anything more than just another fad?"'
 type: post
 template: blog-post.html
@@ -122,7 +122,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm currently thinking about a potential contribution to the [SoLAR Southern Flare Conference](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/schedConf/overview) on Learning Analytics in about a month or so. The [early shape of that contribution](/blog2/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/) is online and my last few posts have been summarising some explorations through various areas of the literature. Not the learning analytics literature, but broader literature on which much of the learning analytics literature should be based, but of which much isn't.
+I'm currently thinking about a potential contribution to the [SoLAR Southern Flare Conference](http://epress.lib.uts.edu.au/conferences/index.php/SoLAR/SSFC12/schedConf/overview) on Learning Analytics in about a month or so. The [early shape of that contribution](/blog/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/) is online and my last few posts have been summarising some explorations through various areas of the literature. Not the learning analytics literature, but broader literature on which much of the learning analytics literature should be based, but of which much isn't.
 
 That reading has me increasingly pessimistic about the end result of learning analytics moves within Australian universities. It will be just another fad. Does anyone feel more positive?
 

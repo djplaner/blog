@@ -4,10 +4,10 @@ categories:
 date: 2010-03-30 09:46:11+10:00
 next:
   text: Elevator pitch for "Moodle curriculum mapping"
-  url: /blog2/2010/04/01/elevator-pitch-for-curriculum-mapping/
+  url: /blog/2010/04/01/elevator-pitch-for-curriculum-mapping/
 previous:
   text: Moodle, Oracle, blobs and MS-Word - problem and solution?
-  url: /blog2/2010/03/26/moodle-oracle-blobs-and-ms-word-problem-and-solution/
+  url: /blog/2010/03/26/moodle-oracle-blobs-and-ms-word-problem-and-solution/
 title: Moodle curriculum mapping - Step 2
 type: post
 template: blog-post.html
@@ -152,7 +152,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This is the second exploration of an idea for enhancing Moodle to enable curriculum mapping. It carries on from the [first step](/blog2/2010/03/23/first-step-in-moodle-curriculum-mapping/) and is part of a [broader project](/blog2/research/curriculum-mapping/).
+This is the second exploration of an idea for enhancing Moodle to enable curriculum mapping. It carries on from the [first step](/blog/2010/03/23/first-step-in-moodle-curriculum-mapping/) and is part of a [broader project](/blog/research/curriculum-mapping/).
 
 The aim today is to:
 

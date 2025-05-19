@@ -12,11 +12,11 @@ categories:
 date: 2009-03-02 15:39:47+10:00
 next:
   text: Further evidence of problems with evaluation of teaching
-  url: /blog2/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/
+  url: /blog/2009/03/02/further-evidence-of-problems-with-evaluation-of-teaching/
 previous:
   text: Reflective problematisation - description of reflection in &quot;reflective
     alignment&quot;?
-  url: /blog2/2009/03/02/reflective-problematisation-description-of-reflection-in-reflective-alignment/
+  url: /blog/2009/03/02/reflective-problematisation-description-of-reflection-in-reflective-alignment/
 title: Some potential updates to BAM - a step towards breaking the LMS/CMS orthodoxy
 type: post
 template: blog-post.html
@@ -55,13 +55,13 @@ pingbacks:
       user_id: '0'
     
 ---
-The [initial design and use](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) of the [Blog Aggregation Management (BAM) system](/blog2/research/bam-blog-aggregation-management/) was, in part, designed to try out approaches that leverage the [protean nature](/blog2/2009/02/11/bam-making-e-learning-technology-more-protean/) of information technology. A major part of this is a move to something different, and hopefully better, than the current, broken e-learning orthodoxy within universities that is stuck on the idea of course management systems (CMS - aka learning management systems) as the only possible solution.
+The [initial design and use](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) of the [Blog Aggregation Management (BAM) system](/blog/research/bam-blog-aggregation-management/) was, in part, designed to try out approaches that leverage the [protean nature](/blog/2009/02/11/bam-making-e-learning-technology-more-protean/) of information technology. A major part of this is a move to something different, and hopefully better, than the current, broken e-learning orthodoxy within universities that is stuck on the idea of course management systems (CMS - aka learning management systems) as the only possible solution.
 
 The vast majority of what BAM does was designed and implemented over a couple of months almost 3 years ago. Since then we've learned a bit about using BAM and also have some time to extend BAM in appropriate ways. This post seeks to explain the next major expansion of BAM, which will see it move further away from CMS orthodoxy. In particular, the plan to expand BAM's generation of RSS/OPML feeds so academic staff can avoid badly designed web-based management interfaces and use an RSS reader of their choice as the major interface to BAM.
 
 ### Current limitations of BAM
 
-One of the assumptions underpinning BAM was to significantly question the ability for a university to provide a blogging service that could compete with existing free blog services in terms of reliability, quality of features and quality of support services and resources. This is an extension of one of the principles behind the [design of the Webfuse e-learning system](/blog2/publications/the-design-of-an-integrated-online-learning-environment/) (Jones and Buchanan, 1996) within which BAM is currently implemented. This principle is talked about under the heading "Flexibility and don't reinvent the wheel"
+One of the assumptions underpinning BAM was to significantly question the ability for a university to provide a blogging service that could compete with existing free blog services in terms of reliability, quality of features and quality of support services and resources. This is an extension of one of the principles behind the [design of the Webfuse e-learning system](/blog/publications/the-design-of-an-integrated-online-learning-environment/) (Jones and Buchanan, 1996) within which BAM is currently implemented. This principle is talked about under the heading "Flexibility and don't reinvent the wheel"
 
 > The design of the M&C OLE (online learning environment) will attempt to maximise adaptability by concentrating on providing the infrastructure required to integrate existing and yet to be developed online learning tools. The M&C OLE will provide the management infrastructure and consistent interface to combine existing tools such as WWW servers, online quizzes, assignment submission etc. into a single integrated whole. While a number of the component systems will be developed at CQU, **the emphasis is on integrating existing tools into the OLE**.
 
@@ -69,7 +69,7 @@ At the moment, BAM provides a management interface for academic staff around exi
 
 [![BAM blog registration](images/3268716454_881188b8eb_o.png)](http://www.flickr.com/photos/david_jones/3268716454/ "BAM blog registration by David T Jones, on Flickr")
 
-Academic staff currently use a web-based interface provided by BAM to track student blog registration and posts, view student posts and mark student posts. See the screenshots in this [paper](/blog2/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) for what they look like. That is, BAM is still stuck in the CMS orthodoxy.
+Academic staff currently use a web-based interface provided by BAM to track student blog registration and posts, view student posts and mark student posts. See the screenshots in this [paper](/blog/publications/blogs-reflective-journals-and-aggregation-an-initial-experiment/) for what they look like. That is, BAM is still stuck in the CMS orthodoxy.
 
 ### Moving to RSS readers and OPML feeds
 

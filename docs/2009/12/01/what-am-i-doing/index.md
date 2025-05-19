@@ -2,10 +2,10 @@
 date: 2009-12-01 12:53:27+10:00
 next:
   text: What research groups are looking at the future of education
-  url: /blog2/2009/12/01/what-research-groups-are-looking-at-the-future-of-education/
+  url: /blog/2009/12/01/what-research-groups-are-looking-at-the-future-of-education/
 previous:
   text: Any one for a grant application/research project?
-  url: /blog2/2009/11/27/any-one-for-a-grant-applicationresearch-project/
+  url: /blog/2009/11/27/any-one-for-a-grant-applicationresearch-project/
 title: What am I doing?
 type: post
 template: blog-post.html
@@ -18,7 +18,7 @@ So, this post is to make public what I'm doing for the institution and also (and
 
 ### 50/50
 
-At the moment, my work effort/resource is split 50/50 between my official role as the [e-learning and innovation specialist](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ for the institution, and in a very much related role with the [Learning and Teaching Education Research Centre](http://www.cqu.edu.au/lterc/) at the same institution.
+At the moment, my work effort/resource is split 50/50 between my official role as the [e-learning and innovation specialist](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ for the institution, and in a very much related role with the [Learning and Teaching Education Research Centre](http://www.cqu.edu.au/lterc/) at the same institution.
 
 In my spare time, I'm trying to finish the write up of my thesis
 
@@ -26,8 +26,8 @@ In my spare time, I'm trying to finish the write up of my thesis
 
 In this position, I'm working on the following projects:
 
-- Support of people using [BAM](/blog2/research/bam-blog-aggregation-management/) including support of existing courses/students/staff and helping new staff consider its use.
-- [BAM into Moodle (BIM)](/blog2/research/bam-blog-aggregation-management/).
+- Support of people using [BAM](/blog/research/bam-blog-aggregation-management/) including support of existing courses/students/staff and helping new staff consider its use.
+- [BAM into Moodle (BIM)](/blog/research/bam-blog-aggregation-management/).
 - [The indicators project](http://indicatorsproject.wordpress.com/).
 - Occasionally, some early discussions around curriculum mapping.
 

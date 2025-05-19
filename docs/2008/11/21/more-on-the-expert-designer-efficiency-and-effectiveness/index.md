@@ -6,10 +6,10 @@ categories:
 date: 2008-11-21 08:31:34+10:00
 next:
   text: Starting a new journey and hobby - photography
-  url: /blog2/2008/11/21/starting-a-new-journey-and-hobby-photography/
+  url: /blog/2008/11/21/starting-a-new-journey-and-hobby-photography/
 previous:
   text: Tool users, research, hammers and the law of instrument
-  url: /blog2/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/
+  url: /blog/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/
 title: More on the expert designer - efficiency and effectiveness
 type: post
 template: blog-post.html
@@ -61,7 +61,7 @@ pingbacks:
     []
     
 ---
-A [previous post](/blog2/2008/11/15/expert-designer-another-assumption-ples-question/) has gotten [a comment](/blog2/2008/11/15/expert-designer-another-assumption-ples-question/#comment-1537) which I want to follow up on. The interface for writing a post gives more opportunity to be creative than that provided to add comments.
+A [previous post](/blog/2008/11/15/expert-designer-another-assumption-ples-question/) has gotten [a comment](/blog/2008/11/15/expert-designer-another-assumption-ples-question/#comment-1537) which I want to follow up on. The interface for writing a post gives more opportunity to be creative than that provided to add comments.
 
 ### A clarification of the intent
 

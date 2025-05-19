@@ -9,10 +9,10 @@ categories:
 date: 2009-06-18 11:38:14+10:00
 next:
   text: Examination focus and what it might tell us about learning and teaching
-  url: /blog2/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
+  url: /blog/2009/06/19/examination-focus-and-what-it-might-tell-us-about-learning-and-teaching/
 previous:
   text: What can history tell us about e-learning and its future?
-  url: /blog2/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
+  url: /blog/2009/06/18/what-can-history-tell-us-about-e-learning-and-its-future/
 title: The planning fallacy, innovation and ateleological design
 type: post
 template: blog-post.html
@@ -23,7 +23,7 @@ I occasionally get comments (usually agreement) on the quote that I include in m
 
 is from [Joseph Gavin](http://beta.technologyreview.com/article/22178/) discussing the design of the Lunar module.
 
-I like it because it expresses the huge disconnect that I see between the assumptions that underlie [teleological design processes](/blog2/2009/05/25/teleological-and-ateleological-processes/) and innovation, especially in Universities. This causes me great problems because the majority of information technology and management folk in Universities don't recognise the disconnect between innovation and telological processes. What's worse is that they aren't even aware that there are alternatives and that those alternatives are a better fit in some circumstances.
+I like it because it expresses the huge disconnect that I see between the assumptions that underlie [teleological design processes](/blog/2009/05/25/teleological-and-ateleological-processes/) and innovation, especially in Universities. This causes me great problems because the majority of information technology and management folk in Universities don't recognise the disconnect between innovation and telological processes. What's worse is that they aren't even aware that there are alternatives and that those alternatives are a better fit in some circumstances.
 
 ### Support from psychology
 

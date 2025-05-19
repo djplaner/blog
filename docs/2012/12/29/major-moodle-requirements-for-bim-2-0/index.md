@@ -4,10 +4,10 @@ categories:
 date: 2012-12-29 10:41:35+10:00
 next:
   text: Backup for BIM 2.0
-  url: /blog2/2012/12/29/backup-for-bim-2-0/
+  url: /blog/2012/12/29/backup-for-bim-2-0/
 previous:
   text: Bug fix and to do for BIM
-  url: /blog2/2012/12/28/bug-fix-and-to-do-for-bim/
+  url: /blog/2012/12/28/bug-fix-and-to-do-for-bim/
 title: Major (Moodle) requirements for BIM 2.0
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The next step in the development of [BIM 2.0](/blog2/research/bam-blog-aggregation-management/) is identifying the list of major (Moodle) requirements that need to be implemented. BIM is a Moodle [activity module](http://docs.moodle.org/dev/Activity_modules). Moodle has a range of expectations that such modules are meant to meet. The following is an attempt to identify what needs to be done.
+The next step in the development of [BIM 2.0](/blog/research/bam-blog-aggregation-management/) is identifying the list of major (Moodle) requirements that need to be implemented. BIM is a Moodle [activity module](http://docs.moodle.org/dev/Activity_modules). Moodle has a range of expectations that such modules are meant to meet. The following is an attempt to identify what needs to be done.
 
 It has resulted in a renewed effort to use the github [issue list](https://github.com/djplaner/BIM/issues) to record and manage what needs to be done. Not only have I started adding issues for BIM 2.0, I've also been through the old issues and decided which apply to BIM 2.0
 

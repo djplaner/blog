@@ -4,10 +4,10 @@ categories:
 date: 2006-09-25 20:50:40+10:00
 next:
   text: iTunes U - and the call for DRM
-  url: /blog2/2006/09/25/itunes-u-and-the-call-for-drm/
+  url: /blog/2006/09/25/itunes-u-and-the-call-for-drm/
 previous:
   text: Efficient, effective, empowered learning
-  url: /blog2/2006/09/22/efficient-effective-empowered-learning/
+  url: /blog/2006/09/22/efficient-effective-empowered-learning/
 title: Web 2.0 tools
 type: post
 template: blog-post.html

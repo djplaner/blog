@@ -4,10 +4,10 @@ categories:
 date: 2006-09-26 12:47:45+10:00
 next:
   text: '"Web 2.0" applications/services used by students'
-  url: /blog2/2006/09/26/web-20-applicationsservices-used-by-students/
+  url: /blog/2006/09/26/web-20-applicationsservices-used-by-students/
 previous:
   text: iTunes U - and the call for DRM
-  url: /blog2/2006/09/25/itunes-u-and-the-call-for-drm/
+  url: /blog/2006/09/25/itunes-u-and-the-call-for-drm/
 title: Web 2.0 for Designers - features of a web 2.0 site
 type: post
 template: blog-post.html

@@ -5,10 +5,10 @@ categories:
 date: 2011-02-28 10:35:21+10:00
 next:
   text: ICTs for learning design - the first week
-  url: /blog2/2011/02/28/icts-for-learning-design-the-first-week/
+  url: /blog/2011/02/28/icts-for-learning-design-the-first-week/
 previous:
   text: Prensky, immigrants and old problems in new bottles
-  url: /blog2/2011/02/27/prensky-immigrants-and-old-problems-in-new-bottles/
+  url: /blog/2011/02/27/prensky-immigrants-and-old-problems-in-new-bottles/
 title: Thoughts and applications of connectivism
 type: post
 template: blog-post.html
@@ -119,7 +119,7 @@ and use these within the context of teaching Information Technology - particular
 
 One aspect of IT is learning how to program. Often programming is taught through "pretend" authentic projects such as creating a reservation system for a restaurant. Other limitation of these projects is that the student starts from scratch and does the programming by themselves. The trouble is that increasingly most software development occurs within broader frameworks. e.g. developing a plugin for Moodle, for Wordpress etc.
 
-I'm interested in exploring how programming could be taught be encouraging students to do exactly this. Pick a module, open source application - like Moodle or Wordpress - and over time develop or modify a plugin. In terms of teaching it would be my task to model and demonstrate the practices and knowledge required to do this (e.g. like my [work on BIM](/blog2/research/bam-blog-aggregation-management/)) and the students would be required to engage in the existing developer networks around these open source projects. In terms of encouraging reflection and making connections between the students and those external, the students would be expected to maintain blogs on their practice, must like I do with BIM development.
+I'm interested in exploring how programming could be taught be encouraging students to do exactly this. Pick a module, open source application - like Moodle or Wordpress - and over time develop or modify a plugin. In terms of teaching it would be my task to model and demonstrate the practices and knowledge required to do this (e.g. like my [work on BIM](/blog/research/bam-blog-aggregation-management/)) and the students would be required to engage in the existing developer networks around these open source projects. In terms of encouraging reflection and making connections between the students and those external, the students would be expected to maintain blogs on their practice, must like I do with BIM development.
 
 There's much more to this, but that's the basics.
 

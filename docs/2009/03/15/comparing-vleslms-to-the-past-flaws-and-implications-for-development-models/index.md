@@ -6,10 +6,10 @@ categories:
 date: 2009-03-15 23:20:18+10:00
 next:
   text: '"Blame the teacher" and its negative impact on learning and e-learning'
-  url: /blog2/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
+  url: /blog/2009/03/18/blame-the-teacher-and-its-negative-impact-on-learning-and-e-learning/
 previous:
   text: 'Virtual learning environments: three implementation perspectives'
-  url: /blog2/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
+  url: /blog/2009/03/13/virtual-learning-environments-three-implementation-perspectives/
 title: '"Comparing VLEs/LMS to the past: flaws and implications for development models"'
 type: post
 template: blog-post.html
@@ -81,7 +81,7 @@ pingbacks:
 ---
 [![George Santayana, a Spanish American philosopher and writer](images/George_Santayana.jpg)](http://en.wikiquote.org/wiki/File:George_Santayana.jpg)
 
-I'm working on chapter 2 of [the thesis](/blog2/research/phd-thesis/) and, in particular, on the "Past Experience" section. As part of the [Ps Framework](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/), "Past Experience" is meant to talk about
+I'm working on chapter 2 of [the thesis](/blog/research/phd-thesis/) and, in particular, on the "Past Experience" section. As part of the [Ps Framework](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/), "Past Experience" is meant to talk about
 
 > What has gone on before with e-learning, both within and outside of this particular place? What worked and what didn’t? What other aspects of previous experience at this particular institution will impact upon current plans?
 
@@ -144,7 +144,7 @@ Heines (2004) suggests that showing the vendors how to expand their product capa
 
 This basic function was a simple "reporting" problem, i.e. how information was being displayed. It wasn't some as difficult as storing additional data about student performance on quizzes and implementing known algorithms for item analysis. But even it hadn't been done yet. And this is for a function that was reported through vendor initiated "user dialogue".
 
-So, of course, open source must be the answer. That seems to be [what the latest fad](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) sweeping higher education might suggest. As [that previous post](/blog2/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) suggests, I have my doubts.
+So, of course, open source must be the answer. That seems to be [what the latest fad](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) sweeping higher education might suggest. As [that previous post](/blog/2009/01/21/open-source-learning-management-systems-the-latest-fad-in-e-learning/) suggests, I have my doubts.
 
 One simple empirical test might be to look at the testing engines within existing open source CMSes and see if they suffer the same flaw. My quick look at Moodle suggests that it does.
 
@@ -162,10 +162,10 @@ Heines (2004) suggests that a "plug-in" approach might be possible. The reality 
 
 If I can't give an answer to how you would do it, I can at least describe a situation that would not solve it. That's the old "implement vanilla" approach to enterprise systems - the situation where the local organisation actively decides not to make any changes.
 
-For me this approach [ignores the messiness of information systems](/blog2/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/).
+For me this approach [ignores the messiness of information systems](/blog/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/).
 
 ### References
 
-Jones, D., S. Behrens, et al. (2004). [The rise and fall of a shadow system: Lessons for enterprise system implementation](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/). Managing New Wave Information Systems: Enterprise, Government and Society, Proceedings of the 15th Australasian Conference on Information Systems, Hobart, Tasmania.
+Jones, D., S. Behrens, et al. (2004). [The rise and fall of a shadow system: Lessons for enterprise system implementation](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/). Managing New Wave Information Systems: Enterprise, Government and Society, Proceedings of the 15th Australasian Conference on Information Systems, Hobart, Tasmania.
 
 Heines, J. (2004). Technology for Teaching: Past Masters Versus Present Practices. Online Learning: Personal Reflections on the Tranformation of Education. G. Kearsley, Educational Technology Publications: 144-162.

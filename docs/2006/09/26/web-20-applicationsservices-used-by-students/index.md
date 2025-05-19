@@ -4,10 +4,10 @@ categories:
 date: 2006-09-26 15:17:53+10:00
 next:
   text: groups and networks
-  url: /blog2/2006/09/27/groups-and-networks/
+  url: /blog/2006/09/27/groups-and-networks/
 previous:
   text: Web 2.0 for Designers - features of a web 2.0 site
-  url: /blog2/2006/09/26/web-20-for-designers-features-of-a-web-20-site/
+  url: /blog/2006/09/26/web-20-for-designers-features-of-a-web-20-site/
 title: '"Web 2.0" applications/services used by students'
 type: post
 template: blog-post.html

@@ -5,10 +5,10 @@ categories:
 date: 2007-06-08 16:07:14+10:00
 next:
   text: Helping create innovative, good quality learning and teaching
-  url: /blog2/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/
+  url: /blog/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/
 previous:
   text: Carrick success - a pleasant surprise and now the fun begins
-  url: /blog2/2007/05/23/carrick-success-a-pleasant-surprise-and-now-the-fun-begins/
+  url: /blog/2007/05/23/carrick-success-a-pleasant-surprise-and-now-the-fun-begins/
 title: Governance, e-learning and learning design
 type: post
 template: blog-post.html

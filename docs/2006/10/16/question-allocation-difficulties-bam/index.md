@@ -4,10 +4,10 @@ categories:
 date: 2006-10-16 09:08:09+10:00
 next:
   text: Another review of LMS Reviews
-  url: /blog2/2006/10/19/another-review-of-lms-reviews/
+  url: /blog/2006/10/19/another-review-of-lms-reviews/
 previous:
   text: The missing Ps in LMS adoption decisions
-  url: /blog2/2006/10/12/the-missing-ps-in-lms-adoption-decisions/
+  url: /blog/2006/10/12/the-missing-ps-in-lms-adoption-decisions/
 title: Question allocation difficulties - BAM
 type: post
 template: blog-post.html

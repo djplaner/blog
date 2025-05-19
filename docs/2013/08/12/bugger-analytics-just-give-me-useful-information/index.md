@@ -5,10 +5,10 @@ categories:
 date: 2013-08-12 11:44:50+10:00
 next:
   text: Aligning learning analytics with learning design
-  url: /blog2/2013/08/14/aligning-learning-analytics-with-learning-design/
+  url: /blog/2013/08/14/aligning-learning-analytics-with-learning-design/
 previous:
   text: Statistics in Education - Week 1
-  url: /blog2/2013/08/10/statistics-in-education-week-1/
+  url: /blog/2013/08/10/statistics-in-education-week-1/
 title: Bugger analytics, just give me useful information
 type: post
 template: blog-post.html
@@ -64,7 +64,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In a a [prior post](/blog2/2013/08/02/learning-analytics-what-is-the-end-in-mind/) I wondered about the "end in mind" for university analytics projects. What follows outlines why I'm skeptical of such projects.
+In a a [prior post](/blog/2013/08/02/learning-analytics-what-is-the-end-in-mind/) I wondered about the "end in mind" for university analytics projects. What follows outlines why I'm skeptical of such projects.
 
 Starting about 15 years ago, most Australian Universities started spending tens of millions of dollars on Enterprise Resource Planning systems. These were systems intended to solve the information problems of universities. I remember the great promises proposed by Vice Chancellors about how much time and money would be saved through the adoption of these systems. How much easier it would be to get access to correct information and consequently improve university operations.
 
@@ -100,6 +100,6 @@ I wonder if the analytics push is simply the next phase in the ERP fashion proce
 
 How can this be avoided? Is any institution likely to even be aware of this problem, let alone do something about it?
 
-Which brings me back to the [prior post](/blog2/2013/08/02/learning-analytics-what-is-the-end-in-mind/). If the "end in mind" with learning analytics is the provision of useful information to students and teachers in ways that action can be taken, then it might be okay. But if the "end in mind" becomes installing Vendor Tool X because everyone else is doing it.....
+Which brings me back to the [prior post](/blog/2013/08/02/learning-analytics-what-is-the-end-in-mind/). If the "end in mind" with learning analytics is the provision of useful information to students and teachers in ways that action can be taken, then it might be okay. But if the "end in mind" becomes installing Vendor Tool X because everyone else is doing it.....
 
 What's especially troubling is that I know of at least one Australian University that is explicitly heading down the "install tool X" approach since it is seen as saving money. i.e. if you implement the tool as vanilla and then focus on changing practices to suite the tool, it's better and cheaper. Good luck with that.

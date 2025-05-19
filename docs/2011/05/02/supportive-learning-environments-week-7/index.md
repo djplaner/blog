@@ -5,10 +5,10 @@ categories:
 date: 2011-05-02 15:27:26+10:00
 next:
   text: Sir, when are we going to use this?
-  url: /blog2/2011/05/03/sir-when-are-we-going-to-use-this/
+  url: /blog/2011/05/03/sir-when-are-we-going-to-use-this/
 previous:
   text: Literacy and Numeracy - Week 6
-  url: /blog2/2011/04/26/literacy-and-numeracy-week-6/
+  url: /blog/2011/04/26/literacy-and-numeracy-week-6/
 title: Supportive Learning Environments - Week 7
 type: post
 template: blog-post.html

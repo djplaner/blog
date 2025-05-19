@@ -32,7 +32,7 @@ from pluralizer import Pluralizer
 BLOG_FOLDER = ""
 # Full path to where the markdown files are there
 BLOG_HOME="/Users/davidjones/blog/docs/"
-BLOG_URL="https://djon.es/blog2/"
+BLOG_URL="https://djon.es/blog/"
 #BLOG_URL="https://localhost:8080/blog2/"
 
 NUM_POSTS_HOME_PAGE = 20
@@ -151,18 +151,18 @@ def generateCategories(blogItems):
 
     #for name in categoryNames.keys():
     for name in categories:
-        previous = { 'text': 'Home', 'url': '/blog2/index.html' }
-        next = { 'text': 'Home', 'url': '/blog2/index.html' }
+        previous = { 'text': 'Home', 'url': '/blog/index.html' }
+        next = { 'text': 'Home', 'url': '/blog/index.html' }
         if count > 0:
             next = { 
                     'text': categories[count-1],
-                    'url': f"/blog2/category/{categories[count-1]}.html"
+                    'url': f"/blog/category/{categories[count-1]}.html"
                        }
         if count < numCategories - 1:
 #            pprint(orderedPosts[count+1])
             previous = { 
                     'text': categories[count+1],
-                    'url': f"/blog2/category/{categories[count+1]}.html"
+                    'url': f"/blog/category/{categories[count+1]}.html"
                    }
         count += 1
         generateCategoryPage(name, categoryNames[name], next, previous) 
@@ -431,7 +431,7 @@ def generateArchivesHome(archives):
 def generateArchives(archives):
     """
     Generate the month archive pages at 
-        blog2/Archives/<month>-<year>.md
+        blog/Archives/<month>-<year>.md
     Each one to contain excepts of the relevant 
 
     parameters
@@ -449,17 +449,17 @@ def generateArchives(archives):
         #-- calculate the next and previous months
         # - if this is the first month, set previous to Home
         # - if this is the last month, set next to Home
-        previous = { 'text': 'Home', 'url': '/blog2/index.html' }
-        next = { 'text': 'Home', 'url': '/blog2/index.html' }
+        previous = { 'text': 'Home', 'url': '/blog/index.html' }
+        next = { 'text': 'Home', 'url': '/blog/index.html' }
         if count > 0:
             next = { 
                         'text': f'{archives[count-1]["month"]} {archives[count-1]["year"]}', 
-                        'url': f"/blog2/archives/{archives[count-1]['month']}-{archives[count-1]['year']}.html" 
+                        'url': f"/blog/archives/{archives[count-1]['month']}-{archives[count-1]['year']}.html" 
                        }
         if count < numItems - 1:
             previous = { 
                     'text': f'{archives[count+1]["month"]} {archives[count+1]["year"]}',
-                    'url': f"/blog2/archives/{archives[count+1]['month']}-{archives[count+1]['year']}.html" 
+                    'url': f"/blog/archives/{archives[count+1]['month']}-{archives[count+1]['year']}.html" 
                    }
 
         count += 1
@@ -537,7 +537,7 @@ def generateItemContent(item, homePage=False):
     if 'categories' in item['yaml']:
         categories = " in: "
         for category in item['yaml']['categories']:
-            categories += f'<a href="/blog2/category/{category}.html">{category}</a>, '
+            categories += f'<a href="/blog/category/{category}.html">{category}</a>, '
         ##-- remove the last comma
         categories = categories[:-2]
 

@@ -7,10 +7,10 @@ categories:
 date: 2009-02-08 22:22:06+10:00
 next:
   text: Plato on the problems that writing will create for student learning
-  url: /blog2/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/
+  url: /blog/2009/02/09/plato-on-the-problems-that-writing-will-create-for-student-learning/
 previous:
   text: The ritual dissent method shows great promise
-  url: /blog2/2009/02/08/the-ritual-dissent-method-shows-great-promise/
+  url: /blog/2009/02/08/the-ritual-dissent-method-shows-great-promise/
 title: VoiceThread as a mechanism for feedback to students
 type: post
 template: blog-post.html
@@ -23,7 +23,7 @@ If I'd been organised I would have mentioned the following within that session a
 
 ### What we've done already
 
-In the second half of last year I worked with [Markus Themessl-Huber](http://fseh.cqu.edu.au/FCWViewer/staff.do;?site=100&sid=THEMESSM) in a 3rd year special topic course for undergraduate psychology students. Our plans to use VoiceThread are sketchily detailed [in this post](/blog2/2008/08/11/voice-thread-for-research-posters/).
+In the second half of last year I worked with [Markus Themessl-Huber](http://fseh.cqu.edu.au/FCWViewer/staff.do;?site=100&sid=THEMESSM) in a 3rd year special topic course for undergraduate psychology students. Our plans to use VoiceThread are sketchily detailed [in this post](/blog/2008/08/11/voice-thread-for-research-posters/).
 
 Since then the posters have been prepared by students, they've been put in VoiceThread and been viewed by some local industry folk at a face-to-face session. But, sadly, due to some local institutional "issues" I have not followed up on this as much as I would like.
 
@@ -48,6 +48,6 @@ In terms of this experiment some thoughts include
 - The management interface isn't there.  
     The interface [VoiceThread](http://voicethread.com/) uses is pretty good for presenting work and getting comments on it. If you are working with individual presentations. In setting up the [web page](http://cddu.cqu.edu.au/index.php/Voice_Thread_for_Research_Posters) for the face-to-face session we had to deal with all the students' posters. This was not easy. The interface didn't provide the affordances necessary to easily work with large numbers of presentations. This potentially has negative implications for using it as method for markers to make comments on student assignments. When you are marking assignments efficiency is important.
     
-    This is exactly one of the problems that the [BAM project](/blog2/research/bam-blog-aggregation-management/) had to deal with individual student blogs. The added effort and the novelty of marking blogs caused some backlash from markers.
+    This is exactly one of the problems that the [BAM project](/blog/research/bam-blog-aggregation-management/) had to deal with individual student blogs. The added effort and the novelty of marking blogs caused some backlash from markers.
     
     I am not confident that VoiceThread is going to as "mashable" as blogs were. A major enabler for BAM was that the output of blogs could be easily mashed up with other software for different purposes. I'm not sure that VoiceThread and its flash interface is going to allow this.

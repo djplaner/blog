@@ -6,11 +6,11 @@ categories:
 date: 2009-02-27 15:33:54+10:00
 next:
   text: Featured on slideshare - the give and take of social computing
-  url: /blog2/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
+  url: /blog/2009/02/27/featured-on-slideshare-the-give-and-take-of-social-computing/
 previous:
   text: Why formulaic guidance annoys experts and why they ignore the needs of the
     novice
-  url: /blog2/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
+  url: /blog/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/
 title: '"PhD update #1 - the start of a tradition?"'
 type: post
 template: blog-post.html
@@ -61,7 +61,7 @@ In the last week I've
 - Caught up on some literature on higher education.
 - Had a related paper accepted at an international conference.
 - Created a to do list/overview of the thesis.
-- Given some thought to the [research note](/blog2/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/) describing how to write up information systems design research work.
+- Given some thought to the [research note](/blog/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/) describing how to write up information systems design research work.
 
 I close with what I currently think I'll aim for next week.
 
@@ -83,9 +83,9 @@ Today I've achieve the major thing I wanted to do this week. Get some overall id
 
 ### Presenting design research work
 
-Originally, the submission to JAIS of [Gregor and Jones (2007)](http://aisel.aisnet.org/jais/vol8/iss5/1/) included an appendix that offered a suggested structure for a design theory/research thesis/paper. They didn't want to publish the appendix so we put it [online](/blog2/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/) a couple of months ago.
+Originally, the submission to JAIS of [Gregor and Jones (2007)](http://aisel.aisnet.org/jais/vol8/iss5/1/) included an appendix that offered a suggested structure for a design theory/research thesis/paper. They didn't want to publish the appendix so we put it [online](/blog/2008/10/09/the-anatomy-of-a-design-science-paper-a-research-note/) a couple of months ago.
 
-At least one of us is keen to get this published. Today I blogged [another post](/blog2/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/) providing a potential argument about why the research note is important, even though "experts" will think it problematic.
+At least one of us is keen to get this published. Today I blogged [another post](/blog/2009/02/27/why-formulaic-guidance-annoys-experts-and-why-they-ignore-the-needs-of-the-novice/) providing a potential argument about why the research note is important, even though "experts" will think it problematic.
 
 ### Next week
 

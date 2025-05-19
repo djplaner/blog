@@ -6,10 +6,10 @@ categories:
 date: 2012-08-22 16:01:36+10:00
 next:
   text: One example of industrial e-learning as "on the web" not "of the web"
-  url: /blog2/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/
+  url: /blog/2012/09/07/one-example-of-industrial-e-learning-as-on-the-web-not-of-the-web/
 previous:
   text: On a tension with teaching designs heavy on constructive alignment
-  url: /blog2/2012/08/14/on-a-tension-with-teaching-designs-heavy-on-constructive-alignment/
+  url: /blog/2012/08/14/on-a-tension-with-teaching-designs-heavy-on-constructive-alignment/
 title: The dilemma of open courses in an Australian university
 type: post
 template: blog-post.html
@@ -492,7 +492,7 @@ Of course, the minimum course standards argument reminds me so much of my troubl
 
 ### A somewhat inappropriate meta-level for networked learning
 
-In [this earlier post](/blog2/2012/08/13/lessons-for-the-meta-level-of-networked-learning/) I suggested that the meta-level of institutional networked learning - i.e. the systems, processes, people and policies used to implement institutional networked learning - are not generally known for their capability to enable and encourage
+In [this earlier post](/blog/2012/08/13/lessons-for-the-meta-level-of-networked-learning/) I suggested that the meta-level of institutional networked learning - i.e. the systems, processes, people and policies used to implement institutional networked learning - are not generally known for their capability to enable and encourage
 
 > community, openness, flexibility, collaboration, transformation and it is all user-centred
 

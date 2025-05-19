@@ -5,10 +5,10 @@ categories:
 date: 2016-09-08 13:04:01+10:00
 next:
   text: Which comes first? Pedagogy or technology?
-  url: /blog2/2016/09/11/which-comes-first-pedagogy-or-technology/
+  url: /blog/2016/09/11/which-comes-first-pedagogy-or-technology/
 previous:
   text: 'University digital technology: problems, causes, and suggested solutions'
-  url: /blog2/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
+  url: /blog/2016/09/07/university-digital-technology-problems-causes-and-suggested-solutions/
 title: '"Making course activity more transparent: A proposed use of MAV"'
 type: post
 template: blog-post.html
@@ -37,7 +37,7 @@ The demonstrator process is 90 days and is a trial of a product that will improv
 
 The process develops a case study which in turn is evaluated by the institution to determine if there is sufficient value to continue or perhaps scale up the project.  As part o the process I need to "articulate what it is you hope to achieve/demonstrate by using MAV".
 
-The following provides some background/rationale/aim on the project and MAV. It concludes with an initial suggestion for [how MAV might be used](/blog2/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/#using).
+The following provides some background/rationale/aim on the project and MAV. It concludes with an initial suggestion for [how MAV might be used](/blog/2016/09/08/making-course-activity-more-transparent-a-proposed-use-of-mav/#using).
 
 ## Rationale and aim
 
@@ -77,9 +77,9 @@ This illustrate a potential failure for this activity design. Students aren't re
 
 ## Using MAV
 
-At CQU, MAV is installed and teaching staff can choose to use it, or not. I'm unaware of how much shared discussion occurs around what MAV reveals. However, given that I've co-authored a paper titled ["TPACK as shared practice: Toward a research agenda"](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (Jones, Heffernan, & Albion, 2015) I am interested in exploring if MAV can be leveraged in a way that is more situated, social and distributed.  Hence the following approach, which is all very tentative and initial.  Suggestions welcome.
+At CQU, MAV is installed and teaching staff can choose to use it, or not. I'm unaware of how much shared discussion occurs around what MAV reveals. However, given that I've co-authored a paper titled ["TPACK as shared practice: Toward a research agenda"](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/) (Jones, Heffernan, & Albion, 2015) I am interested in exploring if MAV can be leveraged in a way that is more situated, social and distributed.  Hence the following approach, which is all very tentative and initial.  Suggestions welcome.
 
-The approach is influenced by the [Visitor and Resident Mapping approach](http://daveowhite.com/vandr/vr-mapping/) developed by Dave White and others. We (I believe I can talk with my co-authors) found using an adapted version of the mapping process for [this paper](/blog2/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/) to be very useful.
+The approach is influenced by the [Visitor and Resident Mapping approach](http://daveowhite.com/vandr/vr-mapping/) developed by Dave White and others. We (I believe I can talk with my co-authors) found using an adapted version of the mapping process for [this paper](/blog/2016/01/20/mapping-the-digital-practices-of-teacher-educators-implications-for-teacher-education-in-changing-digital-landscapes/) to be very useful.
 
 1. Identify a group of teaching staff and have them identify courses of interest. Staff from within a program or other related group of courses would be one approach. But a diverse group of courses might help challenge assumptions.
 2. Prepare colour print outs of their course sites, both with and without the MAV heatmap.

@@ -4,10 +4,10 @@ categories:
 date: 2014-02-22 08:28:59+10:00
 next:
   text: '"Evernote as a "solution" to a #moodle "problem""'
-  url: /blog2/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/
+  url: /blog/2014/02/25/evernote-as-a-solution-to-a-moodle-problem/
 previous:
   text: 'Does GPA make any difference to #moodle course usage?'
-  url: /blog2/2014/02/20/does-gpa-make-any-difference-to-moodle-course-usage/
+  url: /blog/2014/02/20/does-gpa-make-any-difference-to-moodle-course-usage/
 title: An ateleological quote
 type: post
 template: blog-post.html
@@ -40,7 +40,7 @@ The quote is [used widely](https://www.google.com/search?q=%22If+you+focus+on+re
 
 ### Ateleological connection
 
-This quote resonates with my view that there needs to be more [ateleological processes](/blog2/2009/05/25/teleological-and-ateleological-processes/) around organisations - especially schools and universities - and less of the traditional teleological processes.
+This quote resonates with my view that there needs to be more [ateleological processes](/blog/2009/05/25/teleological-and-ateleological-processes/) around organisations - especially schools and universities - and less of the traditional teleological processes.
 
 A teleological process focuses on results. It defines what the goal is and measures progress against movement toward that goal. If you aren't helping achieve that goal you're wrong. Such an approach is a poor match for the current context of most organisations. It assumes that your existing schemata will allow you to think of what the future needs, that what will be required in the future won't change before you get there, and that you can actually get a large group of people (e.g. academics) to work together for the same goal. Focus on the results, and you will never change.
 

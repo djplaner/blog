@@ -5,10 +5,10 @@ categories:
 date: 2011-04-01 12:17:41+10:00
 next:
   text: Making and using an OPML feed of student blogs
-  url: /blog2/2011/04/04/making-and-using-an-opml-feed-of-student-blogs/
+  url: /blog/2011/04/04/making-and-using-an-opml-feed-of-student-blogs/
 previous:
   text: Two new laws for ERA/NAPLAN etc
-  url: /blog2/2011/04/01/two-new-laws-for-eranaplan-etc/
+  url: /blog/2011/04/01/two-new-laws-for-eranaplan-etc/
 title: Reflections on a 12 year-old course site - It would be harder now
 type: post
 template: blog-post.html
@@ -41,7 +41,7 @@ And that's without looking for good instructional design or attempts to modify s
 
 #### Barriers to sharing
 
-This course was implemented using Webfuse, the system that formed the basis of [my thesis](/blog2/research/phd-thesis/). Webfuse course sites, including this one, were completely open by default. The only password protected area on this course site was the Staff section which we used to hare assignment solutions and discuss some issues. In addition, Webfuse was a web publishing system. i.e. it generated static web pages. Mainly to minimise load on under-strength servers.
+This course was implemented using Webfuse, the system that formed the basis of [my thesis](/blog/research/phd-thesis/). Webfuse course sites, including this one, were completely open by default. The only password protected area on this course site was the Staff section which we used to hare assignment solutions and discuss some issues. In addition, Webfuse was a web publishing system. i.e. it generated static web pages. Mainly to minimise load on under-strength servers.
 
 Even with it producing unprotected web pages, it isn't a straight forward process to share/repurpose this course site. Webfuse had various assumptions that meant its web pages aren't straight web pages. In order to share this course site, I had to manually update the pages to make them usable outside of Webfuse.
 

@@ -9,10 +9,10 @@ categories:
 date: 2009-07-29 11:27:50+10:00
 next:
   text: The design and implementation of Webfuse - Part 2
-  url: /blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-2/
+  url: /blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/
 previous:
   text: 'BAM into Moodle #7 - an eStudyGuide block'
-  url: /blog2/2009/07/28/bam-into-moodle-7-an-estudyguide-block/
+  url: /blog/2009/07/28/bam-into-moodle-7-an-estudyguide-block/
 title: The design and implementation of Webfuse - Part 1
 type: post
 template: blog-post.html
@@ -50,13 +50,13 @@ pingbacks:
       user_id: '0'
     
 ---
-This continues the collection of content that goes into Chapter 4 of my [PhD thesis](/blog2/research/phd-thesis/). Chapter 4 is meant to tell the story of the first iteration of Webfuse from 1996 through 1999. The [last section](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/) I posted describes the design guidelines that informed the implementation of Webfuse. This post and at least one following post seeks to describe the details of the design and implementation of Webfuse.
+This continues the collection of content that goes into Chapter 4 of my [PhD thesis](/blog/research/phd-thesis/). Chapter 4 is meant to tell the story of the first iteration of Webfuse from 1996 through 1999. The [last section](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/) I posted describes the design guidelines that informed the implementation of Webfuse. This post and at least one following post seeks to describe the details of the design and implementation of Webfuse.
 
 As with all the previous posts of content from the thesis, this content is in a rough first draft form. It will need more work. Comments and suggestions are more than welcome.
 
 ### Design, implementation and support
 
-This section outlines how the design guidelines for Webfuse introduced in the previous section [(Section 4.3.2)](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/) were turned into a specific system design and how that system was implemented and supported during the period from 1996 through 1999. First it briefly outlines the process, people and technology used during this period to design and implement Webfuse. It then explains how the abstractions that form the design of Webfuse were intended to fulfil the design guidelines introduced in Section 4.3.2. Lastly, it offers a description of the functionality offered by Webfuse towards the end of 1999. The next section (Section 4.3.4) will provide an overview of using Webfuse from both a student and academic staff member perspective.
+This section outlines how the design guidelines for Webfuse introduced in the previous section [(Section 4.3.2)](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/) were turned into a specific system design and how that system was implemented and supported during the period from 1996 through 1999. First it briefly outlines the process, people and technology used during this period to design and implement Webfuse. It then explains how the abstractions that form the design of Webfuse were intended to fulfil the design guidelines introduced in Section 4.3.2. Lastly, it offers a description of the functionality offered by Webfuse towards the end of 1999. The next section (Section 4.3.4) will provide an overview of using Webfuse from both a student and academic staff member perspective.
 
 #### Process, People and Technology
 

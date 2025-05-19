@@ -7,10 +7,10 @@ categories:
 date: 2015-09-14 11:40:19+10:00
 next:
   text: Helping teachers "know thy students"
-  url: /blog2/2015/09/15/helping-teachers-know-thy-students/
+  url: /blog/2015/09/15/helping-teachers-know-thy-students/
 previous:
   text: Exploring Moodle&#039;s API
-  url: /blog2/2015/09/13/exploring-moodles-api/
+  url: /blog/2015/09/13/exploring-moodles-api/
 title: What might a project combining LX Design and Analaytics look like?
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ Oh dear, the top result is for [Learning Experience Design **TRADEMARK**](http:/
 
 While I won't dwell on this particular approach, it does link to some of my vague qualms about LX design. First, there's a danger of it becoming too much of another collection of meaningless buzzwords used to label the same old practice as conforming to the latest buzzwords. Mainly because the people adopting don't fully understand it and fail transform their practice. Old wine, new bottles.
 
-Second, there's the problem of the "product focus" in learning. Where the focus is on building the best product, which troubles me. Perhaps this says more about my biases, but I worry that LX Design will become just another tool (perhaps a very good tool) applied within [the dominant SET mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) within institutional e-learning (which is my context). Which not surprisingly is one of my concerns about the direction of learning analytics.
+Second, there's the problem of the "product focus" in learning. Where the focus is on building the best product, which troubles me. Perhaps this says more about my biases, but I worry that LX Design will become just another tool (perhaps a very good tool) applied within [the dominant SET mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) within institutional e-learning (which is my context). Which not surprisingly is one of my concerns about the direction of learning analytics.
 
 And talking about old wine in new bottles, [this post](http://extensionengine.com/lxd-10-things-to-know-about-learner-experience-design) suggests that
 
@@ -60,19 +60,19 @@ Mmm, not much there that I'd class as something that LXD has provided to the wor
 
 > The term “user experience” was coined by Dr. Donald Norman, a cognitive science researcher who was also the first to describe the importance of user-centered design (the notion that design decisions should be based on the needs and wants of users).
 
-As I [wrote last week](/blog2/2015/09/09/requirements-solutions-design-and-who-should-decide/) I'm not convinced that the "needs and wants of users" is always the best approach. Especially if we're talking about something very new that the user doesn't yet understand.
+As I [wrote last week](/blog/2015/09/09/requirements-solutions-design-and-who-should-decide/) I'm not convinced that the "needs and wants of users" is always the best approach. Especially if we're talking about something very new that the user doesn't yet understand.
 
 Which begs the question:
 
 ### Who is the user in a learning experience?
 
-The obvious answer from a LX design perspective is that the user is the learner. That the focus should be on the learner has been the broadly accepted in higher education for some time now. But then [all models are wrong, but some are useful](/blog2/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/). In critiquing the raise of the term Technology Enhanced Learning, [Bayne (2014)](http://www.tandfonline.com/doi/abs/10.1080/17439884.2014.915851#.VfYfZ3vCYV8) draws on a range of publications by Biesta to critique the focus on learning and learners. I've just skimmed this argument for this post, but there is potentially something interesting and useful here.
+The obvious answer from a LX design perspective is that the user is the learner. That the focus should be on the learner has been the broadly accepted in higher education for some time now. But then [all models are wrong, but some are useful](/blog/2015/08/28/all-models-are-wrong-but-some-are-useful-and-its-application-to-e-learning/). In critiquing the raise of the term Technology Enhanced Learning, [Bayne (2014)](http://www.tandfonline.com/doi/abs/10.1080/17439884.2014.915851#.VfYfZ3vCYV8) draws on a range of publications by Biesta to critique the focus on learning and learners. I've just skimmed this argument for this post, but there is potentially something interesting and useful here.
 
 Beyond this more theoretical question about the value of a "learner focus", I'd also like to mention something a little closer to home. The context in which I'm framing this post is within higher education's practice of formal learning. A practice that currently still assumes that there is some value in having a teacher involved in the learning experience. Where "teacher" may not be a single individual, but actually be a small team with diverse roles. Which leads me to the proposition that the "teacher" is also a user within a learning experience.
 
 As I'm employed as a teacher within higher education, I can speak to the negative impact of the blindingly obvious, almost complete lack of user experience design around the tools and systems teachers are required to engage with around learning and teaching. Given the low quality of those tools, it's no surprise to me that most learning in higher education has some flaws.
 
-This is one of the reasons behind the [4 paths for learning analytics](/blog2/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/) focusing on the teacher (as designer of learning, if you must) and not the learner.
+This is one of the reasons behind the [4 paths for learning analytics](/blog/2015/06/01/the-four-paths-for-implementing-learning-analytics-and-enhancing-the-quality-of-learning-and-teaching/) focusing on the teacher (as designer of learning, if you must) and not the learner.
 
 Increasingly, I wonder if the focus on being learner centered is arising from a frustration with the perceived lack of quality of the learning experiences produced by teachers combined with a deficit model of teachers. Which brings me to this quote from Bayne (2014)
 
@@ -88,7 +88,7 @@ I assume the link between LX design and learning analytics is that learning anal
 
 > These data and analyses provide direct insight into learner information processing and knowledge application (Elias, 2011) within the tasks that the student completes as part of a learning design. (p. 1448)
 
-One of the problems @beerc and I have with learning analytics is that it really only ever focuses on two bits of [the PIRAC framework](/blog2/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/#pirac) i.e. information and representation. It hardly ever does anything about affordances or change. This is why dashboards suck and [are a broken metaphor](/blog2/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/). A dashboard without the ability to do anything to control the car are no value whatsoever.
+One of the problems @beerc and I have with learning analytics is that it really only ever focuses on two bits of [the PIRAC framework](/blog/2015/01/30/using-the-pirac-thinking-about-an-integrated-dashboard/#pirac) i.e. information and representation. It hardly ever does anything about affordances or change. This is why dashboards suck and [are a broken metaphor](/blog/2015/06/24/dashboards-suck-learning-analytics-broken-metaphor/). A dashboard without the ability to do anything to control the car are no value whatsoever.
 
 ## My questions about LXD
 

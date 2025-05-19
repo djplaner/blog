@@ -4,10 +4,10 @@ categories:
 date: 2017-07-09 09:46:15+10:00
 next:
   text: What's changed in academic staff development?
-  url: /blog2/2017/07/16/17252/
+  url: /blog/2017/07/16/17252/
 previous:
   text: Learning analytics, quality indicators and meso-level practitioners
-  url: /blog2/2017/07/07/learning-analytics-quality-indicators-and-meso-level-practitioners/
+  url: /blog/2017/07/07/learning-analytics-quality-indicators-and-meso-level-practitioners/
 title: My current context and some initial issues
 type: post
 template: blog-post.html

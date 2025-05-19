@@ -6,10 +6,10 @@ categories:
 date: 2009-05-08 15:59:06+10:00
 next:
   text: Why don't we (e-)learn - over emphasis on rationality and defensive routines
-  url: /blog2/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
+  url: /blog/2009/05/08/why-dont-we-e-learn-over-emphasis-on-rationality-and-defensive-routines/
 previous:
   text: Sector - another part of Place
-  url: /blog2/2009/05/08/sector-another-part-of-place/
+  url: /blog/2009/05/08/sector-another-part-of-place/
 title: '"PhD Update #10 - Dragging on"'
 type: post
 template: blog-post.html
@@ -58,14 +58,14 @@ pingbacks:
       user_id: '0'
     
 ---
-Well, I've reached double figures for these updates. The last week has been a slow one, or at least felt like it. The public holiday didn't help, nor the day off to [ponder the new position](/blog2/2009/05/07/pondering-a-new-position/). Progress has been made, but it just seems slow, especially when compared to what I said I'd do. I'm becoming more used to accepting some progress, be it slow or otherwise, as long as it's moving forward.
+Well, I've reached double figures for these updates. The last week has been a slow one, or at least felt like it. The public holiday didn't help, nor the day off to [ponder the new position](/blog/2009/05/07/pondering-a-new-position/). Progress has been made, but it just seems slow, especially when compared to what I said I'd do. I'm becoming more used to accepting some progress, be it slow or otherwise, as long as it's moving forward.
 
 ### What I've done
 
-[Last week](/blog2/2009/05/01/phd-update-9-spluttering-out-of-steam/) I suggested I'd try and
+[Last week](/blog/2009/05/01/phd-update-9-spluttering-out-of-steam/) I suggested I'd try and
 
 - Have completed and posted the section on “Place” - only partially done.  
-    I have completed and posted three parts of this: [the introduction](/blog2/2009/05/06/place-component-of-the-ps-framework/), [society](/blog2/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/), and [sector](/blog2/2009/05/08/sector-another-part-of-place/).
+    I have completed and posted three parts of this: [the introduction](/blog/2009/05/06/place-component-of-the-ps-framework/), [society](/blog/2009/05/08/society-an-aspect-of-place-impacting-on-e-learning/), and [sector](/blog/2009/05/08/sector-another-part-of-place/).
     
     The remaining sections are:
     
@@ -78,7 +78,7 @@ Well, I've reached double figures for these updates. The last week has been a sl
 - Be close to doing the same thing for “Purpose”. - some minor progress.
 - Perhaps make some headway for another component of the Ps Framework – perhaps either People or Pedagogy. - only very minor changes.
 
-The only other PhD associated blog post this week is related to the literature covered in the Place component and the question of whether or not [universities are in crisis and might die](/blog2/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/). I've connected a perspective on that to the limitations of the LMS model.
+The only other PhD associated blog post this week is related to the literature covered in the Place component and the question of whether or not [universities are in crisis and might die](/blog/2009/05/06/university-change-or-die-and-another-problem-with-the-lms-model/). I've connected a perspective on that to the limitations of the LMS model.
 
 ### What I'll do for next week
 

@@ -4,10 +4,10 @@ categories:
 date: 2013-09-06 09:28:01+10:00
 next:
   text: Is institutional e-learning a bit like teenage sex?
-  url: /blog2/2013/09/16/is-institutional-e-learning-like-teenage-sex/
+  url: /blog/2013/09/16/is-institutional-e-learning-like-teenage-sex/
 previous:
   text: The importance of &quot;We don&#039;t know what we&#039;re doing&quot;
-  url: /blog2/2013/09/04/the-importance-of-we-dont-know-what-were-doing/
+  url: /blog/2013/09/04/the-importance-of-we-dont-know-what-were-doing/
 title: Useful "analytics" - Faces as an example
 type: post
 template: blog-post.html
@@ -50,7 +50,7 @@ pingbacks:
       user_id: '0'
     
 ---
-A couple of weeks ago I expressed one of my reservations with the large buckets of money and time universities (and others) are currently investing in learning analytics in a blog post titled [Bugger analytics, just give me useful information](/blog2/2013/08/12/bugger-analytics-just-give-me-useful-information/). My reservation is that the learning designers, data scientists, commercial software vendors, management and other members of Geohegan's (1994) [technologists' alliance](/blog2/2009/08/09/the-chasm/#alliance) are so enamoured of the theoretical future possibilities of learning analytics they are ignoring (or perhaps are possibly completely ignorant) of the current information needs of learners and teachers. The following is an attempt at a small example
+A couple of weeks ago I expressed one of my reservations with the large buckets of money and time universities (and others) are currently investing in learning analytics in a blog post titled [Bugger analytics, just give me useful information](/blog/2013/08/12/bugger-analytics-just-give-me-useful-information/). My reservation is that the learning designers, data scientists, commercial software vendors, management and other members of Geohegan's (1994) [technologists' alliance](/blog/2009/08/09/the-chasm/#alliance) are so enamoured of the theoretical future possibilities of learning analytics they are ignoring (or perhaps are possibly completely ignorant) of the current information needs of learners and teachers. The following is an attempt at a small example
 
 ### Faces and photo galleries
 
@@ -85,7 +85,7 @@ So, some possible suggestions to address this problem might include
 - Don't focus so much on the multi-million dollar vendor product and the complex analysis methods that you forget about the simple information needs of the learners and teachers.
 - Modify the governance process to purposely allow some of the small scale projects to get a go.
 - Supplement your large scale, centralised enterprise learning analytics platform project with lots of [safe-fail probes](http://cognitive-edge.com/blog/entry/4090/safe-fail-probes/).
-- Set up your learning platform to break out of the constraints of scarcity. e.g. break out of the single integrated system (single point of failure) approach and [adopt a network mindset](/blog2/2013/08/29/the-network-challenge-to-the-lms-mindset/)
+- Set up your learning platform to break out of the constraints of scarcity. e.g. break out of the single integrated system (single point of failure) approach and [adopt a network mindset](/blog/2013/08/29/the-network-challenge-to-the-lms-mindset/)
 
 ### References
 

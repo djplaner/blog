@@ -4,10 +4,10 @@ categories:
 date: 2014-01-15 11:33:50+10:00
 next:
   text: Leadership as defining what's successful
-  url: /blog2/2014/01/21/leadership-as-defining-whats-successful/
+  url: /blog/2014/01/21/leadership-as-defining-whats-successful/
 previous:
   text: Getting started with NVivo
-  url: /blog2/2014/01/14/getting-started-with-nvivo/
+  url: /blog/2014/01/14/getting-started-with-nvivo/
 title: Analysing some course evaluation comments
 type: post
 template: blog-post.html
@@ -46,15 +46,15 @@ pingbacks:
       user_id: '0'
     
 ---
-The following reports on some analysis of students responses to open questions on the institutional, end of semester course evaluation survey for the course I taught in 2013. [This initial post](/blog2/2014/01/13/evaluating-edc3100-in-2013-step-1/) gives some background to the course, the evaluation process (and its limits), links to some of the raw results (including summaries of close responses) and an outline of the process I'm following.
+The following reports on some analysis of students responses to open questions on the institutional, end of semester course evaluation survey for the course I taught in 2013. [This initial post](/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/) gives some background to the course, the evaluation process (and its limits), links to some of the raw results (including summaries of close responses) and an outline of the process I'm following.
 
 This post starts with discussion of the results followed by a quick description of the process used.
 
 ## Limitations
 
-The results reported below are drawn only from the Semester 2, 2013 offering of the course. I haven't analysed in detail the responses from the Semester 1, 2013. In part, this is due to time limitations. However, as explained in [the first post](/blog2/2014/01/13/evaluating-edc3100-in-2013-step-1/), it is also due to the Semester 1, 2013 offering of the course being developed as it taught. This did not work well and looking through the student comments this underpinned much of their perspective on the course. The semester 2 offering was essentially complete from the start of semester.
+The results reported below are drawn only from the Semester 2, 2013 offering of the course. I haven't analysed in detail the responses from the Semester 1, 2013. In part, this is due to time limitations. However, as explained in [the first post](/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/), it is also due to the Semester 1, 2013 offering of the course being developed as it taught. This did not work well and looking through the student comments this underpinned much of their perspective on the course. The semester 2 offering was essentially complete from the start of semester.
 
-The semester 2 offering - as explained in [the first post](/blog2/2014/01/13/evaluating-edc3100-in-2013-step-1/) - was also (from one limited perspective) reasonably successful. Could be argued that I'm cherry picking the results I like.
+The semester 2 offering - as explained in [the first post](/blog/2014/01/13/evaluating-edc3100-in-2013-step-1/) - was also (from one limited perspective) reasonably successful. Could be argued that I'm cherry picking the results I like.
 
 One significant limitation of using only the Semester 2 responses is that Semester 2 is an online only offering. There are no on-campus students. A particular issue with this is that the increase in apparent workload for on-campus students from the apparent duplication between attending on-campus lectures and tutes and having to complete online activities is not an issue for online students.
 
@@ -116,7 +116,7 @@ The remaining categories included very few comments.
 
 ## Method
 
-The analysis was used as an [initial exploration of using NVivo](/blog2/2014/01/14/getting-started-with-nvivo/). The method used was:
+The analysis was used as an [initial exploration of using NVivo](/blog/2014/01/14/getting-started-with-nvivo/). The method used was:
 
 1. Import data from the institutional course evaluation website into NVivo.
     

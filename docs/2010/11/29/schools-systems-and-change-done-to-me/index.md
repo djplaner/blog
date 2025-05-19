@@ -4,10 +4,10 @@ categories:
 date: 2010-11-29 11:02:25+10:00
 next:
   text: More testing for Moodle and BIM versions 2.0
-  url: /blog2/2010/12/02/more-testing-for-moodle-and-bim-versions-2-0/
+  url: /blog/2010/12/02/more-testing-for-moodle-and-bim-versions-2-0/
 previous:
   text: Charity begins at home, doesn&#039;t it?
-  url: /blog2/2010/11/28/charity-begins-at-home-doesnt-it/
+  url: /blog/2010/11/28/charity-begins-at-home-doesnt-it/
 title: Schools, systems and change done to me
 type: post
 template: blog-post.html
@@ -66,7 +66,7 @@ Which brings up the problems with outcomes-based measures, Snowden
 
 > Outcome-based measures. These days in the UK and the US. Teachers, and Australia as well, who actually inspire students get no reward. Teaches who fill out learning plans get rewarded.
 
-The success of such [teleological processes](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/) require conditions that simply do not exist within most human systems.
+The success of such [teleological processes](/blog/2009/06/05/teleological-design-definition-and-weaknesses/) require conditions that simply do not exist within most human systems.
 
 ### Change from within?
 

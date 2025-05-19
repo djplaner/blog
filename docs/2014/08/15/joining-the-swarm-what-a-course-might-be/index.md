@@ -4,10 +4,10 @@ categories:
 date: 2014-08-15 11:24:36+10:00
 next:
   text: Catching up on the NGL participation - part B
-  url: /blog2/2014/08/15/catching-up-on-the-ngl-participation-part-b/
+  url: /blog/2014/08/15/catching-up-on-the-ngl-participation-part-b/
 previous:
   text: Strategic plans, theoretical models and just doing it
-  url: /blog2/2014/08/15/strategic-plans-theoretical-models-and-just-doing-it/
+  url: /blog/2014/08/15/strategic-plans-theoretical-models-and-just-doing-it/
 title: '"Joining the "swarm": what a course might be?"'
 type: post
 template: blog-post.html
@@ -103,7 +103,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Early this week I received an email from a student who took the course [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/specification/2014/EDC3100-S2-2014-WEB-TWMBA.html) in 2013. In essence he had remembered a useful bit of information in the course study material and wanted to use it. On the plus side, he still had access to course material but because of [the big flaw](/blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/) (the absence of a search engine) in our institution's Moodle implementation he has to manually search through the information to find what he was looking for and didn't have the motivation/time to do so.
+Early this week I received an email from a student who took the course [EDC3100, ICT and Pedagogy](http://www.usq.edu.au/course/specification/2014/EDC3100-S2-2014-WEB-TWMBA.html) in 2013. In essence he had remembered a useful bit of information in the course study material and wanted to use it. On the plus side, he still had access to course material but because of [the big flaw](/blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/) (the absence of a search engine) in our institution's Moodle implementation he has to manually search through the information to find what he was looking for and didn't have the motivation/time to do so.
 
 [![Morning Dew Residue by GollyGforce - Living My Worst Nightmare, on Flickr](images/5696070516_0075767e5d_m.jpg "Morning Dew Residue by GollyGforce - Living My Worst Nightmare, on Flickr")](https://www.flickr.com/photos/see-through-the-eye-of-g/5696070516/)  
 [![Creative Commons Creative Commons Attribution 2.0 Generic License](images/80x15.png "Creative Commons Creative Commons Attribution 2.0 Generic License")](http://creativecommons.org/licenses/by/2.0/)   by  [](https://www.flickr.com/people/see-through-the-eye-of-g/)[GollyGforce - Living My Worst Nightmare](https://www.flickr.com/people/see-through-the-eye-of-g/) [](http://www.imagecodr.org/)

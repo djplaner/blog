@@ -6,10 +6,10 @@ categories:
 date: 2013-03-13 11:35:03+10:00
 next:
   text: '"Visualising the blog network of #edc3100 students"'
-  url: /blog2/2013/03/18/visualising-the-blog-network-of-edc3100-students/
+  url: /blog/2013/03/18/visualising-the-blog-network-of-edc3100-students/
 previous:
   text: The absence of a search function - my current big problem with a Moodle installation
-  url: /blog2/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/
+  url: /blog/2013/03/07/the-absence-of-a-search-function-my-current-big-problem-with-a-moodle-installation/
 title: Many of our students are neither digital natives nor digitally literate
 type: post
 template: blog-post.html
@@ -626,7 +626,7 @@ The big reservation I have is that one of the conclusions drawn from this work w
 
 The course I'm [currently teaching](http://www.usq.edu.au/course/synopses/2013/EDC3100.html) has 300+ students, mostly 3rd year Bachelor of Education students, spread throughout Australia and the world. 200+ of these students are online students. i.e. they generally don't set foot on a campus. The course itself is titled "ICTs and Pedagogy" and as you might expect we're pushing some boundaries with the use of ICTs. Attempting to model what we espouse. Some examples of that include, amongst others
 
-- Students are required to set up their own blog and use it as a [reflective journal](/blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/).
+- Students are required to set up their own blog and use it as a [reflective journal](/blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/).
 - They are required/asked to sign up for [Diigo](http://diigo.com/) and join a [course Diigo group](https://groups.diigo.com/group/icts-and-pedagogy)
 - We're using Diigo's annotation facility to mark up online readings and the assignment pages.
 - They are encouraged (but not required) to join Twitter.

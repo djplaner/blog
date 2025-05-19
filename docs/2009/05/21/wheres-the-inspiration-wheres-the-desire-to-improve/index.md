@@ -6,10 +6,10 @@ categories:
 date: 2009-05-21 10:27:45+10:00
 next:
   text: '"Learning spaces: expenditure and time spent learning"'
-  url: /blog2/2009/05/21/learning-spaces-expenditure-and-time-spent-learning/
+  url: /blog/2009/05/21/learning-spaces-expenditure-and-time-spent-learning/
 previous:
   text: Purpose - a component of the Ps Framework
-  url: /blog2/2009/05/20/purpose-a-component-of-the-ps-framework/
+  url: /blog/2009/05/20/purpose-a-component-of-the-ps-framework/
 title: Where's the inspiration? Where's the desire to improve?
 type: post
 template: blog-post.html
@@ -154,7 +154,7 @@ The title and spark for this post comes [from this post](http://www.convergemag.
 
 > People follow inspiration and that's where students will go — where they are inspired to learn, collaborate, build and innovate.
 
-I'm guessing, though am currently not 100% certain, that my current institution will want me to contribute to creating this sort of inspiration in my [new role](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/. I'm excited by that, but I'm also concerned that it will be really difficult. When I'm looking at the difficulties I will face, the biggest is perhaps embodied in the second question from this quote from [the post](http://www.convergemag.com/blog/bridge/Biggest-Loser-Inspiration.html) (caps in original, I've added the emphasis)
+I'm guessing, though am currently not 100% certain, that my current institution will want me to contribute to creating this sort of inspiration in my [new role](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/. I'm excited by that, but I'm also concerned that it will be really difficult. When I'm looking at the difficulties I will face, the biggest is perhaps embodied in the second question from this quote from [the post](http://www.convergemag.com/blog/bridge/Biggest-Loser-Inspiration.html) (caps in original, I've added the emphasis)
 
 > I want to scream, "WHERE'S THE INSPIRATION? **WHERE’S THE DESIRE TO IMPROVE?**"
 

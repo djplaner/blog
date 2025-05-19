@@ -4,10 +4,10 @@ categories:
 date: 2015-03-25 13:54:47+10:00
 next:
   text: Concrete lounges and why basketball players aren't better hockey players
-  url: /blog2/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/
+  url: /blog/2015/03/30/allocating-assignments-to-markers-moodle-assignment-submission/
 previous:
   text: My example assignment 1 web-based artefact
-  url: /blog2/2015/03/25/my-example-assignment-1-web-based-artefact/
+  url: /blog/2015/03/25/my-example-assignment-1-web-based-artefact/
 title: Framing some project ideas around support and services for learning and teaching
 type: post
 template: blog-post.html
@@ -48,7 +48,7 @@ What follows is a description of the first four of these.
 
 There continues to be concern at this (and most other) institution about the quality of the online learning (e-learning, insert your own favourite phrase) in many courses. The "distributive teacher learning" project sees this problem as a problem of teacher learning and cognition. Teaching staff are facing difficulties in developing and accessing the knowledge and capabilities required to produce better online learning. To address this problem, it needs to start from a conception of learning and cognition.
 
-The conception on which this project is based could be called either situative learning (Putnam & Borko, 2000) or (a recent slight extension) distributive learning ([Jones, Heffernan, Albion, 2015](/blog2/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/)). A view that sees learning and cognition as: situated, social, distributed, and protean. These four perspectives inform how a "Distributive teacher learning" system would operate.
+The conception on which this project is based could be called either situative learning (Putnam & Borko, 2000) or (a recent slight extension) distributive learning ([Jones, Heffernan, Albion, 2015](/blog/2015/01/06/tpack-as-shared-practice-toward-a-research-agenda/)). A view that sees learning and cognition as: situated, social, distributed, and protean. These four perspectives inform how a "Distributive teacher learning" system would operate.
 
 **Situated**
 
@@ -70,7 +70,7 @@ Beyond this, the system would aim to help make connections between people and pr
 
 **Protean**
 
-Digital technologies have always been amongst the most protean - flexible and adaptable - of mediums. Back in 1984, Alan Kay writes that the computer offers "degrees of freedom and expression never before encountered" (Kay, 1984, p. 59). Since then enterprise computing has shown all the flexibility, adaptability, and fitness for purpose as a [concrete lounge](/blog2/2014/12/18/concrete-lounge/). Support and services for teacher learning that are protean move away from the established practice of a focus on the design of a "perfect" system, and move toward a system that allows users to create and share work-arounds (Koopman & Hoffman, 2003). A flexible and adaptable system that grows and changes in encourage the development of knowledge and in response to that changing knowledge.
+Digital technologies have always been amongst the most protean - flexible and adaptable - of mediums. Back in 1984, Alan Kay writes that the computer offers "degrees of freedom and expression never before encountered" (Kay, 1984, p. 59). Since then enterprise computing has shown all the flexibility, adaptability, and fitness for purpose as a [concrete lounge](/blog/2014/12/18/concrete-lounge/). Support and services for teacher learning that are protean move away from the established practice of a focus on the design of a "perfect" system, and move toward a system that allows users to create and share work-arounds (Koopman & Hoffman, 2003). A flexible and adaptable system that grows and changes in encourage the development of knowledge and in response to that changing knowledge.
 
 ### University of the API
 

@@ -4,10 +4,10 @@ categories:
 date: 2010-01-17 10:25:40+10:00
 next:
   text: BIM - manage marking - view and release
-  url: /blog2/2010/01/17/bim-manage-marking-view-and-release/
+  url: /blog/2010/01/17/bim-manage-marking-view-and-release/
 previous:
   text: BIM - question management/configuration
-  url: /blog2/2010/01/13/bim-question-managementconfiguration/
+  url: /blog/2010/01/13/bim-question-managementconfiguration/
 title: BIM - Manage Marking
 type: post
 template: blog-post.html
@@ -39,7 +39,7 @@ We come to the main last collection of functionality required of BIM to be opera
 - The ability to manage the release of marks and comments.  
     By default, a marker can only mark a student post. In this state, the student cannot see the mark or comments. The coordinator is meant to moderate the mark/comments and then, when ready, release them.
 
-Additional discussion of this collection of functionality was [in an earlier post](/blog2/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/)
+Additional discussion of this collection of functionality was [in an earlier post](/blog/2010/01/09/bim-design-of-manage-marking-and-other-features-for-coordinators/)
 
 This post is an attempt to boil that basic overview into some more detailed plans for the implementation of this functionality and possibly discussion of how it has been implemented.
 

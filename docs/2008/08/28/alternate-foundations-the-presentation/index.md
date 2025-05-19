@@ -5,10 +5,10 @@ categories:
 date: 2008-08-28 14:28:15+10:00
 next:
   text: Getting started on Blackboard indicators
-  url: /blog2/2008/08/28/getting-started-on-blackboard-indicators/
+  url: /blog/2008/08/28/getting-started-on-blackboard-indicators/
 previous:
   text: Some alternate foundations for leadership in L&#038;T at CQUniversity
-  url: /blog2/2008/08/20/some-alternate-foundations-for-leadership-in-lt-at-cquniversity/
+  url: /blog/2008/08/20/some-alternate-foundations-for-leadership-in-lt-at-cquniversity/
 title: Alternate foundations - the presentation
 type: post
 template: blog-post.html

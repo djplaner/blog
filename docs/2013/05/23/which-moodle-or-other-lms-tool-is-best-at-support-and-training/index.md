@@ -6,10 +6,10 @@ categories:
 date: 2013-05-23 14:08:14+10:00
 next:
   text: Preparing BIM for Moodle 2.4 (and beyond?)
-  url: /blog2/2013/05/26/preparing-bim-for-moodle-2-4-and-beyond/
+  url: /blog/2013/05/26/preparing-bim-for-moodle-2-4-and-beyond/
 previous:
   text: I&#039;m helping to organise a conference - sort of
-  url: /blog2/2013/05/22/im-helping-to-organise-a-conference-sort-of/
+  url: /blog/2013/05/22/im-helping-to-organise-a-conference-sort-of/
 title: Which Moodle (or other LMS) tool is best at support and training?
 type: post
 template: blog-post.html
@@ -63,10 +63,10 @@ Also, feel free to throw in suggestions of any software in general (most modern,
 
 ### Context
 
-I'm finally getting started on my [Moodlemoot'AU 2013 presentation](/blog2/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) and am thinking about how [BIM](/blog2/research/bam-blog-aggregation-management/) can be improved.
+I'm finally getting started on my [Moodlemoot'AU 2013 presentation](/blog/2013/05/12/moodle-bim-reflective-journals-and-tpack-suggestions-for-moving-beyond/) and am thinking about how [BIM](/blog/research/bam-blog-aggregation-management/) can be improved.
 
-Improving the support BIM provides out of the box has long been an aim. Mostly because I think most of the tools I use don't do a particularly good job and most of the additional supports (e.g. separate training sessions or separate websites) provided by institutions are also [not as good as they could be](/blog2/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/).
+Improving the support BIM provides out of the box has long been an aim. Mostly because I think most of the tools I use don't do a particularly good job and most of the additional supports (e.g. separate training sessions or separate websites) provided by institutions are also [not as good as they could be](/blog/2013/04/28/how-knowledge-workers-like-to-learn-and-implications-for-bim-and-lms-design/).
 
-This idea has been percolating for more than a few years originally proposed back in 2010 as ["Making the LMS more like the Globe Theatre"](/blog2/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/).
+This idea has been percolating for more than a few years originally proposed back in 2010 as ["Making the LMS more like the Globe Theatre"](/blog/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/).
 
 So, I'm after ideas of where it's been done well.

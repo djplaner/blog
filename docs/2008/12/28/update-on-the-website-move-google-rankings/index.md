@@ -4,10 +4,10 @@ categories:
 date: 2008-12-28 08:45:05+10:00
 next:
   text: Rotating banner images in Wordpress - the last missing puzzle piece
-  url: /blog2/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/
+  url: /blog/2008/12/28/rotating-banner-images-in-wordpress-the-last-missing-puzzle-piece/
 previous:
   text: What tree is this?
-  url: /blog2/2008/12/23/what-tree-is-this/
+  url: /blog/2008/12/23/what-tree-is-this/
 title: Update on the website move - google rankings
 type: post
 template: blog-post.html
@@ -59,7 +59,7 @@ pingbacks:
       user_id: '0'
     
 ---
-In mid to late October 2008 I moved my long-term personal website to this blog, the early story is [told here](/blog2/2008/10/16/the-great-website-move-of-2008/). One of my concerns voiced in that [original post](/blog2/2008/10/16/the-great-website-move-of-2008/) was to maintain by Google ranking. Here's an update.
+In mid to late October 2008 I moved my long-term personal website to this blog, the early story is [told here](/blog/2008/10/16/the-great-website-move-of-2008/). One of my concerns voiced in that [original post](/blog/2008/10/16/the-great-website-move-of-2008/) was to maintain by Google ranking. Here's an update.
 
 The first "problem" is the way that Google provides search results. Depending which country you are in the ranking will be different. When I originally reported that my personal website was #7 in a google for "david jones" this was based on a search from within Australia. I didn't test what other countries saw, though I believe it was fairly high.
 

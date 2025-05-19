@@ -5,10 +5,10 @@ categories:
 date: 2009-05-23 07:20:03+10:00
 next:
   text: The problem with consultants/MBAs - Dilbert's view
-  url: /blog2/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/
+  url: /blog/2009/05/23/the-problem-with-consultantsmbas-dilberts-view/
 previous:
   text: The perils of re-organisation - Gaius Petronius
-  url: /blog2/2009/05/21/the-perils-of-re-organisation-gaius-petronius/
+  url: /blog/2009/05/21/the-perils-of-re-organisation-gaius-petronius/
 title: '"Phd Update #12 - some progress, but late"'
 type: post
 template: blog-post.html
@@ -37,12 +37,12 @@ I may not get a chance to apply this lessons a great deal in the coming week. Mo
 
 ### What I did
 
-[Last week](/blog2/2009/05/15/phd-update-11-very-short-week/) I said the aim would be to
+[Last week](/blog/2009/05/15/phd-update-11-very-short-week/) I said the aim would be to
 
 - Have completed and posted the section on “Place”. - **DONE**  
-    The [last section](/blog2/2009/05/17/lessons-from-place/) was put up fairly early in the week. I'm not all that happy with this section. But it might be close to "good enough".
+    The [last section](/blog/2009/05/17/lessons-from-place/) was put up fairly early in the week. I'm not all that happy with this section. But it might be close to "good enough".
 - Be close to doing the same thing for “Purpose”. - **DONE**  
-    This was the major task this week that resulted in [this post](/blog2/2009/05/20/purpose-a-component-of-the-ps-framework/). It's much shorter than the other sections. To some extent this is due to the nature of the component, but mostly my aim not to write another paper for each section.
+    This was the major task this week that resulted in [this post](/blog/2009/05/20/purpose-a-component-of-the-ps-framework/). It's much shorter than the other sections. To some extent this is due to the nature of the component, but mostly my aim not to write another paper for each section.
 - Perhaps make some headway for another component of the Ps Framework – perhaps either People or Pedagogy. - started  
     I ended up starting work on the Process component of the Ps Framework. It flowed nicely from Purpose (connection with plan/purpose driven design processes). I've written papers on the question of process, so I have 80+ pages of thoughts and quotes that I'm re-organising into a section. A start has been made.
 

@@ -4,10 +4,10 @@ categories:
 date: 2010-03-12 17:08:15+10:00
 next:
   text: The conditions for Anna's phone
-  url: /blog2/2010/03/13/the-conditions-for-annas-phone/
+  url: /blog/2010/03/13/the-conditions-for-annas-phone/
 previous:
   text: Different perspectives on the purpose of the LMS
-  url: /blog2/2010/03/12/different-perspectives-on-the-purpose-of-the-lms/
+  url: /blog/2010/03/12/different-perspectives-on-the-purpose-of-the-lms/
 title: The value of lurking - another research idea for the indicators project
 type: post
 template: blog-post.html

@@ -6,10 +6,10 @@ categories:
 date: 2010-04-29 14:43:05+10:00
 next:
   text: Adding "deleted" to BIM
-  url: /blog2/2010/04/30/adding-deleted-to-bim/
+  url: /blog/2010/04/30/adding-deleted-to-bim/
 previous:
   text: The realities of the ERA and L&#038;T support services
-  url: /blog2/2010/04/28/the-realities-of-the-era-and-lt-support-services/
+  url: /blog/2010/04/28/the-realities-of-the-era-and-lt-support-services/
 title: The alignment project as leadership
 type: post
 template: blog-post.html
@@ -34,7 +34,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following signals a slight change in direction around the [curriculum mapping project](/blog2/research/curriculum-mapping/). First, the project is now going under the label "alignment project" (curriculum mapping is just one aspect of the project). Second, the project is likely to be re-framed as an application for an [ALTC leadership grant](http://www.altc.edu.au/grants-funding-available#leadership-program). This post is an attempt to begin this re-framing. It's really just thinking out loud.
+The following signals a slight change in direction around the [curriculum mapping project](/blog/research/curriculum-mapping/). First, the project is now going under the label "alignment project" (curriculum mapping is just one aspect of the project). Second, the project is likely to be re-framed as an application for an [ALTC leadership grant](http://www.altc.edu.au/grants-funding-available#leadership-program). This post is an attempt to begin this re-framing. It's really just thinking out loud.
 
 As a result, I am very interested in suggestions and criticisms. In terms of suggestions, I'm particularly keen for insights onto better/alternative theoretical frames. It has become a bit confused as I've tried out different lines of approach.
 

@@ -7,11 +7,11 @@ categories:
 date: 2010-07-16 13:40:09+10:00
 next:
   text: '"The ethics of learning analytics: initial steps"'
-  url: /blog2/2010/07/19/the-ethics-of-learning-analytics-initial-steps/
+  url: /blog/2010/07/19/the-ethics-of-learning-analytics-initial-steps/
 previous:
   text: 'Integrating alignment into Moodle and academic practice: A proposal and a
     RFI'
-  url: /blog2/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
+  url: /blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/
 title: Trip report - Moodlemoot'AU 2010
 type: post
 template: blog-post.html
@@ -57,9 +57,9 @@ The following is a report of my attendance at [Moodlemoot'AU 2010](http://moodle
 
 I was mainly responsible for two presentations at the conference. THe following presentation links include a range of resources, including slides. However, the planned audio/video wasn't generated. The two talks were:
 
-1. A [short show and tell](/blog2/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/) of the idea for adding and harnessing curriculum mapping and alignment within Moodle.  
+1. A [short show and tell](/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/) of the idea for adding and harnessing curriculum mapping and alignment within Moodle.  
     The 3 minute limit on this presentation was interesting, but was kept to (sort of). Some interest expressed by folk and a couple of links to follow up.
-2. A [presentation](http://moodlemoot.org.au/course/view.php?id=23) showing off [BIM](/blog2/research/bam-blog-aggregation-management/) and talking very briefly about limitations in developing innovative pedagogy.  
+2. A [presentation](http://moodlemoot.org.au/course/view.php?id=23) showing off [BIM](/blog/research/bam-blog-aggregation-management/) and talking very briefly about limitations in developing innovative pedagogy.  
     I decided to focus mostly on showing off BIM and how it worked. That was, I think, a good move. Though as it turns out a bit more though on the limitations side might have gone down well. Some good feedback on this presentation via twitter, more on that below.
 
 I was also somewhat associated with two presentations from the [Indicators project](http://indicatorsproject.wordpress.com/). Almost all the work for these presentations was done by [Colin Beer](http://beerc.wordpress.com/2010/07/13/slides-used-in-todays-moodlemoot-presentation/) and [Ken Clark](http://researchjottings.wordpress.com/2010/07/15/moodlemoot-2010-slides/), and a great job they did. Seems there is growing interest in the indicators project, the next year or so looks like being very interesting.
@@ -100,7 +100,7 @@ Of course, most of the folk shown in that image are people who follow me on twit
 
 #### Use of innovations by other institutions
 
-One of the nicer aspects of moving to Moodle (from an institution specific system) has been the adoption of the tools I've developed (e.g. [BIM](/blog2/research/bam-blog-aggregation-management/)) by other people at other institutions. Alan Arnold used BIM as an example in [his presentation](http://moodlemoot.org.au/course/view.php?id=71) with James Strong about how University of Canberra worked with [Netspot](http://www.netspot.com.au) to maintain the balance between "staying vanilla" and innovation with UC's Moodle.
+One of the nicer aspects of moving to Moodle (from an institution specific system) has been the adoption of the tools I've developed (e.g. [BIM](/blog/research/bam-blog-aggregation-management/)) by other people at other institutions. Alan Arnold used BIM as an example in [his presentation](http://moodlemoot.org.au/course/view.php?id=71) with James Strong about how University of Canberra worked with [Netspot](http://www.netspot.com.au) to maintain the balance between "staying vanilla" and innovation with UC's Moodle.
 
 Though I wasn't too sure about the naming scheme Alan adopted - "CQU BIM". According to the re-branding, it probably should've been (at the least) "CQUni BIM".
 
@@ -126,15 +126,15 @@ There are lessons here for other institutions. At least currently, it appears th
 
 I found the progress bar block particularly interesting. Michael described how students could become almost compulsive about ensuring that the bar was "all green". The on-going presence of "red" in the bar was visible every time they used Moodle and acted as an encouragement to complete all the tasks, to be more active.
 
-It is this sort of modifications to the Moodle and broader learning and teaching environments within universities that I am most interested in. The progress block appears to be particular effective examples of a ["nudge theory" approach](/blog2/2010/05/31/the-need-for-a-third-way/) to improving learning and teaching.
+It is this sort of modifications to the Moodle and broader learning and teaching environments within universities that I am most interested in. The progress block appears to be particular effective examples of a ["nudge theory" approach](/blog/2010/05/31/the-need-for-a-third-way/) to improving learning and teaching.
 
-To some extent, this type of approach is related to [a presentation](http://moodlemoot.org.au/course/view.php?id=27) from some folk at ANU titled "Translating Learning Outcomes in Moodle" designed to aid teaching staff make the connection between constructive alignment and the activities available in Moodle. The approach described in this presentation offers some interesting ideas about how the Moodle environment can be extended to improve the capacity of staff to design more aligned activities. In particular, the approach has some potential to compliment the ideas behind the [alignment project](/blog2/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/).
+To some extent, this type of approach is related to [a presentation](http://moodlemoot.org.au/course/view.php?id=27) from some folk at ANU titled "Translating Learning Outcomes in Moodle" designed to aid teaching staff make the connection between constructive alignment and the activities available in Moodle. The approach described in this presentation offers some interesting ideas about how the Moodle environment can be extended to improve the capacity of staff to design more aligned activities. In particular, the approach has some potential to compliment the ideas behind the [alignment project](/blog/2010/07/09/integrating-alignment-into-moodle-and-academic-practice-a-proposal-and-a-rfi/).
 
 #### Bridging the gap between Moodle, institutional practice and academic requirements
 
 A number of the presentations at the conference were examining the question of how to automate and/or ease the workload associated with [creating Moodle course sites](http://moodlemoot.org.au/course/view.php?id=21) or integrate it with other related organisational processes (e.g. [linking it with course outlines/profiles](http://moodlemoot.org.au/course/view.php?id=24)). Though none really seem to have moved beyond fairly limited "administrative automation". The ANU outcomes approach in the last section looked at this task from another perspective.
 
-No-one seems to be yet moving beyond these fairly limited forms of course site creation. To improving the [level of abstraction](/blog2/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/).
+No-one seems to be yet moving beyond these fairly limited forms of course site creation. To improving the [level of abstraction](/blog/2010/07/04/the-vle-model-and-the-wrong-level-of-abstraction/).
 
 #### Online assignment submission and management
 
@@ -155,9 +155,9 @@ Throughout a conference there are generally long lists of interesting stuff to f
 
 - Follow up with Michael de Raadt around getting more insight into how to make BIM "more moodle like".
 - Prepare a video version of the BIM presentation that can be uploaded for folk to view.  
-    **Done:** video is [available here](/blog2/2010/07/20/an-overview-of-bim/)
+    **Done:** video is [available here](/blog/2010/07/20/an-overview-of-bim/)
 - Give more thought to when/how I'll start moving BIM to Moodle 2.0.
-- Talk with Col, Ken and Damien about how and when we continue the development of the [Indicators project's](http://indicatorsproject.wordpress.com/) Moodle [block](/blog2/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/).
+- Talk with Col, Ken and Damien about how and when we continue the development of the [Indicators project's](http://indicatorsproject.wordpress.com/) Moodle [block](/blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/).
 - Turn the idea behind the BIM presentation into a conference paper and subsequently a journal paper critiquing conceptions and attempts to implemented blended learning.
 
 Whether or not I work on the following list of tasks depends more on the outcome of imminent job applications and interviews (not to mention work on the thesis):
@@ -166,7 +166,7 @@ Whether or not I work on the following list of tasks depends more on the outcome
 - Follow up with Jonathan Moore from [Remote-Learner](http://remote-learner.net) about connections between the alignment project and the work they are doing around K-12 standards in Moodle.
 - Try and figure out how the alignment project can be progressed beyond a thought experiment into something concrete.
 - Think about how the increasing number of Australian universities adopting Moodle can most appropriately harness this new community and the open source nature of Moodle.
-- Think how the insights from [OASIS](/blog2/publications/online-assignment-submission-an-evolutionary-tale/) can be combined with other work around online assignment submission and management to develop innovations and improvements, especially given issues at my current institution.
+- Think how the insights from [OASIS](/blog/publications/online-assignment-submission-an-evolutionary-tale/) can be combined with other work around online assignment submission and management to develop innovations and improvements, especially given issues at my current institution.
 - See how and if both the alignment and indicators projects can be turned into successful cross-institutional projects and also successful ALTC grant applications.
 - Would love to see how different Australian universities might review each others Moodle migrations in an attempt to make reporting on these projects more independent and hopefully useful for future action.
 

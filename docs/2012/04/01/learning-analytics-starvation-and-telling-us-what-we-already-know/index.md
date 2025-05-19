@@ -4,10 +4,10 @@ categories:
 date: 2012-04-01 14:49:05+10:00
 next:
   text: bim2 - Marker interface
-  url: /blog2/2012/04/03/bim2-marker-interface/
+  url: /blog/2012/04/03/bim2-marker-interface/
 previous:
   text: bim2 - student and marker fixes
-  url: /blog2/2012/03/31/bim2-student-and-marker-fixes/
+  url: /blog/2012/03/31/bim2-student-and-marker-fixes/
 title: '"Learning analytics: Starvation and telling us what we already know?"'
 type: post
 template: blog-post.html
@@ -145,7 +145,7 @@ This article gives me pause to reflect on two observations - starvation and tell
 
 Online students are for all intents and purposes distance education students. Long before online learning many universities across the world had long experience (and lots of research) with distance education. One of the reasons I started in e-learning was that I taught at one of these institutions and print-based distance education just didn't cut it.
 
-Here's an excerpt from a paper I wrote in 1996 titled [Computing by distance education: Problems and solutions"](/blog2/publications/computing-by-distance-education-problems-and-solutions/)
+Here's an excerpt from a paper I wrote in 1996 titled [Computing by distance education: Problems and solutions"](/blog/publications/computing-by-distance-education-problems-and-solutions/)
 
 > Most distance students are either returning to study after a prolonged absence or studying seriously for the first time. The initial period of readjustment to the requirements of study can cause problems for some students.
 > 

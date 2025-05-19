@@ -7,10 +7,10 @@ date: 2015-10-09 12:51:08+10:00
 next:
   text: '"Re-purposing V&#038;R mapping to explore modification of digital learning
     spaces"'
-  url: /blog2/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
+  url: /blog/2015/10/28/re-purposing-vr-mapping-to-explore-modification-of-digital-learning-spaces/
 previous:
   text: What is &quot;netgl&quot; and how might it apply to my problem
-  url: /blog2/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
+  url: /blog/2015/10/08/what-is-netgl-and-how-might-it-apply-to-my-problem/
 title: Are our institutions digital visitors?  What are the impacts on learning and
   teaching?
 type: post
@@ -85,7 +85,7 @@ White & Cornu (2011) describe residents as those that
 
 ## How Universities think about digital learning spaces
 
-@damoclarky and I argued that institutional digital learning is informed by [the SET mindset](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset). A mindset that approaches any large, complex problem (like digital learning) with a **T**ree-like approach. That is, it employs logical decomposition to break the large problem up into its smaller and smaller problems until there is a collection of solvable problems that can allocated to individual units. The units now solve the problems (largely) independently, and each of the small solutions are joined back up together and consequently (hopefully) solve the original big problem.
+@damoclarky and I argued that institutional digital learning is informed by [the SET mindset](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset). A mindset that approaches any large, complex problem (like digital learning) with a **T**ree-like approach. That is, it employs logical decomposition to break the large problem up into its smaller and smaller problems until there is a collection of solvable problems that can allocated to individual units. The units now solve the problems (largely) independently, and each of the small solutions are joined back up together and consequently (hopefully) solve the original big problem.
 
 You can see evidence of this tree-like perspective all over our institutions and the digital learning spaces they produce.
 
@@ -129,7 +129,7 @@ Which creates the second problem for which one of my institution's documents aro
 
 https://twitter.com/djplaner/status/570054314992930817
 
-Can you have a digital learning experience that is consistent, brand enhancing, and optimal for each student? I [tend to think not](/blog2/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/). Especially in light of arguments that the diversification and massification of the student body has led universities to shift their education rhetoric from a notion of "one size fits all" to a concept of tailored, flexible learning (Lewis, Marginson et al. 2005).
+Can you have a digital learning experience that is consistent, brand enhancing, and optimal for each student? I [tend to think not](/blog/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/). Especially in light of arguments that the diversification and massification of the student body has led universities to shift their education rhetoric from a notion of "one size fits all" to a concept of tailored, flexible learning (Lewis, Marginson et al. 2005).
 
 My current experience is that instead of getting digital learning spaces that support tailored and flexible learning, institutions are more likely to create learning spaces that ["have less variety in approach than a low-end fast-food restaurant"](http://dl.dropbox.com/u/14025788/dede.mp3) (Dede, 2008, p. 58).
 

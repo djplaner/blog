@@ -4,10 +4,10 @@ categories:
 date: 2011-01-26 10:19:42+10:00
 next:
   text: The demise of ALTC and why I'm not sad
-  url: /blog2/2011/01/28/the-demise-of-altc/
+  url: /blog/2011/01/28/the-demise-of-altc/
 previous:
   text: The power of organisational structure
-  url: /blog2/2011/01/25/the-power-of-organisational-structure/
+  url: /blog/2011/01/25/the-power-of-organisational-structure/
 tags:
 - cck11
 - lak11
@@ -47,7 +47,7 @@ Another interesting quote from [Merlin Donald's home page](http://psyc.queensu.c
 
 > His central thesis is that human beings have evolved a completely novel cognitive strategy: brain-culture symbiosis. As a consequence, the human brain cannot realize its design potential unless it is immersed in a distributed communication network, that is, a culture, during its development. The human brain is, quite literally, specifically adapted for functioning in a complex symbolic culture.
 
-Sounds like there are some interesting potential connections with connectivism and [distributed cognition](/blog2/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/). A connection which - after a very quick skim - [this paper](http://psycserver.psyc.queensu.ca/donaldm/reprints/slow%20process2.pdf) (Donald, 2007) seems to make.
+Sounds like there are some interesting potential connections with connectivism and [distributed cognition](/blog/2010/10/06/making-the-lms-more-like-the-globe-theatre-distributed-cognition-the-extended-mind-and-moodle/). A connection which - after a very quick skim - [this paper](http://psycserver.psyc.queensu.ca/donaldm/reprints/slow%20process2.pdf) (Donald, 2007) seems to make.
 
 The first Donald quote mentioned above comes from the book [The way we think: Conceptual blending and the mind's hidden complexities](http://books.google.com/books?id=FdOLriVyzwkC&printsec=frontcover&dq=the+way+we+think&hl=en&ei=aGY_TY3NIo_BceTPjY0C&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCQQ6AEwAA#v=onepage&q&f=false) (Fauconnier & Turner, 2003). A book that argues that conceptual blending is at the core of human thinking, or at least what makes us distinctive.
 

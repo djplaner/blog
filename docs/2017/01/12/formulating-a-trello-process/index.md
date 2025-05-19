@@ -4,10 +4,10 @@ categories:
 date: 2017-01-12 15:47:11+10:00
 next:
   text: Exploring course site resource usage using MAV
-  url: /blog2/2017/01/25/exploring-course-resource-usage-using-mav/
+  url: /blog/2017/01/25/exploring-course-resource-usage-using-mav/
 previous:
   text: Early thoughts on the new year and the new job
-  url: /blog2/2017/01/03/early-thoughts-on-the-new-year-and-the-new-job/
+  url: /blog/2017/01/03/early-thoughts-on-the-new-year-and-the-new-job/
 title: Formulating a Trello process
 type: post
 template: blog-post.html

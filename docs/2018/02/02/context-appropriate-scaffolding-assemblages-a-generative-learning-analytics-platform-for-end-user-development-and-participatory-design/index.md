@@ -5,11 +5,11 @@ categories:
 date: 2018-02-02 17:13:58+10:00
 next:
   text: Some notes on behaviour change and improving L&T
-  url: /blog2/2018/04/05/some-notes-on-behaviour-change-and-improving-lt/
+  url: /blog/2018/04/05/some-notes-on-behaviour-change-and-improving-lt/
 previous:
   text: Are learning analytics leading us towards a utopian or dystopian future, and
     what can we as practitioners do to influence this?
-  url: /blog2/2017/12/02/are-learning-analytics-leading-us-towards-a-utopian-or-dystopian-future-and-what-can-we-as-practitioners-do-to-influence-this/
+  url: /blog/2017/12/02/are-learning-analytics-leading-us-towards-a-utopian-or-dystopian-future-and-what-can-we-as-practitioners-do-to-influence-this/
 title: '"Context-Appropriate Scaffolding Assemblages: A generative learning analytics
   platform for end-user development and participatory design"'
 type: post

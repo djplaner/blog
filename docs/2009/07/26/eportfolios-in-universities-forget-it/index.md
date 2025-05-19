@@ -6,10 +6,10 @@ categories:
 date: 2009-07-26 09:26:53+10:00
 next:
   text: Build it and they will come - starting with the institution
-  url: /blog2/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/
+  url: /blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/
 previous:
   text: Wicked problems, requirements gathering and the LMS approach to e-learning
-  url: /blog2/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/
+  url: /blog/2009/07/24/wicked-problems-requirements-gathering-and-the-lms-approach-to-e-learning/
 tags:
 - eportfolio
 - vle-lms
@@ -241,7 +241,7 @@ pingbacks:
     []
     
 ---
-I continue to have [a high level of skepticism](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/) around the concept of universities investing in ePortfolios. I feel that it is another example of how people within universities tend to over-emphasize their importance in the scheme of things, extend the university role into areas it where it should never have been and subsequently waste resources and more importantly the time and energy of academic staff that would be better spent focusing on other aspects of improving learning and teaching. In particular, I see ePortfolios being another approach that is being over-run by the [technologists alliance](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/#alliance).
+I continue to have [a high level of skepticism](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/) around the concept of universities investing in ePortfolios. I feel that it is another example of how people within universities tend to over-emphasize their importance in the scheme of things, extend the university role into areas it where it should never have been and subsequently waste resources and more importantly the time and energy of academic staff that would be better spent focusing on other aspects of improving learning and teaching. In particular, I see ePortfolios being another approach that is being over-run by the [technologists alliance](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/#alliance).
 
 This latest restating of my prejudice arises from [a find](http://www.downes.ca/cgi-bin/page.cgi?post=49682) from [Stephen Downes](http://www.downes.ca/) OLDaily newsletter which eventually traces back to [this post](http://blocs.xtec.cat/portfolioproject/2009/07/24/portfolioroadmap/) from a Spanish higher school teacher which in turn draws on [this post](http://blog.core-ed.net/derek/2008/09/conceptualising-eportfolios.html) from Derek Wenmoth.
 
@@ -270,4 +270,4 @@ Only very briefly, have to stop procrastinating and get back to the thesis, the 
 - Focus institutional technology on only those tasks that the institution must perform and aim on doing it well.  
     e.g. Rather than providing an ePortfolio system that helps learners present their work (something they can do themselves). Focus on implementing significant improvements on the systems around assessment and accreditation. The assignment submission systems in most VLEs is woeful, and that's only in simple implementation details that would significantly increase the efficiency of the assessment process. Most don't offer any support for activities that might significantly improve learning and assessment from an educational perspective.
 
-In part, this is one aspect of the [BAM project](/blog2/research/bam-blog-aggregation-management/). One area it is trying to experiment with. Rather than require students to use blogs provided within an institution LMS (which are mostly really limited), allow them to use real-world blog engines and focus the institutional information technology on the assessment aspect.
+In part, this is one aspect of the [BAM project](/blog/research/bam-blog-aggregation-management/). One area it is trying to experiment with. Rather than require students to use blogs provided within an institution LMS (which are mostly really limited), allow them to use real-world blog engines and focus the institutional information technology on the assessment aspect.

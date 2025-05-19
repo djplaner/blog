@@ -6,10 +6,10 @@ categories:
 date: 2013-06-10 11:08:53+10:00
 next:
   text: Mobile video to enhance the Work Integrated Learning of pre-service teachers
-  url: /blog2/2013/06/13/mobile-video-to-enhance-the-work-integrated-learning-of-pre-service-teachers/
+  url: /blog/2013/06/13/mobile-video-to-enhance-the-work-integrated-learning-of-pre-service-teachers/
 previous:
   text: Learning analytics, intervention and helping teachers
-  url: /blog2/2013/06/07/learning-analytics-intervention-and-helping-teachers/
+  url: /blog/2013/06/07/learning-analytics-intervention-and-helping-teachers/
 title: The kludge for marking learning journals
 type: post
 template: blog-post.html
@@ -64,7 +64,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a description of the kludge I put in place to mark the learning journals - see [here for a description](/blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) of initial thinking behind the journal - folk in the EDC3100 course this semester had to complete. It's meant to record what I did, provide some food for further development and offer an opportunity for some initial reflection.
+The following is a description of the kludge I put in place to mark the learning journals - see [here for a description](/blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) of initial thinking behind the journal - folk in the EDC3100 course this semester had to complete. It's meant to record what I did, provide some food for further development and offer an opportunity for some initial reflection.
 
 ### Final format
 
@@ -73,7 +73,7 @@ The following is a description of the kludge I put in place to mark the learning
 - complete all the activities on the course site; and,
 - post a sequence of reflective posts on their personal blog.
 
-As outlined in the [ideas post](/blog2/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) the student's mark was based on:
+As outlined in the [ideas post](/blog/2013/02/25/the-assessment-of-learning-journals-ideas-for-bim/) the student's mark was based on:
 
 - what percentage of the activities they completed;
 - how many posts per week (on average) they published;
@@ -145,9 +145,9 @@ Was it worth it was a question I asked myself when it became obvious that at lea
 
 Starting with the absence of BIM which created additional workload which in part contributing to less than appropriate scaffolding to help the students engage in the task more meaningfully. Especially in terms of better linkages to the weekly activities. I'm particularly interested, longer term, in how the assessment of the course and the work done by the markers can be changed from making submitted assignments to actively engaging with students blog posts.
 
-On the plus side, there was **some evidence of serendipity**. The requirement for for students to link to others worked to [create connections](/blog2/2013/06/04/animation-over-time-of-links-between-student-posts/) and at least some of them resulted in beneficial serendipity. There's enough evidence to suggest that this is worthwhile continuing with. There does of course need to be some more formal evaluation and reflection about how to do this, including work on BIM to address some of the problems above.
+On the plus side, there was **some evidence of serendipity**. The requirement for for students to link to others worked to [create connections](/blog/2013/06/04/animation-over-time-of-links-between-student-posts/) and at least some of them resulted in beneficial serendipity. There's enough evidence to suggest that this is worthwhile continuing with. There does of course need to be some more formal evaluation and reflection about how to do this, including work on BIM to address some of the problems above.
 
-I've also learnt that **the activity completion report in Moodle is basically useless**. With the number of students I had, the number of activities to complete, and apparently the browser I was using viewing the tabular data in the activity completion report in a meaningful way was almost useless. Downloading the CSV into Excel was only slightly more beneficial. In reality, the data needed to be manipulated into another format to make it useful. Not exactly a report located in "The Performance Zone" talked about at the end of [this post](/blog2/2013/06/07/learning-analytics-intervention-and-helping-teachers/). On the plus side, this is informing some further research.
+I've also learnt that **the activity completion report in Moodle is basically useless**. With the number of students I had, the number of activities to complete, and apparently the browser I was using viewing the tabular data in the activity completion report in a meaningful way was almost useless. Downloading the CSV into Excel was only slightly more beneficial. In reality, the data needed to be manipulated into another format to make it useful. Not exactly a report located in "The Performance Zone" talked about at the end of [this post](/blog/2013/06/07/learning-analytics-intervention-and-helping-teachers/). On the plus side, this is informing some further research.
 
 This whole experience really does reinforce Rushkoff's (p. 128) point about Digital Technology
 

@@ -4,10 +4,10 @@ categories:
 date: 2013-11-01 13:15:01+10:00
 next:
   text: Big data in education - part 1
-  url: /blog2/2013/11/03/big-data-in-education-part-1/
+  url: /blog/2013/11/03/big-data-in-education-part-1/
 previous:
   text: Oh Academia
-  url: /blog2/2013/10/31/oh-academia/
+  url: /blog/2013/10/31/oh-academia/
 title: BIM and broken moodle capabilities
 type: post
 template: blog-post.html

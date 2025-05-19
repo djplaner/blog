@@ -6,10 +6,10 @@ categories:
 date: 2015-08-14 09:57:05+10:00
 next:
   text: Bringing github and the Moodle book module together - step 1
-  url: /blog2/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
+  url: /blog/2015/08/14/bringing-github-and-the-moodle-book-module-together-step-1/
 previous:
   text: How might github and the Moodle book module work together
-  url: /blog2/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/
+  url: /blog/2015/08/13/how-might-github-and-the-moodle-book-module-work-together/
 title: '"Homogeneity: the inevitable result of a strategic approach?"'
 type: post
 template: blog-post.html
@@ -23,7 +23,7 @@ The following presents some evidence to suggest a potential strong correlation.
 
 ### What is the strategic approach?
 
-In [Jones and Clark (2014)](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) we suggested that contemporary universities (along most other organisations) increasingly use a strategic approach to decide what work gets done. We [described strategy](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) as
+In [Jones and Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) we suggested that contemporary universities (along most other organisations) increasingly use a strategic approach to decide what work gets done. We [described strategy](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset) as
 
 > following a global plan intended to achieve a pre-identified desired future state.
 
@@ -77,9 +77,9 @@ Ciborra (1992) suggested
 
 > How then should “true” SISs be developed? In order to avoid easy imitation, they should should emerge from from the grass roots of the organization, out of end-user hacking, computing, and tinkering. In this way the innovative SIS is going to be highly entrenched with the specific culture of the firm. Top management needs to appreciate local fluctuations in practices as a repository of unique innovations and commit adequate resources to their development, even if they fly if the face of traditional approaches. Rather than of looking for standard models in the business strategy literature, SISs should be looked for in the theory and practice of organizational leaming and innovation, both incremental and radical. (p. 297)
 
-Or as we argued in [Jones and Clark (2014)](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset)
+Or as we argued in [Jones and Clark (2014)](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset)
 
-> Perhaps universities need to break a [little BAD](/blog2/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset)?
+> Perhaps universities need to break a [little BAD](/blog/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/#badset)?
 
 Instead, universities like most organisations, are attempting to solve the problems of the strategic approach by doing the strategic approach again (but we'll do it better this time, promise).
 

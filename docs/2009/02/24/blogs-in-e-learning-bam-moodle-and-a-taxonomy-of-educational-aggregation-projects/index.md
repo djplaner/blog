@@ -5,10 +5,10 @@ date: 2009-02-24 21:24:22+10:00
 next:
   text: '"Down with the cookie-cutter LMS: the Edupunk ideology and why integrated
     systems might go away"'
-  url: /blog2/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
+  url: /blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/
 previous:
   text: Branding and universities - a mismatch of purpose and place?
-  url: /blog2/2009/02/24/branding-and-universities-a-mismatch-of-purpose-and-place/
+  url: /blog/2009/02/24/branding-and-universities-a-mismatch-of-purpose-and-place/
 title: '"Blogs in E-Learning: BAM, Moodle and a taxonomy of educational aggregation
   projects?"'
 type: post
@@ -35,9 +35,9 @@ pingbacks:
 ---
 ### Background
 
-The [Blog Aggregation Management (BAM) Project](/blog2/research/bam-blog-aggregation-management/) is a 3 year old project to extend some of the ideas (especially small pieces loosely joined) behind my thesis into the brave new world of "Web 2.0" (circa 2006). It was also intended to help solve a set of immediate problems in a particular course I was teaching through appropriate assessment and activities implemented by each student having their own blog. BAM provided the essential management and institutional wrapper around the use of these blogs to enable us to track and mark student progress.
+The [Blog Aggregation Management (BAM) Project](/blog/research/bam-blog-aggregation-management/) is a 3 year old project to extend some of the ideas (especially small pieces loosely joined) behind my thesis into the brave new world of "Web 2.0" (circa 2006). It was also intended to help solve a set of immediate problems in a particular course I was teaching through appropriate assessment and activities implemented by each student having their own blog. BAM provided the essential management and institutional wrapper around the use of these blogs to enable us to track and mark student progress.
 
-More information on BAM can be found in [this post](/blog2/2009/02/11/bam-making-e-learning-technology-more-protean/) and on [BAM project page](/blog2/research/bam-blog-aggregation-management/). The [post](/blog2/2009/02/11/bam-making-e-learning-technology-more-protean/) is probably the most recent and complete perspective.
+More information on BAM can be found in [this post](/blog/2009/02/11/bam-making-e-learning-technology-more-protean/) and on [BAM project page](/blog/research/bam-blog-aggregation-management/). The [post](/blog/2009/02/11/bam-making-e-learning-technology-more-protean/) is probably the most recent and complete perspective.
 
 ### The next steps
 

@@ -4,10 +4,10 @@ categories:
 date: 2012-03-31 22:42:04+10:00
 next:
   text: '"Learning analytics: Starvation and telling us what we already know?"'
-  url: /blog2/2012/04/01/learning-analytics-starvation-and-telling-us-what-we-already-know/
+  url: /blog/2012/04/01/learning-analytics-starvation-and-telling-us-what-we-already-know/
 previous:
   text: bim2 - status check and what&#039;s next
-  url: /blog2/2012/03/30/bim2-status-check-and-whats-next/
+  url: /blog/2012/03/30/bim2-status-check-and-whats-next/
 title: bim2 - student and marker fixes
 type: post
 template: blog-post.html
@@ -95,7 +95,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Some more work on bim2, carrying on from [last night](/blog2/2012/03/30/bim2-status-check-and-whats-next/). Aim here is to attack some of these tasks:
+Some more work on bim2, carrying on from [last night](/blog/2012/03/30/bim2-status-check-and-whats-next/). Aim here is to attack some of these tasks:
 
 - Fix problem with mirroring of student feeds.
 - Double check the marker screens.

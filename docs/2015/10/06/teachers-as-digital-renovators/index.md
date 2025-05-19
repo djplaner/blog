@@ -5,10 +5,10 @@ categories:
 date: 2015-10-06 12:25:43+10:00
 next:
   text: Technology required by teachers to customise technology-enhanced units
-  url: /blog2/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
+  url: /blog/2015/10/07/technology-required-by-teachers-to-customise-technology-enhanced-units/
 previous:
   text: 'University e-learning: Removing context and adding sediment'
-  url: /blog2/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
+  url: /blog/2015/10/01/university-e-learning-removing-the-context-and-adding-the-sediment/
 title: Teachers as designers of technology enhance learning?
 type: post
 template: blog-post.html
@@ -92,7 +92,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Some colleagues and I are starting to [wonder about what type of "digital knowledge" teachers](/blog2/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/) might need. This is occurring in the context of a re-design of a Bachelor of Education. This particular post is a summary of reading and thinking about ideas outlined in Kirschner (2015) and related writings. Apparently [Instructional Science 43(2)](http://link.springer.com/journal/11251/43/2/page/1) feature contributions discussing "teacher as a design professional".
+Some colleagues and I are starting to [wonder about what type of "digital knowledge" teachers](/blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/) might need. This is occurring in the context of a re-design of a Bachelor of Education. This particular post is a summary of reading and thinking about ideas outlined in Kirschner (2015) and related writings. Apparently [Instructional Science 43(2)](http://link.springer.com/journal/11251/43/2/page/1) feature contributions discussing "teacher as a design professional".
 
 In particular, the idea of
 
@@ -126,7 +126,7 @@ Kirschner & Davis (2003) apparently identify "pedagogical benchmarks for ICT in 
 
 > as long as institutions for teacher education see the computer or ICT as an addition to teacher training and not as something fundamental to it, the computer would never become an integral well-used part of the teaching/learning process. (Kirschner, 2015, p. 310)
 
-Suggesting that for this to happen, the teacher educators who design and teach into teacher education programs need to see ICT as integral to the teaching/learning process. i.e. at the very least they should seem themselves [as digital residents](/blog2/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/#resident).
+Suggesting that for this to happen, the teacher educators who design and teach into teacher education programs need to see ICT as integral to the teaching/learning process. i.e. at the very least they should seem themselves [as digital residents](/blog/2015/09/10/what-type-of-digital-knowledge-does-a-teacher-need/#resident).
 
 i.e. pre-service teachers don't take courses in "teacher aided, textbook aided, or whiteboard aided instruction/learning". There is a need to learn about the different ways these tools can be integrated into learning, but the point is not as a separate course.
 

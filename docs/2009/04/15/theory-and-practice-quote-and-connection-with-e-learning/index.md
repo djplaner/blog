@@ -8,10 +8,10 @@ categories:
 date: 2009-04-15 10:17:22+10:00
 next:
   text: A history of technology-mediated learning
-  url: /blog2/2009/04/17/a-history-of-technology-mediated-learning/
+  url: /blog/2009/04/17/a-history-of-technology-mediated-learning/
 previous:
   text: Disruption and the &quot;mythic&quot; technologies of education
-  url: /blog2/2009/04/14/disruption-and-the-mythic-technologies-of-education/
+  url: /blog/2009/04/14/disruption-and-the-mythic-technologies-of-education/
 title: Theory and practice - quote and connection with e-learning?
 type: post
 template: blog-post.html
@@ -48,7 +48,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Given my pre-occupation with the [thesis](/blog2/research/phd-thesis/), which involves the formulation of a design theory for e-learning. It's of little surprise that I have an interest in the theory, practice and e-learning. Came across the following quote this morning in checking some literature, and I like it - new quote for a thesis chapter.
+Given my pre-occupation with the [thesis](/blog/research/phd-thesis/), which involves the formulation of a design theory for e-learning. It's of little surprise that I have an interest in the theory, practice and e-learning. Came across the following quote this morning in checking some literature, and I like it - new quote for a thesis chapter.
 
 > Theory without practice leads to an empty idealism, and action without philosophical reflection leads to mindless activism. – Elias & Merriam, 1980, p. 4
 

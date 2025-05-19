@@ -5,16 +5,16 @@ categories:
 date: 2011-01-10 23:56:30+10:00
 next:
   text: Applying "learning analytics" to BIM
-  url: /blog2/2011/01/12/applying-learning-analytics-to-bim/
+  url: /blog/2011/01/12/applying-learning-analytics-to-bim/
 previous:
   text: A start to the &quot;Introduction to Learning and Knowledge Analytics&quot;
     MOOC
-  url: /blog2/2011/01/10/a-start-to-the-introduction-to-learning-and-knowledge-analytics-mooc/
+  url: /blog/2011/01/10/a-start-to-the-introduction-to-learning-and-knowledge-analytics-mooc/
 title: '"Learning analytics: Definitions, processes and potential"'
 type: post
 template: blog-post.html
 ---
-The following is the summary of my first reading for the [LAK11 MOOC](http://www.learninganalytics.net/) and follows on from [my initial thoughts](/blog2/2011/01/10/a-start-to-the-introduction-to-learning-and-knowledge-analytics-mooc/).
+The following is the summary of my first reading for the [LAK11 MOOC](http://www.learninganalytics.net/) and follows on from [my initial thoughts](/blog/2011/01/10/a-start-to-the-introduction-to-learning-and-knowledge-analytics-mooc/).
 
 I decided to start with the paper title [Learning analytics: Definitions, processes and potential](http://learninganalytics.net/LearningAnalyticsDefinitionsProcessesPotential.pdf) as it appeared from the combination of the data published (Jan 2011) and title to give the more current overview. It's also written by one of the course facilitators, so should have some connection to the course.
 

@@ -4,10 +4,10 @@ categories:
 date: 2011-12-05 20:49:24+10:00
 next:
   text: '"Scaling" educational innovations'
-  url: /blog2/2011/12/07/scaling-educational-innovations/
+  url: /blog/2011/12/07/scaling-educational-innovations/
 previous:
   text: Some of the learning analytics literature
-  url: /blog2/2011/12/04/some-of-the-learning-analytics-literature/
+  url: /blog/2011/12/04/some-of-the-learning-analytics-literature/
 title: The failures of intuition in education
 type: post
 template: blog-post.html
@@ -138,7 +138,7 @@ So, my initial list:
     2. Learning styles suggest that everyone has strengths, it's egalitarian, which much be good.
     3. Learning styles have become common knowledge.
 2. The learning pyramid.  
-    The most visited post on my blog is [this one](/blog2/2009/10/11/the-learning-pyramid-true-false-hoax-or-myth/) that argues that the learning pyramid has no support whatsoever from research. The comments on this post are symptomatic of the intuition/common sense problem. The commenters - including some apparent "gurus" on the education publication/conference circuit - argue for the learning pyramid because it just makes sense to them. This is especially problematic because - as argued by [this post](http://www.karenhume.ca/learning-pyramid/) (I've just read the comments on this post, I recommend them, but that could just be my own confirmation bias) - the learning pyramid resonates with constructivist theories of learning, which as everyone knows must be good.
+    The most visited post on my blog is [this one](/blog/2009/10/11/the-learning-pyramid-true-false-hoax-or-myth/) that argues that the learning pyramid has no support whatsoever from research. The comments on this post are symptomatic of the intuition/common sense problem. The commenters - including some apparent "gurus" on the education publication/conference circuit - argue for the learning pyramid because it just makes sense to them. This is especially problematic because - as argued by [this post](http://www.karenhume.ca/learning-pyramid/) (I've just read the comments on this post, I recommend them, but that could just be my own confirmation bias) - the learning pyramid resonates with constructivist theories of learning, which as everyone knows must be good.
     
     Will Thalheimer has a [blog post](http://www.willatworklearning.com/2006/05/people_remember.html) critical of the learning pyramid and associated ideas.
     

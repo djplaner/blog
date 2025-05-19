@@ -5,15 +5,15 @@ categories:
 date: 2009-01-05 11:52:42+10:00
 next:
   text: Webfuse statistics - Staff Portal
-  url: /blog2/2009/01/05/webfuse-statistics-staff-portal/
+  url: /blog/2009/01/05/webfuse-statistics-staff-portal/
 previous:
   text: Operating Systems animations and other resources
-  url: /blog2/2008/12/30/operating-systems-animations-and-other-resources/
+  url: /blog/2008/12/30/operating-systems-animations-and-other-resources/
 title: Webfuse usage statistics - Quizzes
 type: post
 template: blog-post.html
 ---
-As part of my [PhD thesis](/blog2/research/phd-thesis/) I'll be generating some statistics about the usage of the Webfuse e-learning system that has been in use at CQU since 1996.
+As part of my [PhD thesis](/blog/research/phd-thesis/) I'll be generating some statistics about the usage of the Webfuse e-learning system that has been in use at CQU since 1996.
 
 I plan to post those statistics to my blog to share the data but also to encourage discussion and suggestions around the causes and contributing factors behind these statistics. The comments I add will be definitely from my perspective and need to be questioned. My comments will also be very rough, at least until I've put all the statistics up on the page and reflected upon them.
 

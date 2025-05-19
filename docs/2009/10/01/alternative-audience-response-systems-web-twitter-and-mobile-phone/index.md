@@ -5,21 +5,21 @@ categories:
 date: 2009-10-01 16:06:01+10:00
 next:
   text: Herding cats and behaviour change
-  url: /blog2/2009/10/02/herding-cats-and-behaviour-change/
+  url: /blog/2009/10/02/herding-cats-and-behaviour-change/
 previous:
   text: What is there to know about clickers?
-  url: /blog2/2009/09/30/what-is-there-to-know-about-clickers/
+  url: /blog/2009/09/30/what-is-there-to-know-about-clickers/
 title: Alternative audience response systems - web, twitter and mobile phone
 type: post
 template: blog-post.html
 ---
-As part of [this project](/blog2/2009/09/28/small-changes-in-lectures-ustream-votapedia/) I'm looking at playing with "clickers" that work via the web, twitter, mobile phones or some other medium that removes the physical limitations of traditional devices (i.e. you have to be in the room with the lecturer).
+As part of [this project](/blog/2009/09/28/small-changes-in-lectures-ustream-votapedia/) I'm looking at playing with "clickers" that work via the web, twitter, mobile phones or some other medium that removes the physical limitations of traditional devices (i.e. you have to be in the room with the lecturer).
 
 The following will be a summary and description of a growing number of systems that I come across. Suggestions more than welcome.
 
 ### Poll Everywhere
 
-Early bits of this [work](/blog2/2009/06/30/alternative-to-clickers/) was based on the discovery of [Poll Everywhere](http://www.polleverywhere.com/).
+Early bits of this [work](/blog/2009/06/30/alternative-to-clickers/) was based on the discovery of [Poll Everywhere](http://www.polleverywhere.com/).
 
 This is a commercial service with a [range of plans](http://www.polleverywhere.com/plans/retail) and reminds me somewhat of the services/sites of [37Signals](http://37signals.com/). But $USD400 a term seems a bit steep.
 
@@ -27,7 +27,7 @@ Trouble here is that it is US-based, so it's a US number to call. It does suppor
 
 ### Votapedia
 
-[Votapedia](http://www.votapedia.com/) is apparently a free service offered by a project within CSIRO that uses mobile phones and the web (in the form of a MediaWiki). Mobile phone usage doesn't cost the participant as their call gets the busy signal. The [original post](/blog2/2009/06/30/alternative-to-clickers/) generated some comments from a colleague at [QUT](http://www.qut.edu.au/) with a positive experience.
+[Votapedia](http://www.votapedia.com/) is apparently a free service offered by a project within CSIRO that uses mobile phones and the web (in the form of a MediaWiki). Mobile phone usage doesn't cost the participant as their call gets the busy signal. The [original post](/blog/2009/06/30/alternative-to-clickers/) generated some comments from a colleague at [QUT](http://www.qut.edu.au/) with a positive experience.
 
 This is the one I'm currently planning to use. I've set the wheels in motion necessary to get an account. So unless I find a better service or I can't get Votapedia to work you'll be hearing more about it.
 

@@ -4,10 +4,10 @@ categories:
 date: 2015-03-01 11:34:56+10:00
 next:
   text: What do you do with Twitter?
-  url: /blog2/2015/03/04/what-do-you-do-with-twitter/
+  url: /blog/2015/03/04/what-do-you-do-with-twitter/
 previous:
   text: 'Contradictions in adjectives: You can&#039;t be consistent and optimal'
-  url: /blog2/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/
+  url: /blog/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/
 title: The edc3100 "inspirational posters"
 type: post
 template: blog-post.html
@@ -49,7 +49,7 @@ I'm learning to detest the intrusion from folk outside of my course into the lea
 
 And don't get me started on "Fac of Bus, Educ, Law & Arts". It's bad enough when organisational restructures create conglomerations of disparate organisational units, let alone when they are inflicted upon learners who really don't need to know that my course (and their education program) belongs to the "Fac of Bus, Educ, Law & Arts" and not USQ (the institution they enrolled to study at). Especially when it takes up huge amounts of limited space in the bread crumbs navigation space.
 
-Which of course is all related to the broken idea of ["consistent course websites"](/blog2/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/). It is especially ironic given that as I write this post, one of my students in EDC3100 (a course for pre-service teachers title "ICT and Pedagogy") has just shared the following comment via Diigo on [this reading](http://speedchange.blogspot.com.au/p/blog-page_2046.html) for the course
+Which of course is all related to the broken idea of ["consistent course websites"](/blog/2015/02/25/contradictions-in-adjectives-you-cant-be-consistent-and-optimal/). It is especially ironic given that as I write this post, one of my students in EDC3100 (a course for pre-service teachers title "ICT and Pedagogy") has just shared the following comment via Diigo on [this reading](http://speedchange.blogspot.com.au/p/blog-page_2046.html) for the course
 
 > There is no such thing as a one size fit all approach to learning or teaching and no individual student or teacher should stop talking and working out better ways of learning and teaching together.
 

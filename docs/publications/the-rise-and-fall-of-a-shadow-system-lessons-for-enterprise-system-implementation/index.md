@@ -1161,6 +1161,6 @@ Yin, R. (1994) _Case study research design and methods,_ Thousand Oaks, Sage.
 
 * * *
 
-[\[1\]](#_ftnref1) Following Gable, Sedera and Chan (2003) we use the terms enterprise system (ES) and enterprise resource planning (ERP) system interchangeably.
+<a id="_ftn1">(1)</a> Following Gable, Sedera and Chan (2003) we use the terms enterprise system (ES) and enterprise resource planning (ERP) system interchangeably.
 
-[\[2\]](#_ftnref2) Rather than use Term 2 (T2) 2003 the PeopleSoft Higher Education system uses the field STRM. STRM uses the format CYYT. Where T2, 2003 becomes 2032 and T3, 1999 becomes 1993.
+<a id="_ftn2">(2)</a> Rather than use Term 2 (T2) 2003 the PeopleSoft Higher Education system uses the field STRM. STRM uses the format CYYT. Where T2, 2003 becomes 2032 and T3, 1999 becomes 1993.

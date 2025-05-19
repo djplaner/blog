@@ -6,10 +6,10 @@ categories:
 date: 2008-10-26 21:37:03+10:00
 next:
   text: The importance of diversity to improving learning and teaching
-  url: /blog2/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
+  url: /blog/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/
 previous:
   text: A Paradigmatic Analysis of Information Systems As a Design Science
-  url: /blog2/2008/10/25/a-paradigmatic-analysis-of-information-systems-as-a-design-science/
+  url: /blog/2008/10/25/a-paradigmatic-analysis-of-information-systems-as-a-design-science/
 tags:
 - shadowsystems-shadow-enterprise20
 title: The gulf between users and IT departments
@@ -129,7 +129,7 @@ One of the key points here is that the disconnect is fundamental. The solution i
 
 Can this change? Not sure it can, at least in the organisations where all that is IT is to be solved by the IT department. Such a department, especially at the management level, is manned (and it's usually men, at least for now) by people who have lived within IT departments and succeeded, so that they now reside at the top. In most organisations the IT folk retain final say on "technical" questions (which really aren't technical questions) because of the ignorance and fear of senior management about "technical" questions. It's to easy for IT folk to say "you can't do that" and for senior management not to have a clue that it is a load of bollocks.
 
-Of course I should take my own advice [look for incompetence before you go paranoid](/blog2/2008/10/23/look-for-incompetence-before-you-go-paranoid/). Senior IT folk, as with most people, will see the problem in the same way they have always seen the problem. They will always seek solve it with solutions they've used before, because that's the nature of the problem they see. One of the "technical" terms for this is [inattentional blindness](http://en.wikipedia.org/wiki/Inattentional_blindness)
+Of course I should take my own advice [look for incompetence before you go paranoid](/blog/2008/10/23/look-for-incompetence-before-you-go-paranoid/). Senior IT folk, as with most people, will see the problem in the same way they have always seen the problem. They will always seek solve it with solutions they've used before, because that's the nature of the problem they see. One of the "technical" terms for this is [inattentional blindness](http://en.wikipedia.org/wiki/Inattentional_blindness)
 
 The chances of a fundamental change to approach is not likely. Dave Snowden [suggests](http://www.cognitive-edge.com/blogs/dave/2008/10/to_distinguish_the_ordinary.php) that the necessary, but not sufficient conditions, for innovation are starvation, pressure and **perspective shift**. Without that perspective shift, the gulf will continue exist.
 
@@ -139,4 +139,4 @@ You can see evidence of this gulf in any relationship between "users" and a serv
 
 The most obvious end result of the gulf is when the service department starts to think it knows best. Rather than respond to the needs, perceived and otherwise, of the "users", the service department works on what it considers best. Generally something the emphasises the importance of the service divisions and increases their funding and importance within the organisation. You can see this sort of thing all the time with people who are meant to advice academics about how to improve their learning and teaching.
 
-IT are just the easiest and most obvious target for this because IT is now a core part of life for most professions, most organisations continue to see it as overhead to be minimised, rather than an investment to be maximised and the on-going development of IT is [changing the paradigm](/blog2/2008/03/15/from-scarcity-to-over-abundance-paradigm-change-for-it-departments-and-others/) for IT departments.
+IT are just the easiest and most obvious target for this because IT is now a core part of life for most professions, most organisations continue to see it as overhead to be minimised, rather than an investment to be maximised and the on-going development of IT is [changing the paradigm](/blog/2008/03/15/from-scarcity-to-over-abundance-paradigm-change-for-it-departments-and-others/) for IT departments.

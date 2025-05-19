@@ -5,10 +5,10 @@ categories:
 date: 2010-05-25 10:16:43+10:00
 next:
   text: Adding multiple visualisation approaches to Indicators block
-  url: /blog2/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/
+  url: /blog/2010/05/26/adding-multiple-visualisation-approaches-to-indicators-block/
 previous:
   text: Draft chapter 4 of the thesis is up
-  url: /blog2/2010/05/21/draft-chapter-4-of-the-thesis-is-up/
+  url: /blog/2010/05/21/draft-chapter-4-of-the-thesis-is-up/
 title: '"Understanding what teachers do: First step in improving L&#038;T"'
 type: post
 template: blog-post.html
@@ -26,7 +26,7 @@ In terms of suggestions and advice, I'm really keen to hear from people who migh
 
 I'm interested in this because I coming to the opinion that it is the quality, quantity and diversity of the connections within the network of people, policies, technologies and other system objects that enable or constrain the ability for a university to improve it's teaching and learning. In particular, the connections which surround the teaching staff and students define what they experience and that experience impacts what they are likely to do (or not). My bias is that I think the network/environment surrounding most staff/students is actively preventing improvement in learning and teaching.
 
-In my [current job](/blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I am expected to help improve the quality of teaching and learning. Much of what I do (e.g. [Moodle curriculum mapping](/blog2/2010/05/19/how-curriculum-mapping-in-moodle-might-work/), the [broader alignment project](/blog2/2010/05/13/more-thinking-about-the-alignment-project/), and [the indicators Moodle block](/blog2/2010/05/09/requirements-for-an-indicators-moodle-block/#comment-3164)) is aimed at modifying the environment/network around teaching staff to enable and encourage them to improve their teaching. But this is only half the equation.
+In my [current job](/blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august)/ I am expected to help improve the quality of teaching and learning. Much of what I do (e.g. [Moodle curriculum mapping](/blog/2010/05/19/how-curriculum-mapping-in-moodle-might-work/), the [broader alignment project](/blog/2010/05/13/more-thinking-about-the-alignment-project/), and [the indicators Moodle block](/blog/2010/05/09/requirements-for-an-indicators-moodle-block/#comment-3164)) is aimed at modifying the environment/network around teaching staff to enable and encourage them to improve their teaching. But this is only half the equation.
 
 _Aside:_ My focus is on teaching staff. It is not on students. While I agree 100% that student-centered approaches (there's a lot of "buzz word" around that phrase, I hesitate to use it) to learning are the most effective, I don't teach students. My job is to help other academic staff improve what they are doing, to create an environment in which they start to think that student-centered learning is not only a good thing (which many of them do) but that the environment actually helps them implement such approaches, rather than actively hinders it. I've seen too many attempts to encourage student-centered approaches that ignore the teaching staff and consequently get hamstrung from [reactance](http://en.wikipedia.org/wiki/Reactance_%28psychology%29).
 
@@ -41,7 +41,7 @@ The other half of the equation is getting a good understanding of the environmen
 
 So that's the personal perspective, what about the research perspective?
 
-First off, one of the "buzzwords" within education fields at the moment is distributive leadership. Here's something I wrote describing distributive leadership in the [alignment project blurb](/blog2/2010/05/13/more-thinking-about-the-alignment-project/)
+First off, one of the "buzzwords" within education fields at the moment is distributive leadership. Here's something I wrote describing distributive leadership in the [alignment project blurb](/blog/2010/05/13/more-thinking-about-the-alignment-project/)
 
 > Parrish et al (2008) define distributive leadership as the distribution of power through a collegial sharing of knowledge, of practice, and reflection within a socio-cultural context. Zepke (2007) argues that this is more than the delegation of tasks and responsibilities, and more than collaborative practice. Spillane et al (2004, p. 9) argue that, based on its foundations in distributed cognition and activity theory, distributive leadership is not limited to people, but can also be attributed to artefacts such as language, notational systems, tools and buildings. Leadership activity is distributed through an interactive web of actors, artefacts and situation (Spillane et al., 2004, p. 20).
 

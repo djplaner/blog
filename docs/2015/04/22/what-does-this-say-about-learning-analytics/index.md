@@ -4,10 +4,10 @@ categories:
 date: 2015-04-22 12:51:25+10:00
 next:
   text: An overview of the Moodle "open" book project
-  url: /blog2/2015/04/27/an-overview-of-the-moodle-open-book-project/
+  url: /blog/2015/04/27/an-overview-of-the-moodle-open-book-project/
 previous:
   text: Why is e-learning like teenage sex and what can be done about it?
-  url: /blog2/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/
+  url: /blog/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/
 tags:
 - fashion
 - irac

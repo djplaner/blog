@@ -5,10 +5,10 @@ categories:
 date: 2011-01-15 14:42:11+10:00
 next:
   text: Analytics creating too much transparency? A two-edged sword?
-  url: /blog2/2011/01/18/analytics-creating-too-much-transparency-a-two-edged-sword/
+  url: /blog/2011/01/18/analytics-creating-too-much-transparency-a-two-edged-sword/
 previous:
   text: Introducing Hunch
-  url: /blog2/2011/01/13/introducing-hunch/
+  url: /blog/2011/01/13/introducing-hunch/
 tags:
 - lak11
 title: Creating a podcast for LAK11 presentations
@@ -61,7 +61,7 @@ I'm currently participating in the [Learning and Knowledge Analytics MOOC](http:
 
 ### Why?
 
-The presentations are taking place within Elluminate and Elluminate recordings are made available. So why a podcast? Simply put the asynchronous and audio only nature better matches my preferences and context. So, I've repeated a process I use for the [PLE/PLN symposium](/blog2/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/). More details below.
+The presentations are taking place within Elluminate and Elluminate recordings are made available. So why a podcast? Simply put the asynchronous and audio only nature better matches my preferences and context. So, I've repeated a process I use for the [PLE/PLN symposium](/blog/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/). More details below.
 
 ### How?
 
@@ -71,7 +71,7 @@ The basic process is
 - Pass the RSS for that those tags produced by del.icio.us through [feedburner](http://www.feedburner.com/) to generate a [podcast](http://feeds.feedburner.com/lak11podcast).
 - Subscribe to [the podcast](http://feeds.feedburner.com/lak11podcast) using iTunes or other software.
 
-The one difference between this podcast for LAK11 and the [PLE/PLN podcast](/blog2/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/), is that I couldn't bookmark the original mp3 files. These files are made available via the [LAK11 Moodle course](http://scope.bccampus.ca/course/view.php?id=365). Attempting to access the files directly results in a redirect to the home page for the SCOPE Moodle instance where you can login as a guest and view the files.
+The one difference between this podcast for LAK11 and the [PLE/PLN podcast](/blog/2009/10/16/podcast-for-presentations-at-the-ples-plns-symposium/), is that I couldn't bookmark the original mp3 files. These files are made available via the [LAK11 Moodle course](http://scope.bccampus.ca/course/view.php?id=365). Attempting to access the files directly results in a redirect to the home page for the SCOPE Moodle instance where you can login as a guest and view the files.
 
 Works fine if you are a person on the web, but podcast software like iTunes isn't that smart.
 

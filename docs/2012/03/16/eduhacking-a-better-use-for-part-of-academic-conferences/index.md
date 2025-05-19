@@ -5,10 +5,10 @@ categories:
 date: 2012-03-16 11:46:21+10:00
 next:
   text: My on-going concerns with ePortfolios
-  url: /blog2/2012/03/21/my-on-going-concerns-with-eportfolios/
+  url: /blog/2012/03/21/my-on-going-concerns-with-eportfolios/
 previous:
   text: 'Some challenges for #pstn'
-  url: /blog2/2012/03/09/some-challenges-for-pstn/
+  url: /blog/2012/03/09/some-challenges-for-pstn/
 title: Eduhacking - a better use for (part of) academic conferences?
 type: post
 template: blog-post.html

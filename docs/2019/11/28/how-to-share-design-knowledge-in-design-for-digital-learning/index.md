@@ -5,22 +5,22 @@ coverImage: EuIQOqjU0AIci64-e1629593563872.jpeg
 date: 2019-11-28 15:00:19+10:00
 next:
   text: It's more than how you use the technology - authoring online content
-  url: /blog2/2019/12/10/its-more-than-how-you-use-the-technology-authoring-online-content/
+  url: /blog/2019/12/10/its-more-than-how-you-use-the-technology-authoring-online-content/
 previous:
   text: 'Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive
     templates and CASA'
-  url: /blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/
+  url: /blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/
 title: How to share design knowledge in design for digital learning?
 type: post
 template: blog-post.html
 ---
-Using Blackboard Learn to design and manage a quality learning environment is hard. Managing the web content alone is [hard to do well](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/). To do so requires significant HTML, CSS and related web design knowledge. Knowledge that not everyone has, or should have, or can have. That's why there are so many ugly Blackboard sites.
+Using Blackboard Learn to design and manage a quality learning environment is hard. Managing the web content alone is [hard to do well](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/). To do so requires significant HTML, CSS and related web design knowledge. Knowledge that not everyone has, or should have, or can have. That's why there are so many ugly Blackboard sites.
 
 The difficulty of sharing this specific type of design knowledge is just one small example of the question facing institutions of higher education (especially in these pandemic times): How to share design knowledge in design for digital learning?
 
-The following resources are associated with an [ASCILITE'2019 paper](/blog2/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/) (or [conference proceedings PDF](https://2019conference.ascilite.org/assets/proceedings/ASCILITE-2019-Proceedings-Final.pdf)) that attempted to explain one possible way of answering that question.
+The following resources are associated with an [ASCILITE'2019 paper](/blog/2019/08/08/exploring-knowledge-reuse-in-design-for-digital-learning-tweaks-h5p-constructive-templates-and-casa/) (or [conference proceedings PDF](https://2019conference.ascilite.org/assets/proceedings/ASCILITE-2019-Proceedings-Final.pdf)) that attempted to explain one possible way of answering that question.
 
-Not _the_ answer, but an answer that has since been successfully used to share design knowledge across hundreds of courses across multiple institutions (but mostly at my current institution). https://twitter.com/iainmacl/status/1304703627840323584 Early versions of the work are described in blog posts ([Card Interface](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) and [Content Interface](/blog2/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/)) and are currently (mid-2021) open source software ready to use on any Blackboard Learn instance ([Card Interface](https://djplaner.github.io/Card-Interface-Tweak/) or [Content Interface](https://djplaner.github.io/Content-Interface-Tweak/))
+Not _the_ answer, but an answer that has since been successfully used to share design knowledge across hundreds of courses across multiple institutions (but mostly at my current institution). https://twitter.com/iainmacl/status/1304703627840323584 Early versions of the work are described in blog posts ([Card Interface](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/) and [Content Interface](/blog/2019/02/24/exploring-knowledge-reuse-in-design-for-digital-learning/)) and are currently (mid-2021) open source software ready to use on any Blackboard Learn instance ([Card Interface](https://djplaner.github.io/Card-Interface-Tweak/) or [Content Interface](https://djplaner.github.io/Content-Interface-Tweak/))
 
 ### Working Software
 

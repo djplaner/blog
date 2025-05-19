@@ -5,10 +5,10 @@ categories:
 date: 2013-07-18 10:55:30+10:00
 next:
   text: BIM, Moodle, Simplepie, curl and HTTP proxy issue
-  url: /blog2/2013/07/26/bim-moodle-simplepie-curl-and-http-proxy-issue/
+  url: /blog/2013/07/26/bim-moodle-simplepie-curl-and-http-proxy-issue/
 previous:
   text: IRAC - Four questions for learning analytics interventions
-  url: /blog2/2013/07/14/irac-four-questions-for-learning-analytics-interventions/
+  url: /blog/2013/07/14/irac-four-questions-for-learning-analytics-interventions/
 title: How are they feeling - Semester 2 - Part 1
 type: post
 template: blog-post.html
@@ -35,7 +35,7 @@ pingbacks:
     []
     
 ---
-The following is a [repeat of this post](/blog2/2013/03/04/how-are-they-going/) for a different offering of the same course. It's also a quick how to primarily intended for the students in [the course](http://www.usq.edu.au/course/specification/2013/EDC3100-S1-2013-WEB-TWMBA.html). Summary and comparison first, then the how to.
+The following is a [repeat of this post](/blog/2013/03/04/how-are-they-going/) for a different offering of the same course. It's also a quick how to primarily intended for the students in [the course](http://www.usq.edu.au/course/specification/2013/EDC3100-S1-2013-WEB-TWMBA.html). Summary and comparison first, then the how to.
 
 Doing this now mainly in preparation for a session with the students tonight.
 

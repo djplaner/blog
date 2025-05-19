@@ -7,15 +7,15 @@ date: 2013-11-15 15:33:44+10:00
 next:
   text: Examining diffusion and sustainability of e-learning strategies thorugh weblog
     data
-  url: /blog2/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
+  url: /blog/2013/11/19/examining-diffusion-and-sustainability-of-e-learning-strategies-thorugh-weblog-data/
 previous:
   text: Evaluations of online learning activities based on LMS logs
-  url: /blog2/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/
+  url: /blog/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/
 title: Approaches for literature analysis
 type: post
 template: blog-post.html
 ---
-One of the on-going research projects we have underway (really just starting up) is an [analysis of the learning analytics literature](/blog2/2013/10/03/planning-an-analysis-of-the-learning-analytics-literature/). The following is an ad hoc record of a search into the literature around different approaches to literature analysis. The aim is to further inform the work. Essentially a summary of some readings.
+One of the on-going research projects we have underway (really just starting up) is an [analysis of the learning analytics literature](/blog/2013/10/03/planning-an-analysis-of-the-learning-analytics-literature/). The following is an ad hoc record of a search into the literature around different approaches to literature analysis. The aim is to further inform the work. Essentially a summary of some readings.
 
 ## Origins in Information Systems
 

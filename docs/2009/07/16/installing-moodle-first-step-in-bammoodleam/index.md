@@ -4,10 +4,10 @@ categories:
 date: 2009-07-16 12:10:56+10:00
 next:
   text: When senior management lose the plot
-  url: /blog2/2009/07/17/when-senior-management-lose-the-plot/
+  url: /blog/2009/07/17/when-senior-management-lose-the-plot/
 previous:
   text: BAM into Moodle approved - starting the process
-  url: /blog2/2009/07/16/bam-into-moodle-approved-starting-the-process/
+  url: /blog/2009/07/16/bam-into-moodle-approved-starting-the-process/
 title: Installing Moodle - first step in BAM/MoodleAM
 type: post
 template: blog-post.html
@@ -47,7 +47,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Having received [approval](/blog2/2009/07/16/bam-into-moodle-approved-starting-the-process/) to port BAM into Moodle, the first step is to get a Moodle development environment installed on my laptop. I'm meant to be getting a new one this week, however, local IT hasn't been forthcoming in when this is going to be available. Can't wait, I only have two days a week to work on this, and today is the last one this week.
+Having received [approval](/blog/2009/07/16/bam-into-moodle-approved-starting-the-process/) to port BAM into Moodle, the first step is to get a Moodle development environment installed on my laptop. I'm meant to be getting a new one this week, however, local IT hasn't been forthcoming in when this is going to be available. Can't wait, I only have two days a week to work on this, and today is the last one this week.
 
 ### What's the advice
 

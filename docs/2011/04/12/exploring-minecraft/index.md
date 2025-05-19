@@ -6,10 +6,10 @@ categories:
 date: 2011-04-12 21:46:00+10:00
 next:
   text: Safe, legal and ethical practice for ICTs in schools
-  url: /blog2/2011/04/13/safe-legal-and-ethical-practice-for-icts-in-schools/
+  url: /blog/2011/04/13/safe-legal-and-ethical-practice-for-icts-in-schools/
 previous:
   text: Group 4 Technologies - Activities
-  url: /blog2/2011/04/12/group-4-technologies-activities/
+  url: /blog/2011/04/12/group-4-technologies-activities/
 title: Exploring minecraft
 type: post
 template: blog-post.html

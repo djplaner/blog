@@ -9,10 +9,10 @@ categories:
 date: 2010-05-31 11:28:25+10:00
 next:
   text: Adding OPML feeds to BIM
-  url: /blog2/2010/06/01/adding-opml-feeds-to-bim/
+  url: /blog/2010/06/01/adding-opml-feeds-to-bim/
 previous:
   text: Adding email merge to BIM
-  url: /blog2/2010/05/30/2933/
+  url: /blog/2010/05/30/2933/
 title: The need for a third way
 type: post
 template: blog-post.html
@@ -132,7 +132,7 @@ Thaler and Sunstein's third way - libertarian paternalism - is based on two clai
 
 ### Connections with improving learning and teaching
 
-Early last year I borrowed and slightly modified Bigg's 3 levels of teaching to identify [3 levels of improving learning and teaching](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). Obviously there is a numerical connection between these 3 levels and the "3 ways" outlined above. The more I've thought about it, the more I realise that the connections are more significant than that, and that the "3rd way" seems to be a useful way to position my beliefs about how to improve learning and teaching within a university. Here goes my first attempt at explicating it.
+Early last year I borrowed and slightly modified Bigg's 3 levels of teaching to identify [3 levels of improving learning and teaching](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/#3levels). Obviously there is a numerical connection between these 3 levels and the "3 ways" outlined above. The more I've thought about it, the more I realise that the connections are more significant than that, and that the "3rd way" seems to be a useful way to position my beliefs about how to improve learning and teaching within a university. Here goes my first attempt at explicating it.
 
 #### Expanding upon the 3 levels of improving L&T
 
@@ -202,9 +202,9 @@ Comparison of assumptions in different approaches to planning (adapted from )
 | Reaction to uncertainty | Try to control | Work with chaos |
 | Effectiveness | Defines success as closing the gap with preferred future | Defines success as fit with the environment |
 
-I was always going to like this table as it encapsulates, extends and improves my long term thinking about how best to improve learning and teaching within universities. I've long ago accepted ([Jones, 2000](/blog2/publications/emergent-development-and-the-virtual-university/); [Jones et al, 2005)](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/)) that universities are complex adaptive systems and that any attempt to treat them as ordered systems is doomed to failure.
+I was always going to like this table as it encapsulates, extends and improves my long term thinking about how best to improve learning and teaching within universities. I've long ago accepted ([Jones, 2000](/blog/publications/emergent-development-and-the-virtual-university/); [Jones et al, 2005)](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/)) that universities are complex adaptive systems and that any attempt to treat them as ordered systems is doomed to failure.
 
-I particularly liked the row on shadow systems as it corresponds with what some colleagues and I ([Jones et al, 2004](/blog2/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/)) suggested sometime ago.
+I particularly liked the row on shadow systems as it corresponds with what some colleagues and I ([Jones et al, 2004](/blog/publications/the-rise-and-fall-of-a-shadow-system-lessons-for-enterprise-system-implementation/)) suggested sometime ago.
 
 In terms of connections with the stages of improving learning and teaching,
 

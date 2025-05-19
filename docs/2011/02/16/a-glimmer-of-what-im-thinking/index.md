@@ -5,10 +5,10 @@ categories:
 date: 2011-02-16 16:29:54+10:00
 next:
   text: '"bim2: Coordinator''s manage marking tab"'
-  url: /blog2/2011/02/16/bim2-coordinators-manage-marking-tab/
+  url: /blog/2011/02/16/bim2-coordinators-manage-marking-tab/
 previous:
   text: How hard is it to get a personalised class timetable?
-  url: /blog2/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
+  url: /blog/2011/02/16/how-hard-is-it-to-get-a-personalised-class-timetable/
 title: A glimmer of what I'm thinking
 type: post
 template: blog-post.html

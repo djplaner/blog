@@ -9,10 +9,10 @@ categories:
 date: 2010-06-07 13:29:24+10:00
 next:
   text: Default course sites and wizards
-  url: /blog2/2010/06/07/default-course-sites-and-wizards/
+  url: /blog/2010/06/07/default-course-sites-and-wizards/
 previous:
   text: The Wf Framework
-  url: /blog2/2010/06/07/the-wf-framework/
+  url: /blog/2010/06/07/the-wf-framework/
 title: The confusion of small and big changes
 type: post
 template: blog-post.html
@@ -64,7 +64,7 @@ pingbacks:
     []
     
 ---
-Over the last couple of days I've enjoyed a small discussion that has arisen out of some comments Kevin has made on my blog. This post is an attempt to partially engage with [the most recent comment](/blog2/2009/09/30/teaching-academic-staff-development-mastery-and-separation/#comment-3218). I echo Kevin's conclusion, I'd love to hear anyone else's take on this.
+Over the last couple of days I've enjoyed a small discussion that has arisen out of some comments Kevin has made on my blog. This post is an attempt to partially engage with [the most recent comment](/blog/2009/09/30/teaching-academic-staff-development-mastery-and-separation/#comment-3218). I echo Kevin's conclusion, I'd love to hear anyone else's take on this.
 
 ### The unanswered question
 
@@ -85,11 +85,11 @@ As I mentioned above and indicate by the heading for this section, I don't have 
 
 ### What I think is the answer
 
-Last I year I gave a presentation called [Herding cats, losing weight and how to improve learning and teaching](/blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) ([slides](http://www.slideshare.net/davidj/herding-cats-and-losing-weighthow-to-improve-learning-and-teaching?from=ss_embed) and [video](http://www.vimeo.com/8160473) are available). In that presentation, the analogy used is that revolutionary change is like [herding cats](http://www.youtube.com/watch?v=JWymXNPaU7g) and that evolutionary change is like losing weight. Using this analogy I argue that the herding cats approach to improve the quality of teaching at a University has not worked empirically and that there is significant theory to explain why it will never work. That same theory suggests that an evolutionary approach informed by lessons learned from weight loss, is much more promising.
+Last I year I gave a presentation called [Herding cats, losing weight and how to improve learning and teaching](/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) ([slides](http://www.slideshare.net/davidj/herding-cats-and-losing-weighthow-to-improve-learning-and-teaching?from=ss_embed) and [video](http://www.vimeo.com/8160473) are available). In that presentation, the analogy used is that revolutionary change is like [herding cats](http://www.youtube.com/watch?v=JWymXNPaU7g) and that evolutionary change is like losing weight. Using this analogy I argue that the herding cats approach to improve the quality of teaching at a University has not worked empirically and that there is significant theory to explain why it will never work. That same theory suggests that an evolutionary approach informed by lessons learned from weight loss, is much more promising.
 
 The general solution I suggest is one slide 200 or so (it was only a 60 minute presentation) and goes under the title "reflective alignment" and can be summarised as
 
-> All aspects of the learning and teaching environment are aligned to enable and encourage academic staff to reflect on their teaching with the aim of achieving [3rd order change](/blog2/2010/05/31/the-need-for-a-third-way/#orders).
+> All aspects of the learning and teaching environment are aligned to enable and encourage academic staff to reflect on their teaching with the aim of achieving [3rd order change](/blog/2010/05/31/the-need-for-a-third-way/#orders).
 
 Framed another way, the teaching environment at a university encourages and enables academics to be changing their thinking and practice of teaching. That is essentially do what they do now, make small changes each time they teach a course, but rather than changes that are not constrained by the same ways of thinking about teaching.
 
@@ -109,7 +109,7 @@ In the herding cats presentation a large part of the time was listing the parts 
     With the rise of quality assurance and corporate aproaches to management, this trend is getting worse.
     
 - Removal of autonomy;  
-    As I've [argued in a couple of posts](/blog2/2009/09/30/teaching-academic-staff-development-mastery-and-separation/) top-down management is removing academic autonomy and perhaps purpose and subsequently reducing academic motivation.
+    As I've [argued in a couple of posts](/blog/2009/09/30/teaching-academic-staff-development-mastery-and-separation/) top-down management is removing academic autonomy and perhaps purpose and subsequently reducing academic motivation.
 - Constraining systems;  
     Increasingly universities are using information systems to perform learning and teaching. Those systems are designed on particular assumptions that limit the ability to change. The most obvious example is the LMS (be it open or closed source). [This recent post](http://me.rruane.com/idworkshop/2010/06/05/lms-and-its-discontents/) includes discussion of this point around the LMS.
     

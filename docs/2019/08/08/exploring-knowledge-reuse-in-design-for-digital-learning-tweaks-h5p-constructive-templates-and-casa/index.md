@@ -8,16 +8,16 @@ categories:
 date: 2019-08-08 07:43:21+10:00
 next:
   text: How to share design knowledge in design for digital learning?
-  url: /blog2/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/
+  url: /blog/2019/11/28/how-to-share-design-knowledge-in-design-for-digital-learning/
 previous:
   text: Testing out h5p interactives and tracking
-  url: /blog2/2019/05/30/testing-out-h5p-interactives-and-tracking/
+  url: /blog/2019/05/30/testing-out-h5p-interactives-and-tracking/
 title: '"Exploring knowledge reuse in design for digital learning: tweaks, H5P, constructive
   templates and CASA"'
 type: post
 template: blog-post.html
 ---
-The following has been accepted for presentation at [ASCILITE'2019](https://2020conference.ascilite.org/). It’s based on work described in [earlier blog posts](/blog2/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/).
+The following has been accepted for presentation at [ASCILITE'2019](https://2020conference.ascilite.org/). It’s based on work described in [earlier blog posts](/blog/2019/01/30/improving-reuse-of-design-knowledge-in-a-lms/).
 
 Click on the images below to see full size.
 

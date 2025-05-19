@@ -5,10 +5,10 @@ categories:
 date: 2013-05-31 10:16:10+10:00
 next:
   text: '"Schools and computers: Tales of a digital romance"'
-  url: /blog2/2013/06/03/schools-and-computers-tales-of-a-digital-romance/
+  url: /blog/2013/06/03/schools-and-computers-tales-of-a-digital-romance/
 previous:
   text: One-size-fits-all formulas
-  url: /blog2/2013/05/29/one-size-fits-all-formulas/
+  url: /blog/2013/05/29/one-size-fits-all-formulas/
 title: Changes in links between student posts
 type: post
 template: blog-post.html
@@ -49,7 +49,7 @@ pingbacks:
 
 The following is a quick update on the visualisation of links between student blog posts in a course I'm currently teaching. As part of the course the students are expected to write blog posts reflecting on the learning (in the broadest possible sense) and also to link with other student posts.
 
-I did [an initial visualisation](/blog2/2013/03/18/visualising-the-blog-network-of-edc3100-students/) on March 18 using Gephi. This was early in the semester and it appeared that students hadn't really gotten the hang of linking (a significant part of this was how they were introduced to the task). The question was whether they would engage more fully as the semester progresses.
+I did [an initial visualisation](/blog/2013/03/18/visualising-the-blog-network-of-edc3100-students/) on March 18 using Gephi. This was early in the semester and it appeared that students hadn't really gotten the hang of linking (a significant part of this was how they were introduced to the task). The question was whether they would engage more fully as the semester progresses.
 
 As there's one more week to go in the course it's a good time to explore and I've been luck to make a connection with [Nick Kelly](http://www.usq.edu.au/adfi/team/nick) a new staff member at [ADFI](http://www.usq.edu.au/adfi/) at USQ. His background includes work around analytics and complex data sets. The following images are part of his early work with the data.
 

@@ -5,10 +5,10 @@ date: 2013-12-01 14:17:44+10:00
 next:
   text: '"Using the e-learning Maturity Model to Identify Good Practice in E-Learning
     #ascilite"'
-  url: /blog2/2013/12/02/using-the-e-learning-maturity-model-to-identify-good-practice-in-e-learning-ascilite/
+  url: /blog/2013/12/02/using-the-e-learning-maturity-model-to-identify-good-practice-in-e-learning-ascilite/
 previous:
   text: 'Interfaces for learning data visualisations - #ascilite.'
-  url: /blog2/2013/12/01/interfaces-for-learning-data-visualisations-ascilite/
+  url: /blog/2013/12/01/interfaces-for-learning-data-visualisations-ascilite/
 title: '"Sensemaking  - #ascilite"'
 type: post
 template: blog-post.html

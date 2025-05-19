@@ -6,10 +6,10 @@ categories:
 date: 2008-11-19 08:42:31+10:00
 next:
   text: Tool users, research, hammers and the law of instrument
-  url: /blog2/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/
+  url: /blog/2008/11/19/tool-users-research-hammers-and-the-law-of-instrument/
 previous:
   text: Evaluating an LMS by understanding the underpinning &quot;model&quot;
-  url: /blog2/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/
+  url: /blog/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/
 title: The model underpinning blackboard and how ACCT19064 uses it
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-As [proposed earlier](/blog2/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/) this post is the first step in attempting to evaluate the differences between three learning management systems. This post attempts to understand and describe the model underpinning Blackboard version 6.3.
+As [proposed earlier](/blog/2008/11/18/evaluating-an-lms-by-understanding-the-underpinning-model/) this post is the first step in attempting to evaluate the differences between three learning management systems. This post attempts to understand and describe the model underpinning Blackboard version 6.3.
 
 ### Hierarchical
 

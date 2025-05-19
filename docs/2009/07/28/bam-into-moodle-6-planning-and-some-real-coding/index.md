@@ -4,10 +4,10 @@ categories:
 date: 2009-07-28 11:27:24+10:00
 next:
   text: '"BAM into Moodle #7 - an eStudyGuide block"'
-  url: /blog2/2009/07/28/bam-into-moodle-7-an-estudyguide-block/
+  url: /blog/2009/07/28/bam-into-moodle-7-an-estudyguide-block/
 previous:
   text: The intervention - Webfuse design 1996-1999
-  url: /blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/
+  url: /blog/2009/07/27/the-intervention-webfuse-design-1996-1999/
 title: '"BAM into Moodle #6 - Planning and some real coding"'
 type: post
 template: blog-post.html
@@ -46,7 +46,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The [previous post](/blog2/2009/07/23/bam-into-moodle-5-coding-a-block/) in this series started me along the lines of actually coding something in Moodle. It was only a pretend thing but indicated that blocks are fairly simple to implement. That previous post also pondered about the need to do some planning. Which brings me to the two main tasks for today
+The [previous post](/blog/2009/07/23/bam-into-moodle-5-coding-a-block/) in this series started me along the lines of actually coding something in Moodle. It was only a pretend thing but indicated that blocks are fairly simple to implement. That previous post also pondered about the need to do some planning. Which brings me to the two main tasks for today
 
 1. Put some rough planning down on "paper".  
     I still don't know enough about Moodle and its model to get into detailed planning. This planning will be a rough outline of the major tasks that need to be done to give me a heads up.

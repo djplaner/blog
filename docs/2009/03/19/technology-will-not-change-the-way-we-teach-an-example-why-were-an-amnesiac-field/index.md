@@ -8,11 +8,11 @@ categories:
 date: 2009-03-19 16:26:13+10:00
 next:
   text: '"PhD Update - Week #4 - Frustration and progress"'
-  url: /blog2/2009/03/20/phd-update-week-4-frustration-and-progress/
+  url: /blog/2009/03/20/phd-update-week-4-frustration-and-progress/
 previous:
   text: Coordination, support and knowledge sharing associated with e-learning - where
     does your organisation fit?
-  url: /blog2/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/
+  url: /blog/2009/03/18/coordination-support-and-knowledge-sharing-associated-with-e-learning-where-does-your-organisation-fit/
 title: Technology will *not* change the way we teach - an example why we're an amnesiac
   field
 type: post
@@ -274,15 +274,15 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm currently working on chapter 2 of [my thesis](/blog2/research/phd-thesis/), which is an explication of some of what is known about "e-learning" through the lens of the Ps Framework.
+I'm currently working on chapter 2 of [my thesis](/blog/research/phd-thesis/), which is an explication of some of what is known about "e-learning" through the lens of the Ps Framework.
 
-Last night I posted a [draft of the section of the chapter](/blog2/2009/03/18/the-ps-framework/) that introduces the Ps Framework. Today, I've been working on getting a first draft of the "Past Experience" section of the chapter onto the blog.
+Last night I posted a [draft of the section of the chapter](/blog/2009/03/18/the-ps-framework/) that introduces the Ps Framework. Today, I've been working on getting a first draft of the "Past Experience" section of the chapter onto the blog.
 
-I've already mined some of this work for [a previous post](/blog2/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/) about how the lessons of the past can inform the present. That post even used the "doomed to repeat" quote.
+I've already mined some of this work for [a previous post](/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/) about how the lessons of the past can inform the present. That post even used the "doomed to repeat" quote.
 
 Today, I've come across a new quote, specifically about the learning technology field that was going to serve as a basis for this post. Then, as fate would have it, (pause for breath) I came across [this post](http://www.elearnspace.org/blog/2009/03/18/e-portfolios-3/) from George Siemens, which mentions [article](http://chronicle.com/wiredcampus/article/3668/electronic-portfolios-a-path-to-the-future-of-learning) in "The Wired Campus", which in turn references [this essay](http://www.academiccommons.org/commons/essay/making-common-cause-electronic-portfolios) from the current issue of [Academic Commons](http://www.academiccommons.org/).
 
-The topic is e-portfolios. Something of which I am a [self-confessed skeptic](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/).
+The topic is e-portfolios. Something of which I am a [self-confessed skeptic](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/).
 
 In this post I'm going to try to justify a link between the comments in the [article](http://chronicle.com/wiredcampus/article/3668/electronic-portfolios-a-path-to-the-future-of-learning) from "The Wired Campus" and an important lesson that we haven't learned from history. In particular, I'd like to create another couple of data points to support this claim from Oliver (2003)
 
@@ -355,9 +355,9 @@ Back to Littlejohn and Peacock (2003)
 
 > This is because technological issues have in the main been easier to solve than the more complex, social, cultural and organisational issues involved in mainstreaming technology in learning and teaching.
 
-It's easy to introduce an e-portfolio system and offer training sessions in how to use it. This is all an example of "level 2" knowledge about how to improve learning and teaching (see [this post introducing reflective alignment](/blog2/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/)) .
+It's easy to introduce an e-portfolio system and offer training sessions in how to use it. This is all an example of "level 2" knowledge about how to improve learning and teaching (see [this post introducing reflective alignment](/blog/2009/02/26/improving-university-teaching-learning-from-constructive-alignment-by-not-mandating-it/)) .
 
-One of the related reasons (at least for me) is the "technologists alliance" (Geoghegan, 2004) that is talked about in my [original comments on eportfolios](/blog2/2009/01/21/why-am-i-a-eportfolio-skeptic/).
+One of the related reasons (at least for me) is the "technologists alliance" (Geoghegan, 2004) that is talked about in my [original comments on eportfolios](/blog/2009/01/21/why-am-i-a-eportfolio-skeptic/).
 
 ### Conclusions
 

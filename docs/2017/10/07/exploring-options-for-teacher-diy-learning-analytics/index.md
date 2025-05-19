@@ -6,10 +6,10 @@ date: 2017-10-07 08:24:07+10:00
 next:
   text: Implications and questions for institutional learning analytics implementation
     arising from teacher DIY learning analytics
-  url: /blog2/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/
+  url: /blog/2017/10/19/implications-and-questions-for-institutional-learning-analytics-implementation-arising-from-teacher-diy-learning-analytics/
 previous:
   text: 'Learning, learning analytics and multiple levels: The problem of starvation'
-  url: /blog2/2017/09/25/learning-learning-analytics-and-multiple-levels-the-problem-of-starvation/
+  url: /blog/2017/09/25/learning-learning-analytics-and-multiple-levels-the-problem-of-starvation/
 tags:
 - teacherdiy
 title: Exploring options for teacher DIY learning analytics

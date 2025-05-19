@@ -6,10 +6,10 @@ categories:
 date: 2010-01-20 10:14:14+10:00
 next:
   text: Thoughts on DEHub research themes
-  url: /blog2/2010/01/22/thoughts-on-dehub-research-themes/
+  url: /blog/2010/01/22/thoughts-on-dehub-research-themes/
 previous:
   text: Questions about alternatives to curriculum mapping
-  url: /blog2/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
+  url: /blog/2010/01/19/questions-about-alternatives-to-curriculum-mapping/
 title: Plans for a AJET paper around the indicators project
 type: post
 template: blog-post.html

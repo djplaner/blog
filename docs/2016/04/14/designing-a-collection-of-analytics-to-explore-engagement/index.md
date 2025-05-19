@@ -6,10 +6,10 @@ categories:
 date: 2016-04-14 07:45:28+10:00
 next:
   text: Playing with Wikity
-  url: /blog2/2016/04/23/playing-with-wikity/
+  url: /blog/2016/04/23/playing-with-wikity/
 previous:
   text: Playing with D3
-  url: /blog2/2016/04/09/playing-with-d3/
+  url: /blog/2016/04/09/playing-with-d3/
 title: Designing a collection of analytics to explore "engagement"
 type: post
 template: blog-post.html
@@ -47,7 +47,7 @@ pingbacks:
       user_id: '0'
     
 ---
-I'm working with a group of fellow teacher educators here at USQ to explore what is happening around student engagement with our online courses. It's driven by the apparent less than stellar responses on [the QILT site](https://www.qilt.edu.au/) from our prior students around "engagement". It's also driven by some disquiet about the limitations of aggregated and de-contextualised data like that reported on the QILT site and also that arising from most learning analytics (e.g. as found [by Gašević et. al. (2015)](/blog2/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/).
+I'm working with a group of fellow teacher educators here at USQ to explore what is happening around student engagement with our online courses. It's driven by the apparent less than stellar responses on [the QILT site](https://www.qilt.edu.au/) from our prior students around "engagement". It's also driven by some disquiet about the limitations of aggregated and de-contextualised data like that reported on the QILT site and also that arising from most learning analytics (e.g. as found [by Gašević et. al. (2015)](/blog/2016/04/03/learning-analytics-should-not-promote-one-size-fits-all-the-effects-of-instructional-conditions-in-predicting-academic-success/).
 
 Hence our idea is to do something like
 
@@ -78,7 +78,7 @@ The analytics below could also be compared and analysed a variety of ways, most 
 
 ## Click/grade & Time/grade
 
-This cycle replicates some of the patterns from [Beer et al (2010)](http://ascilite.org.au/conferences/sydney10/procs/Beer-full.pdf) (somewhat shameless, but relevant self-citation) and related.  This is aimed at just getting the toe in the water, getting the process set up.  It's also arguably perhaps as removed from student learning/engagement as you can get. A [recent post](/blog2/2016/04/09/playing-with-d3/) showed off what one of these will look like. [![EDC3100 2015 Course and grades](images/26291023316_4748084e8f_n.jpg)](https://www.flickr.com/photos/david_jones/26291023316/in/dateposted-public/ "EDC3100 2015 Course and grades")
+This cycle replicates some of the patterns from [Beer et al (2010)](http://ascilite.org.au/conferences/sydney10/procs/Beer-full.pdf) (somewhat shameless, but relevant self-citation) and related.  This is aimed at just getting the toe in the water, getting the process set up.  It's also arguably perhaps as removed from student learning/engagement as you can get. A [recent post](/blog/2016/04/09/playing-with-d3/) showed off what one of these will look like. [![EDC3100 2015 Course and grades](images/26291023316_4748084e8f_n.jpg)](https://www.flickr.com/photos/david_jones/26291023316/in/dateposted-public/ "EDC3100 2015 Course and grades")
 
 This would also include the heatmap type analysis such as the following diagrams.
 
@@ -162,7 +162,7 @@ This is a fairly new area for me. Initially, it might focus on
 
 ## Learning design
 
-The plan here is to focus explicitly on the learning designs within the courses and explore what can be revealed using checkpoint and process analytics as outlined by [Lockyer et al (2013)](/blog2/2013/08/14/aligning-learning-analytics-with-learning-design/).
+The plan here is to focus explicitly on the learning designs within the courses and explore what can be revealed using checkpoint and process analytics as outlined by [Lockyer et al (2013)](/blog/2013/08/14/aligning-learning-analytics-with-learning-design/).
 
 ## Course specific
 

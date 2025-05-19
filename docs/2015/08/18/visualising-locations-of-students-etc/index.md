@@ -5,10 +5,10 @@ categories:
 date: 2015-08-18 16:40:40+10:00
 next:
   text: github and the Moodle - Step 3
-  url: /blog2/2015/08/20/github-and-the-moodle-step-3/
+  url: /blog/2015/08/20/github-and-the-moodle-step-3/
 previous:
   text: Why should a teacher know how to code?
-  url: /blog2/2015/08/18/the-role-of-coding-in-learning-and-teaching/
+  url: /blog/2015/08/18/the-role-of-coding-in-learning-and-teaching/
 title: Visualising locations of students etc
 type: post
 template: blog-post.html

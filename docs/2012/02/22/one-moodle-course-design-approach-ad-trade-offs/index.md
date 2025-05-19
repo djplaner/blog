@@ -5,10 +5,10 @@ categories:
 date: 2012-02-22 23:10:36+10:00
 next:
   text: Does school ruin learning?
-  url: /blog2/2012/02/25/does-school-ruin-learning/
+  url: /blog/2012/02/25/does-school-ruin-learning/
 previous:
   text: Faculty-centered, peer-reviewed online course development models
-  url: /blog2/2012/02/19/faculty-centered-peer-reviewed-online-course-development-models/
+  url: /blog/2012/02/19/faculty-centered-peer-reviewed-online-course-development-models/
 title: '"One Moodle course design: approach and trade-offs"'
 type: post
 template: blog-post.html
@@ -99,7 +99,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Almost 20 days ago I started [thinking about](/blog2/2012/02/03/thinking-about-moodle-course-design/) the design of the Moodle (1.9.x) site (called a StudyDesk at my institution) for my course. As O-Week draws to a close, the following describes the current final product.
+Almost 20 days ago I started [thinking about](/blog/2012/02/03/thinking-about-moodle-course-design/) the design of the Moodle (1.9.x) site (called a StudyDesk at my institution) for my course. As O-Week draws to a close, the following describes the current final product.
 
 _Note:_ The focus here is on the (pragmatic) physical design and layout of the site with just a bit of pedagogy/learning design.
 
@@ -138,7 +138,7 @@ Two main reasons for including the photos
 
 ### The weekly ramble
 
-I've implemented the [weekly ramble idea](/blog2/2012/02/19/designing-the-weekly-ramble/) for the first week using the Moodle book module. It's ugly and doesn't provide a lot of the extra functionality that I'd like, but it's there.
+I've implemented the [weekly ramble idea](/blog/2012/02/19/designing-the-weekly-ramble/) for the first week using the Moodle book module. It's ugly and doesn't provide a lot of the extra functionality that I'd like, but it's there.
 
 ### Future tweaks
 

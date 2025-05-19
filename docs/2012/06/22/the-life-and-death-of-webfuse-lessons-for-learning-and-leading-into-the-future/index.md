@@ -7,10 +7,10 @@ categories:
 date: 2012-06-22 14:06:05+10:00
 next:
   text: Learning analytics and complexity
-  url: /blog2/2012/06/24/learning-analytics-and-complexity/
+  url: /blog/2012/06/24/learning-analytics-and-complexity/
 previous:
   text: 'Learning Analytics: engaging with and changing learning and teaching'
-  url: /blog2/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
+  url: /blog/2012/05/31/learning-analytics-engaging-with-and-changing-learning-and-teaching/
 title: '"The life and death of Webfuse: lessons for learning and leading into the
   future"'
 type: post
@@ -81,7 +81,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is an attempt to formulate and structure some ideas for a paper for [ascilite'12](http://www.ascilite2012.org/call-for-papers) in Wellington. The aim is to convert my [PhD thesis](/blog2/research/phd-thesis/) - especially "_The information systems design theory for emergent university e-learning_" - into something useful and interesting for the ascilite crowd. The following is an attempt to organise the mish-mash of content I currently have into something sensible.
+The following is an attempt to formulate and structure some ideas for a paper for [ascilite'12](http://www.ascilite2012.org/call-for-papers) in Wellington. The aim is to convert my [PhD thesis](/blog/research/phd-thesis/) - especially "_The information systems design theory for emergent university e-learning_" - into something useful and interesting for the ascilite crowd. The following is an attempt to organise the mish-mash of content I currently have into something sensible.
 
 ### Abstract
 
@@ -91,7 +91,7 @@ Drawing on the 14-year life and death of an integrated online learning environme
 
 The introduction will briefly
 
-- re-connect this paper with the [1996 ascilite paper](/blog2/publications/the-design-of-an-integrated-online-learning-environment/) that outlined the initial design of Webfuse;
+- re-connect this paper with the [1996 ascilite paper](/blog/publications/the-design-of-an-integrated-online-learning-environment/) that outlined the initial design of Webfuse;
 - set that in the broader history of LMS (i.e. every institution had its own LMS) which then during the noughties got replaced by one of the big 2 or 3 enterprise LMS;
 - illustrate the problems and limited outcomes of industrial e-learning;
 - link this trend with the broader pushes toward strategic/top-down/rational management practices within universities;
@@ -137,10 +137,10 @@ The following are an initial attempt to expand out the three main sections. Comp
 
 For product, this will include :
 
-- Current nature - is the LMS.(supporting blog posts [one](/blog2/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/), [two](/blog2/2009/08/31/product-models-lms-bob-and-alternatives/)  
+- Current nature - is the LMS.(supporting blog posts [one](/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/), [two](/blog/2009/08/31/product-models-lms-bob-and-alternatives/)  
     An enterprise system that has little or no capacity for change or customisation at the institutional or individual level (changing look and feel doesn't count). Even open source LMS suffer problems here.
 - The problems include
-    - Having to change the behaviour of people, because technology is hard to change (must include the Sturgess and Nouwens quote [mentioned here](/blog2/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/)
+    - Having to change the behaviour of people, because technology is hard to change (must include the Sturgess and Nouwens quote [mentioned here](/blog/2009/04/06/quotes-from-snowden-and-the-mismatch-between-what-univeristy-e-learning-does-and-what-it-needs/)
     - More broadly the need for institutions to engage in large scale change projects because of new versions of the software.
     - Separation of data and services into separate systems (e.g. student records etc.)
     - Software that is generic and not specific to the institutional needs, the lowest-common denominator.
@@ -148,24 +148,24 @@ For product, this will include :
     - A focus on one tool. e.g. one discussion forum.
 - The alternative
 
-For process - will draw on a few prior publications (thesis-base process posts [one](/blog2/2009/05/25/teleological-and-ateleological-processes/) and [two](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/), [OODLA paper](/blog2/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/), [prior ascilite paper](/blog2/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/), posts ([procurement models](/blog2/2009/08/31/procurement-and-software-alternate-models-for-e-learning/), [role of people in LMS selection](/blog2/2010/09/28/the-nature-of-user-involvement-in-lms-selection-and-implementation/))
+For process - will draw on a few prior publications (thesis-base process posts [one](/blog/2009/05/25/teleological-and-ateleological-processes/) and [two](/blog/2009/06/05/teleological-design-definition-and-weaknesses/), [OODLA paper](/blog/publications/the-teleological-brake-on-icts-in-open-and-distance-learning/), [prior ascilite paper](/blog/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/), posts ([procurement models](/blog/2009/08/31/procurement-and-software-alternate-models-for-e-learning/), [role of people in LMS selection](/blog/2010/09/28/the-nature-of-user-involvement-in-lms-selection-and-implementation/))
 
 - Current nature - i.e. teleological, plan-driven  
     Need to not limit this solely to strategic management or IT process selection. Need to engage with the learning design folk who adopt this model for the design of teaching and see if there's an argument to make this better.
 - Limitations - drawn from the publications above.  
-    Also perhaps mention how it clashes with [how people learn](/blog2/2010/08/19/how-people-learn-and-implications-for-academic-development/).
+    Also perhaps mention how it clashes with [how people learn](/blog/2010/08/19/how-people-learn-and-implications-for-academic-development/).
 - The alternative - ateleological.  
     Draw on insights from the thesis, but also other work e.g. Laurillard and others' calls for teachers to be action researchers and the need for the organisation to engage with this. Perhaps even bring in Bigg's quality model.
     
     In particular, see if arguments/suggestions can be developed to enhance "course design" in ways that are more ateleological.
     
-    Mention [Cavallo](/blog2/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/) and the idea that any sort of change is learning and needs to connect to how people learn.
+    Mention [Cavallo](/blog/2009/06/19/why-minimium-standards-probably-wont-work-and-will-probably-become-maximum-standards/) and the idea that any sort of change is learning and needs to connect to how people learn.
     
 
-For people the focus will likely be on the (techno-)rational model as it is applied to how people think/respond and also how they are organised. (A [people blog post](/blog2/2006/10/25/the-missing-ps-people/) from the thesis)
+For people the focus will likely be on the (techno-)rational model as it is applied to how people think/respond and also how they are organised. (A [people blog post](/blog/2006/10/25/the-missing-ps-people/) from the thesis)
 
-- Current situation - people are assumed to be [rational](/blog2/2009/08/16/people-cognition-rationality-and-e-learning/) and the application of logical decomposition that splits people up into sub-groups. Also an emphasis on cheapness in support rolls. There's also the problem raised towards the end [of this post](/blog2/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/) where the innovative central staff are trying to get people to use what's been provided. Perhaps linked to the chasm.
+- Current situation - people are assumed to be [rational](/blog/2009/08/16/people-cognition-rationality-and-e-learning/) and the application of logical decomposition that splits people up into sub-groups. Also an emphasis on cheapness in support rolls. There's also the problem raised towards the end [of this post](/blog/2009/02/11/one-reason-people-dont-take-to-new-e-learning-technology/) where the innovative central staff are trying to get people to use what's been provided. Perhaps linked to the chasm.
 - Problems.  
-    Politics caused by organisational structures. The frontline support tasks being taken on by roles that are amongst the lowest paid in the organisation and focused tightly on the products being used rather than broad skills. The [chasm](/blog2/2009/08/09/the-chasm/) and how most approaches are targeting (intentionally or not) the early adopters. Chinese whispers. Starvation of requirements. Gaming of the system to fit the teleological constraints
+    Politics caused by organisational structures. The frontline support tasks being taken on by roles that are amongst the lowest paid in the organisation and focused tightly on the products being used rather than broad skills. The [chasm](/blog/2009/08/09/the-chasm/) and how most approaches are targeting (intentionally or not) the early adopters. Chinese whispers. Starvation of requirements. Gaming of the system to fit the teleological constraints
 - Alternative.  
     Cross-disciplinary, high-skilled, distributed teams close to the users..

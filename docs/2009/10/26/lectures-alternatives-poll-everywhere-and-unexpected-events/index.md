@@ -6,10 +6,10 @@ categories:
 date: 2009-10-26 14:15:21+10:00
 next:
   text: Future of universities - an age old problem
-  url: /blog2/2009/11/09/future-of-universities-an-age-old-problem/
+  url: /blog/2009/11/09/future-of-universities-an-age-old-problem/
 previous:
   text: The bureaucratic model and the grammar and future of universities
-  url: /blog2/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
+  url: /blog/2009/10/26/the-bureaucratic-model-and-the-grammar-and-future-of-universities/
 title: Lectures, alternatives, poll everywhere and unexpected events
 type: post
 template: blog-post.html
@@ -62,13 +62,13 @@ pingbacks:
     []
     
 ---
-This Wednesday I'm involved with an [experiment and presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) that is seeking to test out some alternatives for lectures/presentations. As it happens, the last week has brought a couple of events that are (so far) helping the case for the experiment. These are described below.
+This Wednesday I'm involved with an [experiment and presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) that is seeking to test out some alternatives for lectures/presentations. As it happens, the last week has brought a couple of events that are (so far) helping the case for the experiment. These are described below.
 
 ### And now for a word from our sponsors...
 
 The aim of the experiment it to break out of the geographic limitations of participation in lectures/presentations. Anyone with a web browser can participate (a Twitter account and mobile phone will increase your ability to participate, but aren't necessary). The more people who use these medium, the better. So you are invited.
 
-More detail on the [experiment/presentation page](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/).
+More detail on the [experiment/presentation page](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/).
 
 We return now to your regularly scheduled program
 

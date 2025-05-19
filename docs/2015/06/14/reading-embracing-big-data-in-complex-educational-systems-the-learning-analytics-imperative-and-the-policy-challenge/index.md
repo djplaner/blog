@@ -7,10 +7,10 @@ categories:
 date: 2015-06-14 18:05:07+10:00
 next:
   text: Import/export ePubs into the Moodle book module
-  url: /blog2/2015/06/15/importexport-epubs-into-the-moodle-book-module/
+  url: /blog/2015/06/15/importexport-epubs-into-the-moodle-book-module/
 previous:
   text: Analysing Moodle community forum discussions about the Moodle book module
-  url: /blog2/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/
+  url: /blog/2015/06/09/analysing-moodle-community-forum-discussions-about-the-moodle-book-module/
 title: '"Reading - Embracing Big Data in Complex Educational Systems: The Learning
   Analytics Imperative and the Policy Challenge"'
 type: post
@@ -51,11 +51,11 @@ pingbacks:
 ---
 The following is a summary and ad hoc thoughts on Macfadyen et al (2014).
 
-There's much to like in the paper. But the basic premise I see in the paper is that to fix the problems of the current inappropriate [teleological processes](/blog2/2009/06/05/teleological-design-definition-and-weaknesses/) used in institutional strategic planning and policy setting is an enhanced/adaptive teleological process. The impression I take from the paper is that it's still missing the need for institutional to be enabling actors within institutions to integrate greater use of [ateleological processes](/blog2/2009/06/05/ateleological-processes-definition-and-weaknesses/) (see [Clegg, 2002](https://books.google.com.au/books?hl=en&lr=&id=LQjAeCvVCWkC&oi=fnd&pg=PR1&dq=clegg+management+organisation+paradoxes&ots=brUNk7RBbR&sig=WuyIh-Um5t6QsOSafg72zXtA8SU#v=onepage&q=planning%20learning&f=false)). Of course, Clegg goes onto do the obvious and develop a "dialectical approach to strategy" that merges the two extremes.
+There's much to like in the paper. But the basic premise I see in the paper is that to fix the problems of the current inappropriate [teleological processes](/blog/2009/06/05/teleological-design-definition-and-weaknesses/) used in institutional strategic planning and policy setting is an enhanced/adaptive teleological process. The impression I take from the paper is that it's still missing the need for institutional to be enabling actors within institutions to integrate greater use of [ateleological processes](/blog/2009/06/05/ateleological-processes-definition-and-weaknesses/) (see [Clegg, 2002](https://books.google.com.au/books?hl=en&lr=&id=LQjAeCvVCWkC&oi=fnd&pg=PR1&dq=clegg+management+organisation+paradoxes&ots=brUNk7RBbR&sig=WuyIh-Um5t6QsOSafg72zXtA8SU#v=onepage&q=planning%20learning&f=false)). Of course, Clegg goes onto do the obvious and develop a "dialectical approach to strategy" that merges the two extremes.
 
 Is my characterisation of the adaptive models presented here appropriate?
 
-I can see very strong connections with the arguments made in this paper between institutions and learning analytics and the reasons why I think [e-learning is a bit like teenage sex](/blog2/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/).
+I can see very strong connections with the arguments made in this paper between institutions and learning analytics and the reasons why I think [e-learning is a bit like teenage sex](/blog/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/).
 
 But given the problems with "e-learning" (i.e. most of it isn't much good in pedagogical terms) what does that say about the claim that we're in an age of "big data" in education. If the pedagogy of most e-learning is questionable, is the data being gathered any use?
 
@@ -78,7 +78,7 @@ It seems to me that this is conflating two separate ideas, they are
     i.e. the build it and they will come approach won't work. Which I think is the real problem and is indicative of the sort of simplistic planning processes that the paper argues against.
     
 
-These are two very different ideas. I'd also argue that while these alone won't enable the change, they are both necessary for the change. I'd also argue that institutional change (by itself) is also unlikely to to achieve the type of cultural change required. The argument presented in seeking to explain ["Why e-learning is a bit like teenage sex"](/blog2/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/) is essentially this. That institutional attempts to enable and encourage changed in learning practice toward e-learning fail because they are too focused on institutional concerns (large scale strategic change) and not enough on enabling elements of piecemeal growth (i.e. bricolage).
+These are two very different ideas. I'd also argue that while these alone won't enable the change, they are both necessary for the change. I'd also argue that institutional change (by itself) is also unlikely to to achieve the type of cultural change required. The argument presented in seeking to explain ["Why e-learning is a bit like teenage sex"](/blog/2015/04/22/why-is-e-learning-like-teenage-sex-and-what-can-be-done-about-it/) is essentially this. That institutional attempts to enable and encourage changed in learning practice toward e-learning fail because they are too focused on institutional concerns (large scale strategic change) and not enough on enabling elements of piecemeal growth (i.e. bricolage).
 
 **The Reusability Paradox and "at scale"**
 
@@ -142,7 +142,7 @@ Identifies the following requirements for LA tools (p. 21) - emphasis added
 > 2. Simple connection with institutional objectives at different levels: information needs to be understood by stakeholders with no extra effort. Upper management needs insight connected with different organizational aspects than an educator. _User–guided design is of the utmost importance in this area_.
 > 3. Simple deployment of effective interventions, and _an integrated and sustained overall refinement procedure allowing reflection_
 
-Some nice overlaps with the [IRAC framework](/blog2/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) here.
+Some nice overlaps with the [IRAC framework](/blog/2013/10/03/the-irac-framework-locating-the-performance-zone-for-learning-analytics/) here.
 
 It does raise interesting questions about what are institutional objectives? Even more importantly how easy it is or isn't to identify what those are and what they mean at the various levels of the institution.
 

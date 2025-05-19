@@ -5,10 +5,10 @@ categories:
 date: 2012-03-06 14:24:15+10:00
 next:
   text: '"Some challenges for #pstn"'
-  url: /blog2/2012/03/09/some-challenges-for-pstn/
+  url: /blog/2012/03/09/some-challenges-for-pstn/
 previous:
   text: 'Implementing a course barometer in Moodle: A kludge'
-  url: /blog2/2012/03/05/implementing-a-course-barometer-in-moodle-a-kludge/
+  url: /blog/2012/03/05/implementing-a-course-barometer-in-moodle-a-kludge/
 title: And it's back to a lecture
 type: post
 template: blog-post.html
@@ -177,7 +177,7 @@ For a variety of reasons I returned to giving a lecture today. Here's a quick re
 
 ### Why?
 
-As originally [explained here](/blog2/2012/02/10/how-to-replace-the-lecture/) I wanted to move away from the idea of a lecture. And I [have implemented the ramble idea](/blog2/2012/02/19/designing-the-weekly-ramble/) and used it as a basis for lectures/tutorials last week.
+As originally [explained here](/blog/2012/02/10/how-to-replace-the-lecture/) I wanted to move away from the idea of a lecture. And I [have implemented the ramble idea](/blog/2012/02/19/designing-the-weekly-ramble/) and used it as a basis for lectures/tutorials last week.
 
 However, the pull of the lecture is great. So, I gave into temptation and gave a lecture. Sitting here now, I am wondering why I did this to myself and the students. The first part of the lecture was your typical diatribe and done badly. Little or no engagement from the students and achieved little more than consuming some time.
 

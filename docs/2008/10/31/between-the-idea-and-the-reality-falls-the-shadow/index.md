@@ -5,10 +5,10 @@ categories:
 date: 2008-10-31 10:38:53+10:00
 next:
   text: '"Extending the classroom: Open content and open teaching: Summary and reflection"'
-  url: /blog2/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/
+  url: /blog/2008/11/11/extending-the-classroom-open-content-and-open-teaching-summary-and-reflection/
 previous:
   text: Readings on Design-based research
-  url: /blog2/2008/10/30/readings-on-design-based-research/
+  url: /blog/2008/10/30/readings-on-design-based-research/
 title: Between the idea and the reality,.... falls the shadow
 type: post
 template: blog-post.html
@@ -178,7 +178,7 @@ There appears to be some value for IT and broader organisational management to o
 
 Perhaps rather than seeking to squash shadow systems, IT divisions should seek to encourage the development of shadow systems and put in place practices and support which mitigate some of the flaws of shadow systems. Such a practice might leverage the increasing capability of the current generation of end-user tools that make "shadow system" development so easy and also seek to address the problem of reducing costs most IT divisions seek.
 
-There is a great chance that shadow systems are almost certainly going to be the source of more innovation than central IT divisions. This is because there will be more diversity of perspective around the development of shadow systems than exist within the development arms of central IT divisions. And [diversity](/blog2/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/) and through it perspective shift is a necessary condition for innovation.
+There is a great chance that shadow systems are almost certainly going to be the source of more innovation than central IT divisions. This is because there will be more diversity of perspective around the development of shadow systems than exist within the development arms of central IT divisions. And [diversity](/blog/2008/10/29/the-importance-of-diversity-to-improving-learning-and-teaching/) and through it perspective shift is a necessary condition for innovation.
 
 ### References
 

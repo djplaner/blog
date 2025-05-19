@@ -4,10 +4,10 @@ categories:
 date: 2009-09-28 15:01:58+10:00
 next:
   text: Small changes in "Lectures" - ustream, votapedia
-  url: /blog2/2009/09/28/small-changes-in-lectures-ustream-votapedia/
+  url: /blog/2009/09/28/small-changes-in-lectures-ustream-votapedia/
 previous:
   text: 'e&#038;i report #3 - 1st-15th September'
-  url: /blog2/2009/09/15/ei-report-3-1st-15th-september/
+  url: /blog/2009/09/15/ei-report-3-1st-15th-september/
 title: Reflection and moving on - herding cats and losing weight
 type: post
 template: blog-post.html
@@ -29,7 +29,7 @@ pingbacks:
     []
     
 ---
-For the last couple of weeks I have been focused on developing and giving a presentation titled [Herding cats and losing weight: How to improve learning and teaching.](/blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) The abstract, slides and video of the talk are all available on [the presentation page](/blog2/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/). The following is an attempt to reflect on the talk, how it went and some recent readings/events which may influence how it goes moving forward.
+For the last couple of weeks I have been focused on developing and giving a presentation titled [Herding cats and losing weight: How to improve learning and teaching.](/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/) The abstract, slides and video of the talk are all available on [the presentation page](/blog/2009/09/14/herding-cats-losing-weight-and-how-to-improve-learning-and-teaching-2/). The following is an attempt to reflect on the talk, how it went and some recent readings/events which may influence how it goes moving forward.
 
 ### What was the point
 

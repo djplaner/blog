@@ -5,10 +5,10 @@ categories:
 date: 2015-10-31 15:25:36+10:00
 next:
   text: '"Exploring "post adoptive usage" of the #moodle Book module - a draft proposal"'
-  url: /blog2/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
+  url: /blog/2015/11/06/exploring-post-adoptive-usage-of-the-moodle-book-module-a-draft-proposal/
 previous:
   text: The CSCW view of Knowledge Management
-  url: /blog2/2015/10/30/the-cscw-view-of-knowledge-management/
+  url: /blog/2015/10/30/the-cscw-view-of-knowledge-management/
 title: Anyone capturing users' post-adoptive behaviours for the LMS? Implications?
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ Jasperson et al (2005) develop a "Conceptual model of post-adoptive behaviour" s
 
 They also identify that there is an "insufficient understanding of the technology sensemaking process" (p. 544). The model suggests that technology sensemaking is a pre-cursor to "user-initiated learning interventions", examples of which include: formal or informal training opportunities; accessing external documentation; observing others; and, experimenting with IT application features.
 
-Perhaps this offers a possible explanation for complaints about academics not using the provided training/documentation for institutional digital learning systems? Perhaps this might offer some insight into the apparent ["low digital fluency of faculty" problem](/blog2/2014/09/12/you-want-digitally-fluent-faculty/).
+Perhaps this offers a possible explanation for complaints about academics not using the provided training/documentation for institutional digital learning systems? Perhaps this might offer some insight into the apparent ["low digital fluency of faculty" problem](/blog/2014/09/12/you-want-digitally-fluent-faculty/).
 
 [![conceptual model of post-adoptive behaviours](images/22601110506_60821af431.jpg)](https://www.flickr.com/photos/david_jones/22601110506/in/dateposted-public/ "conceptual model of post-adoptive behaviours")
 

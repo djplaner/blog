@@ -5,10 +5,10 @@ categories:
 date: 2010-04-09 21:22:14+10:00
 next:
   text: Two types of process and what university e-learning continues to get wrong
-  url: /blog2/2010/04/12/two-types-of-process-and-what-university-e-learning-continues-to-get-wrong/
+  url: /blog/2010/04/12/two-types-of-process-and-what-university-e-learning-continues-to-get-wrong/
 previous:
   text: 'Reducing the aggravation of student blogging: The story of BIM'
-  url: /blog2/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/
+  url: /blog/2010/04/07/reducing-the-aggravation-of-student-blogging-the-story-of-bim/
 title: '"Phd Update #26 - Getting to first draft stage"'
 type: post
 template: blog-post.html
@@ -17,7 +17,7 @@ Two weekly PhD updates in a row, will be interesting to see how long this keeps 
 
 ### What I did last week
 
-The [aim for this week](/blog2/2010/04/02/phd-update-25-a-return-to-discipline/) was to get chapters 2 and 3 of the thesis into first draft stage and sent to the supervisor for comment. If possible, get chapter 4 into the same stage.
+The [aim for this week](/blog/2010/04/02/phd-update-25-a-return-to-discipline/) was to get chapters 2 and 3 of the thesis into first draft stage and sent to the supervisor for comment. If possible, get chapter 4 into the same stage.
 
 2 and 3 were sent on Tuesday. Chapter 4 is about 3/4 of the way into first draft stage. Hope to have that done over the weekend.
 

@@ -4,10 +4,10 @@ categories:
 date: 2011-07-20 12:22:04+10:00
 next:
   text: What story do the numbers tell?
-  url: /blog2/2011/07/24/what-story-do-the-numbers-tell/
+  url: /blog/2011/07/24/what-story-do-the-numbers-tell/
 previous:
   text: Teaching teachers for the future
-  url: /blog2/2011/07/19/teaching-teachers-for-the-future/
+  url: /blog/2011/07/19/teaching-teachers-for-the-future/
 title: Can you be a native in a world that is always changing?
 type: post
 template: blog-post.html
@@ -18,7 +18,7 @@ So I'm working on an assignment examining and critiquing the government's [Digit
 
 I think it will fail mostly because that it fails to recognise what Collins and Halverson (2009, p. xiv) describe as the "deep incompatibilities between technology and schooling". i.e. the digital world that the DER is trying to prepare students for is itself largely incompatible with the nature of schooling.
 
-In addition, as I read more about the DER and its various sub-projects, the more I am seeing the thinking of digital immigrants. I'm not sure that the people developing the DER sub-projects actually understand the nature of the digital world. At least not in its current incarnation in terms of social media, Web 2.0, etc. An argument I extended a bit in the comments section of [this post from yesterday](/blog2/2011/07/19/teaching-teachers-for-the-future/).
+In addition, as I read more about the DER and its various sub-projects, the more I am seeing the thinking of digital immigrants. I'm not sure that the people developing the DER sub-projects actually understand the nature of the digital world. At least not in its current incarnation in terms of social media, Web 2.0, etc. An argument I extended a bit in the comments section of [this post from yesterday](/blog/2011/07/19/teaching-teachers-for-the-future/).
 
 I hear the groans and the cries of "bingo" from those playing educational technology/Captain Obvious bingo. Surely not the old digital immigrants/natives silliness again? Well, yes, but not not the Prensky version, the Barlow version (which I believe arose prior to Prensky) described here by [Lankshear and Bigum (1998)](http://www.schools.ash.org.au/litweb/bigum.html)
 

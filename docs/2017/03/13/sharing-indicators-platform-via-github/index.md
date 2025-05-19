@@ -4,10 +4,10 @@ categories:
 date: 2017-03-13 15:16:32+10:00
 next:
   text: Adding a custom library and a semi-real application - Indicators notebook(s)
-  url: /blog2/2017/03/16/adding-a-custom-library-and-a-semi-real-application-indicators-notebooks/
+  url: /blog/2017/03/16/adding-a-custom-library-and-a-semi-real-application-indicators-notebooks/
 previous:
   text: 'Jupyter notebook indicators platform: Baby step #1 - Finding an ORM'
-  url: /blog2/2017/03/12/jupyter-notebook-indicators-platform-baby-step-1-finding-an-orm/
+  url: /blog/2017/03/12/jupyter-notebook-indicators-platform-baby-step-1-finding-an-orm/
 title: Sharing "indicators platform" via github
 type: post
 template: blog-post.html

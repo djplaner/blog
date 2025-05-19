@@ -6,10 +6,10 @@ categories:
 date: 2009-02-13 09:29:09+10:00
 next:
   text: Innovation - rendering the hitherto non-existent blindingly obvious
-  url: /blog2/2009/02/13/innovation-rendering-the-hitherto-non-existent-blindingly-obvious/
+  url: /blog/2009/02/13/innovation-rendering-the-hitherto-non-existent-blindingly-obvious/
 previous:
   text: It&#039;s always easier to say sorry than to ask for permission
-  url: /blog2/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
+  url: /blog/2009/02/12/its-always-easier-to-say-sorry-than-to-ask-for-permission/
 title: The emperor has no clothes - why is the learning and teaching peformance fund
   naked
 type: post
@@ -102,7 +102,7 @@ There are two data sources used by the fund:
     
     ### Why is it broken
     
-    A couple of weeks ago I published [a post](/blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) titled "Somethings that are broken with the evaluation of university teaching". Essentially it is a collection of links pointing out that "level 1 smile sheets" (surveys that ask learners "were you satisfied") have significant and well-known limitations in validity and value. In particular the following quote is from [this article](http://www.trainingmag.com/msg/content_display/training/e3iwtqVX4kKzJL%2BEcpyFJFrFA%3D%3D)
+    A couple of weeks ago I published [a post](/blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) titled "Somethings that are broken with the evaluation of university teaching". Essentially it is a collection of links pointing out that "level 1 smile sheets" (surveys that ask learners "were you satisfied") have significant and well-known limitations in validity and value. In particular the following quote is from [this article](http://www.trainingmag.com/msg/content_display/training/e3iwtqVX4kKzJL%2BEcpyFJFrFA%3D%3D)
     
     > In some instances, there is not only a low correlation between Level I and subsequent levels of evaluation, but a negative one.
     

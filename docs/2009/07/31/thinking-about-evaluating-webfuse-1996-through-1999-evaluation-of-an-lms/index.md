@@ -10,10 +10,10 @@ categories:
 date: 2009-07-31 13:44:16+10:00
 next:
   text: Some early results from Webfuse evaluation
-  url: /blog2/2009/07/31/some-early-results-from-webfuse-evaluation/
+  url: /blog/2009/07/31/some-early-results-from-webfuse-evaluation/
 previous:
   text: Gaps, shadow systems and the VLE/LMS
-  url: /blog2/2009/07/31/gaps-shadow-systems-and-the-vlelms/
+  url: /blog/2009/07/31/gaps-shadow-systems-and-the-vlelms/
 title: Thinking about evaluating Webfuse (1996 through 1999) - evaluation of an LMS?
 type: post
 template: blog-post.html
@@ -38,7 +38,7 @@ pingbacks:
       user_id: '0'
     
 ---
-For the last couple of weeks I've been working on chapter 4 of [my thesis](/blog2/research/phd-thesis/). I've worked my way through explaining the context ([general context](/blog2/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) and ([use of e-learning](/blog2/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/)), the [design guidelines](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/) and the implementation (parts [1](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-1/), [2](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-2/) and [3](/blog2/2009/07/29/the-design-and-implementation-of-webfuse-part-3/)). I've now reached the evaluation section, where I'm meant to describe what happened with the use of Webfuse and make some judgement calls about how it went.
+For the last couple of weeks I've been working on chapter 4 of [my thesis](/blog/research/phd-thesis/). I've worked my way through explaining the context ([general context](/blog/2009/07/26/build-it-and-they-will-come-starting-with-the-institution/) and ([use of e-learning](/blog/2009/07/27/use-of-e-learning-cqu-up-to-1996-or-so/)), the [design guidelines](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/) and the implementation (parts [1](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-1/), [2](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-2/) and [3](/blog/2009/07/29/the-design-and-implementation-of-webfuse-part-3/)). I've now reached the evaluation section, where I'm meant to describe what happened with the use of Webfuse and make some judgement calls about how it went.
 
 The purpose of this post is to make concrete what I'm thinking about doing. A sort of planning document. I don't think it will be of much use to most others, though the following section on related work might be some interest.
 
@@ -86,13 +86,13 @@ Some of the data from Ken's and Col's presentation about Blackboard:
 
 #### Malikowski, Thompson and Theis
 
-Malikowski et al (2007) proposed a model for evaluation the use of course management systems. The following figure is from their paper. I've made use of their work when examining the [quantity of usage of features](/blog2/2009/04/23/usage-of-e-learning-quantity/#features) (read this if you want more information on their work) of an LMS in my thesis.
+Malikowski et al (2007) proposed a model for evaluation the use of course management systems. The following figure is from their paper. I've made use of their work when examining the [quantity of usage of features](/blog/2009/04/23/usage-of-e-learning-quantity/#features) (read this if you want more information on their work) of an LMS in my thesis.
 
 [![Malikowski Flow Chart](images/3465729160_255865ebc6_m.jpg)](http://www.flickr.com/photos/david_jones/3465729160/ "Malikowski Flow Chart by David T Jones, on Flickr")
 
 ### Purpose of the evaluation
 
-The [design guidelines](/blog2/2009/07/27/the-intervention-webfuse-design-1996-1999/) underpinning Webfuse in this period were:
+The [design guidelines](/blog/2009/07/27/the-intervention-webfuse-design-1996-1999/) underpinning Webfuse in this period were:
 
 - Webfuse will be a web publishing tool
 - Webfuse will be an integrated online learning environment

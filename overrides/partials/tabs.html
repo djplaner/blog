@@ -6,7 +6,8 @@
             {{ item.render(nav_item) }}
             {% endfor %}
             <li class="md-tabs__item">
-                <a href="{{ config.site_url }}feed/feed.rss" class="md-tabs__link">
+                <a href="{{ config.site_url }}feed/feed.rss" class="md-tabs__link"
+                    aria-label="RSS feed for {{ config.site_name | e }}" title="RSS feed for {{ config.site_name | e }}">
                     <span class="twemoji">
                         {% include ".icons/fontawesome/solid/rss.svg" %}
                     </span>

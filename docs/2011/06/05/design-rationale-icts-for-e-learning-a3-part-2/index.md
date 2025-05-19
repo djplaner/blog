@@ -6,10 +6,10 @@ categories:
 date: 2011-06-05 22:57:30+10:00
 next:
   text: A simple class management plan for beginning teachers
-  url: /blog2/2011/06/16/a-simple-class-management-plan-for-beginning-teachers/
+  url: /blog/2011/06/16/a-simple-class-management-plan-for-beginning-teachers/
 previous:
   text: Learner profile - ICTs for E-Learning A3 - Part 1
-  url: /blog2/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/
+  url: /blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/
 title: Design Rationale - ICTs for E-Learning A3
 type: post
 template: blog-post.html
@@ -124,7 +124,7 @@ pingbacks:
 ---
 ### Introduction
 
-The following describes the rationale behind the design of the first unit of work to be completed in a Year 11 Information and Processing Technology (IPT) course taught using the new senior Queensland IPT syllabus (QSA, 2010). The design of this unit is informed by the outcomes of a [profile of potential students](/blog2/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/) in this course. As such the design is informed by connectivism and attempts to embed students within authentic practice as an IPT professional. The contents of this document include the following sections:
+The following describes the rationale behind the design of the first unit of work to be completed in a Year 11 Information and Processing Technology (IPT) course taught using the new senior Queensland IPT syllabus (QSA, 2010). The design of this unit is informed by the outcomes of a [profile of potential students](/blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/) in this course. As such the design is informed by connectivism and attempts to embed students within authentic practice as an IPT professional. The contents of this document include the following sections:
 
 - Rationale;  
     Describes the rationale and purpose of the overall design approach for the 2-year senior IPT course.
@@ -137,7 +137,7 @@ The following describes the rationale behind the design of the first unit of wor
 
 ### Rationale
 
-As argued in the [learner profile](/blog2/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/) the design of this course and unit is based on the assumption that connectivism - and its resonances and overlaps with social constructivism and constuctionism – offer the most effective method for helping IPT students learn. As a result, the design of this course and unit is focused on creating a learning experience that engages the students within the community of users and developers around a popular open source tool. Throughout the 2 years of the course the students will use the open source tool and its community to engage in professional IPT practices and make the connections necessary to demonstrate learning.
+As argued in the [learner profile](/blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/) the design of this course and unit is based on the assumption that connectivism - and its resonances and overlaps with social constructivism and constuctionism – offer the most effective method for helping IPT students learn. As a result, the design of this course and unit is focused on creating a learning experience that engages the students within the community of users and developers around a popular open source tool. Throughout the 2 years of the course the students will use the open source tool and its community to engage in professional IPT practices and make the connections necessary to demonstrate learning.
 
 #### Tool selection
 
@@ -166,7 +166,7 @@ The company will – as with most technical services companies – employ a rang
 
 In keeping with the connectivist principles – especially the widespread availability of information about the chosen technical tool - there will be little to no direct instruction by the teacher. A typical lesson will revolve around the students being assigned a to do item within the company’s project management software. The to do item will typically: explain what the task is to complete; specify whether the task is to be completed alone or as part of a team; and, provide some initial pointers to information that may help in completing the task. Each to do is the next problem the students need to solve. It is their responsibility to identify how and what they need to solve each problem. The information within the to do is designed to act as scaffolding to provide students with some initial guidance in completing the to do. As the course progresses, the amount of this scaffolding will be reduced appropriately.
 
-Solving each to do will involve application of the Design, Develop and Evaluate (DDE) cycle as explained in the [learner profile](/blog2/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/) and the IPT syllabus (QSA, 2010). In keeping with industry practice the students will be expected to update the project management software with the approach used to solve the problem, document any additional information, and to indicate the current status of the task. By late in the first year of the course it is expected that students will be starting to create to dos for themselves and other students as part of standard practice as an IPT professional.
+Solving each to do will involve application of the Design, Develop and Evaluate (DDE) cycle as explained in the [learner profile](/blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/) and the IPT syllabus (QSA, 2010). In keeping with industry practice the students will be expected to update the project management software with the approach used to solve the problem, document any additional information, and to indicate the current status of the task. By late in the first year of the course it is expected that students will be starting to create to dos for themselves and other students as part of standard practice as an IPT professional.
 
 As well as mirroring IPT industry practice, this information will also be used as part of student assessment and teaching. For example, the combination of project management software and individual student blogs will be used to aggregate and create the required student verification folio. In addition it is planned that the objectives and topics in the IPT syllabus will be used as tags within the project management software and student blogs to enable the construction of visual representations of how student tasks and artefacts relate to the syllabus. Such visualisations should help students, teachers, parents, and associated school and education partners understand what students have done and what is still required.
 
@@ -204,7 +204,7 @@ The unit will start the process of providing student with experience and exposur
 - Develop responsible attitudes towards the use of information technology
 - Appreciate the value of working independently and with others.
 
-As the number of objectives covered suggest, coverage in this introductory unit aims at a broad, but shallow, coverage of the syllabus topics and objectives. It aims to give the students a broad taste for what they will experience in the course. This is the start of the spiral curriculum as identified in the [learner profile](/blog2/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/). The specific objectives are drawn from across the four general objectives listed in the IPT syllabus.
+As the number of objectives covered suggest, coverage in this introductory unit aims at a broad, but shallow, coverage of the syllabus topics and objectives. It aims to give the students a broad taste for what they will experience in the course. This is the start of the spiral curriculum as identified in the [learner profile](/blog/2011/06/05/learner-profile-icts-for-e-learning-a3-part-1/). The specific objectives are drawn from across the four general objectives listed in the IPT syllabus.
 
 #### Assessment
 
@@ -446,9 +446,9 @@ Jones, D. (1996). Solving Some Problems of University Education: A Case Study. I
 
 Jones, D. (1999). Solving some problems with university education: Part II. Balina, Australia.
 
-Jones, D. (2007). CQUʼs first "web 2.0 course site" goes live. Retrieved from [/blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/](/blog2/2007/07/11/cqus-first-web-20-course-site-goes-live/).
+Jones, D. (2007). CQUʼs first "web 2.0 course site" goes live. Retrieved from [/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/](/blog/2007/07/11/cqus-first-web-20-course-site-goes-live/).
 
-Jones, D. (2010). Limits in developing innovative pedagogy with Moodle: The story of BIM. Melbourne. Retrieved from [/blog2/2010/07/20/an-overview-of-bim/](/blog2/2010/07/20/an-overview-of-bim/).
+Jones, D. (2010). Limits in developing innovative pedagogy with Moodle: The story of BIM. Melbourne. Retrieved from [/blog/2010/07/20/an-overview-of-bim/](/blog/2010/07/20/an-overview-of-bim/).
 
 Jones, D., & Gregor, S. (2004). An information systems design theory for e-learning. In S. Elliot, M.-A. Williams, S. Williams, & C. Pollard (Eds.), . Hobart, Tasmania.
 

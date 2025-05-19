@@ -4,10 +4,10 @@ categories:
 date: 2011-04-12 09:10:57+10:00
 next:
   text: Group 4 Technologies - Activities
-  url: /blog2/2011/04/12/group-4-technologies-activities/
+  url: /blog/2011/04/12/group-4-technologies-activities/
 previous:
   text: A feeble first attempt at moving towards WCYDWT
-  url: /blog2/2011/04/11/a-feeble-first-attempt-at-moving-towards-wcydwt/
+  url: /blog/2011/04/11/a-feeble-first-attempt-at-moving-towards-wcydwt/
 tags:
 - aboriginal-australia
 - experience

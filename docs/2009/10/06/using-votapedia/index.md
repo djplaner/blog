@@ -5,15 +5,15 @@ categories:
 date: 2009-10-06 15:40:49+10:00
 next:
   text: Initial CRC investigations
-  url: /blog2/2009/10/07/initial-crc-investigations/
+  url: /blog/2009/10/07/initial-crc-investigations/
 previous:
   text: Thoughts on &quot;Insidious pedagogy&quot;
-  url: /blog2/2009/10/06/thoughts-on-insidiuous-pedagogy/
+  url: /blog/2009/10/06/thoughts-on-insidiuous-pedagogy/
 title: Using Votapedia
 type: post
 template: blog-post.html
 ---
-In the next couple of weeks I'm going to be giving [a presentation](/blog2/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) that will also serve as an experiment in alternate technologies for presentations. One of those technologies will be [Votapedia.com](http://www.votapedia.com/) - an Australian-based, free SMS/Web audience response system. This post is meant to capture the process I went through in learning about how to use Votapedia.
+In the next couple of weeks I'm going to be giving [a presentation](/blog/2009/10/05/lectures-and-the-lms-alternatives-and-experiments/) that will also serve as an experiment in alternate technologies for presentations. One of those technologies will be [Votapedia.com](http://www.votapedia.com/) - an Australian-based, free SMS/Web audience response system. This post is meant to capture the process I went through in learning about how to use Votapedia.
 
 ### Accounts
 

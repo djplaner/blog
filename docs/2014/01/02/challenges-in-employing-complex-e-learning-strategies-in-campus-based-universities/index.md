@@ -7,10 +7,10 @@ date: 2014-01-02 11:40:12+10:00
 next:
   text: Reflective Blogging as part of ICT Professional Development to Support Pedagogical
     Change
-  url: /blog2/2014/01/03/reflective-blogging-as-part-of-ict-professional-development-to-support-pedagogical-change/
+  url: /blog/2014/01/03/reflective-blogging-as-part-of-ict-professional-development-to-support-pedagogical-change/
 previous:
   text: 'TAM, #moodle, online assignment submission and strategic implementation'
-  url: /blog2/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
+  url: /blog/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/
 title: Challenges in employing complex e-learning strategies in campus-based universities
 type: post
 template: blog-post.html
@@ -34,7 +34,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The following is a summary of McNaught et al (2009). This is one of three papers that from the same institution around the LMS that [I've looked at recently](/blog2/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/).
+The following is a summary of McNaught et al (2009). This is one of three papers that from the same institution around the LMS that [I've looked at recently](/blog/2013/11/15/evaluations-of-online-learning-activities-based-on-lms-logs/).
 
 The abstract for the paper is
 
@@ -81,7 +81,7 @@ Now brings in Lewin's ideas about conceptual change process as a way of thinking
 2. a period of disequilibrium and conceptual conflict which makes the subject dissatisfied with existing conceptions; and
 3. a reforming or reconstruction phase in which a new conceptual framework is formed” \[Kember et al. (2006), p.83\]
 
-_Note:_ A few years ago [I expressed some reservations](/blog2/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/) about the applicability of Lewin's model. I think they still apply.
+_Note:_ A few years ago [I expressed some reservations](/blog/2007/01/11/freeze-and-unfreeze-one-problem-with-herding-cats/) about the applicability of Lewin's model. I think they still apply.
 
 To some extent this quote from the author's gets at some of my reservations about this perspective on encouraging change with e-learning (emphasis added) "The process of _demonstrating to teachers_ that there might be a better way forward with their use of e-learning requires evidence and this is why evaluation is so critical" (p. 271).
 
@@ -154,7 +154,7 @@ Becoming more optimistic, the future is promising because
 
 Given all this "E-learning might then reach a critical mass and so that e-learning will progress beyond the valley bottom of the J-curve and will start climbing the growth phase in the S-curve".
 
-I wonder if this is evident? This links very nicely with some of the ideas in [my last post](/blog2/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/).
+I wonder if this is evident? This links very nicely with some of the ideas in [my last post](/blog/2013/12/24/tam-moodle-online-assignment-submission-and-strategic-implementation/).
 
 ## References
 

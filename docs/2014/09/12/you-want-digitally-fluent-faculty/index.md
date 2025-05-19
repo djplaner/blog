@@ -5,10 +5,10 @@ categories:
 date: 2014-09-12 11:36:52+10:00
 next:
   text: Searching for a phrase and some research
-  url: /blog2/2014/09/16/searching-for-a-phrase-and-some-research/
+  url: /blog/2014/09/16/searching-for-a-phrase-and-some-research/
 previous:
   text: 'Three paths for learning analytics and beyond: Moving from rhetoric to reality'
-  url: /blog2/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/
+  url: /blog/2014/09/05/three-paths-for-learning-analytics-and-beyond-moving-from-rhetoric-to-reality/
 title: You want digitally fluent faculty?
 type: post
 template: blog-post.html

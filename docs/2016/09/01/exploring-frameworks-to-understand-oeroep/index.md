@@ -6,10 +6,10 @@ categories:
 date: 2016-09-01 13:05:05+10:00
 next:
   text: Exploring Moodle Book usage - Part 5 - more staff and student use
-  url: /blog2/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/
+  url: /blog/2016/09/03/exploring-moodle-book-usage-part-5-more-staff-and-student-use/
 previous:
   text: Exploring Moodle book usage - part 4 - students and initial use
-  url: /blog2/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
+  url: /blog/2016/08/23/exploring-moodle-book-usage-part-4-students-and-initial-use/
 title: Exploring frameworks to understand OER/OEP
 type: post
 template: blog-post.html

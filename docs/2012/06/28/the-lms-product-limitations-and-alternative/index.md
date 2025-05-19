@@ -7,10 +7,10 @@ categories:
 date: 2012-06-28 12:12:59+10:00
 next:
   text: The e-learning process - limitations and an alternative
-  url: /blog2/2012/06/28/the-e-learning-process-limitations-and-an-alternative/
+  url: /blog/2012/06/28/the-e-learning-process-limitations-and-an-alternative/
 previous:
   text: Learning analytics and complexity
-  url: /blog2/2012/06/24/learning-analytics-and-complexity/
+  url: /blog/2012/06/24/learning-analytics-and-complexity/
 title: The LMS Product - limitations and an alternative
 type: post
 template: blog-post.html
@@ -532,7 +532,7 @@ pingbacks:
       user_id: '0'
     
 ---
-What follows is the first draft of the "Product" section for an ASCILITE paper ([the overview for the paper](/blog2/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/)) I hope to finish by tomorrow......just a bit of wishful thinking. Much of it has appeared in this blog previously, just now trying to wrangle it into a formal publication and all the limitations (e.g. space) that brings with it.
+What follows is the first draft of the "Product" section for an ASCILITE paper ([the overview for the paper](/blog/2012/06/22/the-life-and-death-of-webfuse-lessons-for-learning-and-leading-into-the-future/)) I hope to finish by tomorrow......just a bit of wishful thinking. Much of it has appeared in this blog previously, just now trying to wrangle it into a formal publication and all the limitations (e.g. space) that brings with it.
 
 It's a first draft, so comments and suggestions more than welcome.
 

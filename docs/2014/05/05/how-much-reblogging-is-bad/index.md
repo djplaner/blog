@@ -4,10 +4,10 @@ categories:
 date: 2014-05-05 13:38:56+10:00
 next:
   text: '"From thinking to tinkering: The grassroots of strategic information systems"'
-  url: /blog2/2014/05/08/from-thinking-to-tinkering-the-grassroots-of-strategic-information-systems/
+  url: /blog/2014/05/08/from-thinking-to-tinkering-the-grassroots-of-strategic-information-systems/
 previous:
   text: Designing for situation awareness in a complex system
-  url: /blog2/2014/04/18/designing-for-situation-awareness-in-a-complex-system/
+  url: /blog/2014/04/18/designing-for-situation-awareness-in-a-complex-system/
 title: How much reblogging is "bad"?
 type: post
 template: blog-post.html
@@ -108,7 +108,7 @@ pingbacks:
 ---
 Pragmatic students have always made judgements about exactly how they are going to engage with the activities teachers set them. I know I made decisions not to attend lectures (especially those at 8am on cold winter mornings). At times I've focused on just the assignments without engaging completely in the various intended learning activities. I made those decisions in a context nowhere near as constrained as many of my current students find themselves in terms of trying to balance work (often full-time), family (often very complex), and study.
 
-So it's no great surprise to see students "corrupting" the intent of learning activities designed into the course I teach. It's happened [before](/blog2/2013/03/06/how-much-of-a-cage-should-i-build/) and I assume that there are a whole range of different forms of task corruption going on. Over the weekend, however, I became aware of a different type [task corruption](http://u1003618.wordpress.com/2014/05/02/digital-ownership-poor-fran/) going on. It appears that at least some students are simply "reblogging" the posts of others without making additional comments.
+So it's no great surprise to see students "corrupting" the intent of learning activities designed into the course I teach. It's happened [before](/blog/2013/03/06/how-much-of-a-cage-should-i-build/) and I assume that there are a whole range of different forms of task corruption going on. Over the weekend, however, I became aware of a different type [task corruption](http://u1003618.wordpress.com/2014/05/02/digital-ownership-poor-fran/) going on. It appears that at least some students are simply "reblogging" the posts of others without making additional comments.
 
 The use of re-blogging has arisen for the first time this year due to changes in the advice given to students. This year I was much more specific in advising them to use Wordpress.com for their individual blog and apparently many of them have noticed the Wordpress "re-blog" feature. I'm not a big fan of [reblogging](http://en.wikipedia.org/wiki/Reblogging). I don't use it as I'm comfortable with creating links (something which a fair portion of my students appear to struggle with), I also like more control over what appears on my blog, and the "re-blog" functionality doesn't really appear in my blogging process. That said, I don't mind students using re-blogging as part of their reflective process and for the course.
 

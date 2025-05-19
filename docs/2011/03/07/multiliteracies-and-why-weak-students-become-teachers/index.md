@@ -4,10 +4,10 @@ categories:
 date: 2011-03-07 09:26:07+10:00
 next:
   text: '"End of week 1: reflections and what''s next"'
-  url: /blog2/2011/03/07/end-of-week-1-reflections-and-whats-next/
+  url: /blog/2011/03/07/end-of-week-1-reflections-and-whats-next/
 previous:
   text: 'Literacy and Numeracy: Week 1'
-  url: /blog2/2011/03/06/literacy-and-numeracy-week-1/
+  url: /blog/2011/03/06/literacy-and-numeracy-week-1/
 title: Multiliteracies and why weak students become teachers
 type: post
 template: blog-post.html
@@ -60,7 +60,7 @@ The author draws on the outcomes of the [Academically Adrift](http://www.insideh
 > 
 > So it shouldn’t surprise us that students in education and social work reported studying less, too: 10.6 hours per week, as opposed to 12.4 hours in the social sciences and the humanities. The hardest workers are science and math majors, who study 14.7 hours a week.
 
-The [first week](/blog2/2011/03/06/literacy-and-numeracy-week-1/) of the Literacy and Numeracy course I'm taking has argued heavily for the concept multiliteracies. About how the changes in the world have increased the variety of literacies behind traditional writing/reading/rithmetic. I find it somewhat ironic that we have an education faculty member espousing the need for education students to return to more writing/reading as the solution. Not that it doesn't surprise me that there is disagreement within the ranks of education academics.
+The [first week](/blog/2011/03/06/literacy-and-numeracy-week-1/) of the Literacy and Numeracy course I'm taking has argued heavily for the concept multiliteracies. About how the changes in the world have increased the variety of literacies behind traditional writing/reading/rithmetic. I find it somewhat ironic that we have an education faculty member espousing the need for education students to return to more writing/reading as the solution. Not that it doesn't surprise me that there is disagreement within the ranks of education academics.
 
 But then there's the really interesting argument
 

@@ -5,10 +5,10 @@ categories:
 date: 2010-05-28 10:22:31+10:00
 next:
   text: Focusing on integration - chapter 5
-  url: /blog2/2010/05/30/focusing-on-integration-chapter-5/
+  url: /blog/2010/05/30/focusing-on-integration-chapter-5/
 previous:
   text: Fixing BIM&#039;s back up and restore
-  url: /blog2/2010/05/27/fixing-bims-back-up-and-restore/
+  url: /blog/2010/05/27/fixing-bims-back-up-and-restore/
 title: One potential approach to provide a Moodle email merge facility
 type: post
 template: blog-post.html
@@ -62,7 +62,7 @@ pingbacks:
       user_id: '0'
     
 ---
-One of the issues I have to address with the [BIM Moodle module](/blog2/research/bam-blog-aggregation-management/) is the provision of an [email merge facility](http://github.com/djplaner/BIM/issues#issue/4). I (and a couple of other people I know) haven't been able to find how to do this within Moodle. The following outlines one proposal for how this might be done within Moodle 1.9.
+One of the issues I have to address with the [BIM Moodle module](/blog/research/bam-blog-aggregation-management/) is the provision of an [email merge facility](http://github.com/djplaner/BIM/issues#issue/4). I (and a couple of other people I know) haven't been able to find how to do this within Moodle. The following outlines one proposal for how this might be done within Moodle 1.9.
 
 I'm very keen to hear from more experience Moodle folk about whether or not this type of service already exists within Moodle.
 

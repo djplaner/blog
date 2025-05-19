@@ -4,10 +4,10 @@ categories:
 date: 2011-09-21 10:54:55+10:00
 next:
   text: BIM and BIM2 - Who needs it? What do you need?
-  url: /blog2/2011/09/22/bim-and-bim2-who-needs-it-what-do-you-need/
+  url: /blog/2011/09/22/bim-and-bim2-who-needs-it-what-do-you-need/
 previous:
   text: A summary of one perspective on the Digital Education Revolution
-  url: /blog2/2011/09/19/a-summary-of-one-perspective-on-the-digital-education-revolution/
+  url: /blog/2011/09/19/a-summary-of-one-perspective-on-the-digital-education-revolution/
 title: '"The final plan: Khan Academy, gamification and the flipped classroom"'
 type: post
 template: blog-post.html
@@ -69,7 +69,7 @@ pingbacks:
       user_id: '0'
     
 ---
-Just over a month ago I [started planning](/blog2/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/) a Unit of Work (UoW) for Year 10 Core Mathematics. i.e. the rationale and design of about 8 or so weeks of lessons for such a class. The following gives a description of the final unit of work.
+Just over a month ago I [started planning](/blog/2011/08/14/khan-academy-gamification-the-flipped-classroom-and-mathematics/) a Unit of Work (UoW) for Year 10 Core Mathematics. i.e. the rationale and design of about 8 or so weeks of lessons for such a class. The following gives a description of the final unit of work.
 
 In the end, the UoW makes little use of gamification. There is a plan to use progress bar to track group progress, but not in the sense of badges etc. The UoW does rely heavily on the assumed use of Khan Academy videos and exercises and hence uses the notion of the flipped classroom. The UoW also attempts to use a [Media Watch](http://www.abc.net.au/mediawatch/) like assumption to move toward the approach of Gustein (2003, p. 66) that showed it is possible to help “students begin to read the world with mathematics, develop mathematical power, and change their dispositions toward mathematics through the process”.
 

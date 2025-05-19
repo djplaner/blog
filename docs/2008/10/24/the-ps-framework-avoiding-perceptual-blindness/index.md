@@ -7,10 +7,10 @@ categories:
 date: 2008-10-24 15:48:13+10:00
 next:
   text: The many Ps
-  url: /blog2/2008/10/25/the-many-ps/
+  url: /blog/2008/10/25/the-many-ps/
 previous:
   text: Look for incompetence before you go paranoid
-  url: /blog2/2008/10/23/look-for-incompetence-before-you-go-paranoid/
+  url: /blog/2008/10/23/look-for-incompetence-before-you-go-paranoid/
 title: The Ps Framework - avoiding perceptual blindness?
 type: post
 template: blog-post.html
@@ -33,7 +33,7 @@ pingbacks:
       user_id: '0'
     
 ---
-The Ps Framework is a taxonomy/framework that has arisen out of my attempts to understand the literature around e-learning within universities. It's main aim is to serve as the structure for chapter 2 of [my thesis](/blog2/research/phd-thesis/). This blog post seeks to summarise some of the origins and potential futures of the Ps framework and also to explain why I think it might be useful.
+The Ps Framework is a taxonomy/framework that has arisen out of my attempts to understand the literature around e-learning within universities. It's main aim is to serve as the structure for chapter 2 of [my thesis](/blog/research/phd-thesis/). This blog post seeks to summarise some of the origins and potential futures of the Ps framework and also to explain why I think it might be useful.
 
 ### Origins
 
@@ -50,9 +50,9 @@ Wow, in finding that slideshow presentation, I've just discovered the presentati
 Since then the missing Ps have evolved into the Ps Framework and been used for two publications
 
 1. PLEs: Frameing one future for lifelong learning, e-learning and universities  
-    [Presentation](http://www.slideshare.net/davidj/ples-framing-one-future-for-lifelong-learning-elearning-and-universities/) and [paper](/blog2/publications/ples-framing-one-future-for-lifelong-learning-e-learning-and-universities/).
+    [Presentation](http://www.slideshare.net/davidj/ples-framing-one-future-for-lifelong-learning-elearning-and-universities/) and [paper](/blog/publications/ples-framing-one-future-for-lifelong-learning-e-learning-and-universities/).
 2. The Ps Framework: Mapping the educational technology landscape for the PLEs@CQUni project  
-    [Presentation](http://www.slideshare.net/davidj/the-ps-framework-mapping-the-educational-technology-landscape-for-the-plescquni-project/) (including video) and [paper](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/).
+    [Presentation](http://www.slideshare.net/davidj/the-ps-framework-mapping-the-educational-technology-landscape-for-the-plescquni-project/) (including video) and [paper](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/).
 
 And the near term future might actually be used for their intended purpose - chapter 2 of my thesis.
 
@@ -94,14 +94,14 @@ It becomes almost impossible to see how any perspective, no matter how diverse a
 Initially the Ps Framework was developed simply to highlight the limitations of the common perspectives within e-learning practice and literature. This was the approach used in the [first presentation](http://www.slideshare.net/davidj/the-missing-ps-lessons-for-the-adoption-and-implementation-of-learning-management-systems/). Some examples.
 
 - Product - almost all university based e-learning (from the late 1990s to now) assumes that the organisation must choose a [LMS](http://en.wikipedia.org/wiki/Learning_management_system) (e.g. Blackboard, Sakai, Moodle etc.). The only major change, in terms of organisational practice, over recent years has been the recognition that it is okay if the product is open source.
-- Process - almost all university based e-learning is teleological. It ignores and in many cases actively attacks ateleological development. [Jones and Muldoon](/blog2/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/) (2007) go into more detail on this point.
+- Process - almost all university based e-learning is teleological. It ignores and in many cases actively attacks ateleological development. [Jones and Muldoon](/blog/publications/the-teleological-reason-why-icts-limit-choice-for-university-learners-and-learning/) (2007) go into more detail on this point.
 - Place - almost all university based e-learning, like most organisational practice, assumes that the nature of the organisation in which it operates is simple. Dave Snowden's [Cynefin framework](http://en.wikipedia.org/wiki/Cynefin) identifies four other types of system. Each of these systems have radically different characteristics which mean many of the assumptions behind strategies used in the simple type of system are completely and utterly inappropriate.
 
 ### The Ps Framework as part of a sensemaking process
 
-The most recent paper using the Ps Framework ([Presentation](http://www.slideshare.net/davidj/the-ps-framework-mapping-the-educational-technology-landscape-for-the-plescquni-project/) (including video) and [paper](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/)) is starting a move away from the Ps Framework embodying a pre-defined checklist of different perspectives.
+The most recent paper using the Ps Framework ([Presentation](http://www.slideshare.net/davidj/the-ps-framework-mapping-the-educational-technology-landscape-for-the-plescquni-project/) (including video) and [paper](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/)) is starting a move away from the Ps Framework embodying a pre-defined checklist of different perspectives.
 
-The [paper](/blog2/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) still, to a certain extent, reads as a simple list of one perspective of the educational technology landscape. In discussions with others and the intent of the paper is to move towards using the Ps Framework as a tool in a [sensemaking](http://en.wikipedia.org/wiki/Sensemaking) process in the pre-decision stage of an educational technology project.
+The [paper](/blog/publications/the-ps-framework-mapping-the-landscape-for-the-plescquni-project/) still, to a certain extent, reads as a simple list of one perspective of the educational technology landscape. In discussions with others and the intent of the paper is to move towards using the Ps Framework as a tool in a [sensemaking](http://en.wikipedia.org/wiki/Sensemaking) process in the pre-decision stage of an educational technology project.
 
 That is, use the Ps Framework, with a yet undeveloped process, to
 

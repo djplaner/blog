@@ -2,10 +2,10 @@
 date: 2006-10-22 21:38:02+10:00
 next:
   text: The missing Ps - Purpose and place
-  url: /blog2/2006/10/22/purpose-and-place/
+  url: /blog/2006/10/22/purpose-and-place/
 previous:
   text: The missing Ps - Perception
-  url: /blog2/2006/10/19/the-missing-ps-perception/
+  url: /blog/2006/10/19/the-missing-ps-perception/
 title: Teleological approach to organisational reviews and change projects
 type: post
 template: blog-post.html

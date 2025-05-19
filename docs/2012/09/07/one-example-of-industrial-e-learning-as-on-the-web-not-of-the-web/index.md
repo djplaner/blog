@@ -7,10 +7,10 @@ categories:
 date: 2012-09-07 09:35:14+10:00
 next:
   text: The core problem with learning analytics?
-  url: /blog2/2012/09/11/the-core-problem-with-learning-analytics/
+  url: /blog/2012/09/11/the-core-problem-with-learning-analytics/
 previous:
   text: The dilemma of open courses in an Australian university
-  url: /blog2/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/
+  url: /blog/2012/08/22/the-dilemma-of-open-courses-in-an-australian-university/
 title: One example of industrial e-learning as "on the web" not "of the web"
 type: post
 template: blog-post.html
@@ -252,7 +252,7 @@ I can't remember the last time I visited a large website and attempted to find s
 
 ### Broader implications
 
-To me the idea of solving this problem through minimum standards is a rather large indication of the shortcomings of industrial e-learning. Industrial e-learning is the label I've [applied to the current common paradigm](/blog2/2009/04/20/the-paradigms-of-e-learning/) of e-learning adopted by most universities. It's techno-rational in its foundations and involves the planned management of large enterprise systems (be they open source or not). I propose that "industrial e-learning" is capable and concerned primarily with _"doing things On the web, rather than doing things OF the web"_.
+To me the idea of solving this problem through minimum standards is a rather large indication of the shortcomings of industrial e-learning. Industrial e-learning is the label I've [applied to the current common paradigm](/blog/2009/04/20/the-paradigms-of-e-learning/) of e-learning adopted by most universities. It's techno-rational in its foundations and involves the planned management of large enterprise systems (be they open source or not). I propose that "industrial e-learning" is capable and concerned primarily with _"doing things On the web, rather than doing things OF the web"_.
 
 Some potential contributing factors might include:
 

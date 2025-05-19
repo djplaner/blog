@@ -4,10 +4,10 @@ categories:
 date: 2019-12-19 08:47:34+10:00
 next:
   text: Theory of workarounds
-  url: /blog2/2019/12/20/theory-of-workarounds/
+  url: /blog/2019/12/20/theory-of-workarounds/
 previous:
   text: It's more than how you use the technology - authoring online content
-  url: /blog2/2019/12/10/its-more-than-how-you-use-the-technology-authoring-online-content/
+  url: /blog/2019/12/10/its-more-than-how-you-use-the-technology-authoring-online-content/
 title: '"The conceptualisation of e-learning: Lessons and implications"'
 type: post
 template: blog-post.html
@@ -36,7 +36,7 @@ Strong echoes of Point #2 can be seen in EDUCAUSE’s 2015 proposal of the NGDLE
 
 For more on the NGDLE idea, take a look the 2015 responses from [Tony Bates](https://www.tonybates.ca/2015/05/11/educause-looks-beyond-the-current-lms-environment/) and [Jon Dron](https://landing.athabascau.ca/bookmarks/view/1054815/educause-looks-beyond-the-current-lms-environment-is-it-a-future-we-want-tony-bates). Both critique the use of Lego as a metaphor for the NGDLE, which resonates strongly with me. As does Dron’s recommendation of _glue_ or _Velcro_ as better analogies. Back in the day, the “LMS” I (and many others) built and maintained was called _Webfuse_ because
 
-> Webfuse was positioned as the glue used to “fuse” together widely different services and tools into an integrated whole ([Jones, 2012](/blog2/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/))
+> Webfuse was positioned as the glue used to “fuse” together widely different services and tools into an integrated whole ([Jones, 2012](/blog/the-life-and-death-of-webfuse-principles-for-learning-and-leading-into-the-future/))
 
 ## Abstract
 

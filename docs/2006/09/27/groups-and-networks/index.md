@@ -5,10 +5,10 @@ categories:
 date: 2006-09-27 08:05:48+10:00
 next:
   text: Adoption of Web 2.0
-  url: /blog2/2006/09/27/adoption-of-web-20/
+  url: /blog/2006/09/27/adoption-of-web-20/
 previous:
   text: '&quot;Web 2.0&quot; applications/services used by students'
-  url: /blog2/2006/09/26/web-20-applicationsservices-used-by-students/
+  url: /blog/2006/09/26/web-20-applicationsservices-used-by-students/
 title: groups and networks
 type: post
 template: blog-post.html

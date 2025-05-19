@@ -4,10 +4,10 @@ categories:
 date: 2014-07-23 12:47:53+10:00
 next:
   text: '"Who are some good folk to follow re: network learning"'
-  url: /blog2/2014/07/25/who-are-some-good-folk-to-follow-re-network-learning/
+  url: /blog/2014/07/25/who-are-some-good-folk-to-follow-re-network-learning/
 previous:
   text: Next step for NGL
-  url: /blog2/2014/07/19/next-step-for-ngl/
+  url: /blog/2014/07/19/next-step-for-ngl/
 tags:
 - learner
 - mmporg

@@ -4,10 +4,10 @@ categories:
 date: 2007-06-12 19:58:00+10:00
 next:
   text: Creating a podcast that students/staff can contribute to
-  url: /blog2/2007/06/12/creating-a-podcast-that-studentsstaff-can-contribute-to/
+  url: /blog/2007/06/12/creating-a-podcast-that-studentsstaff-can-contribute-to/
 previous:
   text: Helping create innovative, good quality learning and teaching
-  url: /blog2/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/
+  url: /blog/2007/06/10/helping-create-innovative-good-quality-learning-and-teaching/
 title: CQU's first Web 2.0 course site?
 type: post
 template: blog-post.html

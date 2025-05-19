@@ -5,10 +5,10 @@ categories:
 date: 2011-01-10 22:39:14+10:00
 next:
   text: '"Learning analytics: Definitions, processes and potential"'
-  url: /blog2/2011/01/10/learning-analytics-definitions-processes-and-potential/
+  url: /blog/2011/01/10/learning-analytics-definitions-processes-and-potential/
 previous:
   text: Thesis acknowledgements version 0.5
-  url: /blog2/2011/01/07/thesis-acknowledgements-version-0-5/
+  url: /blog/2011/01/07/thesis-acknowledgements-version-0-5/
 tags:
 - lak11
 title: A start to the "Introduction to Learning and Knowledge Analytics" MOOC
@@ -68,16 +68,16 @@ I've dabbled in [work that is close to analytics](http://indicatorsproject.wordp
 - Not every system is causal, except in retrospect;  
     There often feels to be an assumption of (near) causality in some of this work. There are some events/systems/processes which simply aren't causal. There is no regular, repeating pattern of "a leading to b". Just because a lead to b this time, doesn't mean it will next time. Some of this is related to the previous two points, but some of it is also related to the nature of the systems, especially when they are complex adaptive systems. It will be interesting to hear Dave Snowden's (one of the invited speakers) take on this later in the course as this reservation is directly influenced by his presentations.
 - People aren't rational;  
-    Personally, I don't think most [people are rational](/blog2/2009/08/16/people-cognition-rationality-and-e-learning/). This shouldn't suggest that people aren't somewhat sensible in making their decisions. One's decisions always make sense to oneself, but they are almost certainly not the decisions that someone else would have made in the same situation. As part of that, I think our experiences constrain/influence our decision making and actions.
+    Personally, I don't think most [people are rational](/blog/2009/08/16/people-cognition-rationality-and-e-learning/). This shouldn't suggest that people aren't somewhat sensible in making their decisions. One's decisions always make sense to oneself, but they are almost certainly not the decisions that someone else would have made in the same situation. As part of that, I think our experiences constrain/influence our decision making and actions.
     
     This generates two concerns about analytics. First, I wonder just how much change in decision outcomes will arise from the folk seeing all the nice, lovely new visualisations produced by analytics. Are people going to make new decisions or simply use the visualisations to justify the same sub-set of decisions that their experiences would have led them to make. Second, how common amongst learners will be the patterns, models and correlations that arise from analytics? Just because the model says I did "A-B-C" does that really imply I was doing it for the same reasons as the other 88% of the population?
     
 - Is there enough information;  
     I believe, at this currently ill-informed stage, that some (much?) of the usefulness of analytics arises from a reliance on big number statistics. i.e. there's so much data that you get useful correlations, patterns....How many existing institutions are going to have sufficiently big data to usefully use these techniques?
 - The technologists alliance;  
-    [Geohegan suggests there is a technologists' alliance](/blog2/2009/08/09/the-chasm/) that has alienated the mainstream through the inability to produce an application of technology that is of absolutely compelling value in pragmatic, mainstream terms that provides the compelling reason to adopt. I think it's important that there be researchers and innovators pushing the boundaries, but there is too little thought given to the majority and applications of innovations/new technologies/fads that they see as useful. [SNAPP](http://research.uow.edu.au/learningnetworks/seeing/snapp/index.html) is a good start, but there's some more work to be done.
+    [Geohegan suggests there is a technologists' alliance](/blog/2009/08/09/the-chasm/) that has alienated the mainstream through the inability to produce an application of technology that is of absolutely compelling value in pragmatic, mainstream terms that provides the compelling reason to adopt. I think it's important that there be researchers and innovators pushing the boundaries, but there is too little thought given to the majority and applications of innovations/new technologies/fads that they see as useful. [SNAPP](http://research.uow.edu.au/learningnetworks/seeing/snapp/index.html) is a good start, but there's some more work to be done.
 - Yet another fad;  
-    Analytics is showing all the hallmarks of a [fad](/blog2/2009/04/06/birnbaums-fad-cycle-in-higher-education/). There will almost certainly be some interesting ideas here, but the combination of the previous reservations will end up it in being misapplied, misunderstood and ultimately have limited widespread impact on practice.
+    Analytics is showing all the hallmarks of a [fad](/blog/2009/04/06/birnbaums-fad-cycle-in-higher-education/). There will almost certainly be some interesting ideas here, but the combination of the previous reservations will end up it in being misapplied, misunderstood and ultimately have limited widespread impact on practice.
     
     As evidence of the fad, I offer the photo below that comes from [this blog post](http://www.jonathanmacdonald.com/?p=5051) (which I reference again below).
 

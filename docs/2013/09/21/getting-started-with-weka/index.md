@@ -6,10 +6,10 @@ categories:
 date: 2013-09-21 12:44:42+10:00
 next:
   text: '"Moving beyond a fashion: Likely paths and pitfalls for learning analytics"'
-  url: /blog2/2013/09/22/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-3/
+  url: /blog/2013/09/22/moving-beyond-a-fashion-likely-paths-and-pitfalls-for-learning-analytics-3/
 previous:
   text: University data isn&#039;t that &quot;big&quot;, what are the implications?
-  url: /blog2/2013/09/20/university-data-isnt-that-big/
+  url: /blog/2013/09/20/university-data-isnt-that-big/
 tags:
 - weka
 title: Getting started with Weka

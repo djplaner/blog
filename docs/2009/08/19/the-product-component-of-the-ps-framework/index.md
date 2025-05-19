@@ -9,15 +9,15 @@ categories:
 date: 2009-08-19 21:36:38+10:00
 next:
   text: '"eLearning and Innovation Specialist report #1: 4-20 August"'
-  url: /blog2/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/
+  url: /blog/2009/08/20/elearning-and-innovation-specialist-report-1-4-20-august/
 previous:
   text: Nudging as paternalism
-  url: /blog2/2009/08/18/nudging-as-paternalism/
+  url: /blog/2009/08/18/nudging-as-paternalism/
 title: The product component of the Ps Framework
 type: post
 template: blog-post.html
 ---
-This post contains the start of the Product component of the Ps Framework that forms a section out of chapter 2 of [my thesis](/blog2/research/phd-thesis/).
+This post contains the start of the Product component of the Ps Framework that forms a section out of chapter 2 of [my thesis](/blog/research/phd-thesis/).
 
 ### Product
 

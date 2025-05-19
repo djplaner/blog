@@ -5,10 +5,10 @@ date: 2012-10-18 16:45:53+10:00
 next:
   text: Numbers Are Not Enough. Why e-Learning Analytics Failed to Inform an Institutional
     Strategic Plan
-  url: /blog2/2012/10/22/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan/
+  url: /blog/2012/10/22/numbers-are-not-enough-why-e-learning-analytics-failed-to-inform-an-institutional-strategic-plan/
 previous:
   text: Three likely paths for learning analytics and academics
-  url: /blog2/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/
+  url: /blog/2012/10/11/three-likely-paths-for-learning-analytics-and-academic-in-oz-higher-education/
 title: The Texas sharpshooter fallacy and other issues for learning analytics
 type: post
 template: blog-post.html

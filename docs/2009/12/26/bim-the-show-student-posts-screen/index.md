@@ -4,10 +4,10 @@ categories:
 date: 2009-12-26 13:08:02+10:00
 next:
   text: BIM - Allocate questions screen
-  url: /blog2/2010/01/07/bim-allocate-questions-screen/
+  url: /blog/2010/01/07/bim-allocate-questions-screen/
 previous:
   text: BIM - Staff show details screen
-  url: /blog2/2009/12/24/bim-staff-show-details-screen/
+  url: /blog/2009/12/24/bim-staff-show-details-screen/
 title: BIM - the show student posts screen
 type: post
 template: blog-post.html
@@ -30,7 +30,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This post describes the initial implementation of show student posts screen. IT builds on the format/process used in the [show student details screen](/blog2/2009/12/24/bim-staff-show-details-screen/).
+This post describes the initial implementation of show student posts screen. IT builds on the format/process used in the [show student details screen](/blog/2009/12/24/bim-staff-show-details-screen/).
 
 ### Required data
 

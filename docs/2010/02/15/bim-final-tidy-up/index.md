@@ -4,10 +4,10 @@ categories:
 date: 2010-02-15 11:31:36+10:00
 next:
   text: BIM 1.0alpha is released
-  url: /blog2/2010/02/15/bim-1-0alpha-is-released/
+  url: /blog/2010/02/15/bim-1-0alpha-is-released/
 previous:
   text: BIM - Ideas for changes arising from user testing
-  url: /blog2/2010/02/11/bim-ideas-for-changes-arising-from-user-testing/
+  url: /blog/2010/02/11/bim-ideas-for-changes-arising-from-user-testing/
 title: BIM - Final Tidy up
 type: post
 template: blog-post.html

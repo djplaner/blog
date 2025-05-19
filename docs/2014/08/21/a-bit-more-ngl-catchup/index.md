@@ -4,10 +4,10 @@ categories:
 date: 2014-08-21 15:11:38+10:00
 next:
   text: And more NGL catch up
-  url: /blog2/2014/08/22/and-more-ngl-catch-up/
+  url: /blog/2014/08/22/and-more-ngl-catch-up/
 previous:
   text: Evaluating the use of blogs/reflective journals
-  url: /blog2/2014/08/21/evaluating-the-use-of-blogsreflective-journals/
+  url: /blog/2014/08/21/evaluating-the-use-of-blogsreflective-journals/
 title: A bit more NGL catchup
 type: post
 template: blog-post.html
@@ -134,7 +134,7 @@ I now find out that [Kath plays WoW](http://katarenasafeplace.wordpress.com/2014
 
 For me, Edmodo isn't that far removed from the LMS (learning management system). Yet another [walled garden](http://en.wikipedia.org/wiki/Walled_garden). Something that puts in barriers between the "real" world and the world of formal education. Of course, that's a view formed from my context in higher education, many years struggling with the confines of the institutional LMS. I don't have the same sorts of concerns about student protection (and societal expectations) that exist in a school setting.
 
-But I've also [argued that working](/blog2/2010/04/25/inside-out-outside-in-or-both/) within the walled garden and slowly opening up more holes in the wall has some promise as a "change management strategy". One of the reasons for that perhaps links to the comment above about not wasting time on the marginal tasks. The walled garden provides a safe environment and an opportunity for the teacher (and/or others) to open it up as called for.
+But I've also [argued that working](/blog/2010/04/25/inside-out-outside-in-or-both/) within the walled garden and slowly opening up more holes in the wall has some promise as a "change management strategy". One of the reasons for that perhaps links to the comment above about not wasting time on the marginal tasks. The walled garden provides a safe environment and an opportunity for the teacher (and/or others) to open it up as called for.
 
 But then I also wonder how this approach compares with the plethora of teachers who have bitten the bullet and broken the confines of the walled garden? For example, [this post](http://learningandsharingwithmsl.blogspot.com.au/2013/08/using-twitter-in-primary-classroom.html) from a teacher that has been using Twitter with her 6 and 7 year old students.
 

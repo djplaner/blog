@@ -5,10 +5,10 @@ categories:
 date: 2011-01-30 21:22:40+10:00
 next:
   text: Problems of service provision and why can't I have a personalised class timetable?
-  url: /blog2/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/
+  url: /blog/2011/01/30/institutional-information-systems-and-the-problems-of-service-provision/
 previous:
   text: The demise of ALTC and why I&#039;m not sad
-  url: /blog2/2011/01/28/the-demise-of-altc/
+  url: /blog/2011/01/28/the-demise-of-altc/
 title: The state of educational data mining in 2009
 type: post
 template: blog-post.html

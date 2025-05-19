@@ -9,10 +9,10 @@ categories:
 date: 2009-04-20 15:30:37+10:00
 next:
   text: The paradigms of e-learning
-  url: /blog2/2009/04/20/the-paradigms-of-e-learning/
+  url: /blog/2009/04/20/the-paradigms-of-e-learning/
 previous:
   text: 'PhD Update #7 - a fortnight in review'
-  url: /blog2/2009/04/17/phd-update-7-a-fortnight-in-review/
+  url: /blog/2009/04/17/phd-update-7-a-fortnight-in-review/
 title: Performance degradation - impact of new LMS implementation
 type: post
 template: blog-post.html
@@ -49,11 +49,11 @@ pingbacks:
 ---
 Anyone who knows me, knows that I have a particular disdain for the perspective that e-learning within a university can be treated as an IT project and in particular as the implementation of an Enterprise Resource Planning (ERP system). i.e. the LMS is an ERP and should be implemented as one. Some previous rants can be found on this blog, including:
 
-- [one ring to rule them all](/blog2/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/);
-- [comparison to the past](/blog2/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/);
-- [ignoring the messiness of e-learning](/blog2/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/);
-- [Edupunk versus "vanilla implementation"](/blog2/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/); and
-- [Ignoring the protean nature of ICTs](/blog2/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/).
+- [one ring to rule them all](/blog/2009/03/27/one-ring-to-rule-them-all-limitations-and-implications-of-the-lmsvle-product-model/);
+- [comparison to the past](/blog/2009/03/15/comparing-vleslms-to-the-past-flaws-and-implications-for-development-models/);
+- [ignoring the messiness of e-learning](/blog/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/);
+- [Edupunk versus "vanilla implementation"](/blog/2009/02/25/down-with-the-cookie-cutter-lms-the-edupunk-ideology-and-why-integrated-systems-might-go-away/); and
+- [Ignoring the protean nature of ICTs](/blog/2009/02/09/the-protean-nature-of-modern-technology-another-limitation-of-most-views-of-e-learning/).
 
 ### Another flaw in current practice
 

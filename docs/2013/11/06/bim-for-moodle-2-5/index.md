@@ -5,10 +5,10 @@ categories:
 date: 2013-11-06 14:50:19+10:00
 next:
   text: Exploring current institutional e-learning usage
-  url: /blog2/2013/11/12/exploring-current-institutional-e-learning-usage/
+  url: /blog/2013/11/12/exploring-current-institutional-e-learning-usage/
 previous:
   text: Big data in education - part 2
-  url: /blog2/2013/11/03/big-data-in-education-part-1-2/
+  url: /blog/2013/11/03/big-data-in-education-part-1-2/
 title: BIM for Moodle 2.5
 type: post
 template: blog-post.html

@@ -5,10 +5,10 @@ categories:
 date: 2011-03-07 14:44:37+10:00
 next:
   text: '"ICTs for Learning Design: Week 2"'
-  url: /blog2/2011/03/08/icts-for-learning-design-week-2/
+  url: /blog/2011/03/08/icts-for-learning-design-week-2/
 previous:
   text: 'Reflection on the profile Wiki: ICTs for Learning Design'
-  url: /blog2/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/
+  url: /blog/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/
 title: Reflection on the learning theories wiki
 type: post
 template: blog-post.html
@@ -31,7 +31,7 @@ pingbacks:
       user_id: '0'
     
 ---
-This is the second of two reflective blog posts associated with the ICTs for Learning Design course for week 1. Each of these will follow much the same format as [the first](/blog2/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/).
+This is the second of two reflective blog posts associated with the ICTs for Learning Design course for week 1. Each of these will follow much the same format as [the first](/blog/2011/03/07/reflection-on-the-profile-wiki-icts-for-learning-design/).
 
 This particular task went something like this
 
@@ -50,9 +50,9 @@ i.e. "what was it's value to me as a learner?"
 
 Yes. Two main reasons. First, it provided an opportunity to read and reflect a bit more about constructivism than I have previously. Second, it provided an opportunity for me to see the interpretations and ideas of others.
 
-The second point was particularly evident in the differences between the PMIs of my partner [and I](/blog2/2011/03/03/a-pmi-of-constructivism/). Our process was that we did our PMIs separately and then used the Wiki to merge them. My partner had completed first and it was obvious that his approach engaged more with the details of constructivism, whereas my approach was a little more abstract. I hadn't really directly engaged with the specifics, showing a limitation of my thinking about this.
+The second point was particularly evident in the differences between the PMIs of my partner [and I](/blog/2011/03/03/a-pmi-of-constructivism/). Our process was that we did our PMIs separately and then used the Wiki to merge them. My partner had completed first and it was obvious that his approach engaged more with the details of constructivism, whereas my approach was a little more abstract. I hadn't really directly engaged with the specifics, showing a limitation of my thinking about this.
 
-I had the opportunity to see the ideas of others because I formulated and posted my PMI initially [on my blog](/blog2/2011/03/03/a-pmi-of-constructivism/). And for some reason it has been picked up a bit of a readership. It's been viewed 198 times in four days and has had comments from a couple of people. Both comments have included different and interesting perspectives. One commenter has obviously read and thought a lot more about constructivism and its connections with connectivism than I.
+I had the opportunity to see the ideas of others because I formulated and posted my PMI initially [on my blog](/blog/2011/03/03/a-pmi-of-constructivism/). And for some reason it has been picked up a bit of a readership. It's been viewed 198 times in four days and has had comments from a couple of people. Both comments have included different and interesting perspectives. One commenter has obviously read and thought a lot more about constructivism and its connections with connectivism than I.
 
 It is through this and some other experiences that I've formed the opinion that I haven't really internalised constructivism, not in any deep sense.
 

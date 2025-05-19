@@ -4,11 +4,11 @@ categories:
 date: 2007-01-24 09:41:14+10:00
 next:
   text: New job, new start, new challenges
-  url: /blog2/2007/02/03/new-job-new-start-new-challenges/
+  url: /blog/2007/02/03/new-job-new-start-new-challenges/
 previous:
   text: 'Enterprise systems and shadow systems: What can the miner&#039;s canary tell
     us?'
-  url: /blog2/2007/01/16/enterprise-systems-and-shadow-systems-what-can-the-miners-canary-tell-us/
+  url: /blog/2007/01/16/enterprise-systems-and-shadow-systems-what-can-the-miners-canary-tell-us/
 title: Decision making, problem solving traps and course management systems
 type: post
 template: blog-post.html

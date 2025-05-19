@@ -5,10 +5,10 @@ categories:
 date: 2010-01-27 13:24:20+10:00
 next:
   text: '"BIM - tidy up #2"'
-  url: /blog2/2010/01/27/bim-tidy-up-2/
+  url: /blog/2010/01/27/bim-tidy-up-2/
 previous:
   text: BIM - Tidying up - Part 1
-  url: /blog2/2010/01/26/bim-tidying-up-part-1/
+  url: /blog/2010/01/26/bim-tidying-up-part-1/
 tags:
 - academicanalytics
 - analytics

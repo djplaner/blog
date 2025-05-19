@@ -6,15 +6,15 @@ categories:
 date: 2010-12-30 12:33:34+10:00
 next:
   text: A command for organisations? Program or be programmed
-  url: /blog2/2011/01/06/a-command-for-organisations-program-or-be-programmed/
+  url: /blog/2011/01/06/a-command-for-organisations-program-or-be-programmed/
 previous:
   text: BIM as a Wordpress plugin?
-  url: /blog2/2010/12/29/bim-as-a-wordpress-plugin/
+  url: /blog/2010/12/29/bim-as-a-wordpress-plugin/
 title: Progressing the student interface for bim2
 type: post
 template: blog-post.html
 ---
-The [last post](/blog2/2010/12/28/the-student-controller-for-bim2-models-and-view/) ended up with the basics of the student controller and views functioning to produce some simple output. The aim here is to get the entire student interface up and actually reading data from the database. It won't be completely finished. There will be some additional extra features to add. The aim here is to iron our the design of the whole model/view/controller set of classes.
+The [last post](/blog/2010/12/28/the-student-controller-for-bim2-models-and-view/) ended up with the basics of the student controller and views functioning to produce some simple output. The aim here is to get the entire student interface up and actually reading data from the database. It won't be completely finished. There will be some additional extra features to add. The aim here is to iron our the design of the whole model/view/controller set of classes.
 
 Am going to release this post before it is finished and continue working on it. So it will change.
 

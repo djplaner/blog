@@ -5,11 +5,11 @@ categories:
 date: 2009-03-12 13:47:38+10:00
 next:
   text: Moving from scarcity to abundance changes things - music
-  url: /blog2/2009/03/12/moving-from-scarcity-to-abundance-changes-things-music/
+  url: /blog/2009/03/12/moving-from-scarcity-to-abundance-changes-things-music/
 previous:
   text: Messiness of information systems - another reason institutional e-learning
     struggles
-  url: /blog2/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/
+  url: /blog/2009/03/12/messiness-of-information-systems-another-reason-institutional-e-learning-struggles/
 title: Another perspective for the indicators project
 type: post
 template: blog-post.html
@@ -24,11 +24,11 @@ The abstract from Lee et al (2007) includes the following summary
 
 This research seeks to establish factors which impact on learner satisfaction. Not on the actual quality itself, but with how satisfied students are with it. For some folk, this emphasis on student satisfaction is not necessarily a good thing and at best is only a small part of the equation. Mainly because its possible for students to be really happy with a course, but to have learnt absolutely nothing from it.
 
-However, given that most evaluation of learning at [individual Australian Universities](/blog2/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) and within the [entire sector](/blog2/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/) rely almost entirely on "smile sheets" (i.e. low level surveys that test student satisfaction), an emphasis on improving student satisfaction may well be a pragmatically effective past-time.
+However, given that most evaluation of learning at [individual Australian Universities](/blog/2009/01/25/somethings-that-are-broken-with-evaluation-of-university-teaching/) and within the [entire sector](/blog/2009/02/13/the-emperor-has-no-clothes-why-is-the-learning-and-teaching-peformance-fund-naked/) rely almost entirely on "smile sheets" (i.e. low level surveys that test student satisfaction), an emphasis on improving student satisfaction may well be a pragmatically effective past-time.
 
 ### How might it be done?
 
-The following uses essentially the same process used [in a previous post](/blog2/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/) that describe another method for informing the indicators project's use of the mountains of data. At least that suggested approach had a bit more of an emphasis on quality of learning.
+The following uses essentially the same process used [in a previous post](/blog/2009/03/01/another-spectrum-for-using-indicators-to-place-course-websites/) that describe another method for informing the indicators project's use of the mountains of data. At least that suggested approach had a bit more of an emphasis on quality of learning.
 
 The process is basically:
 

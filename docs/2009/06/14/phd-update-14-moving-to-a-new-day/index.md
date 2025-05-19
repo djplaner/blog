@@ -6,10 +6,10 @@ date: 2009-06-14 11:35:24+10:00
 next:
   text: How silly can enterprise IT get? Tools should fit the people, not the other
     way around
-  url: /blog2/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
+  url: /blog/2009/06/15/how-silly-can-enterprise-it-get-tools-should-fit-the-people-not-the-other-way-around/
 previous:
   text: To all my friends and colleagues out there - PhD etiquette
-  url: /blog2/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
+  url: /blog/2009/06/14/to-all-my-friends-and-colleagues-out-there-phd-etiquette/
 title: '"PhD Update #14 - Moving to a new day"'
 type: post
 template: blog-post.html
@@ -34,7 +34,7 @@ pingbacks:
 ---
 This is the first of the updates to be sent out on a Sunday. Part of a plan to move from doing this on Friday to Sunday. Mostly because there have been a couple of Friday's I've missed. Also, this might set the reflection up as the start to a week, rather then the end and consequently encourage greater emphasis on moving forward than looking back...who knows.
 
-Since [last week](/blog2/2009/06/05/phd-update-13-back-after-a-week-off/) progress has been slowed by another two days lost due to public holiday and other work commitments. So, I'm not happy with progress.
+Since [last week](/blog/2009/06/05/phd-update-13-back-after-a-week-off/) progress has been slowed by another two days lost due to public holiday and other work commitments. So, I'm not happy with progress.
 
 I'm increasingly motivated to get on with this, but translating into action...
 
@@ -49,8 +49,8 @@ I've achieved neither of those.
 
 I have completed two small sections of the process component and posted them to the blog
 
-- [Management and planning](/blog2/2009/06/08/university-processes-management-and-planning/) processes within universities
-- [Institutional learning and teaching strategies](/blog2/2009/06/11/institutional-learning-and-teaching-strategies/)
+- [Management and planning](/blog/2009/06/08/university-processes-management-and-planning/) processes within universities
+- [Institutional learning and teaching strategies](/blog/2009/06/11/institutional-learning-and-teaching-strategies/)
 
 To complete the Process section my current plan calls for me to complete three more sections:
 
