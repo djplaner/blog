@@ -611,8 +611,8 @@ def writeBlogStats(blogItems):
     firstPost = "n/a"
     lastPost = "n/a"
     if numPosts!=0:
-        firstPost = blogItems[-1]['yaml']['date']
-        lastPost = blogItems[0]['yaml']['date']
+        firstPost = blogItems[-1]['yaml']['date'].strftime("%Y-%m-%dT%H:%M:%S.%f%z")
+        lastPost = blogItems[0]['yaml']['date'].strftime("%Y-%m-%dT%H:%M:%S.%f%z")
 
     stats = {
         'numPosts': numPosts,

@@ -1,48 +1,46 @@
----
+﻿---
 categories:
 - colophon
+comments:
+- approved: '1'
+  author: Peter Albion
+  author_email: palbion@me.com
+  author_ip: 120.155.147.161
+  author_url: http://peter.albion.id.au
+  content: Interesting to see what you are up to. It seems you and I are somehow intertwined
+    ever since you taught a course I took in 1989-90. I saw your name pop up in the
+    FEP site which I manage. It might be good to catch up some time.
+  date: '2025-01-13 19:52:39'
+  date_gmt: '2025-01-13 09:52:39'
+  id: '24911'
+  parent: '0'
+  type: comment
+  user_id: '0'
+- approved: '1'
+  author: David Jones
+  author_email: davidthomjones@gmail.com
+  author_ip: 61.68.186.82
+  author_url: null
+  content: It does seem to be a strangely small world. The FEP site came up in a chat
+    I was having with someone last week. Email to follow.
+  date: '2025-01-14 08:22:54'
+  date_gmt: '2025-01-13 22:22:54'
+  id: '24912'
+  parent: '24911'
+  type: comment
+  user_id: '1'
 date: 2025-01-12 15:19:03+10:00
 next:
-  text: Home
-  url: /blog/index.html
+  text: A new day
+  url: /blog/2025/05/23/a-new-day
+pingbacks: []
 previous:
   text: Announcing (finally) Canvas Collections
   url: /blog/2023/08/18/announcing-finally-canvas-collections/
+publishedPath: //2025/01/12/what-now
+template: blog-post.html
 title: What now?
 type: post
-template: blog-post.html
-comments:
-    - approved: '1'
-      author: Peter Albion
-      author_email: palbion@me.com
-      author_ip: 120.155.147.161
-      author_url: http://peter.albion.id.au
-      content: Interesting to see what you are up to. It seems you and I are somehow intertwined
-        ever since you taught a course I took in 1989-90. I saw your name pop up in the
-        FEP site which I manage. It might be good to catch up some time.
-      date: '2025-01-13 19:52:39'
-      date_gmt: '2025-01-13 09:52:39'
-      id: '24911'
-      parent: '0'
-      type: comment
-      user_id: '0'
-    - approved: '1'
-      author: David Jones
-      author_email: davidthomjones@gmail.com
-      author_ip: 61.68.186.82
-      author_url: null
-      content: It does seem to be a strangely small world. The FEP site came up in a chat
-        I was having with someone last week. Email to follow.
-      date: '2025-01-14 08:22:54'
-      date_gmt: '2025-01-13 22:22:54'
-      id: '24912'
-      parent: '24911'
-      type: comment
-      user_id: '1'
-    
-pingbacks:
-    []
-    
 ---
 2024 passed without a post to this blog. Many reasons, but largely because I moved on from higher education. Suddenly digital education - the old focus of this blog - wasn't a big part of my thinking. Raising the question, **what now**?
 
