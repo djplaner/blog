@@ -1,6 +1,7 @@
 
 site_name: "Some Assemblage Required"
 site_url: https://djon.es/blog/
+site_description: "Tinkering with technology and life beyond work"
 repo_url: https://github.com/djplaner/blog
 site_author: "David Jones"
 site_dir: ../blog2 # stick HTML outside main repo

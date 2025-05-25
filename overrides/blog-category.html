@@ -3,24 +3,27 @@
 {% block extrahead %}
 <link rel="alternate" type="application/rss+xml" title="Some assemblage required &raquo; Feed"
   href="{{ config.site_url }}feed/feed.rss" />
+<script data-goatcounter="https://djones.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' mirrors.creativecommons.org; script-src  'self' https://gc.zgo.at; connect-src 'self' https://djones.goatcounter.com/count; object-src data: 'unsafe-eval'">
 {% endblock %}
 
 
 
 {% block container %}
 
-<style>
+<!-- <style>
   .category {
     width: 100%;
     padding: 0.5em;
-/*    color: var(--md-admonition-bg-color);
-    background-color: var(--md-admonition-fg-color); */
+    color: var(--md-admonition-bg-color);
+    background-color: var(--md-admonition-fg-color); 
   }
   .category h2 {
     font-size: 1.5rem;
     font-weight: bold;
   }
-</style>
+</style> -->
 {% if page.meta.item_value %}
 {% set item_value = page.meta.item_value %}
 {% else %}
