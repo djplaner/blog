@@ -595,6 +595,107 @@ def generateHome(posts):
 
     mkdocs_gen_files.set_edit_path( f"{BLOG_FOLDER}index.md", "blog.py")
 
+def calculatePostsPerYear(blogItems):
+    """
+    Calculate the number of posts per year from the blog items
+
+    Parameters
+    blogItems : list of blog items
+
+    Returns
+    postPerYear : dict with year as key and number of posts as value
+    """
+
+    postPerYear = {}
+    for item in blogItems:
+        year = item['yaml']['date'].strftime("%Y")
+        if year not in postPerYear:
+            postPerYear[year] = 0
+        postPerYear[year] += 1
+
+    return postPerYear
+
+def calculateWordsPerYear(blogItems):
+    """
+    Calculate the number of words per year from the blog items
+
+    Parameters
+    blogItems : list of blog items
+
+    Returns
+    wordsPerYear : dict with year as key and number of words as value
+    """
+
+    wordsPerYear = {}
+    for item in blogItems:
+        year = item['yaml']['date'].strftime("%Y")
+        if year not in wordsPerYear:
+            wordsPerYear[year] = 0
+        #-- count the number of words in the content
+        words = len(item['content'].split())
+        wordsPerYear[year] += words
+
+    return wordsPerYear
+
+def calculateInternalExternalLinkCounts(blogItems):
+    """
+    Extract internal and external links from the blog items and return a tuple of arrays of dicts
+    { link: <link>, count: <count> } sorted by count. Only include the top 50 links of both types
+
+    Some links will be excluded
+
+    parameters
+    blogItems : list of blog items
+    returns a tuple of two arrays of dicts { link: <link>, count: <count> }
+    (internalLinks, externalLinks)
+    """
+
+    EXCLUDED_LINKS = [
+        "http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png",
+        "http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png ",
+        "https://creativecommons.org/licenses/by/2.0/",
+        "https://creativecommons.org/licenses/by-nc-sa/2.0/", 
+        "images/80x15.png",
+        "images/80x15.png "
+    ]
+
+    internalLinks = {}
+    externalLinks = {}
+
+    #-- regex to match links 
+    linkRegex = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
+    
+    for item in blogItems:
+        links = linkRegex.findall(item['content'])
+        for link in links:
+            #-- remove any ".*" from the URL
+            linkText = link[0]
+            linkUrl = link[1]
+            linkUrl = re.sub(r'".*"', '', linkUrl)
+
+            if linkUrl in EXCLUDED_LINKS:
+                continue
+            #-- link[0] is the text, link[1] is the URL
+            if linkUrl.startswith("http://") or linkUrl.startswith("https://"):
+                #-- external link
+                if linkUrl not in externalLinks:
+                    externalLinks[linkUrl] = 0
+                externalLinks[linkUrl] += 1
+            else:
+                #-- internal link
+                if linkUrl not in internalLinks:
+                    internalLinks[linkUrl] = 0
+                internalLinks[linkUrl] += 1
+
+    #-- sort the internal and external links by count, descending
+    internalLinksList = sorted(internalLinks.items(), key=lambda x: x[1], reverse=True)[:50]
+    externalLinksList = sorted(externalLinks.items(), key=lambda x: x[1], reverse=True)[:50]
+
+    #-- convert the list of tuples to a list of dicts
+    internalLinksList = [{'link': link[0], 'count': link[1]} for link in internalLinksList]
+    externalLinksList = [{'link': link[0], 'count': link[1]} for link in externalLinksList]
+
+    return (internalLinksList, externalLinksList)
 
 def writeBlogStats(blogItems):
     """
@@ -614,11 +715,19 @@ def writeBlogStats(blogItems):
         firstPost = blogItems[-1]['yaml']['date'].strftime("%Y-%m-%dT%H:%M:%S.%f%z")
         lastPost = blogItems[0]['yaml']['date'].strftime("%Y-%m-%dT%H:%M:%S.%f%z")
 
+    postPerYear = calculatePostsPerYear(blogItems)
+    wordsPerYear = calculateWordsPerYear(blogItems)
+    (internalLinks, externalLinks) = calculateInternalExternalLinkCounts(blogItems)
+
     stats = {
         'numPosts': numPosts,
         'numPages': numPages,
         'firstPost': str(firstPost),
-        'lastPost': str(lastPost)
+        'lastPost': str(lastPost),
+        'postsPerYear': postPerYear,
+        'wordsPerYear': wordsPerYear,
+        'internalLinks': internalLinks,
+        'externalLinks': externalLinks
     }
 
     with open(STATS_FILE, 'w') as stream:
@@ -636,6 +745,7 @@ def generator():
     pages = map(lambda x: x['yaml']['title'], filter(lambda x: x['yaml']['type'] == 'page', blogItems))
     posts = map(lambda x: x['yaml']['title'], filter(lambda x: x['yaml']['type'] == 'post', blogItems))
 
+    writeBlogStats(blogItems)
     # Generate category pages 
     generateCategories( blogItems)
 
@@ -645,7 +755,6 @@ def generator():
     # Generate home page
     generateHome(blogItems)
 
-    writeBlogStats(blogItems)
 
 
 generator()

@@ -5,19 +5,20 @@
   href="{{ config.site_url }}feed/feed.rss" />
 <script data-goatcounter="https://djones.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' mirrors.creativecommons.org data: w3.org/svg/2000; script-src  'self' https://gc.zgo.at; connect-src 'self' https://djones.goatcounter.com/count; ">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' mirrors.creativecommons.org data: w3.org/svg/2000;; script-src  'self' https://gc.zgo.at; connect-src 'self' https://djones.goatcounter.com/count; ">
 {% endblock %}
 
 
 {% block hero %}
 <aside class="md-banner">
-  <div class="md-banner__inner md-grid md-typeset">
     {% set myDate = page.meta.date %}
     {% set year = "{}".format(myDate).split("-")[0] | int %}
-    {% if year < 2025 %} <p><strong><span style="color:yellow">⚠</span></strong> old Wordpress post (circa {{ year }})
+    {% if year < 2025 %} 
+  <div class="md-banner__inner md-grid md-typeset">
+    <p><strong><span style="color:yellow">⚠</span></strong> old Wordpress post (circa {{ year }})
       may have broken links, embeds, and <a href="/blog2/about.html">other limitations</a></p>
-      {% endif %}
   </div>
+      {% endif %}
   {% if page.meta.coverImage %}
   <!-- figure class="md-cover-image" style="margin: 0px; background-image: url('images/{{ page.meta.coverImage }}');" -->
     <img class="memex-image" src="images/{{ page.meta.coverImage }}" alt="{{ page.title }}" width="100%" height="auto">

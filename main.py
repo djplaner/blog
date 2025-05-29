@@ -31,15 +31,68 @@ def getBlogStats( ):
         if data[day]!="n/a":
             dateStr = datetime.datetime.strptime(data[day], "%Y-%m-%dT%H:%M:%S.%f%z")
             data[day] = dateStr.strftime("%A, %-d %B %Y %H:%M:%S")
-    output = f"""
-| Statistic | Value |
-| ---- | ----- |
-| # posts | {data['numPosts']} | 
-| # pages | {data['numPages']} |
-| First post | {data['firstPost']} |
-| Last post | {data['lastPost']} |
+
+    output = ""
+    output = writeBasicStats(data)
+    output += writePostsPerYear(data)
+    output += writeInternalLinks(data)
+    output += writeExternalLinks(data)
+
+    return output
+
+def writeBasicStats(data):
+    return f"""
+
+=== "Basic statistics"
+
+    | Statistic | Value |
+    | ---- | ----- |
+    | # posts | {data['numPosts']} | 
+    | # pages | {data['numPages']} |
+    | First post | {data['firstPost']} |
+    | Last post | {data['lastPost']} |
+
 """
+
+def writePostsPerYear(data):
+
+    output = f"""
+
+=== "Posts per year"
+
+    | Year | # Posts |
+    | ---- | ------- |
+"""
+
+    for year, count in data['postsPerYear'].items():
+        output += f"    | {year} | {count} |\n"
         
+    return output
+
+def writeInternalLinks(data):
+    output = f"""
+    
+=== "Top 20 Internal Links"
+
+    | Link | Count |
+    | ---- | ------- |
+"""
+
+    for internalLink in data['internalLinks'][:20]:
+        output += f"    | [{internalLink['link']}]({internalLink['link']}) | {internalLink['count']} |\n"
+
+    return output
+
+def writeExternalLinks(data):
+    output = f"""
+=== "Top 20 External Links"
+    | Link | Count |
+    | ---- | ------- |
+"""
+
+    for externalLink in data['externalLinks'][:20]:
+        output += f"    | {externalLink['link']} | {externalLink['count']} |\n"
+
     return output
 
 def define_env(env):
