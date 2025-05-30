@@ -320,3 +320,48 @@ blockquote {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     grid-gap: 0.5rem;
   }
+
+  .comments-container {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+    background-color: var(--md-admonition-bg-color);
+    color: var(--md-admonition-fg-color);
+    font-size: 0.8rem;
+  }
+
+  .comments-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .comments-container li {
+    margin-bottom: 1em;
+    padding: 0.5em;
+    line-height: 1.5;
+  }
+
+  .comments-container a {
+    color: var(--md-typeset-a-color);
+    text-decoration: none;
+  }
+
+  .pingbacks-container {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+    background-color: var(--md-admonition-bg-color);
+    color: var(--md-admonition-fg-color);
+    font-size: 0.8rem;
+  }
+
+  .pingbacks-container a {
+    color: var(--md-typeset-a-color);
+    text-decoration: none;
+  }
+
+  .pingbacks-container li {
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+    line-height: 1.5;
+  }

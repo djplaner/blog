@@ -1,4 +1,8 @@
-.venv/
+bin/
 .cache/
 __pycache__/
 .DS_Store
+pyvenv.cfg
+lib/
+share/
+etc/

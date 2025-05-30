@@ -6,7 +6,7 @@ PURPOSE: Define macros using mkdocs-macros-plugin
 import yaml
 import datetime
 
-def getBlogStats( ):
+def getBlogStats(statsToDisplay ):
     """
     Display stats about the blog
     - # of posts
@@ -20,7 +20,6 @@ def getBlogStats( ):
 
     data = {}
 
-#    return "hello world"
     with open(STATS_FILE, 'r') as stream:
         data = yaml.safe_load(stream)
 
@@ -33,10 +32,15 @@ def getBlogStats( ):
             data[day] = dateStr.strftime("%A, %-d %B %Y %H:%M:%S")
 
     output = ""
-    output = writeBasicStats(data)
-    output += writePostsPerYear(data)
-    output += writeInternalLinks(data)
-    output += writeExternalLinks(data)
+
+    if 'all' in statsToDisplay or 'basic' in statsToDisplay:
+        output += writeBasicStats(data)
+    if 'all' in statsToDisplay or 'postsPerYear' in statsToDisplay:
+        output += writePostsPerYear(data)
+    if 'all' in statsToDisplay or 'internalLinks' in statsToDisplay:
+        output += writeInternalLinks(data)
+    if 'all' in statsToDisplay or 'externalLinks' in statsToDisplay:
+        output += writeExternalLinks(data)
 
     return output
 
@@ -101,8 +105,14 @@ def define_env(env):
     """
 
     @env.macro
-    def blogStats( ):
+    def blogStats(statsToDisplay ):
         """
+        Display blog statistics in markdown format. Read the stats.yaml file and
+        return the statistics in markdown format. Can include multiple different 
+        statistical views controlled by the statsToDisplay parameter.
+
+        parameters:
+        - statsToDisplay: a list of statistics to display, e.g. ['basic', 'postsPerYear', 'internalLinks', 'externalLinks']
         """
-        return getBlogStats()
+        return getBlogStats(statsToDisplay)
 

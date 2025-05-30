@@ -83,7 +83,8 @@ markdown_extensions:
   - pymdownx.tilde
 plugins:
   - search
-  - macros
+  - macros:
+      module_name: generators/macros
   - social
   - glightbox
   - mkdocs-video
