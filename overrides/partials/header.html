@@ -40,16 +40,13 @@
         {% if config.extra.alternate %}
         {% include "partials/alternate.html" %}
         {% endif %}
-        {% if "material/search" in config.plugins %}
-        {% set search = config.plugins["material/search"] | attr("config") %}
-        {% if search.enabled %}
-        <label class="md-header__button md-icon" for="__search">
-            {% set icon = config.theme.icon.search or "material/magnify" %}
-            {% include ".icons/" ~ icon ~ ".svg" %}
+
+      <a href="#" id="nav-link-search">
+        <label class="md-icon" for="__search">
+          {% include ".icons/material/magnify.svg" %}
         </label>
-        {% include "partials/search.html" %}
-        {% endif %}
-        {% endif %}
+    </a>
+
         {% if config.repo_url %}
         <div class="md-header__source">
             {% include "partials/source.html" %}

@@ -35,7 +35,7 @@ BLOG_HOME="/Users/davidjones/blog/docs/"
 BLOG_URL="https://djon.es/blog/"
 #BLOG_URL="https://localhost:8080/blog2/"
 
-NUM_POSTS_HOME_PAGE = 20
+NUM_POSTS_HOME_PAGE = 10
 
 def generateCategoryPage(categoryName, items, next, previous):
     """

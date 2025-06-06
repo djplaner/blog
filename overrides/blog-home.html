@@ -3,9 +3,38 @@
 {% block extrahead %}
 <link rel="alternate" type="application/rss+xml" title="Some assemblage required &raquo; Feed"
   href="{{ config.site_url }}feed/feed.rss" />
-<script data-goatcounter="https://djones.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' mirrors.creativecommons.org data: w3.org/svg/2000;; script-src  'self' https://gc.zgo.at; connect-src 'self' https://djones.goatcounter.com/count; ">
+<script data-goatcounter="https://djones.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<meta http-equiv="Content-Security-Policy"
+  content="default-src 'self'; style-src 'self' fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' mirrors.creativecommons.org data: w3.org/svg/2000;; script-src  'self' https://gc.zgo.at https://cdn.jsdelivr.net 'sha256-VT5ceh5oL4N49BtvbOF+bomDZ2dUPo45iIMjDwYBmVw=' 'wasm-unsafe-eval'; connect-src 'self' https://djones.goatcounter.com/count; ">
+
+<script src="https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js"></script>
+
+<script lang="javascript" integrity="sha256-VT5ceh5oL4N49BtvbOF+bomDZ2dUPo45iIMjDwYBmVw=" crossorigin="anonymous">
+  document.addEventListener('DOMContentLoaded', function () {
+    new PagefindUI({
+      element: "#search", pageSize: 5, showSubResults: true,
+      showImages: false,
+    })
+    MicroModal.init()
+    document.querySelector('#nav-link-search').style.display = 'block';
+
+    document.querySelector('#nav-link-search').addEventListener('click', function (ev) {
+      ev.preventDefault()
+
+      MicroModal.show('modal-1', {
+        onClose: function () {
+          document.querySelector('#nav-link-search').blur();
+        },
+        disableFocus: true
+      })
+      document.querySelector('.pagefind-ui__search-input').focus()
+    });
+
+  }, false);
+
+</script>
+
+
 {% endblock %}
 
 
@@ -13,24 +42,24 @@
 <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" {{ hidden }}>
   <div class="md-sidebar__scrollwrap">
     {% if nav %}
-      {% if page.meta and page.meta.hide %}
-        {% set hidden = "hidden" if "navigation" in page.meta.hide %}
-      {% endif %}
-      <div class="md-sidebar__inner">
-        {% include "partials/nav.html" %}
-      </div>
+    {% if page.meta and page.meta.hide %}
+    {% set hidden = "hidden" if "navigation" in page.meta.hide %}
+    {% endif %}
+    <div class="md-sidebar__inner">
+      {% include "partials/nav.html" %}
+    </div>
   </div>
 </div>
 {% endif %}
 {% if "toc.integrate" not in features %}
-  {% if page.meta and page.meta.hide %}
-    {% set hidden = "hidden" if "toc" in page.meta.hide %}
-  {% endif %}
+{% if page.meta and page.meta.hide %}
+{% set hidden = "hidden" if "toc" in page.meta.hide %}
+{% endif %}
 <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
   <div class="md-sidebar__scrollwrap">
     <div class="md-sidebar__inner">
       <!-- {% include "partials/toc.html" %} -->
-        {% include "partials/archives-list.html" %}
+      {% include "partials/archives-list.html" %}
     </div>
   </div>
 </div>

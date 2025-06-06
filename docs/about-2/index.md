@@ -217,9 +217,11 @@ pingbacks:
     
 ---
 
+A retired Gen-X academic, educator, and technologist trying to figure out what he will be in retirement.
+
 ## Now
 
-2024 saw the passing of my father and the realisation that the education systems in which I might work and what I wanted to offer were no longer a good match. A good time to retire and figure out what's next. For now that involves the odd bit of tinkering with technology (e.g. [setting up this blog](../2025/05/23/a-new-day/index.md)) and bush [regeneration](https://djon.es/memex/sense/landscape-garden/regeneration.html).
+2024 saw the passing of my father and the realisation that the requirements of the education systems in which I might work and what I wanted to offer were no longer aligned. A good time to retire and figure out what's next. For now that involves the odd bit of tinkering with technology (e.g. [setting up this blog](../2025/05/23/a-new-day/index.md)) and bush [regeneration](https://djon.es/memex/sense/landscape-garden/regeneration.html).
 
 ## The past
 

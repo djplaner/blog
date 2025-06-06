@@ -1,6 +1,8 @@
 ---
 title: "About this blog - and its limitations"
-type: about
+type: page
+date: 2025-04-01 15:37:51+10:00
+template: blog-post.html
 ---
 
 ## Welcome

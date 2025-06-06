@@ -3,9 +3,38 @@
 {% block extrahead %}
 <link rel="alternate" type="application/rss+xml" title="Some assemblage required &raquo; Feed"
   href="{{ config.site_url }}feed/feed.rss" />
-<script data-goatcounter="https://djones.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' mirrors.creativecommons.org data: w3.org/svg/2000;; script-src  'self' https://gc.zgo.at; connect-src 'self' https://djones.goatcounter.com/count; ">
+<script data-goatcounter="https://djones.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+<meta http-equiv="Content-Security-Policy"
+  content="default-src 'self'; style-src 'self' fonts.googleapis.com; font-src fonts.gstatic.com ; img-src 'self' mirrors.creativecommons.org data: w3.org/svg/2000;; script-src  'self' https://gc.zgo.at https://cdn.jsdelivr.net 'sha256-VT5ceh5oL4N49BtvbOF+bomDZ2dUPo45iIMjDwYBmVw=' 'wasm-unsafe-eval'; connect-src 'self' https://djones.goatcounter.com/count; ">
+
+<script src="https://cdn.jsdelivr.net/npm/micromodal/dist/micromodal.min.js"></script>
+
+<script lang="javascript" integrity="sha256-VT5ceh5oL4N49BtvbOF+bomDZ2dUPo45iIMjDwYBmVw=" crossorigin="anonymous">
+  document.addEventListener('DOMContentLoaded', function () {
+    new PagefindUI({
+      element: "#search", pageSize: 5, showSubResults: true,
+      showImages: false,
+    })
+    MicroModal.init()
+    document.querySelector('#nav-link-search').style.display = 'block';
+
+    document.querySelector('#nav-link-search').addEventListener('click', function (ev) {
+      ev.preventDefault()
+
+      MicroModal.show('modal-1', {
+        onClose: function () {
+          document.querySelector('#nav-link-search').blur();
+        },
+        disableFocus: true
+      })
+      document.querySelector('.pagefind-ui__search-input').focus()
+    });
+
+  }, false);
+
+</script>
+
 {% endblock %}
 
 
@@ -27,11 +56,11 @@
 {% if page.meta.item_value %}
 {% set item_value = page.meta.item_value %}
 {% else %}
-  {% if page.meta.item_count == 1 %}
-  {% set item_value = "item" %}
-  {% else %}
-  {% set item_value = "items" %}
-  {% endif %}
+{% if page.meta.item_count == 1 %}
+{% set item_value = "item" %}
+{% else %}
+{% set item_value = "items" %}
+{% endif %}
 {% endif %}
 
 <div class="md-content" data-md-component="content">

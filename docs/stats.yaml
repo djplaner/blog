@@ -202,7 +202,7 @@ internalLinks:
 - count: 7
   link: /blog/2010/04/25/inside-out-outside-in-or-both/
 lastPost: 2025-05-23T14:17:25.821396+0000
-numPages: 65
+numPages: 66
 numPosts: 1442
 postsPerYear:
   '2006': 85
@@ -223,9 +223,9 @@ postsPerYear:
   '2021': 6
   '2022': 2
   '2023': 3
-  '2025': 2
+  '2025': 3
 wordsPerYear:
-  '2006': 26564
+  '2006': 26582
   '2007': 35857
   '2008': 216385
   '2009': 383515
@@ -243,4 +243,4 @@ wordsPerYear:
   '2021': 8513
   '2022': 7041
   '2023': 3781
-  '2025': 2989
+  '2025': 3306

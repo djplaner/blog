@@ -31,10 +31,10 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.instant
     - navigation.tracking
-    - content.tabs.links
+#    - navigation.instant
 #    - navigation.expand 
+    - content.tabs.links
     - navigation.path
 #    - navigation.indexes
     - navigation.footer
@@ -42,7 +42,7 @@ theme:
 #    - toc.follow
 #    - toc.integrate
     - header.autohide
-    - search.suggest
+#    - search.suggest
 markdown_extensions: 
   - pymdownx.arithmatex:
       generic: true
@@ -82,7 +82,7 @@ markdown_extensions:
   - pymdownx.tasklist
   - pymdownx.tilde
 plugins:
-  - search
+#  - search
   - macros:
       module_name: generators/macros
   - social
@@ -102,6 +102,9 @@ plugins:
         - '.*\.(tmp|bin|tar)$'
 extra_css:
   - stylesheets/extra.css
+  - /blog/pagefind/pagefind-ui.css
+extra_javascript:
+  - /blog/pagefind/pagefind-ui.js
 extra:
   social:
   - icon: fontawesome/brands/mastodon
